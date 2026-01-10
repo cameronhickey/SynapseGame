@@ -1,0 +1,6 @@
+TRANSLATE THE NOTED PAIR
+200|Spanish: vida & muerte|life & death
+400|French: soleil & lune|sun & moon
+600|Portuguese: gato & cao, which is not a bovine|cat & dog
+800|Latin: dulcis & acidus|sweet & sour
+1000|Russian: pozhaluysta & spasibo|please & thank you

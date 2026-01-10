@@ -1,0 +1,6 @@
+POKER HANDS
+200|In Texas hold 'em these 2 cards are a "Woolworth\"|a five & a ten
+400|In 5-card poker, "trips" is another name for this hand|three of a kind
+600|I have this: 2 of clubs, 5 of hearts, 5 of spades, 2 of diamonds, 5 of diamonds|a full house
+800|A pair of 8s is called these, which you might find on your lawn in winter|snowmen ("a snowman" accepted)
+1000|If you end up with a straight from the 10 to the ace, it's called this, like a NYC street|a Broadway

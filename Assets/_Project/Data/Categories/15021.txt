@@ -1,0 +1,6 @@
+FUN WITH ELEMENTS
+200|The name of this element begins with a synonym for "automobile\"|carbon
+400|This element, No. 16 on the periodic table, has a pelt at the end of its name|sulfur
+600|You'll find a short term for a graduate of a particular college in this abundant metallic element|aluminum
+800|Atomic number 35, this element begins with the first name of Ichabod Crane's rival|bromine
+1000|This element that's "ph" balanced (it has 2 of them) ends with the name of an Egyptian falcon god|phosphorus

@@ -1,0 +1,6 @@
+FITNESS
+200|Term for weights, like barbells & dumbbells, not attached to a machine|Free weights
+400|Crunches are performed to strengthen these midsection muslces|Abdominals
+600|Astanga is a high-energy type of this discipline whose name is Sanskrit for "union\"|Yoga
+800|During aerobics, your minimum heart rate should be 220 minus this, times .6|Your age
+1000|Pulldown exercises strengthen & build the lats, short for this large back muscle|Latissimus dorsi

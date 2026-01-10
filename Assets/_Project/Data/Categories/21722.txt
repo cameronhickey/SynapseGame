@@ -1,0 +1,6 @@
+4-LETTER FILL IN THE BLANK
+200|\"The handwriting is on the ____\"|the wall
+400|\"Don't have too many irons in the ____\"|fire
+600|\"Loose ____ sink ships\"|lips
+800|\"Don't put the ____ before the horse\"|cart
+1000|\"____ is the thing with feathers that perches in the soul\"|hope

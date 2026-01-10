@@ -1,0 +1,6 @@
+WEATHER GEAR
+200|In winter these are often connected by a string that runs through the sleeves of a child's coat|mittens
+400|This hooded, fur-lined Inuit garment can also be called an anorak|a parka
+600|This raincoat with a glossy name can be made of oilskin, plastic or rubber|a slicker
+800|Its parts include ribs, stretchers & a crook handle|an umbrella
+1000|These sunglasses were introduced in 1929; the "Who's that behind those..." ads began in the 1960s|Foster Grants

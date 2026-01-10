@@ -1,0 +1,6 @@
+PARK PLACE
+200|Longhorn Cavern State Park|Texas
+400|San Simeon State Park|California
+600|Manatee Springs State Park|Florida
+800|Cumberland Falls State Resort Park|Kentucky
+1000|Crater of Diamonds State Park|Arkansas

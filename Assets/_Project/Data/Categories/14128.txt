@@ -1,0 +1,6 @@
+GEOGRAPHY "E\"
+200|It's the largest kingdom in the United Kingdom|England
+400|(Tate: I'm Tate Shaffer aboard the National Geographic Endeavour. Alex: And...) We're here in the Galapagos Islands at zero degrees latitude, which means we're right above this imaginary line that goes all the way around the Earth|the equator
+600|This island in the South Pacific is named for the day of its discovery, a religious holiday|Easter Island
+800|Parts of the Arabian and Libyan deserts are found in this African country|Egypt
+1000|The family history you wrote for school might include entering the U.S. at this island in New York Bay|Ellis Island

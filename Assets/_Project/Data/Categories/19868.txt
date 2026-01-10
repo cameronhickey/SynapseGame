@@ -1,0 +1,6 @@
+THAT'S MY SCIENTIFIC NAME
+200|Equus caballus|a horse
+400|Cygnus atratus|a swan
+600|Vulpes chama|a fox
+800|Apis mellifera|a bee
+1000|Balaenoptera musculus|a blue whale

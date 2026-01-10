@@ -1,0 +1,6 @@
+I AM A CAMERA
+200|In 1947 this company introduced an instant camera that could deliver a finished print in 60 seconds|Polaroid
+400|This "colorful" camera introduced in 1900 cost a mere dollar|the Brownie
+600|Patented around 1938, Vladimir Zworykin's iconoscope was the first practical one of these|TV camera
+800|In 1895 these French brothers invented the cinematographe, which combined a movie camera & a projector|the Lumière Brothers
+1000|This German company introduced the first precision miniature 35 mm camera in 1924|Leica

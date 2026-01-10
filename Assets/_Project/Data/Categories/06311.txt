@@ -1,0 +1,6 @@
+PHYSICS FITNESS
+200|In 1905 this most famous formula was first published in Annalen der Physik|E = mc2
+400|The 4 basic forces that exist in nature are strong, weak, electromagnetic & this one|gravity
+600|Term for the point toward which lines of magnetic flux converge|a pole
+800|His principle states a body floating in a fluid will displace a weight of the fluid equal to its own weight|Archimedes
+1000|In superconductivity this isn't futile, it's basically nonexistent in the material|resistance

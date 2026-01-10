@@ -1,0 +1,6 @@
+TALL U.S. BUILDINGS
+200|The U.S. Steel Tower towers 841 feet above this steel-making city|Pittsburgh
+400|In the center of the picture is the Transamerica Pyramid, a real high point of this West Coast city|San Francisco
+600|The tallest building in a state capital is the Bank of America Plaza on Peachtree St. in this city|Atlanta
+800|Tall buildings in this city include One Federal St. & One Beacon St.|Boston
+1000|A historic New York skyscraper was completed in 1913 to house the headquarters of this five-and-dime store|Woolworth

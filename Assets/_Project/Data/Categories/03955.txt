@@ -1,0 +1,6 @@
+STATE TREES
+200|Its state tree is the candlenut, but locals call it the Kukui|Hawaii
+400|Iowa has 2 of the 3 letters of this, its state tree, in its name|oak
+600|This state tree of Mississppi is famed for its fragrant flowers|magnolia
+800|Georgia's state tree is the "live" type of this, not the dead one|oak
+1000|Its state tree is the Sitka spruce|Alaska

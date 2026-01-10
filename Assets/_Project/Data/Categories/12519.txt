@@ -1,0 +1,6 @@
+STATE THE LANDMARK
+200|Kealakekua Bay, Nuuanu Pali, Akaka Falls|Hawaii
+400|The Mendenhall Glacier, Klondike Gold Rush National Historical Park|Alaska
+600|Delta Blues Museum, Natchez Trace Parkway|Mississippi
+800|Greenfield Village, Kellogg Bird Sanctuary|Michigan
+1000|Zion National Park, Monument Valley|Utah

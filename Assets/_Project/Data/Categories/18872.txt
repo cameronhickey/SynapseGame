@@ -1,0 +1,6 @@
+PIZZA!
+200|Naturally, Hawaiian pizza is topped with this fruit|pineapple
+400|Pizza al funghi is topped with these, perhaps cremini|mushrooms
+600|Papa John's has a pizza called "The Meats": sausage, beef, hickory-smoked bacon, ham & this classic topping|pepperoni
+800|Margherita pizza is topped with tomatoes, fresh mozzarella & leaves of this "royal herb\"|basil
+1000|Quattro stagioni means this; each quarter of the pizza represents one|four seasons

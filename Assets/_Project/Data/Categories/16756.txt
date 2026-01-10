@@ -1,0 +1,6 @@
+THE BURGERS
+200|The Double Quarter Pounder with Cheese|McDonald's
+400|The Bonus Jack|Jack in the Box
+600|Dave's Hot 'n Juicy 1/4 lb. Single|Wendy's
+800|A Crave Case of Sliders|White Castle
+1000|The Bacon Cheeseburger Toaster|Sonic

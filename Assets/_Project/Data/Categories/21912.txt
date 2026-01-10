@@ -1,0 +1,6 @@
+DESCRIBING THE CASINO GAME
+200|It's a wheel that can bring you fortune; bet even or odd; I'm seeing red|roulette
+400|There's no joy in a push; soft numbers, hard choices; a "split" personality|blackjack
+600|The stickman cometh; easy "come", easy go; get the point? Good for you!|craps
+800|Dressed & playing to the 9s; banker's hours; what brings you to Monaco, Mr. Bond?|baccarat
+1000|The joker is semi-wild & dressed as an ace; one hand becomes 2; the Asian name of the game|pai gow poker

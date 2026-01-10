@@ -1,0 +1,6 @@
+\"W\"
+200|The saxophone is a member of this instrument family, not the brass family|woodwinds
+400|In some cultures, instead of becoming this creature of the full moon, men become hyenas instead|werewolf
+600|He was the British prime minister from 1964 to 1970 & again from '74 to '76|Harold Wilson
+800|A system of pipes & reservoirs, or a flood of tears that may be turned on for sympathy|waterworks
+1000|Considered the greatest poet of Medieval Germany, this man from Eschenbach wrote an early epic poem about the Grail|Wolfram von Eschenbach

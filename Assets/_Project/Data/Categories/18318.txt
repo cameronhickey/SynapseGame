@@ -1,0 +1,6 @@
+TYPES OF SALADS
+200|\"Georgia Peach" Ty|a Cobb salad
+400|Celadon or hunter|a green salad
+600|From Thessaloniki or Samothrace|a Greek salad
+800|Thomas Keller or Wolfgang Puck|a chef salad
+1000|Type of golf club or heel on a shoe|a wedge

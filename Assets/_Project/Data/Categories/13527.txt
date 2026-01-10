@@ -1,0 +1,6 @@
+SHOE BRANDS
+200|It's Greek for "victory\"|Nike
+400|A small South African antelope|Reebok
+600|Cougar|Puma
+800|The opposite or the contrary|Converse
+1000|Walk correctly|Stride Rite

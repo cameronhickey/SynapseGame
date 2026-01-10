@@ -1,0 +1,6 @@
+DANGEROUS PLANET
+200|In 1891 one of these battered the Island of Martinique & caused millions of dollars in damage|a hurricane
+400|In June 1953 one of these fatally touched down in Worcester, Massachusetts, far from the Midwest|a tornado
+600|During monsoon season in 1998, this devastated Bangladesh for weeks, marooning thousands on rooftops|flooding
+800|Almost 200,000 buildings were damaged or destroyed when one of these hit Kobe, Japan in 1995|an earthquake
+1000|Sometimes called a tidal wave, one of these in December 2004 devastated large parts of Asia|a tsunami

@@ -1,0 +1,6 @@
+BOOKS ABOUT PRESIDENTS
+200|\"The Man From Plains\"|Jimmy Carter
+400|\"Breach of Faith\"|Richard Nixon
+600|\"Lone Star Rising\"|Lyndon Johnson
+800|\"The Final Days" (1976)|Richard Nixon
+1000|\"The Final Days" (2001)|Bill Clinton

@@ -1,0 +1,6 @@
+LET'S COMMUNICATE
+200|The 2000 Census found it to be the principal foreign language in the U.S., with more than 28 million speakers|Spanish
+400|Karl von Frisch figured out that these insects point in a given direction while dancing, to show where food is|bees
+600|Well into WWI, it was the animal alternative to Marconi's system for sending wireless long-distance messages|pigeons
+800|First developed in France in 1794, this system of communication's name is from the Greek for "sign bearing\"|semaphore
+1000|Founded in 1952, this U.S. agency's primary function is to encode & decode communications intelligence|the National Security Agency

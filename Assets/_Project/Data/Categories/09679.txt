@@ -1,0 +1,6 @@
+CHESS
+200|World champ Garry Kasparov lost a 1997 match to a computer program from this company|IBM
+400|(Sarah of the Clue Crew delivers the clue while demonstrating such a move with Cheryl at a chessboard.) The knight is well suited to this maneuver, that threatens two pieces at one time; it shares its name with a piece of tableware|fork
+600|This late champ patented a now-standard chess clock that gives a player added time after each move|Bobby Fischer
+800|The "Sicilian" one starts with a move by black on the queen's half of the board|a defense
+1000|You can always learn a few moves in this square's park at 5th Ave. & 4th St. in Greenwich Village|Washington Square Park

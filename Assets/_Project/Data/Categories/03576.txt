@@ -1,0 +1,6 @@
+AT GREAT LENGTHS
+200|Length in yards you have to dash to cover an American football field goal line to goal line|100 yards
+400|The Olympic record for tossing one of these is 73 feet, 8 3/4 inches in 1988|a shot put
+600|The greatest length of the Jewish one of these is 385 days|a year
+800|You're at sea if you know this length is 1 mean minute of arc on the meridian|a knot (or nautical mile)
+1000|This distance used in astronomy is abbreviated pc & is equal to 19.2 trillion miles|a parsec

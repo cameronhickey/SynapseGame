@@ -1,0 +1,6 @@
+\"INT"Y FRESH
+200|Hue or dye|tint
+400|A thin piece of rigid material to maintain a body part in a fixed position|a splint
+600|A short race at full speed|a sprint
+800|5-letter word for gleaming brightness or luster|glint
+1000|To look with the eyes partly closed|squint

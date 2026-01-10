@@ -1,0 +1,6 @@
+CENTER FIELD
+200|Skokie, a suburb of this Midwestern city, was known as Niles Center until 1940|Chicago
+400|In Washington you'll find the 3 main theaters of the Kennedy Center for the Performing Arts facing this river|the Potomac
+600|The MacDonnell Ranges cross the Red Centre, a sprawling area in this country's Northern Territory|Australia
+800|This country's highlands are known in Portuguese as Planalto Central|Brazil
+1000|The Salton Sea is due north of this state's city of El Centro|California

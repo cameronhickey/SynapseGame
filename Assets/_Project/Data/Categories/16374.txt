@@ -1,0 +1,6 @@
+WHERE'D YOU GO TO COLLEGE?
+200|Elizabeth Dole & William Styron: this North Carolina university|Duke
+400|Ralph Waldo Emerson & Tommy Lee Jones: this Ivy League school|Harvard
+600|Regis Philbin & Nicholas Sparks: this Catholic college|Notre Dame
+800|Colleagues William Rehnquist & Sandra Day O'Connor: this private school in California|Stanford
+1000|Saul Bellow & Cindy Crawford: this private university in Illinois|Northwestern

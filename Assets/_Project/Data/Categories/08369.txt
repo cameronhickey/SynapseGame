@@ -1,0 +1,6 @@
+LITERARY PLACES
+200|Mordor, Gondor & Hobbiton are located in this place|Middle Earth
+400|At the end of this novel, Yorkshire folks swear that the ghosts of Heathcliff & Cathy walk the moors|Wuthering Heights
+600|Celesteville is the capital of this elephant king's realm in classic children's stories|Babar
+800|After "Heart of Darkness", he wrote "Nostromo" about the imaginary country of Costaguana|Joseph Conrad
+1000|Paul Theroux' novel about an American family settling in Central America is called this "Coast\"|The Mosquito Coast

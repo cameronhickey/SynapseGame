@@ -1,0 +1,6 @@
+BIG PHARMA
+200|Pfounded in 1849, this pharma giant was added to the Dow Jones Industrial Average in 2004|Pfizer
+400|TV hasn't been the same since this government agency relaxed its rules on prescription drug marketing in 1997|the FDA
+600|The Eli who founded this big pharma biggie in 1876 was a former Union army colonel|Lilly
+800|A drug in development from big pharma is "in" this word that's also an object used by big oil|in the pipeline
+1000|Biotech giant Amgen was founded in 1980 as Applied Molecular this|genetics

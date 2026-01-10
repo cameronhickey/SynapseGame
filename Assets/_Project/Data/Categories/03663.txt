@@ -1,0 +1,6 @@
+IF IT'S TUESDAY...
+200|If it's Martedi in Milan, you're speaking this language|Italian
+400|If it's Kayobi in Kyoto, you're speaking this language|Japanese
+600|If it's Triti in Thessaloniki, you're speaking this language|Greek
+800|If it's Youm Al-Tsoulatsa in Yemen, you're speaking this language|Arabic
+1000|If it's Hari Selasa on Sumatra, you're speaking this official language|Indonesian

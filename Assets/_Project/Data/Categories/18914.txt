@@ -1,0 +1,6 @@
+ORDERS OF MAMMALS
+200|The order Lagomorpha is made up of pikas, hares & these|rabbits
+400|Animals like anteaters in the order Pilosa are called edentates, meaning they lack these or have few of them|teeth
+600|An ancient living order of mammals, the Monotremata are oviparous, meaning they do this|lay eggs
+800|Chiroptera is made up exclusively of these, which may be fruit- or insect-eating|bats
+1000|The Proboscidea order only has one living family today, this one|the elephant

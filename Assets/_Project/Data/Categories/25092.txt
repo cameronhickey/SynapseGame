@@ -1,0 +1,6 @@
+HEADS OF GOVERNMENT
+200|Pieter Willem Botha|South Africa
+400|Saddam Hussein al-Tikriti|Iraq
+600|President Hashemi Rafsanjani|Iran
+800|Prime Minister Robert Hawke|Australia
+1000|Marshal Kim Il-sung|North Korea

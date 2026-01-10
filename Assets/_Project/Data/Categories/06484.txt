@@ -1,0 +1,6 @@
+CLEAN 4-LETTER WORDS
+200|Everything "will come out in" this|the wash
+400|Meaning free from dirt or taint, it's used in describing food & drug laws|pure
+600|How you feel when you're happy, or the joy of putting trash in this product's garbage bags, the first plastic ones sold|Glad
+800|The rise & fall of the ocean water, or a detergent that has cleaned clothes for more than 50 years|Tide
+1000|The knob on a radio, or the antibacterial soap you'd use on your hands if the knob was dirty|Dial

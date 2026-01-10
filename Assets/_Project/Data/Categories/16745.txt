@@ -1,0 +1,6 @@
+JOHNNY GILBERT GOES TO THE MOVIES
+200|(Johnny Gilbert reads the clue.) "Mrs. Robinson, you're trying to seduce me... aren't you?\"|The Graduate
+400|(Johnny Gilbert reads the clue.) "Fiddle-dee-dee! war, war, war; the war talk's spoiling all the fun at every party this spring\"|Gone with the Wind
+600|(Johnny Gilbert reads the clue.) "If...you're not with him, you'll regret it. maybe not today. maybe not tomorrow, but soon, & for the rest of your life\"|Casablanca
+800|(Johnny Gilbert reads the clue.) "Hello! my name is Inigo Montoya. You killed my father. Prepare to die\"|The Princess Bride
+1000|(Johnny Gilbert reads the clue.) "I'm funny how, I mean funny like I'm a clown, I amuse you? I make you laugh?... Funny how? How am I funny?\"|Goodfellas

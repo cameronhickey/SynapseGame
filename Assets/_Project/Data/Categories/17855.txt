@@ -1,0 +1,6 @@
+THE "OWL\"
+200|A frown of displeasure|a scowl
+400|The lower part of your cheek|jowl
+600|To roam stealthily|to prowl
+800|A hood for Batman|a cowl
+1000|A person who hunts wild birds for food|a fowler

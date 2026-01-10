@@ -1,0 +1,6 @@
+TIME FOR LEFTOVERS
+200|Of Harvard, USC or Yale, the one that's not an Ivy League college|USC
+400|In a famous work by Herman Melville, Moby Dick is this kind of animal|whale
+600|Of apatosaurus, tyrannosaurus or thesaurus, the one that's not a dinosaur|thesaurus
+800|A king once ruled in what is now this U.S. state found in the Pacific Ocean|Hawaii
+1000|A quindecennial happens every this many years|15

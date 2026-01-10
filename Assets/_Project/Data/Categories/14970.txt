@@ -1,0 +1,6 @@
+BEATLES LAST LINES
+200|\"All the lonely people, where do they all belong?\"|\"Eleanor Rigby\"
+400|\"You were only waiting for this moment to arise\"|\"Blackbird\"
+600|\"My baby don't care, my baby don't care\"|\"Ticket To Ride\"
+800|\"You know I feel all right\"|\"A Hard Day's Night\"
+1000|\"Jai guru deva\"|\"Across The Universe\"

@@ -1,0 +1,6 @@
+COASTAL U.S. STATES
+200|Its Gulf Coast is between Alabama's & Louisiana's|Mississippi
+400|Of the 3 coastal western states in the lower 48, its coast is the shortest at 157 miles|Washington
+600|Bay Head on its famous "shore" was ravaged by Superstorm Sandy|New Jersey
+800|This New England state has the least, a scant 13 miles on the sea|New Hampshire
+1000|Wilmington, near the mouth of the Cape Fear River, is its main seaport|North Carolina

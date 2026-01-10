@@ -1,0 +1,6 @@
+FEELING "ILL\"
+200|It's a boneless portion of fish or meat|Fillet
+400|A woman's brimless hat, or a place for your aspirin|Pillbox
+600|Spock knows it means something that makes no rational sense|illogical
+800|Almost impossible to read|illegible
+1000|Another name for a magician|illusionist

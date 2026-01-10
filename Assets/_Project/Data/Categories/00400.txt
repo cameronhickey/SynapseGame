@@ -1,0 +1,6 @@
+ENERGY
+200|Country that's the world's biggest producer of nuclear energy|the U.S.
+400|Directly and indirectly, most energy comes from this source|the Sun
+600|Machine used to change mechanical energy to electrical energy|a generator
+800|This nation leads the world in oil production|Russia
+1000|The energy of movement|kinetic energy

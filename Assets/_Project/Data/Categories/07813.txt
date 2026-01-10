@@ -1,0 +1,6 @@
+TRY "STAR\"
+200|Overly awed & fascinated in the presence of celebrities|starstruck
+400|Structure from which the 3-year-olds fly forward at Churchill Downs|starting gate
+600|Banner carried by the attackers during Pickett's Charge|\"Stars and Bars\"
+800|An asteroidean echinoderm found in tidepools|starfish
+1000|It's composed mainly of amylose & amylopectin|starch

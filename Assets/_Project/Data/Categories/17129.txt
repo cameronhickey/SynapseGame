@@ -1,0 +1,6 @@
+\"GOOD", "BETTER" & "BEST" MOVIES
+200|A 1950 film featured Jack Carson as one of these famous ice cream vendors|The Good Humor Man
+400|1964 film based on Gore Vidal's play in which the title character didn't win|The Best Man
+600|This 1946 "Best Picture" also won Best Director, Best Actor & Best Supporting Actor Oscars|The Best Years of Our Lives
+800|Film title describing Jack Lemmon who lived next door but pretended he was married to Romy Schneider|Good Neighbor Sam
+1000|Apt title warning of a 1980 horror film, 'cause the Santa Claus who's coming to town is deadly|You Better Watch Out

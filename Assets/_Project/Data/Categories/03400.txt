@@ -1,0 +1,6 @@
+HOCKEY
+200|A depiction of Long Island appears on the logo of this NHL team|the Islanders
+400|A starting lineup consists of 2 defensemen, 3 forwards & this player, the only one allowed to hold the puck|a goalie
+600|Most shots in hockey are wrist shots, or these in which a full backswing is used to gain more force|a slapshot
+800|In 1924 this Boston team became the first from the U.S. to join the NHL|the Bruins
+1000|The game of cricket gave us this term for 3 or more goals scored by a player in a game|a hat trick

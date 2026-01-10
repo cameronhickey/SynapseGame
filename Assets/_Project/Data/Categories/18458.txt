@@ -1,0 +1,6 @@
+WHO'S ON TV?
+200|\"Everybody Loves ____\"|Raymond
+400|\"Everybody Hates ____\"|Chris
+600|\"____ the Teenage Witch\"|Sabrina
+800|\"____ in Charge\"|Charles
+1000|\"____ the Virgin\"|Jane

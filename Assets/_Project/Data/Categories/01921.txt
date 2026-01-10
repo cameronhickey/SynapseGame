@@ -1,0 +1,6 @@
+EVEN WORDS
+200|This term indicates you're matching an expert golfer's score for a round|par
+400|Nautically speaking, if you're in a stable condition you're on "an even" one of these|keel
+600|Horses running evenly in a race are anatomically described as this|neck and neck
+800|A palindromic synonym for even; a bubble-headed carpenter has one|a level
+1000|Scales perfectly balanced are in a state of this, from the Latin for "equal balance\"|equilibrium

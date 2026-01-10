@@ -1,0 +1,6 @@
+GLOBIN\'
+200|This Himalayan peak is also known as Sagarmatha & Chomolungma|Mount Everest
+400|In French, this country's name is Papouasie-Nouvelle-Guinee|Papua New Guinea
+600|The Juan de Fuca Strait separates parts of the U.S. from this country|Canada
+800|India & Pakistan have bordering regions with this same name meaning land of "5 Rivers\"|Punjab
+1000|The name of this country's capital city, Ulaanbaatar, means "red hero" in English|Mongolia

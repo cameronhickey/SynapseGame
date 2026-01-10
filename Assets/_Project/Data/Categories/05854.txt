@@ -1,0 +1,6 @@
+NHL TEAMS
+200|The name of Canada's capital's NHL team, it was once the name of the U.S. capital's AL team|Senators
+400|On June 14, 1994 they beat Vancouver at the Gahden for their first Stanley Cup since 1940|New York Rangers
+600|For much of the '80s, '90s & 2000s, Mario Lemieux was their team captain|the (Pittsburgh) Penguins
+800|With 24, including one pre-NHL victory, they've won the most Stanley Cups|the (Montreal) Canadiens
+1000|This alliterative team is the oldest NHL team in the U.S.|the Boston Bruins

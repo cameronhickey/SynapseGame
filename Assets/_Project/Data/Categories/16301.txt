@@ -1,0 +1,6 @@
+IT'S A GAMBLE
+200|An opening dice throw of 2, 3 or 12 is a loser in this game|craps
+400|A joker is added to the 52-card deck in this Asian version of poker where you make both 5- & 2-card hands|pai gow
+600|The game's afoot, Mr. Bond! 9 is the magic number in this card game that features a banker|baccarat
+800|It's the bet in which you select just the 1st & 2nd place horses in specific finishing order|the exacta
+1000|A wager on the jersey number of the player to score the first touchdown in the Super Bowl is this 4-letter bet|a prop bet

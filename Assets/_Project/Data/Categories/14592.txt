@@ -1,0 +1,6 @@
+PRESIDENT TYLER
+200|John Tyler was one of the 4 presidents from this bygone political party|the Whig Party
+400|In 1844 a treaty signed by Tyler's envoy in Wanghia opened up trade with this Asian country|China
+600|Like Patrick Henry before him, Tyler was governor of this state|Virginia
+800|At the instigation of Rep. John Minor Botts, Tyler was the first pres. to have this type of resolution aimed at him|impeachment
+1000|With 1842's Webster-Ashburton treaty, Tyler set the boundary between New Brunswick & this state|Maine

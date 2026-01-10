@@ -1,0 +1,6 @@
+LET'S LEARN SOME SEMAPHORE
+200|At least one of us on stage has this name|Alex
+400|If you need to semaphore for help, these 3 letters here will do just fine|SOS
+600|This in the clue is much worse than its bite|bark
+800|Listen up, it's the body part semaphored here|ear
+1000|Stop, yield, then go one way to this 4-letter term|sign

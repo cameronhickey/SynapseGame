@@ -1,0 +1,6 @@
+DECODE THE PERSONAL AD
+200|To start with, S. is for this|single
+400|She's an S.A.F., the A. for this ethnic origin|Asian
+600|Physically, this S.A.F. is H.W.P., height & weight this|proportional
+800|Nothing casual for this S.A.F., H.W.P. — she wants this, an L.T.R.|long-term relationship
+1000|The S.A.M. whom this S.A.F. wants an L.T.R. with has to be N.S.N.D., for this|non-smoking, non-drinking

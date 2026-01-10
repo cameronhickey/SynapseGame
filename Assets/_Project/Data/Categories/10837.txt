@@ -1,0 +1,6 @@
+PARENTS
+200|In the Bible, King Solomon takes the throne of this man, his father|David
+400|After his parents died, this poet was raised by his wealthy foster father, John Allan|Edgar Allan Poe
+600|Maiden name of the mother of Martin Luther King III|Scott
+800|A college student studying voice when her father was U.S. president, she went on to be a bestselling author|(Margaret) Truman
+1000|Quite a writer herself, she was the mother of Mary Shelley|Mary Wollstonecraft

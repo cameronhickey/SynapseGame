@@ -1,0 +1,6 @@
+WATER
+200|Where 97% of all Earth's water is located|the oceans
+400|They sang "Cool Water": "All day I face the barren waste / Without a taste of water / Cool water / Old Dan and I / Our throats slate dry\"|the Sons of the Pioneers
+600|A sewing needle will float on the surface of water because of this property|surface tension
+800|Some cities add lime to their water, not to flavor it, but to prevent this type of decay|pipe decay (rusty pipes)
+1000|Though industry uses more water than any other material, it uses most of it for this|cooling

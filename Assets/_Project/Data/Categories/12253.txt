@@ -1,0 +1,6 @@
+AFRICA'S OFFICIAL LANGUAGES
+200|In Benin: this|French
+400|In Gabon: this|French
+600|In Cameroon: English & this|French
+800|In Equatorial Guinea: Spanish & this|French
+1000|In Rwanda: Kinyarwanda, French & this|English

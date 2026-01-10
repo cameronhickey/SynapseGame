@@ -1,0 +1,6 @@
+FROM THE NEW WORLD
+200|While ice cream came from the Old World, these 2 most popular flavorings came from the New|chocolate & vanilla
+400|Both the bell & chili varieties of these were taken to Europe|peppers
+600|Catherine the Great pushed this as an antidote to famine & vodka soon followed|the potato
+800|Columbus took back this vegetable, calling it most tasty boiled, roasted or ground into flour|corn
+1000|Since the Ital. "pomodoro" means "golden apple", the 1st of these to reach Eur. were probably yellow|tomatoes

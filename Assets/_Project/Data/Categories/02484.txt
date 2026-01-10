@@ -1,0 +1,6 @@
+MINORITIES
+200|The name of the Montagnards, a Vietnamese minority, means "highlander" or "mountain man" in this language|French
+400|The Nubians live along the Nile in the southern part of this country|Egypt
+600|Albanians form the largest minority group in this Balkan republic whose capital is Belgrade|Yugoslavia (or Serbia)
+800|A small German-speaking minority lives on the eastern edge of this country's region of Wallonia|Belgium
+1000|In 1988 thousands of Kurds were killed by the armed forces of this country — some by poison gas|Iraq

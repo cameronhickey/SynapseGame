@@ -1,0 +1,6 @@
+UNITED "STATE"S
+200|It's a private compartment on a ship or train|Stateroom
+400|Created in 1789, it replaced Foreign Affairs in the U.S. cabinet|Department of State
+600|On January 19, 1999 this speech was given to the combined houses of Congress|State of the Union
+800|When something is at the highest level of current development, it's described with this 4-word phrase|State of the art
+1000|A Nittany Lion could tell you this city is home to Penn State's main campus|State College

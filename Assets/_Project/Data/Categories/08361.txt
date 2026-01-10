@@ -1,0 +1,6 @@
+SOUNDS THE SAME
+200|Feeble, or 7 days|weak/week
+400|Your lips say "No, no, no," but these say "Yes, yes, yes\"|eyes/ayes
+600|Very sage, or a pair of the letter after X|wise/Ys
+800|To find & dig out this metal containing material with this boating implement would be a stroke of luck|ore/oar
+1000|Reasonable, or a payment for travel|fair/fare

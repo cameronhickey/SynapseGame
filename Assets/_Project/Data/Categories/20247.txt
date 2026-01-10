@@ -1,0 +1,6 @@
+AN OO SOUND
+200|A female with dark brown hair|a brunette
+400|The late guitarist B.B. King was called the king of this musical genre|blues
+600|A plaintiff, or a man who courts a woman|a suitor
+800|This closed 2-door auto is shorter than a sedan of the same model|a coupe
+1000|From the French for "I commend you to God", it means farewell|adieu

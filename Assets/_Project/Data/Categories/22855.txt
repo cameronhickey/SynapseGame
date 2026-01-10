@@ -1,0 +1,6 @@
+2 LETTERS, ENDS IN "E\"
+200|That male, in singular pronoun form|he
+400|It's used in French personal names to show place of origin|de
+600|The "royal" one is used formally by a monarch to refer to him or herself|we
+800|In the case of|re
+1000|Plural of thou, when talking to a group|ye

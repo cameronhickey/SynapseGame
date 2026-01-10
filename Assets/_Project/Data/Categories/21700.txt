@@ -1,0 +1,6 @@
+ACRONYMS & INITIALISMS
+200|When filling out a form, DOB is this|date of birth
+400|Hopefully, you never get to the hospital DOA, this|dead on arrival
+600|The use of this 6-letter acronym for our country's highest court actually goes back to 1879|SCOTUS
+800|In 2018 this dividing strip of land was the site of a historic meeting between Kim Jong Un & South Korea's president|the DMZ
+1000|The SWAT team has arrived bearing these, the S-W in its name|special weapons

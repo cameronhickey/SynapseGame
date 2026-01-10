@@ -1,0 +1,6 @@
+SING!
+200|Wham!|George Michael
+400|Dire Straits|Mark Knopfler
+600|The Talking Heads|David Byrne
+800|Smashing Pumpkins|Billy Corgan
+1000|The Clash|Joe Strummer

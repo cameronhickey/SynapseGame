@@ -1,0 +1,6 @@
+COUNTRIES' NEWSPAPERS
+200|The Hindustan Times|India
+400|The Guadalajara Reporter|Mexico
+600|The Hamilton Spectator|Canada
+800|The Cape Argus|South Africa
+1000|Muscat Daily|Oman

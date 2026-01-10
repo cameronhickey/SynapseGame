@@ -1,0 +1,6 @@
+STARTS WITH "R\"
+200|If you're basking on the beach in Cannes, you're on a strip known as this|Riviera
+400|In 1903 a King in America introduced a safety one of these instruments|Razor
+600|From Latin for "inventory", it's the list of songs you're prepared to perform|repertoire
+800|(Cheryl of the Clue Crew reports from FBI Headquarters in Washington.) Known as this, the grooves cut into the barrel help investigators match a bullet to a gun|the rifling
+1000|In cooking, it's an equal amount of butter & flour mixed & browned for sauces|a roux

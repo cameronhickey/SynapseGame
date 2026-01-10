@@ -1,0 +1,6 @@
+\"STOP" & "GO\"
+200|It's called the "peach of the tropics\"|a mango
+400|It's a brief appearance by a politician in a small town, traditionally on the rear platform of a train|a whistle stop
+600|In captivity this bird is fed a diet containing carotenoid pigments to maintain the color of its plumage|a flamingo
+800|On a camera, it's the setting of an adjustable lens aperture indicated by a number, such as 1.4 or 11|an f-stop
+1000|A highlight of this 1956 film is a rendition of "That Old Black Magic" by Marilyn Monroe, who plays Cherie, a saloon singer|Bus Stop

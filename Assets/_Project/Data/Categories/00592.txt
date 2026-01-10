@@ -1,0 +1,6 @@
+NORTH AMERICA
+200|The only U.S. state not on the North American mainland|Hawaii
+400|Mexico's Popocatepetl & Ixtacihuatl, for example|volcanoes
+600|Famous 1897 gold rush took place in the Klondike in this territory|the Yukon Territory
+800|This British dependency in the Atlantic forms the most northerly group of coral islands in the world|Bermuda
+1000|Direction you'd be traveling when going through the Panama Canal from the Pacific to the Atlantic side|northwesterly

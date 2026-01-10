@@ -1,0 +1,6 @@
+TURN ON YOUR COMPUTER
+200|Of Flash, Google or AltaVista, the one that's not a popular Internet search engine|Flash
+400|This 2-letter Windows computer operating system was introduced in October 2001|XP
+600|Abbreviated BB, it's a popular data-transmission method capable of sending multiple channels at once|broadband
+800|In computerese, it's what the P stands for in the abbreviation HTTP|protocol
+1000|The forerunner to the Internet known as the ARPANET was a 1960s network by this U.S. government dept.|Defense

@@ -1,0 +1,6 @@
+POST-WAR WORLD
+200|On April 4, 1951, Truman relieved him of his military command in Korea|MacArthur
+400|At Fulton, MO in '46, Winston Churchill said this had spread across Europe|an iron curtain
+600|In 1951, this country took over Tibet|China
+800|50,000 lives were lost when this country rose in revolt against Soviets in '56|Hungary
+1000|Though still a NATO member, this country withdrew its forces from NATO command in 1966|France

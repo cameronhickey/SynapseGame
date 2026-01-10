@@ -1,0 +1,6 @@
+MOVIE SETTINGS
+200|The apartment in "The Apartment" was in this city where it's hard to find an apartment|New York City
+400|In "Family Plot" Hitchcock revisited this city used as setting for "Vertigo\"|San Francisco
+600|The 2 countries in which Indiana Jones found the "Lost Ark" & "The Temple of Doom\"|Egypt & India
+800|California city from which Clint Eastwood would "Play Misty for Me" every night|Monterey
+1000|Though actually filmed in Mexico, "Romancing the Stone" was set in this S. Amer. country known for emeralds|Colombia

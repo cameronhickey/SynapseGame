@@ -1,0 +1,6 @@
+BIRDS IN BOOK TITLES
+200|\"Mockingbird" is Charles Shields' portrait of this author & the creation of her most acclaimed work|Harper Lee
+400|\"Skylark" is Patricia MacLachlan's follow-up to her novel about this young woman who was "Plain & Tall\"|Sarah
+600|Beatrix Potter wrote & illustrated "The Tale of" this puddle-duck|Jemima
+800|Henry James told a tale of a dying heiress in "The Wings of" this bird|the Dove
+1000|In "A Feast of Crows" by George R.R. Martin, this family of Jaime & Cersei rules from the iron throne|Lannister

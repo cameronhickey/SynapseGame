@@ -1,0 +1,6 @@
+GEO. ABBREV.
+200|lat. & long.|latitude & longitude
+400|Bos. and Herz.|Bosnia and Herzegovina
+600|Yorks.|Yorkshire
+800|S.S.R.|Soviet Socialist Republics
+1000|A.F.B.|Air Force Base

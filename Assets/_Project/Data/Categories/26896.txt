@@ -1,0 +1,6 @@
+\"B" COUNTRIES
+200|Caribbean nation whose name came from a fig tree, Ficus barbata|Barbados
+400|The largest country in area to begin with "B" & the fifth largest overall|Brazil
+600|This country is the only island nation in the Persian Gulf|Bahrain
+800|The taka, which replaced the Pakistan rupee in 1972, is this country's basic unit of curency|Bangladesh
+1000|It was the last Central American country to gain its independence|Belize

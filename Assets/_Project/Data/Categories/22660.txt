@@ -1,0 +1,6 @@
+ANATOMICAL IDIOMS
+200|Madly in love: "Head over ____\"|heels
+400|Ironically: "____ in cheek\"|tongue
+600|Laugh uncontrollably: "Bust a ____\"|gut
+800|Inseparable or "joined at the ____\"|hip
+1000|To be personally vested: "Have ____ in the game\"|skin

@@ -1,0 +1,6 @@
+MOVIE TITLE MIDDLE WORD
+200|Henry Fonda & a jury decide a fate (1957)|\"Angry\"
+400|O'shea Jackson Jr. plays Ice Cube (his dad) (2015)|\"Outta\"
+600|Robin Williams tells his students to seize the day (1989)|\"Poets\"
+800|Hilary Swank hits like a girl—a really, really powerful girl (2004)|\"Dollar\"
+1000|Adam Sandler takes out Drew Barrymore over & over (2004)|\"First\"

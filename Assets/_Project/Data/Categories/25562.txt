@@ -1,0 +1,6 @@
+RELAX, IT'S MATH
+200|From Latin for "twice" & "cut", it means to divide a line or figure into 2 equal parts|bisect
+400|\"Like fractions" have the same this, making it easy to add & subtract them|denominators
+600|In a Tom Lehrer song, a movie called "The Eternal Triangle" stars Ingrid Bergman as this longest side of a right triangle|a hypotenuse
+800|It's a constant that multiplies a variable; in physics, there's a well-known one "of friction\"|a coefficient
+1000|These coordinates named for a 17th c. man describe the position of points in space in relation to an x-axis & y-axis|Cartesian

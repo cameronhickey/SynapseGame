@@ -1,0 +1,6 @@
+2-WORD CAPITALS
+200|The name of this capital of El Salvador is similar to the name of the country|San Salvador
+400|Of the capitals of South Africa, it's the only one that fits the category|Cape Town
+600|Do you know the way to this capital of Costa Rica?|San José
+800|This Ethiopian capital whose name means "new flower" was founded by Emperor Menelik II in 1887|Addis Ababa
+1000|This Asian capital was built between 1912 & '29 & designed by the British architect Lutyens|New Delhi

@@ -1,0 +1,6 @@
+GEOMETRY
+200|Any flat, level surface, like a runway or a carrier deck|a plane
+400|Schoolchild's instrument used for measuring & constructing angles|a protractor
+600|A closed curve in which every point is equidistant from the center|a circle
+800|An equilateral, equiangular tetrahedron|a square
+1000|His "Elements" is the basis for the modern science of geometry|Euclid

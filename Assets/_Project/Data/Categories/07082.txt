@@ -1,0 +1,6 @@
+STAR TREK 101
+200|These hand weapons used by an Enterprise crew can be set from stun to disrupt|phasers
+400|(Hi, I'm Roxann Dawson.) As chief engineer, B'Elanna Torres is in charge of this drive that mixes matter & antimatter|warp drive
+600|Majel Barrett, the computer voice you hear in the TV shows & films, is the widow of this creator of "Star Trek\"|Gene Roddenberry
+800|(Hi I'm Robert Duncan McNeill.) Tom Paris' father is an admiral in this arm of the Federation|Starfleet
+1000|(Hello, I'm Armin Shimerman.) A knowledgeable Ferengi knows there are 285 rules of this, the 1st one being "Once you have their money never give it back\"|acquisition

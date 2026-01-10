@@ -1,0 +1,6 @@
+PULITZER FOR FICTION AUTOCORRECTS
+200|\"The Confessions of Tina Turner\"|Nat Turner
+400|\"The Breakdancing of San Luis Rey\"|The Bridge
+600|\"Beheaded" (by Toni Morrison)|Beloved
+800|\"Humboldt's Goiter\"|Humboldt's Gift
+1000|\"Advise and Congeal\"|Consent

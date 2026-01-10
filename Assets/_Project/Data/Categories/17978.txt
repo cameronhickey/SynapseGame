@@ -1,0 +1,6 @@
+SWEET PRINTS
+200|We've spotted tracks of this animal, perhaps headed back to its pride|a lion
+400|The sea type of one of these reptiles left big tracks|a turtle
+600|Careful—one of these big beasts is around|a polar bear
+800|An Australian canid passed by, & this is its name-o|a dingo
+1000|This big bird left some noticeable tracks, but don't bother looking for the spot where it flew off|an ostrich

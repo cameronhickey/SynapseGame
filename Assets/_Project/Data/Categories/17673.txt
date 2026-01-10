@@ -1,0 +1,6 @@
+CABLE NETWORKS
+200|\"Gettysburg" & "God, Guns & Automobiles\"|the History Channel
+400|\"Girlfriends" & "The Hip Hop Awards\"|BET
+600|\"Too Cute" & "River Monsters\"|Animal Planet
+800|\"Army Wives" & "24 Hour Catwalk\"|Lifetime
+1000|\"Total Blackout" & "Sharknado\"|Syfy

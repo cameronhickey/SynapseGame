@@ -1,0 +1,6 @@
+LEGAL TERMS
+200|(Judge Maria Lopez reads the clue.) Well, I know we've all enjoyed the trial, but it looks like the jury has reached this, from the Latin for "true speech\"|a verdict
+400|Your partner in crime didn't show up for court? He may get one of these orders that will compel him to testify|a subpoena
+600|(Judge David Young reads the clue.) This legal term may sound like a rich cake, but actually it refers to a civil wrong|a tort
+800|Lending money? Be sure to ask for one of these notes in which the borrower agrees to pay it back|promissory
+1000|(Judge Hatchett reads the clue.) Your parrot got loose & pecked your neighbor so severely that you are charged with this type of negligence, likely to result in grave injury|gross negligence

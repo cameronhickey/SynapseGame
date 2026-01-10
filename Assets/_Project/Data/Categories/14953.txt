@@ -1,0 +1,6 @@
+\"P-S-P\"
+200|An association of at least 2 people joined by a contract in a business|a partnership
+400|This is a place where personal property is left as security in exchange for a money loan|a pawnshop
+600|This plant has a large, white edible root|parsnip
+800|This software was called Display & also ImagePro before Adobe bought it|Photoshop
+1000|6-letter term for care after surgery|post-op

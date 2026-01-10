@@ -1,0 +1,6 @@
+GEEK SQUAD
+200|(A Geek hooks up a video game console.) If you really want to pwn n00bs, we'll connect this gaming system which is the only one that uses Bluetooth & Blu-Ray technologies|PlayStation 3
+400|(A Geek shows off an EVDO card.) An EVDO card gives you anywhere-broadband Internet access via a cell phone provider that uses 3G technology; 3G stands for this|third generation
+600|(A Geek demonstrates a piece of hardware.) If you lose your broadband connection, one of the problems might be this device that can allow wireless connection to other devices or the Internet|a router
+800|(A Geek demonstrates a non-traditional modem.) If your home can't be wired with Ethernet or use wireless devices, we can install this type of technology allowing networking using your traditional electrical outlets|power-line networking
+1000|(A Geek indicates a computer port.) Today it's easy connecting devices by using USB; older computers use 2 types of ports, parallel & this one|serial

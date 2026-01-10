@@ -1,0 +1,6 @@
+DOCS
+200|He not only developed an oral polio vaccine but vaccines for dengue fever & encephalitis|Albert Sabin
+400|Many Americans can give their heartfelt thanks to this Houston surgeon, the first to repair an aneurysm|Michael DeBakey
+600|In 1967 this pediatrician resigned as a college teacher to join the antiwar movement full-time|Dr. Benjamin Spock
+800|In 1778 this smallpox vaccine developer wrote a paper on the murderous habits of the young cuckoo bird|Edward Jenner
+1000|Hans Selye pioneered the study of this & wrote a book about it "without distress\"|Stress

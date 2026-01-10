@@ -1,0 +1,6 @@
+FROM THE HEADLINES
+200|The Washington Post, November 10, 1989: "East Germany opens" this "and borders\"|the Berlin Wall
+400|The Tampa Tribune, May 24, 1934: this pair "die with hands clutching guns\"|Bonnie & Clyde
+600|The Oregonian, May 19, 1980: "Eruption decapitates" this peak|Mount St. Helens
+800|This U.S. city's Free Press, November 7, 1973: "Young elected city's first Black mayor\"|Detroit
+1000|The San Francisco Chronicle, October 11, 1973: this man from Maryland "resigns\"|Spiro Agnew

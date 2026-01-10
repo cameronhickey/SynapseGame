@@ -1,0 +1,6 @@
+IRON, MAN
+200|The irons used in this sport may be either "cast" or "forged\"|golf
+400|The most common form of steel is named for this element that alloys with the iron|carbon
+600|Common iron consists of a mixture of 4 of these, iron-54 , iron-56, iron-57 & iron-58|isotopes
+800|Fe2O3 is one chemical formula for this common word, aka iron oxide|rust
+1000|Iron is necessary for the formation of this blood protein that transports oxygen to the tissues|hemoglobin

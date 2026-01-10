@@ -1,0 +1,6 @@
+NAME THE WORK
+200|Cervantes: "At a village of La Mancha, whose name I do not wish to remember\"|Don Quixote
+400|Verne: "Certainly an Englishman, it was more doubtful whether Phileas Fogg was a Londoner\"|Around the World in Eighty Days
+600|Melville: "Captain Vere was an exceptional character\"|Billy Budd
+800|Jack London: "'The Ghost' was rolling slightly on a calm sea without a breath of wind\"|The Sea Wolf
+1000|O. Henry: "Tomorrow would be Christmas Day, and she had only $1.87 with which to buy Jim a present\"|\"The Gift of the Magi\"

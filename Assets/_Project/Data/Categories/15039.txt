@@ -1,0 +1,6 @@
+CHILDREN'S BOOK NAMES
+200|Margaret & H.A. Rey: "The Complete Adventures of Curious ____\"|George
+400|Beatrix Potter: "The Tale of ____ Bunny" (not "The Curious Case of ____ Bunny")|Benjamin
+600|Roald Dahl: "____ and the Great Glass Elevator" (a sequel)|Charlie
+800|Jane O'Connor & Robin Preiss Glasser: "Fancy ____" (it rhymes)|Nancy
+1000|Beverly Cleary: "Runaway ____" (it's alliterative)|Ralph

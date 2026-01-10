@@ -1,0 +1,6 @@
+MOVIE ROLES
+200|[Hi, I'm Earl Brown] Because we look so much alike, I was cast as Warren, this actress' brother in "There's Something About Mary\"|Cameron Diaz
+400|This actress spent "Six Days, Seven Nights" on an island with Harrison Ford|Anne Heche
+600|He played a movie executive with a screenwriter problem in 1992's "The Player\"|Tim Robbins
+800|She was married to Kenneth Branagh when they played sparring lovers in 1993's "Much Ado About Nothing\"|Emma Thompson
+1000|As Bela Lugosi, Martin Landau wrestled a fake octopus in this 1994 film biography|Ed Wood

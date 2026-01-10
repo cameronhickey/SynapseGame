@@ -1,0 +1,6 @@
+FINANCE
+200|Generally, it's any "plan" set up by employers to pay retirees|a pension plan
+400|The Truth In Lending Act made lenders reveal the APR, which stands for this|the annual percentage rate
+600|Profits from the company distributed to the stockholders; big firms may pay them quarterly|dividends
+800|As opposed to a charge card, this type takes the money out of your bank account as you spend it|a debit card
+1000|It's the S in NASDAQ|Securities

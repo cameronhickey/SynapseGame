@@ -1,0 +1,6 @@
+GREEK ALPHABET SOUP
+200|First used in 1706 by William Jones, it's the symbol for the ratio of the circumference of a circle to its diameter|Pi
+400|An alluvial deposit at the mouth of a river|Delta
+600|This multiple star in Centaurus is 4.3 light years from Earth|Alpha Centauri
+800|These rays are emitted by radioactive decay mostly in a range from 50,000 to 60 million electron volts|Gamma rays
+1000|This Greek letter appears in the title of a 1971 film in which Charlton Heston thinks he's the last man on Earth|Omega (The Omega Man)

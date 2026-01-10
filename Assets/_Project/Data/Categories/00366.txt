@@ -1,0 +1,6 @@
+NATURE
+200|A table-top enclosure for raising & observing plants or animals|terrarium
+400|Tropical woods with at least 100 inches of precipitation annually|rainforests
+600|The mugger, known for its broad snout, is an Asian type of this large reptile|a crocodile
+800|Named for its habit of drinking sap from trees, the sapsucker is a species of this bird|the woodpecker
+1000|Many mouselike types of this marsupial live in Central & South America|the opossums

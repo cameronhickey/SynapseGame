@@ -1,0 +1,6 @@
+NATION OF THE AIRLINES
+200|Aegean Air|Greece
+400|Edelweiss Air|Switzerland
+600|Air Indus, K2 Airways|Pakistan
+800|Canaryfly, Iberia|Spain
+1000|Yeti Airlines, Buddha Air|Nepal

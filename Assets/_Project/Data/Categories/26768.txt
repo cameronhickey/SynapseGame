@@ -1,0 +1,6 @@
+\"DRY\"
+200|Type of store to which you'd go if you wanted to buy a piece of gingham|a dry goods store
+400|In 1988 Orel Hershiser broke this pitcher's record for consecutive scoreless innings|Don Drysdale
+600|Perchloro-ethylene, Val-Clean, or the person who makes a living using them|a dry cleaner
+800|This fungus disease can turn good timber into powder|dry rot
+1000|Poet Laureate who lost his job when he refused to take oaths to William & Mary|(John) Dryden

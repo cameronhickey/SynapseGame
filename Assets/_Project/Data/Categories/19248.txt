@@ -1,0 +1,6 @@
+FOR YOUR SUPPER
+200|Of cheese, seafood, or dessert, it's what you're having if fruits de mer is on the menu|seafood
+400|Larb & yum are Thai types of this relatively healthful food preparation, with a lot more than lettuce|salad
+600|Albondigas is a traditional Mexican this; it's the meatball type, so it's awesome as an entree|soup
+800|Fans of "Hell's Kitchen" are used to hearing Gordon Ramsay yelling about the status of this dish|Beef Wellington
+1000|A dish of red snapper in a spicy tomato sauce is named for this state in Eastern Mexico|Veracruz

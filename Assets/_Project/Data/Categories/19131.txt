@@ -1,0 +1,6 @@
+GEOGRAPHIC ABBREV.
+200|It's the SF in the airport code SFO|San Francisco
+400|AS: This U.S. Pacific territory|American Samoa
+600|SL: This West African nation|Sierra Leone
+800|MB: This Canadian province|Manitoba
+1000|BH: This nation, a former Yugoslav republic|Bosnia and Herzegovina

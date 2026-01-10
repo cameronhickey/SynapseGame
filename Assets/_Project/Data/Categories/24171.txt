@@ -1,0 +1,6 @@
+HYPHENATED WORDS
+200|An amusement park ride in which horsies & tigers revolve about a fixed point in the center|a merry-go-round
+400|You go through this process at an airport counter or a hotel front desk|check-in
+600|In New York City, it's illegal for passenger vehicles to do this; delivery trucks may, but without blocking a bicycle lane|double-park
+800|It describes a fever from roughly 99 to 100.5 degrees Fahrenheit|low-grade
+1000|Legal when done by the government, illegal when done by competitors, it's the artificial setting of an amount charged for goods|price-fixing

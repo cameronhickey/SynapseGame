@@ -1,0 +1,6 @@
+IN THE MIDDLE WITH "U\"
+200|To kidnap|to abduct
+400|This type of government is mentioned in the Pledge of Allegiance|a republic
+600|Headaches & nausea may accompany this injury to the brain, often caused by a jarring blow to the head|a concussion
+800|It can mean ability, the powers of the mind, or a school's teaching staff|faculty
+1000|This device is used in an internal-combustion engine to produce an explosive mixture of vaporized fuel & air|a carburetor

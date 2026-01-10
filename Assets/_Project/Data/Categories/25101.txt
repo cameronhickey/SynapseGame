@@ -1,0 +1,6 @@
+THE PLANT KINGDOM
+200|The broad, flat portion of a leaf, or a single piece of grass|a blade
+400|Paleobotony is the study of plants in this form|fossils
+600|Turpentine is most commonly a by-product of this tree|a pine tree
+800|It's the term applied to the dark center of certain flowers or the sunken buds on certain tubers|the eye
+1000|This flower organ is made up of an ovary, style, & stigma|the pistil

@@ -1,0 +1,6 @@
+COMPUTER CONNECTIONS
+200|Term for a system of interconnected computers & devices; a LAN is a "local area" one|a network
+400|Nations get their own domain extensions; .dk is the one for this country|Denmark
+600|World Wide Web inventor Tim Berners-Lee gets questions like "Why are links" this color?—"There is no reason\"|blue
+800|Your online shopping cart couldn't stay up to date without these data packets that help websites track you|cookies
+1000|Microsoft's Internet Explorer uses "favorites" where other browsers use this word from the non-wired world|bookmarks

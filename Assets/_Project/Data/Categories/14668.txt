@@ -1,0 +1,6 @@
+ACTORS WHO DIRECT
+200|\"Rocky II", "III" & "IV\"|Sylvester Stallone
+400|\"Million Dollar Baby" & "Unforgiven\"|Clint Eastwood
+600|\"The Pledge" & "Into the Wild\"|Sean Penn
+800|\"The Great Debaters\"|Denzel Washington
+1000|\"A Bronx Tale\"|Robert De Niro

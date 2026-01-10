@@ -1,0 +1,6 @@
+STATES' FORMER GOVERNORS
+200|Earl Warren & Jerry Brown|California
+400|James S. Hogg & Frances R. Lubbock|Texas
+600|George W. P. Hunt & Bruce Babbit|Arizona
+800|Lurleen Wallace & Guy Hunt|Alabama
+1000|Henry Lee & Fitzhugh Lee|Virginia

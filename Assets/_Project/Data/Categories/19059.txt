@@ -1,0 +1,6 @@
+STATE CAPITAL RIVERS
+200|The Hudson River|Albany (New York)
+400|The Charles River|Boston
+600|The Mississippi River—2 cities at opposite ends of the river|Baton Rouge & St. Paul
+800|The Susquehanna River|Harrisburg
+1000|The Chattahoochee River|Atlanta

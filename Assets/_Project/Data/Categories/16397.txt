@@ -1,0 +1,6 @@
+OLYMPIC HOST CITIES
+200|This world capital on the Gulf of Finland boasts a railway station designed by Eliel Saarinen|Helsinki
+400|A 2-time Olympic host, this New York village has a population of around 2,500|Lake Placid
+600|Norway has hosted the Olympics twice—in Oslo in 1952 & in this small town in 1994|Lillehammer
+800|Most of its more than 14 million people are ethnically Han|Beijing
+1000|30 miles east of the Yellow Sea, this city boasts the Changdok Palace, which dates back to 1405|Seoul

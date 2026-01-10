@@ -1,0 +1,6 @@
+COMPUTER ABBREVIATIONS
+200|The "B" in COBOL|business
+400|The "P" in JPEG|photographic
+600|The "D" in a DoS attack|denial
+800|The second "T" in HTTP|transfer or transport
+1000|The "RT" in RTOS|real-time

@@ -1,0 +1,6 @@
+TEAM NICKNAMES BY CITY
+200|San Diego MLB|the Padres
+400|Kansas City, NFL|the Chiefs
+600|Oklahoma City, NBA|the Thunder
+800|Los Angeles, MLS|the Galaxy
+1000|Vancouver, NHL|the Canucks

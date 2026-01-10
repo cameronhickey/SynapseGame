@@ -1,0 +1,6 @@
+WHAT THE HECK IS THAT CRITTER?
+200|A Guernsey|a cow
+400|A leghorn|a chicken
+600|A Lipizzaner|a horse
+800|A Thomson's|a gazelle
+1000|A Poland China|a pig

@@ -1,0 +1,6 @@
+ZOO LAND
+200|Rostov-on-Don zoo|Russia
+400|Nehru zoological park|India
+600|Hai Bar Carmel nature reserve|Israel
+800|Tennoji zoo|Japan
+1000|Attica zoological park|Greece

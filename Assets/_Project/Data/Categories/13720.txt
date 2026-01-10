@@ -1,0 +1,6 @@
+LET'S VISIT A MUSEUM
+200|The biggest attraction at the Ronald Reagan library & museum is this presidential plane that you can walk through|Air Force One
+400|Exhibits at this museum in 2009 included "Woodstock: the 40th anniversary" & a Michael Jackson memorial wall|the Rock and Roll Hall of Fame
+600|At the National Museum of Crime & Punishment in D.C. you can see the studio where John Walsh hosts this long-running show|America's Most Wanted
+800|At the Acropolis museum in Athens, you'll find a whole gallery devoted to this ancient temple of Athena|the Parthenon
+1000|In China don't miss the Dingling Museum, which includes the tomb of the 13th emperor of this dynasty|Ming

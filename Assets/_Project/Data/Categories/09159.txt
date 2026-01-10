@@ -1,0 +1,6 @@
+ISN'T THAT SPATIAL?
+200|A multi-unit structure in which the whole building is jointly owned by all the residents|a co-op
+400|A set of buildings housing soldiers in a garrison|a barracks
+600|A single residence divided into 3 units|a triplex
+800|Especially in the form of a tower with several stories, it's a Buddhist temple with upwardly curving roofs|a pagoda
+1000|Literally French for "house", it often goes into the name of a restaurant|maison

@@ -1,0 +1,6 @@
+THERE WILL BE A TEST ON THIS
+200|This standardized test widely used in college admissions since 1926 is introducing a digital version in March 2024|the SAT
+400|An evasive maneuver test for cars in Sweden bears the name of these deer you would definitely want to avoid when driving|moose
+600|The NCAA's drug testing program covers stimulants, masking agents & these, such as androstenedione|steroids
+800|Used to determine if a computer can "think", the Turing test was originally known as this, also the name of a 2014 movie about Turing|the imitation game
+1000|In 1915 Emil Truog developed a test to measure the level of this property in soil, leading to restored fields & increased yields|pH (acidity)

@@ -1,0 +1,6 @@
+NBA LAST NAME'S THE SAME
+200|Jermaine & Shaquille|O'Neal
+400|Reggie & Andre|Miller
+600|Karl & Moses|Malone
+800|DeAndre & Michael|Jordan
+1000|Dwight & Juwan|Howard

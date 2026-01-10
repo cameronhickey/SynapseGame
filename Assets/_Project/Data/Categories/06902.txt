@@ -1,0 +1,6 @@
+ENDS IN "TRY\"
+200|A soldier posted to prevent the passage of unauthorizd persons|sentry
+400|Chickens, turkeys & ducks|poultry
+600|This small room or closet for the storage of food, linens & tableware is usually just off the kitchen|pantry
+800|Burt Lancaster's Oscar-winning charlatan Elmer|Gantry
+1000|Very humid & hot; it may be an alteration of swelter|sultry

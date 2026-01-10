@@ -1,0 +1,6 @@
+ANIMATION
+200|Scandal hit the papers in 1994 when a few frames of Jessica Rabbit in this film were found very revealing|Who Framed Roger Rabbit
+400|Songs in this ABC Saturday morning series of shorts included "Figure Eight" & "Three is a Magic Number\"|Schoolhouse Rock
+600|Because there's not a lot of live production sound in animation, these, abbreviated SFX, come in handy|sound effects
+800|10-letter term for the part of a frame that includes everything except the characters|the background
+1000|Unlike traditional 2-D animation, characters are modeled in 3 dimensions in this type, abbreviated CG|computer generated

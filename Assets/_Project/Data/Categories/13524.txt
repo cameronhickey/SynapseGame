@@ -1,0 +1,6 @@
+COMMON LAST NAME'S THE SAME
+200|Samuel, Don, Rafer|Johnson
+400|Tom, Shirley, Davy|Jones
+600|Kate, Keely, Will|Smith
+800|Seth, Isiah, Clarence|Thomas
+1000|James, Jerry, Gatemouth|Brown

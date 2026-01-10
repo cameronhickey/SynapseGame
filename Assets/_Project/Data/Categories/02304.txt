@@ -1,0 +1,6 @@
+COMPLETES THE PROVERB
+200|\"You can lead a horse to water...\"|but you can't make him drink
+400|\"The opera isn't over...\"|until the fat lady sings
+600|\"You can't get blood...\"|from a stone
+800|\"The opera isn't over till...\"|the fat lady sings
+1000|\"The hand that rocks the cradle...\"|rules the world

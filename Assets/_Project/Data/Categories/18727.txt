@@ -1,0 +1,6 @@
+GET PICKLED
+200|Pickling brine is basically this sour liquid plus water & salt|vinegar
+400|Equal to about 2 gallons, it's the quantity of pickled peppers picked by Peter Piper|a peck
+600|In his teens, this Pittsburgh "pickle king" was running a business to supply grocers with fresh produce|(Henry) Heinz
+800|Tommy Pickles is one of these Nickelodeon title tots|the Rugrats
+1000|Veal piccata is often garnished with these pickled flower buds|capers

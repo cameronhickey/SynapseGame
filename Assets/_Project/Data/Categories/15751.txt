@@ -1,0 +1,6 @@
+I WANT A GREEN CAR
+200|This company's LPG-powered Elantra was introduced in Korea in 2009|Hyundai
+400|The Toyota Prius gets 9.5 out of 10 in its air pollution score, based partly on levels of PM, this type of matter|particulate
+600|It's Chevy's extended range electric vehicle launched in 2010|the Volt
+800|(Jimmy of the Clue Crew drives a battery electric vehicle from Ford.) The engine isn't the only conservation-friendly component of Ford's BEV; these vital parts are regenerative, meaning when they are used, they convert friction energy back into electricity to charge the car|the brakes
+1000|Still driving that noxious LEV, low emission vehicle? The 2012 Honda Accord is a PZEV, for "partial" this|partial zero

@@ -1,0 +1,6 @@
+REAL MEN OF SCIENCE
+200|These small glass or plastic dishes used to culture microorganisms are named for a German bacteriologist|Petri
+400|These small glass or plastic dishes used to culture microorganisms are named for a German bacteriologist|a Petri dish
+600|Galileo used a supernova in 1604 to disprove this ancient Greek's theory that the universe never changes|Ptolemy (Aristotle)
+800|373.15 is the boiling point of water on the scale named for this Scottish scientist|Kelvin
+1000|Introduced in 1855, his process using blasts of air to remove impurities made the mass production of steel possible|Bessemer

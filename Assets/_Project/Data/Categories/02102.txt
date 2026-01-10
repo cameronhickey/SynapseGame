@@ -1,0 +1,6 @@
+TAX TIME
+200|In reference to taxes, IRA stands for one of these|an individual retirement account
+400|It's the form of your employer files at year's end showing your compensation & withheld taxes|a W-2
+600|A type of tax on certain commodities, or a way to remove a tumor|excise
+800|Beginning & ending with the same letter, this type of "tax asset" may be used for a company's future tax liability|deferred
+1000|This tax is assessed on gross properties prior to distribution to the heirs|an estate tax

@@ -1,0 +1,6 @@
+RAIN
+200|Caused in part by sulfur dioxide emissions, it has "killed" 500 bodies of water in the Adirondacks|acid rain
+400|For acid rain, the EPA says this measure is about 4.3|pH
+600|In Arizona, the months of June to September are referred to as this season with heavy rain, high winds & flash flooding|monsoon season
+800|At a warm one you get regular rain; at a cold one, thunderstorms|a front
+1000|Orographic precipitation is caused by moist air rising over one or more of these, oros in Greek|mountains

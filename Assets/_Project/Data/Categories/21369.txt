@@ -1,0 +1,6 @@
+COUNT
+200|An ionization chamber like this man's counter tallies up radioactive particles|(Hans) Geiger
+400|In social media, this count is the number of times a Twitter user's message was posted by others on their feeds|retweets
+600|This count determines how many erythrocytes & leukocytes you have on average|a blood count
+800|If this count in the air is high, your hay fever is going to go haywire|the pollen count
+1000|Ridge count is an important number in identifying these in the AFIS system in forensics|fingerprints

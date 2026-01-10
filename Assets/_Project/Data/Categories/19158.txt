@@ -1,0 +1,6 @@
+COMPUTER TERMINOLOGY
+200|You'll be A-OK with a TFT-LCD one of these basic parts of a desktop computer|a monitor (or display)
+400|A circuit that allows data to travel between a peripheral & a computer is a "local" this vehicle|a local bus
+600|If your website is DDoSED, you've got problems because DDoS stands for distributed this|denial of service
+800|A pun on one of China's claims to fame, this is the nickname for China's Internet barriers|the Great Firewall
+1000|Different from emoticons, these pictographs come from the Japanese for "picture writing\"|emojis

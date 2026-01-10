@@ -1,0 +1,6 @@
+TESTS
+200|They used to say if this animal died during the test, you were pregnant|a rabbit
+400|Sgt. Barry Sadler sang, "100 men we'll test today but only 3" would win 1 of these|the green beret
+600|One step for a boy scout to earn any of the 119 of these is to pass the respective test|a merit badge
+800|In 1905, Frenchmen Alfred Binet & Theodore Simon developed the 1st scales for measuring this|intelligence quotient, I.Q.
+1000|Since 1942, students nationally have been taking this Midwest university's basic skills test|Iowa

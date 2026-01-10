@@ -1,0 +1,6 @@
+ABBREVIATED JOBS & DEPTS.
+200|In a courtroom: D.A.|district attorney
+400|Your family doctor: GP|general practitioner
+600|At a large company: HR|human resources
+800|He or she will rub you the right way: LMT|licensed massage therapist
+1000|Makes big money decisions: CFO|chief financial officer

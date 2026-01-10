@@ -1,0 +1,6 @@
+CONVERT THE ROMAN NUMERAL
+200|Will you still need me when I'm this Roman numeral? LXIV|64
+400|Mentioned at Gettysburg: LXXXVII|87
+600|A positively revolutionary year: MDCCLXXVI|1776
+800|TV secret agent Maxwell Smart's beautiful agent wife: XCIX|99
+1000|Religious TV club: DCC|700

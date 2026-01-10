@@ -1,0 +1,6 @@
+NFL HOME STADIUMS
+200|The Superdome|New Orleans Saints
+400|Hubert H. Humphrey Metrodome|Minnesota Vikings
+600|Monster Park|the San Francisco 49ers
+800|Soldier Field|the (Chicago) Bears
+1000|The Edward Jones Dome|the Rams

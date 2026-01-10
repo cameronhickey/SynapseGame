@@ -1,0 +1,6 @@
+REALLY TOUGH CAPITAL CITIES
+200|Santiago|Chile
+400|Riga|Latvia
+600|Port Moresby|Papua New Guinea
+800|Thimphu|Bhutan
+1000|Sana|Yemen

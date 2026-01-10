@@ -1,0 +1,6 @@
+ANIMAL ADJECTIVES
+200|Something shabby, as though gnawed by rodents|ratty
+400|Stubborn|mulish
+600|Lupine, like the Ethiopian or the timber|the wolf
+800|Taurine|bull-like
+1000|Anserine, like the snow or the nene|a goose

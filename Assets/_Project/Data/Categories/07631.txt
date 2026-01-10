@@ -1,0 +1,6 @@
+MISSING VOWELS
+200|A fest-ive month: "CTBR\"|October
+400|Summerwear: "BKN\"|bikini
+600|A well-protected mammal: "RMDLL\"|armadillo
+800|1 of the 50: "DH\"|Idaho
+1000|One of the elements: "DN\"|iodine

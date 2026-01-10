@@ -1,0 +1,6 @@
+DICTATORS
+200|In 1950 he graduated from the University of Havana with a law degree|Castro
+400|He became commander of Panama's defense forces in 1983|Noriega
+600|This dictator of Mexico & captor of the Alamo died in poverty in 1876|Santa Anna
+800|This Turkish benevolent dictator was born Mustafa Kemal in 1881|Ataturk
+1000|Antonio Salazar ruled this European country from 1932 to 1968|Portugal

@@ -1,0 +1,6 @@
+CHEESY COUNTRIES
+200|Fontina|Italy
+400|Danablue|Denmark
+600|Neufchatel|France
+800|Asiago|Italy
+1000|Gruyere|Switzerland

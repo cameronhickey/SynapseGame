@@ -1,0 +1,6 @@
+ELEMENTARY SCHOOL
+200|The chemical element that by definition all organic compounds contain|carbon
+400|For the 238 isotope of uranium, this measure of radioactive decay is a mere 4.5 billion years|a half-life
+600|(Jimmy of the Clue Crew shows atomic diagrams of neon, argon & krypton on the monitor.) Because they have complete outer shells, the gases in this group are largely unreactive|noble gases
+800|The 2 most abundant elements in Earth's crust are oxygen & this one used in making electronic circuits|silicon
+1000|On the periodic table, the bottom 2 rows are the lanthanides & this row below them|the actinides

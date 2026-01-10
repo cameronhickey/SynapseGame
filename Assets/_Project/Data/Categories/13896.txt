@@ -1,0 +1,6 @@
+EDIBLE STATE SYMBOLS
+200|Apples, Walla Walla onions|Washington
+400|Chile, frijole|New Mexico
+600|Mayhaw jelly, crawfish, beignet|Louisiana
+800|Huckleberries, potatoes|Idaho
+1000|Baked navy beans, chocolate chip cookies, cranberry juice|Massachusetts

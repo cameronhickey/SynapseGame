@@ -1,0 +1,6 @@
+X-Y-Z ABBREVIATIONS
+200|YC is this caution from a soccer referee|a yellow card
+400|Ask the accountants if by EOD, they could LMK our sales figures YTD, this|year to date
+600|XBH is this baseball slugging statistic|extra base hits
+800|Perfect for the eco-friendly, a ZEV is this kind of transport|a zero emissions vehicle
+1000|Zl is this currency equal to 100 groszy|zloty

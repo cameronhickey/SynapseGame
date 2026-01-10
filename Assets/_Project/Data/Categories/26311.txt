@@ -1,0 +1,6 @@
+CYBERSECURITY
+200|From a word for "hidden", it's the process of making digital data unreadable to the unauthorized|encrypted
+400|In 2021, Colonial Pipeline paid $4.4 million to regain control of its systems after being hit with this type of malware|ransomware
+600|Cybercriminals doing this are "angling" to get confidential info from you like credit card numbers|phishing
+800|Ethical hackers, also called by this headgear, use their skills to identify security risks|white hats
+1000|MFA is short for this security measure; would you like that code sent via text or email?|multifactor authentication

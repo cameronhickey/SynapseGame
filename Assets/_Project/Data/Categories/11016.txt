@@ -1,0 +1,6 @@
+3-LETTER MEN
+200|Rather or Marino|Dan
+400|Costas or Hope|Bob
+600|Rawls or Gehrig|Lou
+800|Shepard or Donaldson|Sam
+1000|Danson or Turner|Ted

@@ -1,0 +1,6 @@
+MOVIES BY OSCARS
+200|1997: Original Screenplay, Matt Damon & Ben Affleck|Good Will Hunting
+400|2010: Actor Colin Firth & director Tom Hooper|The King's Speech
+600|2002: Supporting actress Catherine Zeta-Jones & Costume Design, Colleen Atwood|Chicago
+800|2013: Cinematography, Emmanuel Lubezki & director Alfonso Cuaron|Gravity
+1000|1982: Supporting actor Louis Gossett Jr. & Song, "Up Where We Belong\"|An Officer and a Gentleman

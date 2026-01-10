@@ -1,0 +1,6 @@
+CINEMANIA
+200|Aka background actors, they're the people milling about in a shot to lend atmosphere to a scene|extras
+400|This 1977 film that was the highest-earning film of the 1970s didn't even take place in our galaxy|Star Wars
+600|Also a type of saw, it means to interweave 2 scenes in editing, indicating simultaneous action|crosscut
+800|In the beginning of this film, peaceful apes confront a black monolith & turn deadly & carnivorous|2001: A Space Odyssey
+1000|This genre created in the '70s featured African-American actors in stereotypical & often violent characterizations|blaxploitation

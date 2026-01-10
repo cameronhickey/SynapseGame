@@ -1,0 +1,6 @@
+WHERE ARE YOU?
+200|Touching down at Indira Gandhi International Airport in this country|India
+400|In this body of water, trying to reenact Gertrude Ederle's historic swim of 1926|English Channel
+600|At this Amsterdam museum admiring Rembrandt's "The Night Watch\"|Rijksmuseum
+800|In Rome about to toss some coins here|Trevi Fountain
+1000|In France scaling the highest peak of this highest mountain in the alps|Mont Blanc

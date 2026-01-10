@@ -1,0 +1,6 @@
+STATE THE COLLEGE TEAM
+200|Gators, Seminoles|Florida
+400|Longhorns, Aggies|Texas
+600|Wildcats, Sun Devils|Arizona
+800|Black Knights, Orangemen|New York
+1000|Indians, Razorbacks|Arkansas

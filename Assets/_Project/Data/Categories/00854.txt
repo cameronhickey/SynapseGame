@@ -1,0 +1,6 @@
+PLAY CHARACTERS
+200|Characters in this Broadway musical include Merlyn, Guenevere & King Arthur|Camelot
+400|James Earl Jones has played this noble Moor in several productions|Othello
+600|He's "The Demon Barber of Fleet Street\"|Sweeney Todd
+800|In an Oscar Wilde play, she inadvertently leaves her fan in Lord Darlington's apartment|Lady Windermere
+1000|\"Oklahoma"s Curly McLain first appeared as a character in this 1930s play by Lynn Riggs|Green Grow the Lilacs

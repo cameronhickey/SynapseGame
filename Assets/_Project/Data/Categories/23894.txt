@@ -1,0 +1,6 @@
+BOOK TITLE GEOGRAPHY
+200|The Marabar Caves are on the itinerary in "A Passage to ____\"|India
+400|Betty Smith cultivated "A Tree Grows in ____\"|Brooklyn
+600|Julia Child cooked up "My Life in ____\"|France
+800|The sequel to "Lonesome Dove": "Streets of ____\"|Laredo
+1000|John le Carre, man of international intrigue: "The ____ House\"|The Russia House

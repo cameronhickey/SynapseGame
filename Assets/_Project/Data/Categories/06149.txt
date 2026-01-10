@@ -1,0 +1,6 @@
+BRITANNICA
+200|If you're awarded one of these, you get to put VC after your name|Victoria Cross
+400|This body is the final court of appeals in England|the House of Lords
+600|Number of Henrys who ruled England between 1000 & 1600 A.D.|8
+800|The Welsh village of Portmeirion was made famous from its use in this Patrick McGoohan TV series|The Prisoner
+1000|Name of the saint credited with founding Glasgow, it's also the first name of Scottish explorer Park|Mungo

@@ -1,0 +1,6 @@
+FROM "C" TO "Y\"
+200|It can mean volume or space, but also mental ability|capacity
+400|This white wine originated in the Burgundy region of France|Chardonnay
+600|The opposite of voluntary, it's from the Latin for "to force\"|compulsory
+800|In one sense the opposite of union, it's actually a synonym for union|confederacy
+1000|In a candle the melted wax is carried upward via this type of "action" in the wick|capillary

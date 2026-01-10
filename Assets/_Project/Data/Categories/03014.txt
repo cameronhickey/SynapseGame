@@ -1,0 +1,6 @@
+ON A PIZZA
+200|Topping a pizza with this tropical fruit will make it Hawaiian|pineapple
+400|Picked from trees & sometimes picked off pizza, the black ones are more common as toppings than the green ones|olives
+600|This fungal topping is grown in buildings that simulate the conditions inside a cave|mushrooms
+800|It goes on a pizza as an ingredient of the sauce or as a "sun-dried" topping|tomato
+1000|A quatro formaggi pizza is topped with this many different cheeses, including mozzarella|4

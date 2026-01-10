@@ -1,0 +1,6 @@
+WORDS BEFORE WORDS
+200|Bean, market, widow|black
+400|Carpet, saucer, colors|flying
+600|Climbing, salt, star|rock
+800|Clip, towel, money|paper
+1000|Winter, family, option|nuclear

@@ -1,0 +1,6 @@
+CONSECUTIVE NUMBERS
+200|In a nursery rhyme these numbers immediately precede "lay them straight\"|7, 8
+400|In 2000, they were the last 3 days of February|27, 28 & 29
+600|The 2 home runs hit by Mark McGwire September 27, 1998 were these numbers for that season|69 & 70
+800|These 4 Hanoverian Georges ruled England from 1714 to 1830|I, II, III & IV
+1000|The atomic numbers of Einsteinium, Fermium & Mendelevium|99, 100 & 101

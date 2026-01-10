@@ -1,0 +1,6 @@
+REQUESTS
+200|It's a request made after trial for review by a higher court|an appeal
+400|I'm hitting the road, Mr. DJ, so please put on this title track of Springsteen's 1975 album|\"Born To Run\"
+600|In 2015 a California state agency mandated that restaurants may not serve this unless the diner requests it|a glass of water
+800|\"Who You Are" by this Eddie Vedder band would really help me get my head straight|Pearl Jam
+1000|To access a web page, your computer sends this familiar 4-letter type of request|HTTP

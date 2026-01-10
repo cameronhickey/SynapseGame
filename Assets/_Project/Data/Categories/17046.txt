@@ -1,0 +1,6 @@
+STARTS WITH "HYP\"
+200|The only punc-tuation in this answer|hyphen
+400|A person who's more sick in the head than in the body|hypochondriac
+600|While under this you may experience anesthesia, hallucination or age regression|hypnosis
+800|One who extols the virtues of healthy food & then goes home & eats Goo Goo Clusters is this|hypocrite
+1000|The medical term for high blood pressure|hypertension

@@ -1,0 +1,6 @@
+PLANT (ON) THE FLAG
+200|One of the world's most recognizable, this nation's flag features a solitary maple leaf|Canada
+400|This conifer known for its durable timber is represented on the flag of Lebanon|the cedar
+600|This tropical tree wears the cap of liberty on Haiti's flag|a (royal) palm tree
+800|The flag of Cyprus features branches of these leaves, a symbol of peace|olive leaves
+1000|Spain's flag depicts one of these tropical fruits that gave Persephone so much trouble|the pomegranate

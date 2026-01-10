@@ -1,0 +1,6 @@
+ALASKAN CITIES
+200|Nome in the west of the state is the main city on Norton Sound, an arm of this sea|the Bering Sea
+400|On April Fool's Day, 2016, it changed its name to UNO to promote the Mattel card game's new wild cards|Juneau
+600|The epicenter of the great Alaska earthquake of 1964 was just 75 miles east of this large city|Anchorage
+800|As you might expect, the sports teams of the high school in this city on Alaska's largest island are called the Bears|Kodiak
+1000|This city in Southeast Alaska is home to a historic Russian Orthodox church, St. Michael's Cathedral|Sitka

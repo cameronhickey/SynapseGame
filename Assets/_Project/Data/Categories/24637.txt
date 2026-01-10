@@ -1,0 +1,6 @@
+BRITISH TO AMERICAN LANGUAGE TRANSLATOR
+200|A big dipper is more than a cluster of stars, it's also one of these amusement park attractions|a roller coaster
+400|In the U.K., this part of your Rolls-Royce is called a mudguard|the fender
+600|In Britain, a caravan behind your car isn't a line of vehicles, but just this one, & some pensioners choose to live in one|a trailer
+800|On hot summer days in London, you'll welcome an ice lolly, or what we call this treat|a Popsicle
+1000|A child's catapult may sound like an ancient war machine, but it's just one of these implements for flinging small projectiles|a slingshot

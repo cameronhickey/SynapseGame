@@ -1,0 +1,6 @@
+\"C"LOTHES
+200|This cloth sash is often worn with a tuxedo|a cummerbund
+400|Gauchos are calf-length versions of these "divided skirts\"|culottes
+600|In the 50s it was trendy to wear this classic button-down sweater named for an Earl back to front|cardigan
+800|These three-quarter-length pants are named for the Italian island where they were first popular|capris
+1000|This long, loose robe has been worn as a housecoat & an evening dress|caftan

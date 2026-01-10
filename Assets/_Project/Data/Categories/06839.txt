@@ -1,0 +1,6 @@
+HALLOWED "GROUND\"
+200|This critter has his "Day" every February 2|the groundhog
+400|The scientific name for the Great Plains variety of this rodent comes from the Greek for "seed lover\"|ground squirrel
+600|The Earth-based staff & equipment that guide a spacecraft|ground control
+800|If can be information that helps to explain or the scenery located behind an actor|background
+1000|A sudden gathering of force, as of public opinion|a groundswell

@@ -1,0 +1,6 @@
+TAKING THE BAR EXAM
+200|Skyy, Wolfschmitt, Smirnoff|vodka
+400|Beaujolais, Liebfraumilch, Zinfandel|wine
+600|Bengal, Fleischmann's, Gordon's|gin
+800|Mickey's, Olde English "800", Colt 45|malt liquor
+1000|Masuizumi, Narimasa, Wakatsuru|sake

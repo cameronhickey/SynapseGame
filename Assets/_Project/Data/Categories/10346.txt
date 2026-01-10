@@ -1,0 +1,6 @@
+METROPOLITAN SOBRIQUETS
+200|\"The Windy City", Illinois|Chicago
+400|\"The City of Witches", Massachusetts|Salem
+600|\"The Crescent City", Louisiana|New Orleans
+800|As in a Navy song, "Crabtown On The Bay", Maryland|Annapolis
+1000|\"The Emerald City", Washington|Seattle

@@ -1,0 +1,6 @@
+SPACE EXPLORATION
+200|It owns all of the Apollo capsules & loans them out to other museums around the world|the Smithsonian
+400|In June 1985 the U.S. sent a prince from this country into space|Saudi Arabia
+600|The Russian equivalent of this U.S. craft is the Buran, which can fly by remote control|the Space Shuttle
+800|It was the Soviet successor to the Salyut Space Station|Mir
+1000|The last Saturn V moon rocket used to put this into orbit May 14, 1973|Skylab

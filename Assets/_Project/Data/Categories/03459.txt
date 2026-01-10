@@ -1,0 +1,6 @@
+MAGNETS
+200|On this home appliance, magnets are used to keep the door shut & hold messages|Refrigerator
+400|By the 12th century the Chinese made one of these using a magnetized needle|Compass
+600|Better than a CAT scanner, this technique is used to see the brain|MRI (Magnetic Resonance Imaging)
+800|Used by some trains, "Maglev" is short for this|Magnetic levitation
+1000|Magnetic materials may be diamagnetic, paramagnetic or this, from the Latin for iron|Ferromagnetic

@@ -1,0 +1,6 @@
+TOURIST TREATS
+200|A traditional treat served at Wimbledon consists of these berries & cream|Strawberries
+400|In Italy it's a term for sweet treats, or the kind of "vita" you'll have if you eat enough|Dolce
+600|In the U.S. this green vegetable is often creamed; in India cheese is added for saag paneer|Spinach
+800|Like the slivovitz of other parts of Europe, the Romanian brandy tzuica is made from this fruit|Plum
+1000|A tasca is a Spanish pub serving a variety of these bartop appetizers|Tapas

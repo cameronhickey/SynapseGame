@@ -1,0 +1,6 @@
+\"NORTH" POLL
+200|The 2 U.S. states with north in their names|North Carolina & North Dakota
+400|This heavenly body is also known as Polaris|the North Star
+600|Pyongyang is the capital city of this Asian country|North Korea
+800|This "Territory" of nearly 300,000 square miles was ceded by Great Britain to the U.S. in 1783|the Northwest Territory
+1000|The Elbe, the Thames & the Rhine Rivers all flow into this body of water|the North Sea

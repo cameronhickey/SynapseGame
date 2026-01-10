@@ -1,0 +1,6 @@
+MOVABLE FEASTS
+200|The 40th day after Easter commemorates this rising of Christ into heaven|Ascension
+400|An Orthodox Church movable feast remembers Jesus' entrance into this city|Jerusalem
+600|This day when the Holy Spirit descended on the Apostles descends on May 31 in 2009|Pentecost
+800|As the Jewish religious calendar is lunar, all festivals are movable, including this one with a seder|Passover
+1000|Not Monday but this day of the week can be Maundy|Thursday

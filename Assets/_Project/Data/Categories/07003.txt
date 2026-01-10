@@ -1,0 +1,6 @@
+\"CHECK" MATE
+200|The deadline by which a hotel room must be vacated|checkout
+400|The procedure involving paying your hotel bill & leaving|Checkout
+600|A banner waved at the finish line of a car race|a checkered flag
+800|A coupon that guarantees an offer that cannot be fulfilled at the present time|rain check
+1000|2-word term for what the winner of "Survivor" gets, or a reminder of the way things actually are|a reality check

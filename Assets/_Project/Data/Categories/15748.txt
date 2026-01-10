@@ -1,0 +1,6 @@
+WILL SMITH MOVIES
+200|2007: "My name is Robert Neville. I'm a survivor living in New York City... If there's anybody out there...\"|I Am Legend
+400|1997: "When do I get my own flashy, little memory messer-upper thing?\"|Men in Black
+600|1996: "Welcome to Earth!\"|Independence Day
+800|2005: "Lean in, place your hand on the small of her back, say it in her ear like a secret. But watch your hand placement\"|Hitch
+1000|2004: "I think you murdered him because he was teaching you to simulate emotions\"|I, Robot

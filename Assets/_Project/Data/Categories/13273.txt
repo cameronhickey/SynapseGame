@@ -1,0 +1,6 @@
+NAME THAT SPORT
+200|PGA|golf
+400|Backstroke, breaststroke, butterfly|swimming
+600|USTA, founded in 1881|tennis
+800|Camel, double axel, figure 8|figure skating
+1000|PBA, founded in 1958|bowling

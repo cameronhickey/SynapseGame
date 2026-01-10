@@ -1,0 +1,6 @@
+ISLANDS
+200|An Indonesian island or slang for coffee|Java
+400|The song "26 Miles Across The Sea" overshoots this island by 3 miles|Catalina Island
+600|Only New York City borough not on an island|the Bronx
+800|Campobello Island, FDR's summer home, is in this country|Canada
+1000|Animal for which the Canary Islands are named|dogs

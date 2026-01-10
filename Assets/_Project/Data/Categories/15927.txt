@@ -1,0 +1,6 @@
+\"FOR\"
+200|A well-protected building, perhaps "of solitude\"|a fortress
+400|The list of the exact ingredients to make my secret age-reducing elixir|a formula
+600|It's the type of content a radio station specializes in, such as news/talk or jammin' oldies|format
+800|10-letter musical direction to play very loudly|fortissimo
+1000|An organized meeting for the discussion of a specific topic|forum

@@ -1,0 +1,6 @@
+FROM C TO D
+200|It describes a bubbly beverage like tonic water or soda|carbonated
+400|In other words, someone who is yellow-bellied|a coward
+600|A classic Atari video game of the 1980s was called Missile this|Missile Command
+800|koa.com helps you find this type of place to put up your tent|campground
+1000|Referring to its crunch, it's another name for iceberg lettuce|crisphead

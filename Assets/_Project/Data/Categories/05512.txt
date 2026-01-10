@@ -1,0 +1,6 @@
+SCIENCE STUFF
+200|Ventifacts are rocks that are shaped by sand driven by this force of nature|Wind
+400|Hematite is an important ore of this metal|Iron
+600|It was launched in 1990 with optical defects that required 5 spacewalks to fix|the Hubble Telescope
+800|This type of rock that develops from magma can be divided into 2 groups: extrusive & intrusive|igneous rock
+1000|Some 25 miles in depth, it lies between the troposphere & the mesosphere|the stratosphere

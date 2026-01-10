@@ -1,0 +1,6 @@
+COPPER
+200|Azurite, a principal copper-bearing ore, is this color|blue
+400|This chemical symbol for copper comes from cuprum, the Roman name for Cyprian metal|Cu
+600|One of the world's largest open-pit copper mines is in Bingham Canyon NW of Provo in this state|Utah
+800|Copper must be present for iron to be utilized in the formation of this blood pigment|hemoglobin
+1000|Trombones & other brass instruments usually consist of about 70% copper & about 30% this metal|zinc

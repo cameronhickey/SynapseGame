@@ -1,0 +1,6 @@
+EAST ASIAN CITIES
+200|The 1998 Olympics have come & gone, but this city still has one of Japan's oldest representations of Buddha|Nagano
+400|Kaohsiung is the major port serving this island of over 20 million people|Taiwan
+600|In the 1940s this North Korean capital was home to forces of the occupying Soviet army|Pyongyang
+800|It was China's capital from 1928 until its brutal capture by Japanese forces in 1937|Nanking
+1000|Also called Guangzhou, for almost a century it was the only Chinese port open to foreign trade|Canton

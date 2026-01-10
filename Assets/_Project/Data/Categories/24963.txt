@@ -1,0 +1,6 @@
+THE OED DESCRIBES THE ANIMAL
+200|\"A large hornless ruminant quadruped, distinguished by its humped back, long neck, and cushioned feet\"|a camel
+400|Of the carp family, "native to China... commonly kept in ponds, cold-water tanks, or... glass globes\"|goldfish
+600|\"Mouse-like quadrupeds... having the fingers extended to support a thin membrane\"|a bat
+800|\"One of several large eared seals" including "the distinct species (Zalophus) californianus\"|sea lions
+1000|\"Popular name of various acalephs, medusas, or sea-nettles, from their gelatinous structure\"|jellyfish

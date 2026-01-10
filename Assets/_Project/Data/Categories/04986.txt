@@ -1,0 +1,6 @@
+MEXICAN GEOGRAPHY
+200|You'll find the Mayan ruins of Tulum on this large peninsula|Yucatan
+400|Hopefully you'll "treasure" this extensive mountain range of western Mexico|Sierra Madre
+600|Mountain ranges in Mexico include the Sierra Madre Oriental in the east & the Sierra Madre this in the west|Occidental
+800|This city down the coast from Puerto Vallarta is said to have the best harbor on Mexico's Pacific coast|Acapulco
+1000|In population, this city on the Rio Grande is the largest Mexican city on the border with the U.S.|Juárez

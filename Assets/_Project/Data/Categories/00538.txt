@@ -1,0 +1,6 @@
+COOKING
+200|What you should shop for if a recipe calls for venison|deer
+400|What happens to gravy when you add a little arrowroot|it thickens
+600|Used in salad dressing, the balsamic type of this liquid is made from sweet Trebbiano grapes|vinegar
+800|To make a yummy low-fat sauce, cook 4 oz. of these bog berries in 1 cup of orange juice until they pop|cranberries
+1000|Cajun cooks often fry or boil these freshwater crustaceans that some folks call mudbugs|crawdads (crayfish or crawfish)

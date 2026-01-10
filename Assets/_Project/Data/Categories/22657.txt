@@ -1,0 +1,6 @@
+WEIGHT, WHAT'S THAT?
+200|In this job, a highway weigh station is called a "chicken coop" as you sit in a line hoping you don't exceed 80,000 pounds|truck driving
+400|An old system used to weigh precious stones & metals is called this, like an ancient city where the Greeks horsed around|troy (weight)
+600|Throw weight is the maximum payload of this, the "M" in ICBM|a missile
+800|This boxing class just below heavyweight includes the name of a warship class just below battleship|cruiserweight
+1000|This name for a type of pound is from the French for "goods of weight\"|avoirdupois

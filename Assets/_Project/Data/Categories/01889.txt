@@ -1,0 +1,6 @@
+CONSTELLATIONS
+200|Monoceros is one of these mythical creatures|a unicorn
+400|1 of the 2 constellations with a 3-letter name|Ara or Leo
+600|This constellation of a lady chained to a rock contains the nearby M31 galaxy|Andromeda
+800|Corona Australis is the Southern Cross; this is the Northern Crown|Corona Borealis
+1000|A large but faint constellation, Monoceros represents this mythical creature|unicorn

@@ -1,0 +1,6 @@
+ASSUME THE PREPOSITION
+200|This preposition starts the text of the King James Bible|In (the beginning)
+400|Get on the barge, Marge: they called "all" this|aboard
+600|In Latin it means "under"; in English it's a sandwich|sub
+800|In a Tom Hanks movie title, it comes between "Joe" & "the Volcano\"|Versus
+1000|The pair that precedes "the call of duty" in the standard for receiving the Medal of Honor|above & beyond

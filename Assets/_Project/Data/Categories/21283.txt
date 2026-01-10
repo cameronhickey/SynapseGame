@@ -1,0 +1,6 @@
+CAR / MAKER
+200|Please don't I.M. your pals while driving its Corolla iM|Toyota
+400|Set out on a trip in its Expedition|Ford
+600|Sail around in its Cruze|Chevy
+800|Drive its Elantra with great elan|Hyundai
+1000|Get in the rings of things with its TT roadster|Audi

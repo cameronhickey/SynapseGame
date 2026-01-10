@@ -1,0 +1,6 @@
+ENGLISH
+200|He set up his telegraph code by checking the frequency of each letter in the type of a printer's box|Samuel Morse
+400|\"Debt" contains this letter to show its etymology, from the Latin debitum|B
+600|In 2000 Seamus Heaney's English translation of this Anglo-Saxon classic made the bestseller list|\"Beowulf\"
+800|\"The Professor and the Madman" tells how inmate Dr. W.C. Minor sent in thousands of definitions to this dictionary|Oxford English Dictionary
+1000|This long word from 19th century America for "an extraordinary thing" was adopted by an all-day band fest|Lollapalooza

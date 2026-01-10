@@ -1,0 +1,6 @@
+COMPUTERESE
+200|A length of hair added to your own, or 3 letters, such as EXE, added to a filename|Extension
+400|Like a waiter, a network computer might say "I'll be your" this & store files or manage printers|Server
+600|A nibble is half of this|byte
+800|DOS is an acronym for this|disk operating system
+1000|It's one instruction that stands for a series of commonly used keystrokes|macro

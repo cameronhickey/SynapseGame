@@ -1,0 +1,6 @@
+DOUBLE S, DOUBLED
+200|We're playing backyard football & I'm going to rush the passer! One this state, two this state...|Mississippi
+400|To garb oneself in clothes traditionally worn by the other sex|to cross-dress
+600|It's your condition if you have an evil spirit occupying your body|possession
+800|The character type of this aims to damage a reputation, not end a life|assassination
+1000|To impose a tax on something|assess

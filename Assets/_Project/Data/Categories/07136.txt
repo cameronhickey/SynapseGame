@@ -1,0 +1,6 @@
+ORCHESTRAS
+200|On Feb. 18, 1999 at Lincoln Center, this orchestra performed its 13,000th concert|the New York Philharmonic
+400|This city's orchestra began its Pops Concerts in 1885 under the name Promenade|Boston
+600|During WWII Allied bombs destroyed the Philharmonie, home to this German city's Philharmonic|Berlin
+800|This city's Philharmonic, formed in 1842, also plays regularly at the Salsburg festival|Vienna
+1000|Eugene Goossens, first chief conductor of this city's Symphony, helped get the famous Opera House built|Sydney

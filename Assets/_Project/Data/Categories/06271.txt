@@ -1,0 +1,6 @@
+READ
+200|Word in common in Frank Herbert titles of 1965, 1969, 1976, 1981 & 1985|Dune
+400|Dante would have loved this Hawthorne character, Rappaccini's daughter|Beatrice
+600|Completes the title of the Terry McMillan book "A Day Late and...\"|A Dollar Short
+800|In 1970 he delivered his first novel, "Deliverance\"|(James) Dickey
+1000|\"The Red White and Blue" was a 1987 novel by this husband of Joan Didion|John Gregory Dunne

@@ -1,0 +1,6 @@
+SHAPE UP
+200|It's the descriptive shape of an egg timer & a curvaceous woman|hourglass
+400|Shape of the organ of Corti in your ear & of some staircases|spiral
+600|This shape found in a deck of cards could also be called a lozenge|a diamond
+800|Psychologist Abraham Maslow's "Hierarchy of Needs" is often portrayed in the shape of this Egyptian structure|pyramid
+1000|(Cheryl of the Clue Crew stands by a blackboard showing connected hexagons.) The conjecture that hexagons use the least total perimeter to cover a surface is named for this animal structure|a honeycomb

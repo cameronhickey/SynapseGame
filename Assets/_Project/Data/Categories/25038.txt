@@ -1,0 +1,6 @@
+RULING WORDS
+200|A heptarchy is a government ruled by this many people|7
+400|A gerontocracy is a government by these|old people
+600|In the U.S. in the 1890s, a popocracy might have been possible, since this party was at its height|the Populist Party
+800|While a dulocracy is government run by slaves, a slavocracy is a government ruled by these|masters (or slaveowners)
+1000|A gynocracy is government by women; this, from Greek for "man", is government by men|an androcracy

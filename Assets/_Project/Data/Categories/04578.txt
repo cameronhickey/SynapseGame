@@ -1,0 +1,6 @@
+MONDO GEO
+200|Called the "Garden State", it leads the U.S. in hazardous waste sites|New Jersey
+400|The Champs-Elysees runs from the Place de la Concorde to this Paris landmark|Arc de Triomphe
+600|Conquered by Alexander the Great in 333 B.C., this Syrian capital is one of the oldest cities in the world|Damascus
+800|This U.S. state leads the nation in coffee production|Hawaii
+1000|The 2 countries that border the Czech Republic to the north are Germany & this other large country|Poland

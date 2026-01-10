@@ -1,0 +1,6 @@
+\"E" "Z" GEOGRAPHY
+200|Located on the Limmat River, this city is the largest in Switzerland|Zurich
+400|In the 1840s the Seminoles were forced out of this region, now the largest nat'l park east of the Mississippi|the Everglades
+600|The name of this East African country comes from the Greek for "sunburned faces\"|Ethiopia
+800|This 3rd largest country of Africa is located in the heart of the continent|Zaire
+1000|This country's capital, Harare, was formerly called Salisbury|Zimbabwe

@@ -1,0 +1,6 @@
+THE PRESIDENT'S SIBLING
+200|Neil Bush|George W. Bush
+400|Prescott Bush|George H.W. Bush
+600|Sam Houston Johnson|Lyndon Baines Johnson
+800|Elliott Roosevelt|Teddy Roosevelt
+1000|Charles Adams|John Quincy Adams

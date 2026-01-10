@@ -1,0 +1,6 @@
+\"SIN"ONYMS
+200|Synonym for unattached|single
+400|Synonym for heartfelt|sincere
+600|Synonym for scorch|singe
+800|Synonym for menacing|sinister
+1000|Synonym for Sri Lankan|Sinhalese

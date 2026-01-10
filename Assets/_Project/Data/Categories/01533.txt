@@ -1,0 +1,6 @@
+LIQUIDS
+200|For cooking it comes in regular & extra virgin varieties|olive oil
+400|An LCD watch contains this fluid that has some characteristics of a solid|liquid crystal
+600|The Quaker State Company was founded in 1931 in a Pennsylvania city named for this liquid|oil
+800|A quick dose of candy can help if you take too much of this, prescribed twice a day for many people|insulin
+1000|The cholesterol doctors measure is called this "cholesterol", for the fluid part of whole blood|serum

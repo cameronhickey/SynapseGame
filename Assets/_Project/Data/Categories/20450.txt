@@ -1,0 +1,6 @@
+ALL "IZE" ON YOU
+200|To add earrings or a belt to an outfit|accessorize
+400|An hors d'oeuvre is one|an appetizer
+600|(Sarah of the Clue Crew shows a helicopter on the monitor.) Magic seemingly happens when a helicopter's rotor blades and a video camera's frame rate become this, from the Greek for "at the same time\"|synchronized
+800|By definition, triage is an effort to do this to patients, in terms of their care|prioritize
+1000|Endemic goiter is reduced when you do this to salt|iodize

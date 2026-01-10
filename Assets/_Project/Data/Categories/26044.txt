@@ -1,0 +1,6 @@
+ON THE MOVIE MAP
+200|Actually about Idi Amin: "The Last King of ____\"|Scotland
+400|A documentary about gun violence: "Bowling for ____\"|Columbine
+600|Where monsters go to get away from it all: "Hotel ____\"|Transylvania
+800|A 2006 sequel: "The Fast and the Furious: ____ Drift\"|Tokyo
+1000|What a cast—Cary Grant, Jimmy Stewart & Kate Hepburn: "The ____ Story\"|Philadelphia

@@ -1,0 +1,6 @@
+THE CONTINENT...
+200|...with the most countries|Africa
+400|...that can be typed using a single row of letters on a standard keyboard|Europe
+600|...that extends down to about 54 degrees south latitude|South America
+800|...with the first country alphabetically|Asia
+1000|...where the Latter-Day Saints believe that Zion or New Jerusalem will be built|North America

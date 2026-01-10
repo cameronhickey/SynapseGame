@@ -1,0 +1,6 @@
+ANIMAL AKA
+200|How much wood would a woodchuck chuck on February 2nd when it's known by this name|a groundhog
+400|2-word name for the critter also known as a puma, a cougar & a catamount|a mountain lion
+600|Felis pardalis, this small wildcat of South America, is also known as a "painted leopard\"|the ocelot
+800|Due to its apetite, the wolverine is also known as this, as if it committed one of the 7 Deadly Sins|the glutton
+1000|Wapiti is a Native American term for this second-largest deer of the Americas|elk

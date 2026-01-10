@@ -1,0 +1,6 @@
+BANK "C\"
+200|To a banker, a CD is this|a certificate of deposit
+400|While you don't sign the cashier's one, this double-"C" item that's also guaranteed is signed by you & a bank official|a certified check
+600|It's payment earned on the sum of an original principal plus the money the principal has already accrued|compound interest
+800|Also called a cap, it's the upper limit of a variable in a transaction, like the rate of an adjustable-rate mortgage|the ceiling
+1000|The assets you pledge as security for a loan are your this|collateral

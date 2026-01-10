@@ -1,0 +1,6 @@
+VWLSS LMNTS
+200|LMNM|aluminum
+400|NN|neon
+600|RGN|argon
+800|RN|iron
+1000|DN|iodine

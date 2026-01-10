@@ -1,0 +1,6 @@
+LET'S HAVE ORDER
+200|Tech stuff: Windows, floppy disk, Powerbook|floppy disk, Windows and Powerbook
+400|European discoveries: Cape of Good Hope, Florida, Bering Strait|the Cape of Good Hope, Florida and the Bering Strait
+600|Universities: San Diego State, Purdue, Brown|Brown, Purdue, San Diego State
+800|Presidential administrations: Chester A. Arthur, James K. Polk, Millard Fillmore|Polk, Fillmore, Arthur
+1000|Geological periods: Cambrian, Cretaceous, Triassic|Cambrian, Triassic, Cretaceous

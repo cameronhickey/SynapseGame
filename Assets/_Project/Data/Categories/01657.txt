@@ -1,0 +1,6 @@
+INSURANCE
+200|This type of car insurance covers the loss regardless of which party is responsible|no-fault
+400|The payment for an insured loss, a clause may "double" it|indemnity
+600|Doctors, lawyers & accountants protect against charges of professional error with this type of insurance|Malpractice
+800|Over 45 million Americans are now enrolled in these groups that function as both insurers & care providers|HMOs (Health Maintenance Organizations)
+1000|This term for an insurance company owned by policyholders is found in the name of an Omaha company|Mutual

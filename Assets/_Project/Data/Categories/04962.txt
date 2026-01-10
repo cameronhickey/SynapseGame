@@ -1,0 +1,6 @@
+FOR "RENT\"
+200|The Queen Mother is one to Prince Charles|Grandparent
+400|Prince Charles is this to the throne of England, meaning when Mom dies he gets it|Heir apparent
+600|When Prince Charles connects his razor to the mains, he's receiving this, abbreviated A.C., at 240 volts|Alternating current
+800|You have to figure that at some time in his life Prince Charles has made it to the city of Stoke-on-this|Trent
+1000|It's a whole lotta rain|Torrent

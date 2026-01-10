@@ -1,0 +1,6 @@
+FLIGHT SIMULATION
+200|(Sarah of the Clue Crew sits in a flight simulator.) The simulator is on stilts & uses hydrolic power to create a very realistic version of this condition defined as the random fluctuations of a fluid such as air|turbulence
+400|(Kelly of the Clue Crew sits in a flight simulator.) The simulator's primary flight display indicates the aircraft's trajectory; place the bird here on this line that defines the boundary between earth & sky & you'll get level flight|the horizon
+600|(Sarah of the Clue Crew sits in a flight simulator.) As technology advances keyboards, mouse buttons & trackballs have replaced dials & the state-of-the-art side-stick has replaced the control column or yoke that controls the 3 axes: roll, yaw & this up-&-down movement|pitch
+800|(Sarah of the Clue Crew sits in a flight simulator.) After takeoff it's normal to retract these on the wings whose functions include increasing lift & drag; the process is controlled by the pilot & monitored on the primary flight display|the flaps
+1000|(Sarah of the Clue Crew sits in a flight simulator.) The simulator has a database of many different airports that can be used for pilot training; for each airport, satellite imagery creates this detailed mapping whose name comes from the Greek for "place writing\"|topography

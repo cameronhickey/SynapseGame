@@ -1,0 +1,6 @@
+SPOT THE KITTY
+200|The Iranian, the Persian, the Zoroastrian|Persian
+400|The Wight, the Manx, the Orkney|Manx
+600|The Vietnamese, the Cambodian, the Burmese|Burmese
+800|The Russian green, the Russian black, the Russian blue|Russian Blue
+1000|The Himalayan, the Caucasian, the Uralian|Himalayan

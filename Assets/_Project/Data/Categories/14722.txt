@@ -1,0 +1,6 @@
+COUNTRIES' SECOND-LARGEST CITIES
+200|Thessaloniki|Greece
+400|Medellin|Colombia
+600|Bergen|Norway
+800|Mandalay|Myanmar (or Burma)
+1000|Freeport|the Bahamas

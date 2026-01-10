@@ -1,0 +1,6 @@
+THE STATE UNIVERSITY IN...
+200|Burlington|the University of Vermont
+400|Lawrence|the University of Kansas
+600|Oxford|Ole Miss (or Mississippi)
+800|Urbana-Champaign|the University of Illinois
+1000|Vermillion|the University of South Dakota

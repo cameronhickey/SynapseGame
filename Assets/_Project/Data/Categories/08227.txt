@@ -1,0 +1,6 @@
+\"FOUND\"
+200|First 4 words of "Blueberry Hill\"|\"I found my thrill\"
+400|Plant where workers make molded metal products called castings|a foundry
+600|In the U.S., 4 of the largest are Ford, Rockefeller, & the Weather Girls' corsets|foundations
+800|To disable a horse by excessive feeding|to founder
+1000|Poe began to "find" recognition in 1833, when he received $50 for this short story|\"MS. Found in a Bottle\"

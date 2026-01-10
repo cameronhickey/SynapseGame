@@ -1,0 +1,6 @@
+3 CONSECUTIVE CONSONANTS
+200|The sovereign's seat|a throne
+400|You do this to different watches to match the time|synchronize
+600|Money granted to a student to pursue studies|a scholarship
+800|An underhanded plot, like a pyramid one|scheme
+1000|Geometry term for triangles that can be exactly superimposed, one on the other|congruent

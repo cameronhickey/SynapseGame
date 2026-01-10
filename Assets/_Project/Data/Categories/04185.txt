@@ -1,0 +1,6 @@
+ADVERBS
+200|Adverb that begins Clark Gable's last line in "Gone with the Wind\"|frankly
+400|It's the word used most often in the ditty "Row, Row, Row Your Boat\"|merrily
+600|Someone facing a deadline works this way, as if his body temperature is rising|feverishly
+800|Take an adverb meaning "close", add -ly & you get this adverb meaning "almost\"|nearly
+1000|A synonym for fast, or the name of a Shakespearean tavern mistress|Quickly

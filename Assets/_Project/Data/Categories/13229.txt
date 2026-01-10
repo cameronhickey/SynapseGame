@@ -1,0 +1,6 @@
+BIG CITY MAYORS
+200|Rahm Emanuel|Chicago
+400|Havana-born Manny Diaz|Miami
+600|Havana-born Tomas Regalado|Miami
+800|Richard M. Daley|Chicago
+1000|Mitch Landrieu|New Orleans

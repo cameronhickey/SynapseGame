@@ -1,0 +1,6 @@
+PLANT ILLNESSES
+200|If gardeners overdo this, it deprives the roots of oxygen & can lead to root rot|water
+400|Black spot does what its name suggests, most commonly to the leaves of these beloved flowers' bushes|roses
+600|Ulmus hollandica Major is the scientific name for this tree in the name of a devastating disease|Dutch elm disease
+800|The gall type of this tiny arachnid can cause hairs, berrylike globes or other growths on your plants|a mite
+1000|This word for a disease that causes the plant to wither may be "early" or "late" when it afflicts potatoes|blight

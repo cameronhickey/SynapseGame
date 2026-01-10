@@ -1,0 +1,6 @@
+WRITERS EXPOSED
+200|Jerome David|(J.D.) Salinger
+400|Elwyn Brooks|(E.B.) White
+600|Clive Staples|Lewis
+800|Kids' author Robert Lawrence|(R.L.) Stine
+1000|Poet Wystan Hugh|(W.H.) Auden

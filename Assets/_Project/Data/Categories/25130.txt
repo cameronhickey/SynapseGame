@@ -1,0 +1,6 @@
+UNUSUAL PLURALS
+200|The plural of auditorium|auditoria
+400|The plural of index|indices
+600|The plural of seraph|seraphim
+800|The plural of genius|genii
+1000|The plural of genus|genera

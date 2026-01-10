@@ -1,0 +1,6 @@
+SHAKESPEARE FAMILY TIES
+200|Lady Capulet is his mother-in-law, briefly|Romeo
+400|Brabantio is her dad & Othello's father-in-law|Desdemona
+600|This "Tempest"uous daughter of Prospero says, "O brave new world, that has such people in it!\"|Miranda
+800|The son of Polonius, he seeks revenge against Hamlet for his father's murder|Laertes
+1000|She's the impatient sister of the title shrew|Bianca

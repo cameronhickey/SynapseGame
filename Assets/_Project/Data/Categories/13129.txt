@@ -1,0 +1,6 @@
+ON BOARD GAME BOARDS
+200|Luxury Tax, Chance, Jail/Just visiting|Monopoly
+400|Areas called Greenland, Western Europe, Alaska|Risk
+600|Hall, Study, Conservatory|Clue
+800|Yes, No, Good Bye|Ouija
+1000|Millionaire Estates, Pay Day!|Life

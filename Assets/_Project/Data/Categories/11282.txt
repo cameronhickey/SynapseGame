@@ -1,0 +1,6 @@
+DIRECTIONAL DIVERSIONS
+200|Steinbeck shows sadness in Salinas: "____ of Eden\"|East
+400|1948 Pulitzer winner for Michener: "Tales of the ____ Pacific\"|South
+600|Percy Bysshe Shelley: "Ode to the ____ Wind\"|West
+800|Shared title of 2 tales, one by John Jakes & one by Elizabeth Gaskell: "____ and ____\"|North and South
+1000|Robert Frost's 1914 collection: "____ of Boston\"|North

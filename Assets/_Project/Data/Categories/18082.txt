@@ -1,0 +1,6 @@
+COUNTRIES' ETHNIC GROUPS
+200|90% Khmer|Cambodia
+400|98% Bengali|Bangladesh
+600|58% Fleming|Belgium
+800|74% Sinhalese|Sri Lanka
+1000|42% Pashtun|Afghanistan

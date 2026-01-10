@@ -1,0 +1,6 @@
+MACHINES
+200|# of spark plugs normally used in a V-8 engine|8
+400|A reporter with a late-breaking story might beg a newspaper to "stop" these|the presses
+600|Some parts of this machine are the feed dog, presser foot, & bobbin winder|sewing machine
+800|Described in the first century, an early one of these machines dispensed holy water when a coin struck a lever|a vending machine
+1000|The "finned thingey" at the end of the Xerox machine that separates copies & keeps them in order|collator

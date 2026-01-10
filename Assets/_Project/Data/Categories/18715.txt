@@ -1,0 +1,6 @@
+SPOT THE IM-PASTA
+200|Conchiglie, consigliere, cappelletti|consigliere
+400|Manicotti, mineola, mostaccioli|Mineola
+600|Farandole, fideo, farfalloni|farandole
+800|Tortiglioni, tortellini, tortoni|tortoni
+1000|Campanelle, cavatelli, calamanco|calamanco

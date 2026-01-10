@@ -1,0 +1,6 @@
+FORMAL COUNTRY DESIGNATIONS
+200|Eritrea & Israel are formally designated as these, sort of like Idaho & Iowa|states
+400|Carl XVI Gustaf knows Sweden is formally one of these; with one more letter it's an old Seahawk home|kingdom
+600|Switzerland is the Swiss this, like what the original 13 U.S. colonies signed "Articles of" in 1781|confederation
+800|Nigeria is a federal republic; Pakistan is this type, more religious-oriented|an Islamic republic
+1000|As Andorra & Monaco are these, purple reigns|a principality

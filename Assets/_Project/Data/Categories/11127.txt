@@ -1,0 +1,6 @@
+BASIC SCIENCE
+200|In North America, these tiny birds are the main birds that pollinate flowers|hummingbirds
+400|Nitrogen makes up around 78% of the atmosphere; this gas, only about 20%|oxygen
+600|At last count, this planet in our solar system had 63 known moons|Jupiter
+800|8 years before "The Origin of Species" was published, this British naturalist wrote a paper on barnacles|Darwin
+1000|At the Earth's surface, this force produces acceleration of about 32 feet per second per second|gravity

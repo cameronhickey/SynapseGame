@@ -1,0 +1,6 @@
+THE STATE GOVERNED
+200|Bill Clinton|Arkansas
+400|George Pataki|New York
+600|William McKinley|Ohio
+800|Christine Todd Whitman|New Jersey
+1000|Janet Napolitano|Arizona

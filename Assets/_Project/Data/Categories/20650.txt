@@ -1,0 +1,6 @@
+AIRPORTS NAMED FOR PEOPLE
+200|If you are in Wroclaw in this country, you might observe the airport named for Copernicus|Poland
+400|Cities in Greece & Macedonia both have airports named for this man|Alexander
+600|Ajaccio on this French island has named its airport for Napoleon|Corsica
+800|Venice's airport is named for this Italian traveler|Marco Polo
+1000|Konrad Adenauer Airport serves this city where Konrad worked as chancellor of West Germany|Bonn

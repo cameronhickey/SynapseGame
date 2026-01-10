@@ -1,0 +1,6 @@
+FRENCH PHRASES
+200|French equivalent of the Spanish buenos dias|bonjour
+400|This 2-word phrase is found on airmail letters|Par avion
+600|A railroad or a gambling game you could be railroaded in|chemin de fer
+800|It could be "The final blow" in boxing or "The finishing stroke" in tennis|coup de grace
+1000|Strictly required according to etiquette or usage, such as wearing a bow tie with your tux|de rigueur

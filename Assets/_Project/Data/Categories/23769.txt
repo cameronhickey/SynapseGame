@@ -1,0 +1,6 @@
+COMMON COMMODITIES
+200|It hit an all-time high in August 2020, when it was trading at more than $2,000 an ounce|gold
+400|In 2011 trading ended in these "bellies", a symbol in pop culture of Chicago's arcane commodities trading world|pork bellies
+600|NG on your ticker stands for this, a nonrenewable hydrocarbon|natural gas
+800|Brazil is the leading producer of these legumes, a top commodity that's exported to China|soybeans
+1000|On the periodic table Hg stands for mercury, but in commodities HG stands for this, a good conductor of electricity|copper

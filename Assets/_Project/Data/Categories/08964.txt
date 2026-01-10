@@ -1,0 +1,6 @@
+BAKING 3s
+200|3 types of these are gas, electric & convection|ovens
+400|3 basic types of this ingredient are table, Kosher & sea|salt
+600|3 basic sugar types are granulated, brown & this one named for a profession|confectioner's
+800|3 basic types of this ingredient are all-purpose, cake & bread|flour
+1000|3 basic types of milk are fresh, sweetened condensed & this one that sounds like it's no longer there|evaporated

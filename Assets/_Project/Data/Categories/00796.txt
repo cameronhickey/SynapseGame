@@ -1,0 +1,6 @@
+BEANS
+200|One recipe for Boston baked beans calls for these seafaring legumes|navy beans
+400|It's the popular Japanese name for bean curd|tofu
+600|Before cooking your lima, fava or azuki beans you have to do this to them, maybe overnight|soak them
+800|This bean with a mottled coat is "refried" in Mexican cooking|pinto beans
+1000|Also called turtle beans, they're used in dips & in Cuban food|black beans

@@ -1,0 +1,6 @@
+MOVIE TITLE TRANSLATIONS
+200|In France, this unforgettable Adam Sandler film became "Love & Amnesia\"|50 First Dates
+400|This Oscar-winning film set in Somalia became "Helicopter on Fire" in Poland|Black Hawk Down
+600|In France, Billy Crystal learned all about "life, love and cows" in this film|City Slickers
+800|The censorship board in Malaysia damned this Ron Perlman film with the title "Super Sapiens\"|Hellboy
+1000|Bulgaria changed this Adam Sandler film to "Psycho Therapy\"|Anger Management

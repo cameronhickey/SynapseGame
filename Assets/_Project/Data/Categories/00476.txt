@@ -1,0 +1,6 @@
+GUNS
+200|A Beatles album, or a pistol with a rotating cylinder|Revolver
+400|People do this in horror, but guns do it when fired|recoil
+600|The strip on a handgun's barrel used for sighting, it sounds like Eve's anatomical origin|the rib
+800|Method used by Davy Crockett to insert ammo in "Old Betsy\"|muzzle loading
+1000|Term for spiral cut grooves in a weapon's bore|rifling

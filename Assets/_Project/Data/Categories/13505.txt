@@ -1,0 +1,6 @@
+THE ORGAN AFFECTED
+200|Endocarditis|the heart
+400|Nephritis|the kidney
+600|Encephalitis|the brain
+800|Keratitis|the eyes
+1000|Hashimoto's disease|the thyroid

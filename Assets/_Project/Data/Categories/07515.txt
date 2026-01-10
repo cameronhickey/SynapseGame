@@ -1,0 +1,6 @@
+ALL MY Xs
+200|In 1968 the MPAA rated a film adult by giving it this many Xs|1
+400|In a 2002 film, number of Xs on Vin Diesel's neck tattoo|3
+600|Claudia Silva starred in an L.A.-area theater production of "Cuatro Equis", this many|4
+800|Without getting a tic-tac-toe on "Hollywood Squares" you could still win a game with this many Xs|5
+1000|Maximum number of Xs that can appear on one bowler's score sheet in one game|12

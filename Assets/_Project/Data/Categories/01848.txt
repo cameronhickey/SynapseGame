@@ -1,0 +1,6 @@
+BACTERIA
+200|This sour liquid is produced by the action of bacteria on wine|Vinegar
+400|The U.S. CDC identified Legionella pneumophila as the cause of this form of pneumonia|Legionnaires' disease
+600|Like legumes, alders have bacteria living on their roots that fix this gas from the atmosphere|nitrogen
+800|A bacteriophage, one of these disease-causing agents, can infect bacteria|a virus
+1000|In 1883 Robert Koch discovered the bacterium responsible for this waterborne disease common in southern Asia|cholera

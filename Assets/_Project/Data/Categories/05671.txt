@@ -1,0 +1,6 @@
+CAPITAL CITY BIRTHPLACES
+200|Twiggy|London
+400|Placido Domingo|Madrid
+600|Marie Curie|Warsaw
+800|Sonja Henie|Oslo
+1000|Javier Perez de Cuellar|Lima

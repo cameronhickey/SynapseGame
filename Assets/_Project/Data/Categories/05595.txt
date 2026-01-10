@@ -1,0 +1,6 @@
+OCEANS
+200|Term for the collapsing waves that hit the beach; they may be spilling or plunging|breakers
+400|The height of a wave is measured from trough to this topmost point|Crest
+600|The 2 oceans whose names don't begin with "A\"|Indian & Pacific Oceans
+800|These marine habitats are called the "rainforests of the oceans\"|coral reefs
+1000|This surface current is mentioned in the chorus of "This Land is Your Land\"|Gulfstream (waters)

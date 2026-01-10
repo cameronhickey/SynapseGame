@@ -1,0 +1,6 @@
+THE BIG UNIT OF MEASURE
+200|The distance a photon travels in a vacuum in 365 days, this unit is often hyphenated|a light-year
+400|This unit of explosive power is equivalent to detonating 2 billion pounds of TNT|a megaton
+600|In terms of radiation intensity, one crab equals the output of the Crab one of these celestial masses|a nebula
+800|This number is 10 to the power of a googol|a googolplex
+1000|In geologic time, it's smaller than an eon or era, but the Eocene one still lasted about 20 million years|an epoch

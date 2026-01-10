@@ -1,0 +1,6 @@
+FIRST LINES OF HIT SONGS
+200|\"There's a fire starting in my heart, reaching a fever pitch it's bringing me out the dark\"|\"Rolling In The Deep\"
+400|\"On a dark desert highway, cool wind in my hair, warm smell of Colitas rising up through the air\"|\"Hotel California\"
+600|\"Well, it's one for the money, 2 for the show, 3 to get ready, now go cat go\"|\"Blue Suede Shoes\"
+800|\"Almost heaven, West Virginia, Blue Ridge Mountains, Shenandoah River\"|\"Take Me Home, Country Roads\"
+1000|\"I've never seen a diamond in the flesh, I cut my teeth on wedding rings in the movies\"|\"Royals\"

@@ -1,0 +1,6 @@
+POLICY
+200|Washington's farewell address espoused what became known as this -ism, avoiding all foreign alliances or entanglements|isolationism
+400|Based on a quote from him, the "big stick" policy was the popular name for this president's foreign affairs strategy|Teddy Roosevelt
+600|The first SALT treaties limited the use of these, ABMs for short|anti-ballistic missiles
+800|The murder of Army private Barry Winchell helped lead to a review of this 4-word policy regarding gay people in the military|don't ask, don't tell
+1000|In 2015 China announced it was dropping this policy aimed at curtailing its burgeoning population crisis|the one-child policy

@@ -1,0 +1,6 @@
+TINY THINGS
+200|These minute grains link the flowers & the bees|pollen
+400|Mayonnaise is an example of an emulsion that is a suspension of tiny globules of this in water|oil
+600|Access time on hard drives isn't measured in minutes, but in these units abbreviated ms|milliseconds
+800|Present in minute amounts in soil & water, these "elements", such as copper & zinc, are essential for your good health|trace elements
+1000|Those minute red blood cells are erythrocytes, white ones are leukocytes & these are thrombocytes|platelets

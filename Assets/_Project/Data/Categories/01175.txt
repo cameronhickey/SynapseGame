@@ -1,0 +1,6 @@
+NEWSPAPERS & MAGAZINES
+200|Read all about it! It's an unscheduled edition of a newspaper printed when big news breaks|an extra
+400|In 1993 this city's Herald won a Pulitzer gold medal for reporting on Hurricane Andrew|Miami
+600|In 1974 this Radnor, Penn.-based magazine became the first weekly to sell a billion copies in a year|TV Guide
+800|Now edited by Helen Gurley Brown, this magazine began in Rochester, N.Y. in 1886|Cosmopolitan
+1000|Harrison Salisbury, once this newspaper's Moscow correspondent, died in July 1993|the New York Times

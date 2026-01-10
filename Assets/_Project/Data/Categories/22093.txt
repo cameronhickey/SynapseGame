@@ -1,0 +1,6 @@
+ON THE GROUND FLOOR
+200|You'll find the SpaceBase Gift Shop on the ground floor of this Seattle attraction|the Space Needle
+400|The ground floor of "The Residence" in this U.S. building contains a diplomatic reception room & a chocolate shop|the White House
+600|The NYC Landmarks Preservation Commission has given historic designation to this skyscraper's 5th Avenue Art Deco lobby|the Empire State Building
+800|The massive underwriting room occupies the ground floor of the London headquarters of this company|Lloyd's of London
+1000|Le Cafe sits at the base of this Canadian spot, more than 1,100 feet below its revolving 360 Restaurant|the CN Tower

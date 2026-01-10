@@ -1,0 +1,6 @@
+U.S. NEWSPAPERS
+200|The Oregonian is a Portland paper & the Tennessean is from this city|Nashville
+400|Name shared by the largest newspaper by circulation in Houston & San Francisco|the Chronicle
+600|Tulsa has The World; Boston has this depiction of the world|the Globe
+800|If you're wondering, Cincinnati spells this newspaper with an "E"; Philadelphia does it with an "I\"|the Enquirer
+1000|Fort Lauderdale has the Sun-Sentinel; Fort Worth has the this-Telegram|the Star-Telegram

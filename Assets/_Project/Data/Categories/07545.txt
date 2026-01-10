@@ -1,0 +1,6 @@
+PRO SPORTS TEAMS
+200|Appropriate name of the Major League baseball team whose home field is Miller Park|the Brewers
+400|Manager Joe Torre led this American League team to 3 straight World Series titles, 1998-2000|New York Yankees
+600|The NBA's Sonics left Seattle & moved to this "city\"|Oklahoma City
+800|This NBA team has retired the jersey numbers of 7 players, including those of Kareem Abdul-Jabbar & Magic Johnson|Los Angeles Lakers
+1000|After 15 years away, in 2011 NHL hockey came back to this Canadian city whose name begins with victory|Winnipeg

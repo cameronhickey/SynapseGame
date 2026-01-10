@@ -1,0 +1,6 @@
+STAR TREK JARGON
+200|The type-2 of this weapon had a max power setting of 16 & could be set to heat, disrupt or stun|a phaser
+400|This Star Fleet missive prohibits interference with other civilizations|the Prime Directive
+600|This device briefly converts a person to energy, beams the energy, then reassembles the person|a transporter
+800|When Spock checks chronometric data he's looking at measurements of the space-this continuum|time
+1000|This crystal regulates matter/antimatter reactions that provide energy for travel faster than light|dilithium

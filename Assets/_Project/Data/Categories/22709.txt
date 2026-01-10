@@ -1,0 +1,6 @@
+ALL A "BOARD\"
+200|Diplomacy or Parcheesi, for example|a board game
+400|Made of compressed wood chips, it sounds like it's made of protons & neutrons|particle board
+600|Other '80s drivers knew a car had precious cargo when they saw a yellow, diamond-shaped sign with these 3 words|Baby on Board
+800|Established in 1848, the CBOT is the Chicago this|Board of Trade
+1000|The decision in this Supreme Court case was announced May 17, 1954|Brown v. Board of Education

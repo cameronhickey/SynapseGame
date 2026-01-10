@@ -1,0 +1,6 @@
+PICK A NICK
+200|This "Gatsby" narrator is a man in finance—a bond salesman, to be precise|(Nick) Carraway
+400|He's the Nick who wrote the novels "Fever Pitch" & "High Infidelity"; he also served at the pop music critic for "The New Yorker\"|(Nick) Hornby
+600|This Nick is the creator of Wallace & Gromit|Nick Park
+800|In "A Midsummer Night's Dream", this Nick becomes the beloved of a charmed Titania|Nick Bottom
+1000|This Nick was the alter ego of Ernest Hemingway; he's featured in the collection "In Our Time\"|Nick Adams

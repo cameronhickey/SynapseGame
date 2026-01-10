@@ -1,0 +1,6 @@
+CONJUNCTIONS
+200|If you remember a song from "The Sound of Music", you know it comes after "fa\"|so
+400|Meaning "for the reason that", in parent-speak it usually precedes "...I said so!\"|because
+600|From the Old English for "which of two", it's a frequent companion of "nor\"|neither
+800|It's the conjunction in the phrase immediately preceding Shakespeare's "that is the question\"|or
+1000|Synonyms for this 3-letter word include however, nevertheless & still|yet (or but)

@@ -1,0 +1,6 @@
+\"NEW" GEOGRAPHY
+200|St. John's, the capital of this Canadian province, lies on the Avalon Peninsula|Newfoundland
+400|The French call this overseas territory in the South Pacific Nouvelle- Caledonie|New Caledonia
+600|The Rajpath is the widest avenue in this capital city|New Delhi
+800|It's the largest tropical island in the world|New Guinea
+1000|The university of this Australian state is located in Kensington, a suburb of Sydney|New South Wales

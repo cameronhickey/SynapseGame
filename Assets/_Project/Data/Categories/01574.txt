@@ -1,0 +1,6 @@
+FRACTIONS
+200|A nickel is this fraction of a dollar|1/20
+400|A steed used for racing distances of 1,320 feet|a quarter horse
+600|It's the decimal form of the fraction 3/1000|.003
+800|To divide a number by 3/4, multiply the number by this fraction|4/3
+1000|It's how you express the fraction 7/4 as a mixed number|1 3/4

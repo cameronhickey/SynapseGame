@@ -1,0 +1,6 @@
+DOUBLE "E\"
+200|A hoarse whistling sound produced by breathing|wheeze
+400|It means strange & frightening, but it sounds like a big lake|eerie
+600|2-word numerical term for burial at sea or just getting rid of something|deep sixing
+800|To plead or implore urgently|beseech
+1000|To go forward or onward|proceed

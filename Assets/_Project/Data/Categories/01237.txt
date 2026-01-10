@@ -1,0 +1,6 @@
+MONTHS
+200|The second day of this month is devoted to a marmot|February
+400|Month named for the emperor during whose reign Jesus was born|August
+600|It's the title "Morn" in an '80s hit by Neil Diamond|\"September Morn\"
+800|In the Southern Hemisphere summer begins in this month|December
+1000|Leo & Virgo are both Zodiac signs for this month|August

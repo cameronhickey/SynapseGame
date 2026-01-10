@@ -1,0 +1,6 @@
+CITIES OF THE MIDWEST
+200|To accommodate "South Platters", the capital of Nebraska was moved in 1867 from Omaha to here|Lincoln
+400|No relation to the bubbly, this Illinois city is often paired with Urbana|Champaign
+600|This home city to Kansas State University shares its name with a Big Apple borough|Manhattan
+800|This Ohio city is known for its zoo & the Blue Jackets of the National Hockey League|Columbus
+1000|This Midwestern city whose name begins with the state it's in is home to the NCAA|Indianapolis

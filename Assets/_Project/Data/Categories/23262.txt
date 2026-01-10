@@ -1,0 +1,6 @@
+PHARMACEUTICALS
+200|Beta-blockers are used to prevent stimulation of certain receptors & to control rhythms in this body part|the heart
+400|To unstuff my nasal passages, please get me this type of drug (a word that's right on the non-drowsy Sudafed box)|a decongestant
+600|The track & field movie "Personal Best" includes a song about dianabol, an anabolic one of these|a steroid
+800|The active ingredient in products like Lotrimin for athlete's foot is an "anti-" this|fungal
+1000|Central nervous system depressants include tranquilizers for anxiety & these sleep inducers, from Latin for "calm\"|sedatives

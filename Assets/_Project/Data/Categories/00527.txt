@@ -1,0 +1,6 @@
+FLOWERS
+200|Varieties of this flower include "mariposa", "tiger" & "of the valley\"|lilies
+400|Ironically, not a rose at all, though this flower's name means "first rose\"|primrose
+600|Though this flower is associated with weakness, its name comes from the French for "thought\"|a pansy
+800|Anna Jarvis, considered founder of Mother's Day, wore this flower on that day|a carnation
+1000|Though Gilbert & Sullivan made her "sweet", cattle won't eat this flower because it's bitter|a buttercup

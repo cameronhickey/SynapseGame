@@ -1,0 +1,6 @@
+THE SPIN-OFF SOURCE
+200|of "Frasier\"|Cheers
+400|of "Better Call Saul\"|Breaking Bad
+600|of "Go, Diego, Go!\"|Dora the Explorer
+800|of "The Lone Gunmen\"|The X-Files
+1000|of "Melrose Place\"|Beverly Hills, 90210

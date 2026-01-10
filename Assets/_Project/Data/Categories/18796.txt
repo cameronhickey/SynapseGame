@@ -1,0 +1,6 @@
+STATE OF THE ESTATE
+200|Hearst Castle|California
+400|George Washington's Mount Vernon|Virginia
+600|Theodore Roosevelt's Sagamore Hill|New York
+800|Built by Alfred I. DuPont, Nemours Mansion|Delaware
+1000|The Vanderbilts' summer "cottage", The Breakers|Rhode Island

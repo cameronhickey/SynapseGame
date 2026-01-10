@@ -1,0 +1,6 @@
+OF "E" DEN
+200|When Mary Todd Lincoln was First Lady, the White House was still known as this "Mansion\"|Executive
+400|From the Latin for "shoulder blade", they're what's being worn here|epaulettes
+600|The civil branch of this occupation is concerned with the building & maintenance of public structures|engineering
+800|It's the E in an IED, a regrettable addition to 21st century warfare vocabulary|explosive
+1000|Cryptically named cryptogram machine used by the Nazis|Enigma

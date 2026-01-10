@@ -1,0 +1,6 @@
+AS TIME GOES BY
+200|The Winter Olympics are held at intervals of this many years|4
+400|In the Grimm Brothers version, Sleeping Beauty nods off for this many years|100
+600|Our French & Indian War was this war in Europe|the Seven Years' War
+800|To run in the Kentucky Derby you must be a horse & you must be this many years old|3
+1000|In a 19th century bestseller of men & the sea, Richard Henry Dana Jr. told of living this many "Years Before the Mast\"|Two

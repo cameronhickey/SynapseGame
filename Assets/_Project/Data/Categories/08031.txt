@@ -1,0 +1,6 @@
+STARTS & ENDS WITH "C\"
+200|It means of, near, or affecting the heart|cardiac
+400|Oui! Oui! The neighbors on "Knots Landing" lived on this type of street|cul-de-sac
+600|The irritability & crying caused by this condition in infants can last up to 12 hours|colic
+800|Adjective that describes a chemical such as lye that can burn or eat away another substance|caustic
+1000|Courvoisier is one of the world's leading makers of this potent potable|cognac

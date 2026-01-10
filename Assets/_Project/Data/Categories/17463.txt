@@ -1,0 +1,6 @@
+\"AD" VERBS
+200|To direct a speech at someone|address
+400|To officiate at the taking of an oath|administer
+600|The constitution says "Neither house...shall" do this for more than 3 days without permission from the other|adjourn
+800|To make someone confused|addle
+1000|To reprimand or urge to duty|admonish

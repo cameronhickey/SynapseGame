@@ -1,0 +1,6 @@
+HARD "BALL\"
+200|A system in which eligible people vote, or the physical piece of paper itself used to record each vote|a ballot
+400|Helper crouched by the side of the net at Wimbledon|a ball boy
+600|During WWII a barrage series of these was anchored to inhibit low-flying aircraft attacks|barrage balloons
+800|Those in this profession, like Julie Kent, might do an arabesque penche|a ballerina
+1000|An ancient weapon similar to a catapult used to hurl large stones|a ballista

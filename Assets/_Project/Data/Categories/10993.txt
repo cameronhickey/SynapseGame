@@ -1,0 +1,6 @@
+SHIPWRECKS
+200|Only divers can now sit at the bar of the Mikhail Lermontov, a Soviet one of these pleasure ships|cruise ships
+400|Built in 1892 but with a hull still made of this, the 300-foot Frank O'Connor sank in Lake Michigan in 1919|wood
+600|In 1700 the Henrietta Marie brought this main cargo from Africa to Jamaica, then sank with its next cargo, sugar|slaves
+800|The largest diveable wreck, U.S.S. President Coolidge, sank in 1942 when it hit one of the USA's own these|mines
+1000|Since 1957 the Aida has rested beneath this "colorful" body of water|the Red Sea

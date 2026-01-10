@@ -1,0 +1,6 @@
+A TEXTBOOK CATEGORY
+200|Chapter 3 of "Barron's AP U.S. Government and Politics" is devoted to this document|the Constitution
+400|David Klein's "organic" this covers stereoisomerism & aromatic compounds|chemistry
+600|Michael Pacione's "Urban Geography" covers "urban" this, the design & regulation of populated spaces|urban planning
+800|\"Personality Disorders" is a chapter in Butcher, Hooley & Mineka's "abnormal" this|psychology
+1000|\"The Eyes on the Prize Civil Rights Reader" includes this 1963 letter that begins, "While confined here\"|MLK's letter from Birmingham jail

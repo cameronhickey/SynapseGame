@@ -1,0 +1,6 @@
+GET "OFF\"
+200|If you're this, you might be AWOL, mistaken or a few steps away from first|off-base
+400|This hyphenated 4-word phrase describes something that starts & ends & starts & ends, like some relationships|on-and-off-again
+600|The Soho Playhouse on Vandam Street or the Actors Temple Theatre on West 47th, for example|off-Broadway
+800|The prayers & griping of college football fans were rewarded with this at the end of the 2014 season|a playoff
+1000|9-letter word for zealously authoritative|officious

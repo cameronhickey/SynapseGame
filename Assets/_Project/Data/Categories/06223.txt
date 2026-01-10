@@ -1,0 +1,6 @@
+MODES OF TRANSPORT
+200|Disney's Herbie|Volkswagen Beetle (car)
+400|Names for these include hogs & choppers|Motorcycles
+600|These ships were nicknamed "blubber ships\"|whaling ships
+800|This nickname for early cars pointed out that they were not pulled by equines|horseless carriages
+1000|He named the first Bell X-1 rocket plane for his wife, Glennis|Chuck Yeager

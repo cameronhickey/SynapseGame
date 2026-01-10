@@ -1,0 +1,6 @@
+\"B" ABBREVIATIONS
+200|bp (a cooking or chemistry indication)|boiling point
+400|BA (important for a hitter)|batting average
+600|BLM (a government agency)|the Bureau of Land Management
+800|.bw (an Internet country code in Africa)|Botswana
+1000|BAFO (an ultimatum in real estate)|best and final offer

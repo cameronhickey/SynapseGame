@@ -1,0 +1,6 @@
+POPES
+200|He was ordained a priest in 1946 in Krakow, Poland|Pope John Paul II
+400|Dubbed "The Smiling Pope", he reigned for 34 days in 1978|Pope John Paul I
+600|In 1964 he became the first pope in almost 2000 years to visit the Holy Land|Paul VI
+800|Clement VI, the 4th of 7 popes based in this French city, purchased it from Joan of Provence in 1348|Avignon
+1000|Paul III approved the formation of this order by Ignatius of Loyola in 1540|the Jesuits (the Society of Jesus)

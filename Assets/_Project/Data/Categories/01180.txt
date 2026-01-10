@@ -1,0 +1,6 @@
+CHEESE
+200|Traditionally, Roquefort cheese is ripened in one of these; spelunkers, be careful where you step|a cave
+400|The cheese often called American for short is a type of this cheese|cheddar
+600|This Swiss cheese is named for the Emme Valley in the canton of Bern|Emmentaler
+800|Mi-chevre cheeses are made of cow's milk & at least 25% this animal's milk|goat's milk
+1000|A glass of port is a traditional accompaniment for this British blue cheese|Stilton

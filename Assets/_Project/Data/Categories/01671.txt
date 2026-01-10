@@ -1,0 +1,6 @@
+AUTOMAKERS
+200|This Japanese businessman's company was founded in 1948 to make motorcycles; he unveiled his first car in 1963|(Soichiro) Honda
+400|In a 1988 film Jeff Bridges played this maverick carmaker who built only 51 of the cars named for him|(Preston) Tucker
+600|During WWII this automaker & his father received a portion of the profits on every VW beetle sold under the Nazis|(Ferdinand) Porsche
+800|He died in Germany in 1900; from 1998 to 2007 his name was joined with Chrysler|(Gottlieb) Daimler
+1000|In 1903 this man introduced his 15-hp Arrow model; 6 years later Pres. Taft ordered 2 for the White House|(George) Pierce

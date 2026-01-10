@@ -1,0 +1,6 @@
+PHOBIAS
+200|It's a good thing Noah didn't have antlophobia, the fear of this disaster; he wouldn't have survived|the fear of floods
+400|A person who stays out all night might be hypnophobic, afraid of this|sleeping
+600|It's what a chronophobic person fears|time
+800|Chorophobia is the fear of doing this; sometimes it can be overcome by taking certain lessons|dancing
+1000|A fear of these animals is called taurophobia|bulls

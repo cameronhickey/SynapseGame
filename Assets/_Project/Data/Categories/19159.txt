@@ -1,0 +1,6 @@
+COOPER: ALICE, GARY OR ANDERSON
+200|2-time Academy Award winner|Gary Cooper
+400|Appeared in the 1992 film "Wayne's World\"|Alice Cooper
+600|Studied & speaks Vietnamese|Anderson Cooper
+800|Once dated Raquel Welch|Alice Cooper
+1000|Born in Helena, Montana|Gary Cooper

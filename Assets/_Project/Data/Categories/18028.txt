@@ -1,0 +1,6 @@
+2 PRESIDENTS, SAME LAST NAME
+200|They were both born in the 18th century|the Adams
+400|They were separated by only one other president|the Bushes
+600|Both became president unexpectedly|(the) Johnson(s)
+800|Grandfather & grandson|(the) Harrisons
+1000|They were fifth cousins|the Roosevelts

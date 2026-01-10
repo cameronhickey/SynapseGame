@@ -1,0 +1,6 @@
+NAME THAT CRITTER
+200|Panthera tigris|a tiger
+400|Ursus arctos horribilis|a grizzly bear
+600|Mus musculus|a mouse
+800|Gymnogyps californianus|California condor
+1000|Loxodonta africana|African elephant

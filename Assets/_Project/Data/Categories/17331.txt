@@ -1,0 +1,6 @@
+USER NAME
+200|During a baseball game, the player who typically wears a chest-protecting pad|the catcher
+400|Alan Gilbert & Valery Gergiev are 2 of these baton users|conductors
+600|In a 1949 comic book & a 1978 movie, he uses a chunk of kryptonite to mess with Superman|Lex Luthor
+800|In an operating room, this specialist uses a continuous flow Boyle's machine|the anesthesiologist
+1000|Man was no longer the one tool-using animal when in 1960 a chimp named David was observed using twigs to fish for these to snack on|termites

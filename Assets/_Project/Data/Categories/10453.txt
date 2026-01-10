@@ -1,0 +1,6 @@
+SLOTH
+200|This U.S. president gave a 1797 talk on a fossil he thought was a primitive feline; it was really a ground sloth|Jefferson
+400|The harpy type of this raptor is one of the sloth's main predators|the eagle
+600|Most mammals have 7 of these neck bones; 3-toed sloths have 8 or 9 & can rotate their heads 270 degrees|(cervical) vertebrae
+800|Sloths are heterothermic, more commonly termed this; their body temperature can vary by 20 degrees a day|cold-blooded
+1000|Moss doesn't grow on a slow-moving sloth but blue-green this does, giving its fur a green hue|algae

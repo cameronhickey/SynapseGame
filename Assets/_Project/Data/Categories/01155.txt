@@ -1,0 +1,6 @@
+MOVIE MONSTERS
+200|This creeping ooze was incapacitated when Steve McQueen & others froze it|The Blob
+400|This monster was born Imhotep, the high priest of the Temple of the Sun|a Mummy
+600|In "The Conjuring" film franchise, a vintage doll with this title name serves as a conduit for evil|Annabelle
+800|The Gill-Man is a prehistoric beast from the Amazon in this 1954 movie|the Creature from the Black Lagoon
+1000|\"The Thing", about a shapeshifting alien menace crash-landing on Earth, takes place in this desolate region|Antarctica

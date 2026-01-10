@@ -1,0 +1,6 @@
+FEARnet
+200|A multi-platform horror network, FEARnet includes a V.O.D. service, short for this|video on demand
+400|As voted on by FEARnet.com members, the most popular horror shockers include "The Shining" & this '73 Linda Blair film|The Exorcist
+600|Join FEARnet & you can rank movies, discuss horror topics, or just post one of these death notices for yourself|obituary
+800|FEARnet search allows you to search by topic, like "cannibalism", "werewolf" or this director of "Evil Dead\"|Sam Raimi
+1000|At FEARnet's "News & Reviews" section catch up on events like this horror mag's convention in Chicago|Fangoria

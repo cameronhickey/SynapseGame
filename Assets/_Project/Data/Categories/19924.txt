@@ -1,0 +1,6 @@
+PROVERBIAL VERBS
+200|\"If it ain't broke, don't ____ it\"|fix
+400|\"____ not, want not\"|waste
+600|\"He who ____ last, ____ longest\"|laughs
+800|\"____ what you preach\"|practice
+1000|\"Curses, like chickens, come home to ____\"|roost

@@ -1,0 +1,6 @@
+COUNTRIES' BIGGEST CITIES
+200|Kathmandu|Nepal
+400|Karachi|Pakistan
+600|Lagos|Nigeria
+800|Belgrade|Serbia
+1000|Aleppo|Syria

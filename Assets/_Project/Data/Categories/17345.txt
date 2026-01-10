@@ -1,0 +1,6 @@
+CAN I GET A NUMBER?
+200|It's the base of our number system|10
+400|This number when spelled out has the same number of letters as its value|4
+600|The Baskin-Robbins logo introduced in 1953 included this number|31
+800|Revelation 13 declares it "the number of the beast\"|666
+1000|212 is the area code for the Empire State Building; this is the area code for the White House|202

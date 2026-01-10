@@ -1,0 +1,6 @@
+OATHS & CREEDS
+200|Witnesses taking an oath in court swear all their statements will be this|the truth, the whole truth, and nothing but the truth
+400|In the Oath of Allegiance, an alien becoming a U.S. citizen swears to bear these when required by law|arms
+600|In the Boy Scout Oath, a scout pledges to keep himself physically strong & mentally this|awake
+800|The Nicene Creed says, "We believe in one God... one Lord, Jesus... & in" this|the Holy Ghost
+1000|The 3 things the president swears he'll do for the Constitution the United States|preserve, protect & defend

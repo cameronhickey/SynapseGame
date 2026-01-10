@@ -1,0 +1,6 @@
+MALE NEWBORNS
+200|Panda, hyena or lion|cubs
+400|Deer or pronghorn|fawns
+600|Horse or zebra|a foal (or colt)
+800|Wallaby, koala, or kangaroo|a joey
+1000|Pigeon or dove|squab

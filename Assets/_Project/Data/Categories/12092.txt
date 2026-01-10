@@ -1,0 +1,6 @@
+THE ELECTRIC COMPANY
+200|The world's first public electricity supply was provided in 1881 to a city in this country|Great Britain
+400|Using direct current, this U.S. metropolis' first electric supplier was the Pearl Street Power Station in 1882|New York City
+600|Still around today, this power company was one of the first 12 companies included in the DJIA in 1896|General Electric (or G.E.)
+800|Here's some current info: Duke Energy, headquartered in this state, brings electric power to 4 million people|North Carolina
+1000|In 1882 this U.S. inventor opened a steam-powered electricity generating station|Edison

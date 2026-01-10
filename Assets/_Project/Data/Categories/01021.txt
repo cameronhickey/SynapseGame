@@ -1,0 +1,6 @@
+SEWING
+200|The sewing of pieced or patchwork kinds of these was a popular folk art in preindustrial America|a quilt
+400|The accordion type of these have folds resembling the bellows of that instrument|pleats
+600|Advanced sewers may baste with these instead of thread|pins
+800|The patch type of this is the easiest to make; the side seam, slot & welt are a bit harder|a pocket
+1000|Inverted pleats are the reverse side of this type of pleats|box pleats

@@ -1,0 +1,6 @@
+KID RHYMES
+200|To offer money for something at an auction|bid
+400|Fast mover of the deep with 10 arms|a squid
+600|The cover of a jar|a lid
+800|To slip sideways on a road|skid
+1000|An arrangement of straight lines that cross each other to form squares|a grid

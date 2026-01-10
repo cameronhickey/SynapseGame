@@ -1,0 +1,6 @@
+STEINBECK WORKS BY CHARACTERS
+200|Jim Casy, an ex-preacher, & Tom Joad, an ex-con|The Grapes of Wrath
+400|George, a farm laborer & Curley, son of a ranch owner|Of Mice and Men
+600|Twin brothers Aron & Caleb Trask|East of Eden
+800|Jody Tiflin, a young boy, & Gabilan, a young colt|The Red Pony
+1000|Doc, owner of a biological lab, & Dora, madam of a brothel|Cannery Row

@@ -1,0 +1,6 @@
+MISSING MOVIE TITLE ADJECTIVES
+200|A romcom: "____ in Seattle\"|Sleepless
+400|\"My ____ ____Greek Wedding\"|Big Fat
+600|A classic about a drinking binge: "The ____ Weekend\"|Lost
+800|Charlie Chaplin's "____ Times \"|Modern
+1000|\"Alright, alright, alright", a cult favorite set in 1976: "____ and ____\"|Dazed & Confused

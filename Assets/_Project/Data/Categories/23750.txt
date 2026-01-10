@@ -1,0 +1,6 @@
+PLUS
+200|At the University of Chicago & other schools, the grading system consists of 5 letters, 3 that can have + added & these 2 that can't|A & F
+400|These long, baggy men's knickers were popular on 1920s golf courses|plus fours
+600|Britain's eleven plus exams are basically entrance tests to admits kids to this kind of school that not our writers, obviously|grammar school
+800|At Bell Labs Bjarne Stroustrup designed this programming language released in 1985|C++
+1000|In French the word plus means "more", as in this expression that begins, "plus ça change" (a translation is fine)|the more things change the more they stay the same

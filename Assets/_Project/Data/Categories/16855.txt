@@ -1,0 +1,6 @@
+LANDS NAMED AFTER PEOPLE
+200|This South American country is named for an Italian navigator (don't think too much)|Colombia
+400|This South American country that became independent in 1825 is named for its liberator|Bolivia
+600|This country on the Rhine River is named for an Austrian prince; his descendants still rule the country|Liechtenstein
+800|This Indian Ocean island is named after a former governor, Maurice of Nassau|Mauritius
+1000|A British territory, this island group about 700 miles east of the Carolinas is named for its discoverer|Bermuda

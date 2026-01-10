@@ -1,0 +1,6 @@
+\"L"EGALESE
+200|This crime of taking property with the intent to deprive the owner of it can be grand or petty|larceny
+400|These 2 4-letter words often precede "and testament" in the name of a legal document|last will
+600|Disguising illegal funds & making them usable again|laundering
+800|If you want to go to Harvard Law, better ace this 4-letter test used as a criterion for admission|the LSAT
+1000|A claim upon property to secure payment of a debt|a lien

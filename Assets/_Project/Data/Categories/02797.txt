@@ -1,0 +1,6 @@
+MOVIE OBJECTS
+200|In 1978's "Superman", Lex Luthor obtains a glowing chunk of this mineral, Superman's weakness|Kryptonite
+400|In "A Very Brady Sequel", Tim Matheson struggles to steal the Bradys' statue of one of these animals|Horse
+600|At the beginning of "Close Encounters", a bunch of these, missing since 1945, are found in the Sonoran Desert|airplanes
+800|This shiny title object from a 2007 fantasy film is actually an alethiometer, which cryptically answers questions|The Golden Compass
+1000|When Jimmy Stewart finds these items from his daughter Zuzu in his pocket in "It's a Wonderful Life", all is well|the flower petals

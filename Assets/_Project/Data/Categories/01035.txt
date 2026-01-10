@@ -1,0 +1,6 @@
+TEACHERS
+200|Anne Mansfield Sullivan is best known as her teacher|Helen Keller
+400|While teaching at a high school in Brunn, he began his experiments in the heredity of peas|Mendel
+600|This University of Oklahoma law professor came to the forefront during the Clarence Thomas hearings|Anita Hill
+800|He taught biochemistry at Boston University while writing his sci-fi work "The Foundation Trilogy\"|Isaac Asimov
+1000|This former zoology teacher questioned the use of pesticides in "Silent Spring\"|Rachel Carson

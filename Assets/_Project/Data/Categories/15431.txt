@@ -1,0 +1,6 @@
+A MATTER OF SOME GRAVITY
+200|British scientist Henry Cavendish made the first reliable measurement of gravity late in this century|the 18th century
+400|NASA's Neutral Buoyancy Lab puts astronauts in a simulation of this condition that's experienced during space flight|zero gravity
+600|The Sun's gravity is said to perturb, or affect, this path of the Moon relative to the Earth|its orbit
+800|Building on the work of Galileo and Kepler, he published the first quantitative theory of gravitation in 1687|Newton
+1000|There's "gravity" in this term for the point in an object that, if supported, puts the whole object in equilibrium|center of gravity

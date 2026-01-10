@@ -1,0 +1,6 @@
+SPLIT "N"s
+200|Oddly, an archaic meaning of this time of day is midnight|noon
+400|To tidy|to neaten
+600|A doc who cuts into the brain|neurosurgeon
+800|Any male born to high rank|a nobleman
+1000|A state's suspension of certain federal laws; S.C. attempted it with tariff laws in 1832|nullification

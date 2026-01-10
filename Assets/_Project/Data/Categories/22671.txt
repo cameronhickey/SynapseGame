@@ -1,0 +1,6 @@
+BOOKS BY SUBTITLE
+200|2006: "An Oral History of the Zombie War\"|World War Z
+400|1995: "The Life and Times of" a certain "Wizard of Oz" character|Wicked
+600|2005: "Life and Love with the World's Worst Dog\"|Marley & Me
+800|2012: "From Lost to Found on the Pacific Crest Trail\"|Wild
+1000|1877: "The Autobiography of a Horse\"|Black Beauty

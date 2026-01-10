@@ -1,0 +1,6 @@
+\"ALL" THE WAY
+200|Hypersensitivity to a substance|Allergy
+400|An L-shaped wrench that's hexagonal in cross-section|Allen wrench
+600|A mixture of 2 or more metals|Alloy
+800|A western mountain range of the Appalachians|Alleghenies
+1000|\"Crocodilian" nickname for an avocado|Alligator pear

@@ -1,0 +1,6 @@
+THE CITIES' TIME ZONE
+200|Puyallup, San Jose|Pacific
+400|Paducah, Sheboygan|Central
+600|South Hadley, Rehoboth Beach|Eastern
+800|Fort Collins, Deadwood|Mountain (Time)
+1000|Klamath Falls, North Las Vegas|Pacific

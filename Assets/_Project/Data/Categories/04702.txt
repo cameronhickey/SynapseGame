@@ -1,0 +1,6 @@
+MASS
+200|After the reading from one of the gospels, one of these, meaning speech, is delivered|a homily (or sermon)
+400|During offertory, they're the usual 2 things offered to God by the celebrant|bread & wine
+600|The Communion opens with this prayer from the Sermon on the Mount|the Lord's Prayer
+800|It's a mass for the dead; Verdi is among the composers who set it to music|a requiem
+1000|Pope from 590 to 604, he collected many of the chants used in the mass|Pope Gregory I

@@ -1,0 +1,6 @@
+FAMILY MEMBERS
+200|The family Rosaceae includes roses & these fruits, such as Jonathans|apples
+400|It's the scientific name of the only extant species of the primate family Hominidae|Homo sapiens
+600|If you're looking at a marimba, you probably can figure out it's in this family of musical instruments|percussion
+800|Portuguese & Catalan are part of this Indo-European language family|the Romance languages
+1000|Safer antibiotics & penicillin have largely replaced this family of drugs first used in the 1930s|sulfas

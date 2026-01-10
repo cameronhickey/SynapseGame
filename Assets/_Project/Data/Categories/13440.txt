@@ -1,0 +1,6 @@
+ON THE RESTAURANT'S FAST FOOD MENU
+200|The Happy Meal with hamburger|McDonald's
+400|A boneless variety bucket of poultry, including a popcorn one|KFC
+600|Among Jared's favorites: Veggie Delite|Subway
+800|Meximelt, Crunchwrap Supreme|Taco Bell
+1000|A Frosty-cino drink|Wendy's

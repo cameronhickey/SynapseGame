@@ -1,0 +1,6 @@
+\"S" AS IN SIMILE
+200|\"___ as a bug in a rug\"|snug
+400|\"___ as an eel\"|slippery
+600|\"___ as a tack\"|sharp
+800|\"___ as a mule\"|stubborn
+1000|\"___ as a statue\"|still

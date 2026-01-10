@@ -1,0 +1,6 @@
+FALLING OFF A LOG
+200|A lizard may choose a log to sun himself, or this 4-letter word; don't knock him off!|bask
+400|Its purported thousand legs might not keep this arthropod from falling off the log where it lives|a millipede
+600|The badger may be looking for a larval insect called this, also a word for human food|grub
+800|In Madagascar, the hissing type of this insect is semi-social as they nest together and take care of their offspring|cockroach
+1000|It's on the log, off the log, over & over, if you're this type of ant, whose name you can guess by what they're carrying|leafcutter ant

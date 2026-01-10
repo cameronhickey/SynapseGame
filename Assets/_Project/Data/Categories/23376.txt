@@ -1,0 +1,6 @@
+NATIONAL PARK COUNTRIES
+200|Killarney National Park|Ireland
+400|Masada National Park|Israel
+600|Lake District National Park|United Kingdom
+800|Tikal National Park|Guatemala
+1000|Serengeti National Park|Tanzania

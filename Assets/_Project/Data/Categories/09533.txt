@@ -1,0 +1,6 @@
+FLAG ME DOWN
+200|The green triangle on Sudan's flag represents this religion|Islam
+400|This amusement park chain is named for the multiple banners that once flew over Texas|Six Flags
+600|This geographic feature on Nebraska's state flag bears the name of another state|Missouri
+800|This grizzly-bannered nation was declared in California in 1846|the Bear Flag Republic
+1000|The colors on this Low Country's flag came from the coat of arms of the province of Brabant|Belgium

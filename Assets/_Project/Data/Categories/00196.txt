@@ -1,0 +1,6 @@
+CANADA
+200|Leaf of this tree is Canada's national symbol|maple
+400|Eastern province that's been threatening to secede|Quebec
+600|This city's annual rodeo-carnival is called the "Stampede\"|Calgary
+800|Once arrested by Jordanians as a spy, he was prime minister until summer '84|Trudeau
+1000|A British colony until it became Canada's 10th province in 1949|Newfoundland

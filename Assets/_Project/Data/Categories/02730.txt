@@ -1,0 +1,6 @@
+SCIENTIFIC INSTRUMENTS
+200|Used by Isaac Newton to study light, this multi-sided object is found in modern spectrometers|Prism
+400|A vessel made to hold high-temperature material, or a Winona Ryder & Daniel Day-Lewis film|The Crucible
+600|A spectrohelioscope is used by astronauts to study this body|the sun
+800|Grolier's Ency. calls this pressure gauge "the single most important meteorological instrument\"|barometer
+1000|An "ultra" form of this device used to separate substances from mixtures can operate at up to 80,000 RPM|centrifuge

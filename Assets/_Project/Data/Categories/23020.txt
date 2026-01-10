@@ -1,0 +1,6 @@
+6-LETTER "S"YNONYMS
+200|A child's teeter-totter|a seesaw
+400|Slang for a black eye|a shiner
+600|Candle bracket|a sconce
+800|An ape, or apelike|simian
+1000|To envelop or to bandage|swathe

@@ -1,0 +1,6 @@
+LET'S GET COOKING!
+200|This fluffy white confection holds your Rice Krispies treats together|marshmallows
+400|With red & white dough twisted together, you can make cookies shaped like this Christmas treat|candy canes
+600|For a great snack you can make chips by baking strips of this round Mexican flat bread|tortillas
+800|With your homemade chips, serve this Mexican dip made from mashed avocado|guacamole
+1000|Maybe mom will let you thread the chunks of meat & vegetables on skewers to make the Middle Eastern dish|kebabs

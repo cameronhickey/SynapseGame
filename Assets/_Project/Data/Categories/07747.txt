@@ -1,0 +1,6 @@
+LET'S SPEAK ITALIAN
+200|(Jimmy of the Clue Crew at a cafe in Rome) If I ask an Italian lady "Esposa?", I'm asking her this|Are you married?
+400|Quattrocento refers to this century, specifically the early Renaissance in Italy|15th century
+600|(Jimmy of the Clue Crew in Rome) The city I'm in is Roma, Florence is Firenze & Naples is this|Napoli
+800|In Italian, coincidenza are these which travelers make with trains or planes|connections
+1000|It's Italian for "the street" & the Italian title of a 1954 Fellini classic|La strada

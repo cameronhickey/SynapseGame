@@ -1,0 +1,6 @@
+CONTINENT BY COUNTRIES
+200|Paraguay, Uruguay|South America
+400|Estonia, Romania|Europe
+600|El Salvador, Costa Rica|North America
+800|Sierra Leone, Senegal|Africa
+1000|Laos, Turkmenistan|Asia

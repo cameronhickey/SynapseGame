@@ -1,0 +1,6 @@
+WELCOME "BACK\"
+200|In car-speak, it's a loud, premature explosion in the intake manifold|a backfire
+400|\"Just when you thought it was safe" to do this began as ad copy for "Jaws 2\"|go back in the water
+600|It describes the final half of a golf course|the back 9
+800|Anatomical term for strength of character; c'mon, get some!|backbone
+1000|An explosive surge in a fire produced by the sudden inrush of oxygen mixing with superheated gases|backdraft

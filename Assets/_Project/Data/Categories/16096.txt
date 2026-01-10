@@ -1,0 +1,6 @@
+GENERAL FOOD
+200|A term for grain from grass, it follows "breakfast" in your morning routine|cereal
+400|General term for the edible kernel of a one-seeded fruit|a nut
+600|Food in the Old West, perhaps from the wagon of the same name|chuck
+800|Despite its name, this storeroom similar to a pantry is not specifically for keeping hog fat|a larder
+1000|Sometimes "K" or "C", they're food supplies for soldiers|rations

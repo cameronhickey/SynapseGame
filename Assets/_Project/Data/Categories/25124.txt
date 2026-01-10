@@ -1,0 +1,6 @@
+KING TUT
+200|Tut is short for this|Tutankhamun
+400|Of the 14th, 8th or 4th century B.C., when King Tut lived|14th
+600|Tho it's argued whether Tut was hydrocephalic, this part of his mummy is abnormally enlarged|head
+800|When he died, at about the age of 20, he was buried in this valley|Valley of the Kings
+1000|His tomb was discovered in 1922, by this English archaeologist|(Howard) Carter

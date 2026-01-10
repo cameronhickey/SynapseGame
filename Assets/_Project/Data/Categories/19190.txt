@@ -1,0 +1,6 @@
+PRAYERS
+200|When reciting the Islamic prayer salat, practitioners face this city|Mecca
+400|The Hindu prayer called savitri is traditionally said at dusk until these appear in the sky|the stars
+600|Meaning "good speech", it's a blessing by a minister at the close of a service|benediction
+800|On this holiday of beginnings, Jews say tashlich prayers by a body of water into which sins are symbolically cast|Rosh Hashanah
+1000|In Roman Catholic liturgy, lauds are morning prayers & these are evening prayers|vespers

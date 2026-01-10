@@ -1,0 +1,6 @@
+ENDS WITH DOUBLE E
+200|A classification of the seriousness of a burn|the degree
+400|A very enthusiastic follower of a religious leader|a devotee
+600|French word for a cooked vegetable that's been put through a blender|purée
+800|(Kelly of the Clue Crew displays the Earth & the Moon on the monitor.) The position of the Moon in its orbit at its farthest point from us is known by this term, from the Greek for "away from the Earth\"|apogee
+1000|A small or medium-sized sofa|a settee

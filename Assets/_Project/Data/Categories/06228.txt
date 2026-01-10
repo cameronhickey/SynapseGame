@@ -1,0 +1,6 @@
+OFF & RUNNING
+200|In Olympic track & field events, this many runners make up a relay team|4
+400|She won 3 track & field gold medals at the 1988 Summer Olympics|Florence Griffith Joyner
+600|In 1985 this American middle-distance runner married discus thrower Richard Slaney|Mary Decker
+800|Finland's Olympic Stadium prominently features a statue of this distance runner|Paavo Nurmi
+1000|Runners must clear hurdles & water jumps in this 3,000-meter track & field event|Steeplechase

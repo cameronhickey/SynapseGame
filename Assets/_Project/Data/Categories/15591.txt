@@ -1,0 +1,6 @@
+STATE FARM
+200|The Orange Grove near Tampa|Florida
+400|Happy Heart Farm in Fort Collins|Colorado
+600|Tami's Berry Patch near Fond du Lac|Wisconsin
+800|Fairfield Farm in Corvallis|Oregon
+1000|Fairwinds Farm in Bowdoinham|Maine

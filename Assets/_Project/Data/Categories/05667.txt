@@ -1,0 +1,6 @@
+NEWSPAPER CITIES
+200|The Post-Dispatch, est. 1878|St. Louis
+400|The Free Press, est. 1831|Detroit
+600|The Mercury News, est. 1851|San Jose
+800|The World-Herald, est. 1885|Omaha
+1000|The Morning News, est. 1885|Dallas

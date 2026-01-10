@@ -1,0 +1,6 @@
+LEFT, RIGHT, CENTER
+200|To an ophthalmologist, the Latin abbreviation O.D., for oculus dexter, can refer to this body part|the right eye
+400|There's a film society & a chamber music society of this on the Upper West Side between 62nd & 65th|Lincoln Center
+600|You're "out in" this sports area when you hold an extreme or unconventional point of view|left field
+800|It has 3 sides & contains a 90-degree angle|right triangle
+1000|Ironically, the publisher of this Christian sci-fi book series sponsored a NASCAR racing team in 2002|Left Behind

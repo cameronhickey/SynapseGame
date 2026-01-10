@@ -1,0 +1,6 @@
+LOCAL FOOD MOVEMENT
+200|Britannica says the human digestive system begins at these fleshy bits; mum's the word on where it ends|the lips
+400|This shortest, initial part of the small intestine has ducts from the pancreas & gall bladder|the duodenum
+600|From the Greek, this squeezing motion pushes food down the esophagus|peristalsis
+800|A main function of the large intestine is the absorption of these current-conducting compounds|electrolytes
+1000|It's the valve that leads from the stomach to the small intestine|the pyloric sphincter

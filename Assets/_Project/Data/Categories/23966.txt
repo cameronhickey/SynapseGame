@@ -1,0 +1,6 @@
+WHAT COLLEGE
+200|This college in New Hampshire is part of the Ivy League|Dartmouth
+400|Alphabetizing colleges in Boston, it's right before Emmanuel|Emerson
+600|Its faculty are also tenured at Columbia University|Barnard
+800|Seven Sisters school, the pride of Poughkeepsie|Vassar
+1000|Portland school once tagged as a red hotbed because its name was incorrectly associated with journalist John|Reed College

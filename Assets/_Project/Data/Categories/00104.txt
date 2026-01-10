@@ -1,0 +1,6 @@
+POTENT POTABLES
+200|Never swallowing, they sip, swish, gargle, then spit out what they sample|what wine tasters do
+400|Derived from Hindu word for "5", describing number of ingredients mixed in a large bowl|punch
+600|Cartoon critters who share their name with holiday rum & eggnog mix|Tom & Jerry
+800|The liquid you use less of to make your martini dry|vermouth
+1000|A wine's fragrance|bouquet

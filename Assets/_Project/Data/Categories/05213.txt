@@ -1,0 +1,6 @@
+INTERNATIONAL ORGANIZATIONS
+200|Of Eastern Bloc, Western Bloc, or nonaligned, the group to which most U.N. members belong|nonaligned
+400|Publications dealing with this religious & social welfare group include "War Cry\"|The Salvation Army
+600|This int'l police organization includes not only 3 Eastern Bloc countries but also Laos & Cuba|INTERPOL
+800|TAP is an aid project helping refugees from here (the "T") who fled to India, Nepal, Bhutan & Sikkim|Tibet
+1000|Jean Henri Dunant shared the 1st Nobel Peace Prize for founding this organization in 1864|Red Cross

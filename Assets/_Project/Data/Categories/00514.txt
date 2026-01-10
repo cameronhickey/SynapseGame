@@ -1,0 +1,6 @@
+TREES
+200|The world's largest living thing is the General Sherman Tree in this U.S. state|California
+400|Though its outer wood is white, its dark inner wood is used for black piano keys|ebony
+600|Cork comes from this tree|the cork oak tree
+800|A type of crab is named for this tree which it climbs|the coconut
+1000|The most massive tree is a giant sequoia named for this general; its seeds weigh about 1/5,000 oz.|General Sherman

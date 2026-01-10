@@ -1,0 +1,6 @@
+MILITARY NICKNAMES
+200|The "Little Corporal" of the 19th century|Napoleon
+400|\"Stormin' Norman" of the 1990s|Schwarzkopf
+600|The high-flying "Red Baron" of World War I|von Richthofen
+800|Mr. "Unconditional Surrender" of the Civil War|Grant
+1000|The "Desert Fox" of Afrika|Rommel

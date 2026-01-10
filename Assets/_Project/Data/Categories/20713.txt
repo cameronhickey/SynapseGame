@@ -1,0 +1,6 @@
+\"P" + 3
+200|It's this part of a plane|a prop
+400|It's this colorful singer|Pink
+600|It's this piece of footwear|a pump
+800|It's this item held by the man in the illustration|a pike
+1000|It's this Broadway impresario|Joseph Papp

@@ -1,0 +1,6 @@
+BONE APART
+200|You're within range of this forearm bone, seen apart from its pal, the ulna|radius
+400|Open your jaw & name it|the mandible
+600|Here's the fossilized vertebra of this ancient creature similar to a mastodon|a woolly mammoth
+800|Collar some dollars & name this bone|a clavicle
+1000|Make a clean breast of things & name this bone|a sternum

@@ -1,0 +1,6 @@
+BASEBALL MANAGERS
+200|Since taking over the Yankees in 1996, he's guided the team to 6 World Series appearances, winning 4 times|Joe Torre
+400|After retiring as the Dodgers' manager, he guided the 2000 U.S. Olympic baseball team to the gold medal|Tommy Lasorda
+600|Nicknamed "The Lip", he managed the Dodgers, Giants, Cubs & Astros in his 24-year career|(Leo) Durocher
+800|Born Cornelius McGillicuddy, he's the only manager in history to win more than 3,000 games—3,776, to be precise|Connie Mack
+1000|Hall of Fame manager George Anderson receved this nickname because of his scrappy determination|\"Sparky\"

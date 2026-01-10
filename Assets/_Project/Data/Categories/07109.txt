@@ -1,0 +1,6 @@
+DISASTER DIGEST
+200|A shaking of the earth's surface caused by the rapid movement of the earth's outer layer|earthquake
+400|1666: A great fire destroys much of this capital city|London
+600|Rain in the form of balls or lumps of clear ice more than 1/5 of an inch in diameter|hail
+800|It's any swift movement of snow or ice down a mountainside or slope, or a Colorado hockey team|avalanche
+1000|They're hurricane-type cyclones in the western Pacific|typhoon

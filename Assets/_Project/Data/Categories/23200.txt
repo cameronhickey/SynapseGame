@@ -1,0 +1,6 @@
+PLANE, TRAIN OR AUTOMOBILE
+200|TV's KITT|automobile
+400|Memphis Belle|a plane
+600|Spruce Goose|a plane
+800|Seven Stars in Kyushu|a train
+1000|Flying Scotsman|a train

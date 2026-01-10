@@ -1,0 +1,6 @@
+ACTOR & ACTRESSES
+200|\"The Great Dictator" was the 1st film in which he spoke|Charles Chaplin
+400|Her father, the most decorated U.S. pilot of WWII, named her after "The Swoose", his B-17 bomber|Swoosie Kurtz
+600|Sean Connery was playing James Bond while James Coburn struck sparks as this "comic strip imitation\"|Our Man Flint
+800|This "Star Wars" star wrote of drug dependency in "Postcards from the Edge\"|Carrie Fisher
+1000|The 2 charming Frenchmen who starred with Leslie Caron in "Fanny\"|Maurice Chevalier & Charles Boyer

@@ -1,0 +1,6 @@
+WINE FROM WHERE?
+200|This Canadian province's wine region includes Jordan & Vineland on the Niagara Peninsula|Ontario
+400|It's somewhat ironic that this Romanian region produces mainly white wine, like Tirnave Riesling|Transylvania
+600|South Dagestan has this country's longest wine-growing tradition|Russia
+800|Chateau Musar is a respected label from this Mideast country between Syria & the sea|Lebanon
+1000|You know about Argentinian wines, but try the rose from this country, Argentina's littlest neighbor|Uruguay

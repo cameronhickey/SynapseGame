@@ -1,0 +1,6 @@
+BLANK CANVAS
+200|\"____ Receives the Head of John the Baptist" by Caravaggio|Salome
+400|\"The Treachery of Images (This Is Not a ____)" by René Magritte|Pipe
+600|\"Vase with Twelve ____" by Vincent van Gogh|Sunflowers
+800|\"Cow's ____: Red, White, and Blue" by Georgia O'Keeffe|Skull
+1000|\"The Great ____ off Kanagawa" by Katsushika Hokusai|Wave

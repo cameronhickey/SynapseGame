@@ -1,0 +1,6 @@
+THEY WILL "COMB\"
+200|Underground tombs often used to hide the dead|catacombs
+400|A sequence of numbers or letters that opens a lock|a combination
+600|Someone walking on the sands hunting for curious objects|a beachcomber
+800|A rooster's crest|a cockscomb
+1000|9-letter word for a tool used to groom a horse|a currycomb

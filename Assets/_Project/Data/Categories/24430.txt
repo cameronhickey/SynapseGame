@@ -1,0 +1,6 @@
+RUNS "HOT" & "COLD\"
+200|It ended with the Berlin Wall coming down & the Soviet Union breaking apart|the Cold War
+400|Ectothermic means this, a term describing animals like snakes & fish & some murderers|cold-blooded
+600|They were the Daisy Dukes of the mid-1970s & a big fad|hot pants
+800|Frequently free, it's a place in public where you can connect to Wi-Fi & access the Internet|a hot spot
+1000|Named for a hotel, an iconic open-faced turkey sandwich with Mornay sauce & bacon is called a Kentucky or Louisville this|a hot brown

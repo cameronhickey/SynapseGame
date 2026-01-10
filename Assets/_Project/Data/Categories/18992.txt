@@ -1,0 +1,6 @@
+REALITY SHOW SENDOFF LINES
+200|\"You're fired\"|The Apprentice
+400|\"The tribe has spoken\"|Survivor
+600|\"Please pack your knives & go\"|Top Chef
+800|\"You're out. Auf Wiedersehen\"|Project Runway
+1000|\"Sashay away\"|RuPaul's Drag Race

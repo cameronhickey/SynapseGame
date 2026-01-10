@@ -1,0 +1,6 @@
+CAR NAMES
+200|This wild horse is also called a cayuse or a bronco|a Mustang
+400|Quicksilver|Mercury
+600|An agreement|an Accord
+800|English seaport from which the Mayflower set sail in 1620|the Plymouth
+1000|An insect of the order Coleoptera|a Beetle

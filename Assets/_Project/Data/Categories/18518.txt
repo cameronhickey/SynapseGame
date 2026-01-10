@@ -1,0 +1,6 @@
+BODY
+200|This tube serves as a passage for air, moistening & warming it on the way to the lungs|the trachea
+400|This heart valve is named for its resemblance to a bishop's hat|the mitral valve
+600|An ophthalmoscope is used to check the eye's interior, including this tissue that covers the back 2/3 of the eyeball|the retina
+800|The jejunum, the middle section of this organ, is a deep red color because of its rich blood supply|the small intestine
+1000|When a kid gets his tonsils out, these, aka the pharyngeal tonsils, may be removed too|the adenoids

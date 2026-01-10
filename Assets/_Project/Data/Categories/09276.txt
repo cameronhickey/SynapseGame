@@ -1,0 +1,6 @@
+COLLEGE NEWSPAPERS
+200|Daily Trojan|USC
+400|The Daily Bruin|UCLA
+600|Washington Square News|NYU
+800|The Daily Tar Heel|University of North Carolina
+1000|The Daily Evergreen (for its Cougars)|Washington State

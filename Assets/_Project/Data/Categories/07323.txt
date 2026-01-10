@@ -1,0 +1,6 @@
+BODY SHOTS
+200|Go against your best interest & you shoot yourself here|in the foot
+400|A quick & reckless reaction has you shooting from this body part|the hip
+600|Something that has a good effect on you (like a vaccine) is a shot in this|the arm
+800|When you brag or boast, you shoot off this body part|your mouth
+1000|1775 Bunker Hill order on when you were allowed to shoot|when you see the whites of their eyes

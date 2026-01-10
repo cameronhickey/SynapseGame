@@ -1,0 +1,6 @@
+VERB + "ER" = NOUN
+200|The Brits call this medical device a Zimmer frame|a walker
+400|An auxiliary rocket, or a vaccination recharge|a booster
+600|A non-alcoholic ingredient for a cocktail, or an important device for a music producer or DJ|a mixer
+800|A store's cashier—if there is a big line, there can be a call for a "second" one|a checker
+1000|A cleaning machine, or a metal or rubber disc that might be used in the pipes leading up to it|washer

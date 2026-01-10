@@ -1,0 +1,6 @@
+TITLE TITLES
+200|Sophocles: "Oedipus ____\"|Rex
+400|\"Pericles, ____ of Tyre\"|Prince
+600|\"Vlad the Impaler: The Real ____ ____\"|Count Dracula
+800|\"Richthofen: Beyond the Legend of the ____ ____\"|the Red Baron
+1000|Bellow: "Henderson the ____ ____\"|the Rain King

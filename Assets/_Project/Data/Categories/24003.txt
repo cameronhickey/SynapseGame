@@ -1,0 +1,6 @@
+FROM FARM TO TABLE
+200|This ancient grain served in salads is a homophone for an Egyptian king|farro
+400|On a farm, it's a cylindrical tower to store grains; the ones that store missiles are underground|a silo
+600|This Spanish-named knife can be used to cut sugar cane or cornstalks|a machete
+800|When this hot pepper is smoked & dried, it acquires a new look, a different flavor & a new name: chipotle|a jalapeño
+1000|It can be a low cupboard with shelves or a coop for animals, usually rabbits|a hutch

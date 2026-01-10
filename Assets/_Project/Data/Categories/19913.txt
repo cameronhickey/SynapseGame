@@ -1,0 +1,6 @@
+WHAT ARE THOSE?
+200|Aquafina, Dasani, Sparkletts|water
+400|Bob, lob, pompadour|hairstyles
+600|People's Choice, Webby, Gold Glove|awards
+800|Aldebaran, Antares, Arcturus|stars
+1000|Lipizzaners, Morgans, Percherons|horses

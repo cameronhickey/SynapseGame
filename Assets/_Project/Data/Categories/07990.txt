@@ -1,0 +1,6 @@
+SHAPES
+200|It's the common graphic the USDA used as a visual guide for healthy eating|pyramid
+400|Oooh, a "love" one of these involves 2 people who each love the same third person|triangle
+600|You'll need at least 54 feet of moulding for a 12 foot x 15 foot room, one in this shape|rectangle
+800|Apple introduced this style for the Powermac in 2000 & discontinued it in 2001 due to poor sales|cube
+1000|Danish composer Rued Langgaard is known for his "Sfaerernes Musik", "Music of" these|spheres

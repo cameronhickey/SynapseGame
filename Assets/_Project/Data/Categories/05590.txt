@@ -1,0 +1,6 @@
+PERSON, PLACE OR THING
+200|The thing is a cut of beef near the neck; the person is TV host Woolery|Chuck
+400|The place is an Asian country; the thing is cups & plates made from ceramic materials|China
+600|The place is part of a city enclosed by 4 streets; the thing is a small cube kids use in building|block
+800|The person is a famous car manufacturer; the place is a spot shallow enough to cross a river|Ford
+1000|The person is a policeman in slang; the thing is a reddish-brown metal|copper

@@ -1,0 +1,6 @@
+PARTS OF THE LEGISLATIVE BRANCH
+200|Every 2 years 1/3 of this body faces re-election|the Senate
+400|A state with one representative in the House classifies him as "at-" this|at-large
+600|Created by law in 1800, this institution maintains the Dewey Decimal System|the Library of Congress
+800|The GAO, it can tell you how much the government spent in 1999 on red ink|the General Accounting Office
+1000|It makes the red ink & furnishes blank paper to all the agencies|the GPO (the Government Printing Office)

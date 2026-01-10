@@ -1,0 +1,6 @@
+THE MAIN LIQUOR
+200|In a Highland Fling|Scotch whiskey
+400|In a strawberry margarita|tequila
+600|In a Gorky Park|vodka
+800|In a Planter's Punch|rum
+1000|In a Caruso, a confirmed bachelor or a Ramos Fizz|gin

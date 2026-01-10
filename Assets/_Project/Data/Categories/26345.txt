@@ -1,0 +1,6 @@
+EAR, EAR
+200|Tympanoplasty is a surgery to fix this part of your ear if it becomes perforated|your eardrum
+400|This century-old cotton swab brand should not be used to clear out ear wax—it can damage your ears & push the wax in deeper|a Q-tip
+600|Low frequencies stimulate the top of the spiral in this inner ear organ that's coiled 2 1/2 times around a central pillar|the cochlea
+800|The external part of the ear is called the pinna or this, a homophone of a tech company|the auricle
+1000|Also called the anvil, this middle ear bone transmits vibrations from the malleus to the stapes|the incus

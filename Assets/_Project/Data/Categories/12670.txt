@@ -1,0 +1,6 @@
+\"OW"!
+200|Not a consonant|a vowel
+400|A gaucho in Galveston|a cowboy
+600|When domesticated, they're called poultry|fowl
+800|The superciliary ridge over the eyes|a brow
+1000|Hughes or Stern|Howard

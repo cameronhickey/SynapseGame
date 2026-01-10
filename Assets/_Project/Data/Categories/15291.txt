@@ -1,0 +1,6 @@
+SCIENCE "K"LASS
+200|Almost exactly equal to the mass of 1,000 cubic centimeters of water, it's a base unit in the metric system|a kilogram
+400|Just add 273.15 to your Celsius reading to get this|kelvin
+600|This noble gas used in high-speed photography lamps takes its name from the Greek for "hidden\"|krypton
+800|A substance to start a fire, or the point that's the lowest temperature at which something will autoignite|the kindling point
+1000|Macrocystis, this type of seaweed, can be 200 feet long|kelp

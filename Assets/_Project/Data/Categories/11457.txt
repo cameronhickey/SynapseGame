@@ -1,0 +1,6 @@
+YOU'VE BEEN CONVERTED
+200|In cooking, a stick of butter converts to this many ounces|four
+400|To convert from miles into these units, multiply by 1.6|kilometers
+600|To convert from miles to these units, multiply by 1,760|yards
+800|The year 2007 becomes this in Roman numerals|MMVII
+1000|(Jon of the Clue Crew points out a partial formula.) To convert from degrees Celsius to Fahrenheit, multiply the Celsius temperature by 1.8, then add this amount|32

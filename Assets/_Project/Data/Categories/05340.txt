@@ -1,0 +1,6 @@
+THE WRITS
+200|A subpoena is a writ to call you to testify; this writ calls you to defend yourself in a lawsuit|a summons
+400|(Hi, I'm Greg Gerrmann and I play Richard Fish on Ally McBeal.) This name for a variety of legal writs comes from the Latin for "you have the body\"|habeas corpus
+600|When a writ of dower is issued, it normally follows a death & assigns property to this person|a widow
+800|Land can be transferred with a writ of this, which we guess is 9/10 of a writ of law|possession
+1000|The name of this writ ordering a specific action is Latin for "we command\"|mandamus

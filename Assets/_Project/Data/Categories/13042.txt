@@ -1,0 +1,6 @@
+PSYCH!
+200|Though their roles overlap, a psychiatrist, unlike a psychologist, is required to have this degree also|a medical school degree
+400|The study of how individual differences are inherited or environmentally caused is known as behavior these|genetics
+600|Sigmund Freud coined this term for both a theory of personality & a method of therapy|psychoanalysis
+800|Freud developed this technique of encouraging patients to express random thoughts|free association
+1000|This school of psychology with a German name emphasizes the study of whole, not partial, experiences|Gestalt

@@ -1,0 +1,6 @@
+\"NORTH" & "SOUTH\"
+200|Continent between 35 & 85 degrees west longitude|South America
+400|Guy who thought the Iran-Contra scheme was a "neat idea\"|Ollie North
+600|Annual Austin, Texas music festival|South by Southwest
+800|Bob & Doug McKenzie could tell you this 3-word term for Canada, eh|the Great White North
+1000|\"Dense" term for the former Confederacy & its once-consistent support of the Democratic Party|the Solid South

@@ -1,0 +1,6 @@
+WORLD MAIL
+200|This Swiss capital is headquarters to the Universal Postal Union|Bern
+400|Stamps bearing the word Sverige are issued in this country|Sweden
+600|The northernmost permanent P.O. is on the island of Spitsbergen, a possession of this country|Norway
+800|A 1965 2-krone stamp from this country depicted the newly-formed island of Surtsey|Iceland
+1000|Issued in 1961, the Marianne stamp of France was designed by this author of "Les Enfants Terribles\"|Jean Cocteau

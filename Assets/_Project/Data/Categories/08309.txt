@@ -1,0 +1,6 @@
+PLATOON
+200|From 1968 to 1971, a platoon of the U.S. Army's 47th Infantry specialized in the use of this breed of scout dogs|German Shepherds
+400|Platoon level training for these Navy commandos includes nighttime parachute jumps & underwater demolition|SEALs
+600|This lowest-ranking officer usually leads a platoon|second lieutenant
+800|Itself a subdivision of a company, a platoon consists of 2 to 4 of these units made up of 10 to 12 people|a squad
+1000|In this Norman Mailer novel, an American platoon is stationed on the Japanese-held island of Anopopei|The Naked and the Dead

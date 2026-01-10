@@ -1,0 +1,6 @@
+CAFETERIA
+200|Good, I'm not too late for the breakfast one of these—bacon, eggs & cheese wrapped in a flour tortilla|a burrito
+400|Uh-oh, food fight! Kids are flinging this food from Kraft; "It's the cheesiest!\"|macaroni & cheese
+600|Caesar salad—great! As long as it doesn't include pieces of these small salty fish, like last time|anchovies
+800|It's a good day to warm up with a bowl of this thick hearty vegetable soup, from the Italian for "something served\"|minestrone
+1000|I've decided to go meatless, so I'll have one of this 4-letter brand's soy-based burgers or Chik'n Patties|Boca

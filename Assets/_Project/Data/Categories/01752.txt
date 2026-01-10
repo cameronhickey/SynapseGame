@@ -1,0 +1,6 @@
+GUARDS
+200|In the U.S. it guards visiting heads of foreign governments & vice presidents-elect|the Secret Service
+400|The Swiss Guard is responsible for guarding the man who has this job|the pope
+600|\"Carnivorous" nickname of the warders of the Tower of London|Beefeaters
+800|From Augustus to Constantine they were the household guards of Roman emperors|the Praetorian guards
+1000|It knew that 3 heads were better than one for guarding Hades|Cerberus

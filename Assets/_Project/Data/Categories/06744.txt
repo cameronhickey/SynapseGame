@@ -1,0 +1,6 @@
+TV ALPHABET
+200|TNT|Turner Network Television
+400|On TRL, you can vote for your favorite video, even if it's a write-in|Total Request Live
+600|UPN|United Paramount Network
+800|You see, "UC" is short for this in a show about an elite crime-fighting force|Under Cover
+1000|ESPN|Entertainment and Sports Programming Network

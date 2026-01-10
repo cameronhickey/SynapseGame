@@ -1,0 +1,6 @@
+ASSETS
+200|These "gains" are the taxable profits from the sale of assets like stocks & bonds|capital gains
+400|This chapter of the bankruptcy code allows a company to keep its assets while reorganizing|11
+600|12-letter term for the lowering in value of an asset over time|depreciation
+800|If you exercise one of these synonyms for "choice", you agree to buy or sell an asset at a given price|an option
+1000|Assets that are understated on a business balance sheet are termed this, like a secret passageway|hidden

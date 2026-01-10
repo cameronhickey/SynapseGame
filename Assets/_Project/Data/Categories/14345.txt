@@ -1,0 +1,6 @@
+3-LETTER MOVIE TITLES
+200|To seek out the bird of his dreams, a domesticated avian travels to Brazil|Rio
+400|Tom Hanks grows up a little too fast|Big
+600|A man must choose between his girlfriend & his stuffed animal|Ted
+800|Santa & Will Ferrell do a little North Pole dancing|Elf
+1000|A retired CIA assassin reunites with his old team to expose a conspiracy|Red

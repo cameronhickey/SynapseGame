@@ -1,0 +1,6 @@
+CITIES' NEWER NAMES
+200|Peking|Beijing
+400|Leningrad|St. Petersburg
+600|New Amsterdam|New York
+800|Danzig|Gdansk
+1000|Salisbury, Rhodesia|Harare

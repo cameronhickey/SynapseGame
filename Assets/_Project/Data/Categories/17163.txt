@@ -1,0 +1,6 @@
+STRATEGY GAMES
+200|(I'm Anderson Cooper.) I trick you not, one of my ancestors, Harold Stirling Vanderbilt, is known for creating the "contract" type of this game|bridge
+400|A Canadian computer scientist showed that, with best play, this game also called draughts will end in a draw|checkers
+600|Also called "bones", these game pieces each have 0 to 6 pips on each end|dominoes
+800|You can use the Chinese, Japanese or American rules in this game of tiles with dots, craks & bams|mah-jongg
+1000|Aztecs, Romans & Ottomans are all part of the fifth iteration of this Sid Meier computer game|Civilization

@@ -1,0 +1,6 @@
+CHAPTER 1, VERSE 1
+200|\"There was a man in the land of Uz...\"|Job
+400|\"Blessed is the man that walketh not in the counsel of the ungodly\"|Psalms
+600|\"The book of the generation of Jesus Christ, the son of David, the son of Abraham\"|Matthew
+800|\"Now after the death of Moses the servant of the Lord it came to pass...\"|Joshua
+1000|\"Now these are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob\"|Exodus

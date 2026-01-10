@@ -1,0 +1,6 @@
+MICROSOFT
+200|In 1991 this giant corporation ended its 10-year collaboration with Microsoft to pursue the OS/2 operating system|IBM
+400|Microsoft jointly operates a cable news channel with this major broadcast network|NBC (MSNBC)
+600|Microsoft originally based this CD-ROM encyclopedia on the Funk & Wagnalls|Encarta
+800|Microsoft's success has funded the $17 billion foundation named for these 2 people|Bill & Melinda Gates
+1000|From the Latin for "to rise", the name of this spreadsheet program implies that it rises above the others|Excel

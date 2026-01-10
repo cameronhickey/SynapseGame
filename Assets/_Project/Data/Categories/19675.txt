@@ -1,0 +1,6 @@
+COMMUNICATION IS KEY
+200|Last name of the man who published a reading system in 1829 based on a "cell" of 6 dots|Braille
+400|Take a picture, it lasts longer! In 2012 Mark Zuckerberg paid a cool billion to acquire this photo-sharing app|Instagram
+600|The first primitive form of this device that sends print over a telephone line was made in 1843 by a Scottish inventor|a fax machine
+800|This company was founded in 1851 to build a telegraph line from Buffalo to St. Louis|Western Union
+1000|Claude Chappe's set of arms that pivoted on a post in 1794 was an early version of this communication system using flags|semaphore

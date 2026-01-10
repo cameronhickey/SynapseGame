@@ -1,0 +1,6 @@
+GAME SHOW CATCHPHRASES
+200|\"I'd like to buy a vowel\"|Wheel of Fortune
+400|\"Come on down!\"|The Price is Right
+600|\"I'd like to phone a friend\"|Who Wants to Be a Millionaire
+800|\"I'll take Paul Lynde to block\"|Hollywood Squares
+1000|\"Survey said!\"|Family Feud

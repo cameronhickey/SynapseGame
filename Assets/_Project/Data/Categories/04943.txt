@@ -1,0 +1,6 @@
+WE GET LETTERS
+200|Something done to perfection is said to be done "to" this letter|T
+400|Played by Desmond Llewelyn, he supplies James Bond with his special gadgets|Q
+600|This class designated the first line of SUVs Mercedes made|the M-class
+800|John de Lancie played this being who tormented the crew of the Enterprise on "Star Trek: The Next Generation\"|Q
+1000|Keenness of vision can be measured by rotating a circle with a break in it known as the "Landolt" this|C

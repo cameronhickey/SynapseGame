@@ -1,0 +1,6 @@
+BIOLOGY CLASS
+200|At about 9 weeks of age, a human embryo becomes one of these|a fetus
+400|By definition, a polypeptide is a chain of these linked together by peptide bonds|amino acids
+600|It's the branch of biology that deals with glands such as the pituitary & thyroid|endocrinology
+800|While red bone marrow gets its color from developing red blood cells, yellow marrow gets its color from this|fat
+1000|In 1937 this German-born biochemist discovered the citric acid cycle that bears his name|(Hans) Krebs

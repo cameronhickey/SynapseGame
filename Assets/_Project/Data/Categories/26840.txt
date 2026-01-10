@@ -1,0 +1,6 @@
+GEOGRAPHIC "SAINT"s
+200|The largest of the U.S. Virgin Islands, it was named "Santa Cruz" by Columbus|St. Croix
+400|This Florida city was named for a city in Russia|St. Petersburg
+600|A steamboat on this U.S. city's seal symbolizes its growth|St. Louis
+800|A small nation in the Caribbean is comprised of the Grenadines & this island|St. Vincent
+1000|Only 1 person survived the destruction of this city on Martinique when Mt. Pelee erupted in 1902|St. Pierre

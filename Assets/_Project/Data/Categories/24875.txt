@@ -1,0 +1,6 @@
+OF FUELS
+200|The Space Shuttles' engines were powered by liquid this, which was mixed with liquid oxygen to set off a big reaction|(liquid) hydrogen
+400|This traditional fuel of the British Isles is still hand cut from bogs|peat
+600|This "number" measures a fuel's ability to resist knocking in an internal-combustion engine|octane
+800|The burning of the bituminous type of this has been linked to acid rain|coal
+1000|Beginning in 2009 the European Union required road vehicles powered by this fuel to use only low-sulfur kinds|diesel

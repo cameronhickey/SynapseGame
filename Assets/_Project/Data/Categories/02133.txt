@@ -1,0 +1,6 @@
+LITERARY TITLE PAIRS
+200|Dostoyevsky's 1866 tale of murder & its consequences|Crime and Punishment
+400|Hemingway's "The Old Man and the Sea" is set in a fishing boat & this Lear poem in a pea-green boat|\"The Owl and the Pussy-cat\"
+600|George Bernard Shaw's tale that gave a Greek tailor "paws" to think|Androcles and the Lion
+800|Maugham's tale of a man who moves to Tahiti to paint|The Moon and Sixpence
+1000|Of Jane Austen's 6 novels, the 2 titles that fit the category|Pride and Prejudice & Sense and Sensibility

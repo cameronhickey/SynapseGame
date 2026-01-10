@@ -1,0 +1,6 @@
+POLLUTION
+200|The second-most reported cause of occupational injury is from this pollution caused by jackhammers & music|sound pollution (or noise pollution)
+400|(Hi, I'm Christie Whitman.) As EPA head, I helped create a program to reduce diesel exhaust for these vehicles; children will breathe easier|school buses
+600|The American Lung Association's list of cities with the worst particle air pollutuion is topped by 3 in this state|California
+800|From the Greek for "heat", this type of water pollution kills fish when hot water is dumped into a lake|thermal
+1000|TCDD is a type of this toxic industrial byproduct used in Agent Orange|dioxin

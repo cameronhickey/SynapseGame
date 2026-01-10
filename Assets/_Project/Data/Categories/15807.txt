@@ -1,0 +1,6 @@
+WHEN IN THE WORLD?
+200|The New York Stock Exchange is open for trading 9:30 A.M. to 4:00 P.M. Monday through this day|Friday
+400|Barack Obama was elected to the presidency in this year|2008
+600|Newly elected U.S. senators & congressmen are sworn in on the 3rd of this month|January
+800|William the Conqueror & the Normans invaded England in this century|the 11th century
+1000|The Brits celebrate Boxing Day on the 26th of this month|December

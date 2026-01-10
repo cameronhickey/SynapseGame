@@ -1,0 +1,6 @@
+MUSIC THEORY
+200|To indicate "play softly", "piano" is abbreviated "p", & "very softly", "pianissimo", this way|pp
+400|Of the beginning, middle, or end of a work, where you'd find a coda|the end
+600|Term for the sign cancelling a previous flat or sharp in that measure|natural
+800|Ledger lines are added above or below this to show the pitch of notes that don't fall within it|staff
+1000|The distance in pitch between 2 tones is called this|interval

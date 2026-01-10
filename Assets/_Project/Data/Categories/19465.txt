@@ -1,0 +1,6 @@
+& APPS
+200|Dashlane is an app to manage all your these, so you needn't keep letmein & letmein24 straight|passwords
+400|The mission of Zomato is to find these in your area|restaurants
+600|Dragon Dictation is a speech-to-text app that uses this technology, VR for short|voice recognition
+800|If you listen to these digital audio files, try Stitcher to sort by recency, duration & more|podcasts
+1000|Get in shape, you potato, with the app C25K—the "C" stands for this|couch

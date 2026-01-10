@@ -1,0 +1,6 @@
+CHORES
+200|The Disney movie about this hero includes his labor of defeating the monstrous Hydra|Hercules
+400|In "The Santa Clause 2", Santa has to find one of these quick or he won't be Santa anymore|a wife
+600|It's into the bowels of this fiery mountain that Frodo must cast the ring to destroy it|Mount Doom
+800|Harry Potter accomplishes the task of breathing underwater with the help of this weed|gillyweed
+1000|God's many commands to him include one in Numbers 26 to count all 600,000 men of Israel|Moses

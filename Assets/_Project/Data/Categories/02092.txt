@@ -1,0 +1,6 @@
+\"SOUND" & "SILENCE\"
+200|Its ports include Seattle & Tacoma|Puget Sound
+400|To alert or raise a hue & cry|sound the alarm
+600|3-word proverb that shows the value of no sound|silence is golden
+800|It was the first number one hit for a duo once known as Tom & Jerry|\"Sounds Of Silence\"
+1000|1965 & 1991 Best Picture Oscar winners|The Sound of Music & The Silence of the Lambs

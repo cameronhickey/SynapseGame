@@ -1,0 +1,6 @@
+FASHION ACCESSORIES
+200|A Kelly is a stiff, flat-topped straw one worn by men|a hat
+400|A boa is made of many feathers & this is a long single feather used as an ornamental accessory|a plume
+600|For men, a cravat is a wide necktie; this is a scarf, lapped over & worn loosely around the neck|an ascot
+800|(I'm Jeff Probst in Panama.) One style of this accessory is called the pintado|the Panama hat
+1000|Sally Rand's first ones were made of ostrich feathers|fans

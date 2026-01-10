@@ -1,0 +1,6 @@
+BONDS
+200|Despite their name, these partly tax-exempt bonds aren't just issued by cities & towns but by hospitals & colleges too|municipal bonds
+400|In 1998 Californians OK'd a $9.2-billion bond measure to help these; seemed like a lot to borrow back then|schools
+600|This term refers to bonds issued in U.S. dollars from foreign issuers, not to bonds issued by George Steinbrenner|Yankee bonds
+800|The Treasury's post-9/11 "Patriot Bond" is considered this type, last seen in the U.S. in the 1940s|war bonds
+1000|In 1909 he started publishing letter ratings of the bonds of America's railroads|(John) Moody

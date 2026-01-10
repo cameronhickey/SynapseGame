@@ -1,0 +1,6 @@
+GEOLOGY
+200|The Star of India is this type of precious stone|a sapphire
+400|The mouth of the Mississippi or a Helen Reddy "Dawn\"|a delta
+600|Pliny the Elder, Roman geologist, died while observing this volcano erupting|Vesuvius
+800|Earth's atmosphere layer which lies between the troposphere & the mesosphere|the stratosphere
+1000|Rainwash, wind action & differential weathering formed this S. Dakota area|the Badlands

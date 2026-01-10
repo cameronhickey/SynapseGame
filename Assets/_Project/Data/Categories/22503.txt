@@ -1,0 +1,6 @@
+MULTIPLE "CHOICE" QUIZ
+200|In this kind of poker, the player holding the deck picks the game|dealer's choice
+400|If you are safe at first base because the out was made on the runner at second, it's scored as this|fielder's choice
+600|Conagra started this frozen food brand after its CEO had a heart attack in 1985|Healthy Choice
+800|The title of a 1979 novel, this is a decision where either option will end in sacrifice|Sophie's Choice
+1000|The horse closest to the stable door or nothing|Hobson's choice

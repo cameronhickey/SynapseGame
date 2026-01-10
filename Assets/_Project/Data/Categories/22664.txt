@@ -1,0 +1,6 @@
+FOXES
+200|Related to dogs & wolves, foxes are part of this scientific family|canine
+400|Term for a cozy room in your house, or a cozy fox burrow|a den
+600|Writing about foxes? It's required that you use the adjective "bushy" to describe this body part|the tail
+800|This species, also known as the common fox, is the most widely distributed carnivore on land|the red fox
+1000|Only about 15 inches long, the fennec is the world's smallest fox & lives in this largest desert of Africa|the Sahara

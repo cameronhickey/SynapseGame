@@ -1,0 +1,6 @@
+SPORTS MOVIES
+200|Sport featured in "Ice Castles\"|ice skating
+400|Robert Redford takes on snow, not movie moguls|Downhill Racer
+600|1984: An overaged baseball player comes out of nowhere to become a legendary player|The Natural
+800|1996: A washed-up golf pro tries to qualify for the U.S. Open to impress a woman|Tin Cup
+1000|1940 movie where Pat O'Brien told the team to "Go in there & win one for the Gipper\"|Knute Rockne, All-American

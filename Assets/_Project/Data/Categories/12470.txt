@@ -1,0 +1,6 @@
+SHAKESPEARE GOES HAIKU
+200|Montague mayhem / More than 2 Verona guys / "Wherefore art thou" thee?|Romeo and Juliet
+400|Talk to yourself much? / I, Claudius, killed your dad / You're not mad, are you?|Hamlet
+600|Whisper in my ear / Betrayed me with Cassio?! / Oomf! Oomf! Oomf! Oomf! Dead|Othello
+800|Gloucester: Ow, my eyes! / Love you more than she does, Dad! / A high body count|King Lear
+1000|You control weather / Are you some kind of X-Man?! / Read Miranda rights|The Tempest

@@ -1,0 +1,6 @@
+COMPLETES THE PLAY TITLE
+200|John Guare's "Six Degrees of...\"|Separation
+400|Eugene O'Neill's "Long Day's Journey...\"|into Night
+600|Neil Simon's "The Prisoner of...\"|Second Avenue
+800|Kaufman & Hart's "The Man Who Came...\"|to Dinner
+1000|Oscar Wilde's "A Woman of No...\"|Importance

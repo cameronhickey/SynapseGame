@@ -1,0 +1,6 @@
+ENDS IN "Y\"
+200|This gallery projects over the main floor of a theater or auditorium|balcony
+400|It can be the building housing an ambassador & his staff or the staff itself|embassy
+600|Pretty-faced is one species of this small kangaroo relative|wallaby
+800|Several presidents have used the "Wilson desk" made from this rich wood|mahogany
+1000|From the Greek for "discourse", it's an inspirational saying or a tedious moralizing lecture|homily

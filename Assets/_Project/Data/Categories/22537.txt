@@ -1,0 +1,6 @@
+ACTIONS
+200|After one of your checkers reaches your opponent's first row, do this to your piece to show it's now a king|top it on the other piece
+400|Steph Curry is one of many athletes who tap their chests & then do this to thank God after a successful play|look up (point up to the sky)
+600|In dancing the Lindy Hop, the kaye is this type of move to be done carefully & without surprising your partner|a dip
+800|In knitting, it means to pull a loop of yarn through the front to the back of the fabric|purl
+1000|Medically speaking, remove 2 letters from a word meaning "to beat rapidly" & you get this word meaning "to examine by touching\"|palpate

@@ -1,0 +1,6 @@
+EXIT THROUGH THE GIFT SHOP
+200|The gift shop at this attraction on Cannery Row in Monterey sells a plush blue shark|the Monterey Bay Aquarium
+400|The California National Park named for these trees related to redwoods sells seeds, so you can grow your own|sequoia
+600|The gift shop at this author's home sells a china shepherdess just like the one Ma loved in the books|Laura Ingalls Wilder
+800|Pick up a video at the gift shop of Gaudi's masterpiece La Sagrada Familia in this city in Spain|Barcelona
+1000|(Kelly of the Clue Crew delivers the clue from the Louvre in Paris, France.) The Louvre gift shop sells a 1,000-piece puzzle of Veronese's "The Wedding Feast at" this village... almost done!|Cana

@@ -1,0 +1,6 @@
+CATEGORY ON ICE
+200|Swiss scientist Louis Agassiz proved that these frozen masses move|glacier
+400|In the U.S. during the 1880s, everyone took a turn at the crank at these "socials\"|ice cream social
+600|Most icebergs in the Northern Hemisphere come from Greenland; in the Southern Hemisphere, they come from here|Antarctica
+800|When water freezes, the hydrogen bonds form crystals with this many sides|6
+1000|At normal atmospheric pressure, ice will begin to melt at this temperature|30 degrees Fahrenheit

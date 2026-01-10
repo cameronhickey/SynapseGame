@@ -1,0 +1,6 @@
+THEY WENT TO SCHOOL BACK EAST
+200|Brooke Shields|Princeton
+400|Edna St. Vincent Millay, Mary McCarthy, Meryl Streep|Vassar
+600|Hillary Rodham (B.A. '69)|Wellesley
+800|Justice Brandeis (LL.B. 1877) (no, not Brandeis)|Harvard Law School
+1000|I.M. Pei, George Ellery Hale, Murray Gell-Mann|MIT (Massachusetts Institute of Technology)

@@ -1,0 +1,6 @@
+JOHN WAYNE FILMS
+200|John Wayne won his Oscar for playing marshall Rooster Cogburn in this 1969 film|\"True Grit\"
+400|Role played by Wayne in "The Alamo\"|Davy Crockett
+600|Mervyn LeRoy assisted Wayne in directing this 1968 film about the special forces in Vietnam|\"The Green Berets\"
+800|It's said this 1939 John Ford western was the first movie filmed at Monument Valley in Utah & Arizona|\"Stagecoach\"
+1000|Maureen O' Hara & her brother appeared in this 1952 film made in Ireland|\"The Quiet Man\"

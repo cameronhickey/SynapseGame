@@ -1,0 +1,6 @@
+THE METRIC SYSTEM
+200|The Kelvin is the base unit for this, though most people use degrees|Temperature
+400|In a metric nursery rhyme, a crooked man would go a crooked 1.609 of these|Kilometers
+600|If you're looking for the basic capacity unit for liquids, "follow" this|Liter
+800|The prefix meaning one billionth, it's often seen before "second\"|Nano
+1000|The kilogram is the unit of this, which unlike weight, is independent of gravity|Mass

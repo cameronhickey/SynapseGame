@@ -1,0 +1,6 @@
+IN TROUBLE
+200|A part in a film or play|a role
+400|A fleshy ear bit|a lobe
+600|The body of facts & beliefs about a particular subject|lore
+800|An engine supercharger|turbo
+1000|A swollen underground plant stem|a tuber

@@ -1,0 +1,6 @@
+\"GROUND" CONTROL
+200|The epicenter of an atomic explosion|ground zero
+400|It's a rhyming term for hamburger meat|ground round
+600|Scientifically, it's Marmota monax|a groundhog
+800|The ceremonial beginning of a construction project|groundbreaking
+1000|An arena for testing new ideas, or an army testing facility like Utah's Dugway one|a proving ground

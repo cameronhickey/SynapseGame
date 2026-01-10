@@ -1,0 +1,6 @@
+AFTER ALASKA...
+200|The largest state in area|Texas
+400|The next state, alphabetically|Arizona
+600|1 of 3 states with a smaller population|Wyoming (or Vermont or North Dakota)
+800|The state with the highest mountain|California
+1000|The state with the longest coastline|Florida

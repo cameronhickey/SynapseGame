@@ -1,0 +1,6 @@
+WHICH TV SHOW CAME FIRST?
+200|\"Here's Lucy", "The Lucy Show", "I Love Lucy\"|I Love Lucy
+400|\"How the West Was Won", "How to Marry a Millionaire", "Howdy Doody\"|Howdy Doody
+600|\"The Today Show", "The Tonight Show", "The Tomorrow Show\"|The Today Show
+800|\"Gilligan's Island", "Hogan's Heroes", "Charlie's Angels\"|Gilligan's Island
+1000|\"Phyllis", "Rhoda", "Lou Grant\"|Rhoda

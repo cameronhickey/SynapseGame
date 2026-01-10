@@ -1,0 +1,6 @@
+B FOLLOWS A
+200|In a Harry Potter novel, Sirius Black is a convicted murderer who escapes from this island prison in the North Sea|Azkaban
+400|Meaning loathsome, it precedes snowman or, in a movie title, Dr. Phibes|abominable
+600|As a noun, it's a mop used to clean a ship's deck; as a verb, it's what you do with the mop|swab
+800|It's an outline of what material will be covered in a college course|a syllabus
+1000|These 1st & 2nd century B.C. Jewish patriots were active in liberating Judea from Syrian rule|the Maccabees

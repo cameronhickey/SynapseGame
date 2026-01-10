@@ -1,0 +1,6 @@
+CLOUDS
+200|It's what "every cloud" has, at least according to the proverb|a silver lining
+400|It's the device that creates a mushroom cloud|an atomic bomb
+600|Term for a mass of clouds, or a group of elevators|a bank
+800|This device was invented in 1911 to view the paths of subatomic particles|a cloud chamber
+1000|Aristophanes' city built by the birds|Cloud Cuckoo Land

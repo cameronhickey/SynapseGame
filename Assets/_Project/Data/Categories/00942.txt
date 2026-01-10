@@ -1,0 +1,6 @@
+LATIN
+200|Meaning "another self", it can refer to a close friend or one's secret identity|Alter Ego
+400|On the title page of a book, the phrase "Edicio Princeps" would indicate this|First Edition
+600|When making a purchase, heed this phrase that means "Let the buyer beware\"|caveat emptor
+800|This 2-word phrase is often used to denote an artist's or writer's greatest work|magnum opus
+1000|If you don't know this phrase for an admission of guilt, you truly are to blame|mea culpa

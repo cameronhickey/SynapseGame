@@ -1,0 +1,6 @@
+WORDS WITH 5 VOWELS
+200|To try out for a dramatic role by reading a short scene|audition
+400|Everyone out of the building now! It's no longer safe—we must do this!|evacuate
+600|The lens you look through at the viewing end of a microscope or telescope|the eyepiece
+800|A mathematical expression like 4 + 2 = 6|an equation
+1000|A French word for "shop", in English it means a small specialty shop|a boutique

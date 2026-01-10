@@ -1,0 +1,6 @@
+SPOUSE IN COMMON
+200|Heather Locklear, Pamela Anderson|Tommy Lee
+400|Ava Gardner, Mia Farrow|Frank Sinatra
+600|Gary Oldman, Ethan Hawke|Uma Thurman
+800|Carrie Fisher, Edie Brickell|Paul Simon
+1000|Peter Allen, Jack Haley, Jr.|Liza Minnelli

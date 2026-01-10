@@ -1,0 +1,6 @@
+CAPITAL HILLS
+200|This capital complex sits atop Borovitsky Hill|the Kremlin
+400|A statue of Bohemian hero Jan Žižka sits atop of Vitkov Hill in this capital|Prague
+600|Clinton Avenue & Ten Broeck Street run through the Arbor Hill neighborhood of this state capital|Albany
+800|The word "palace" comes from the name of this one of Rome's seven hills|Palatine
+1000|Local legend says this state capital's name was inspired by a view of the James River from atop Libby Hill|Richmond

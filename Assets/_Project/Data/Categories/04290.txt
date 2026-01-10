@@ -1,0 +1,6 @@
+FILM ANIMALS
+200|Flipper|dolphin
+400|Mighty Joe Young|ape
+600|Black Beauty|horse
+800|Beethoven|St. Bernard
+1000|Fievel|mouse

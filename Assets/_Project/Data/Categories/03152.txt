@@ -1,0 +1,6 @@
+BRITISH ROYAL RESIDENCES
+200|Marble Arch was once its entrance, but it was later moved|Buckingham Palace
+400|This fortress was built by William the Conqueror; Henry VIII was the last king to use it as a chief residence|Tower of London
+600|The oldest royal residence still in use|Windsor Castle
+800|Foreign ambassadors are accredited to this palace's court|St. James' Palace
+1000|Elizabeth I could be "observed" spending much of her "time" at the palace in this South Bank borough|Greenwich Palace

@@ -1,0 +1,6 @@
+FIRST AID
+200|To prevent swelling & discoloring from a blow to the body, apply this kind of compress immediately|a cold compress
+400|This "hug" is recommended as effective method to remove object blocking windpipe|the Heimlich maneuver
+600|A victim of severe sunburn may develop these; do not break them open|Blisters
+800|It's what the CP stands for in CPR|cardiopulmonary
+1000|Pressure on this artery found just below the groin may help control bleeding from a leg wound|the femoral artery

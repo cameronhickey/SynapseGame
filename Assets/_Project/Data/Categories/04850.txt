@@ -1,0 +1,6 @@
+MEDICAL EQUIPMENT
+200|It's the organ associated with dioptometers & ophthalmoscopes|eye
+400|From the Greek for "pipe", this device can withdraw fluids from as well as inject fluids into a body|syringe
+600|A knife a surgeon uses for puncturing, or a famed medical journal|The Lancet
+800|To stitch up a wound, or the thread itself|suture
+1000|The bulldog type of these clamp blood vessels|forceps

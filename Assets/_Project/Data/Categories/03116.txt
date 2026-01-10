@@ -1,0 +1,6 @@
+KNIGHTS
+200|Code of behavior for a knight to remember|Chivalry
+400|This adjective, a synonym for "wandering", describes the type of knight satirized by Cervantes|Knight-errant
+600|A young boy between 7 & 14 who trained as a knight, or his hairdo|Page
+800|Women given the rank corresponding to knighthood are called this|Dames
+1000|In the 12th C. these French minstrels began composing songs about knights called chansons de geste|Troubadours

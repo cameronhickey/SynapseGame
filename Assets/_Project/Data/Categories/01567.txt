@@ -1,0 +1,6 @@
+OCCUPATIONS
+200|It's someone who stuffs or mounts animals, usually for a museum|taxidermist
+400|This person, often a nurse, is trained to deliver babies in a hospital, clinic or home|midwife
+600|Willy Loman is called a drummer, a synonym for this occupation|Salesman
+800|William Brennan held this job 1956-1990|Supreme Court Justice
+1000|On July 6, 1994 a sudden wind led to the deaths of 14 of these workers in Colorado|Firefighters

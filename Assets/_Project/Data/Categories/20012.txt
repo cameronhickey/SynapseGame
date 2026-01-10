@@ -1,0 +1,6 @@
+WHEN IN DOME
+200|This Louisiana venue has hosted events featuring Barry Manilow & Leon Spinks, but not at the same time|the Superdome
+400|Demolished in a kind of "Viking funeral", the Metrodome in this state was no longer dome sweet dome after 2014|Minnesota
+600|In 2011 the Georgia Dome hosted this event XXVII; matches included the Undertaker v. Triple H & the Miz vs. John Cena|WrestleMania
+800|In 1965 this baseball venue had female ushers dubbed "Spacettes\"|the Astrodome
+1000|Lucas Oil Stadium, "The House That Peyton Built" in this city, replaced the RCA Dome|Indianapolis

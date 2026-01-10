@@ -1,0 +1,6 @@
+CAPITAL CITIES
+200|While Valparaiso is the seat of Chile's parliament, this is its capital|Santiago
+400|This capital is served by Chiang Kai-Shek International Airport|Taipei (Taiwan)
+600|This city was designated the Bulgarian capital in 1879, soon after it was captured from the Turks|Sofia
+800|One of the world's largest wooden structures is the old government bldg. in this New Zealand capital|Wellington
+1000|This capital of Belarus also serves as the capital of the Commonwealth of Independent States|Minsk

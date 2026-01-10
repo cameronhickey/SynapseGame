@@ -1,0 +1,6 @@
+\"ATCH", YOU!
+200|To emerge from an egg|hatch
+400|A small wooden igniter|a match
+600|A roof made with straw|thatch
+800|To withdraw a horse from a race|scratch
+1000|A spring-loaded door lock|a latch

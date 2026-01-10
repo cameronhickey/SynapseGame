@@ -1,0 +1,6 @@
+EARLIEST TO STATEHOOD
+200|West Virginia, North Carolina, South Dakota|North Carolina
+400|Louisiana, Ohio, Vermont|Vermont
+600|Montana, Missouri, Minnesota|Missouri
+800|Oklahoma, Utah, Arizona|Utah
+1000|Nevada, Nebraska, Wyoming|Nevada

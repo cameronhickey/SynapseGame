@@ -1,0 +1,6 @@
+ENDS IN A SILENT T
+200|The initial appearance of a new product or course of action|a debut
+400|Soft hat worn by Britain's Royal Tank Regiment|a beret
+600|A choice cut of meat or fish with the bones removed|a filet
+800|A place where buses arrive & depart|a depot
+1000|Drizzled with honey is a popular way to serve this soft French cheese|Camembert

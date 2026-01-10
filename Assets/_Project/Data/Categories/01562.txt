@@ -1,0 +1,6 @@
+MOVIE CHARACTERS
+200|He's the psycho in "Psycho\"|Norman Bates
+400|He's the dissolute playboy played by Dudley Moore in a 1981 comedy|Arthur
+600|Bette Davis played aging actress Margo Channing in this 1950 film|All About Eve
+800|It's the film in which Rose Sayer falls for a drunken captain, Charlie Allnut|The African Queen
+1000|To land a female role in a soap opera, Michael Dorsey assumes this identity in "Tootsie\"|Dorothy Michaels

@@ -1,0 +1,6 @@
+ENDS WITH 2 VOWELS
+200|It's the "Keystone State\"|Pennsylvania
+400|It's the African-American harvest festival that begins on December 26|Kwanzaa
+600|A first-year player on a sports team, or any novice or beginner|a rookie
+800|This type of warrior wore 2 swords & lived by the code of Bushido|a Samurai
+1000|Sound the trumpets! He succeeded Moses as the leader of the Israelites|Joshua

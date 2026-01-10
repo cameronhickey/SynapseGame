@@ -1,0 +1,6 @@
+STATE THE CITY
+200|Ohio: The most populous on Lake Erie|Cleveland
+400|Massachusetts: A "saucy" place on the Blackstone Canal|Worcester
+600|Indiana: Named for a "Mad" major general|Fort Wayne
+800|Down south, "the birthplace of California\"|San Diego
+1000|Michigan: Served by Gerald R. Ford International Airport|Grand Rapids

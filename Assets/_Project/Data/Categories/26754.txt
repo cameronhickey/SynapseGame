@@ -1,0 +1,6 @@
+\"L.A.\"
+200|Name describing the Western Hemisphere area where romance languages are spoken|Latin America
+400|Type of education broadly based on humanities with little emphasis on job training|liberal arts
+600|Rock 'n' roller who sang "Tears on My Pillow" with the Imperials|Little Anthony
+800|Equipment & goods that can be sold quickly for cash|liquid assets
+1000|Found in sour milk, it's used in adhesives, preservatives & pharmaceuticals|lactic acid

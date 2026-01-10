@@ -1,0 +1,6 @@
+STOCK SYMBOL SHOPPING
+200|For electronics: RSH|RadioShack
+400|For kitchenware as well as sheets & towels: BBBY|Bed Bath & Beyond
+600|For DVDs: BBI|Blockbuster
+800|For auto parts: PBY|Pep Boys
+1000|For fine furniture: ETH|Ethan Allen

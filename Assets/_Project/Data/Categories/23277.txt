@@ -1,0 +1,6 @@
+\"O"PPOSITES
+200|Of vacant (8 letters)|occupied
+400|Of written (4 letters)|oral
+600|Of chaos (5 letters)|order
+800|Of powerless (10 letters)|omnipotent
+1000|Of pellucid (6 letters)|opaque

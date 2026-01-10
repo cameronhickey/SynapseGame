@@ -1,0 +1,6 @@
+IT'S NOT WHAT IT SEEMS
+200|The titmouse is not a kind of mouse, but a small gray one of these|bird
+400|Fireflies are not flies at all, but members of this insect order — just ask Ringo|beetles
+600|The horned toad is not an amphibian, but one of these reptiles|lizard
+800|The koala bear is not a bear, but one of these nonplacental mammals|marsupial
+1000|A sea wasp is not an insect, but one of these stinging ocean "fish\"|jellyfish

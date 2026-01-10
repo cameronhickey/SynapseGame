@@ -1,0 +1,6 @@
+THEME
+200|\"Lara's Theme" can be heard in this epic film directed by David Lean|Doctor Zhivago
+400|\"I See You", the theme song for this movie, is a formal Na'vi greeting|Avatar
+600|The theme for this 2008 movie is "Bella's Lullaby\"|Twilight
+800|The theme for this Tom Hanks movie is sometimes referred to as "The Feather Theme\"|Forrest Gump
+1000|Rod McKuen wrote & sang "Jean", the theme song of this 1969 Maggie Smith film|The Prime Of Miss Jean Brodie

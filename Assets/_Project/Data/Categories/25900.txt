@@ -1,0 +1,6 @@
+PROOF
+200|In 2023 2 teenagers presented "an impossible proof" of this theorem named for an ancient Greek to the Amer. Mathematical Society|the Pythagorean theorem
+400|Need proof the Earth is round? Watch the device called Foucault's this change direction as the planet spins|pendulum
+600|In the 1920s, Robert Millikan proved that certain high-energy "rays" came from outer space & coined this term to describe them|cosmic rays
+800|A famous 1880s experiment showed there was no evidence for this "luminiferous" medium thought to carry light waves|ether
+1000|Andrew Wiles electrified the 1990s math world with a proof of the 350-year-old mystery known as this man's last theorem|Fermat

@@ -1,0 +1,6 @@
+THAT'S A DIFFERENT PREPOSITION
+200|It can mean "beside" or be a prefix with -stander|by
+400|The OED calls this synonym of "between" that starts with the same 4 letters "somewhat archaic\"|betwixt
+600|Longfellow didn't begin a poem "Beneath a spreading chestnut-tree", but this synonym|under
+800|To Cicero it could mean around a place, as in "____ forum"; to us, it means around a time|circa
+1000|\"During" switches to this when it comes before a predicate phrase like "walking the dog\"|while

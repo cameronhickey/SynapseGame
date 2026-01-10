@@ -1,0 +1,6 @@
+OPENING STATEMENTS
+200|This girl "lived in the midst of the great Kansas prairies, with Uncle Henry...\"|Dorothy
+400|\"Moby-Dick" begins with this 3-word sentence|\"Call me Ishmael.\"
+600|She started a novel, "Emma Woodhouse, handsome, clever, and rich...\"|Jane Austen
+800|\"Happy families are all alike", begins his "Anna Karenina\"|Tolstoy
+1000|This Poe story begins, "True!—nervous—very, very dreadfully nervous I had been and am\"|\"The Tell-Tale Heart\"

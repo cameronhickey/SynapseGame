@@ -1,0 +1,6 @@
+CELEBRITY BIOGRAPHIES
+200|\"Norma Jean\"|Marilyn Monroe
+400|\"His Way\"|Frank Sinatra
+600|\"A Rocky Life\"|Sylvester Stallone
+800|\"Mr. Strangelove\"|Peter Sellers
+1000|\"Boulevard of Broken Dreams" & "Rebel\"|James Dean

@@ -1,0 +1,6 @@
+LITTLE BROWN
+200|There are little brown & big brown species of this winged cave dweller|bats
+400|3-letter term for a little brown young member of Ursus arctos|(bear) cub
+600|This small "nutty" bird may be red-breasted, white-breasted or brown-headed|nuthatch
+800|This small rodent whose name rhymes with mole is closely related to the lemming|vole
+1000|This small mouselike animal makes up the largest family among the insectivores|shrew

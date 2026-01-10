@@ -1,0 +1,6 @@
+HEY SHAKESPEARE, WHO SAID THAT?
+200|\"Come I to speak in Caesar's funeral. He was my friend, faithful and just to me: but Brutus says he was ambitious\"|Mark Antony
+400|\"Deny thy father and refuse thy name; or, if thou wilt not, be but sworn my love\"|Juliet
+600|\"I am subject to a tyrant, a sorcerer, that by his cunning hath cheated me of the island\"|Caliban
+800|\"'Tis not to make me jealous to say my wife is fair, feeds well, loves company, is free of speech, sings, plays and dances well\"|Othello
+1000|\"I think there be six Richmonds in the field; five have I slain today instead of him\"|King Richard III

@@ -1,0 +1,6 @@
+SWEETENERS
+200|It's estimated bees must visit over 2 million flowers to produce a pound of this|honey
+400|The blackstrap type of this is an important component of animal feeds|molasses
+600|Found in Sweet 'N Low, this substance is several hundred times as sweet as sugar|saccharin
+800|Andreas Marggraf discovered that the sucrose in this plant was the same as that in sugarcane|beet root
+1000|This chemical marketed as NutraSweet was once studied as a possible ulcer treatment|aspartame

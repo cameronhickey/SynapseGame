@@ -1,0 +1,6 @@
+SONG TITLE TITLES
+200|Tom Petty: "It's Good To Be ____\"|King
+400|A 1996 Jay-Z single: "Dead ____\"|Presidents
+600|Stevie Wonder: "Sir ____\"|Duke
+800|Spin Doctors: "Two ____\"|Princes
+1000|The Who: "The Acid ____\"|Queen

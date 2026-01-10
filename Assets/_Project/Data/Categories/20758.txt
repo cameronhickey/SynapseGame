@@ -1,0 +1,6 @@
+PRO BASEBALL TEAMS
+200|When they started play in 1995, they had a devil of a name|the (Tampa Bay) Rays
+400|This team's offices are on West Camden Street|the Orioles
+600|In 2017 their 104 wins led the majors but they came up 1 win short in the World Series|the Dodgers
+800|The team that began life in Canada in 1969 is today known as this|the Washington Nationals
+1000|This West Coast team is the only one whose team city & name are both in Spanish|the San Diego Padres

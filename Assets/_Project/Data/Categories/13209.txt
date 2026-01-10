@@ -1,0 +1,6 @@
+RIDE ON
+200|Control the throttle & air brakes as this type of engineer; remember to keep an eye on the track|railroad (or locomotive)
+400|You should be into heavy metal if you want to ride the M1 Abrams, this type of vehicle|a tank
+600|If you like short workdays, just sitting on this critter for 8 seconds can gain you fame with the PBR|a bull
+800|Master the collective & cyclic control sticks & the tail rotor pedals to fly this vehicle, like the Bell 407|a helicopter
+1000|For leisure purposes, you don't need a license to operate the Triton 1000, this type of vehicle|a submarine

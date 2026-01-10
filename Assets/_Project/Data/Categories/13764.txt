@@ -1,0 +1,6 @@
+MULTIPLE DIAGNOSES
+200|A stiff this, very serious—clearly meningitis. Make that whiplash. Cervical arthritis. You slept wrong|a stiff neck
+400|A rash? It's hives. Scratch that. Allergic purpura. No, hidradenitis suppurativa, inflammation of these glands|sweat
+600|Shortness of breath—must be a heart attack. No, histoplasmosis. Of course!—this red blood cell insufficiency|anemia
+800|You have acoustic neuroma. Actually, presbycusis. No, ceruminosis, that's why this is reduced|your hearing
+1000|The fever clearly indicates mono—oops, colitis. No, TB. Of course, this bacterial ailment aka septic sore throat|strep throat

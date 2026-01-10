@@ -1,0 +1,6 @@
+COMPUTING 101
+200|5-letter term for an "infectious" program designed to harm your computer|a virus
+400|The many versions of Windows are the flagship products of this company|Microsoft
+600|It's the hardware item whose name comes from "modulator demodulator\"|modem
+800|This letter of the alphabet represents 1,024 bytes|K
+1000|Sometimes your computer is fine, but this, your LAN, is down|local area network

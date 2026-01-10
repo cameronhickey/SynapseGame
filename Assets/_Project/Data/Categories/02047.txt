@@ -1,0 +1,6 @@
+SPACE MISSIONS
+200|All the nicknames of the Mercury capsules ended in this number, honoring the first group of astronauts|7
+400|Launched May 4, 1989, the Magellan craft arrived at this planet August 10, 1990|Venus
+600|The Hinode mission showed magnetic waves are critical in driving the flow of charged particles called this wind|the solar wind
+800|The Cassini project is exploring Titan & Enceladus, moons of this second-largest planet|Saturn
+1000|The MESSENGER craft is the first mission to explore this planet since Mariner 10 in the 1970s|Mercury

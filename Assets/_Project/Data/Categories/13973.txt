@@ -1,0 +1,6 @@
+COUNTRIES ENDING IN "E\"
+200|It contains portions of historical Epirus & Attica|Greece
+400|On Feb. 27, 2010 a magnitude 8.8 earthquake struck it|Chile
+600|It's found in Central America|Belize
+800|A reactor at Chernobyl there kept operating 14 years after the accident|Ukraine
+1000|This Asian island nation was ceded to the British East India Company in 1819|Singapore

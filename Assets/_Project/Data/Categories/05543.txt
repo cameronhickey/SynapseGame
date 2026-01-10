@@ -1,0 +1,6 @@
+\"TOUCH" ME
+200|Telephone type|Touch-tone
+400|An object to test gold, or a standard by which something is judged|Touchstone
+600|Named for a Phrygian king, someone has this if he's got the ability to make lots of money with little effort|the Midas touch
+800|The ability to appeal to the interests & sensibilities of the ordinary person|the common touch (or the human touch)
+1000|An Orson Welles thriller|Touch of Evil

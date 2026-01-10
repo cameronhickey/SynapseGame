@@ -1,0 +1,6 @@
+COMPOSERS' COUNTRY OF BIRTH
+200|Frederic Chopin|Poland
+400|Edward Elgar|England
+600|Franz Schubert|Austria
+800|Hector Berlioz|France
+1000|Heitor Villa-Lobos|Brazil

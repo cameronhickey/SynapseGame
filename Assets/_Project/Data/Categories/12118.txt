@@ -1,0 +1,6 @@
+STARTS & ENDS WITH THE SAME LETTER
+200|A Utah senator or boat's passageway|Hatch
+400|A cutting remark or a sharp point, perhaps on a fishhook|a barb
+600|A generally nonmalignant growth on the surface of a mucous membrane|a polyp
+800|It's the noble gas on the periodic table that fits the category|neon
+1000|An estate given by a lord to a vassal in return for service|a fief

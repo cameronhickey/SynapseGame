@@ -1,0 +1,6 @@
+SPORTING OBJECTS
+200|A dimpled ball, 1.68 inches in diameter & weighing 1.62 ounces|golf
+400|A white, hollow celluloid ball, 1 1/2 inches in diameter & weighing around .09 ounces|ping pong/table tennis
+600|A ball made of stitched horse or cowhide, 9 to 9 1/4 inches in circumference|baseball
+800|A yellow fabric-covered hollow rubber ball, weighing 2 to 2 1/16 ounces|tennis
+1000|An object that weighs 1/5 ounce containing 14 to 16 feathers that extend 2 3/4 inches from a cork|badminton

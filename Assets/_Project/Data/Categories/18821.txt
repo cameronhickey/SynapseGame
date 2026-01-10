@@ -1,0 +1,6 @@
+AKC-DEFINED BREEDS
+200|\"Spotted breed...(whose) affinity for horses remains a basic instinct to this day\"|Dalmatian
+400|\"Tall and lean, (it) is the fastest breed of dog... hare hunter... in early times, only royalty bred them\"|greyhound
+600|\"Well known as 'purse dogs'... some believe (it) originated from the fennec fox... not more than 6 pounds\"|a chihuahua
+800|It's "hailed as the world's leading police, guard and military dog... most commonly black and tan\"|a German shepherd
+1000|\"Elegant toy dog... distinguished from other breeds by (its) beautiful, butterfly-like ears\"|a papillon

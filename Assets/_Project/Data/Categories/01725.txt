@@ -1,0 +1,6 @@
+ENGLISH GRAMMAR
+200|A dependent clause may begin with a relative one of these, such as who or which|a pronoun
+400|In the phrase, "To boldly go where no one has gone before", "To boldly go" is a "split" one of these|an infinitive
+600|Straightforward term for the type of "object" that follows a transitive verb|Direct
+800|\"Went" for the verb "go", "had" for "have", or what we did walking through a campground|Past tense
+1000|Absolutes shouldn't be used in comparative forms, so the Constitution's "A More" this kind of "Union" is wrong|Perfect

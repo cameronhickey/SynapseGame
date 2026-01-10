@@ -1,0 +1,6 @@
+BICYCLE REPAIRMAN
+200|Bicycle repairman learned the hard way, don't use a sharp screwdriver to take this off the rim|the tire
+400|B.R.'s uniform features a jersey of this color, like the leader in the Tour de France|yellow
+600|B.R. knows that most pedals, because they are threaded differently, are marked with 1 of these 2 letters|R or L (right and left)
+800|B.R. figures these brakes, using back pressure on the pedals, might also stop drinks from sliding off the bar|coasters (coaster brakes)
+1000|B.R.'s been repairing bikes since he had to fix a banana seat on one of this company's Sting-Rays as a kid|Schwinn

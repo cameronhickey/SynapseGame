@@ -1,0 +1,6 @@
+BODY PART AKAs
+200|Womb|the uterus
+400|Voice box|larynx
+600|The carpus|the wrist
+800|Tympanum or tympanic membrane|eardrum
+1000|Pollex|the thumb

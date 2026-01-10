@@ -1,0 +1,6 @@
+LET'S PLAY BALL!
+200|To execute one of these, a batter squares his body to the pitcher & makes contact with the top half of the ball|a bunt
+400|If you're on third base, take your lead in this territory; you won't be out if you get hit by a batted ball|foul territory
+600|To play this position, you'll need the gear somewhat unfairly called "the tools of ignorance\"|catcher
+800|(Jimmy of the Clue Crew holds a baseball.) To throw this pitch that brought fame to Carl Hubbell & Tug McGraw, grip the ball with two fingers, then turn your wrist in a corkscrew motion so it breaks the opposite way from a curveball|a screwball
+1000|On a hit to right with a runner on second, the first baseman moves into the middle of the infield to become this "man\"|the cutoff man

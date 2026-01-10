@@ -1,0 +1,6 @@
+DOUBLE-NAME NEWSPAPERS
+200|The St. Louis Post-...|Dispatch
+400|The Omaha World-...|Herald
+600|The Atlanta Journal-...|Constitution
+800|The San Diego Union- or the Minneapolis Star...|Tribune
+1000|The Louisville Courier- or the Akron Beacon...|Journal

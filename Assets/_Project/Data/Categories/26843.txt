@@ -1,0 +1,6 @@
+POISONS
+200|If a spy's taken a pill containing this poison, his breath will smell like bitter almonds|cyanide
+400|Gas masks were first used in this war to counter the effectiveness of poison gas|World War I
+600|It's used in making transistorized circuits or deadly dinner wine|arsenic
+800|The seeds of the Nux vomica tree of Asia & Australia yield this, used as a rat poison for centuries|strychnine
+1000|This poison producing paralysis in its victims was used on South American Indian arrows|curare

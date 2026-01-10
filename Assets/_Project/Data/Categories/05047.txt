@@ -1,0 +1,6 @@
+STRICTLY BUSINESS
+200|It's an itemized list of a firm's goods that have not yet been sold|Inventory
+400|Formerly called the Cost-of-Living Index, it's abbreviated C.P.I.|Consumer Price Index
+600|The right of a government to take private property for public use is called this "domain\"|Eminent domain
+800|Done by an expert, it's a formal valuation of property, or estimate of its market value|Appraisal
+1000|From Latin for "beside", they're the assets a borrower "puts up" to ensure repayment|Collateral

@@ -1,0 +1,6 @@
+THE ORCHESTRA
+200|You might notice that the loudest section of the orchestra is this "metallic" one|brass
+400|Orchestra section with the name of an alloy|the brass
+600|When Rafael Fruhbeck de Burgos turns his back on the audience, he's not being rude, he's just doing this job|conducting
+800|The woodwind section contains a "contra" & a regular type of this instrument|bassoon
+1000|Odd instruments like the triangle & the tambourine fit into this orchestra section|percussion

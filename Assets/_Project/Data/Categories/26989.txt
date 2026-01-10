@@ -1,0 +1,6 @@
+FOREIGN HOLIDAYS
+200|This nation observes Mahatma Gandhi's birthday on October 2|India
+400|Philippine-American Friendship Day is observed on this day the U.S. celebrates its independence|Fourth of July
+600|In Hong Kong, as in Great Britain, the day after Christmas is called this|Boxing Day
+800|Celebrated in early fall, Choo Suk is the Thanksgiving of the southern part of this country|Korea
+1000|This founder of modern Turkey is memorialized on November 10|Ataturk

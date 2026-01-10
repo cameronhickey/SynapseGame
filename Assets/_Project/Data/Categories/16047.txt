@@ -1,0 +1,6 @@
+BASEBALL STADIUMS
+200|Light posts in this stadium's Babe Ruth Plaza highlight the slugger's career with images & storyboards|Yankee Stadium
+400|In 2003 274 seats were added above its "Green Monster" wall|Fenway
+600|From 1962 through 1965, 2 California MLB teams shared this facility|Dodger Stadium
+800|Note the Gateway Arch that's part of the outfield grass at this park|Busch Stadium
+1000|Named for the Atlanta Braves' owner, this field served as the 1996 Olympic stadium before the Braves moved in|Turner Field

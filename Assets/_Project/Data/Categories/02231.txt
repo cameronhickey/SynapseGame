@@ -1,0 +1,6 @@
+MOVIES IN OTHER WORDS
+200|\"Bruce Wayne's Alter Ego Eternally\"|Batman Forever
+400|\"Yuri the Russian Physician\"|Doctor Zhivago
+600|\"Jim Henson's Puppets Steal a New York Island\"|The Muppets Take Manhattan
+800|\"Speculate What Guest Is Showing Up for the Evening Repast\"|Guess Who's Coming to Dinner
+1000|\"What Person Fears the Author of 'To the Lighthouse'?\"|Who's Afraid of Virginia Woolf?

@@ -1,0 +1,6 @@
+WORD PAIRS
+200|This pair in a fruit & dairy dessert also describes a pale-skinned, pink-cheeked complexion|peaches & cream
+400|Pair of building materials used to describe a physical store as opposed to an online retailer|brick & mortar
+600|A preposition & an adjective of size, together they're a synonym for "in general\"|by & large
+800|A blues classic says, "Nobody knows you when you're" this destitute pair|down & out
+1000|A wild speech & a wild party (maybe with glow sticks) combine in this alliterative pair meaning to express anger|rant & rave

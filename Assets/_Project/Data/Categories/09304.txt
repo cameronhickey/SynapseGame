@@ -1,0 +1,6 @@
+AT "EASE\"
+200|What Monet used to hold up this work while he painted it|an easel
+400|A military agreement to stop fighting for a limited time|ceasefire
+600|The otter is an aquatic member of this animal family|weasel
+800|The political strategy of pacifying a hostile nation in the hope of avoiding war|appeasement
+1000|Waxy, colored makeup used by actors|greasepaint

@@ -1,0 +1,6 @@
+COLLEGE NICKNAMES
+200|The Midshipmen|Navy
+400|The Cornhuskers|the University of Nebraska
+600|The Boilermakers|Purdue
+800|The Hoyas|Georgetown
+1000|The Hawkeyes|University of Iowa

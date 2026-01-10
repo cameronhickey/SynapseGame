@@ -1,0 +1,6 @@
+WINE
+200|Inglenook Vineyard is located in Rutherford in this famous California valley|Napa Valley
+400|Marques de Riscal is one of the best red Rioja wines of this country|Spain
+600|Wine is produced in this grand duchy, along the Moselle River|Luxembourg
+800|Blue Nun & Crown of Crowns are 2 of the biggest producers of this famous German wine|Liebfraumilch
+1000|The fino type of this wine is sometimes served chilled; the oloroso, at room temperature|sherry

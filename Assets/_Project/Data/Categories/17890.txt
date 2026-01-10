@@ -1,0 +1,6 @@
+EUROPEAN COUNTRY BY REGIONS
+200|Arcadia, Corinth, Samos|Greece
+400|Zug, Lucerne, Valais|Switzerland
+600|Nordland, Oppland, Telemark|Norway
+800|Algarve, Alentejo, Beira|Portugal
+1000|Slavonia, Istria, Dalmatia|Croatia

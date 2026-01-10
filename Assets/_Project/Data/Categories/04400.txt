@@ -1,0 +1,6 @@
+THE WINNING SIDE
+200|The Battle of Marathon, 490 B.C.|Greeks/Athens
+400|The Battle of Chancellorsville, 1863|Confederacy
+600|The Battle of San Jacinto, 1836|Texas
+800|The Battle of Quebec, 1759|British
+1000|The Battle of Marengo, Italy, 1800|France

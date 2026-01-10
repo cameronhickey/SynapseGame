@@ -1,0 +1,6 @@
+OUTSIDE
+200|This 9-letter word can mean a stroll or an outdoor area for such a stroll; it's also a formal dance|a promenade
+400|The unusual markings on the Rembrandt variety of this bulb flower were originally caused by a virus|a tulip
+600|Of the 2 main types of softball, this one uses 9 players per side like baseball|fastpitch
+800|Believe it or not, the smooth soft-shelled species of this reptile can often outrun a man on level ground|a turtle
+1000|A traceur is a practitioner of this gymnastic urban running & jumping pastime|parkour

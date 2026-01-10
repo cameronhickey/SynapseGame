@@ -1,0 +1,6 @@
+THE SOUTHERNMOST NATION
+200|India, Italy, Iceland|India
+400|Zaire, Zimbabwe, Zambia|Zimbabwe
+600|The United Arab Emirates, The United Kingdom, The Federated States of Micronesia|Micronesia
+800|Chile, South Africa, Malaysia|Chile
+1000|Nicaragua, Panama, Honduras|Panama

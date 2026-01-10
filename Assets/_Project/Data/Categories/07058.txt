@@ -1,0 +1,6 @@
+FOREST
+200|Types of these you'll find in the forest include the red-eyed vireo & the scarlet tanager|birds
+400|Careful! These eucalyptus eaters in the forests of New South Wales can rip you to pieces if disturbed|the koala
+600|The only National Forest in Missouri is named for this author|Mark Twain
+800|As opposed to evergreen, it's the term for trees in temperate forests that lose their leaves each year|deciduous
+1000|You'll find this covering layer in a rainforest between the understory & the emergent layer|canopy

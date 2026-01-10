@@ -1,0 +1,6 @@
+RIGHT BY THE NUMBERS
+200|This letter is right by 221 in Sherlock Holmes' street address|B
+400|When this letter follows 4, it means not qualified for military service due to medical reasons|F
+600|When it follows 3, this letter means having length, breadth & depth|D
+800|It follows 4 in the name of a youth organization that uses a clover symbol|H
+1000|It preceded 38 in the designation of the U.S. Army's Lightning fighter plane of World War II|P

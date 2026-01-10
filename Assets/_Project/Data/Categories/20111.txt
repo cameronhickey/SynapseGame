@@ -1,0 +1,6 @@
+\'ALLO, CURRENT GOVERNOR
+200|He followed in Dad's footsteps as New York's guv|Andrew Cuomo
+400|He followed in Dad's footsteps as California's guv|Jerry Brown
+600|When Nikki Haley became ambassador to the U.N., Henry McMaster succeeded her as gov. of this state|South Carolina
+800|In 2015 John Bel Edwards defeated David Vitter to win this state's governorship, y'all|Louisiana
+1000|As part of his 2017 inaugural ceremonies in this state, Eric Holcomb joined a Hinkle Fieldhouse shootaround|Indiana

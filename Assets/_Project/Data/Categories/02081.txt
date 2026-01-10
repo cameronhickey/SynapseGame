@@ -1,0 +1,6 @@
+DOOHICKEYS
+200|It's the penpoint you insert into the tip of a fountain pen|a nib
+400|It hangs inside a bell & strikes the sides to produce ringing|a clapper
+600|Those ridges on a bolt that a nut screws onto|threads
+800|The 3-letter mouthpiece of a horse's bridle|the bit
+1000|That "CE" key on calculators... what's it stand for again?|clear entry

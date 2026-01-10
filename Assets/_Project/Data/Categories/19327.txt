@@ -1,0 +1,6 @@
+WORDS IN CHARLES DICKENS NOVEL TITLES
+200|Proverbially, it did in the feline|The Old Curiosity Shop
+400|A shorter synonym for story|a tale
+600|An offspring|son
+800|An enigma|The Mystery of Edwin Drood
+1000|Denotes a company co-owned by its investors, who share in its funding & profits|mutual

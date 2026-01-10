@@ -1,0 +1,6 @@
+HILLS
+200|Todt Hill, on this island reachable by ferry, is New York City's highest natural point|Staten Island
+400|The source of this major river known in song for its boatmen is near a small lake in the Valday Hills|the Volga
+600|What Teddy Roosevelt called the greatest day of his life was spent on San Juan Hill on this island|Cuba
+800|Extending northeast from Bath, these limestone hills were home to a thriving wool trade|Cotswolds
+1000|Across Victoria Harbor from Hong Kong, its name meaning "Nine Dragons" refers in part to its hills|Kowloon

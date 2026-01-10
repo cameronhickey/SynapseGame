@@ -1,0 +1,6 @@
+FROM G TO G
+200|This North American rodent is classified as a marmot, but is basically a large squirrel|a groundhog
+400|It's the offspring of a gander|a gosling
+600|There are 12 species of this aromatic herb with a name from Chinese meaning "root of heaven\"|ginseng
+800|Used for covering a hole or window, it's a metal frame with bars across it|grating
+1000|A ration of rum mixed with water aboard an old Navy ship|grog

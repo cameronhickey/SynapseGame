@@ -1,0 +1,6 @@
+CIVICS
+200|House debates are presided over by the person in this congressional position|Speaker of the House
+400|Term for withdrawal from the Union, as by 11 states in 1860 & '61|secession
+600|Hamilton said using this group to choose the president, rather than direct popular vote, was "excellent\"|the Electoral College
+800|In June 2012 the president invoked this right over Operation Fast & Furious papers|executive privilege
+1000|For a constitutional amendment to take effect, this fraction of the states must ratify it|three-quarters

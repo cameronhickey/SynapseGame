@@ -1,0 +1,6 @@
+GEOGRAPHIC CINEMA
+200|1979: "The ___ Horror\"|Amityville
+400|1957: "The Spirit of ___\"|St. Louis
+600|1987: "Born in ___\"|East L.A.
+800|1931: "Sidewalks of ___\"|New York
+1000|1960: "Sunrise at ___\"|Campobello

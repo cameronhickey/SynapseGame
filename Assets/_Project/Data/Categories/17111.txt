@@ -1,0 +1,6 @@
+VITAMINS
+200|This vitamin is produced in the body itself with exposure to sunshine|D
+400|Of turnip greens, tomato juice or watermelon, the 1 with about 10 times the vitamin C as the others|turnip greens
+600|Fish-liver oil is among the most important sources of this vitamin required by all vertebrates|A
+800|Names of 3 of the 8 vitamins that make up the vitamin B complex|(3 of) thiamine, niacin, riboflavin, pantothenic acid, biotin, folic acid, pyridoxine & cyanocobalamin
+1000|This B-complex vitamin was found in the 1930s to cure a nutrition deficiency in dogs called black tongue|niacin

@@ -1,0 +1,6 @@
+PLANET FILL-IN
+200|Veronica ____, a TV sleuth|Veronica Mars
+400|Fuller's ____, an absorbent compound|Earth
+600|Sega ____, a video game console|Saturn
+800|The ____ of Willendorf, a prehistoric sculptured figurine|Venus
+1000|San Jose ____ News, a paper in California|Mercury

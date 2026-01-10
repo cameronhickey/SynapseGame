@@ -1,0 +1,6 @@
+SINGERS' SHARED FIRST NAMES
+200|Chesney & Loggins|Kenny
+400|Nicks & Wonder|Stevie
+600|Trevi & Gaynor|Gloria
+800|Bolton & Buble|Michael
+1000|Maines & Merchant|Natalie

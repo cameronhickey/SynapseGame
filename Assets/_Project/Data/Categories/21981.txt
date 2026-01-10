@@ -1,0 +1,6 @@
+DRY CLEANING
+200|Dry cleaning got its name because this is not a big part of the process; liquid chemicals are used|water
+400|Back in the day, dry cleaning used chemicals including gasoline & this other petroleum product AKA lamp oil|kerosene
+600|(Jimmy of the Clue Crew displays a dry cleaning bag.) Clothes left in plastic dry cleaning bags for extended periods are, due to moisture buildup, subject to these two "M"s, both forms of fungi, so don't leave them in too long|mold & mildew
+800|Perchloroethylene is dry cleaners' go-to as this 7-letter word that makes stains go away|a solvent
+1000|This substance that gives wine & coffee their astringency also leads to tough stains; special detergents help|tannins

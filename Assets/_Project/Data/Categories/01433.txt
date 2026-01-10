@@ -1,0 +1,6 @@
+DENTISTRY
+200|This is the more common term for the gingiva, the soft tissue surrounding the teeth|gum
+400|This part of a tooth is also called the pulp canal|the root canal
+600|In the Old West a pole of these two colors indicated a barber who did dentistry|red and white
+800|The American Academy of Cosmetic Dentistry says it's the most popular procedure for those under 50|teeth whitening
+1000|1 of the American Dental Association's 8 specialties; it corrects cleft palates & harelips|oral surgery

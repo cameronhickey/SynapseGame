@@ -1,0 +1,6 @@
+PRESIDENTIAL POSSESSIVES
+200|The 16th president's town cars|Lincoln's Lincolns
+400|The 38th president's Mustangs & Fiestas|Ford's Fords
+600|Reagan's successor's rhododendrons|Bush's bushes
+800|The garment makers working for "Old Rough & Ready\"|Taylor's tailors
+1000|Cleaning appliances for the 31st president|Hoover's hoovers

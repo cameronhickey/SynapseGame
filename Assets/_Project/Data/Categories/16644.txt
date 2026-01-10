@@ -1,0 +1,6 @@
+BASEBALL BITS
+200|When this city's MLB team wins a game, the Jolly Roger is raised|the Pittsburgh Pirates
+400|(Jimmy of the Clue Crew shows us a diagram of a baseball diamond.) On a scorecard, if a batter hits a double, we mark the lines from home plate to second base & write 2B; if we mark the first line & write HBP, it indicates the player reached first base in this way|hit by a pitch
+600|240-pound Pablo "Kung Fu Panda" Sandoval hit .500 as this team swept the World Series in 2012|the San Francisco Giants
+800|In 1971 the Hall of Fame set up a committee to select inductees from these leagues|the Negro leagues
+1000|In 2010 a rookie for this team inspired restaurants to create "Strasburgers\"|the Washington Nationals

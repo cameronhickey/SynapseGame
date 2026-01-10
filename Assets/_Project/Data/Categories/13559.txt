@@ -1,0 +1,6 @@
+BIRDS WITHIN WORDS
+200|So this crazy bird wandered into a saloon...|a loon
+400|Looks like the beagle ate this bird|an eagle
+600|It has a long femur|an emu
+800|It's hiding in the hibiscus|an ibis
+1000|You'll find this bird in Milwaukee|auk

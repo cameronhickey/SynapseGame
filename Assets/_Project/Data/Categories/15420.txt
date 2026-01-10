@@ -1,0 +1,6 @@
+BOWL GAME CITIES
+200|The Chick-fil-A Bowl at the Georgia Dome|Atlanta
+400|The Valero Alamo Bowl at the Alamodome|San Antonio
+600|The Insight Bowl at Sun Devil Stadium|Tempe
+800|The Franklin American Mortgage Music City Bowl at LP Field|Nashville
+1000|The Bridgepoint Education Holiday Bowl at Qualcomm Stadium|San Diego

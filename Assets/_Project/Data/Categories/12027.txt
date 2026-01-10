@@ -1,0 +1,6 @@
+ON THE U.S. MAP
+200|This state's Near Islands are the westernmost of the Aleutians|Alaska
+400|Land o' Goshen! There's a city called Goshen in Elkhart County in this state|Indiana
+600|Pine Bluff & Arkadelphia are cities in this state|Arkansas
+800|Tuscola County is in Michigan; Tuscaloosa County is in this state|Alabama
+1000|Go figure—this state's name is derived from a Native American word meaning "father of the waters\"|Mississippi

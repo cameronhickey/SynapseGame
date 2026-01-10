@@ -1,0 +1,6 @@
+NOT A BEST PICTURE OSCAR WINNER
+200|\"Citizen Kane", "Going My Way", "How Green Was My Valley\"|Citizen Kane
+400|\"The Best Years of Our Lives", "Miracle on 34th Street", "The Lost Weekend\"|Miracle on 34th Street
+600|\"Lilies of the Field", "Oliver!", "A Man for All Seasons\"|Lilies of the Field
+800|\"The Sting", "Network", "Rocky\"|Network
+1000|\"Saving Private Ryan", "Braveheart", "The English Patient\"|Saving Private Ryan

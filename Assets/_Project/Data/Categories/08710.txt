@@ -1,0 +1,6 @@
+HARRISON FORD MOVIES
+200|\"Snakes. Why'd it have to be snakes?\"|Raiders of the Lost Ark
+400|\"Get off my plane!\"|Air Force One
+600|\"I didn't kill my wife!\"|The Fugitive
+800|\"Replicants are like any other machine — they're either a benefit or a hazard\"|Blade Runner
+1000|\"Something wrong with buttons?...got anything against zippers?\"|Witness

@@ -1,0 +1,6 @@
+ADJECTIVAL DESCRIPTION
+200|6-letter word that means referring to or looking like a horse|equine
+400|We'll go to the dogs & say this adjective means given to prying, Charlie Brown!|snoopy
+600|It's this adjective regarding earth, water, air & fire, dear Watson|elementary
+800|Unconventional; it's also what the clapping person is here; yipes|offbeat
+1000|Ambiguous, or the adjective regarding ... (the 3 dots above)|elliptical

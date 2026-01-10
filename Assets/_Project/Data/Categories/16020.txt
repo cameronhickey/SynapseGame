@@ -1,0 +1,6 @@
+HIDING PLACES
+200|Built into a wall to store clothes, this small room is great for a game of hide & seek|a closet
+400|If it's long enough crawl behind this; it's also found at the front of a theater stage|a curtain
+600|If I go up to this highest room in a house & hide, I should be able to see anyone coming|the attic
+800|I can fit in this small room off the kitchen used for storing dry food: originally it was just for bread|a pantry
+1000|No one will look for us in this attached building that can also mean an auto repair shop|a garage

@@ -1,0 +1,6 @@
+ANAGRAM ZOO
+200|NEAT POLE|antelope
+400|THE PANEL|elephant
+600|A mountain ape: LIAR LOG|gorilla
+800|Ocean mammal: PIN HOLD|a dolphin
+1000|Asian snake fighter: EGO MOONS|a mongoose

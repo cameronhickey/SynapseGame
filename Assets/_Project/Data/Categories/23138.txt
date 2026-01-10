@@ -1,0 +1,6 @@
+WHICH COLLEGE?
+200|The Rotunda, designed by Jefferson|University of Virginia
+400|The LBJ Presidential Library|UT Austin
+600|Tribble Hall; the Demon Deacon statue at Truist Field|Wake Forest
+800|Hoover Tower, named after a president|Stanford
+1000|Robert Zemeckis Center for Digital Arts|USC

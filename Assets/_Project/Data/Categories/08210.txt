@@ -1,0 +1,6 @@
+ANIMAL TRIVIA
+200|Vampire bats feed only on this|blood
+400|All peacocks are of this sex|male
+600|World's tallest animal|the giraffe
+800|The largest meat-eating land animals are native to this continent|North America
+1000|1st breed of horses developed in U.S., it was named Vermont state animal in 1961|the Morgan horses

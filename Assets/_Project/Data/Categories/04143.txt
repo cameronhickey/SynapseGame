@@ -1,0 +1,6 @@
+QUEEN ELIZABETH II
+200|It's the Queen's royal family name & the name of one of her castles|Windsor
+400|It's really April 21, but this event is officially celebrated each year on the third Saturday in June|The Queen's Birthday
+600|It's Queen Elizabeth's official London residence|Buckingham Palace
+800|On June 2, 1953 Elizabeth was crowned in this religious buliding|Westminster Abbey
+1000|The Queen has 4 children: 3 sons & this daughter|Princess Anne

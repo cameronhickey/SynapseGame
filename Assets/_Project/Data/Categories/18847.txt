@@ -1,0 +1,6 @@
+DECIMALS
+200|The representation of a number in the decimal system is called its decimal expansion; for 1/4, it's this|.25
+400|Each numeral from 0 to 9 is a decimal one of these, from a word meaning "finger\"|a digit
+600|Though not required, "trailing" these to the right of a decimal point are often used to show levels of accuracy|zeroes
+800|In continental Europe, this punctuation mark, not a dot, is used to represent a decimal point|a comma
+1000|(Kelly of the Clue Crew presents as the digits of pi appear on the monitor one by one.) When it's expressed as a decimal, pi never repeats or terminates, so it's one of these numbers that sound like they could use a little therapy|irrational numbers

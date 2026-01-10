@@ -1,0 +1,6 @@
+WHAT WORDS SHOULD REALLY MEAN
+200|This should mean a grifter's rocky hideout, not curved like the inner surface of a sphere|concave
+400|This should mean someone who rides a bike, not someone who travels about selling wares|peddler
+600|This should mean a useful hat, not a physical disability|handicap
+800|This should mean a distant object, not an old British quarter-penny|farthing
+1000|This should mean "what professionals charge", not "to divide proportionately\"|prorate

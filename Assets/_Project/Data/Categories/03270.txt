@@ -1,0 +1,6 @@
+OUT TO SEA
+200|Central America's east coast forms this sea's western boundary|Caribbean Sea
+400|This sea formed millions of years ago when the Arabian Peninsula & Africa "parted\"|Red Sea
+600|If you row the entire length of the Po, eventually you'll flow into this sea|Adriatic Sea
+800|The Strait of Dover & the rest of the English Channel connect it with the Atlantic Ocean|North Sea
+1000|St. Lawrence Island & the Pribilof Islands lie in this sea|Bering Sea

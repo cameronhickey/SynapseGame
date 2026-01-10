@@ -1,0 +1,6 @@
+ONE VOWEL ONLY
+200|A planet of our solar system|Mars
+400|Basketball's Mr. Nowitzki knows it's a small Scottish dagger|a dirk
+600|A twisting tool that's "thrown into" a situation to mess it up|a wrench
+800|A country in Central Africa|Chad
+1000|Last name of the president when the California Gold Rush began|Polk

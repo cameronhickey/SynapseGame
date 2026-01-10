@@ -1,0 +1,6 @@
+COUNTRY COOKBOOKS
+200|Keep your own little Opie happy with "Aunt Bee's Mayberry Cookbook", inspired by this TV series|The Andy Griffith Show
+400|Her cookbook features dishes she made while raising Ashley & Wynonna|Naomi Judd
+600|This Irene Ryan character's "Beverly Hillbillies Cookbook" is not for the faint of palate (possum, anyone?)|Granny
+800|This singer's "Southern Cookbook" might help you avoid a D-I-V-O-R-C-E|Tammy Wynette
+1000|\"The Bluegrass Music Cookbook" includes a cornbread recipe from this female fiddler, the toast of Champaign, Ill.|Alison Krauss

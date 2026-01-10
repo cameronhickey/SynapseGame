@@ -1,0 +1,6 @@
+ORDER
+200|In batting order, this number is the "cleanup" position|4th
+400|In order of admission to the union, this state is last|Hawaii
+600|An anteater is in the order Pilosa; this similar-looking animal is in the order Tubulidentata|an aardvark
+800|Sheep are members of the order Artiodactyla, meaning they have an "even" number of these|toes
+1000|Lesser-known members of this animal order are the narwhal & the dwarf sperm whale|cetacean

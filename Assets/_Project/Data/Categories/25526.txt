@@ -1,0 +1,6 @@
+ACHES & PAINS
+200|Johns Hopkins defines this as persistent, long-standing pain that may be on & off or continuous|chronic pain
+400|More common in women, this type of sharp, stabbing headache is named for what it feels like is stabbing your eye or head|an ice pick headache
+600|Many aches & pains are treated with NSAIDs, these|non-steroidal anti-inflammatory drugs
+800|Lord Byron rhymed this old-time word for feverish pain with "plague you\"|ague
+1000|This word for achy inflammation of the fluid sacs around a joint comes from Latin for "bag" or "purse\"|bursitis

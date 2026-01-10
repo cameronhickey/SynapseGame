@@ -1,0 +1,6 @@
+MOVIE FAMILIES
+200|A classic from 1965: The von Trapps|The Sound of Music
+400|A 1985 comedy: Hello, McFlys!|Back to the Future
+600|A 2000 comedy: The Byrneses (the Fockers show up in the sequels)|Meet the Parents
+800|A 2004 animated film: The Parrs, who look good in red spandex|The Incredibles
+1000|A 1968 scarefest: The title character made it a family of 3 for the Woodhouses|Rosemary's Baby

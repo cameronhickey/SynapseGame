@@ -1,0 +1,6 @@
+CLOTH & FABRIC
+200|One of the most common uses for green baize is to cover these tables that have pockets in them|pool tables
+400|Shahtoosh is made from the throat hairs of one type of this animal, mohair from another|goat
+600|Chino is a fabric made from this fiber|cotton
+800|The name of this coarse fabric of linen & wool tells you there's linen & wool in it|linsey-woolsey
+1000|It's a heavy silk cloth with a raised design, often in gold or silver|brocade

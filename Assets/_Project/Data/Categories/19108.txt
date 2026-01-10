@@ -1,0 +1,6 @@
+THE NORTHERNMOST STATE CAPITAL
+200|Bismarck, Boise, Baton Rouge|Bismarck
+400|Salt Lake City, Sacramento, Salem|Salem
+600|Tallahassee, Austin, Oklahoma City|Oklahoma City
+800|Boston, Concord, Hartford|Concord
+1000|Denver, Des Moines, Nashville|Des Moines

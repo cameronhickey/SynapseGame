@@ -1,0 +1,6 @@
+MOVE "IT"!
+200|Printed letters sloping to the right|Italics
+400|2-word rhyming term meaning very small|Itsy bitsy/itty bitty
+600|A restless craving or desire, hopefully not for poison ivy|Itch
+800|This 1946 film was based in part on the story "The Greatest Gift\"|It's A Wonderful Life
+1000|A city of south central New York state, or the site of Odysseus' legendary kingdom|Ithaca

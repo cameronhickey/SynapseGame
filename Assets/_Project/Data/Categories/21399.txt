@@ -1,0 +1,6 @@
+SEND ME A LETTER
+200|At Harvard, this letter grade indicates "satisfactory comprehension of the course material\"|a C
+400|Curl your little finger under your thumb & spread your other 3 fingers to make this letter in ASL|a W
+600|In Morse code it's 3 dots|S
+800|A 6-string guitar's low & high strings are typically tuned to this note|E
+1000|It denotes the horizontal axis in a Cartesian coordinate system|X

@@ -1,0 +1,6 @@
+HUMAN VISION
+200|People with this deficiency can't get mad and see red|colorblindness
+400|Snooty specs on a stick|a lorgnette
+600|Called hyperopia, it's the opposite of myopia|farsightedness
+800|These were first made in 1887 by German physiologist A.E. Fick|contact lenses
+1000|You have to keep an eye on this M.D.|an ophthalmologist

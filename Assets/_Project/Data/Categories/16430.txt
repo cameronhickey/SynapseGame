@@ -1,0 +1,6 @@
+MAJOR LEAGUE SPORTS CITIES
+200|The Jaguars|Jacksonville
+400|The Blue Jays|Toronto
+600|The Kings (2 cities, please)|Los Angeles and Sacramento
+800|The Grizzlies|Memphis
+1000|The Fire|Chicago

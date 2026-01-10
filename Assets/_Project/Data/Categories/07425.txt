@@ -1,0 +1,6 @@
+SOMETHING "OLD", SOMETHING "NEW\"
+200|This fish story of 1952 was one of the last works Hemingway published during his lifetime|\"The Old Man and the Sea\"
+400|His 1687 "Principia" is considered one of the greatest scientific works ever published|Sir Isaac Newton
+600|It's the rich dish of shellfish (often lobster) in a cream sauce with sherry, usually served on toast points|Lobster Newburgh
+800|It's the informal system in which a group of men help each other & exchange favors in business or politics|old boy network
+1000|This poem by Emma Lazarus is on the pedestal of the Statue of Liberty|\"The New Colossus\"

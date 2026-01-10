@@ -1,0 +1,6 @@
+NASH-ING
+200|\"The cow is of the boving ilk; one end is moo, the other, ____\"|milk
+400|\"There is something about a martini...& to tell you the truth, it is not the ____— I think that perhaps it's the gin\"|vermouth
+600|\"The one-l lama, he's a ____. The two-l llama, he's a beast\"|priest
+800|\"Oh what a tangled web do parents weave when they think that their children are ____\"|naive
+1000|\"He without benefit of ____, his fun and income soon quadruples\"|scruples

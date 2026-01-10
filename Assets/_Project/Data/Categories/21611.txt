@@ -1,0 +1,6 @@
+CITY ADJECTIVES
+200|Of or from Europe's "City of Lights\"|Parisian
+400|Cantabrigian means from one of 2 noted college cities named this|Cambridge
+600|Coming from the Fab Four's hometown, like their accents|Liverpudlian
+800|\"C"oming from an ancient Peloponnesian city, like an order of architecture|Corinthian
+1000|Of or relating to a northern Italian city, like veal coated with breadcrumbs|Milanese (or Parmesan)

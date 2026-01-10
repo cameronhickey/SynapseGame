@@ -1,0 +1,6 @@
+PRIMATES
+200|It's the largest of all living primates|the gorilla
+400|The uakari, the only short-tailed New World monkey, lives in the basin of this South American river|the Amazon
+600|Studies suggest that these African apes are the closest to humans genetically & in intelligence|chimpanzees
+800|Today this reddish- brown ape is confined entirely to the forests of Borneo & Sumatra|orangutans
+1000|The traditional organ grinder's monkey, it's named for the patch of hair that resembles a monk's hood|the Capuchin

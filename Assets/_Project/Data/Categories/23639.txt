@@ -1,0 +1,6 @@
+DIRECTIONAL GEOGRAPHY
+200|It's the southernmost country in Central America|Panama
+400|It contains the geographic center of the North American continent: North ____|North Dakota
+600|2 of the 3 Communist countries which form most of Greece's northern border|(2 of) Bulgaria, Yugoslavia or Albania
+800|Barbados & Grenada are part of this chain: the West ____|Indies
+1000|The southernmost national capital in the world is this island country's|New Zealand

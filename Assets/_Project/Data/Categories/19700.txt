@@ -1,0 +1,6 @@
+IN A GROUP
+200|\"7 Years" is a song from this group; Lukas is their lead singer|Lukas Graham
+400|Joe Jonas joined some friends in this band that served us "Cake By The Ocean\"|DNCE
+600|Beyonce used to be in a group, this one that had hits like "Jumpin', Jumpin'\"|Destiny's Child
+800|Justin Timberlake used to be in a group, this one that had hits like "Pop\"|\'NSYNC
+1000|For songs like "Hall Of Fame" & "Superheroes", stick to this band that Danny O'Donoghue is in|The Script

@@ -1,0 +1,6 @@
+THAT ENDED "WELL\"
+200|Type of card you might receive in a hospital|a get well card
+400|To reside|dwell
+600|Adieu!|farewell
+800|Samuel Johnson's faithful bio man|(James) Boswell
+1000|A rapid, spontaneous growth of support for a political movement|a groundswell

@@ -1,0 +1,6 @@
+RIVER DAMAGE
+200|Sediment from erosion hurts rivers because this can't penetrate the water, hindering the ecosystem|sunlight
+400|Surface runoff from farms or your lawn can add these chemicals, like chlordane, to your local river|pesticides
+600|This country's Sarno river is the most polluted in Europe|Italy
+800|A "dead zone" in the Gulf of Mexico is mainly caused by an excess of this element, much of it carried by the Mississippi|nitrogen
+1000|You may not love the time of this disease that's been called the "archetype of waterborne illnesses\"|cholera

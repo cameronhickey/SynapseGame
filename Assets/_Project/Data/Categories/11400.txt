@@ -1,0 +1,6 @@
+YOUR DAYS ARE NUMBERED
+200|Number of months with only 30 days|four
+400|Years that read the same upside down & right side up include 1881, 6009 & this year of the 1960s|1961
+600|Title of the 1965 Beatles No. 1 hit song that is a calendrical impossiblity|\"Eight Days A Week\"
+800|Dies Martis is the Latin name for this day of the week|Tuesday
+1000|In the DD/MM/YYYY format, it was the most recent date in which all 3 were even numbers|December 30, 2006

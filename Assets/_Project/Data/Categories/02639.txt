@@ -1,0 +1,6 @@
+BASEBALL NICKNAMES
+200|\"Leo the Lip\"|Leo Durocher
+400|\"Joltin' Joe\"|Joe DiMaggio
+600|\"Catfish\"|Jim Hunter
+800|\"Doctor K\"|Dwight Gooden
+1000|\"The Rocket\"|Roger Clemens

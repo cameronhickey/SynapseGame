@@ -1,0 +1,6 @@
+SPEED
+200|A 1972 experiment set this more precisely at 186,282 miles per second|the speed of light
+400|Of 500, 1,000 or 10,000 mph, the approximate speed of a spot on the equator while the Earth spins|1,000 mph
+600|In 1965 Gordon Moore famously predicted that these would double in processing speed every 18 months|computer chips
+800|The 2nd-largest living bird, this flightless Australian can run at nearly 30 mph; faster than you!|an emu
+1000|Any object said to be traveling at hypersonic velocity has a speed over 5 on this scale named for an Austrian|Mach

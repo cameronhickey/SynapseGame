@@ -1,0 +1,6 @@
+OBSERVATORIES
+200|One of the oldest known structures used as an observatory is this one in Wiltshire, England|Stonehenge
+400|An observatory at Jaipur in this country has a sundial built in the 1720s with a column height of almost 90 feet|India
+600|The first coronagraph was used in 1930 at the Pic Du Midi Observatory in these mountains in France|the Pyrenees
+800|Until 1976 the Hale Telescope on this California mountain was the world's largest reflector at 200 inches|Mount Palomar
+1000|In 1675 England's King Charles II founded this observatory located on what became the Prime Meridian|Greenwich

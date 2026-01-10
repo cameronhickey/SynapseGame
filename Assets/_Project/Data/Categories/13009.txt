@@ -1,0 +1,6 @@
+GRANDMA'S LOTTO NUMBERS
+200|Number for Amanda's birthday; it's how many of the lower 48 states border the Pacific Ocean|3
+400|Grandma took this number thinking of grandson Brian's birthday; it's the number of gunshots in the national salute|21
+600|This number for young Jennifer's birthday; it's the square root of 121|11
+800|Gram's 2-digit number for Antoine's July birthday, which falls on Bastille day|14
+1000|For Kristi's birthday, Gram chose this (Dr. Pepper is a "unique blend of" this many "flavors")|23

@@ -1,0 +1,6 @@
+THINGUMAJIGS
+200|The small perforated rubber disk in your faucet that prevents leakage|washer
+400|A person with this job is supposed to hand you a mashie niblick at the proper time|caddie
+600|Part of a drill in which you insert a key to tighten or loosen its hold on the bit|chuck
+800|A rheostat may change the intensity of these in your dining room|light
+1000|If the typewriter keys strike this, you forgot to put the paper in|platen

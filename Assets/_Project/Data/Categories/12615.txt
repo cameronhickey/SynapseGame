@@ -1,0 +1,6 @@
+COMPLETES THE SHAKESPEARE QUOTE
+200|First witch: "When shall we three meet again in thunder, lightning, or in ____?\"|rain
+400|Hamlet: "Frailty, thy name is ____\"|woman
+600|Romeo: "O! That I were a glove upon that hand, that I might touch that ____\"|cheek
+800|King Lear: "How sharper than a serpent's tooth it is to have a thankless ____\"|child
+1000|Petruchio: "I come to wive it wealthily in ____\"|Padua

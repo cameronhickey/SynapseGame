@@ -1,0 +1,6 @@
+WORLD LEADERS: 1871
+200|In 1871 this man was President of the United States|Ulysses Grant
+400|The liberal prime minister of Great Britain in 1871|(William) Gladstone
+600|In 1871 Leopold II began his seventh year as king of this country|Belgium
+800|Abd-ul Aziz was this Empire's sultan|the Ottoman Empire
+1000|The ninth Pope with this name was the pontiff|Pius

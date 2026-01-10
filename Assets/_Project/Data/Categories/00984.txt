@@ -1,0 +1,6 @@
+WORDPLAY
+200|It's the kind of phrase, such as "she sells seashells...", that throws your lingual organ for a loop|a tongue twister
+400|This word that describes the toves in "Jabberwocky" is a combination of "lithe" and "slimy\"|slithy
+600|A correct response on seeing these initial characters|Acrostic
+800|Character who gave his name to lines like, " 'The prisoner's coming down,' he said condescendingly\"|Tom Swift
+1000|A contronym can mean 2 opposite things, like this word meaning "to adhere" & "to divide\"|Cleave

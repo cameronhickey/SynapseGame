@@ -1,0 +1,6 @@
+MILITARY RANKS
+200|Not public|private
+400|Not specific|general
+600|A student's declared field of study|major
+800|Kangaroo was one on TV|captain
+1000|Painful punishment practice|corporal

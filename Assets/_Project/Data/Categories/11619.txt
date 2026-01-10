@@ -1,0 +1,6 @@
+NBA NICKNAMES
+200|King James|LeBron James
+400|\"MJ\"|Michael Jordan
+600|Black Mamba|Kobe Bryant
+800|\"Pistol Pete\"|Pete Maravich
+1000|The Worm|Dennis Rodman

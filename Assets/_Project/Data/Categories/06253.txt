@@ -1,0 +1,6 @@
+STOP!
+200|An auto racer makes one of these to refuel|a pit stop
+400|On a typewriter the width of these 2 areas & the range of the printing are determined by stops|margins
+600|In the early 1790s Haydn stopped in Bonn, Germany & met this young musical genius who would become Haydn's pupil|Beethoven
+800|In the 1960s the French military stopped using this fortified line of defense named for a war minister|Maginot
+1000|On Nov. 5, 1605 he wanted to blow up Parliament to stop the persecution of Roman Catholics in England|Guy Fawkes

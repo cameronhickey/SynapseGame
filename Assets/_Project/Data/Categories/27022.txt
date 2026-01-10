@@ -1,0 +1,6 @@
+STRING 'EM UP!
+200|This Lord Protector's body was disinterred & hanged during the reign of Charles II|Oliver Cromwell
+400|Cuauhtemoc, the ruler of these people, was hanged in 1525 as a captive of Cortes|the Aztecs
+600|This communist's brother Aleksandr Ulyanov was hanged for plotting against the Czar|Lenin
+800|John Andre, to whom this American traitor offered to surrender West Point, was hanged in 1780|Benedict Arnold
+1000|Ahithophel, who joined this man's revolt against his father, King David, later hanged himself|Absalom

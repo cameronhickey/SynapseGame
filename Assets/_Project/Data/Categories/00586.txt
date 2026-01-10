@@ -1,0 +1,6 @@
+WWII
+200|Name for the alliance of Germany, Japan & Italy|the Axis
+400|French city that was scene of miraculous Brit. evacuation in 1940|Dunkirk
+600|The SPARS were this service's women's reserves; SPAR is an acronym of "Semper Paratus", always ready|the Coast Guard
+800|In 1941 "Hap"penstance made him chief of the new U.S. Army Air Forces|Hap Arnold
+1000|A destroyer was named for this family of 5 brothers killed in the Battle of Guadalcanal|the Sullivans

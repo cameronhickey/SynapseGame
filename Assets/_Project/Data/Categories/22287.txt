@@ -1,0 +1,6 @@
+SNAKES!
+200|The ball & the reticulated are 2 types of these constricting snakes|python
+400|This largest cobra is the only species in the genus Ophiophagus, which means "snake eater\"|king cobra
+600|Humans have 24 of these chest protectors arranged in pairs; snakes may have as many as 400|ribs
+800|This official reptile of Massachusetts, one of the most common snakes in North America, is nonvenomous and found on lawn grass|a garden snake (garter snake)
+1000|The yellow type of this South American snake can reach 15 feet long; its green cousin can reach 30|the anaconda

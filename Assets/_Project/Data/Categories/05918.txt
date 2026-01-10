@@ -1,0 +1,6 @@
+STARDUST
+200|Known as Hoba & weighing 60 tons, the largest single known one of these was discovered in Africa in 1920|Meteorite
+400|Whether absolute or apparent, it's the measure of a star's brightness|Magnitude
+600|The star cluster known as the Pleiades or the Seven Sisters is found in this bullish constellation|Taurus
+800|To honor the Beatles, 4 of these mini-planets were named McCartney, Lennon, Harrison & Starr|Asteroids
+1000|This unit equal to 3.262 light years can be used to measure the distance between stars|Parsec

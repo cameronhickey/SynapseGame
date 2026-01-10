@@ -1,0 +1,6 @@
+FILL IN THE FULL PLACE NAME
+200|\"The State of ___ ___ & Providence Plantations\"|Rhode Island
+400|Founded in 963: "Grand Duchy of ___\"|Luxembourg
+600|\"___-Mesa-Scottsdale Metropolitan Statistical Area\"|Phoenix
+800|The province of "___ and Labrador \"|Newfoundland
+1000|\"Federated States of ___\"|Micronesia

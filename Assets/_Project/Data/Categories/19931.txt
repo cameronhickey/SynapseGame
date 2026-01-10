@@ -1,0 +1,6 @@
+SPEED READING
+200|Eric Schlosser: "____ Food Nation\"|Fast
+400|Maira Kalman & Daniel Handler: "____ Up and Wait\"|Hurry
+600|Stephen Hawking: "A ____ History of Time\"|Brief
+800|Louis L'Amour: "The ____ and the Dead\"|Quick
+1000|Victor Appleton II: "Tom ____ and His Thermo-Ion Jetpack\"|Swift

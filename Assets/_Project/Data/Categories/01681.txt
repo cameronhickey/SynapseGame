@@ -1,0 +1,6 @@
+ACTRESSES
+200|This star of "Grace Under Fire" was named for Lady Brett Ashley in "The Sun Also Rises\"|Brett Butler
+400|Once Emma Peel on "The Avengers", she won a 1994 Tony 1 day after she was named a Dame of the British Empire|Diana Rigg
+600|Born Joyce Frankenberg, she took her stage name from one of Henry VIII's wives|Jane Seymour
+800|This Norwegian star of "Autumn Sonata" & "Cries and Whispers" was born in Tokyo, Japan|Liv Ullmann
+1000|She was Greece's minister of culture 1981-89 & 1993-94|Melina Mercouri

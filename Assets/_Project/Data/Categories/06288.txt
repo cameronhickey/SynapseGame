@@ -1,0 +1,6 @@
+BOOKS
+200|Meg Murry finds out that this title phenomenon, also called a tesseract, exists in a Madeleine L'Engle novel|A Wrinkle in Time
+400|This Philip Pullman series includes "The Golden Compass", "The Subtle Knife" & "The Amber Spyglass\"|His Dark Materials
+600|They are the little workers at Willy Wonka's chocolate factory|the Oompa Loompas
+800|Chapters in this Katherine Paterson book include "The Giant Killers" & "Building the Bridge\"|Bridge to Terabithia
+1000|A book by George Selden related the adventures of Chester, this insect "in Times Square\"|a cricket

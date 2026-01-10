@@ -1,0 +1,6 @@
+COLOR ME GOOD
+200|Jet or raven|black
+400|Charcoal or battleship|gray
+600|Cobalt or Prussian|blue
+800|Eggplant or lavender|purple
+1000|Myrtle or absinthe|green

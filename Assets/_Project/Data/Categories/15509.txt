@@ -1,0 +1,6 @@
+CLEAN "X\"
+200|This scouring powder is named for a mythical warrior who fought in the Trojan War|Ajax
+400|This company that's synonymous with bleach also makes the Green Works line of cleaning products|Clorox
+600|Ben Hirsch invented this liquid auto polish; the brand now includes car wash & chrome polish|Turtle Wax
+800|This blue spray offers a "streak-free shine\"|Windex
+1000|20 Mule Team this, a natural detergent booster, has been around since the 19th century|Borax

@@ -1,0 +1,6 @@
+ANIMALS, VEGETABLES, MINERALS
+200|This mammal is nicknamed the "ship of the desert\"|a camel
+400|Canis lupus is the scientific name for the gray one of these|a wolf
+600|Having short spikelike antlers & weighing about 20 pounds, the pudu is the smallest member of this animal family|the deer
+800|This white legume has long been a staple of a branch of the armed forces, hence its name|the navy bean
+1000|The name of this mineral is from the Greek for "fire"; as well as fooling gold-seekers, it produced the spark in wheel-lock guns|(iron) pyrite

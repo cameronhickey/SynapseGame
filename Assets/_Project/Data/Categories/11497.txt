@@ -1,0 +1,6 @@
+WHERE YA FROM, CONGRESSMAN?
+200|Erstwhile presidential candidate Al Gore|Tennessee
+400|John Quincy Adams after the presidency|Massachusetts
+600|Speaker of the House Newt Gingrich|Georgia
+800|Dick Cheney|Wyoming
+1000|2006 House Majority Leader John Boehner|Ohio

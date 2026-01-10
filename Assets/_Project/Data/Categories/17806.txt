@@ -1,0 +1,6 @@
+MOVIE ENDINGS
+200|\"Independence", "The Longest", "Training\"|Day
+400|\"Police", "Toy", "Love\"|Story
+600|\"Safe", "Road", "Animal\"|House
+800|\"After", "Battlefield", "The Good\"|Earth
+1000|\"Hollow", "Rain", "Inside\"|Man

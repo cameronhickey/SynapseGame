@@ -1,0 +1,6 @@
+TIME SPANS
+200|Among the comets he tracked that were seen between 1337 & 1698, he found one with a 75-year orbit|Halley
+400|Before the French Revolution, this age "emerged from the darkness\"|the Enlightenment
+600|In ancient Greece this was the 4-year span between athletic games|the Olympiad
+800|It sounds like a heroic poem; Paleocene is one|epoch
+1000|A period of about 30 years, whether it's "the greatest" one or not|generation

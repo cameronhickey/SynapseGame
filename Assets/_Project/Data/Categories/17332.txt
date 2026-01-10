@@ -1,0 +1,6 @@
+PASSWORD
+200|One of the earliest accounts of the use of passwords is by Polybius, describing their use by this army around 150 B.C.|the Roman army
+400|\"Open sesame!" cried this man, & the hidden cave of the 40 thieves opened to him|Ali Baba
+600|In "Horse Feathers", this man uses the password "swordfish" to get into a speakeasy|Groucho Marx
+800|When Bill Clinton went digital, he chose this name of his dog as his password|Buddy
+1000|The first computers to use passwords was probably this New England university's CTSS computer in the 1960s|MIT

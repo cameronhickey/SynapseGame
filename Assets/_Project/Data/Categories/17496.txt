@@ -1,0 +1,6 @@
+HARRY POTTER & THE CHAPTER TITLES
+200|In book 1, "The ____ Hat\"|Sorting
+400|In book 4, "The ____ World Cup\"|Quidditch
+600|In book 6, her "Helping Hand\"|Hermione
+800|In book 7, "The Elder ____\"|Wand
+1000|In book 2, "The Whomping ____\"|Willow

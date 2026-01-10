@@ -1,0 +1,6 @@
+COCA-COLA
+200|It's Coke's bestselling lemon-lime drink|Sprite
+400|This ingredient gives Coca-Cola its color|Caramel
+600|In a 1940s hit the Andrews Sisters were drinking this with their Coca-Cola|Rum
+800|A part of Coca-Cola, this company named for its orange juice also makes Hi-C|Minute Maid
+1000|Coca-Cola first advertised on live network TV in 1950 as a sponsor of this ventriloquist|Edgar Bergen

@@ -1,0 +1,6 @@
+PLANT LIFE
+200|Phonograph needles have been made from the spines of some species of this desert plant, lamp bases from others|cactus
+400|The hybrid tea varieties of this beautiful flower are so named because they smell like tea|rose
+600|The granite type of this grows on rocks, while the sphagnum is found in bogs & other marshy areas|moss
+800|The Monterey cyprus only grows naturally in 2 groves, both along the coast of this state|California
+1000|Daffodils & jonquils belong to a group named for this mythological youth who loved his own reflection|Narcissus

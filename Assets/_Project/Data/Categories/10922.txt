@@ -1,0 +1,6 @@
+MYSPACE.MAN
+200|He became a licensed pilot on his 16th birthday long before his one small step on the Sea on Tranquility|(Neil) Armstrong
+400|He elected to join the Mercury program in 1959; 15 years later, he'd be elected to join the Senate|(John) Glenn
+600|On April 12, 1961, he took his 5 1/4-ton Vostok 1 for a spin at 9:07 A.M. Moscow time; he had it back by 10:55|(Yuri) Gagarin
+800|With the return of Apollo 13, this commander had completed over 715 hours of space travel|(James) Lovell
+1000|Freedom 7's pilot in 1961, he also commanded Apollo 14, the 1st mission to land on the Moon & not on the lunar seas|(Alan) Shepard

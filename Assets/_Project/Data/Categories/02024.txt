@@ -1,0 +1,6 @@
+NUCLEAR ENERGY
+200|Almost all U.S. nuclear reactors use this liquid as a coolant|water
+400|All commercial nuclear reactors in the U.S. use this liquid as a coolant|water
+600|The first underwater atomic explosion took place on July 25, 1946 off this Pacific atoll|Bikini
+800|This agency, the NRC, licenses all U.S. nuclear power plants & ensures that they operate safely|the Nuclear Regulatory Commission
+1000|Fusion reactions occur in this superhot gas made up of free electrons & free nuclei|the plasma

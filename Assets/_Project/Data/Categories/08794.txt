@@ -1,0 +1,6 @@
+IT'S ALPHANUMERIC
+200|An employer gives you this form to show how much you made during the year & how much you paid in taxes|W-2
+400|Napster helped popularize this music compression format that was first developed in Germany in the 1980s|mp3
+600|This top-of-the-line brand kicks it up a notch with its "Zesty Steak Sauce\"|A1
+800|This savings plan lets workers put a fixed amount of income into a retirement account & defer taxes|401(k)
+1000|It's "The Can with a Thousand Uses" & among them are removing stuck gum & adhesives, & lubricating parts|WD-40

@@ -1,0 +1,6 @@
+FOOD-O & DRINK-O
+200|With its Jigglers recipes & all the neat new molds, this dessert is more fun to eat than ever|Jell-O
+400|At Starbucks they dilute this strong coffee with water to make Caffe Americano|espresso
+600|On "Seinfeld", George's ATM password was this chocolate syrup|Bosco
+800|The taste of this tropical fruit has been described as a mix of peach & pineapple, only sweeter|Mango
+1000|Yukon Gold is a type of this|potato

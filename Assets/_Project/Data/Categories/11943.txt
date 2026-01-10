@@ -1,0 +1,6 @@
+COUNTRY OF BIRTH
+200|Author Hans Christian Andersen|Denmark
+400|Philosopher Soren Kierkegaard|Denmark
+600|Pianist/entertainer Victor Borge|Denmark
+800|Actress Greta Garbo|Sweden
+1000|Dancer Peter Martins|Denmark

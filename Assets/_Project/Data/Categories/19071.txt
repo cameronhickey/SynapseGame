@@ -1,0 +1,6 @@
+STATE OF THE CIVIL WAR BATTLE
+200|The Battle of Mobile Bay|Alabama
+400|The Battle of Peachtree Creek|Georgia
+600|The Battle of Antietam|Maryland
+800|The Battle of Independence|Missouri
+1000|The Battle of Petersburg|Virginia

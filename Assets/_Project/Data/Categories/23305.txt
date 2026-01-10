@@ -1,0 +1,6 @@
+NAME THAT BEATLES TUNE
+200|\"Well, the Ukraine girls really knock me out; they leave the West behind, & Moscow girls make me sing & shout\"|\"Back In The U.S.S.R.\"
+400|\"All the lonely people, where do they all come from? All the lonely people, where do they all belong?\"|\"Eleanor Rigby\"
+600|\"They've been going in & out of style, but they're guaranteed to raise a smile\"|\"Sgt. Pepper's Lonely Hearts Club Band\"
+800|\"I think I'm gonna be sad; I think it's today, yeah; the girl that's driving me mad is going away\"|\"Ticket To Ride\"
+1000|\"I read the news today, oh boy, about a lucky man who made the grade\"|\"A Day In The Life\"

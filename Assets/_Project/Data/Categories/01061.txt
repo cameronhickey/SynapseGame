@@ -1,0 +1,6 @@
+PRESIDENTIAL ALMA MATERS
+200|Eureka College|Ronald Reagan
+400|The University of Michigan|Gerald Ford
+600|Harvard (class of 1940)|John Kennedy
+800|Harvard (class of 1755)|John Adams
+1000|Princeton (class of 1879)|Woodrow Wilson

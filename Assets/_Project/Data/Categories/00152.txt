@@ -1,0 +1,6 @@
+DRAMA
+200|Because 1st was named Thespis, they're known as thespians|actors
+400|Wrote for Sgt. Bilko before fathering "The Odd Couple\"|Neil Simon
+600|Matinee idol whose familiarity with Ford's Theatre let him pass through security there|John Wilkes Booth
+800|He planted "The Cherry Orchard" & hatched "The Sea Gull\"|Chekov
+1000|Sophocles' "complex tragedy\"|Oedipus Rex

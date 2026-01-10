@@ -1,0 +1,6 @@
+ANATOMICAL PHRASES
+200|An item such as a piece of clothing that has been passed on from a previous owner|a hand-me-down
+400|To get one of these is to gain an initial opportunity or introduction; don't get it caught in there|a foot in the door
+600|To be rubbing these is to mingle; to bend them is to drink booze|elbows
+800|Quick-sounding term for a sudden feeling of euphoria, or a feeling of dizziness when you get up too fast|a head rush
+1000|As a noun, it's a bony covering for a joint; as a verb, it means to disable that joint, or to really mess someone or something up|a kneecap

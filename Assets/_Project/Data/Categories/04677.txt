@@ -1,0 +1,6 @@
+CANADIAN TOURISM
+200|The thunderous waters of this world famous tourist attraction border Canada's Victoria Park|Niagara Falls
+400|The Nova Scotia museum named for this man features early experimental models of his telephones|Alexander Graham Bell
+600|Each year this British Columbia city hosts the Symphony of Fire, a 4-day fireworks extravaganza|Vancouver
+800|If you're a Shakespeare fan, don't miss Canada's most famous dramatic festival, held each year in this city|Stratford, Ontario
+1000|Each February the Northern Trapper's Festival held north of Winnipeg in this province celebrates early Canadian pioneers|Manitoba

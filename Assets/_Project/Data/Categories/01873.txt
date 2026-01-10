@@ -1,0 +1,6 @@
+STARTS WITH "Z\"
+200|This last surviving Marx brother passed away in 1979|Zeppo
+400|The Tower of Babel is believed to have been one of these pyramidlike towers|a ziggurat
+600|Only president whose first or last name fits this category|Zachary Taylor
+800|Get a closeup of Bruno Coumert—he won an Oscar for designing this type of lens|a zoom lens
+1000|Mary Leakey found remains of this 1 3/4 million-year -old being later renamed Australo-pithecus boisei|Zinjanthropus

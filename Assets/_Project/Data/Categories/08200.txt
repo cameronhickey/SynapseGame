@@ -1,0 +1,6 @@
+DETECTIVE FICTION
+200|Of James, John, or Jeffrey, Dr. Watson's 1st name|John
+400|Rex Stout's stout investigator|Nero Wolfe
+600|In the April 1841 Graham's Lady's and Gentleman's Magazine, this editor published his new detective story|Poe
+800|She also created the detectives Tuppence & Tommy Beresford|Agatha Christie
+1000|\"A Taste for Death" is one of P.D. James' novels about this Scotland Yard detective and published poet|Adam Dalgliesh

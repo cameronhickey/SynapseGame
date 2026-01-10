@@ -1,0 +1,6 @@
+NOBEL PRIZE CATEGORIES BY WINNER
+200|Yitzhak Rabin, 1994|Peace
+400|Sir Alexander Fleming, 1945|Medicine
+600|Milton Friedman, 1976|Economics
+800|Richard Feynman, 1965|Physics
+1000|Dario Fo, 1997|Literature

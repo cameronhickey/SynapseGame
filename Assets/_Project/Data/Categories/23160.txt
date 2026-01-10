@@ -1,0 +1,6 @@
+NOBLE
+200|This 3-letter title is used for a man who is dubbed a knight|sir
+400|If you watched "Downton Abbey", you know the wife of an English lord with this title is a countess|earl
+600|Becoming a "life" one of these in Britain gets you a title, but it can't be passed on to your children|life peers
+800|In 1867 John Sholto Douglas, the ninth marquess of this, sponsored a codification of the rules of fisticuffs|Queensberry
+1000|Henry V made Humphrey Plantagenet Duke of Gloucester before Humphrey went off to serve in this protracted war|the Hundred Years' War

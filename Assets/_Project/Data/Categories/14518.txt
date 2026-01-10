@@ -1,0 +1,6 @@
+I WANT "MOR\"
+200|Coroner's work spot|a morgue
+400|Tiny tidbit of food|a morsel
+600|15th century type of "play" in which good & evil are in conflict|a morality play
+800|Group spirit of well being (& if it doesn't improve around here we're gonna start the beatings again)|morale
+1000|A legal postponement of an ongoing activity|a moratorium

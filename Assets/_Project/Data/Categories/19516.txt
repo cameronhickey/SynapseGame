@@ -1,0 +1,6 @@
+SITCOM LAST NAMES
+200|Elly May & Jed|Clampett
+400|Archie & Edith|Bunker
+600|Wally & Beaver|Cleaver
+800|Charlie & Alan|Harper
+1000|Ray & Debra|Barone

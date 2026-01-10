@@ -1,0 +1,6 @@
+\"SUPER\"
+200|In this 1986 video game, Luigi & his sibling are trying to rescue Princess Toadstool|Super Mario Bros.
+400|This person is in charge of repairs & maintenance at an apartment building|superintendent
+600|12-letter word meaning pertaining to the eerie or occult|supernatural
+800|In grammar, it's the highest degree of comparison of adjectives & adverbs|superlative
+1000|(Sarah of the Clue Crew demonstrates the clue with a plastic bottle of water.) Pure water can remain liquid below the freezing point because there are no impurities to form ice crystals around, a phenomenon called this. Motion causes bubbles, allowing the water to crystallize.|supercooling

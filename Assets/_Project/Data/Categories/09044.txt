@@ -1,0 +1,6 @@
+4-LETTER STOCK MARKET WORDS
+200|A stock that's a low risk investment is a blue this|a chip
+400|You can get mauled when it's this market that features a lengthy period of price drops|the bear
+600|The flow of prices that appear on the boards of brokerage firms can be the "ticker" or this, or both together|the tape
+800|It's an option that lets you purchase a certain stock for a set price until a certain date|a call
+1000|Being in this "position" indicates an expectation of rising share prices; it's also a hedge in futures|long

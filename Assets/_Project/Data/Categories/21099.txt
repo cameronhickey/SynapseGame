@@ -1,0 +1,6 @@
+SHOW BOATS
+200|The S.S. Minnow, not long afloat|Gilligan's Island
+400|Sonny Crockett's boat, the St. Vitus Dance|Miami Vice
+600|A reality show debuting in 2005: A bunch of boats operating out of Dutch Harbor, Alaska|the Deadliest Catch
+800|The USS Nathan James, whose crew has survived a global pandemic|The Last Ship
+1000|The Pacific Princess, exciting & new in 1977|The Love Boat

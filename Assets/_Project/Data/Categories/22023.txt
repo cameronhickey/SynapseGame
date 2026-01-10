@@ -1,0 +1,6 @@
+COLOR TELEVISION
+200|The trials & tribulations of doctors play out at a Seattle hospital on this show|Grey's Anatomy
+400|David Attenborough narrated this "global" 2017 nature documentary series for the BBC|Blue Planet
+600|On this TV drama, master criminal James Spader is Red all over|The Blacklist
+800|Led by Kevin Costner, a ranching family in Montana faces off against those encroaching on their land in this series|Yellowstone
+1000|Inspired by stories of G.K. Chesterton, this show features a Catholic priest with a knack for solving mysteries in an English village|Father Brown

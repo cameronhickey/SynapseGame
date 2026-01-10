@@ -1,0 +1,6 @@
+TOUGH CAPITALS
+200|This city's Peace Tower houses a memorial chamber commemorating Canada's war dead|Ottawa
+400|The bear is the heraldic symbol of this Swiss capital|Bern
+600|The name of this Belarusian capital comes from the Russian for "exchange\"|Minsk
+800|St. Stephen lent a hand, his mummified right hand, to St. Stephen's Basilica in this capital|Budapest
+1000|The Greeks call this capital Levkosia; the Turks call it Lefkosa; we call it this|Nicosia

@@ -1,0 +1,6 @@
+WORLD OF SWEETS
+200|Zabaglione|Italy
+400|Gateau Saint-Honore|France
+600|Banbury cakes|England
+800|Schaum Torte|Austria
+1000|Kulich|Russia

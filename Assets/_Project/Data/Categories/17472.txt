@@ -1,0 +1,6 @@
+DOUBLE "T" WORDS
+200|To cut small shavings from a piece of wood|whittle
+400|It's the past participle of smite|smitten
+600|Perhaps including an amusing mistake, it's a piece of film not used in the final version of a movie|an outtake
+800|Washed 2 dishes, answered 1 e-mail, watered a plant, basically I just did this around the house all morning|frittered (or puttered)
+1000|This journal contains the daily record of arrests at a police department|blotter

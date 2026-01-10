@@ -1,0 +1,6 @@
+\"ANG"ST
+200|It's the slant or bias reporters give their stories|Angle
+400|This procedure, an X-ray of blood vessels, can tell you if you have a blood clot or aneurysm|Angiogram
+600|It's one of the few types of cakes not loaded with fat|Angel food
+800|Last name of the Updike character nicknamed "Rabbit\"|Harry "Rabbit" Angstrom
+1000|Jimmy Porter represents the English class system in this John Osborne play|Look Back In Anger

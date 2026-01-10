@@ -1,0 +1,6 @@
+MEDICAL SPECIALTIES
+200|Term for a specialist who listens for clicks, murmurs, lub-dubs & pitter-patters|cardiologist
+400|Creams, lotions & ointments are the major clinical tools of this skin specialty|dermatology
+600|In the 1990s Prozac & other drugs have revolutionized this specialty's treatment of depression|psychiatry
+800|It's defined as the study of disease & may study the bodies of those killed by a disease|pathology
+1000|A subspecialty of internal medicine, it deals with innards like the stomach & intestines|gastroenterology

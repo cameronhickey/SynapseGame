@@ -1,0 +1,6 @@
+LET'S SPEAK FRENCH
+200|A pop song might say, "Hit Me Baby Encore Une Fois"—the last 3 words meaning this|\"One More Time\"
+400|If you're having problems with a response, you could say "Je ne sais pas", which means this|I don't know
+600|Il est le père de ma cousine|my uncle (mon oncle)
+800|An English translation of "d'accord" could be these 2 letters|OK
+1000|Someone who asks you "Parlez-vous Allemand?" wants to know if you speak this language|German

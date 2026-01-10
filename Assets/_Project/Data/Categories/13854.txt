@@ -1,0 +1,6 @@
+SNACKS ON A PLANE
+200|Bon appetit! On long flights, this airline serves baguettes, cheese & champagne in the "affaires" cabin|Air France
+400|Allergy concerns have caused most carriers to discontinue these snacks, but Northwest still serves 'em|peanuts
+600|USA! USA! This red-white-&-blue carrier will sell you a 4-ounce chocolate chip cookie for just 3 bucks|American Airlines
+800|United's "classic snackbox" includes this brand of gourmet jelly beans|Jelly Belly
+1000|This Atlanta-based airline's "flight delights" includes hummus, pita chips & a deck of miniature playing cards|Delta

@@ -1,0 +1,6 @@
+DON'T BUG ME
+200|An insect called the water boatman uses these appendages as oars to navigate its watery habitat|legs
+400|Of fly, mate or eat, the activity butterflies can't do if their body temperature is below 86 degrees|fly
+600|During the day this nocturnal bloodsucker hides under mattress buttons or in cracks in floors; sleep tight!|a bed bug
+800|The larvae of the Ichneumon wasp develop inside the body of these arachnids|spiders
+1000|This bug derives its name from the fact that adults mate continuously for up to 3 days|a love bug

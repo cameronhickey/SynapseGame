@@ -1,0 +1,6 @@
+...AND CLOTHING
+200|This animal term can refer to a tight high collar, or to the pullover sweater it's attached to|turtleneck
+400|Henry Winkler wanted his Fonzie character to be allowed to wear this instead of a cloth coat|a leather jacket
+600|This term for part of a brassiere also means a reinforced athletic supporter|cup
+800|\'90s designers rediscovered this item that Clark Gable nearly killed off in "It Happened One Night\"|the undershirt
+1000|The name of this peasant dress with a tight bodice & full skirt comes from German for "young woman\"|the dirndl

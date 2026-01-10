@@ -1,0 +1,6 @@
+HAVE YOU BEEN TESTED?
+200|This test used on pregnant women is also called a sonogram|an ultrasound
+400|Consumer Reports' braking test measures how fast a car goes from this to this—the reverse of its acceleration test|60 to 0
+600|140 is scary high on the Stanford-Binet version of this test|the IQ test
+800|The Hardy-Rand-Rittler test checks for this optical defect mostly observed in men|colorblindness
+1000|Abbreviated NTBT, this 1963 treaty was signed by the U.S., the USSR & the U.K.|the Nuclear Test Ban Treaty

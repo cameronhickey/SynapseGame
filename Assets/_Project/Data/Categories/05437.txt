@@ -1,0 +1,6 @@
+LET GEORGES DO IT
+200|This president who made Georges Pompidou premier in 1962 was succeeded by him as president in 1969|Charles de Gaulle
+400|If Georges Nagelmackers hadn't set up this railroad line in 1883, we'd have 1 less Agatha Christie novel|Orient Express
+600|In 1919 this French premier helped negotiate the Treaty of Versailles|Georges Clemenceau
+800|Made an apprentice house painter in 1899, in 1902 he moved to Paris & helped start Cubism|Georges Braque
+1000|Encarta credits Georges Auguste Escoffier with the creation of 10,000 of these|recipes

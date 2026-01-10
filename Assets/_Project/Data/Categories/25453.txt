@@ -1,0 +1,6 @@
+BOOKS BY CHARACTERS
+200|Hunting at sea, Matt Hooper & Captain Quint|Jaws
+400|Josef K. & the Examining Magistrate|The Trial
+600|In a children's book, Stanley Yelnats & Zero|Holes
+800|Sethe & Baby Suggs|Beloved
+1000|Squealer & Old Major|Animal Farm

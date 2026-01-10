@@ -1,0 +1,6 @@
+\"TEXT" ME
+200|This system of linking Internet documents contains cross-references so you can jump easily between them|hypertext
+400|It's the underlying or implicit meaning of a literary work|subtext
+600|People quoted as saying horrifying things often protest that their words were taken out of this|context
+800|This is an ostensible reason put forward to conceal a true purpose or object|a pretext
+1000|A 2007 government report was titled "Turn the Page: Making College" these "More Affordable\"|Textbooks

@@ -1,0 +1,6 @@
+ENDS WITH "ETTE\"
+200|Balzac's "cousin", or the Divine Miss M|Bette
+400|Howdy Doody is one|marionette
+600|A long, narrow gemstone, or a long, narrow loaf of French bread|baguette
+800|A plush bench seat in a restaurant|banquette
+1000|Specs on a stick|lorgnette

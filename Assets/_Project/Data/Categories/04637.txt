@@ -1,0 +1,6 @@
+EAT YOUR VEGGIES
+200|Broccoflower is a cross between a cauliflower & this veggie|Broccoli
+400|Iceberg & Romaine are 2 of the most common varieties of this salad vegetable|Lettuce
+600|The pickle on your hamburger was made from this veggie (which is actually a fruit)|Cucumber
+800|If you're forced to eat spinach, it's the part of the plant you'll eat|Leaf
+1000|Brussels sprouts are related to this main ingredient of cole slaw|Cabbage

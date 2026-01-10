@@ -1,0 +1,6 @@
+\"OUCH"!
+200|To stoop with the knees bent|crouch
+400|A habitually irritable person|grouch
+600|To give personal assurances or in writing|vouch
+800|To stand with an excessively relaxed posture|slouch
+1000|To word something in certain terms|couch

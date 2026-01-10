@@ -1,0 +1,6 @@
+RELIGIONS
+200|Mount Ontake is second to this one among Japan's sacred mountains|Mt. Fuji
+400|In this religion marriages are performed under a canopy called a chupah|Judaism
+600|Sati refers both to a goddess of this religion & to the former practice of widow suicide|Hinduism
+800|To Muslims Jerusalem is the third most sacred city, after these 2|Mecca & Medina
+1000|The Avesta is the principal scripture of this Persian religion|Zoroastrianism

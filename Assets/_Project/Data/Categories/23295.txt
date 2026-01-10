@@ -1,0 +1,6 @@
+COP SHOWS BY CHARACTERS
+200|Sergeant Duke Lukela; Lieutenant Chin Ho Kelly|Hawaii Five-O
+400|Detective Danny Reagan; Sergeant Jamie Reagan|Blue Bloods
+600|Detective Sofia Curtis; Dr. Gil Grissom|CSI
+800|Captain Olivia Benson; Sergeant John Munch|Law & Order: SVU
+1000|Officer Joe Coffey; Captain Frank Furillo|Hill Street Blues

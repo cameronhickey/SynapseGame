@@ -1,0 +1,6 @@
+CABINET DEPARTMENTS
+200|This department's 5 main responsibilities include guarding against terrorism & protecting our borders|Department of Homeland Security
+400|It traces its roots to Plymouth Colony, which passed a law that said the colony would support disabled soldiers|Veteran Affairs
+600|OSHA, the Occupational Safety & Health Administration, is a part of this department|the Department of Labor
+800|The 1789 act that created it specified that its officers would include a comptroller & an auditor|the Treasury
+1000|One of its agencies is COPS, short for Community Oriented Policing Services|the Justice Department

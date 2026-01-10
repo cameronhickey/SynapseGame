@@ -1,0 +1,6 @@
+LITERARY TITLES EN ESPAÑOL
+200|\"El nombre de la rosa\"|The Name of the Rose
+400|\"El pony colorado\"|The Red Pony
+600|\"La comedia de las equivocaciones\"|The Comedy of Errors
+800|\"El ruido y la furia\"|The Sound and the Fury
+1000|\"Mil soles espléndidos\"|A Thousand Splendid Suns

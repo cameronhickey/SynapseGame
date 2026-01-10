@@ -1,0 +1,6 @@
+CAPITAL & COUNTRY: SAME FIRST LETTER
+200|City & country that hosted the 2011 NAFTA Free Trade Commission meeting|Mexico City, Mexico
+400|A capital & country of Scandinavia|Stockholm, Sweden
+600|City & country where NATO is headquartered|Brussels, Belgium
+800|An east Asian peninsular city & country|Seoul, South Korea
+1000|This capital & the African country where the 2011 Arab Spring first sprung|Tunis, Tunisia

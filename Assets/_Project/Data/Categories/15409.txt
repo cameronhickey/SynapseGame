@@ -1,0 +1,6 @@
+MOVIE TITLE SUBJECTS
+200|The type of film the kids use to make their own zombie movie (2011)|Super 8
+400|High priest Imhotep (1999)|The Mummy
+600|Captain, Loudy, Bitey, Stinky, Lovey, Nimrod (2011)|Mr. Popper's Penguins
+800|A tiny pampered pooch named Chloe (2008)|Beverly Hills Chihuahua
+1000|A 1972 Ford auto (2008)|Gran Torino

@@ -1,0 +1,6 @@
+WHICH NEW YORK CITY BOROUGH?
+200|Is home to the New York Stock Exchange|Manhattan
+400|Is the most populous of the 5 boroughs|Brooklyn
+600|Is where you can see the Unisphere in Flushing Meadows Corona Park, built for the 1964 World's Fair|Queens
+800|Is 14 miles long & has only about 5% of New York City's population|Staten Island
+1000|Is the location of Pelham Bay Park, which is more than 3 times larger than Central Park|the Bronx

@@ -1,0 +1,6 @@
+THE NOVEL LIST
+200|\"The Three Musketeers", "Joseph Balsamo\"|(Alexandre) Dumas
+400|\"Tom Jones", "Joseph Andrews\"|(Henry) Fielding
+600|\"The Winter of Our Discontent", "The Moon is Down\"|John Steinbeck
+800|\"The Moon is a Harsh Mistress", "Stranger in a Strange Land\"|Heinlein
+1000|\"The Joke", "The Book of Laughter and Forgetting\"|Milan Kundera

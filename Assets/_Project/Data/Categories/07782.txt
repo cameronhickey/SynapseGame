@@ -1,0 +1,6 @@
+FUN WITH COUNTRY NAMES
+200|Besides East Timor, 2 of the 3 independent countries with compass directions in their English names|South Africa and/or North Korea & South Korea
+400|They're the 2 western European island countries whose names differ by only one letter|Iceland & Ireland
+600|It's the only country in the world with the name of its ruling family in the name of the country|Saudi Arabia (the House of Saud)
+800|Of the countries named for saints, the one that's completely surrounded by Italy|San Marino
+1000|It's the only nation in the world with "name" in its English name|Suriname

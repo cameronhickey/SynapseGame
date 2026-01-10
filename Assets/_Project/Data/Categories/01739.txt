@@ -1,0 +1,6 @@
+ART CLASS
+200|\"Motionless" term for the type of painting that the Dutch call stilleven|still life
+400|This technique often involves the hands & arms too, not just the digits as its name implies|finger-painting
+600|Aquarelle is another name for this kind of painting noted for its transparent qualities|watercolor
+800|Though these colored chalklike sticks are synonymous with soft colors, many come in brilliant hues|pastels
+1000|Rockwell Kent's bold, angular black-and-white illustrations exemplify this style of the 1920s & '30s|Art Deco

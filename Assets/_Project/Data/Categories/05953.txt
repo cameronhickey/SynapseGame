@@ -1,0 +1,6 @@
+CURRY
+200|A tasty curry sauce for shrimp uses the milk of this fruit|coconut
+400|Curry is native to this country|India
+600|Curry can include cumin, tumeric & this spice, the world's most expensive|saffron
+800|This spicy fruit condiment was created to accompany curry|chutney
+1000|One type of curry powder shares its name with this plaid textile|madras

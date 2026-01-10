@@ -1,0 +1,6 @@
+WEATHER VERBS
+200|Salute, or call out to get a cabbie's attention|hail
+400|To fall in great quantities, like confetti in a parade|rain
+600|To overwhelm with flattery or insincere talk|snow
+800|Frost a cake, or clinch a victory|ice
+1000|To face, as property does on a lake|front

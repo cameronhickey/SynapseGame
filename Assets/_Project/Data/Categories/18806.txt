@@ -1,0 +1,6 @@
+PRESIDENTS' SPEECHES: ONE WORD OFF
+200|Reagan: "Mr. T, open this gate! Mr. T, tear down this wall!\"|Gorbachev
+400|LBJ: "The Great Pumpkin rests on abundance and liberty for all\"|Society
+600|Lincoln: "A world divided against itself cannot stand\"|house
+800|FDR: "In the field of world policy I would dedicate this nation to the policy of the good time\"|neighbor
+1000|George H.W. Bush: "A thousand points of purchase, of all the community organizations... doing good\"|light

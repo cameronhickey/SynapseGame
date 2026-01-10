@@ -1,0 +1,6 @@
+STATE CAPITAL NICKNAMES
+200|\"The Bluegrass Capital\"|Frankfort
+400|\"The Friendly City in the Sky\"|Denver
+600|It's "The Hoosier Capital" & "The Railroad City\"|Indianapolis
+800|It's the "Golden City" of the "Golden State\"|Sacramento
+1000|\"The Charter Oak City\"|Hartford

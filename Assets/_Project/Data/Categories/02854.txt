@@ -1,0 +1,6 @@
+WOMEN ON THE MAP
+200|We heard it through the grapevine that it's the largest island in Massachusetts|Martha's Vineyard
+400|Formerly known as St. Thomas, this capital of the U.S. Virgin Islands had a sex change|Charlotte Amalie
+600|Famous for its large parks & lush landscapes, it's Canada's "Garden City\"|Victoria, British Columbia
+800|The city of Enid in this state is believed to be named for a character in "Idylls of the King\"|Oklahoma
+1000|Named for a Danish queen, it's the capital of the U. S. Virgin Islands|Charlotte Amalie

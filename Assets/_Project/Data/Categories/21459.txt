@@ -1,0 +1,6 @@
+DROP IT
+200|Drop "it" from a robber to get this, a type of musical group|a band
+400|Drop "it" from a numeral to get this verb meaning to understand, man|dig
+600|From a departure to get this departed one|ex
+800|Drop "it" from a fulfilled academic course to get this respect-earning quality, maybe on the street|cred
+1000|Drop "it" from an official license to get this long-lasting hairstyle|a perm

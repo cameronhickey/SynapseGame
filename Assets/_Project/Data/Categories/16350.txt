@@ -1,0 +1,6 @@
+LETTER SECRET IDENTITIES
+200|Y is this currency used in Yokohama|yen
+400|\"Z" is the title of the 1969 movie that won an Oscar in this category|Best Foreign Film
+600|E is the seventh tone in this major scale|F major
+800|X is a band from this city that provided the title of its debut album|Los Angeles
+1000|B is the symbol of this chemical element|boron

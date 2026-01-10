@@ -1,0 +1,6 @@
+HEALTHY
+200|The desirable total level for this is under 200, with the "bad" kind at under 130|cholesterol
+400|The most common cause of mild anemia is a low level of this mineral|iron
+600|Adding this mineral to toothpaste & mouthwashed helps prevent tooth decay|fluoride
+800|A normal blood pressure reading is said to be 120/80 (systolic/this)|diastolic
+1000|This process, EKG for short, records electric impulses from the heart to diagnose disorders like arrhythmia|an electrocardiogram

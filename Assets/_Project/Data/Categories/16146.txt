@@ -1,0 +1,6 @@
+HEARING
+200|A removal hearing is a step toward this, sending an illegal alien back to his or her homeland|deportation
+400|In criminal cases, a Jackson-Denno hearing usually determines whether this type of statement was voluntary|confession
+600|This word that follows "bail" is also the type of hearing that sets the amount of a defendant's bail|bond
+800|If you share one of these with another defendant in the same trial, a Garcia hearing makes sure you know you can trade him in|lawyer
+1000|This 10-letter type of hearing figures out whether someone has the mental capacity to stand trial|competence

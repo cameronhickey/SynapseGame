@@ -1,0 +1,6 @@
+TREE OF A KIND
+200|Japanese, silver, sugar|maples
+400|Windmill, sago, date|a palm
+600|Norway, Serbian, Sitka|spruce
+800|Mission, Manzanillo, Kalamata|olive trees
+1000|Rainbow, yellow gum, Tasmanian blue gum|eucalyptus

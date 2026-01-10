@@ -1,0 +1,6 @@
+THE OLD "LINE" STATE
+200|The time by which something must be finished or submitted|deadline
+400|Style of armchair where you'll find me during Lakers games|recliner
+600|Advertising catchphrase for a movie or a play|tagline
+800|Pedigree|bloodline
+1000|Your nose knows it means shaped like an eagle's beak|aquiline

@@ -1,0 +1,6 @@
+\"X"s & "O"s
+200|A stop sign is this shape|octagonal
+400|This noble gas is classified as atomic number 54 on the periodic table|xenon
+600|This French word refers to the works of an artist taken as a whole|oeuvre
+800|A university in Ohio, or the last name of a Spanish saint|Xavier
+1000|It sounds like a big mode of transport, but it's a congressional bill dealing with a large number of items|omnibus

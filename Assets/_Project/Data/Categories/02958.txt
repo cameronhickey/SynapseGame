@@ -1,0 +1,6 @@
+\"FOR" WORDS
+200|A public square in ancient Rome where other than "funny things" happened|forum
+400|This surgical instrument is sometimes used to help deliver babies in distress|forceps
+600|VHS or Beta, for example|format
+800|It's the old Portuguese name for Taiwan|Formosa
+1000|It's another term for an anthill or ant's nest|formicarium

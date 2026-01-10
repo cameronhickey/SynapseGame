@@ -1,0 +1,6 @@
+ON A FIRST-NAME BASIS WITH BOOZE
+200|A bourbon: Mr. Beam|Jim
+400|A scotch: Mr. Walker|Johnnie
+600|A tequila: Señor Cuervo|Jose
+800|A fine cognac: Monsieur Martin|Rémy
+1000|Essentially a screwdriver with a little Galliano: Mr. Wallbanger|Harvey

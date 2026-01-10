@@ -1,0 +1,6 @@
+THE SCIENCE OF COLOR
+200|The defect called deuteranopia usually causes confusion of red & this color; a possible problem at traffic signals|Green
+400|2 colors called this aren't praising each other, they're directly opposite each other on a color wheel|Complementary colors
+600|A prism breaks sunlight into the visible part of this, containing the colors of the rainbow|Spectrum
+800|This 3-letter word for a basic color like blue is one element of the Munsell Classification System|Hue
+1000|In violet, this distance is a short 3,800 to 4,500 angstrom units|Wavelength

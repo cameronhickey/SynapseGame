@@ -1,0 +1,6 @@
+THE MISSPELED WORD
+200|An absence of leisure may leave you feeling like you live in the Artic|Artic/Arctic
+400|Wearing weird jewelry is no gaurantee of ecstasy|gaurantee/guarantee
+600|On occasion, it may be neccessary to be grateful|neccessary/necessary
+800|Quite frankly, his knowledge of the cemetary was mediocre|cemetary/cemetery
+1000|The turn of the millenium was a humorous odyssey|millenium/millennium

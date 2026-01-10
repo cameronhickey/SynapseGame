@@ -1,0 +1,6 @@
+APPS
+200|RedLaser turns the phone's camera into a scanner of these so you can check prices & comparison shop|barcodes
+400|Search for hotels, flights & car rentals in this palindromic app, also the name of a water transport|KAYAK
+600|\"Fast beautiful photo sharing", promises this app|Instagram
+800|Hey, friend, you can bump phones to send money between your phone & that of another with this eBay app|PayPal
+1000|This service used to identify a song has been around since 2002 & is also used as a verb meaning to identify a song|Shazam

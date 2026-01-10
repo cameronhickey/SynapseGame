@@ -1,0 +1,6 @@
+OPERA HOUSES
+200|This opera company's home was originally on Broadway at 39th Street; it moved to Lincoln Center in 1966|the Metropolitan Opera
+400|This Milan opera house was built by Maria Theresa of Austria to replace the Royal Ducal Theatre|La Scala
+600|Bennelong Point, the site of this opera house, was home to several Aboriginal clans when Europeans arrived|the Sydney Opera House
+800|The Festspielhaus in Bayreuth, Germany was built as a place for this composer to stage his operas|Wagner
+1000|London's Royal Opera House traces its history back to a 1728 performance of this John Gay "Opera\"|The Beggar's Opera

@@ -1,0 +1,6 @@
+COASTAL WATERS
+200|On Algeria's north: this sea|Mediterranean
+400|On Norway's north: this ocean|the Arctic Ocean
+600|On Wisconsin('s northern end): this Great Lake|Superior
+800|On Sudan's east: this sea|the Red Sea
+1000|On Myanmar's west: this bay|Bay of Bengal

@@ -1,0 +1,6 @@
+CAPITALS & THEIR AIRPORTS
+200|It's about 25 miles from Sphinx International|Cairo
+400|It's served by Incheon International|Seoul
+600|Ninoy Aquino International is nearby|Manila
+800|King Khalid International is its gateway|Riyadh, Saudi Arabia
+1000|Its main airport is fittingly called El Alto & breathing may be hard upon landing|La Paz, Bolivia

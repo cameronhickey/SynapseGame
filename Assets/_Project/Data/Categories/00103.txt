@@ -1,0 +1,6 @@
+U.S. PRESIDENTS
+200|Recent president who escaped 2 assassination attempts in one month|Gerald R. Ford
+400|After only 30 days as President, he was the 1st to die in office|William Henry Harrison
+600|The year this 22nd & 24th president died, 1908, his book "Good Citizenship" was published|Cleveland
+800|In 1896 & 1900 this president's Democratic opponent was William Jennings Bryan|McKinley
+1000|At age 17, he was one of the youngest students in Stanford's first class|Herbert Hoover

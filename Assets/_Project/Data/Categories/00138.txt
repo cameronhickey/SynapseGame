@@ -1,0 +1,6 @@
+BRIDGES
+200|Marin County's chief commuter route to S.F.|the Golden Gate Bridge
+400|From its opening in 1937 to 1964, this California bridge was the world's longest suspension bridge|the Golden Gate Bridge
+600|The Quebec Railway Bridge over this river is said to be the only major bridge to have collapsed twice|the St. Lawrence River
+800|The Sunshine Skyway Bridge spans this Florida bay|Tampa Bay
+1000|A suspension bridge over the Tagus River in this country is one of the world's longest|Portugal

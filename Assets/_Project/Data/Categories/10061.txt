@@ -1,0 +1,6 @@
+\"ROSS\"
+200|In a Monty Python sketch, a man wanted to buy a Good Humor ice cream, but the salesman only sold this sea bird|an albatross
+400|A "stick"y game originated by North American Indians|lacrosse
+600|This code name the Germans gave to their invasion of the Soviet Union also belonged to a 16th century pirate|Barbarossa
+800|There's nothing disgusting about this branch of anatomy that deals with structures seen by the naked eye|gross anatomy
+1000|This is the waste product removed from molten metal during smelting|dross

@@ -1,0 +1,6 @@
+KEEP 'EM SEPARATED
+200|In optics, this object is used to separate white light into the colors of the spectrum|a prism
+400|In the New Testament, it separates the book of Luke from the book of Acts|John
+600|Protecting the hand, a quillon is the crosspiece that separates the blade of a sword from this, the handle|the hilt
+800|Goat Island separates this scenic wonder into 2 separate cataracts|Niagara Falls
+1000|It's the laboratory process of passing a current through water to separate it into hydrogen & oxygen|electrolysis

@@ -1,0 +1,6 @@
+PARTS OF SPEECH
+200|2 of these kinds of words often combine to form a compound one, like "teapot" or "farmyard\"|Nouns
+400|The phrases that these words, like "but" or "and", join together, let no man put asunder|Conjunctions
+600|It's the part of speech "wicked" is in the colloquial sentence "Alex is wicked smart.\"|Adverb
+800|Dictionaries commonly describe "the" as this type of "article\"|Definite
+1000|From Latin for "to throw between", this term includes exclamations like "Ouch!" & "Ugh!\"|Interjection

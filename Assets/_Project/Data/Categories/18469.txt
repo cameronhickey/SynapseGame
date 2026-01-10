@@ -1,0 +1,6 @@
+BODY PART VERBS
+200|To take responsibility for "the bill\"|to foot
+400|As a verb, it's a way to force your way "in" to something; as a noun, it's the thugs who might help you|muscle
+600|To prepare yourself; perhaps with facts; or perhaps with weapons|arm
+800|To hit or bang on the head|to brain
+1000|To identify a criminal to the authorities|to finger

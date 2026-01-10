@@ -1,0 +1,6 @@
+AROUND THE CELL
+200|The person you share your space with can be your cellie or, based on the type of bed you sleep on, this word|your bunkie
+400|It's the period when prisoners are restricted to cells after a disturbance|lockdown
+600|It's the common (printable) 4-letter term for a solitary confinement cell|the hole
+800|Hot Kansas summers and no A/C got this federal prison its nickname "the hot house\"|Leavenworth
+1000|If you mark off each day on the wall, & you serve exactly 40% of a 5-year sentence, you end up with this many marks|730 (or 731)

@@ -1,0 +1,6 @@
+STATES' GEOGRAPHIC CENTERS
+200|In the Pacific, at 20 degrees 15 minutes north latitude, 156 degrees 20 minutes west longitude|Hawaii
+400|Approximately 60 miles northwest of Mount McKinley|Alaska
+600|In Avoyelles Parish, 3 miles southeast of Marksville|Louisiana
+800|12 miles south of Oneida & 26 miles southwest of Utica|New York
+1000|The northern part of the city of Worcester|Massachusetts

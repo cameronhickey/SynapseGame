@@ -1,0 +1,6 @@
+3 CONSONANTS, 3 VOWELS
+200|To look upon someone with approval, whether secretly or not|admire
+400|What's on this list of things to be discussed or done?|agenda
+600|Oui, I will have this cream-filled pastry; in fact, make it deux|éclair
+800|Something tough to understand, like an inscrutable person|an enigma
+1000|This white radish is widely used in Asian cuisine|a daikon

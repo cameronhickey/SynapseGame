@@ -1,0 +1,6 @@
+EARS
+200|Its ears are larger than those of any other mammal|the elephant
+400|Technically called cerumen, it attracts dust and dirt before they can damage the eardrum|earwax
+600|This tube helps to ensure equal pressure on both sides of the eardrum|the Eustachian tube
+800|This term for a ringing of the ears comes from a Latin word meaning "tinkling\"|tinnitus
+1000|The organ of corti in this snail-like structure of the inner ear contains the true receptors of sound|the cochlea

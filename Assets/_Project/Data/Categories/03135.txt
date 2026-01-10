@@ -1,0 +1,6 @@
+TIME PHRASES
+200|The late-afternoon period when bars feature cheap drinks & free snacks|Happy hour
+400|Save your money & your galoshes for this time of need|Rainy day
+600|A period around which organizations plan budgets; it may not coincide with the calendar one|Fiscal year
+800|A hit by Lionel Richie, or the length of time "You Shook Me" in an AC/DC song|All Night Long
+1000|A span much longer than 30 days, or a John Updike novel about an adulterous minister|A Month Of Sundays

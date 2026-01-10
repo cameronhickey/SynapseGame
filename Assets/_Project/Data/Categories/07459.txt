@@ -1,0 +1,6 @@
+OXFORD, CAMBRIDGE OR HARVARD
+200|It's the oldest|Oxford
+400|One of its clubs gives out the Hasty Pudding Award|Harvard
+600|The current Prince of Wales earned his bachelor's degree there|Cambridge
+800|Its main library is the Bodleian|Oxford
+1000|Its department of physics is the Cavendish Laboratory|Cambridge

@@ -1,0 +1,6 @@
+PRESIDENTIAL MONOGRAMS
+200|CAA|Chester A. Arthur
+400|RBH|(Rutherford Birchard) Hayes
+600|MVB|Martin Van Buren
+800|WHT|William Howard Taft
+1000|CAA|Chester Alan Arthur

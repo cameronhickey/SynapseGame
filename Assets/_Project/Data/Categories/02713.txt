@@ -1,0 +1,6 @@
+AIRPORT CODES
+200|AMS|Amsterdam
+400|DUS, in the FRG|Dusseldorf (Germany)
+600|In Scandinavia: CPH|Copenhagen
+800|On the continent: ORY|Paris (Orly)
+1000|In the Midwest: MSP|Minneapolis-St. Paul

@@ -1,0 +1,6 @@
+SOUNDS LIKE A BOAT PART
+200|Preceding "over", it sometimes means to faint|keel
+400|A large branch on a tree|bough
+600|To punch someone & knock or level him to the floor (of the boat?)|deck
+800|To successfully incubate an egg|to hatch
+1000|To remove the shell or husk from beans or seeds|hull

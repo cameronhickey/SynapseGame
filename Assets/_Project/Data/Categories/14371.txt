@@ -1,0 +1,6 @@
+GAME GOALS
+200|Discover what happened to Mr. Boddy, the victim of foul play in this game|Clue
+400|In the "Fleet Command" version of this game, use salvos or triple shots to blow your enemy out of the water|Battleship
+600|One description of this 4-letter game says the object is to "retire in style\"|Life
+800|Shake container with little lettered cubes; after they settle into the pockets, make more words than your opponent|Boggle
+1000|Don't be the person who topples the tower that starts with 54 wooden blocks|Jenga

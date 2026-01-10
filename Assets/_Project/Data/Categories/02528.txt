@@ -1,0 +1,6 @@
+DEM JOINTS
+200|The temporo-mandibular joint allows movement of this, the only mobile bone on the face|Jaw
+400|This joint may be replaced because of rheumatoid arthritis or a bad fracture of the upper femur|the hip
+600|The cruciate ligaments, which run between femur & tibia, limit side-to-side movement of this joint|the knee
+800|This joint consists of 8 bones collectively known as the carpus|the wrist
+1000|The rotator cuff is a reinforcing structure in this joint|the shoulder

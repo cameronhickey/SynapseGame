@@ -1,0 +1,6 @@
+ANIMALS IN ITALIAN
+200|Don't be afraid—this animal is a pollo|a chicken
+400|This animal, gatto, got your lingua?|a cat
+600|Who scared the puzzola, this animal? Now we'll never get rid of the smell|a skunk
+800|If you want to win on "Jeopardy!", don't be as quiet as a topo, one of these|a mouse
+1000|After all the gelato, I feel as big as a balena, one of these|a whale

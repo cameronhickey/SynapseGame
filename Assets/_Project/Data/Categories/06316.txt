@@ -1,0 +1,6 @@
+IT ENDS WITH "US\"
+200|Mildew, mold or a mushroom|fungus
+400|It's a summary or outline given to college students that covers the course of study|a syllabus
+600|Shaddocks belong to this genus of plants & fruits|citrus
+800|Bridges over this strait connect Asia to Europe|Bosphorus
+1000|He killed the Minotaur|Theseus

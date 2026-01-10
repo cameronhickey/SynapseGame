@@ -1,0 +1,6 @@
+NAME THE RIVER
+200|Bullhead City & Laughlin|the Colorado
+400|Aranjuez, near Madrid, & Talavera de la Reina|the Tagus
+600|Fallujah, Iraq & Raqqa, Syria|the Euphrates
+800|Lyon & Avignon|the Rhône
+1000|Jeffersonville, Louisville & Evansville|the Ohio

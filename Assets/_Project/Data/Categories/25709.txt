@@ -1,0 +1,6 @@
+SETTING PRETTY
+200|\"Wuthering Heights" speaks of spending time in these grasslands, "on a bank of heath... with the bees humming dreamily\"|the moors
+400|\"As You Like It" finds the Duke & his retinue exiled to the lush environs of this forest|Arden
+600|The first act of this Verdi opera takes place in the king's palace in Memphis (not Tennessee)|Aida
+800|Prince Siegfried in this ballet named for its setting takes a gander at Odette & later, her maidens dance a waltz|Swan Lake
+1000|James Hilton wrote that its pavilions "clung to the mountainside... with the chance delicacy of flower petals impaled upon a crag\"|Shangri-La

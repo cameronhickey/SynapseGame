@@ -1,0 +1,6 @@
+LET'S GO BOWLING
+200|A perfect game is this score|300
+400|The headpin is also known by this "royal" name|Kingpin
+600|(Sarah of the Clue Crew presents from the National Bowling Stadium in Reno, NV.) In 1997, Jeremy Sonnenfeld achieved the American Bowling Congress's first perfect series: 3 games totalling this number|900
+800|A trademark of Brunswick, you might say this type of bowling, with laser lights, fog & music is out of this world!|cosmic bowling
+1000|(Sofia of the Clue Crew presents from the National Bowling Stadium in Reno, NV.) When a righty bowler's ball hits the left side of the head pin to make a strike, it's called this, even outside New York|Brooklyn

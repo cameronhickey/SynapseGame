@@ -1,0 +1,6 @@
+DEPARTMENT "S\"
+200|In 1954 the U.S.S. Nautilus became the first of these vessels powered by nuclear energy|submarine
+400|This protest technique became common in 1960 when black students wouldn't leave a N.C. lunch counter|sit-in
+600|Roh Moo-hyun is its president|South Korea
+800|This city-state is found a mere 85 miles north of the equator|Singapore
+1000|This semimetallic element is the second-most common element on Earth after oxygen|silicon

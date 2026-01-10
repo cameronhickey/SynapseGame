@@ -1,0 +1,6 @@
+STATES BY LAKES
+200|Lake Seminole, Lake June in Winter|Florida
+400|Mark Twain Lake, Blind Pony Lake|Missouri
+600|Lake Cadillac, Lac Vieux Desert|Michigan
+800|Seneca Lake, Keuka Lake|New York
+1000|Tippecanoe Lake, Cagles Mill Lake|Indiana

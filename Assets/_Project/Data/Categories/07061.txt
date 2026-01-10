@@ -1,0 +1,6 @@
+SITCOM CITIES
+200|\"Veep\"|Washington, D.C.
+400|\"Friends\"|New York
+600|\"New Girl\"|Los Angeles
+800|\"Too Close for Comfort" & "Dharma & Greg\"|San Francisco
+1000|\"Parks and Recreation" (a fictional city)|Pawnee

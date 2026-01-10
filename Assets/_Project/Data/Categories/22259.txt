@@ -1,0 +1,6 @@
+AUTHOR LAST NAME IN COMMON
+200|Novelist Henry & playwright Arthur, both Brooklyn boys|Miller
+400|Journalist Tom & novelist Thomas, both southern boys|Wolfe
+600|Jackie, Suzanne, Wilkie|Collins
+800|E.B., T.H. & Australian Nobelist Patrick|White
+1000|Henry & Helen, who both wrote about title characters with the last name Jones|Fielding

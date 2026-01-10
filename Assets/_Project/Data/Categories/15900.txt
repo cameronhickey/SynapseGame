@@ -1,0 +1,6 @@
+FLUID SITUATIONS
+200|Lady Macbeth: "Yet do I fear thy nature; it is too full of the ____ of human kindness\"|\"milk\"
+400|Patton: "A pint of sweat will save a gallon of _____\"|\"blood\"
+600|Emily Dickinson: "The pedigree of _____ does not concern the bee—a clover, any time, to him, is aristocracy\"|\"honey\"
+800|\"The Godfather Part III": "Friendship & money— _____ & water\"|\"oil\"
+1000|T.S. Eliot: "I have measured out my life with _____ spoons\"|\"coffee spoons\"

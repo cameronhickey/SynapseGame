@@ -1,0 +1,6 @@
+GOING TO THE DOCTOR
+200|If eggs give you hives, doc will do a skin test to see if you have one of these, an abnormal reaction to something|an allergy
+400|You'll wear a lead apron when the doctor uses this imaging technique developed in the 1890s to check for a broken foot|an X-ray
+600|Your optometrist may use drops to dilate this circular opening in the center of the iris|the pupil
+800|It might feel like your arm is going to explode when that rubber cuff is inflated, but the doc is just measuring this|blood pressure
+1000|Otitis media & otitis externa are common infections of this body part; doc may prescribe drops or antibiotics for it|your ears

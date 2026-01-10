@@ -1,0 +1,6 @@
+MEDICAL FIELDS
+200|Pediatrics concerns the growth of kids, but podiatry focuses on just these body parts|the feet
+400|Otology is the study of 2 organs, the ears; this is the study of 1 organ, the heart|cardiology
+600|Phlebology is the study of these body parts that carry what hematologists study|arteries & veins
+800|Stomotology studies the mouth & this is the study of the stomach|gastrology
+1000|Nosology is the science of disease classification; this is the "ology" just for noses|rhinology

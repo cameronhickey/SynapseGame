@@ -1,0 +1,6 @@
+STARTS WITH "A\"
+200|Excuse you should have if Kojak asks where you were at 11 last night|an alibi
+400|Moveable part of airplane wing providing lateral control|an aileron
+600|A result or consequence, or immediately following multiplication|aftermath
+800|Unyielding or inflexible|adamant
+1000|It means extreme fear or anxiety in German or English|angst

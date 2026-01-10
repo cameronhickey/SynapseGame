@@ -1,0 +1,6 @@
+DICE ROLL NAMES
+200|Snake eyes|2
+400|Boxcars|12
+600|Jimmy Hicks|6
+800|On the first roll in craps, a natural is an 11 or this|a 7
+1000|Acey-deucey|3

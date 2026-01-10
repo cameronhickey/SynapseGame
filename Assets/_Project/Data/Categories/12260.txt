@@ -1,0 +1,6 @@
+STREET-WISE
+200|In 2007 this New York street retained its title as the most expensive shopping street in the world|5th Avenue
+400|Drink & be merry on this "boozy" street in the French Quarter that extends from Canal Street to Esplanade Avenue|Bourbon Street
+600|Officially, Britain's Chancellor of the Exchequer resides at number 11 on this street|Downing Street
+800|With lights and lasers & casinos like Binion's & The Four Queens, this downtown Vegas street is a real experience|Fremont Street
+1000|Via Veneto in this city figured prominently in the movie "La Dolce Vita\"|Rome

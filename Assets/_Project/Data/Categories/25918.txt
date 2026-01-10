@@ -1,0 +1,6 @@
+SHOW BIZ MOVIES
+200|In 2017 this actor sunk his claws into the role of P.T. Barnum, "The Greatest Showman\"|Hugh Jackman
+400|This 1967 movie about life in the theater gave us the immortal line "That's our Hitler!\"|The Producers
+600|(Jason Reitman presents the clue.) I cast 21-year-old Gabriel LaBelle in "Saturday Night" to play this producer, who was 30 in 1975, to emphasize his young genius & demonstrate the generational divide between the old network executives & the "Not Ready for Prime Time Players\"|Lorne Michaels
+800|Robert Downey Jr. was, somewhat problematically, a dude playin' a dude disguised as another dude in this comedy|Tropic Thunder
+1000|Johnny Depp is dressed for success but doesn't quite have the talent to back it up as this 1994 title character/director|Ed Wood

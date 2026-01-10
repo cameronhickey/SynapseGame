@@ -1,0 +1,6 @@
+GOING ON A POWER TRIP
+200|This type of energy is sustainable but not yet renewable; it could be if we start getting the uranium from seawater|nuclear
+400|Let's dig up the fact that in 2021, this fossil fuel provided about 22% of U.S. electricity generation|coal
+600|Power source of the Stanley brothers' 1910 automobiles, per the name|steam
+800|The Energy Dept. says of this source, its "turbines don't produce atmospheric emissions that cause acid rain... or greenhouse gases\"|wind
+1000|This dam with the most generation capacity of any U.S. power plant is about a 2-hour drive from Spokane|Grand Coulee Dam

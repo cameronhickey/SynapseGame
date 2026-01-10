@@ -1,0 +1,6 @@
+RECENT SHAKESPEARE MOVIES
+200|In a 1995 film Kenneth Branagh played Iago & Laurence Fishburne was this title character|Othello
+400|In this 1990 film Glenn Close played Mel Gibson's mother|Hamlet
+600|1991's "Men of Respect" moved this play, sleepwalking scene & all, into a modern crime syndicate story|Macbeth
+800|Keanu Reeves & Denzel Washington appeared in this 1993 comedy directed by Kenneth Branagh|Much Ado About Nothing
+1000|1991's "Prospero's Books" with John Gielgud & Isabelle Pasco was based on this play|The Tempest

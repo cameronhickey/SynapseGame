@@ -1,0 +1,6 @@
+ICONS OF TECHNOLOGY
+200|The icon of this button has a one & a zero to show its binary nature|a power switch
+400|A 3-letter icon on a piece of technology says that it has been okayed by this government commission|the Federal Communications Commission
+600|A series of three connected dots is an icon for this 7-letter action with files, not toys|sharing
+800|On the road, the icon here means this 4-letter staple of modern life is available|Wi-Fi
+1000|In many systems, a machinery part is the icon for this basic function of customizing your device with your preferences|settings

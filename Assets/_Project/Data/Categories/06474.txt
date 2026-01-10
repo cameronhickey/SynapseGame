@@ -1,0 +1,6 @@
+MEASURE FOR MEASURE
+200|1 magnum of champagne equals this many standard bottles|2
+400|At the Olympics, a 437.6 yard run equals this many meters|400
+600|Traveling approximately 1,500 miles per hour equals Mach this|2
+800|1 square furlong equals this many acres|10
+1000|In weight, 1 British stone equals this many pounds|14

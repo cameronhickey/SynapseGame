@@ -1,0 +1,6 @@
+RED ROVER, RED ROVER
+200|1 rover explored Mars' Bonneville Crater, named for a lake that once filled much of this state's NW corner|Utah
+400|This NASA "Lab" based in Pasadena designed the rovers used on Mars|JPL (Jet Propulsion Lab)
+600|To cushion their landing, the Mars rovers had a covering of these safety devices, also found in autos|air bags
+800|Some of the rover mission's payload was supplied by the NBI, an institute named for this Danish physicist|Niels Bohr
+1000|Each Mars rover is more than 17 times as heavy as this Pathfinder rover that landed on Mars in 1997|Sojourner

@@ -1,0 +1,6 @@
+IDENTIFY THE CONTINENT
+200|It's the coldest, least populous & most remote continent|Antarctica
+400|More than half the world's people live on this continent|Asia
+600|It's the warmest continent|Africa
+800|It has the world's largest tropical rain forest|South America
+1000|It's the only continent without an active volcano on the mainland|Australia

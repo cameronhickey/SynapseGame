@@ -1,0 +1,6 @@
+\"M"EDICAL
+200|Epidemic parotitis isn't parrot fever, it's this disease that causes swelling of the neck, usually in childhood|mumps
+400|A German pharmacist derived this drug from opium circa 1804, delighting doctors who thought it safe|morphine
+600|In the 1950s a culture from an 11-year-old boy led to the first vaccine against this, a vax back in the news in 2025|measles
+800|It's an adjective meaning relating to the lower jaw|mandibular
+1000|The bacterial type of this inflammation of the membranes covering the brain can be deadly & requires immediate medical attention|meningitis

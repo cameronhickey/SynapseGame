@@ -1,0 +1,6 @@
+FRUITS
+200|The rind of this huge melon is sometimes pickled & used to make relish|watermelon
+400|The highest-quality orange juice comes from this variety of orange|a Valencia
+600|Varieties of this melon include icebox & seedless|the watermelon
+800|Ounce for ounce, this green "butter pear" has more potassium than a banana|an avocado
+1000|This variety of apple accounts for almost one-half of the domestic crop|(Red) Delicious

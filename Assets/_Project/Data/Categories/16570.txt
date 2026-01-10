@@ -1,0 +1,6 @@
+\"AND" BOOKS FOR SHORT
+200|Tolstoy: "W. and P.\"|War and Peace
+400|Dan Brown: "A. and D.\"|Angels and Demons
+600|Jonathan Safran Foer: "E.L. and I.C.\"|Extremely Loud and Incredibly Close
+800|D.H. Lawrence: "S. and L.\"|Sons and Lovers
+1000|F Scott Fitzgerald: "T.B. and D.\"|The Beautiful and Damned

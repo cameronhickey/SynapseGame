@@ -1,0 +1,6 @@
+TUNNELS
+200|The Channel Tunnel or Chunnel was constructed under the Strait of this|Dover
+400|A string of tunnels runs under this Sierra Nevada pass named for a famous "Party\"|the Donner Pass
+600|Dixia Cheng, a sprawling network of tunnels in Beijing, is aka the "Underground" this other landmark|Great Wall
+800|Also a style of staircase, it's the type of tunnel built in B.C.'s Yoho National Park to solve the problem of a steep grade|spiral
+1000|The world's highest vehicular tunnel is on I-70, 60 miles west of this state capital|Denver

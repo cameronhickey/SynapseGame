@@ -1,0 +1,6 @@
+HIDDEN DEADLY SINS
+200|Feeling of hostility Ranger Smith felt towards litterers|anger (in ranger)
+400|Pleasure of achievement felt by top riders|pride (in top riders)
+600|Many indulged in this sin following the cereal glut Tony the Tiger caused|gluttony (in glut Tony)
+800|A cluster of sunbathers may induce it|lust (in cluster)
+1000|The sin of Abner the Jeweler when he hoards all his filigree designs|greed (in filigree designs)

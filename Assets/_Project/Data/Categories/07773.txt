@@ -1,0 +1,6 @@
+MATERIALS
+200|Drop "IA" from the name of a Hawaiian nut & you get this form of pavement|macadam
+400|Kneading develops proteins in this stretchy stuff so it can rise to make bread|dough
+600|The original S.O.S & Brillo pads married soap & this material|steel wool
+800|Engineers have built on the work of T.Y. Lin, developer of the "pre-stressed" type of this material|concrete
+1000|Old French for "calf" gives us the name of this textured paper used for manuscripts|vellum

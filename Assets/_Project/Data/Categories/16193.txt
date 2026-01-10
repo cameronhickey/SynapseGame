@@ -1,0 +1,6 @@
+NAME THAT BIBLE BOOK
+200|\"And the earth brought forth grass, and herb yielding seed after his kind\"|Genesis
+400|It's the first book of the New Testament|Matthew
+600|\"Make a joyful noise unto the Lord, all ye lands. serve the Lord with gladness: come before his presence with singing\"|Psalms
+800|Of Isaiah, Jeremiah or Joel, the "minor prophet\"|Joel
+1000|\"Ye shall be witnesses unto me both in Jerusalem, and in all Judea, and in Samaria, and unto the uttermost part of the earth\"|the Book of Acts

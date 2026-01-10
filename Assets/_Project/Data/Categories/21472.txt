@@ -1,0 +1,6 @@
+ECON. ABBREV.
+200|GDP: This|gross domestic product
+400|BOT: Balance of this|trade
+600|TFC: Total fixed these|costs
+800|AS & AD: Aggregate these 2 related things|supply and demand
+1000|PDI: Personal this income|disposable

@@ -1,0 +1,6 @@
+10, 11 OR 12
+200|Signs of the Zodiac|12
+400|Days of Christmas in the popular song|12
+600|Amendments in the Bill of Rights|10
+800|Players on each side of the ball in an NFL game|11
+1000|Faces on a decahedron|10

@@ -1,0 +1,6 @@
+GOURMET CUISINE
+200|This sturgeon roe delicacy is often served with blini as an hors d'oeuvre|caviar
+400|This elegant peach dessert is topped with a sauce made from raspberries & currant jelly|Peach Melba
+600|Ancient Romans cultivated these gastropods on farms; fattening them on meal & wine|snails
+800|Eggs Meyerbeer, named in honor of the composer, is made with these organs the French call reins|kidneys
+1000|Served with bearnaise sauce, this thick cut of beef is named for a French statesman, not a French castle|Chateaubriand

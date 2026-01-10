@@ -1,0 +1,6 @@
+PICK "NIC\"
+200|It was first issued in 1866; before that, people talked about plugged quarters|The nickel
+400|Nickelodeon launched it in 1985 to target adults nostalgic for the terrible TV shows of their youth|Nick at Nite
+600|A real prince of a guy, Machiavelli would surely let you call him by this first name|Niccolo
+800|Similar in function to the Berlin Wall, the Green Line divides this Mediterranean island city|Nicosia
+1000|The gospel according to John tells of this Pharisee who secretly followed Jesus|Nicodemus

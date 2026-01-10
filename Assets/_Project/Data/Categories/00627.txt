@@ -1,0 +1,6 @@
+FISH DISHES
+200|This traditional dish of England is simply deep-fried fillets & fries|fish & chips
+400|The Japanese typically begin a meal with this dish of sliced raw fish served with ginger or horseradish|sashimi
+600|In addition to anchovies, a salade nicoise contains this fish|tuna
+800|Conger eel, whiting & red mullet are traditional ingredients in this French stew|bouillabaisse
+1000|A Spanish appetizer, croquetitas de camarones are fried croquettes of this shellfish|shrimp

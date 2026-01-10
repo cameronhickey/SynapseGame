@@ -1,0 +1,6 @@
+STATE THE GOVERNOR
+200|In 2007 Charlie Crist took over for Jeb Bush in this state|Florida
+400|\"Money doesn't make you happy. I now have $50 mil. But I was just as happy when I had $48 mil.", said the Gov. of this state|California
+600|On August 26, 2005 this state's Kathleen Blanco declared a state of emergency|Louisiana
+800|In 2007 this state's Jon Corzine broke several bones in a car crash—he wasn't buckled in|New Jersey
+1000|In 2006 Deval Patrick was elected this state's first African-American governor|Massachusetts

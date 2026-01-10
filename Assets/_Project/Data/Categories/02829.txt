@@ -1,0 +1,6 @@
+NAME THAT NOVEL
+200|\"Before I left the castle I so fixed its entrances that never more can the Count enter there un-dead.\"|Dracula
+400|\"Four legs good, two legs bad!\"|Animal Farm
+600|\"I have told you, reader, that I had learnt to love Mr. Rochester: I could not unlove him now\"|Jane Eyre
+800|\"Lennie said, 'I might jus' as well go away. George ain't gonna let me tend no rabbits now.'\"|Of Mice and Men
+1000|\"'What a pretty little Nell!' cried Quilp.\"|The Old Curiosity Shop

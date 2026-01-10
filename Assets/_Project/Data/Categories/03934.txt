@@ -1,0 +1,6 @@
+LIZARDS
+200|These large lizards have been known to overpower small deer & wild pigs|a komodo dragon
+400|You'd better keep an eye on this type of large lizard of family Varanidae of which the Komodo dragon is a type|a monitor lizard
+600|The name of this lizard known for its ability to climb vertical surfaces is from a Malay word imitating the sound it makes|gecko
+800|Lizards that have a brille, a transparent scale covering the eye, keep it clean by doing this to it|licking it
+1000|The world's biggest lizards, Komodo dragons are native only to Komodo Island & the Sunda Islands of this country|Indonesia

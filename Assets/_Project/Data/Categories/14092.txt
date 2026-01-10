@@ -1,0 +1,6 @@
+LITERARY TALES
+200|Dickens: "A Tale of ____ ____\"|Two Cities
+400|Fitzgerald: "Tales of the ____ Age\"|Jazz
+600|Shakespeare: "The ____ Tale\"|Winter's
+800|Cooper: "The ____ Tales\"|Leatherstocking
+1000|Hawthorne: "____-____ Tales\"|Twice-Told

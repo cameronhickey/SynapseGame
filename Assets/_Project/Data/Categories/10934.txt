@@ -1,0 +1,6 @@
+FROM TV TO FILM
+200|The 2000 movie version of this TV show added "Viva Rock Vegas" to the title|The Flintstones
+400|Sure, he had "Grace Under Fire" as Dave, but his jazz flutin' Ron Burgundy kept San Diego classy|Will Ferrell
+600|This actor took on the role of Dr. Richard Kimble, innocent & on the run in the film version of "The Fugitive\"|Harrison Ford
+800|In 1984 he was Skip Tarkenton on the sitcom "The Duck Factory"; he gained "almighty" powers in 2003|Jim Carrey
+1000|Futuristic assassin Aeon Flux, who started on an animated series on MTV, came to the movies played by this actress|Charlize Theron

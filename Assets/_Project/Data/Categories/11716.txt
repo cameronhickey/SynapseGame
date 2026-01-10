@@ -1,0 +1,6 @@
+PIECE
+200|The pieces of this classic board game include a shoe, a top hat & a battleship|Monopoly
+400|In 1880 the top piece of this boulder was reunited with tis base & the year "1620" was carved into it|Plymouth Rock
+600|Professor Plum has his choice of 6 weapons in this board game|Clue
+800|Move your conquering army pieces into Siam or Yakutsk as part of your global strategy in this board game|Risk
+1000|It's the more correct name for the castle piece in a game of chess|a rook

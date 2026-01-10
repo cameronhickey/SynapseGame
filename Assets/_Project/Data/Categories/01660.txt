@@ -1,0 +1,6 @@
+GEOGRAPHY "B\"
+200|At its narrowest point, this strait separates North America & Asia by only 53 miles|the Bering Strait
+400|This city was the site of the 1992 Summer Olympics|Barcelona
+600|Poland & Lithuania are among the countries that border this sea|Baltic Sea
+800|The world's third-largest island, about 3/4 of it belongs to Indonesia|Borneo
+1000|This Australian city & capital of Queensland was named for a Scottish soldier|Brisbane

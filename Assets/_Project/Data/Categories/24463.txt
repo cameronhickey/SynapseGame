@@ -1,0 +1,6 @@
+A COLLEGE / TOWN
+200|The University of Georgia, kind of going Greek|Athens
+400|Cornell University, kind of going Greek|Ithaca
+600|The University of New Mexico, where classes began in 1892, before statehood|Albuquerque
+800|\"Stick" to it at Louisiana State University|Baton Rouge
+1000|The University of Virginia, which Jefferson envisioned as his "academical village\"|Charlottesville

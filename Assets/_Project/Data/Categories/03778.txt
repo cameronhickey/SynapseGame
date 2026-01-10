@@ -1,0 +1,6 @@
+NAME THE MOVIE
+200|1933: "Oh no, it wasn't the airplanes. It was Beauty killed the Beast.\"|King Kong
+400|1948: "I don't have to show you no stinkin' badges!\"|The Treasure of the Sierra Madre
+600|1981: "When I run, I feel his pleasure\"|\"Chariots of Fire\"
+800|1986: "Be afraid. Be very afraid.\"|\"The Fly\"
+1000|1992: "You can't handle the truth!\"|\"A Few Good Men\"

@@ -1,0 +1,6 @@
+FRANCE, FRANCE REVOLUTION
+200|This structure, a symbol of the Bourbon monarchy, was stormed on July 14, 1789|the Bastille
+400|France was in dire straits financially due to its support of this other revolution|the American Revolution
+600|Germinal, Fructidor & Thermidor could be found on the New French Republican this adopted in 1793|calendar
+800|Robespierre's Committee of Public Safety controlled this period of revolution that saw 30,000 executions|the Reign of Terror
+1000|A royalist power grab in Paris was crushed by this young general in 1795|Napoleon Bonaparte

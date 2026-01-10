@@ -1,0 +1,6 @@
+\"LOCK\"
+200|Notice the placement of this type of storage unit by each bed in the barracks|a footlocker
+400|To move together in unison as if connected is to "march in" this|lockstep
+600|The western species of this tree has distinctive short, flat needles|a hemlock
+800|An Allen charge can be read to try to coax a verdict out of this type of jury|deadlocked
+1000|Synonym for a wizard or a conjurer|a warlock

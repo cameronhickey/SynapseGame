@@ -1,0 +1,6 @@
+CONTINENTS BY COUNTRIES
+200|Honduras, Mexico, Canada|North America
+400|Hungary, Lithuania, Albania|Europe
+600|Guyana, Suriname, Bolivia|South America
+800|Chad, Angola, Ethiopia|Africa
+1000|Iraq, Uzbekistan, Mongolia|Asia

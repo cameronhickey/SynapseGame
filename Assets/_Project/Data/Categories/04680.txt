@@ -1,0 +1,6 @@
+CLASSICAL GASES
+200|The most common isotope of hydrogen has an atomic weight of this whole number|1
+400|Discovered separately in the 1770s by British & Swedish chemists, it was found to be a gas by a Frenchman|Oxygen
+600|As a liquid, it's used as a cryogenic refrigerant; as a gas, it makes lights red|neon
+800|Lighter than air, it's also called marsh gas & is found in natural gas|methane
+1000|This gas forms tiny bubbles in a diver's bloodstream that can be dangerous if he ascends too quickly|Nitrogen

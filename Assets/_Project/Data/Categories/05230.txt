@@ -1,0 +1,6 @@
+HE'S MY RUNNING MATE
+200|Lloyd Bentsen|Michael Dukakis
+400|Sargent Shriver|George McGovern
+600|Henry Cabot Lodge, Jr.|Richard Nixon
+800|Earl Warren|Thomas E. Dewey
+1000|John Sparkman|Adlai Stevenson

@@ -1,0 +1,6 @@
+USES FOR ARSENIC
+200|Arsenic compounds are used as coloring agents in these sky displays|fireworks
+400|Caligula is said to have ordered his alchemists to turn the yellow orpiment, a sulfide of arsenic, into this|gold
+600|Around 3500 B.C. people were mixing copper & arsenic to make this: they soon found copper & tin worked better|bronze
+800|Gallium arsenide is used in the semiconductor type of this device found in CD players|a laser
+1000|\"Arsenic and Old Lace" recommends a teaspoon of arsenic per gallon of this wine|elderberry

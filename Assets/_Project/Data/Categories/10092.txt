@@ -1,0 +1,6 @@
+WHICH TIME ZONE?
+200|Vancouver, British Columbia|Pacific
+400|Wichita, Kansas|Central
+600|Santa Fe, New Mexico|Mountain
+800|Toronto, Ontario|Eastern
+1000|Akron, Ohio|Eastern Time

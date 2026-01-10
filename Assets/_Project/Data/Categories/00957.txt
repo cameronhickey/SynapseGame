@@ -1,0 +1,6 @@
+LEGISLATURES
+200|Iraq has the National Assembly & this neighbor has the Islamic Consultative Assembly|Iran
+400|This country's Oireachtas is made up of the president, Seanad & Dail|Ireland
+600|You "Khan" see this country's "Khongress" meet in its "State Great Khural" in Ulaanbaatar|Mongolia
+800|A London Times crossword clued it as "Kosher Diet (7)\"|the Knesset
+1000|It's the lower house of the German parliament|the Bundestag

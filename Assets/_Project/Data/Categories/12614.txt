@@ -1,0 +1,6 @@
+YOU NEED SOME BACKUP
+200|Diana Ross|The Supremes
+400|Tom Petty|The Heartbreakers
+600|Huey Lewis|The News
+800|Smokey Robinson|The Miracles
+1000|Marky Mark|The Funky Bunch

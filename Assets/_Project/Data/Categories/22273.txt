@@ -1,0 +1,6 @@
+FIRST NAME
+200|Steamboat whiz Fulton|Robert
+400|19th century "Pathfinder" & politician Fremont|John
+600|Novelist & sometime Iowa resident Smiley|Jane
+800|Socialist candidate Debs, middle initial V.|Eugene
+1000|Lorenzo de Medici's paternal grandfather|Cosimo

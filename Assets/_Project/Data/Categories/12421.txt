@@ -1,0 +1,6 @@
+IT BORDERS JUST ONE OTHER COUNTRY
+200|Portugal|Spain
+400|Monaco|France
+600|Qatar|Saudi Arabia
+800|Lesotho|South Africa
+1000|East Timor|Indonesia

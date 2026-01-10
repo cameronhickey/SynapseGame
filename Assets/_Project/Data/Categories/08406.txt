@@ -1,0 +1,6 @@
+WHICH U.S. CABINET DEPARTMENT?
+200|The Animal & Plant Health Inspection Service|Department of Agriculture
+400|The Employment Standards Administration|Department of Labor
+600|The Federal Financing Bank|the Treasury
+800|The Agency for Toxic Substances & Disease Registry|Department of Health & Human Services
+1000|The Bureau of Economic Analysis|Department of Commerce

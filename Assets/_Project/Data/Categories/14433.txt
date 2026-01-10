@@ -1,0 +1,6 @@
+SEX CELLS!
+200|It's the Latin name for a female sex cell|ovum (or ova)
+400|In 1982 scientists manipulated this rodent's sex cells to create a "mighty" version twice the normal size|a mouse
+600|The male sex cells of flowering plants are carried to the female cells via this dusty stuff|pollen
+800|From the Greek name of 2 gods, it's an organism that produces both male & female sex cells|a hermaphrodite
+1000|(Jimmy of the Clue Crew shows a cell dividing on the monitor.) Human sex cells are created via this genetic process, in which one parent cell splits into four daughter cells|meiosis

@@ -1,0 +1,6 @@
+SPACECRAFT TYPES
+200|Mir was a third generation Russian one of these spacecraft & it lasted for 15 years|a space station
+400|This term for vehicles like those used in the Mercury program sounds like a small dose of medicine|a capsule
+600|The first stage of a rocket|the booster
+800|This 2-word term for possibly alien spacecraft was 1st used after a pilot reported seeing 9 of them near Mt. Rainier in 1947|a flying saucer
+1000|Like the Cassini around Saturn, this type of spacecraft by definition doesn't land, but circles a planet instead|an orbital probe

@@ -1,0 +1,6 @@
+SHAPELY COUNTRIES
+200|This island off the coast of Africa is where you might find Alex, Marty and Melman|Madagascar
+400|Sugarcane is an important crop of this communist Caribbean island|Cuba
+600|No wonder it's called a low country, much of it is below sea level|The Netherlands
+800|This country is named for a circle around the Earth|Ecuador
+1000|The name of this Asian country means "Land of the Free," so it's not surprising that it's never been colonized|Thailand

@@ -1,0 +1,6 @@
+CHECK THE MAP
+200|It's the only state lying south of the Tropic of Cancer|Hawaii
+400|The principal drainage system between the Rockies & the Appalachians, it's the "Father of Waters\"|Mississippi River
+600|This 36-mile-long river provides part of the border between New York & Ontario|Niagara River
+800|This artificial lake is Nevada's only lake with an outlet to the sea|Lake Mead
+1000|Rhode Island's Sakonnet & Seekonk Rivers are really saltwater arms of this bay|Narragansett Bay

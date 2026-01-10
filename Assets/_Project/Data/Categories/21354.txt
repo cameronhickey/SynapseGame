@@ -1,0 +1,6 @@
+GET "IN\"
+200|Once March 4, we swear it's now January 20 every 4 years|the presidential inauguration
+400|Adjective for evidence not allowable in court|inadmissible
+600|11-letter word meaning to imprison|incarcerate
+800|Drop a letter from a word meaning crazy; now you're just foolish|inane
+1000|The Declaration of Independence used "un-", but this word meaning "not transferable to another" is a synonym|inalienable

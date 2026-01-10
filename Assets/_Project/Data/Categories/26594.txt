@@ -1,0 +1,6 @@
+ON YOUR LEFT
+200|Of Kansas: This state|Colorado
+400|Of Algeria: This nation on the Mediterranean|Morocco
+600|Of the Dominican Republic: This country|Haiti
+800|Of Suffolk County, New York: This county whose coliseum is now run by Las Vegas Sands|Nassau County
+1000|Of Manitoba: This province, home to about 1.2 million, a bit more than half of Cincinnati's metro area|Saskatchewan

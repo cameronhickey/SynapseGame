@@ -1,0 +1,6 @@
+PRESIDENTIAL BURIAL PLACES
+200|Quincy, Massachusetts|John Quincy Adams
+400|Plymouth Notch, Vermont|Calvin Coolidge
+600|Grand Rapids, Michigan|Gerald Ford
+800|Abilene, Kansas|Eisenhower
+1000|Kinderhook, New York|Martin Van Buren

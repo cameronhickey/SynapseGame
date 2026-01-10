@@ -1,0 +1,6 @@
+\"F" IN BIOLOGY
+200|The substance used to preserve the frogs that are dissected in biology class|formaldehyde
+400|The fennec is the smallest of these animals, the common red is best known|fox
+600|The union of 2 gametes to form a zygote|fertilization
+800|By definition, a substance capable of killing a non-green plant such as mold or mildew|fungicide
+1000|The 2 leg bones that fit the category|femur & fibula

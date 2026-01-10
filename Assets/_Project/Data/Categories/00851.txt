@@ -1,0 +1,6 @@
+ARCHITECTURAL TERMS
+200|The sash is the framework that holds the glass part of one of these|window
+400|The mastaba, not the pyramid, was the common tomb of nobility during this country's "Old Kingdom\"|Egypt
+600|A mihrab is a prayer niche in the wall of a mosque that faces this holy city|Mecca
+800|A capital is the uppermost part of one of these|column
+1000|Flying buttresses are most associated with this style of architecture|gothic

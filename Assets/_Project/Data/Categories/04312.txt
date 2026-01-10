@@ -1,0 +1,6 @@
+GIVE "UP\"
+200|A boxing blow directed upward towards your opponent's chin|uppercut
+400|The phrase about being "sent" here comes from the fact that Sing Sing Prison was north of NYC on the Hudson|up the river
+600|Home to fashionable shops & residences, it's the section of Manhattan E. of 5th Ave. & between 57th & 96th Streets|Upper East Side
+800|He won a Pulitzer in 1982 for his novel "Rabbit is Rich\"|John Updike
+1000|This hit by the 5th Dimension won the 1967 Grammy for Song of the Year|\"Up, Up and Away\"

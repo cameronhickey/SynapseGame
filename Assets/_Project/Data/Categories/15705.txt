@@ -1,0 +1,6 @@
+WHERE ON EARTH...?
+200|This country has "city" in its name; with a population of 830, might we suggest "village"?|Vatican City
+400|It's a long way to Tipperary in this country, & to Kilkee & Tralee as well|Ireland
+600|The tower of the Great Opening Hotel is in Khartoum in this country|Sudan
+800|Kid, next time I say let's go someplace like this country whose judicial capital is Sucre, let's go someplace like this country|Bolivia
+1000|Lemur entertain you with the Isalo Massif, a geographic feature of this island country|Madagascar

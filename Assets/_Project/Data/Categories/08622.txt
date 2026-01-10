@@ -1,0 +1,6 @@
+DOUBLE "D"s
+200|Items at an auction are "sold to the highest" one|bidder
+400|A "hasty" dessert, or perhaps you'd prefer the tapioca|pudding
+600|In golf, before hitting the ball you do this to it, in preparation|address it
+800|Newborn babies were wrapped in these clothes that kept their arms & legs still|swaddling
+1000|Name given to either of 2 old Icelandic literary works detailing early Scandinavian mythology|Edda

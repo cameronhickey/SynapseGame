@@ -1,0 +1,6 @@
+HOME DESPOT
+200|Idi Amin|Uganda
+400|Slobodan Milosevic (1997-2000)|Yugoslavia
+600|Augusto Pinochet|Chile
+800|Pol Pot|Cambodia
+1000|In Africa: Omar al-Bashir|the Sudan

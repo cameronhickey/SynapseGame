@@ -1,0 +1,6 @@
+ARITHMETALK
+200|In an "improper" one of these, the numerator is greater than the denominator|fraction
+400|In the expression 25, 2 is the base & 5 is this, the power to which 2 is raised|the exponent
+600|The fundamental theorem of arithmetic says all composite numbers can be expressed as a product of these, e.g. 65 = 5 x 13|prime numbers
+800|The counting numbers beginning 1, 2, 3... are also known as these alliterative "numbers\"|natural
+1000|This law of addition says x + y = y + x|commutative

@@ -1,0 +1,6 @@
+DYNASTY
+200|Capet, Valois, Bourbon|France
+400|1st, 15th, Ptolemaic|Egypt
+600|Balliol, Bruce, Stuart|Scotland
+800|Tran, Ngo, Dinh|Vietnam
+1000|Bernadotte, Vasa, Folkung|Sweden

@@ -1,0 +1,6 @@
+I SENSE A THEME
+200|You can "ride the movies" at this film company's Hollywood theme park|Universal Studios
+400|You may see Shamu the killer whale at one of these parks in San Diego, Orlando, Cleveland or San Antonio|SeaWorld
+600|At one of these restaurants, you can get a Die Hard Daiquiri, a Cliffhanger or a Mr. Freeze's Margarita|Planet Hollywood
+800|For the 1996 Olympics in Atlanta this chain of music clubs ran a temporary venue in a Baptist tabernacle|House of Blues
+1000|Diana Ross & Boyz II Men are among the celebrity investors in this restaurant chain|Motown Cafe

@@ -1,0 +1,6 @@
+MAJOR SPORTS TEAMS' NAMES IN COMMON
+200|New York & San Francisco|the Giants
+400|New York & Texas|the Rangers
+600|New York & Winnipeg|the Jets
+800|Arizona & St. Louis|the Cardinals
+1000|Florida & Carolina|the Panthers

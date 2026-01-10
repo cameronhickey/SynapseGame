@@ -1,0 +1,6 @@
+TV SHOW LOCALES
+200|Laverne & Shirley worked in the bottle-cap division of the Shotz Brewery in this city|Milwaukee
+400|This TV family resided at 704 Hauser Street in Queens; the Jeffersons lived next door|The Bunkers
+600|(Hi, I'm Candice Bergen.) As Murphy Brown I anchored the newsmagazine "FYI" based in this city|Washington, D.C.
+800|The "Green Acres" farm was located just outside of this town, the setting of "Petticoat Junction\"|Hooterville
+1000|Dr. Quinn, Medicine Woman moved from this northeastern city to Colorado Springs, Colorado|Boston

@@ -1,0 +1,6 @@
+HIGH "IQ\"
+200|It's a small shop specializing in fashionable & often expensive clothing|Boutique
+400|Don't take it personally, it's just a detailed analysis of a subject or literary work|Critique
+600|\"Everything Must Go" at this type of sale held by a company that's "all washed up\"|Liquidation sale
+800|This No. 1 song from 1963 was written & performed by Sister Luc-Gabrielle|\"Dominique\"
+1000|Maputo is its capital|Mozambique

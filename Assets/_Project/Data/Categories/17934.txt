@@ -1,0 +1,6 @@
+CONSONANT-FREE STATE CAPITALS
+200|Actually not in Hawaii: AAAEE|Tallahassee
+400|Nowhere near Hawaii: OIE|Boise
+600|In the midwest, far from Hawaii: IIAAOI|Indianapolis
+800|Distant from Hawaii: AO OUE|Baton Rouge
+1000|OOUU|Honolulu

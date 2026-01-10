@@ -1,0 +1,6 @@
+STONEHENGE
+200|The ancient monument known as Stonehenge is found in this country|England
+400|According to legend, this advisor to Arthur used his magic to move the stones from Ireland to England|Merlin
+600|One legend says that this magician who helped King Arthur used his powers to build Stonehenge|Merlin
+800|In the 17th Century John Aubrey wrongly opined that Stonehenge had been built by these Celtic priests|Druids
+1000|During the summer solstice, modern-day people who act like these Celtic priests hold cermonies at Stonehenge|the Druids

@@ -1,0 +1,6 @@
+I'M LATIN INTOLERANT
+200|I cannot tolerate this Latin phrase abbreviated A.D. when referring to the time since Jesus was born|Anno Domini
+400|I don't care that it's only 4 letters long; I'm not using this abbrev. phrase meaning "and others" in a crossword clue|et al.
+600|I certainly won't call you this word meaning "retired but still retaining the title of your old position\"|emeritus
+800|Not that I care but...it means "for the time being"; you'll find it as part of a Senate job title|pro tem
+1000|It's a fact; there's no way I'm saying this phrase that means "in fact" (as in the man behind the scenes, perhaps)|de facto

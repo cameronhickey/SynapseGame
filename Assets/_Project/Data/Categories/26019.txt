@@ -1,0 +1,6 @@
+FRENCH-NAMED FOOD & DRINK
+200|It's a pre-dinner alcoholic drink, perhaps champagne, that gets you ready for the main event|an apéritif
+400|In New Orleans you can find crab ones of these fritters, as well as the sweet kind covered with powdered sugar|a beignet
+600|A cup of Joe with an equal amount of steamed or hot milk = this beverage with a rhyming name|café au lait
+800|Mellower & with fewer tannins than Cabernet, this wine variety derives its name from the French word for "blackbird\"|merlot
+1000|The French version of broth & a celebrated seafood stew, they both start with the same 6 letters|bouillon & bouillabaisse

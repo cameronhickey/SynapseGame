@@ -1,0 +1,6 @@
+NOT THE CAPITAL
+200|Of Australia, though it's the country's oldest city|Sydney
+400|Of Alaska, though it has 9 times the capital's population|Anchorage
+600|Of England, though it's home to the country's most popular & successful pro sports team|Manchester
+800|Of Germany, since 1990|Bonn
+1000|Of Canada, though it was incorporated in 1862 with a royal name|Victoria (British Columbia)

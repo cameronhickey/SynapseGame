@@ -1,0 +1,6 @@
+NOSE WORKS
+200|A short inhalation, it's paired with "scratch" in magazine ads|sniff
+400|Of something described as fulsome, redolent or rank, the one that smells good|redolent
+600|This British slang term for a bad smell is also the title of an early video game|pong
+800|A secretion of the gland of a male deer, it's used in making perfume|musk
+1000|It's the term for the perfume or essential oil extract from flowers|attar

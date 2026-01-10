@@ -1,0 +1,6 @@
+CYBERTALK
+200|4-letter word meaning to visit a discussion forum without ever posting a message|to lurk
+400|Measured in bits per second, it's the data capacity that can be transmitted over a network connection|a bandwidth
+600|It's the diplomatic word for the standards governing an exchange of data between computer systems|a protocol
+800|It's the 2-word term for the physical separation of a computer system from others, & a good way to protect against hacking|an air gap
+1000|If you see this error number followed by "forbidden", you don't have permission to access that webpage, chump|403

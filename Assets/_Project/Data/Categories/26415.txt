@@ -1,0 +1,6 @@
+IN THE BANK
+200|A 2004 law permitted banks to "truncate" these, create legally valid images of them, & no longer return canceled ones|checks
+400|If interest levels rise, this, an ARM, might cost you an arm & a leg|an adjustable-rate mortgage
+600|There are 12 of these banks across the country, numbered from 1 in Boston to 12 in San Francisco|the Federal Reserve
+800|It's the developmental term for the due date at which a bond or other financial instrument becomes payable|maturity
+1000|A bank may raise the interest on your credit card if you have a high DTI ratio, DTI standing for this comparison|debt to income

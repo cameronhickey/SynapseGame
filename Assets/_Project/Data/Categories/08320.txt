@@ -1,0 +1,6 @@
+PLURAL
+200|This word is the same in singular or plural, so Dr. Seuss was correct when he wrote "One" This "Two" This|fish
+400|The plural of house isn't hice, as you might think when you learn this rodent plural|mice
+600|The "s" may not go where you think in this plural for the wives of your brothers|sisters-in-law
+800|Disney popularized one plural for these little people; Tolkien preferred another one|dwarves (dwarfs)
+1000|\"Tooth" & this part at the other end of your body form plurals by changing their interior vowel sound|feet (or foot)

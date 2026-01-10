@@ -1,0 +1,6 @@
+WORD "UP\"
+200|In a beauty pageant, it's the person who comes in second|the runner-up
+400|It's the general cost of maintaining a home in decent condition|upkeep
+600|Neil Sedaka said this "is hard to do\"|Breaking Up
+800|In 2001 Rick Baker & Gail Ryan won Oscars in this category for "How the Grinch Stole Christmas\"|makeup
+1000|A delay, or an armed robbery|hold-up

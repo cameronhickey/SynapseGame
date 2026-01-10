@@ -1,0 +1,6 @@
+BIG CITY SUBURBS
+200|Concord, Lowell|Boston (Massachusetts)
+400|Scottsdale, Mesa|Phoenix
+600|Livonia, Dearborn|Detroit
+800|Coral Gables, Hialeah|Miami
+1000|Coronado, Chula Vista|San Diego

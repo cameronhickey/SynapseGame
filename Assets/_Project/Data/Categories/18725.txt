@@ -1,0 +1,6 @@
+ARITHMETIC
+200|It's 30% of 250|75
+400|4 eggs are needed to make 14 cakes; with a dozen eggs, this many cakes can be made|42
+600|2.345 divided by 0.001 equals this number|2,345
+800|There are 7 tables with 3 kids & 4 adults at each table, making for this many people total|49
+1000|4 1/2 x 1/5 equals this fraction|9/10

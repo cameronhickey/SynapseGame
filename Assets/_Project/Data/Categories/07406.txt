@@ -1,0 +1,6 @@
+BIOLOGY TEST
+200|The viceroy butterfly looking like the monarch is: (A) mimicry (B) puppetry (C) chicory (D) rabbitry|mimicry
+400|The only hormone that can lower blood sugar is: (A) epinephrine (B) glucagon (C) thyroxine (D) insulin|insulin
+600|A Venus's Flytrap is considered: (A) aluminous (B) bigamous (C) carnivorous (D) decamerous|carnivorous
+800|Gills are not a feature on: (A) manatees (B) sharks (C) mushrooms (D) sand dollars|manatees
+1000|Experiencing piloerection you have: (A) hemorrhoids (B) razor stubble (C) goose bumps (D) bed hair|goose bumps

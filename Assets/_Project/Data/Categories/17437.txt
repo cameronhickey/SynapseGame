@@ -1,0 +1,6 @@
+\"ACK" WORDS
+200|To destructively search a house|ransack
+400|A quarterback sack is also one of these|tackle
+600|In the '70s airline cockpits were stocked with maps of the Havana airport in preparation for this crime|hijacking
+800|It's a book section for an author's thanks to colleagues, family members et al.|acknowledgment
+1000|To intentionally put 5/8/13 on a document you're writing 3 months later on 8/5/13 is to do this|backdating

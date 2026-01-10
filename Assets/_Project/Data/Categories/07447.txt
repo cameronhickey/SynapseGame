@@ -1,0 +1,6 @@
+WORLD OF TENNIS
+200|Bjorn Borg|Sweden
+400|Evonne Goolagong|Australia
+600|Ilie Nastase|Romania
+800|Monica Seles|Yugoslavia
+1000|Gabriela Sabatini|Argentina

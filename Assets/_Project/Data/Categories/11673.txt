@@ -1,0 +1,6 @@
+7, 8 OR 9
+200|Number of Snow White's height-challenged housemates|7
+400|The one that starts with 2 vowels|8
+600|In the famous Christmas poem, Santa's sleigh is pulled by this many tiny reindeer|8
+800|Number of classic "Ancient Wonders" that included the Colossus of Rhodes|7
+1000|Some people compare happiness to being on this number cloud|9

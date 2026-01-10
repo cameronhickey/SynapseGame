@@ -1,0 +1,6 @@
+SEOUL FOOD
+200|The "International House of" these, doesn't serve hotteok, a deliciously sweet type of one|a pancake
+400|Bibimbap is a mixture of foods served with one of these on top, usually sunny-side up|an egg
+600|Chimaek is all the rage, a dish that pairs fried chicken with this potent potable, perhaps a Busan lager|beer
+800|The Korean dish known as army stew contains some of this canned meat made ubiquitous by Hormel|Spam
+1000|\"B", is for this Korean staple, barbecued, often with garlic & ginger|bulgogi

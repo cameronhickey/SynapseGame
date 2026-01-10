@@ -1,0 +1,6 @@
+FRENCH MENU
+200|Canard aux mangues is duck served with this tropical fruit|mango
+400|Chou-fleur is the French name for this vegetable that can be sauteed or eaten raw in salads|cauliflower
+600|Hmm... the name of these small cream puffs tells me that the restaurant makes quite a "profit" on them|profiteroles
+800|Let's have oeufs a la Chartres, eggs flavored with this herb that the French call estragon|tarragon
+1000|Ah! A luscious gateau Montmorency, a cake topped with this fruit|cherries

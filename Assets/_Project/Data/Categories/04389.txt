@@ -1,0 +1,6 @@
+POE FOLKS
+200|\"I was a child, and she was a child, in this kingdom by the sea, but we loved with a love that was more than love, I" & she|\"Annabel Lee\"
+400|Last name of Roderick & his sister Madeline, who fell dead just before their house falls into a mountain lake|Usher
+600|This masked apparition joins Prince Prospero & his friends at a costume ball in a secluded castle|The Red Death
+800|This scholarly amateur detective solves the baffling case of "The Purloined Letter\"|C. Auguste Dupin
+1000|His "Narrative" recounts his adventures on the Grampus as it sails from Nantucket to the South Seas|Arthur Gordon Pym

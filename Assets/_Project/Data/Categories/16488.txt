@@ -1,0 +1,6 @@
+HEY, "BERT\"
+200|A 7th Century French saint gave his name to this nut|the philbert
+400|Dogbert & Catbert are characters in this comic strip|Dilbert
+600|He's the royal dad of Princess Astrid of Belgium|King Albert
+800|Sadly this "Unfinished Symphony" composer finished living at the age of 31|(Franz) Schubert
+1000|This monarch's greatest victory over the English came at Bannockburn in 1314|Robert the Bruce

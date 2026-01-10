@@ -1,0 +1,6 @@
+ON THE MOVE
+200|In 1980 the U.S. government loaned this auto company $1.5 billion; the loans were repaid within 3 years|Chrysler
+400|In Britain, it's a kitchen on a ship's deck; in the U.S., it's traditionally the last car on a freight train|a caboose
+600|This Dodge mid-size SUV is named for a city in Southwest Colorado|Durango
+800|In 1921 the Fageol Safety Coach Company of Oakland created the first chassis specifically for these vehicles|buses
+1000|A passenger train in China reaches 270 mph using this above-the-rail technology|maglev (magnetic levitation)

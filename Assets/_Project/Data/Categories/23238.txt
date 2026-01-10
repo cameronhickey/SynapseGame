@@ -1,0 +1,6 @@
+\'TIS SHAKESPEARE
+200|In Act 3 Hamlet tells this other character to "Get thee to a nunnery\"|Ophelia
+400|John Dryden & his brother-in-law revised this tragedy so everybody (well, not Tybalt) lives happily ever after|Romeo and Juliet
+600|This knight's first line in "Henry IV, Part 1" is asking what time it is, which leads to 100 lines of banter & trash talk|Falstaff
+800|The movie "All Is True", about Shakespeare in retirement, begins with the fire that destroyed this theatre in 1613|the Globe Theatre
+1000|This friar conducts the ill-fated marriage of Romeo & Juliet|Friar Lawrence

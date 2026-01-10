@@ -1,0 +1,6 @@
+NOVEL "T"s
+200|In titles of Edgar Rice Burroughs novels, this name precedes "Lord of the Jungle" & "of the Apes\"|Tarzan
+400|This Southern novel about defense lawyer Atticus Finch is narrated by his daughter|To Kill a Mockingbird
+600|The nameless narrator of this, Wells' first novel, finds himself in the year 802,701|The Time Machine
+800|Don't let the title mislead you: this 1844 novel relates the adventures of 4 swashbuckling heroes|The Three Musketeers
+1000|This novel by F. Scott Fitzgerald tells of the troubled marriage of Dick & Nicole Diver|Tender is the Night

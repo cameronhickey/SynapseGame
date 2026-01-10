@@ -1,0 +1,6 @@
+VEGETABLES
+200|Peas, lima beans, navy beans & corn are examples of this part of a plant|seeds
+400|Change the "C" to a "P" & this vegetable becomes a talking bird|carrot
+600|Leafy vegetable used in salads, it comes in curly & escarole varieties|endive
+800|Garlic, onions & shallots are this part of the plant|the bulbs
+1000|In the mustard family it's a plant with an edible root that tastes like a turnip|a rutabaga

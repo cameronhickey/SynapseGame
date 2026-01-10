@@ -1,0 +1,6 @@
+THE CARS
+200|Judging by its name, this line of luxury cars from Nissan could go on forever|Infiniti
+400|This company has "excelled" in automaking ever since it produced Korea's first car, the Pony|Hyundai
+600|Maurice Chevalier sang, "Every little" one of these Plymouths "seems to whisper Louise\"|a Breeze
+800|I can't see the sun; this Mitsubishi is blocking it|an Eclipse
+1000|You can buy this Lincoln off the shelf — the shelf off North America|a Continental

@@ -1,0 +1,6 @@
+THE MOST POPULOUS NATION
+200|Mexico, Brazil, Argentina|Brazil
+400|Egypt, Iraq, Saudi Arabia|Egypt
+600|Finland, Norway, Sweden|Sweden
+800|Vatican City, Monaco, Andorra|Andorra
+1000|Russia, Indonesia, Japan|Indonesia

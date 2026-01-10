@@ -1,0 +1,6 @@
+STATE LICENSE PLATE MOTTOS
+200|\"Famous Potatoes\"|Idaho
+400|\"...on my Mind\"|Georgia
+600|\"Land of Lincoln\"|Illinois
+800|\"First in Flight\"|North Carolina
+1000|\"The Spirit of America\"|Massachusetts

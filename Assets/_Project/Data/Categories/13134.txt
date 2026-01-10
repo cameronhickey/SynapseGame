@@ -1,0 +1,6 @@
+DUCK! SOUP
+200|Get down! It's this Russian beet soup usually served with sour cream; it's cold, but it could stain|borscht
+400|From the French for "boil", this is heading our way!|bouillon
+600|Gallagher is advancing on us with this Mexican meatball soup; thank God we have tarps|albondigas
+800|Banzai! This fermented soybean paste is used in the Japanese soup that's flying toward your head|miso
+1000|This incoming chilled soup is named for a provisional capital of unoccupied France|vichyssoise

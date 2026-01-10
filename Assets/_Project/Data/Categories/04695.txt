@@ -1,0 +1,6 @@
+CAPITAL (CITY) PUNISHMENT
+200|Sofia|Bulgaria
+400|Skopje|Macedonia
+600|Vaduz|Liechtenstein
+800|Tashkent|Uzbekistan
+1000|Abuja|Nigeria

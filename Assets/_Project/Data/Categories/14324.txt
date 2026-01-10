@@ -1,0 +1,6 @@
+PHILOSOPHERS' COUNTRY OF BIRTH
+200|Thomas Hobbes, William of Ockham|Britain
+400|Pico Della Mirandola, Boethius|Italy
+600|John Dewey, John Rawls|the U.S.
+800|Desidierius Erasmus, Baruch Spinoza|the Netherlands
+1000|Robert Boyle, George Berkeley|Ireland

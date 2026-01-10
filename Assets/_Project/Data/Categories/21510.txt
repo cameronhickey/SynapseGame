@@ -1,0 +1,6 @@
+A NASDAQ FACT
+200|On the NASDAQ you can find this state in front of Capital Bancshares, Roadhouse & Instruments|Texas
+400|This car company has a facility called Gigafactory 1, designed to reduce battery cell costs in a big way|Tesla
+600|It's time to get alphanumerically lubricated with this company that in its early days fought rust on Atlas missiles|WD-40
+800|The French Toast Slugger is on the menu of this NASDAQ-listed diner chain|Denny's
+1000|In 2002, less than 3 years after this JFK-based airline began operations, it had an IPO on NASDAQ & was worth $1.8 billion|JetBlue

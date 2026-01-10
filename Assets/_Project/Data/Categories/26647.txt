@@ -1,0 +1,6 @@
+KID LIT EN ESPAÑOL
+200|\"Huevos verdes con jamón\"|Green Eggs and Ham
+400|\"El l león, la bruja y el ropero\"|The Lion, the Witch and the Wardrobe
+600|\"Ricitos de oro y los tres osos\"|Goldilocks and the Three Bears
+800|\"Una arruga en el tiempo\"|A Wrinkle in Time
+1000|\"Nublado con proegabilidades de albóndigas\"|Cloudy with a Chance of Meatballs

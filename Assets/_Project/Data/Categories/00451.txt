@@ -1,0 +1,6 @@
+GEOGRAPHIC PAIRS
+200|The 2 countries which make up Europe's Iberian Peninsula|Spain & Portugal
+400|Nepal is surrounded by these countries, the 2 most populous in the world|India & China
+600|With combined area of less than 1 sq. mile, the 2 smallest countries in the world|Vatican City & Monaco
+800|The 2 largest islands that are part of Italy|Sardinia & Sicily
+1000|These neighbors are the only 2 New World countries without coastlines|Bolivia & Paraguay

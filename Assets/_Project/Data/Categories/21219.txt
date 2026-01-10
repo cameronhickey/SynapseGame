@@ -1,0 +1,6 @@
+Q THE MAP
+200|Home to the FBI Academy, Quantico is found along this river in Virginia|the Potomac
+400|Brisbane is the capital of this Australian state|Queensland
+600|Al Udeid Air Base, the headquarters of the U.S. Air Force's central command, is found in this emirate|Qatar
+800|The Mexican state of Quintana Roo takes up the eastern side of this peninsula|the Yucatán Peninsula
+1000|440 feet below sea level, the Qattara Depression in Egypt halted this field marshal's attack on British defenses in 1942|Rommel

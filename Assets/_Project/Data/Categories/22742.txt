@@ -1,0 +1,6 @@
+THAT'S TWISTED
+200|Add -ed to this item from the toolbox to describe your twisted back|wrench
+400|Twisted strands of fiber such as jute can be made into a ball of this string|twine
+600|This baked good is used to describe very confusing, twisted logic|a pretzel
+800|Let's get biblical with these trees of the Southwest noted for their twisted branches|Joshua trees
+1000|You can make one of these, named for a German mathematician, by giving a half twist to a strip of paper & attaching the ends|a Möbius strip

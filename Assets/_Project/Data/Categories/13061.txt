@@ -1,0 +1,6 @@
+CHECK THE NEWSPAPER
+200|Though based in McLean, Virginia, this top-selling daily serves the entire nation|USA Today
+400|In 1889 Dow Jones changed the name of its daily business newsletter to this|The Wall Street Journal
+600|This Detroit paper has a 2-word name, a guarantee of the First Amendment|the Free Press
+800|A San Diego paper is the Union-this; Chicago has the (just) this|the Tribune
+1000|In April 2009 this daily from the First Church of Christ, Scientist replaced its daily print edition with its website|The Christian Science Monitor

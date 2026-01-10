@@ -1,0 +1,6 @@
+STATE FLAGS
+200|As a reminder of its fur-trapping days, Oregon shows this animal on the reverse of its flag|the beaver
+400|Appropriately, this "Evergreen State" is the only state whose flag is green|Washington
+600|The diamond figure on this state's flag represents the diamonds found there|Arkansas
+800|This state's flag features the sun symbol of the Zia Indians on a yellow background|New Mexico
+1000|An anchor & the word "hope" surrounded by 13 gold stars appear on this state's flag|Rhode Island

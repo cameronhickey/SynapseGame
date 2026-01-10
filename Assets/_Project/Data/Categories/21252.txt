@@ -1,0 +1,6 @@
+INTERJECTIONS
+200|A 2-letter interjection of mild surprise, or what a tongue-depressor-wielding doctor tells you to say|ah
+400|Address to a "little baby", this 4-letter interjection means "Quiet!\"|hush
+600|Often used mockingly, it's 2 rhyming words synonymous with turning on the tears|boo hoo
+800|From French, it means "There it is!\"|voilà
+1000|It's how the Oxford English Dictionary spells the 4-letter representation of the sound of a kiss|M-W-A-H

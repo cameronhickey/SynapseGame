@@ -1,0 +1,6 @@
+DISNEY DWARF ALTERNATE NAMES
+200|Cantankerous|Grumpy
+400|Chipper|Happy
+600|Reticent|Bashful
+800|Sawbones|Doc
+1000|Languid|Sleepy

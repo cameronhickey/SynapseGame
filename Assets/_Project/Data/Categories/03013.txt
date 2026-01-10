@@ -1,0 +1,6 @@
+FROM A TO Y
+200|Morning meeting of all the students|assembly
+400|In England, it's a barrister or solicitor; in the U.S., it's this|an attorney
+600|One of the Commandments says not to commit it|adultery
+800|Go with a person or play with a singer|accompany
+1000|Field work in this field involves digging up the field looking for remains of past cultures|anthropology (or archaeology)

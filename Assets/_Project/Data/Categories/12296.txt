@@ -1,0 +1,6 @@
+PLANES, TRAINS OR AUTOMOBILES
+200|Gown parts|trains
+400|Encarta says in 1900 NYC, Chicago & Boston, 1,170 of these were powered by steam, 800 by electricity & 400 by gas|automobiles
+600|Smoothers|planes
+800|Charles & Frank Duryea are credited with producing the first of these for consumer sale in the U.S.|automobiles
+1000|In France they have some called Grande Vitesse; in Japan, they have Shinkansen|trains

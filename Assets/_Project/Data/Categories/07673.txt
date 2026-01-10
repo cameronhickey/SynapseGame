@@ -1,0 +1,6 @@
+\"B-L-T\"
+200|Ernest Hemingway's "Death in the Afternoon" is a treatise on this Spanish spectacle|a bullfight
+400|It's the cry of a sheep or goat|bleat
+600|A decorative cylindrical pillow for a sofa or bed, or to improve something, like morale|bolster
+800|This breed of dog originated in England in the 1800s|a bull terrier
+1000|Delivered by an inhaler, albuterol is a quick-acting one of these 14-letter medications that open the airways|a bronchodilator

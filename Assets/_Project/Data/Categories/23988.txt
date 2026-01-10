@@ -1,0 +1,6 @@
+SEND A LETTER
+200|The apostolic letters or books of the New Testament|epistles
+400|From the Latin for "ask", it's a letter to a publisher to see if they might be interested in a work you're submitting|a query letter
+600|At the Stanford academic advising website, advice to students on getting these letters: take intro seminars to cozy up to a prof|(letters of) recommendations
+800|Big in the 1930s, the "Good Luck of Flanders" one of these mentioned bad luck too, if you didn't pass it on|a chain letter
+1000|A letter of marque was a government grant to a private individual to engage in naval operations otherwise considered this|piracy

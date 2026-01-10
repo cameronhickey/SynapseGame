@@ -1,0 +1,6 @@
+\"PORTER\"
+200|It's how Mr. Spock & Captain Kirk get from the ship to a planet's surface|a transporter
+400|Fourth estate occupation of folks like Seymour Hersh|a reporter
+600|Want a real Omaha steak in Omaha? Try the 23-ounce one of these at Cascio's, founded in 1946|a porterhouse
+800|Walmart isn't just the USA's largest retailer, but also the largest of these companies that bring goods into a country|importer
+1000|He was the songwriter behind classics like "Night & Day" & "Love For Sale\"|Cole Porter

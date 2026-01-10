@@ -1,0 +1,6 @@
+BIBLICAL NON-PROPHET
+200|Hosea, Haggai, Hannah|Hannah
+400|Nahum, Samson, Ezekiel|Samson
+600|Jeremiah, Belshazzar, Malachi|Belshazzar
+800|Obadiah, Jonah, Bildad|Bildad
+1000|Uriah, Elijah, Zechariah|Uriah

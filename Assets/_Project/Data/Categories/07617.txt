@@ -1,0 +1,6 @@
+SYNONYMBLE
+200|Alice in Wonderland could tell you that a looking-glass is a synonym for one of these|mirror
+400|2 of the 3 animals for which pachyderm is a synonym|elephant, hippopotamus, rhinoceros
+600|This synonym for the Netherlands technically refers to only part of the country|Holland
+800|As a verb, this Aboriginal weapon is a synonym for backfire|boomerang
+1000|If someone asks you for another term for one of these books made famous by Roget, tell him, "synonym finder\"|thesaurus

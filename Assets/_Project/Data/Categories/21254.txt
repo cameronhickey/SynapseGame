@@ -1,0 +1,6 @@
+CHECK ONE TWO
+200|Proverbially, "a bird in the hand is worth 2 in" here|the bush
+400|This sign of the Zodiac is represented by 2 guys & generally covers May 21 to June 21|Gemini
+600|This animal of fable is also called a monoceros|a unicorn
+800|A historical poem states, "One if by" this first item, "and two if by" this second item, "and I on the opposite shore will be\"|land and sea
+1000|The second law of this states that heat naturally flows from a higher to a lower temperature|thermodynamics

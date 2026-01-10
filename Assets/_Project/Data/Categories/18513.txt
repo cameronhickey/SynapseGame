@@ -1,0 +1,6 @@
+SHAKESPEARE SETS THE PLAY
+200|Denmark|Hamlet
+400|Scotland & (in 4.3) England|Macbeth
+600|An island, population until recently: 1|The Tempest
+800|Troy & the Greek camp before it|Troilus and Cressida
+1000|Venice & Cyprus (a tragedy)|Othello

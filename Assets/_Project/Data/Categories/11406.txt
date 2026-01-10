@@ -1,0 +1,6 @@
+SPOT THE MISSPELED WORD
+200|For those who watch the calendar too closely, Febuary comes much too quickly|Febuary (February)
+400|Connecting electricle outlets surprises many with its complexity|electricle (electrical)
+600|Good accounting secretaries need a healthy knowledge of mathmatics|mathmatics (mathematics)
+800|The average survivor is usually the one who hangs out in the backround|backround (background)
+1000|When in the field studying constelations, always bring the astronomical encyclopedia|constelations (constellations)

@@ -1,0 +1,6 @@
+DINO
+200|The name of dinosaurs known as ornithopods tells us they had feet shaped like those of these creatures|birds
+400|Archaeological evidence suggests this 3-horned dinosaur may have been the last to survive before extinction|Triceratops
+600|NBA fans in this city cheer on a team represented by a speedy dinosaur of the late Cretaceous period|Toronto
+800|The 90-foot Diplodocus weighed 10 tons, 1/8 as much as some shorter dinos, because its bones were this|hollow
+1000|\"Sue", the skeleton of this creature, is an attraction at Chicago's Field Museum|Tyrannosaurus rex

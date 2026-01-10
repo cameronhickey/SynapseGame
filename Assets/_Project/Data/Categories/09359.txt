@@ -1,0 +1,6 @@
+HEALTH CARE
+200|Often $10, it's what patients in HMOs shell out with every visit to the doctor|a copay
+400|California workers' comp includes up to 24 visits to this professional for spinal adjustment|a chiropractor
+600|In 2004 this person who once tried to fix the system wrote an article called "Now can we talk about health care?\"|Hillary Clinton
+800|43 million people is the figure you usually hear bandied about|Number of uninsured Americans (Americans who don't have health insurance)
+1000|A 2001 government report warned of a shortage of these people, of whom 40% will soon be over age 50|Nurses

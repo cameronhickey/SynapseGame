@@ -1,0 +1,6 @@
+WORLD CAPITAL AIRPORTS
+200|Narita Airport|Tokyo
+400|Jomo Kenyatta International|Nairobi
+600|Toussaint Louverture|Port-au-Prince
+800|Schiphol|Amsterdam
+1000|Carthage International Airport|Tunis

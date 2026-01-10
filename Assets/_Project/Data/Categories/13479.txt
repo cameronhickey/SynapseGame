@@ -1,0 +1,6 @@
+GET SOME HELP
+200|Waylon Smithers tends to the every need of this zillionaire on "The Simpsons\"|Montgomery Burns
+400|\"You rang?" was one of the few utterances by the manservant named Lurch on this wacky show|The Addams Family
+600|Alfred Pennyworth is this superhero's butler & confidante|Batman
+800|Go ask Alice if you want to know that Ann B. Davis played the housekeeper Alice on this family sitcom|The Brady Bunch
+1000|Not only did she play the nanny on "The Nanny", she created the show as well|Fran Drescher

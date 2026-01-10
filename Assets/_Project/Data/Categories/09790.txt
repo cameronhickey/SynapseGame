@@ -1,0 +1,6 @@
+FOOD BRANDS
+200|When it's this brand of frozen potatoes, "it's all-righta\"|Ore-Ida
+400|Kraft introduced this brand of processed cheese way back in 1928|Velveeta
+600|Appropriately, these Nabisco cookies are in the shape of a peanut|Nutter Butters
+800|Pastry maker Pietro Ferrero created this, "The original hazelnut spread\"|Nutella
+1000|This brand of Mexican food got its start in 1918 as the Mountain Pass Canning Co. of New Mexico|Old El Paso

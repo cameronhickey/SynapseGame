@@ -1,0 +1,6 @@
+OVERLAPS
+200|Golden ice cream topping that's sticky on one side|butterscotch tape
+400|Disney movie about a troublesome feline rock-throwing device|That Darn Catapult
+600|Product that will come back in its next life as a can of evaporated moo juice|reincarnation milk
+800|Solzhenitsyn novel about a '60s disco entertainer in a cage|Gulag Archipelago-Go
+1000|Young Citizen Kane loved sliding down hills in the snow with this Costello partner|Rosebud Abbott

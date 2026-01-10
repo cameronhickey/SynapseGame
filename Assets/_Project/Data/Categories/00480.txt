@@ -1,0 +1,6 @@
+STARTS WITH "V\"
+200|All the words you know|your vocabulary
+400|The lobby|the vestibule
+600|Smallest of the camel family, the Incas protected them|vicuna
+800|Chico Marx's reply to this was "Vy not a chicken?\"|\"Viaduct?\"
+1000|A short subtitle, literary description or story|a vignette

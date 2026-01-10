@@ -1,0 +1,6 @@
+\"BODY" LANGUAGE
+200|A person employed to protect an individual from physical harm|a bodyguard
+400|A person who pries into the affairs of others|a busybody
+600|In hockey, you "throw" this to obstruct a foe's movement (harshly)|a body check
+800|Job of one whose body subs for a lead actor in a nude scene; I was Brad Pitt's... OK, who laughed?!|a body double
+1000|A protective protein aka immunoglobulin|an antibody

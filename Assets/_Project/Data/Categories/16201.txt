@@ -1,0 +1,6 @@
+2 PEOPLE, SAME POSITION
+200|Basketball's Steve Nash, football's Larry Little|guard
+400|Hockey's Bobby Hull, basketball's Dennis Rodman|forward
+600|Hockey's Patrick Roy, Soccer's Hope Solo|goalie
+800|Baseball's Mariano Rivera, TV's Kyra Sedgwick (by the show's title)|closer
+1000|Baseball's Ozzie Guillen, Dunder Mifflin boss Andy Bernard on "The Office\"|manager

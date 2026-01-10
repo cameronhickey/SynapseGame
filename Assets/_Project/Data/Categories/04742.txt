@@ -1,0 +1,6 @@
+A WORLD OF BEER
+200|Foster's|Australia
+400|Moosehead|Canada
+600|Foster's|Australia
+800|Harp|Ireland
+1000|Labatt|Canada

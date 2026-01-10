@@ -1,0 +1,6 @@
+STUDY GROUPS
+200|Pulmonologists—this organ|the lungs
+400|Hippologists—these animals|horses
+600|Areologists—this planet|Mars
+800|Thanatologists—this bummer of a subject|death
+1000|Pteridologists study these plants such as bracken that reproduce using spores|ferns

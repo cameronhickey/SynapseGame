@@ -1,0 +1,6 @@
+HORNS YOU CAN'T PLAY
+200|This shaped piece of metal or wood can help you get into your patent leathers|a shoehorn
+400|If you round Cape Horn, you've gone around the tip of this continent|South America
+600|It's the most frequently caught fish in the Bighorn River|a trout
+800|This fastest land mammal in the W. hemisphere is sometimes called an antelope, but they're not closely related|a pronghorn
+1000|Old-time slang term meaning to cheat or swindle|to hornswoggle

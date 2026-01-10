@@ -1,0 +1,6 @@
+A NUMBER IN THE TEENS
+200|Traditional number of attendees at the Last Supper|13
+400|Number of lines in a standard sonnet|14
+600|Andy Warhol said we'd all be famous in the future for this many minutes|15
+800|The term "hexadecimal" refers to quantities of this number|16
+1000|This number amendment to the U.S. Constitution gave women the right to vote|19

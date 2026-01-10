@@ -1,0 +1,6 @@
+FACES
+200|His face is on the $10 bill|Alexander Hamilton
+400|Stand in front of the band, or accept your punishment "like a man\"|face the music
+600|Once a Miss America herself, this former Fox News anchor is now the head of the Miss America pageant|(Gretchen) Carlson
+800|This Chicago businessman looks like he might be taking in a ballgame|(William) Wrigley
+1000|This former South Carolina governor has represented the United States in the United Nations|(Nikki) Haley

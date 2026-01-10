@@ -1,0 +1,6 @@
+PUT SOMETHING ON
+200|Pants with a tight, low waistline are called "huggers" of this body part|Hip
+400|Women's shorts cut to resemble a skirt, or the breeches that French revolutionaries were "sans\"|Culottes
+600|(Hi, I'm Marvin Hamlisch, here at the Hollywood Bowl.) In 1974 I won 3 Oscars including one for adapting this composer's ragtime music for "The Sting\"|Scott Joplin
+800|Put on Lee Ann Womack's smash country hit "I Hope You" do this, & we sure will|Dance
+1000|Put on one of the records sax man Lester Young, known as "Prez", made with this singer, "Lady Day\"|Billie Holiday

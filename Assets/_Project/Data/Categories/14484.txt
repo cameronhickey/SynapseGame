@@ -1,0 +1,6 @@
+THE CITY'S MAYOR
+200|Richard Daley (1955 to 1976)|Chicago
+400|Marion Barry (1978 to 1990)|Washington, D.C.
+600|Tom Bradley (1973 to 1993)|Los Angeles
+800|Ed Koch (1978 to 1989)|New York City
+1000|Jerry Springer (1977 to 1981); yes, that Jerry Springer|Cincinnati

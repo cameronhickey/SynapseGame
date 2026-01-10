@@ -1,0 +1,6 @@
+CNN 25: INTERNATIONAL NEWS
+200|In 1989, one lone protestor halted a column of tanks as it advanced on this square|Tiananmen Square
+400|(Hi, I'm Anderson Cooper of CNN's 360.) In 2002 I reported from this capital that U.S. allies had liberated the previous November|Kabul
+600|In 1997, we said "hello" to this sheep as CNN reported on her cloning by Scottish scientists|Dolly
+800|Held hostage in Lebanon, this AP correspondant was finally freed in 1991, ending his 7-year ordeal|Terry Anderson
+1000|Tragically in 1995, more than 200 people died in the country then called this during an outbreak of the Ebola virus|Zaire

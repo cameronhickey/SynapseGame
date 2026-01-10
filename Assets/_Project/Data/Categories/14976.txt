@@ -1,0 +1,6 @@
+ACTORS AS PRESIDENTS
+200|Cliff Robertson in "PT 109\"|JFK
+400|Ralph Bellamy in "Sunrise at Campobello \"|FDR
+600|2 presidents: Stephen Dillane & David Morse in HBO's "John Adams\"|Washington and Jefferson
+800|Kevin Kline in "Wild Wild West\"|Grant
+1000|Donald Moffat in "The Right Stuff\"|LBJ

@@ -1,0 +1,6 @@
+CAR TROUBLE
+200|His stainless steel gull wing-doored cars were sharp, but his business tactics were not|John DeLorean
+400|With high hopes, in 1985 Malcolm Bricklin began importing these boxy, cheap cars from central Europe to the U.S.|Yugos
+600|Production of this Chevrolet ran for 10 years before Ralph Nader helped instigate its demise|Corvair
+800|From 1978 to 1985 Olds came with these engines that produced mad consumers & too much smog for California|Diesel engines
+1000|This luxury car maker's 1982 Cimarron, a 4-cylinder small car, just didn't sell|Cadillac

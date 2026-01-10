@@ -1,0 +1,6 @@
+CANADA, "A"?
+200|One of the provinces, eh|Alberta
+400|\"Green Gables" girl of Prince Edward Island|Anne
+600|Once part of Alcoa, this Canadian company with a 5-letter name is a giant in world aluminum manufacturing|Alcan
+800|Quebec's Shickshock Mountains are part of this system that runs to Alabama|the Appalachians
+1000|Centered in Nova Scotia, it was the name applied by France to its Atlantic coastal possessions in North America|Acadia

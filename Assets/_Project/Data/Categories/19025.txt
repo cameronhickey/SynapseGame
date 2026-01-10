@@ -1,0 +1,6 @@
+POST GAME
+200|A long look, or the male bird you're taking a long look at|a gander
+400|4-letter word for your clothes|gear (or garb)
+600|A mature reproductive cell|a gamete
+800|This board helps you get from ship to shore|a gangplank
+1000|You're often asked to "mind" this between subway train & platform|the gap

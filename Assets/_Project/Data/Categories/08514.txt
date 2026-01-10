@@ -1,0 +1,6 @@
+PLAY RIGHT
+200|You've got 3 options in this classic playground hand game that's also known as Roshambo|Rock, Paper, Scissors
+400|You don't have to be Hulk Hogan or The Undertaker to play this hand game that uses your thumbs|thumb wrestling
+600|In this toy game, the goal is to knock away blocks of plastic ice without letting the plastic man fall|Don't Break the Ice
+800|The feline name of this game using string may come from an alteration of the French words for Jesus' manger|Cat's Cradle
+1000|(Jimmy & Sofia of the Clue Crew present while playing a game.) The block game Jenga got its name from a word meaning "to build" in this African language|Swahili

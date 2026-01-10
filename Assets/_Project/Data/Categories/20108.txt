@@ -1,0 +1,6 @@
+BEATLES SONG TITLE REVERSALS
+200|\"Tomorrow\"|\"Yesterday\"
+400|\"The Short And Straight Boulevard\"|\"The Long And Winding Road\"
+600|\"Straighten And Whisper\"|\"Twist And Shout\"
+800|\"Go Separately\"|\"Come Together\"
+1000|\"You'll Shun The Moon\"|\"I'll Follow The Sun\"

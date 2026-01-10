@@ -1,0 +1,6 @@
+ALGEBRA
+200|The coefficient of the term n is understood to be this number|1
+400|The commutative property of addition tells us that x plus y is equal to this|y plus x
+600|In the expression 8x + 7y, these are the coefficients of the expression|8 & 7
+800|In an ordered pair, the first value is the abscissa, the second value is called this|the ordinate
+1000|These 2 basic operations have the commutative property where the order of combination doesn't matter|addition & multiplication

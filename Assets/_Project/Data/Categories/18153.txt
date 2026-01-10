@@ -1,0 +1,6 @@
+OF SPECIES
+200|In just one word, it's the animal known scientifically as Bison bison|buffalo
+400|What's that at the door? It's this animal, Canis lupus|wolf
+600|Cygnus atratus is this creature, also the title of a dance movie|a black swan
+800|Balaenoptera bonaerensis of the Antarctic is this creature|whale
+1000|As it rarely feeds on water creatures, Martes pennanti or penance martin makes more sense than this name|fisher cat

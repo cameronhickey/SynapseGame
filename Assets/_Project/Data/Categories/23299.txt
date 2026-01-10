@@ -1,0 +1,6 @@
+ALPHABETICALLY NEXT GEOGRAPHY
+200|Great Lakes: Huron, Michigan...|Ontario
+400|California counties: San Benito, San Bernardino...|San Diego
+600|South American nations: Bolivia, Brazil...|Chile
+800|State capitals: Harrisburg, Hartford...|Helena
+1000|Former Soviet republics: Turkmenistan, Ukraine...|Uzbekistan

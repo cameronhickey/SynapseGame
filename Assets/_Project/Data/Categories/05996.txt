@@ -1,0 +1,6 @@
+WHERE'S THE COLLEGE?
+200|University of Washington|Seattle
+400|Kansas State University|Manhattan
+600|Johns Hopkins University|Baltimore
+800|University of South Carolina|Columbia
+1000|University of Miami|Coral Gables

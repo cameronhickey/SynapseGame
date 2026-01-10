@@ -1,0 +1,6 @@
+GAMBLING
+200|Theoretically, you can beat this game by card counting|blackjack (21)
+400|Card game in which the desired total value is 9|baccarat
+600|(Cheryl & Sarah play poker; Cheryl reads the clue.) When I'm playing Texas Hold 'Em in this type of tournament & I like my cards, I move all my chips in|no-limit poker
+800|(Cheryl plays a new game.) The deck in this game, which originated with Asian immigrants, has a 53rd card: a joker, which can be used as a wild card|pai gow
+1000|With this type of slot machine the jackpot keeps growing, so always use the maximum number of coins or you'll miss out|progressive

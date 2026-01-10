@@ -1,0 +1,6 @@
+OFFICES
+200|The place to buy your play ticket or the total receipts for a play|the box office
+400|His office at the Cosmonaut Training Center has been left exactly as it was the day he died, March 27, 1968|Yuri Gagarin
+600|In 1934 it issued a production code stating what could & could not be shown in movies|the Hays Office
+800|It's the British equivalent of our State Department|the Foreign Office
+1000|\"Wild Bill" Donovan was the director of this CIA precursor abbreviated OSS|the Office of Strategic Services

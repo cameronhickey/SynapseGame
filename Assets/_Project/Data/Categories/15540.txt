@@ -1,0 +1,6 @@
+ALSO A GAME
+200|Slang for a tornado|a twister
+400|A war vessel such as the Potemkin or the Graf Spee|a battleship
+600|The Moor of Venice|Othello
+800|Part of the skull where the brain is|cranium
+1000|A command indicating how an HTML file is to be formatted|tag

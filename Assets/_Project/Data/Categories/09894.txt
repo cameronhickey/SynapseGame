@@ -1,0 +1,6 @@
+HOP, SKIP OR JUMP
+200|The "ball" that starts a basketball game|jump
+400|To not attend an event on purpose|skip
+600|To start your friend's dead car|jump
+800|Flowers from this vine are used to make beer|hops
+1000|The captain of a curling team|the skip

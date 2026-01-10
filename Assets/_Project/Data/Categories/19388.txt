@@ -1,0 +1,6 @@
+HAZARDOUS
+200|The salmonella & E. coli types of these organisms may be culprits in food poisoning|bacteria
+400|About 30 people are killed each year in the U.S. by these sudden electrostatic discharges|lightning
+600|Drag racing is a sport with rules & safety regs; illegal racing on public roads is usually called this type of racing|street racing
+800|A danger to scuba divers, it results from a too-rapid transition from a high-pressure environment to a lower one|the bends
+1000|Under physical hazards to avoid in the workplace, OSHA lists the "ionizing" & "non-ionizing" types of this|electromagnetic radiation

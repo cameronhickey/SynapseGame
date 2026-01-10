@@ -1,0 +1,6 @@
+WE NEED "ACTION\"
+200|Hasbro's G.I. Joe is one of these|action figure
+400|Litigation brought by multiple plaintiffs sharing the same legal problem|class action
+600|If you're a PAC man in Washington, D.C. you belong to one of these interest groups|political action committee
+800|It's where Superman made his debut in 1938|Action Comics
+1000|A small-scale military operation undertaken without a declaration of war; Korea, for example|police action

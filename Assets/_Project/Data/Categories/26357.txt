@@ -1,0 +1,6 @@
+TAKING A FLIGHT
+200|Aloha & youkoso! This U.S. airline flies to 4 different Japanese airports|Hawaiian Air
+400|This airline has announced 4 new weekly flights from its Atlanta hub to Naples, Italy, or you can go intra-state to Valdosta|Delta
+600|Going E-W between these 2 major cities, American Airlines 1 has had that flight No. for decades, even after it crashed in 1962|New York & L.A.
+800|The founder of JetBlue also founded an airline whose name is this Spanish & Portuguese word for "blue", & it's taking me to Rio|Azul
+1000|No passport needed as I'm flying out of a domestic airport—this Utah one, code OGD, headed for Santa Ana, California|Ogden

@@ -1,0 +1,6 @@
+\"OFF" CAMPUS
+200|Not connected to the Internet|offline
+400|An outrage to one's sensibilities or half the players on a football field|offense
+600|Non-tailored clothing bought as is|off the rack
+800|A colonel or a major, but not a sergeant|an officer
+1000|An unaccented unit in music, or an adjective meaning "unusual\"|offbeat

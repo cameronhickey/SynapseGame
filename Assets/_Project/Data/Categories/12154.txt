@@ -1,0 +1,6 @@
+SPHERES
+200|This Las Vegas hotel & casino has 3 thrill rides on its 1,149-foot tower|the Stratosphere
+400|The lateral halves of the cerebrum are called these|hemispheres
+600|Sphere used on a diamond; also slang for an easy question|a softball
+800|The name of this layer of the Sun comes partly from the Greek for "light\"|the photosphere
+1000|(Jimmy of the Clue Crew reports from the National Geographic Society's Explorers Hall.) The National Geographic Society has a replica of this device that William Beebe invented & in which he descended to a record 3,028 feet off Bermuda in 1934|a bathysphere

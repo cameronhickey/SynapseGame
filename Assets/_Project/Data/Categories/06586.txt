@@ -1,0 +1,6 @@
+ANIMAL, VEGETABLE OR MINERAL
+200|Red sorrel|vegetable
+400|Feldspar|mineral
+600|Smelt|animal
+800|Springhaas|animal
+1000|Chert|mineral

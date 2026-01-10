@@ -1,0 +1,6 @@
+ODD WEIGHTS & MEASURES
+200|An explosion rated a megaton is equal to this many tons of TNT|a million
+400|A unit of cloth measure equal to 2 1/4 inches, or a carpenter's item whose size is measured in pennies|a nail
+600|Said one way, it's a French-Polish pianist; said another way, it's a Scottish measure equal to 1 quart|a chopin
+800|In Spain a braza was equal to the reach of these outstretched|arms
+1000|A Judith Krantz title which also could be units of apothecary weight, equal to 20 grains each|scruples

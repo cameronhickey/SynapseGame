@@ -1,0 +1,6 @@
+ABBREVIATED ABC
+200|In names of U.S. TV networks, ABC stands for this company|the American Broadcasting Company
+400|ABC is not only the American Broadcasting Company but also this Commonwealth one|the Australian Broadcasting Company
+600|In 1895 the ABC or "American" this sport "Congress" was organized in NYC & helped standardize the game's rules|bowling
+800|Used as shorthand when administering CPR, ABC is "airway", this function & "circulation\"|breathing
+1000|If you're a salesman, ABC refers to this hard-sell strategy|Always be closing

@@ -1,0 +1,6 @@
+GORILLAS
+200|A group of gorillas living together is called this, just like in Boy Scouts|a troop
+400|Koko.org is a conservation website named for a famous gorilla who communicates with humans using this language|American Sign Language
+600|Gorillas are mammals that belong to this scientific order that includes lemurs & marmosets|primates
+800|Captured in 1966, Snowflake was the only gorilla ever discovered of this type; his skin was unable to produce pigment|albino
+1000|Actually done with cupped hands, this often-imitated male gorilla action is part of a 9-step series that begins with hooting|chest-beating

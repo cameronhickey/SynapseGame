@@ -1,0 +1,6 @@
+FILMOGRAPHIES
+200|\"Love Affair", "Heaven Can Wait", "Dick Tracy\"|Warren Beatty
+400|\"Love Affair", "Casablanca", "Sabrina\"|Humphrey Bogart
+600|\"Love Affair", "All This And Heaven Too", "Algiers\"|Charles Boyer
+800|\"An Affair To Remember", "I'm No Angel", "Charade\"|Cary Grant
+1000|\"Sleepless In Seattle", "A League of Their Own", "Exit to Eden\"|Rosie O'Donnell

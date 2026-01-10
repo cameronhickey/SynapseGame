@@ -1,0 +1,6 @@
+OCEAN CREATURES
+200|It's estimated a shark will use over 20,000 of these in a lifetime|teeth
+400|The scallop considers this 5-armed creature its worst enemy|a starfish
+600|Divers shouldn't stick their hands into a hole in a coral reef; it may hold a 10'-long one of these snakelike fish|a moray eel
+800|Types of these adhering crustaceans include the goose & the rock|a barnacle
+1000|Their association with sharks, attaching to them & feeding with them, is called phoresy|a remora

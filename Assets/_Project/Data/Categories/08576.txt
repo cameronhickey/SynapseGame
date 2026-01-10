@@ -1,0 +1,6 @@
+OCEANOGRAPHY
+200|Like their teeny-tiny ice cube cousins, these "Titanic" frozen masses are made of fresh water|icebergs
+400|This 6-foot unit is used mainly in terms of marine depth, & gave its name to a "meter" that measures depth|fathom
+600|Most tsunamis occur in this ocean|the Pacific
+800|The part of the ocean from about 300 to 3,000' feet down is called the thermocline, since this happens as you go deeper|it gets colder
+1000|Term for the gently sloping sea floor at edge of most land masses|the continental shelf

@@ -1,0 +1,6 @@
+COSMETOLOGY
+200|A material used on skis, or a material that removes excess eyebrow|wax
+400|The "hot" type of this toothed object is a traditional tool for straightening hair|comb
+600|On the web page to register cosmetologists in Mass., nail salon sanitary guidelines are only in this language|Vietnamese
+800|The last name of make-up maven Bobbi, or the color on which she built a cosmetics empire|Brown
+1000|Dermabrasion is done by a doctor, this cosmetology procedure, 3 letters longer, removes only the surface skin layer|epidermabrasion

@@ -1,0 +1,6 @@
+WHAT IS IT YOU DO?
+200|Thespian|an actor
+400|Lexicographer|a dictionary writer
+600|Philatelist|a stamp collector
+800|Ichthyologist|a scientist who studies fish
+1000|Terpsichorean|someone who dances

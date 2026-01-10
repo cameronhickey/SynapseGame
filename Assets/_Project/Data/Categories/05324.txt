@@ -1,0 +1,6 @@
+EDIBLE RESPONSES
+200|Nationality of author Hans Christian Andersen|Danish
+400|Dr. Scholl has a "Cushlin Gel" pad to relieve you from the pain of one of these|Corn
+600|Actor most associated with the 6 Degrees of Separation game|Kevin Bacon
+800|Dolores O'Riordan became the lead singer of this band via a referral from the old lead singer|The Cranberries
+1000|Among politicians, it means to speak or write equivocally on an important issue|Waffle

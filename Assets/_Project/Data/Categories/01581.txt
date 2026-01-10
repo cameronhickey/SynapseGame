@@ -1,0 +1,6 @@
+ANIMAL HOUSE
+200|Eagles & ferrets are enemies of these "canine" rodents of the Great Plains|prairie dogs
+400|Named for an island, this gigantic Indonesian lizard occasionally dines on wild pigs & small deer|the komodo dragon
+600|Kit, reynard, vixen, skulk|fox
+800|Cygnet, cob, pen, whiteness|swans
+1000|Eyas, tiercel, hen, cast|hawk

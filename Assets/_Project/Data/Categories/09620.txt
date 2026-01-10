@@ -1,0 +1,6 @@
+ARMY, NAVY OR MARINES
+200|Chester Nimitz|the Navy
+400|World War I flying ace Frank Luke|the Army
+600|John Glenn|the Marines
+800|Roger Staubach|the Navy
+1000|Comedian Drew Carey|the Marines

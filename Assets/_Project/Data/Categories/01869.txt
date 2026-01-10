@@ -1,0 +1,6 @@
+LABOR TERMS
+200|Clothing part whose color distinguishes manual laborers from management|a white collar (a blue collar)
+400|A walkout is a strike in which the workers leave the factory & this is a strike in which they stay inside|a sit-down
+600|It's the extra money you get when your employment is terminated|severance pay
+800|In Marxist theory, this working class does not possess capital or means of production|the proletariat
+1000|The Labor- Management Relations Act, better known as this, was passed in 1947 over Truman's veto|Taft-Hartley

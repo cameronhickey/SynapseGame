@@ -1,0 +1,6 @@
+WORDS WITH ALL 5 VOWELS
+200|The science of flight|aeronautics
+400|Arizona's Petrified Forest is mostly this type of tree that has 4 vowels in a row|a sequoia
+600|Shirley Hufstedler served under Jimmy Carter as the first Secretary of this department|Education
+800|This word comes from the French for "self-movable\"|automobile
+1000|FEMA says to keep a full tank of gas in your car if this order seems likely|evacuation

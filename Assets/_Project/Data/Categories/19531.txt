@@ -1,0 +1,6 @@
+SAILING JOBS
+200|When a command went out for "all hands", it was for these "hands", the regular seamen on board|deck hands
+400|The officer ranking just below the captain, like Gilligan on TV|the first mate
+600|If you had done this type of useful "service", it was doing clerical work on the ship|yeoman service
+800|The commander of a merchant vessel was known as this, like a skilled kung fu teacher|a master
+1000|General term for any noncommissioned officer aboard ship, chief|a petty officer

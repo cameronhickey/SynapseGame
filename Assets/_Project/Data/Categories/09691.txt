@@ -1,0 +1,6 @@
+ALSO A PLANET
+200|Soil|Earth
+400|Founded in 1938, it was a Ford Motor Company brand name of semi-luxury models|Mercury
+600|A line of ladies' razors|Venus
+800|In 2000 Sports Illustrated for Women named her Sportswoman of the Year|Venus Williams
+1000|Defaces|Mars

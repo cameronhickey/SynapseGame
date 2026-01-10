@@ -1,0 +1,6 @@
+\"N", THE CITY
+200|It's the capital of the Campania region|Napoli (Naples)
+400|The New Jersey Devils play their home games in this city|Newark
+600|Looks awfully pleasant to visit this city on the Baie des Anges|Nice
+800|The southern edge of this East African capital has a small national park known as the "Kifaru Ark", kifaru meaning rhino in Swahili|Nairobi
+1000|The Hu-Ning Highway connects this port on the Yangtze River with Shanghai|Nanjing

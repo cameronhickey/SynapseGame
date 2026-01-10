@@ -1,0 +1,6 @@
+TRUE & FALSE
+200|You have 7 true pairs of these & 5 false pairs (2 of which are floating)|ribs
+400|The true morel variety of these is okay to eat; the false morels are poisonous|mushrooms
+600|In digital logic circuits, 1 is true & this number is false|0
+800|\"True and False: Heresy and Common Sense for the Actor" is by this "Speed-the-Plow" playwright|David Mamet
+1000|Folk song writer who gave us "False from True" & "Turn, Turn, Turn\"|Pete Seeger

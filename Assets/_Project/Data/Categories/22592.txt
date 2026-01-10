@@ -1,0 +1,6 @@
+YOUR HEART'S CONTENT
+200|Your heart has these upper chambers, Latin for "central room\"|atria
+400|Your heart has these lower chambers, from the Latin for "belly\"|ventricles
+600|The dividing wall between your heart's left & right sides is called this, also the term for the dividing wall in your nose|the septum
+800|To keep blood flowing in the right direction, your heart has 4 of these, including the mitral|valves
+1000|Your heart has a natural this, the sinoatrial node, which emits electrical impulses that cause it to contract|a pacemaker

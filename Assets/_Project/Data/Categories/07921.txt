@@ -1,0 +1,6 @@
+THE SCIENCE SECTION
+200|The X-Men know it's a change in a DNA molecule of a cell that's passed on to an offspring cell|mutation
+400|(Sarah of the Clue Crew) This type of electricity can build up on an insulated object like a balloon|static electricity
+600|First described by an English physician in 1817, this disease is marked by tremors of the hands|Parkinson's disease
+800|Spanning about 35 degrees in the southern sky, the Gum Nebula is a large remnant of one of these explosions|supernova
+1000|\"From the Big Bang to Black Holes" is the subtitle of this landmark book by physicist Stephen Hawking|\"A Brief History of Time\"

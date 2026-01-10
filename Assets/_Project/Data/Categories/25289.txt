@@ -1,0 +1,6 @@
+GEOGRAPHY TEST
+200|This river rises in Burgundy about 180 miles southeast of Paris & empties into the English Channel|the Seine
+400|Viangchan is an alternate spelling of its capital Vientiane|Laos
+600|It's the country highlighted here|Costa Rica
+800|This strait named for an explorer separates Tierra del Fuego from mainland South America|Strait of Magellan
+1000|Cuba is about 90 miles south of the U.S.; this 4,200-square-mile island is about 90 miles south of Cuba|Jamaica

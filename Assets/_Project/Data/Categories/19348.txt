@@ -1,0 +1,6 @@
+SCHOOL SUBJECTS IN GERMAN
+200|Französisch (the neighbors will be talking)|French
+400|Erdkunde (know der osten from der westen)|geography
+600|Kunst (for the next Paul Klee)|art
+800|Informatik (a thoroughly modern one)|computer
+1000|Kochen (break out the brats!)|cooking

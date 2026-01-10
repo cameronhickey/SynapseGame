@@ -1,0 +1,6 @@
+PORT OF CALL
+200|Yokohama in this country was a small fishing village of only 350 people when Commodore Perry first visited|Japan
+400|This largest city in Texas has a 52-mile shipping channel that links its port with the Gulf of Mexico|Houston
+600|This largest Maryland city & port saw the rockets' red glare during the War of 1812|Baltimore
+800|Port Said in this African country was established when work on the Suez Canal began|Egypt
+1000|This Australian port city was founded as a British penal colony in 1788|Sydney

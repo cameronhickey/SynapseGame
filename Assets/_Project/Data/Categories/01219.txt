@@ -1,0 +1,6 @@
+FOREIGN CURRENCY
+200|In this country 1 yuan is equal to 10 jiao|China
+400|Malta, Turkey & Italy use units called this|lira
+600|This Portuguese territory's unit of currency is called the pataca|Macau
+800|In Kiey, the capital of this country, you can use a unit of money called the hryvnia|Ukraine
+1000|The name of this Spanish unit of currency is a diminutive of peso|peseta

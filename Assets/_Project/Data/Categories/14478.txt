@@ -1,0 +1,6 @@
+HMM... PRONOUN TROUBLE
+200|It's the nominative singular pronoun|I
+400|In 1977 Carly Simon sang this pronoun "Does It Better\"|Nobody
+600|It's the objective case of they, used as a direct or indirect object|them
+800|A sovereign may use the "royal" this pronoun in formal speech; are you not amused?|we
+1000|Use the first 4 letters of a 1980s British prime minister's name to get this demonstrative pronoun|that

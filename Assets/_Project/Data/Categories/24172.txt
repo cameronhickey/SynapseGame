@@ -1,0 +1,6 @@
+COUNTRY MEN & WOMEN
+200|Astrid Lindgren & Alfred Nobel|Sweden
+400|Marie Kondo & Yu Darvish|Japan
+600|Shawn Mendes & Alice Munro|Canada
+800|Elon Musk & Miriam Makeba|South Africa
+1000|Dame Kiri Te Kanawa & Sir Ernest Rutherford|New Zealand

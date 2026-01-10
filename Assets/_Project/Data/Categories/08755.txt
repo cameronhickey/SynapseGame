@@ -1,0 +1,6 @@
+EPICS
+200|Dante wrote "The Divine Comedy" in this language, not Latin|Italian
+400|In Book 12 of this Virgil epic, the Latins & Trojans unite (whoops, spoiled the ending for you, sorry)|The Aeneid
+600|Near the beginning of this epic, Grendel the Man-Eater is upset over the revels at the New Hall|Beowulf
+800|She, not the dairy queen, is the title character of a 6-book-long epic poem by Edmund Spenser|The Faerie Queene
+1000|This epic hero is asked by Oliver to blow his olifant to signal Charlemagne to come to their aid|Roland

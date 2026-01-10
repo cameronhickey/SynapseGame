@@ -1,0 +1,6 @@
+A PREFIXER UPPER
+200|\"Demo-": Of this group, by this group, for this group|the people
+400|\"Cryo-": In this condition|frozen
+600|\"Sino-": Of this ethnicity|Chinese
+800|\"Dodeca-": Of this many parts|12
+1000|\"Calli-": Of this quality|beauty

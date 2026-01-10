@@ -1,0 +1,6 @@
+FICTION-ALE
+200|Pabst Blue Robot is Bender's favorite on this TV show|Futurama
+400|A blue ale is named for this warrior race related to Vulcans|the Romulans
+600|You'll find ent-draughts, served by an old stick, in this trilogy|The Lord of the Rings
+800|Harry Potter might get carded trying to drink a pint of this at The Three Broomsticks|butterbeer
+1000|This sitcom introduced Monkeyshine beer; Marcel was the mascot|Friends

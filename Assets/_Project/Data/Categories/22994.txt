@@ -1,0 +1,6 @@
+SAFE AT HOME
+200|The Sentry S6770 safe is U.L. classified to protect valuables for 1 hour during one of these|a fire
+400|redcross.org says hire a pro to make sure your home is securely anchored to its foundation for safety in one of these|earthquake (a tornado) (a hurricane)
+600|P.I.R. stands for passive these sensors, which detect an intruder's heat energy|infrared
+800|The safety siren PR04 series detector continuously monitors home air for this dangerous 5-letter gas|radon
+1000|Never mix bleach with cleansers containing this other strong-smelling stuff, NH3; together, they make toxic gas|ammonia

@@ -1,0 +1,6 @@
+GET "INN" HERE
+200|It describes the one who makes the "dough" to support dependents|the breadwinner
+400|You got a hole in one the first time you golfed? & that deflected in off a tree?! Talk about this 2-word phrase|beginner's luck
+600|Tuxedo's 2-word synonym, & not just at mealtime|a dinner jacket (or dinner coat)
+800|An apex or a very high peak, perhaps of one's career|a pinnacle
+1000|Bred from a male horse & a female donkey, it's smaller and has smaller ears than a mule|a hinny

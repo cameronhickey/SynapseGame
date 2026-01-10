@@ -1,0 +1,6 @@
+SPACE PEOPLE
+200|This first man to walk on the moon was shot down during Korean War service|Neil Armstrong
+400|Astronauts Conrad, Kerwin & Weitz made the first flight on this U.S. space station in 1973|Skylab
+600|She was married to astronaut Steven Hawley when she became the first U.S. woman in space in 1983|Sally Ride
+800|This first American in space was the only one of the original Mercury 7 astronauts to fly to the Moon|Alan Shepard
+1000|This Utah senator flew as a payload specialist & subject of a space sickness experiment|Jake Garn

@@ -1,0 +1,6 @@
+COUNTDOWN
+200|British Hanoverian kings: 4. George IV 3. George III 2. This king|George II
+400|The Presidents: 5. Monroe 4. Madison 3. This guy|Thomas Jefferson
+600|The periodic table: 4. Beryllium 3. Lithium 2. This element|helium
+800|\"The 12 Days Of Christmas" gifts: 7. Swans a-swimming 6. Geese a-laying 5. These|golden rings
+1000|The states: 49. Alaska 48. Arizona 47. This|New Mexico

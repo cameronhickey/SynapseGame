@@ -1,0 +1,6 @@
+WORLD CAPITALS BY AIRPORT
+200|Dulles|Washington, D.C.
+400|Orly|Paris
+600|Templehof|Berlin
+800|Jose Marti|Havana
+1000|Schiphol Airport|Amsterdam

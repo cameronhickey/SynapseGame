@@ -1,0 +1,6 @@
+FLY ME
+200|This automaker had tri-motor monoplanes going down his assembly line|Ford
+400|C.G. Taylor's partner, any good "cub" reporter knows him|Piper
+600|Actress Olivia knows this co.'s D.H.88 Comet, a monoplane racer, made its debut in 1934 & only 5 were ever made|de Havilland
+800|This Donald was known for his DC, not Duck, line of commercial planes|Douglas
+1000|His name rings true as the man whose company built copters & the X-1, the first aircraft to break the sound barrier|(Lawrence) Bell

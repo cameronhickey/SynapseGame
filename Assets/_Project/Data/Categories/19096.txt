@@ -1,0 +1,6 @@
+\"DE" MIDDLE
+200|To set in from the margin, as the first line of a paragraph|indent
+400|Free from great pretensions or showy extravagance|modest
+600|Adultery or unfaithfulness|infidelity
+800|Legal proof|evidence
+1000|Glowing or white with heat|incandescent

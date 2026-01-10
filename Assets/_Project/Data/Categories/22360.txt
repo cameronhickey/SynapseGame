@@ -1,0 +1,6 @@
+CURRENT BRITISH ROYALS
+200|The Duchess of Cambridge|Kate Middleton
+400|The Duchess of Sussex|Meghan Markle
+600|Prince & Great Steward of Scotland|Prince Charles
+800|Baron Carrickfergus, but not the underprince of Wales|Prince William
+1000|The Princess Royal|Princess Anne

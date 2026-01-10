@@ -1,0 +1,6 @@
+THE "CAT\"
+200|The wormlike larva of a moth|a caterpillar
+400|Henny Youngman began his career as a violinist playing the "Borscht Belt" in these N.Y. mountains|the Catskills
+600|An audition open to everyone; it may bring a stampede of actors|cattle call
+800|The southern part of what's now China was called Mangi; the northern part was called this|Cathay
+1000|For Kant, to act according to principles that you'd like to see become universal is this type of "imperative\"|a categorical imperative

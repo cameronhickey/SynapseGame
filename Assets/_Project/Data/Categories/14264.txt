@@ -1,0 +1,6 @@
+A WINE-WINE SITUATION
+200|White wine can come from a white grape or from a darker grape with this removed|its skin
+400|\"Sec" on a wine bottle means that what you're about to consume is this other 3-letter word|dry
+600|Originally referring to yeast, this sedimentary word can mean the least valuable part of anything|dregs
+800|As the name implies, chambre refers to wines served this way|room temperature
+1000|Also found in tea, this astringent should mellow as red wine matures|tannin

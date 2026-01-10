@@ -1,0 +1,6 @@
+A, B, C, D THEN F
+200|Queen Victoria married this man in an elaborate ceremony in 1840|Prince Albert
+400|The object of this dice game is to move all 15 stones from the triangles & take them off the board|backgammon
+600|A mountain range in the Northwestern United States, or some big waterfalls|the Cascades
+800|In Shakespeare's "Richard III" the title character opens the play by saying, "Now is the winter of our" this|discontent
+1000|A superficial appearance or the front of a building|the facade

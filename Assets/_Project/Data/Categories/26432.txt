@@ -1,0 +1,6 @@
+LANDLOCKED STATES BY CITIES
+200|Keokuk, Davenport|Iowa
+400|Beckley, Morgantown|West Virginia
+600|Rugby, Grand Forks|North Dakota
+800|Choctaw, Broken Arrow|Oklahoma
+1000|Jacksonville, Texarkana|Arkansas

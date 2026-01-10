@@ -1,0 +1,6 @@
+FARMING
+200|This verb means to spray crops with an insecticide, usually from a plane|crop dusting
+400|The harvest moon is the full moon closest to this celestial event|the fall equinox
+600|Boosting efficiency, it's a harvester & a thresher in one machine|a combine
+800|The Chester White breed of this farm animal traces its origin to one imported from England 200 years ago|a hog
+1000|It's the biological conversion of atmospheric nitrogen into a form that can be used by plants|fixation

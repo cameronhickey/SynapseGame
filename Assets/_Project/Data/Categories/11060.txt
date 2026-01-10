@@ -1,0 +1,6 @@
+TECH SUPPORT
+200|(Kelly of the Clue Crew holds a piece of computer hardware.) For better gaming graphics, just add this component that takes binary data & converts it to a picture|a graphics card
+400|(Cheryl of the Clue Crew stands next to an open computer case.) If you hear a whir & a clunk & can't get into Windows, this part that stores information on magnetic platters has failed|hard drive (or hard disk drive)
+600|(Jon of the Clue Crew holds up a smaller piece of computer hardware.) One of the easiest ways to improve your computer's performance is to add more of this type of memory chip|RAM (or Random Access Memory)
+800|(Sarah of the Clue Crew points to something in an open computer case.) It might be cheaper to buy a new computer if this part is fried—it's the main circuit board of your computer|the motherboard
+1000|(Jimmy of the Clue Crew inserts a cable into a port on the front of a computer case.) To hook up a new digital camera, you'll want to use this 3-letter type of port|USB

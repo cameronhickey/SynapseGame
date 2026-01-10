@@ -1,0 +1,6 @@
+\"ARG\"
+200|This type of plane carries packages, not passengers|cargo
+400|The FDA requires that this butter substitute be fortified with Vitamin A|margarine
+600|It's a signal by bugle for the soldiers to attack|charge
+800|This city was named for one of the founders of American Express|Fargo
+1000|It's the lingo peculiar to a particular trade or group|jargon

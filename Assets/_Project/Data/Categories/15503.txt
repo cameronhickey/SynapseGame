@@ -1,0 +1,6 @@
+A SHAKESPEARE PLAY, FOR OPENERS
+200|This play opens on the battlements of the castle at Elsinore as Barnardo asks, "who's there?\"|Hamlet
+400|\"Othello" opens with Roderigo addressing this villain: "Tush, never tell me; I take it much unkindly\"|Iago
+600|The chorus of "Romeo & Juliet" tells us it's in this city "where we lay our scene\"|Verona
+800|Completes the opening sentence "Now is the winter of our discontent made glorious summer by this sun of...\"|York
+1000|This play opens most dramatically with thunder & lightning. A ship is seen. Then a cry of "bos'n!\"|The Tempest

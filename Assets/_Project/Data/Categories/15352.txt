@@ -1,0 +1,6 @@
+WHAT THE DICKENS?
+200|\"Enormous Anticipations\"|Great Expectations
+400|\"Some Story Regarding Multiple Metropolises\"|A Tale of Two Cities
+600|\"Holiday Song\"|A Christmas Carol
+800|\"An Ancient Odds & Ends Boutique\"|The Old Curiosity Shop
+1000|\"Tough Days\"|Hard Times

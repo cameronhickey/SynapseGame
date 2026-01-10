@@ -1,0 +1,6 @@
+PASS THE "OX\"
+200|The CDC says the last natural outbreak of this disease in the United States occurred in 1949|smallpox
+400|Often found in stew, as in Jamaican cooking, it's a cow's flyswatter that's braised until it's tender & succulent|oxtail
+600|Botulinum toxin shortens to this aesthetic product that reduces skin wrinkles|botox
+800|To publish someone's private info online with malicious intent|to dox
+1000|A daring round chapeau with a flat top & no brim|a pillbox

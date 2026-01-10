@@ -1,0 +1,6 @@
+ALSO A WEATHER TERM
+200|To welcome, or to order a cab|hail
+400|Usual noun for what appears on a TV with bad reception|snow
+600|Trumpets, trombones & flutes are grouped as this type of instrument|winds
+800|If you're "on" one, you're in high spirits; if you're "under" one, you're in disgrace|a cloud
+1000|If you "steal someone's" this, you've ruined the effect of a remark by anticipating it|thunder

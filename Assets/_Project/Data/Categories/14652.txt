@@ -1,0 +1,6 @@
+ANIMALS IN CHILDREN'S BOOKS
+200|Socks, who is owned by the Brickers in a book by Beverly Cleary|a cat
+400|Pongo & Missis: This breed that lives with Mr. & Mrs. Dearly|Dalmatians
+600|Elmer: a patchwork, not a gray, one of these|elephant
+800|Aslan: This majestic creature in Narnia|a lion
+1000|The title pooch of "Good Dog, Carl" is this breed named for a German place|Rottweiler

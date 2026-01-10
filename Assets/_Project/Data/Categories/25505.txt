@@ -1,0 +1,6 @@
+AUTO PARTS 101
+200|When driving a pal's treasured 1964 Pontiac GTO, go easy on this pedal that releases the crankshaft|the clutch
+400|The star method is used to tighten these fasteners; follow each with the one diagonally opposite|lug nuts
+600|The belt that drives your alternator, water pump & other important components is known by this snaky adjective|serpentine
+800|It's what Tesla calls the place you stick the charger into; Ford & GM have agreed to use Tesla charging tech in their EVs|the (charge) port
+1000|A seal between 2 mechanisms, the "head" one seals the combustion part of an engine to allow oil & coolant to circulate properly|a gasket

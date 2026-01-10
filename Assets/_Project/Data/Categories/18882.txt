@@ -1,0 +1,6 @@
+NAME THE CAPITAL
+200|Colombia|Bogotá
+400|Taiwan|Taipei
+600|Serbia|Belgrade
+800|Bangladesh|Dhaka
+1000|Azerbaijan|Baku

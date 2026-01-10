@@ -1,0 +1,6 @@
+ANIMAL YOUTH
+200|A newborn gnu is called one of these, like an elephant or a whale|a calf
+400|Term for a newborn cheetah, fox or panda|a cub
+600|Young people should know this 3-letter name for a young ruminant|a kid
+800|It can mean a young equine, or be a verb meaning to give birth to one|foal
+1000|In "Songs of Innocence", William Blake asked it, "Who made thee?\"|the lamb

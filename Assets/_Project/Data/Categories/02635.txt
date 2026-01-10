@@ -1,0 +1,6 @@
+CRADLES
+200|This landmark is called "The Cradle of Texas Liberty\"|The Alamo
+400|These 2 rivers were the cradle of civilization in Mesopotamia|Tigris & Euphrates
+600|In mythology this baby strangled 2 serpents placed in his cradle|Hercules
+800|In the 19th century William Ross Wallace wrote, "the hand that" does this "is the hand that rules the world\"|\"rocks the cradle\"
+1000|This Boston Hall got its nickname "Cradle of Liberty" from a 1763 dedication speech delivered by James Otis Jr.|Faneuil Hall

@@ -1,0 +1,6 @@
+DOUBLE L
+200|The name of this flavoring has also come to mean plain or ordinary|vanilla
+400|\"Animal Farm" is an example of this literary device in which abstract ideas appear as characters in a story|an allegory
+600|A metal capable of being shaped by hammering or pressure is said to be this|malleable
+800|In fashion, types of these include Mandarin, Chelsea & ruff|collars
+1000|John Dryden wrote, "What passion cannot music raise and" do this, meaning to pacify or quiet|quell

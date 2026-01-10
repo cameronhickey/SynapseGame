@@ -1,0 +1,6 @@
+ADS WITH VERBS
+200|The U.S. Army: "___ all that you can ___\"|be
+400|McDonald's: "You ___ a break today\"|deserve
+600|Avis: "We ___ harder\"|try
+800|IBM: "___" Apple: "___ different\"|think
+1000|GM: "___ the USA in your Chevrolet\"|see

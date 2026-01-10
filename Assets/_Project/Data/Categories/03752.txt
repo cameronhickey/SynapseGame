@@ -1,0 +1,6 @@
+DEAD LINES
+200|The AP received his 1897 telegram saying, "The report of my death was an exaggeration\"|Mark Twain
+400|Character whose father says the following: "Murder, most foul, as in the best it is but this most foul, strange and unnatural\"|Hamlet
+600|\"Any man's death diminishes me...and therefore never send to know" this|\"For Whom The Bell Tolls\"
+800|Oscar Wilde says "The coward does it with a kiss, the brave man with a sword\"|\"Kill the thing he loves\"
+1000|In "Fathers And Sons" he wrote "Go and try to disprove death. Death will disprove you.\"|Ivan Turgenev

@@ -1,0 +1,6 @@
+\"STREET"S
+200|Bruce Springsteen's backup group|The E Street Band
+400|An actor for almost 40 years, he didn't appear in films until playing Kaspar Gutman in 1941's "The Maltese Falcon\"|Sydney Greenstreet
+600|Sinclair Lewis based much of the background for Dr. Kennicutt in this novel on his father, a country doctor|\"Main Street\"
+800|In 1995 she became the first American skier — man or woman — to win a World Cup downhill season title|Picabo Street
+1000|This nickname for the Bank of England is over 300 years old|\"Old Lady of Threadneedle Street\"

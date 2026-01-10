@@ -1,0 +1,6 @@
+TO THE POLICE STATION!
+200|This city's 1st district station is on State Street, that great street|Chicago
+400|This city's Tenderloin District station is on Eddy Street|San Francisco
+600|This city's Poste de Quartier 31 is right near the Expos' old Jarry Park|Montreal
+800|If you lose yourself in this city, call the 12th precinct station on West 7 Mile|Detroit
+1000|Mouth off to a highway patrolman in this state & you may find yourself at the Broward County station|Florida

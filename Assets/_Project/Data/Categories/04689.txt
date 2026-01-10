@@ -1,0 +1,6 @@
+ROLE PLAYING
+200|\"Jerry Maguire" (1996)|Tom Cruise
+400|\"Zelig" (1983)|Woody Allen
+600|\"Thelma & Louise" (1991)|Geena Davis & Susan Sarandon
+800|\"Dolores Claiborne" (1995)|Kathy Bates
+1000|\"Klute" (1971)|Donald Sutherland

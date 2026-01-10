@@ -1,0 +1,6 @@
+VICTORY
+200|The Duke of Wellington's victory at this 1815 battle brought an end to the Napoleonic era|Waterloo
+400|A decisive victory at this January 1815 battle made Andrew Jackson a national hero|the Battle of New Orleans
+600|A Soviet victory, the Aug. 1942-Feb. 1943 battle of this Russian city reversed the Nazis' advance on the Eastern Front|Stalingrad
+800|A turning point of the Civil War was the Union victory in this 1862-1863 campaign in Mississippi|Vicksburg
+1000|Victory over Mark Antony in this 31 B.C. naval battle made Octavian the undisputed ruler of Rome|the Battle of Actium

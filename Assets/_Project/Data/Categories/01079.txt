@@ -1,0 +1,6 @@
+SAUCES
+200|Sauce Albert is a rich form of this pungent sauce that's served with roast beef|horseradish
+400|This spice gives Hungarian sauce its pinkish tinge|paprika
+600|Tamari is a thicker, stronger version of this sauce|soy sauce
+800|Flavored with tarragon & shallots, this creamy sauce is the traditional topper for chateaubriand|bearnaise
+1000|Mornay sauce is a variation of this basic white sauce with cheese added|bechamel

@@ -1,0 +1,6 @@
+TERN! TERN! TERN!
+200|Like a loon's, a tern's feet have this feature, yet terns are not notable swimmers|webbing
+400|The sooty tern is about 16 inches long with a white forehead & is otherwise this color above & white below|black
+600|This geographic tern's 20,000-mile trip gives it the longest migration of any bird|the Arctic tern
+800|Terns eat insects, small fish & this type of arthropod whose name comes from the Latin for "hard-shelled ones\"|crustaceans
+1000|Named for the "sea" between SE Europe & Asia, this 21-inch-long bird is one of the largest kinds of tern|the Caspian tern (the Caspain Sea accepted)

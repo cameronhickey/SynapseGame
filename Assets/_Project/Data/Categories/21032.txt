@@ -1,0 +1,6 @@
+KING OF THE CASTLE
+200|Fontainebleau, 1643-1715: Le roi, c'est moi|Louis XIV
+400|The former Edo Castle, 1926-1989: This emperor|Hirohito
+600|El Pardo, 1975-2014: This recent abdicator|Juan Carlos
+800|Neuschwanstein Castle, 1864-1886: This mad man|(Mad King) Ludwig (of Bavaria)
+1000|Windsor Castle, 1936-1952: This father of a queen|George VI

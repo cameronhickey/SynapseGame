@@ -1,0 +1,6 @@
+GETTING TO THE AIRPORT
+200|Green Ride Boulder will shuttle you to this international airport|Denver
+400|In San Francisco's International Terminal there's a station for this train service with a male first name|the BART
+600|You can take the T to Logan from State Street Station in this city|Boston
+800|From The Strip, take Tropicana Avenue to Paradise Road to 5757 Wayne Newton Boulevard, this facility|McCarran Airport
+1000|It's 28 miles south of London between Povey Cross & Lowfield Heath, & it's not Heathrow|Gatwick

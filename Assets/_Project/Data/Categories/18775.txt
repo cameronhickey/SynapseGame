@@ -1,0 +1,6 @@
+HURRICANE, TORNADO OR CYCLONE
+200|The University of Miami named its sports teams after them|hurricanes
+400|Meteorologically, this term can include both the other 2|cyclone
+600|World Book says it's "the most violent of all storms\"|a tornado
+800|It comes between "National" & "Center" in the workplace of about 50 people|Hurricane
+1000|In 1848 Henry Piddington coined this word from a Greek root|cyclone

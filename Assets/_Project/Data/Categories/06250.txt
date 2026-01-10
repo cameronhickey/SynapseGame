@@ -1,0 +1,6 @@
+ITALIAN MUSICAL TERMS
+200|This interval is an ottava|Octave
+400|Meaning "cadence", it's a virtuoso solo passage|cadenza
+600|5-letter word for "very slow", even slower than lento|Largo
+800|Many a classical movement is this, Italian for "joke\"|scherzo
+1000|Beethoven's Fifth Symphony begins "with vigor", allegro con this|Brio

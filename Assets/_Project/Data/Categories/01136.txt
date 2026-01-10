@@ -1,0 +1,6 @@
+GENERAL HOSPITAL
+200|The hospital seen in the opening is the County-USC hospital in this city|Los Angeles
+400|This "Full House" star played Blackie Parrish in 1982 & returned in a 1992 cameo playing himself|John Stamos
+600|Smile! A photograph was taken of you with one of these photon streams that's also known as a Roentgen Ray|X-ray
+800|Founded in the 600s A.D., the oldest hospital still in existence is the Hotel Dieu in this city|Paris
+1000|After being wounded in 1981, Pres. Reagan was rushed to the hospital of this "presidential" university|George Washington University

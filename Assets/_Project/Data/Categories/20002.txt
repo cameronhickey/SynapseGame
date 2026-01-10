@@ -1,0 +1,6 @@
+& "AWAY" THEY GO
+200|Type of car idling outside a bank that's being robbed|a getaway car
+400|A segment between curved sections on a racetrack|a straightaway
+600|Actress who was feline fine in "The Dark Knight Rises\"|Anne Hathaway
+800|\"Seedy"-sounding narrator of an F. Scott Fitzgerald novel|Nick Carraway
+1000|General MacArthur famously said this is the eventual end for old soldiers like himself|(they just) fade away

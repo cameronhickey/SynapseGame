@@ -1,0 +1,6 @@
+1 LETTER IS ALL YOU NEED
+200|Nominative singular pronoun|I
+400|A Roman 1,000|M
+600|It precedes "peg" regarding compressed pics|J
+800|Type of "frame" very common in house construction|A
+1000|2r|D

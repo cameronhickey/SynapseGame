@@ -1,0 +1,6 @@
+FRENCH FIRST NAME'S THE SAME
+200|Explorers Cartier & Cousteau|Jacques
+400|Composer Debussy & painter Monet|Claude
+600|Political radical Marat & philosopher Sartre (it's hyphenated)|Jean-Paul
+800|Painter Pissarro & composer Saint-Saens|Camille
+1000|Actress Signoret & writer de Beauvoir|Simone

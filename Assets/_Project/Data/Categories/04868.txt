@@ -1,0 +1,6 @@
+HOMETOWNS
+200|Ingrid Bergman|Stockholm
+400|Niels Bohr|Copenhagen
+600|Jose Marti|Havana
+800|Daphne DuMaurier|London
+1000|Jorge Luis Borges|Buenos Aires

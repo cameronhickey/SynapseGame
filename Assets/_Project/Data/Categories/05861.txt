@@ -1,0 +1,6 @@
+STATES BY CITIES & TOWNS
+200|Heber Springs, Hot Springs, Hope|Arkansas
+400|Woodstock, Dunwoody, Fort Oglethorpe|Georgia
+600|Medicine Lodge, Sublette, Leavenworth|Kansas
+800|La Crosse, Fond du Lac, Eau Claire|Wisconsin
+1000|Ville Platte, Opelousas, Plaquemine|Louisiana

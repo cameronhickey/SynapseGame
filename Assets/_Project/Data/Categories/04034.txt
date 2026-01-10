@@ -1,0 +1,6 @@
+LITERARY SETTINGS
+200|Nick & Nora Charles of "The Thin Man" did their sophisticated sleuthing in this city|New York
+400|Hawthorne's introductory essay to "The Scarlet Letter" is about a custom-house in this seaport|Salem, Massachusetts
+600|Dante's "The Divine Comedy" is set in these 3 otherworldly places|Purgatory, Hell & Heaven
+800|This Danish seaport is the setting for Shakespeare's "Hamlet\"|Elsinore
+1000|The only one of Shakespeare's plays that does not take place in any known city or country|The Tempest

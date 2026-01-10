@@ -1,0 +1,6 @@
+BRIDGE ON THE RIVER...
+200|Blackfriars Bridge|Thames
+400|The Pont-Neuf & the Pont St.-Louis|Seine
+600|The Huey P. Long Bridge|Mississippi
+800|The Dusseldorf-Neuss Bridge|Rhine
+1000|The Ponte Garibaldi & the Ponte Palatino|Tiber

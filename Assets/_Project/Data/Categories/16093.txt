@@ -1,0 +1,6 @@
+A RIVER RUNS TO IT
+200|The Tagus|the Atlantic
+400|The Yakima: to this larger Pacific Northwest river|the Columbia River
+600|The Dnieper|the Black Sea
+800|The Yangtze: a sea with this country in its name|China
+1000|The Zambezi|the Indian Ocean

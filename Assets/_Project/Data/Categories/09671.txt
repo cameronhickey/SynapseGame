@@ -1,0 +1,6 @@
+METEOROLOGY
+200|These can develop from hurricanes that make landfall, or from rotating thunderstorms called supercells|tornadoes
+400|Measured with a hygrometer, it causes discomfort at high readings because sweat can't escape into the air|humidity
+600|While western Oregon & Wash. are wet, this mountain range functions as a "rain shadow" for the eastern part|the Cascades
+800|A current in the Indian Ocean bears the name of this rainy summer weather it helps bring|a monsoon
+1000|(Jimmy of the Clue Crew shows a map with arrows pointing from the upper-right corner.) Diagrammed here, the direction from which the winds come give these rough weather phenomena their name|nor'easters

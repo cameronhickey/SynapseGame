@@ -1,0 +1,6 @@
+GET ME A SNACK!
+200|Yum! The Chocolate Shoppe Ice Cream Co. here in Madison has a black ice cream named for this black candy|licorice
+400|Sheboygan is the "Capital of the World" for these, "brats" for short— let's go there right now|bratwursts
+600|I could really use a deep-fried one of these candy bars whose name also means "disrespectful laughs\"|Snickers
+800|Moo! I'll have the Baraboo Candy Company's chocolate treat known as this kind of "pie\"|a cow pie
+1000|I'd love some coeur a la creme, a cheesy dessert molded in this shape|a heart

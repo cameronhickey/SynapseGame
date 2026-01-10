@@ -1,0 +1,6 @@
+\"I" DOCTOR
+200|The pancreas secretes this hormone in response to high levels of blood sugar|insulin
+400|This pigmented circular muscle surrounds the pupil of the eye|the iris
+600|In the late 1950s the Asian type of this virus caused 70,000 deaths in the U.S.; the Hong Kong strain struck in the '60s|influenza
+800|Robert Edwards won a 2010 Nobel Prize for developing this, which led to the birth of Louise Brown in 1978|in vitro fertilization
+1000|This superficial skin infection is caused by staphylococcus & streptococcus bacteria|impetigo

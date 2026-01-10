@@ -1,0 +1,6 @@
+CLASSY CREATURES
+200|The pangolin & the aye-aye|Mammalia
+400|The frogmouth & the shoebill|birds
+600|The wobbegong & the skate: cartilaginous these|fish
+800|The matamata & the basilisk|reptiles
+1000|Giant scallop, Sydney rock oyster|bivalves

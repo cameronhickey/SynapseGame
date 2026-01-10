@@ -1,0 +1,6 @@
+\"B" SHARP
+200|Snoopy's breed|Beagle
+400|His Top 10 hits include "Rainy Night in Georgia" & the duet "Baby (You Got What It Takes)" with Dinah Washington|Brook Benton
+600|This hero rode Pegasus|Bellerophon
+800|David Bowie played Andy Warhol in the 1996 movie about this graffiti artist|Jean-Michel Basquiat
+1000|Gaborone is the capital of this southern African country|Botswana

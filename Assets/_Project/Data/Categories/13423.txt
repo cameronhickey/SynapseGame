@@ -1,0 +1,6 @@
+STATE THE NATIONAL PARK
+200|Petrified Forest National Park|Arizona
+400|Grand Teton National Park|Wyoming
+600|Zion National Park|Utah
+800|Big Bend National Park|Texas
+1000|Lassen Volcanic National Park|California

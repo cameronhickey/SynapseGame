@@ -1,0 +1,6 @@
+GIVE ME A "MINUTE\"
+200|It tells you when it's quarter till or half past|the minute hand
+400|A piece of thin, quickly cooked beef|a minute steak
+600|Near the end of the second & fourth quarters of an NFL game, a timeout for both teams accompanies this|the two-minute warning
+800|In 1774 the Pennsylvania Gazette reported these "each...should be immediately equipped with an effective fire-arm\"|minutemen
+1000|A 1914 book on parliamentary practice says after roll call "the secretary will" do this|read the minutes

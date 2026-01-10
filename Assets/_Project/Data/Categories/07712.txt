@@ -1,0 +1,6 @@
+\"SA\"
+200|This "castle"-making material is loosely defined as rock or mineral particles between 1/400 & 1/12 inch|sand
+400|A synonym for shatterproof glass, or what shatterproof glass gives you|safety
+600|It describes a sickly, yellowish complexion|sallow
+800|Sadly for this small, dark marten, it's prized for its fur|sable
+1000|Suggestive or downright indecent, like some writings & pictures|salacious

@@ -1,0 +1,6 @@
+\"H_BO\"
+200|Ship anchoring spot|a harbor
+400|An instruction manual like the one Boy Scouts use|a handbook
+600|It's at one end of your bed|a headboard
+800|Anatomically, the ischium is part of it|your hip bone
+1000|Heading for perdition|hellbound

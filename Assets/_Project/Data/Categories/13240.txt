@@ -1,0 +1,6 @@
+TO THE LIGHTHOUSE
+200|Tortugas Harbor Light, Alligator Reef Light|Florida
+400|Fire Island Light, Buffalo Light|New York
+600|Superior Harbor Light, Kenosha Light|Wisconsin
+800|New London Harbor Light, Stamford Harbor Light|Connecticut
+1000|Morris Island Light, Hilton Head Light|South Carolina

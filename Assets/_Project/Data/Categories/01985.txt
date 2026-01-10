@@ -1,0 +1,6 @@
+TAKE IN ORDER
+200|This part of a watch shows you 1/60 of a minute|the second hand
+400|Journalists|the fourth estate
+600|Speaking familially, the opposite of bro|sis
+800|Oops, "I fall down, go" this|boom
+1000|In 2003 Playtex introduced 1/2 sizes to this product|bras

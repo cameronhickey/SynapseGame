@@ -1,0 +1,6 @@
+NAME THE SEASON
+200|Earth Day|spring
+400|Daylight saving time ends (in 2020)|autumn
+600|National Hangover Day (think about it a half-sec, you'll get it)|winter
+800|Burning Man|summer
+1000|Ash Wednesday|winter

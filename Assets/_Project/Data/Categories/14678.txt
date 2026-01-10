@@ -1,0 +1,6 @@
+LAND "HA"!
+200|In 1636 Thomas Hooker, a Congregationalist minister, founded what would be this capital of Connecticut|Hartford
+400|This "Big Island" was formed by 5 volcanoes, 2 of which are still active|Hawaii
+600|This world capital lies about 100 miles south of Key West, Florida|Havana
+800|Ho Chi Minh's remains are on display in a mausoleum in Ba Dinh Square in this Vietnamese city|Hanoi
+1000|The Potomac River meets the Shenandoah at this West Virginia village famed for an abolitionist's Civil War raid|Harpers Ferry

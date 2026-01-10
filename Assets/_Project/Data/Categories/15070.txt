@@ -1,0 +1,6 @@
+COMPUSTUFF
+200|As opposed to a cable modem, a DSL connection uses these lines to connect to the web|phone lines
+400|Malware can generate this type of threat that's also the name for an infectious agent that plagues humans|a virus
+600|If a program locks up, try hitting this combination of 3 keys at the same time to open the task manager|ctrl + alt + delete
+800|When an Internet page says "file not found", you're getting this 3-digit error|a 404
+1000|The trident logo refers to this type of 3-letter port, to which you can add all sorts of peripherals|a USB port

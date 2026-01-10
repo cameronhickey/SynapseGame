@@ -1,0 +1,6 @@
+WHAT AM I HAVING?
+200|(Sarah of the Clue Crew delivers the clue from Germany.) Haben sie Bier vom Fass?—I just asked for this form of beer|draft beer
+400|(Sofia of the Clue Crew delivers the clue from Spain.) Por favor, un plato de chorizo—a plate of this, please|sausage
+600|(Sofia of the Clue Crew delivers the clue from Venice.) Caffe con zucchero, per favore—I take my coffee with this|sugar
+800|(Sofia of the Clue Crew delivers the clue from Mexico.) Voy a comer pollo con mole—I'm having this in a classic Mexican sauce|chicken
+1000|(Sarah of the Clue Crew delivers the clue from the Bronx.) Hey, Sal, I got some hungry people out here; give me a garbage pie—I just ordered up one of these|a pizza with everything

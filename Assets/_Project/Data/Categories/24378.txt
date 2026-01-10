@@ -1,0 +1,6 @@
+QUOTABLE SHAKESPEARE PLAYS
+200|\"A pound of that same merchant's flesh is thine\"|The Merchant of Venice
+400|\"She hangs upon the cheek of night like a rich jewel in an Ethiop's ear\"|Romeo and Juliet
+600|\"If chance will have me king, why, chance may crown me\"|Macbeth
+800|\"As he was valiant, I honor him; but, as he was ambitious, I slew him\"|Julius Caesar
+1000|\"How dost thou, Benedick, the married man?\"|Much Ado About Nothing

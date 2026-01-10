@@ -1,0 +1,6 @@
+MOVIE MEALS
+200|Emilio Estevez & Molly Ringwald sit in detention in this 1985 film|The Breakfast Club
+400|Henry Mancini picked up a couple of Oscars for his work on this 1961 Blake Edwards film|Breakfast at Tiffany's
+600|In this 1988 film Julia Roberts worked at a pizza parlor in Connecticut|Mystic Pizza
+800|Marie Dressler headed an all-star MGM cast in this 1933 version of a Kaufman-Ferber play|Dinner at Eight
+1000|In this 1981 Louis Malle film, Wallace Shawn & Andre Gregory sit & eat & chat|My Dinner with Andre

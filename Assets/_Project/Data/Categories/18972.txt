@@ -1,0 +1,6 @@
+WHERE IS THAT?
+200|The Kaaba: This holy city|Mecca
+400|The Mariana Trench: This ocean|the Pacific Ocean
+600|Tivoli Gardens: This country|Italy (or Denmark)
+800|The Old Vic: This "End" of London|the West End
+1000|The Buffalo Bill Center of the West: This Wyoming city|Cody

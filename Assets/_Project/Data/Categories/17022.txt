@@ -1,0 +1,6 @@
+ACCORDING TO SPOCK
+200|So that a playpen isn't regarded as a prison, a baby should get used to it before he learns to do this|crawl
+400|When washing diapers, this shouldn't be used, as it leaves a coating which decreases absorbency|fabric softener
+600|About this birthday, baby starts to throw toys & food, not to drive mom crazy, but just because he can|first
+800|To discourage twins' private language, mom might refuse their demands unless expressed this way|in English
+1000|Playing pat-a-cake, etc. to excess can spoil baby to the point he forgets how to do this for himself|play by himself (amuse himself)

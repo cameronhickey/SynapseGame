@@ -1,0 +1,6 @@
+PUBLISHED FIRST
+200|\"The Sign of the Four", "The Murders in the Rue Morgue", "The Mysterious Affair at Styles\"|\"The Murders in the Rue Morgue\"
+400|\"Robinson Crusoe", "Paradise Lost", "Sense and Sensibility\"|Paradise Lost
+600|\"The Faerie Queene", "Don Quixote", the First Folio|The Faerie Queene
+800|\"Brave New World", "Nineteen Eighty-Four", "Erewhon\"|Erewhon
+1000|\"Thus Spake Zarathustra", Hobbes' "Leviathan", "The Social Contract\"|Leviathan

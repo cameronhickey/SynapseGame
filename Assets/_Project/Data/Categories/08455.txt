@@ -1,0 +1,6 @@
+SPEECH!
+200|Speaking at an 1848 convention, Elizabeth Cady Stanton said, "We now demand our right to" do this|vote
+400|He was a Vice Presidential candidate when he made his famous "Checkers" speech in 1952|Richard Nixon
+600|Once a prisoner, his 1994 inaugural address included the words "Let freedom reign ... God bless Africa ... thank you\"|Nelson Mandela
+800|In a 1936 speech to the workers of Milan, he outlined the aims of the Fascist Party|Mussolini
+1000|Convicted in Athens in 399 B.C. he said, "It is now time to depart — for me to die, for you to live\"|Socrates

@@ -1,0 +1,6 @@
+SHAKESPEAREAN OPERAS
+200|\"Amleto\"|Hamlet
+400|\"Il Mercante di Venezia\"|The Merchant of Venice
+600|\"Cordelia\"|King Lear
+800|\"Der Sturm\"|The Tempest
+1000|\"Beaucoup de Bruit Pour Rien\"|Much Ado About Nothing

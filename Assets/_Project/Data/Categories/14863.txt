@@ -1,0 +1,6 @@
+FILL E_____R UP
+200|Celebration of the Resurrection|Easter
+400|A professor or principal|an educator
+600|The worker's boss|the employer
+800|One of 538 who choose a president|an elector
+1000|Nickname for Colonel Colt's deadly invention|\"Equalizer\"

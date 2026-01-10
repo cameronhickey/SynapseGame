@@ -1,0 +1,6 @@
+VARMINTS
+200|This close relative of the lynx lives in North America & is named for its stumpy tail|Bobcat
+400|This wily "brush wolf", long a nuisance to ranchers, can be found in more populous areas like suburban L.A.|Coyote
+600|A member of the squirrel family, this rodent gets its name from its bark-like warning call|Prairie dog
+800|There's a "hairy" as well as a "spiny" type of this porcupine-like critter that rolls itself into a ball as a defense|Hedgehog
+1000|The long-tailed is the common U.S. species of this mammal that kills more chickens than it can eat immediately|Weasel

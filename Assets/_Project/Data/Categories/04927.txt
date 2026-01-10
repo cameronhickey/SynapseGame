@@ -1,0 +1,6 @@
+IMAX FILMS
+200|In 1996 David Breashears led an IMAX film crew to the top of this Himalayan peak|Everest
+400|An IMAX film shown in Tusayan, Arizona shows "Hidden Secrets" of this nearby national park|the Grand Canyon
+600|Omar Sharif starred in the 1999 IMAX film "The Mysteries of" this country|Egypt
+800|Astronauts became cinematographers for the 1997 film "Mission to" this space station|Mir
+1000|Astronauts became cinematographers for the 1997 film "Mission to" this space station|Mir

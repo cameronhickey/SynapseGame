@@ -1,0 +1,6 @@
+WHERE YOU GOING?
+200|If you're going to Mecca, you know you're going to this country on the Red Sea|Saudi Arabia
+400|You're so vain, you're probably going to Halifax in this Canadian province to see that total eclipse of the sun|Nova Scotia
+600|Maybe braving this desert referred to as Dorsland or "Thirstland" by the Boers who trekked through it|Kalahari
+800|Are you meeting Captain Jean-Luc in this French region that recently merged with Nord-Pas-de-Calais?|Picardy
+1000|Are you finally traversing the length of this mountain range that stretches from the Caspian to the Black Sea?|the Caucasus

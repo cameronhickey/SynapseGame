@@ -1,0 +1,6 @@
+BEASTLY MOVIES
+200|1980: Robert De Niro battles his way to the top of the middleweight boxing world|Raging Bull
+400|1986: Paul Hogan faces the jungle of New York City|Crocodile Dundee
+600|1966: "What's Up, ____ Lily?\"|Tiger
+800|1992: Criminals "hound" each other following a bungled jewel heist|Reservoir Dogs
+1000|2002: "____ Rider\"|Whale

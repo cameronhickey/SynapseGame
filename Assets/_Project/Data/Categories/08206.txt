@@ -1,0 +1,6 @@
+SKIN
+200|The skin layer below the epidermis|the dermis
+400|Tegrin's ads promised relief from "the heartbreak of " this skin disease|psoriasis
+600|Most apparent permanent effect of the amount of melanin in the skin|the color
+800|Common name for the horny plates on dorsal surface of fingers & toes|nails
+1000|From Greek for equal, an isograft is a skin graft where donor & recipient are these|identical twins

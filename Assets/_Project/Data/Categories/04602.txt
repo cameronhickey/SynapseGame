@@ -1,0 +1,6 @@
+WHERE IS IT?
+200|It's the gulf about 50 miles from Hanoi|Gulf of Tonkin
+400|It's the country immediately west of Kenya & immediately north of Lake Victoria|Uganda
+600|Honshu, Hokkaido, Shikoku & Kyushu are the 4 main islands making up this Asian country|Japan
+800|The cold, mineral-rich region of Siberia is found in this country|Russia
+1000|Found at the tip of a continent, it's the country where Nelson Mandela was born|South Africa

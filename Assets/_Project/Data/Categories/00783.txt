@@ -1,0 +1,6 @@
+MUSICAL TERMS
+200|A 3-note one of these is also called a triad|a chord
+400|This florid style of operatic singing comes from the Italian word for coloring|coloratura
+600|Italian for "obligatory", it refers to an instrumental part that should not be omitted|Obligato
+800|Fortissimo's antonym|Pianissimo
+1000|French for "fixed idea", it's a theme that reappears throughout a composition|Idee fixe

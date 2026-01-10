@@ -1,0 +1,6 @@
+AFTER MASH
+200|In the two foods being consumed by Little Miss Muffet when the spider frightens her|whey
+400|In the actions used to describe grabbing an image from 1 document & moving it onto another on a computer|paste
+600|In the pair of men who published the first of their famous namesake dictionaries in 1893|Wagnalls
+800|In the last names of the creative team that gave us the musicals "Oklahoma!" & "The Sound of Music\"|Rodgers
+1000|In the 2 items used to identify the source of a biblical quote after the book title|verse

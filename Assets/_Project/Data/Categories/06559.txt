@@ -1,0 +1,6 @@
+U.S. REGIONS
+200|\"Profound" adjective for the part of the "South" stretching from South Carolina to Louisiana|deep
+400|A classic 1936 book about the literary peak of Boston & Concord was called "The Flowering of" this area|New England
+600|Geographic collective name for Delaware, Maryland, Missouri & Kentucky from when they refused to secede|border states
+800|It's what PN stands for in PNNL, a national laboratory in Richland, Washington|Pacific Northwest
+1000|Thought to be barren, the Great Plains were marked on pre-Civil War maps as "The Great American" this|Desert

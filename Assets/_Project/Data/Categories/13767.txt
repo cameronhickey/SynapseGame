@@ -1,0 +1,6 @@
+MESSAGE IN A BATTLE
+200|Cornwallis surrendered on this Virginia peninsula in 1781; message to George III: Game over|Yorktown
+400|3 legions were massacred in the 9 A.D battle of the Teutoburg Forest; message to this empire: Don't cross the Rhine!|the Roman Empire
+600|The Viet Cong launched a major offensive on this lunar festival in 1968; message to LBJ: Hell, no!|Tet
+800|The English crushed the Highland clans at Culloden Moor in 1746; message to this would-be king: Stop pretending!|Bonnie Prince Charlie
+1000|On "Black Thursday" 1943, the U.S. lost 60 of these bombers on a single raid; message: Need escort fighters!|B-17

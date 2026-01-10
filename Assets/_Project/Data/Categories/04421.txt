@@ -1,0 +1,6 @@
+\"A"BBREVIATIONS
+200|Bad status for a soldier: AWOL|Absent/away without official leave
+400|Rights defenders: ACLU|American Civil Liberties Union
+600|CIO partner: AFL|American Federation of Labor
+800|Critters' helper: ASPCA|American Society for the Prevention of Cruelty to Animals
+1000|Nelson Mandela's political party: ANC|African National Congress

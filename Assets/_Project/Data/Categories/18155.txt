@@ -1,0 +1,6 @@
+WHAT DO YOU MEASURE?
+200|Protractor|angles
+400|Roentgenometer: the intensity of these|X-rays
+600|Spirometer: the capacity of these in the body|the lungs
+800|Anemometer: the speed of this|the wind
+1000|Pluviometer (not getting much use in California)|rain

@@ -1,0 +1,6 @@
+NAME THAT CLASSIC
+200|\"Whaling has... come to be regarded among landsmen as a rather unpoetical and disreputable pursuit\"|Moby-Dick
+400|\"Injun Joe lay stretched upon the ground, dead, with his face close to the crack of the door\"|(The Adventures of) Tom Sawyer
+600|\"They found hanging upon the wall a splendid portrait of their master as they had last seen him\"|The Picture of Dorian Gray
+800|\"The escape of Cassy and Emmeline irritated the...surly temper of Legree to the last degree\"|Uncle Tom's Cabin
+1000|\"While I was young I lived upon my mother's milk, as I could not eat grass\"|Black Beauty

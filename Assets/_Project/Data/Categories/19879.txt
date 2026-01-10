@@ -1,0 +1,6 @@
+SYSTEMS PRIMED
+200|You keep an eye on the scuba diver you're paired with & he does the same for you|the buddy system
+400|000-099: general works; 200-299: religion|the Dewey Decimal system
+600|Interferons, tonsils, macrophages|the immune system
+800|Musicians Daron Malakian, John Dolmayan, Serj Tankian, Shavo Odadjian|System of a Down
+1000|Vaishyas, Shudras, Dalits|a caste system

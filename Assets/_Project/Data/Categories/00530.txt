@@ -1,0 +1,6 @@
+GENETICS
+200|Jane Fonda and Arnold Schwarzenegger seem living proof of this Darwin theory|survival of the fittest
+400|Used in "Boys from Brazil", it's a process of reproducing genetically identical organisms|cloning
+600|\"Lettered" chromosomes which must appear in duplicate to determine female sex|X chromosomes
+800|Hereditary condition resulting in absence of pigment|the albino condition
+1000|Number of pairs of chromosomes in normal humans|23

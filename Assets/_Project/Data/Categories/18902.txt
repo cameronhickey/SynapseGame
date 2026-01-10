@@ -1,0 +1,6 @@
+A NATION OF NATIONAL LABS
+200|Fusion energy is under study at PPPL, this New Jersey Plasma Physics Lab|Princeton
+400|This type of weapon has 6,500 parts; Sandia National Lab designs more than 6,300 of them|nuclear
+600|Fermilab is less than 50 miles from this metropolis, so no accidents, please|Chicago
+800|This 2-word region of the country is on the name of a national lab in Richland, Washington|Pacific Northwest
+1000|Brookhaven in New York has the Relativistic Heavy Ion this, an accelerator that smashes particles together|Collider

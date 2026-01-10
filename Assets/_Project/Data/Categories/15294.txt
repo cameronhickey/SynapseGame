@@ -1,0 +1,6 @@
+BOOK 'EM!
+200|Fagin|Oliver Twist
+400|Atticus Finch|To Kill a Mockingbird
+600|Phoebe Caulfield|The Catcher in the Rye
+800|Tashtego|Moby-Dick
+1000|Pierre Bezukhov|War and Peace (Voina i mir)

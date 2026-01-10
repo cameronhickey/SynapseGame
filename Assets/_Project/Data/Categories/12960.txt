@@ -1,0 +1,6 @@
+\"C"OOKING
+200|This dish, fried squid, is delish dipped in a simple tomato sauce|calamari
+400|Migas, a Spanish dish, is bits of stale bread with this ground pork sausage with a Spanish name|chorizo
+600|It's been called "nothing but cabbage with a college education\"|cauliflower
+800|This herb is also called coriander & Chinese parsley|cilantro
+1000|This hot chili is actually a dried, smoked jalapeno|chipotle

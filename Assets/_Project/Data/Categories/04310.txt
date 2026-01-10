@@ -1,0 +1,6 @@
+SECOND-LARGEST CITIES
+200|Hamburg|Germany
+400|Melbourne|Australia
+600|Rio de Janeiro|Brazil
+800|Rotterdam|The Netherlands (Holland)
+1000|Alexandria|Egypt

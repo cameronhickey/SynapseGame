@@ -1,0 +1,6 @@
+PI
+200|Pi is the ratio of this measurement of a circle to its diameter|the circumference
+400|Numerically, pi is considered this, like a type of "meditation\"|transcendental
+600|For about $19,100 x pi, this "Black Swan" director made "Pi", his 1998 debut film about a math whiz|Darren Aronofsky
+800|In the 100s A.D. this Alexandrian astronomer calculated a more precise value of pi, the equivalent of 3.14166|Ptolemy
+1000|You can find the area of this oval geometric shape with pi x A x B, if A & B are half of its longest & shortest diameter|an ellipse

@@ -1,0 +1,6 @@
+PRONOUN TEST
+200|Let's hear a song of this first-person reflexive pronoun|myself
+400|This indefinite pronoun is a synonym for "zilch\"|nothing
+600|It can mean "each" or "one or the other\"|either
+800|Thanks for waiting while I finished that call—now I'm all this second-person possessive pronoun|yours
+1000|Let's not argue about whether it's OK to use this 5-letter relative pronoun instead of "that" in a restrictive clause|which

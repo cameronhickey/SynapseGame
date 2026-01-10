@@ -1,0 +1,6 @@
+RODENTS
+200|These rodents of the Plains received their name because they "bark" like canines|prairie dog
+400|Typically, these homes built by beavers have several underwater tunnels|lodges
+600|A popular pet, it was introduced to Europe from Guiana in the 16th century|the guinea pig
+800|This S. American rodent whose pelt is among the most expensive is now protected by law in many countries|the chinchilla
+1000|This largest rodent may grow to the size of a sheep|the capybara

@@ -1,0 +1,6 @@
+MUSIC STYLES
+200|It's the decade that introduced us to acid rock|the '60s
+400|The Archies' "Sugar, Sugar" is included in this category of sweet pop music|bubblegum
+600|\"Everybody's talkin' 'bout the new sound, funny, but it's still" this to Billy Joel|rock and roll
+800|Kenny Vance & the Planotones are out there performing in this '50s vocal style|doo-wop
+1000|Reggae came out of Jamaica; this popular '50s style came from a samba-like style of Trinidad|calypso

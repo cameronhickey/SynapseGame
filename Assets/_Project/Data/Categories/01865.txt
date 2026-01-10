@@ -1,0 +1,6 @@
+WRITING
+200|They're symbols, like commas & periods, added to writing to make the writer's meaning clear|punctuation
+400|19th century French Abbe Hypolite Michon named this science of analyzing people from their writing|graphology
+600|A category like Westerns, romance or pulp; literary fiction is often contrasted with this type of "fiction\"|genre
+800|In grammar, to inflect a verb in its various forms to denote number, person, voice, mood & tense|conjugate
+1000|Publishing a short excerpt in a review doesn't violate copyright & is considered this 2-word phrase|fair use

@@ -1,0 +1,6 @@
+\"VO"CABULARY TEST
+200|Current multiplied by resistance|voltage
+400|It's your calling, truly|vocation
+600|A period of popularity, like the 24 weeks the Madonna song spent on the charts in 1990|vogue
+800|2-word parliamentary procedure in which the outcome is determined by relative volume|a voice vote
+1000|A whirlwind or a whirlpool in the form of a spiral|a vortex

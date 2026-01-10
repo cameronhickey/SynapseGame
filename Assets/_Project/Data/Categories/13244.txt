@@ -1,0 +1,6 @@
+GET INTO MY CZAR
+200|\"Czar" is derived from this last name of a Roman leader|Caesar
+400|In the 1550s this awful guy had no beef with the Stroganov family, who sponsored western Siberia's conquest|Ivan the Terrible
+600|In a treaty with the Turks in the 1680s, Fyodor III wasn't too chicken to hang onto this present Ukrainian capital|Kiev
+800|Alexander I, from this family's line of rulers, was in charge in the overture year of 1812|the Romanovs
+1000|Subject of a Pushkin drama, he had himself elected czar in 1598 by the Zemskiy Sobor, a kind of parliament|Boris Godunov

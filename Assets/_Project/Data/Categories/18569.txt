@@ -1,0 +1,6 @@
+SCIENCE TERMS IN FRENCH
+200|This part of a cell that contains the chromosomes is "le noyau\"|the nucleus
+400|With or without Monsieur Bunsen, "un bec", one of these, should get temperatures rising|a burner
+600|This element is "le plomb"; get it out!|lead
+800|In chemistry, "une liaison" is one of these, perhaps "ionique\"|a bond
+1000|You'll be all-powerful when you attach the wires to "les electrodes" on this, "la pile\"|a battery

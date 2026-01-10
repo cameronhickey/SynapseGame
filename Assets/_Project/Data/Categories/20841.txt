@@ -1,0 +1,6 @@
+FASHION BRANDS
+200|The iconic pony representing this brand appeared on a Ralph Lauren shirt cuff in 1971|Polo
+400|This company's LV monogram is also its logo|Louis Vuitton
+600|Coco Crush is a jewelry collection from this brand|Chanel
+800|This footwear brand turns up often in hip-hop lyrics; the Notorious B.I.G. & Smif-n-Wessun called them "Timbs\"|Timberlands
+1000|The leather Kat Saddle Bag from this brand features its horse & carriage motif|Coach

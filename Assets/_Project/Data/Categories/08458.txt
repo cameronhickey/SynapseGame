@@ -1,0 +1,6 @@
+ROTC
+200|Army ROTC produces 75% of these, represented by the second letter in ROTC|officers
+400|As well as leadership, ROTC teaches this "ship" that you learn with a rifle in your hands|marksmanship
+600|If you get an Army ROTC scholarship, you're committed to serve, either on active duty or in this group|the Reserves or National Guard
+800|In 1991 Gordon Sullivan was Army Chief of Staff; his boss was fellow ROTC man Colin Powell, in this post|Chairman of the Joint Chiefs of Staff
+1000|Students in Navy ROTC, first launched at Yale & 5 other schools, are called these|Midshipmen

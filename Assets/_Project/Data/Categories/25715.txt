@@ -1,0 +1,6 @@
+3-LETTER NOUNS
+200|It goes under your chin to protect your clothes|a bib
+400|A small shelter, maybe of grass|a hut
+600|The part of a bridle that goes in the mouth|bit
+800|A roll of bills, or a mass of gum|a wad
+1000|Projecting part of a wheel that transforms rotary into linear motion|a cam

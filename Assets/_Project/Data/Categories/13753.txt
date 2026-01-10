@@ -1,0 +1,6 @@
+VEAL OR NO VEAL
+200|This traditional Austrian dish named for the country's capital is a breaded cutlet of veal|Wiener schnitzel
+400|There's no veal in boxty, Irish pancakes made from these tubers|potatoes
+600|The New York Times Cook Book's recipe for this Greek dish of ground meat & eggplant calls for lamb or beef, not veal|moussaka
+800|Made of browned, shredded beef or pork, not veal, this Mexican dish is Spanish for "little meats\"|carnitas
+1000|The name of this popular Italian dish of braised veal shanks means "bone hole\"|osso buco

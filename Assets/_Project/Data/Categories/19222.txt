@@ -1,0 +1,6 @@
+LITERARY LAST NAMES
+200|\"The Godfather": Sonny|Corleone
+400|\"Harry Potter and the Deathly Hallows": Luna|Lovegood
+600|\"The Adventures of Tom Sawyer": Becky|Thatcher
+800|\"The Count of Monte Cristo": Edmond|Dantes
+1000|\"The Girl with the Dragon Tattoo": Mikael|Blomkvist

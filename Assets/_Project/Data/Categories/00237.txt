@@ -1,0 +1,6 @@
+NUTRITION
+200|Beriberi was once a major problem in Asia because this grain was polished, removing vitamin B1|Rice
+400|Though this mineral is needed for building bones & teeth, megadoses can cause extreme lethargy|Calcium
+600|Half a cup of cottage cheese has as much of this element linked to hypertension as 32 potato chips|Sodium
+800|Sweet acidophilus milk contains bacteria that help break down this milk sugar|Lactose
+1000|This mineral has an important role in the formation of myoglobin in muscles|Iron

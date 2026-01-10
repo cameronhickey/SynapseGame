@@ -1,0 +1,6 @@
+CONTROL "ALT" "DEL\"
+200|2-word Latin term meaning a second self|alter ego
+400|This ever-circling ballroom dance is in triple time|a waltz
+600|An unalterable mark that can never be erased can also be described as this|indelible
+800|The Bonneville these smooth out nicely over 40 square miles|salt flats
+1000|California is known for this dry red wine from a black-skinned grape|Zinfandel

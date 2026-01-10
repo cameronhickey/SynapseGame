@@ -1,0 +1,6 @@
+LIT BITS
+200|This captain's peg leg in "Moby Dick" is made from a sperm whale's jaw|Ahab
+400|It figures that the writer of "The Last of the Mohicans" died in this town|Cooperstown
+600|The "Rubaiyat" in Omar Khayyam's title is the plural of rubai, this 4-line stanza|a quatrain
+800|Valentine & Proteus are the title characters in this play, first published in 1623|The Two Gentlemen of Verona
+1000|The most famous society dedicated to Sherlock Holmes is these "Irregulars\"|the Baker Street Irregulars

@@ -1,0 +1,6 @@
+CANADA, MEXICO OR THE U.S.
+200|The largest in area|Canada
+400|It's 90% Catholic|Mexico
+600|The most populous|the U.S.
+800|It has 2 official languages|Canada
+1000|Ruled by an emperor from 1864 to 1867|Mexico

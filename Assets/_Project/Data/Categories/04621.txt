@@ -1,0 +1,6 @@
+CITY SOBRIQUETS
+200|\"The Mardi Gras City\"|New Orleans
+400|\"The City Without Clocks" & "The Gambler's Mecca\"|Las Vegas
+600|\"Georgia's Second Oldest City" & "The Golf Capital of America\"|Augusta
+800|\"The Marine Metropolis of Virginia" & "Vacationland, U.S.A.\"|Norfolk
+1000|\"The Home of 'Ole Miss'\"|Oxford

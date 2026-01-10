@@ -1,0 +1,6 @@
+AIR FORCE BASE
+200|Named for the famous brothers & a WWI-era pilot, Wright-Patterson AFB is just east of this Ohio aviation city|Dayton
+400|The first landing of this took place at California's Edwards Air Force Base on April 14, 1981|the Space Shuttle
+600|Since the 1950s the USAF & this air force have shared a base at Mildenhall in Suffolk|the Royal Air Force (or RAF)
+800|Tampa's MacDill AFB is home to the KC-135 Stratotanker, used for this mid-air process|refueling
+1000|Arizona's Luke Air Force Base trains pilots to fly this alphanumeric plane, also known as the Fighting Falcon, a mainstay of the United States Air Force since 1979|the F-16

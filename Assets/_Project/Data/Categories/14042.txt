@@ -1,0 +1,6 @@
+ALTHING
+200|Formed in 930 A.D., the Althing of this country is one of the oldest legislative assemblies in the world|Iceland
+400|There are this many members of the Althing—they'll always fall one short of filling an entire checkerboard|sixty-three
+600|This position that has the country's real power (& the cabinet) is appointed by the president with the Althing's approval|the prime minister
+800|In 1874 the king of this nearby Scandinavian country vested the Althing with legislative power in internal affairs|Denmark
+1000|The Althing had an upper & lower house until 1991; now it's this type of legislature, meaning "one chamber\"|unicameral

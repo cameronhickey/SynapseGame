@@ -1,0 +1,6 @@
+IN YOUR HEARTS
+200|AKA a myocardial infarction, it occurs when blood flow to the heart is blocked or stopped|heart attack
+400|A surgeon may implant one of these to steady an irregular heartbeat|pacemaker
+600|The number of chambers in the human heart|4
+800|The main artery leaving the heart, its diameter can be as big as a garden hose|aorta
+1000|While systole refers to the tightening of the heart, this is the period between contractions|diastole

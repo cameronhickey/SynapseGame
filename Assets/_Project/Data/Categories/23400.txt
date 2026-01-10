@@ -1,0 +1,6 @@
+WAITER, THERE'S A BUG IN MY MOVIE
+200|2018: "Ant-Man and the ____ \"|Wasp
+400|2018: "The Girl in ____ ____ ____\"|the Spider's Web
+600|1938, a Disney "Silly Symphony": "____ and the Flame\"|Moth
+800|2002, desert battles in the ancient world: "The ____ King\"|Scorpion
+1000|1958, remade in 1986: "The ____\"|Fly

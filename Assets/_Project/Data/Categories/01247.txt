@@ -1,0 +1,6 @@
+BREAD
+200|This traditional flat bread of Mexico can be made of wheat or corn flour|a tortilla
+400|During the Jewish feast of Passover, it's traditional to eat this unleavened bread|matzo
+600|\"Food Lover's Companion" calls it "Mexico's everyday bread\"|a tortilla
+800|To make this "miner's" bread, start the starter 2 days before you bake it|sourdough
+1000|These thin, crisp French loaves are simply made with flour, salt, sugar, yeast & water|a baguettes

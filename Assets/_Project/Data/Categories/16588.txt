@@ -1,0 +1,6 @@
+WORLD "S"ITIES
+200|Pavlovsk & Pushkin are suburbs of this second-largest Russian city|Saint Petersburg
+400|Sometimes called the "Gateway to Australia", it's the oldest city on the continent|Sydney
+600|This Bolivian city is known as the "city with four names", the others being La Plata, Charcas & Ciudad Blanca|Sucre
+800|This city's main east-west street, Nanjing Road, begins at the Huangpu River & heads west|Shanghai
+1000|In 1822 Prince Regent Pedro of Portugal proclaimed Brazil's independence while visiting this city|São Paulo

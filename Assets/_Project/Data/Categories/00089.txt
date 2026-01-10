@@ -1,0 +1,6 @@
+GRAMMAR
+200|The adverb in "think fast\"|fast
+400|The superlative form of good|best
+600|It can be common, proper, collective or concrete|a noun
+800|3-letter ending of present participles & gerunds|-ing
+1000|It comes at the end of a declarative sentence|a period

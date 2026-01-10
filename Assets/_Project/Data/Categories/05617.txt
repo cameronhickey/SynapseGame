@@ -1,0 +1,6 @@
+SEEING STARS
+200|This constellation is also known as "The Winged Horse\"|Pegasus
+400|Nebulae in this constellation include the Great Nebula in its sword & the Horsehead Nebula in its belt|Orion
+600|These 2 elements make up about 97% of a star's mass|Helium & hydrogen
+800|Around 150 A.D. this Egyptian astronomer cataloged over 1,000 stars in his work "Almagest\"|Ptolemy
+1000|In 1718 this British astronomer proved that stars have proper motion|Edmond Halley

@@ -1,0 +1,6 @@
+THE NORTHERNMOST NATION
+200|Poland, England, Finland|Finland
+400|Morocco, Mali, Mozambique|Morocco
+600|Bolivia, Ecuador, Argentina|Ecuador
+800|Sri Lanka, India, Pakistan|Pakistan
+1000|Iraq, Yemen, Oman|Iraq

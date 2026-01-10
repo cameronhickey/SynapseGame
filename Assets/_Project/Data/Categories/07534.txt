@@ -1,0 +1,6 @@
+\"OU" 5-LETTER WORDS
+200|Completes the old proverb, "In for a penny, in for a...\"|\"a pound\"
+400|Completes the expression "In for a penny, in for a...\"|pound
+600|A grave robber, or an evil spirit|ghoul
+800|The steelhead type of this is named for its steely blue color|trout
+1000|From the Greek for "female slave", it's a woman who assists a mother during labor & after childbirth|doula

@@ -1,0 +1,6 @@
+RUSSIAN "T" ROOM
+200|His writing career began with the short novel "Detstvo" in 1852; the much longer pieces came later|Leo Tolstoy
+400|The taiga is the forest land of Russia & this is its nearly treeless northern belt|Tundra
+600|In 1919 he & Lenin founded the Third International to bring together comrades from around the world|Leon Trotsky
+800|A group of 3 in power, or a vehicle drawn by 3 horses abreast|Troika
+1000|In 1992 this news agency added ITAR to its name, for the Information-Telegraph Agency of Russia|TASS

@@ -1,0 +1,6 @@
+MIXED DRINKS
+200|The juice of one of these citrus fruits makes a Whiskey Sour sour|a lemon
+400|This pomegranate syrup turns a Pink Lady pink|grenadine
+600|A teaspoon of creme de cassis is added to this to make a Kir|white wine
+800|A basic Gin Rickey is gin, lime & this non-potent potable|soda water
+1000|Using Scotch whisky turns a Manhattan into this drink|a Rob Roy

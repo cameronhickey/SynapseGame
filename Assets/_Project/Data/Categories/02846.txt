@@ -1,0 +1,6 @@
+QUESTIONS
+200|Robert Kennedy liked to say that some men see things & ask why, but he dreamed things & asked this|\"Why Not?\"
+400|This query about a pontiff's religion is used in response to a silly question|Is the Pope Catholic?
+600|In a 1988 film Bob Hoskins must enter Toontown to answer this title question|Who Framed Roger Rabbit
+800|Melancholy Pete Seeger song that asks, "When will they ever learn?\"|\"Where Have All The Flowers Gone?\"
+1000|The second half of Senator Howard Baker's 1973 question that began, "What did the president know?\"|\"And when did he know it?\"

@@ -1,0 +1,6 @@
+SHIPS
+200|Merchant ship that made the trip in 1620 from Plymouth to Cape Cod|the Mayflower
+400|Royal neighbor of the Spruce Goose|the Queen Mary
+600|About 3200 B.C. this civilization invented sails|the Egyptians
+800|In the Army, officer who provides supplies, but on ships, the petty officer who maintains the bridge|the quartermaster
+1000|These were not initiated for vessels until packet ships began using them in 1818|regular schedules

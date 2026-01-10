@@ -1,0 +1,6 @@
+THE "S" FILES
+200|This plant is one of the symbols of Ireland|the shamrock
+400|Sawbones is Old West slang for this profession|surgeon
+600|It's believed that this highly infectious disease killed Pocahontas|smallpox
+800|This masculine first name, also a world capital, is Spanish for "Saint James\"|Santiago
+1000|(Jimmy of the Clue Crew shows an illustration of a prism.) When light passes through a prism & is bent by refraction, it splits into its various colors, the visible one of these|the spectrum

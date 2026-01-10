@@ -1,0 +1,6 @@
+THIS ISLAND IS YOUR ISLAND
+200|Bolshevik Island|Russia
+400|Cozumel|Mexico
+600|Lemnos & Lesbos|Greece
+800|Ellesmere & Victoria Island|Canada
+1000|Sardinia|Italy

@@ -1,0 +1,6 @@
+SCREENS
+200|Older folks like phones with keypads, but the kids don't mind typing on this "sensory" type of screen|a touchscreen
+400|Called the biggest advance in TV since color, HD, short for this, makes the picture much sharper|high definition
+600|What you get when you shut your bedroom door, or a type of filter that makes a screen readable only straight-on|a privacy screen
+800|For this iPad, the screen shrank to 7.9 inches|an iPad Mini
+1000|An NFL stadium in Arlington in this state has a video board with 26,000 square feet of screens|Texas

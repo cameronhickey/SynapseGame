@@ -1,0 +1,6 @@
+THIS IS ONLY A TEST
+200|It's a short dramatic audition filmed to show your acting potential (or lack thereof)|a screen test
+400|By definition these occur about 50% of the way through a semester & can be a big part of your final grade|a midterm
+600|In use since 1916, the Stanford-Binet test is commonly used to evaluate this in children|IQ
+800|After a controlled period of strenuous exercise, a stress test might include one of these, an EKG|an electrocardiogram
+1000|The litmus in a litmus test is a reactive dye obtained from these symbiotic plants that grow on rocks or trees|lichen

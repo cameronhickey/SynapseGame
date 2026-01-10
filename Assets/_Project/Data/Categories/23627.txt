@@ -1,0 +1,6 @@
+2-WORD BOOK TITLES
+200|\"'Oh no, he isn't grown up', Wendy assured her confidently, 'and he is just my size"'; "he" is also the title of the book|Peter Pan
+400|This 1850 book was pure magic & Dickens' "favourite child\"|David Copperfield
+600|In this William Goldman novel, a graduate student must flee a Nazi & his henchmen|Marathon Man
+800|This 1936 novel was pure Faulkner, Faulkner!|Absalom, Absalom!
+1000|Balnibarbi is a continent & Glumdalclitch, a person, in this 18th century work|Gulliver's Travels

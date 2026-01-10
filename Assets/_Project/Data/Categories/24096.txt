@@ -1,0 +1,6 @@
+SHORES
+200|Fighting the Barbary pirates inspired the Marine Corps hymn line about "the shores of" this locale|Tripoli
+400|If you're vacationing in Gulf Shores, Alabama, you're enjoying beaches along this body of water|the Gulf of Mexico
+600|The shores of Quebec's Gaspé Peninsula are on the gulf that shares its name with this river|the St. Lawrence
+800|Punta Cana is along the eastern shore of the island of Hispaniola & of this country|the Dominican Republic
+1000|This 225,000-square-mile peninsula has both Atlantic & Mediterranean shorelines|the Iberian Peninsula

@@ -1,0 +1,6 @@
+NEWTONIAN PHYSICS
+200|In 1666 it occurred to Newton that apples & the moon might both be subject to this force|Gravity
+400|Newton believed light was made of particles called these, like red & white blood cells|Corpuscles
+600|(Hi, I'm Nate Newton of the Dallas Cowboys) Newton's second law of this tells you how much a linebacker accelerates when I hit him|Motion
+800|It's the inward force that a string exerts on a ball whirling on the end of it|Centripetal force
+1000|Usual translation of Newton's words "Actioni contrariam semper et aequalem esse reactionem\"|For every action there is an equal and opposite reaction

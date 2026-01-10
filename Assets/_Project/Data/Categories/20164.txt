@@ -1,0 +1,6 @@
+LITERARY CHARACTER MASHUP
+200|Goldberry Baggins|Tolkien
+400|Nymphadora Slughorn|J.K. Rowling
+600|Leopold Dedalus|(James) Joyce
+800|Santiago Ashley|Hemingway
+1000|Hepzibah Chillingworth|Nathaniel Hawthorne

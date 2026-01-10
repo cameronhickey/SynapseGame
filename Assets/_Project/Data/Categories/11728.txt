@@ -1,0 +1,6 @@
+FISSION
+200|Otto Hahn, Lise Meitner & Fritz Strassman discovered nuclear fission by bombarding atoms of this element|uranium
+400|The first fission bomb ever dropped in war had this diminutive name|Little Boy
+600|In fission, total mass decreases because part of the original mass is converted to this, as seen in Einstein's equation|energy
+800|Controlled or uncontrolled, this is a process in which neutrons released in fission produce additional fissions|chain reaction
+1000|Einstein's letter to FDR about the possibility of fission bombs mentions the work of this Italian-born physicist|(Enrico) Fermi

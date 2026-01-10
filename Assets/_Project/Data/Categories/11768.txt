@@ -1,0 +1,6 @@
+STATES & TERRITORIES OF AUSTRALIA
+200|An Australian territorial claim covers 42% of this continent|Antarctica
+400|95% of the population of the small enclave known as the Australian Capital Territory resides in this city|Canberra
+600|Australia's most populous city, Sydney, is in this state with a 3-word name|New South Wales
+800|One of the 2 states named in honor of a woman|Victoria (or Queensland)
+1000|The one state named for a man|Tasmania

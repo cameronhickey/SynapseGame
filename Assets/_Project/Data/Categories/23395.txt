@@ -1,0 +1,6 @@
+GETTING SPORT "E\"
+200|A 3 on the par 5 6th hole at Pebble Beach|eagle
+400|A double, triple or homer is this type of hit|extra base
+600|In Canadian football, it's called the goal area|end zone
+800|This NHL tough guy will drop the gloves at the drop of a hat|an enforcer
+1000|In the NFL, a defender who makes contact with an opponent before the ball is snapped is guilty of this infraction|encroachment

@@ -1,0 +1,6 @@
+CONTINENTAL EXTREMES
+200|The southernmost country in North (including Central) America|Panama
+400|The easternmost country in South America|Brazil
+600|The westernmost country in North America|United States
+800|The westernmost country in continental Europe|Portugal
+1000|The southernmost country in South America|Chile

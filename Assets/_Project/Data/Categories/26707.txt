@@ -1,0 +1,6 @@
+SECRETARIES
+200|If you saw the 1st episode of "Dynasty", you know that this character was once Blake's secretary|Crystal
+400|She was in the news more than any other church secretary in 1987|Jessica Hahn
+600|From 1953-57 she played "Private Secretary" Susie McNamara on TV|Ann Sothern
+800|It was the 1st film in which Canadian actress Lois Maxwell played Miss Moneypenny|Dr. No
+1000|Fawn Hall worked for Oliver North at this organization|National Security Council

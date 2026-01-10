@@ -1,0 +1,6 @@
+DAFFYNITIONS
+200|\"The ring that tells you the saloon is closing" (or a gym weight)|a barbell
+400|An adjective meaning greedy, or what the owner of a Long John Silver's does|selfish/sell fish
+600|\"To throw a fishing lure too far" (or a condition of gloomy cloudiness)|overcast
+800|Animals that feed on others, or what you'll see from the top of the Eiffel Tower|a parasite/Paris sight
+1000|\"A commercial's purpose" (or the cost to see a movie)|admission

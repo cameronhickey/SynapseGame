@@ -1,0 +1,6 @@
+YES
+200|When you say "yes" in Italian & Spanish it sounds like this English letter|C
+400|In this language, yes is still a 3-letter word, but all the letters are vowels|French
+600|Zip-a-dee-doo! When in Moscow, say "yes" in Russian like this|da
+800|In German & Dutch, "yes" is 2 letters long & starts with this consonant|J
+1000|It sounds like you're saying hello, but this is how you say "yes" in Japanese|hai

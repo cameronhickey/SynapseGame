@@ -1,0 +1,6 @@
+STATES BY ATTRACTIONS
+200|The Butler Longhorn Museum and the National Cowgirl Museum & Hall of Fame|Texas
+400|Habitat for Humanity's Global Village & Discovery Center and the world's largest peanut|Georgia
+600|Elko Railroad Park and Siegfried & Roy's Secret Garden & Dolphin Habitat|Nevada
+800|The Mummers Museum and the Tom Ridge Environmental Center|Pennsylvania
+1000|The Theodore Roosevelt birthplace and the Fraunces Tavern Museum|New York

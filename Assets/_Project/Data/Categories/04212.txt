@@ -1,0 +1,6 @@
+CABLE
+200|In buildings over 10 stories they're powered by electric traction systems & lifted by steel cables|elevators
+400|Cyrus Field's first transatlantic telegraph cable that worked connected Newfoundland & this "Emerald Isle\"|Ireland
+600|Andrew S. Hallidie invented these & helped install them in San Francisco in 1873|cable cars
+800|World Book calls it "a cable of nerve cells" that extends from the neck down 2/3 of the backbone|the spinal cord
+1000|This type of bridge, like the Golden Gate, is so named because it hangs from steel cables|a suspension bridge

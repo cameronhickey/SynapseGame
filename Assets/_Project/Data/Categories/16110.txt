@@ -1,0 +1,6 @@
+NORTH AMERICAN LANGUAGES
+200|When traveling to a certain part of the U.S., you might be called a "malihini", meaning tourist in this language|Hawaiian
+400|About 4 million Canadians are unilingual speakers of this language|French
+600|As you might expect, Yucatec is a Mayan language spoken in Belize & Mexico on this peninsula|the Yucatan
+800|Nunavut means "our land" in the language of these people|the Inuit
+1000|Nahuatl, Mexico's second-most widely spoken language, is also known by the name of this pre-Columbian people|Aztecs

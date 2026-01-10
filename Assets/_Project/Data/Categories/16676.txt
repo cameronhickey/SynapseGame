@@ -1,0 +1,6 @@
+BALL STATE
+200|Loose ball, as in loose ball foul|basketball
+400|Live ball, as in an onside kick|football
+600|Passed ball— oh, Cervelli!|baseball
+800|Down ball, kind of a standing spike|volleyball
+1000|New balls, as in the umpire's traditional request "new balls please\"|tennis

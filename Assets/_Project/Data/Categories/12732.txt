@@ -1,0 +1,6 @@
+STATE THE SENATOR
+200|In 1803: John Quincy Adams|Massachusetts
+400|John Glenn|Ohio
+600|In 1953: Al Gore Sr.|Tennessee
+800|Jesse Helms|North Carolina
+1000|In 2000 the Republican here became the first man from this state to be popularly elected 5 times to the Senate|Utah

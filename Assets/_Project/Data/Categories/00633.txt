@@ -1,0 +1,6 @@
+LIBRARIES
+200|This country's Princess Grace Irish Lib. contains books about Ireland that she collected in the 1960s|Monaco
+400|George Washington's collection of books is housed at the Athenaeum Lib. in this New England capital|Boston
+600|The U.S. Copyright Office is one of its departments|Library of Congress
+800|Founded in 1895, the Carnegie Library is this city's main public library|Pittsburgh
+1000|This Oxford library was stripped of books around 1550 but reopened 50 years later|Bodleian Library

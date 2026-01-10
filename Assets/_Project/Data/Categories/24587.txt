@@ -1,0 +1,6 @@
+COMPLETE THE PANGRAM
+200|The classic pangram: "The ____ brown fox jumps over the lazy dog\"|quick
+400|For an adult vacation guaranteed to be forgotten, "Pack my box with five dozen jugs of" this general term for booze|liquor
+600|\"Farmer Jack realized that big yellow" these bed coverings "were expensive\"|quilts
+800|\"We promptly judged" this old word "ivory buckles for the next prize\"|antique
+1000|Most birds don't, but "Jackdaws love my big Sphinx of" this mineral|quartz

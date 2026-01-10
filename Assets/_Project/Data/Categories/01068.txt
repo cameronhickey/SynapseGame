@@ -1,0 +1,6 @@
+CATHEDRALS
+200|This kind of natural disaster damaged the dome of Hagia Sophia in 558, 989 & 1346|an earthquake
+400|The Duke of Wellington is buried in a crypt under the floor of this London cathedral|St. Paul's
+600|Giuliano de Medici was assassinated inside Il Duomo, the magnificent cathedral in this city|Florence
+800|This world-famous landmark on Red Square is actually a combination of 9 chapels|St. Basil's (Cathedral)
+1000|This city's beautiful cathedral stands near the Alcazar Palace, as Carmen could have told you|Seville

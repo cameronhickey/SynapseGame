@@ -1,0 +1,6 @@
+AROUND THE EQUATOR
+200|It's the latitude of any point on the equator|0
+400|This magazine's 1998 swimsuit issue was shot at locations around the world on the Equator|Sports Illustrated
+600|The Mitad del Mundo, "Middle of the Earth" monument, is near Quito in this country|Ecuador
+800|These islands were named from the Spanish for "saddles", for the saddleback tortoises found there|Galapagos Islands
+1000|14-letter adjective for a satellite's orbit that keeps it above the same point on the equator|geosynchronous

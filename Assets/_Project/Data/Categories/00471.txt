@@ -1,0 +1,6 @@
+PHOTOGRAPHY
+200|A basic set of these includes normal, wide-angle & telephoto|lenses
+400|Photographic prints are of 2 basic types: glossy, which is shiny, & this, which is dull|matte
+600|Among these settings are 2.8, 4, 5.6 & 8|f-stops
+800|In 1907, the Lumiere bros. of France took the first successful ones|color photographs
+1000|What ASA stands for|American Standards Association

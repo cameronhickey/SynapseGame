@@ -1,0 +1,6 @@
+WORKING 9 2 5
+200|It's the number of square feet in a square yard|9
+400|A silver wedding anniversary celebrates this many years of marriage|25
+600|In 1986 Michigan became the first state to offer a prepaid college tuition plan now called this|a 529 plan
+800|Tradition says Martin Luther posted this many theses to the door of a castle church in 1517|95
+1000|A standard 88-key piano has this many white keys|52

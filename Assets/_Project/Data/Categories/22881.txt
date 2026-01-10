@@ -1,0 +1,6 @@
+GAME THEORY
+200|If your stack is short & you need to double up to stay in a game of hold 'em, it might be time to "go" these 2 words|all-in
+400|In Monopoly, buy heavily landed-on St. James Place, New York Avenue & Tennessee Avenue, the properties of this color|orange
+600|Playing this game issued by Milton Bradley in 1967? Don't place your ships touching each other|Battleship
+800|If you win, switch to whatever would've beaten you for the next round, says a 2014 study on the psychology of this game|Rock, Paper, Scissors
+1000|Take the small continents first & leave Asia for later in this "game of strategic conquest\"|Risk

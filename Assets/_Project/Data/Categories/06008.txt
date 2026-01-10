@@ -1,0 +1,6 @@
+THE END
+200|This Shakespearean title character kills Laertes & the king, then dies from poisoning|Hamlet
+400|In a 1901 story, Sherlock Holmes solves the death of this gentleman who's been killed by a large dog|Mr. Baskerville
+600|In this book Miss Havisham dies when her wedding dress catches on fire|Great Expectations
+800|Hit by a stray bullet, Paul Baumer dies at the end of this Erich Maria Remarque novel|All Quiet on the Western Front
+1000|This captain & his ship disappear into a maelstrom at the end of a Jules Verne tale|Captain Nemo

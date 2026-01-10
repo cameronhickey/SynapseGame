@@ -1,0 +1,6 @@
+START "OFF\"
+200|It means very much not taking the beaten path|off-road
+400|This 7-letter word for a type of extemporaneous remark ends with a body part|offhand
+600|This avant-garde double-talk New York theater movement is 2 steps away from the mainstream|Off-Off-Broadway
+800|Who knows that this is the job of someone conducting a wedding? I do!|officiant
+1000|What we somewhat euphemistically call variety meats, the British call this unpleasant-sounding word|offal

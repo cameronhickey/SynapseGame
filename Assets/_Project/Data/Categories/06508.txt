@@ -1,0 +1,6 @@
+CHEMISTRY 101
+200|You don't need any super powers to know that Kr is the chemical symbol for this noble gas|krypton
+400|The temperature of this smokeless laboratory heating device is controlled by the amount of air in the tube|a Bunsen burner
+600|It's a substance that reacts with an acid to decrease or neutralize its acidic properties; lye, for example|a base
+800|(Hi, I'm Doctor Alan Heger, Nobel Prize-winner in Chemistry.) These large molecules are formed by the chemical linking of smaller molecules; nylon is a synthetic one|a polymer
+1000|In this type of bond, 2 bonded atoms each contribute 1 electron to a pair, which the atoms then share|a covalent bond

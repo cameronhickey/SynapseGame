@@ -1,0 +1,6 @@
+WHERE'S THE BEEF?
+200|On a menu "beef" or "steak" this means it comes only one way—raw!|tartare
+400|Clara Peller famously asked, "Where's the beef?" in TV ads for this "old fashioned hamburgers" chain|Wendy's
+600|Mmm! Here's this Southern favorite with a different type of meat in its name|chicken-fried steak
+800|The name of this French boeuf dish, beef braised in red wine, means it's prepared in the style of Burgundy|bourguignon
+1000|Though best known, Kobe is just one variety of this expensive beef whose name translates to "Japanese cow\"|Wagyu

@@ -1,0 +1,6 @@
+WOLF
+200|It's the collective noun used to describe a group of wolves|a pack
+400|The timber & the tundra are 2 main types of this "colorful" wolf|the gray wolf
+600|By the mid-20th C. the few wolf populations left in the lower 48 were mainly in this state, home of the NBA's Timberwolves|Minnesota
+800|The dominant male & female wolves in a pack are designated with this Greek letter|alpha
+1000|Also known as the prairie wolf, it can be bred successfully with domestic dogs|the coyote

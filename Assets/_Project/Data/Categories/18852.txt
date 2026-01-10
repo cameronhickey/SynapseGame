@@ -1,0 +1,6 @@
+DICKENS BOOK BY CHARACTER
+200|Bob Cratchit|A Christmas Carol
+400|Bill Sikes|Oliver Twist
+600|Esther Summerson|Bleak House
+800|Dr. Alexandre Manette|A Tale of Two Cities
+1000|Uriah Heep|David Copperfield

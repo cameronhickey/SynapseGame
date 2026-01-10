@@ -1,0 +1,6 @@
+GET YOUR LITERARY FACTS STRAIGHT
+200|\"Three Junes" is a novel by Julia Glass; this Chekhov play centers on the Prozorov family|Three Sisters
+400|Agatha Christie: "Death On The Nile"; Thomas Mann: "Death In" this city|Venice
+600|\"Brick House" is by the Commodores; this Dickens novel tells of the interminable suit of Jarndyce & Jarndyce|Bleak House
+800|\"A Room of One's Own" is a feminist essay by Virginia Woolf; this E.M. Forster work tells of Lucy, on vacation in Italy|A Room With a View
+1000|Ivan Turgenev wrote "A Month in the Country"; Alan Paton wrote this story of a South African pastor & his son|Cry, the Beloved Country

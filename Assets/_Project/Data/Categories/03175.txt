@@ -1,0 +1,6 @@
+CHEM LAB
+200|Plumbago is also called graphite or black this|Black lead
+400|This milk sugar has the chemical formula C12 H22 O11|Lactose
+600|Diluted it can be a mouthwash or a hair bleach; concentrated, it can explode if heated to over 212 degrees F.|Hydrogen peroxide
+800|An atom or molecule with a single unspoiled one of these is a free radical, man|Electron
+1000|Term for the lowest temperature at which a small flame will ignite the vapors over a flammable liquid|Flashpoint

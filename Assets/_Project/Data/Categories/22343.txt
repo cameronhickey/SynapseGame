@@ -1,0 +1,6 @@
+\"C" AS IN SEIZE
+200|It's a car pedal, or a verb meaning to hold tightly|a clutch
+400|To grip, or a jewelry fastener|a clasp
+600|A boxing hold, or to nail down a playoff spot|clinch
+800|To confiscate a vehicle temporarily in an emergency, as when a policeman needs to pursue a suspect|commandeer
+1000|Slangy clothing term for an arrest by the police|a collar

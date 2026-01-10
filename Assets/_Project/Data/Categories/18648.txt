@@ -1,0 +1,6 @@
+ISLANDS IN THE "C"s
+200|The ruins of Knossos are on this Greek island|Crete
+400|An old song says, "26 miles across the sea" this island "is a-waitin' for me\"|Catalina
+600|Willemstad is the capital & chief town of this Dutch island in the Caribbean|Curaçao
+800|These islands, Grand & Little, are named for the alligators reported to be native there|the Cayman Islands
+1000|The flag of these islands has a lot in common with the flag of New Zealand|the Cook Islands

@@ -1,0 +1,6 @@
+PROVINCES
+200|Entre Rios, Rio Negro, La Pampa|Argentina
+400|Sind, Punjab, Baluchistan|Pakistan
+600|Leon & Segovia|Spain
+800|Punjab & Sindh are 2 of its 4 provinces|Pakistan
+1000|Limpopo & Northern Cape|South Africa

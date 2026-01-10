@@ -1,0 +1,6 @@
+THIS LANDFILL IS MY LANDFILL
+200|Peoria City-County Landfill|Illinois
+400|Okeechobee Landfill|Florida
+600|Show-Me Sanitary Landfill|Missouri
+800|Altamont Sanitary Landfill|California
+1000|South Hadley Landfill|Massachusetts

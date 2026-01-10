@@ -1,0 +1,6 @@
+DANCE ORIGINS
+200|The bolero|Spain
+400|The tarantella|Italy
+600|Gavotte|France
+800|Tarantella|Italy
+1000|Lambada|Brazil

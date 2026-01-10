@@ -1,0 +1,6 @@
+\"GENERAL" JOB INFORMATION
+200|Alberto Gonzales & Robert F. Kennedy both held this cabinet position|Attorney General
+400|In 1775 the Continental Congress appointed man of letters Benjamin Franklin to this job|postmaster general
+600|It's the rank just below (the very model of a modern) major general|brigadier general
+800|The U.N.'s website says this job is "a spokesman for the interests of the world's peoples, in particular the poor\"|the Secretary-General
+1000|In 1870 Congress created this position to direct the Marine Hospital Service|the Surgeon General

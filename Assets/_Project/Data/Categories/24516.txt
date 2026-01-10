@@ -1,0 +1,6 @@
+ADD A LETTER AT THE START
+200|Of a word meaning healthy to get this cetacean|whale (from hale)
+400|Of a word meaning to vote into office to get this verb meaning to choose|select (from elect)
+600|Of a word meaning something done to get this word meaning a splinter group|faction
+800|Of a synonym for a conclusion to get this word meaning awaiting conclusion|pending
+1000|Of a word meaning ready to eat to get this word meaning to complain|gripe

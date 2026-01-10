@@ -1,0 +1,6 @@
+MOVIE TITLE REFERENCES
+200|\"The Green Mile" was this bad part of Cold Mountain Penitentiary|death row
+400|2011: A nickname for Britain's prime minister from 1979 to 1990|The Iron Lady
+600|\"Black Hawk Down" refers to a pair of these in Somalia|helicopters
+800|2008: Waste Allocation Load Lifter-Earth Class|WALL-E
+1000|In a 2007 animated film, this "peasant dish" earns a glowing review for a Parisian restaurant|ratatouille

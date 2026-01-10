@@ -1,0 +1,6 @@
+SONG ADJECTIVES
+200|Nirvana: "Smells Like ____ Spirit\"|Teen
+400|Billy Ray Cyrus: "_____ _____ Heart\"|Achy Breaky
+600|The Verve: "____ ____ Symphony\"|Bitter Sweet
+800|A top-ten hit twice: "_____ Rhapsody\"|Bohemian
+1000|Depeche Mode: "____ Jesus\"|Personal

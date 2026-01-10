@@ -1,0 +1,6 @@
+DOWN TO "RTH\"
+200|It precedes Pole, Sea & Star|North
+400|Once upon a time home was where this fireplace area was, providing heat & light at night, & fire for cooking|a hearth
+600|Time to go to sleep on the train? Do you want the upper one or the lower one?|a berth
+800|It's the distance around something, like a middle-aged waist|girth
+1000|In Scotland it's an inlet like Moray or of Clyde|firth

@@ -1,0 +1,6 @@
+\"J-I-T" WORDS
+200|Its magnetic field is 20 times stronger than Earth's|Jupiter
+400|The Rio Grande Valley is the birthplace of this dish of meat, onions & peppers sizzled & tortilla-ed|fajitas
+600|From the Latin for "close by", it's the placement of different elements side by side|juxtaposition
+800|Once the site of a state prison, this city near Chicago has an economy today based on tourism & casinos|Joliet
+1000|One of 3 core design languages, this programming mainstay is often used to add interactive features to webpages|JavaScript

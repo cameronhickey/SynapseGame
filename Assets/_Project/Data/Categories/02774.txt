@@ -1,0 +1,6 @@
+\"C" IN GEOGRAPHY
+200|The name of this Welsh capital may mean "Fort on the Taff\"|Cardiff
+400|You'll find El Teniente, the world's largest underground copper mine, in this South American country|Chile
+600|Ancient village in Mexico known for the temples and pyramids the Mayans made of brick and stone|Chichen Itza
+800|Called France's most famous cheese, it's named for this Normandy village where it was first made|Camembert
+1000|This capital of Canada's Prince Edward Island was named for the wife of King George III|Charlottetown

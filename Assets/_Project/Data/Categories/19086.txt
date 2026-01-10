@@ -1,0 +1,6 @@
+MOVIE CATCHPHRASES
+200|\"There's no place like home\"|The Wizard of Oz
+400|\"I'm the king of the world!\"|Titanic
+600|\"If you build it, he will come\"|Field of Dreams
+800|\"I'll have what she's having\"|When Harry Met Sally...
+1000|\"The Dude abides\"|The Big Lebowski

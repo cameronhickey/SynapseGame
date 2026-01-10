@@ -1,0 +1,6 @@
+STATE FLAGS & SYMBOLS
+200|This heavenly symbol is on more than 15 of the 50 flags, including those of Alaska & Tennessee|stars
+400|Its state reptile is the mountain boomer lizard, not the Sooner lizard|Oklahoma
+600|Its state boat is the Nautilus even though it's the Constitution State|Connecticut
+800|This New England state's bird & tree both have red in their names|Rhode Island
+1000|Its state coat of arms features a king on the left & a goddess of liberty on the right|Hawaii

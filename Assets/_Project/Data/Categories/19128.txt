@@ -1,0 +1,6 @@
+COUNTRIES' PROVINCES
+200|KwaZulu-Natal & Western Cape|South Africa
+400|Granma & Guantanamo|Cuba
+600|Carinthia & Salzburg|Austria
+800|Kandahar & Baghlan|Afghanistan
+1000|Colon & Darien|Panama

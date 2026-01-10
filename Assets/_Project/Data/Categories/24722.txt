@@ -1,0 +1,6 @@
+BEATLES "S"ONGS
+200|\"So may I introduce to you the act you've known for all these years?\"|\"Sgt. Pepper's Lonely Hearts Club Band\"
+400|\"Nothing is real and nothing to get hung about\"|\"Strawberry Fields Forever\"
+600|\"With a love like that you know you should be glad\"|\"She Loves You\"
+800|\"I don't want to leave her now, you know I believe and how\"|\"Something\"
+1000|\"Sunday's on the phone to Monday, Tuesday's on the phone to me\"|\"She Came In Through The Bathroom Window\"

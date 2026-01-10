@@ -1,0 +1,6 @@
+DOUBLE "I\"
+200|Aerial, mogul & acrobatic are the 3 types of freestyle in this sport|skiing
+400|This state's all-time high temperature was 100 degrees at Pahala on April 27, 1931|Hawaii
+600|For an aircraft, it's the slow movement on the ground before takeoff|taxiing
+800|Games for this product include "Fortune Street", "The Legend of Zelda" & "NASCAR Unleashed\"|the Nintendo Wii
+1000|The Japanese call some highly prized specimens of this mushroom "donko\"|shiitake

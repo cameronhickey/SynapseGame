@@ -1,0 +1,6 @@
+WE THREE KINGS
+200|Of King of Glory, King of Hell or King of Prussia, the one that's a city in Pennsylvania|King of Prussia
+400|Of England's George I, II or III, the one for whom the U.S. State of Georgia was named in 1733|George II
+600|Of the Scottish kings Donald III, Malcolm III or Alexander III, the one who became king after killing Macbeth in 1057|Malcolm
+800|Of Norway's Haakon VII, Olaf V or Harald V, the one who currently occupies the throne|Harald
+1000|Of Ivan the Terrible, Peter the Great or Nicholas II, the one ruling when Ben Franklin was born|Peter the Great

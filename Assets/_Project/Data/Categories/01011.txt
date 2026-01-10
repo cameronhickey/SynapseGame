@@ -1,0 +1,6 @@
+DINOSAURS
+200|The teeth of this, the largest terrestrial predator ever known, were about 7 inches long|the Tyrannosaurus Rex
+400|Whether the bony plates on the back of this dinosaur were in 1 or 2 rows is a matter of some dispute|the Stegosaurus
+600|Its name indicates it had 2 fewer horns than the Pentaceratops|a Triceratops
+800|Scientists were surprised when they found impressions of these with the skeleton of the Archaeopteryx|feathers
+1000|The 2 major groups are distinguished by the way the bones in this part of their bodies fit together|their hips

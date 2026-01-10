@@ -1,0 +1,6 @@
+THE SKIPPER
+200|1851: The Pequod|Captain Ahab
+400|1932: The Bounty (before the mutiny)|Captain Bligh
+600|1870: The Nautilus|Captain Nemo
+800|1951: The Caine (before the mutiny)|Captain Queeg
+1000|1904: The Ghost|Captain Wolf Larsen

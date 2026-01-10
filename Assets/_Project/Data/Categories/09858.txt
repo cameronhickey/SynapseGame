@@ -1,0 +1,6 @@
+THAT'S WHERE IT'S AT, MAN!
+200|It's borders are the Atlantic Ocean to the south & west & Spain to the north & east|Portugal
+400|India to the north, east & west & Burma to the southeast|Bangladesh
+600|Colombia to the north, Peru to the west, Paraguay to the south & the Atlantic Ocean to the east|Brazil
+800|Syria to the north & east, Israel to the south & the Mediterranean Sea to the west|Lebanon
+1000|Thailand to the west, Laos to the north & Vietnam to the east|Cambodia

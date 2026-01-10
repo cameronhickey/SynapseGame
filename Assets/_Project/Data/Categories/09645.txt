@@ -1,0 +1,6 @@
+S, U OR V
+200|Compass direction|S (for south)
+400|Roman numeral|V
+600|\'80s sci-fi blockbuster miniseries concerning man-eating reptilian aliens|V
+800|Feel enriched if you know this symbol for the 92nd element of the periodic table|U (for uranium)
+1000|Also known as a transverse wave, this type of wave is found in an earthquake|S (for shear wave)

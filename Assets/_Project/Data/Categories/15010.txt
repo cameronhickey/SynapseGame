@@ -1,0 +1,6 @@
+CONSONANT, VOWEL, CONSONANT, VOWEL
+200|An innocent, unsuspecting person is said to be this "in the woods\"|a babe
+400|A place for keeping grain or ballistic missiles (probably not both at once, though)|a silo
+600|A river on the Nicaragua-Honduras border, or Ms. Chanel|Coco
+800|It's a tubular pasta in short pieces, often baked in a tomato sauce|ziti
+1000|To stare with open mouth, as in wonder|gape

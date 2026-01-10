@@ -1,0 +1,6 @@
+STATE CAPITAL ATTRACTIONS
+200|The Pacific Aviation Museum & the USS Arizona Memorial|Honolulu
+400|Temple Square & the Joseph Smith Memorial Building|Salt Lake City
+600|The Wings over the Rockies Air & Space Museum & Four Mile Historic Park|Denver
+800|Red Stick Farmers Market & The Blue Bayou Water Park|Baton Rouge
+1000|Museo Chicano & the Desert Botanical Garden|Phoenix

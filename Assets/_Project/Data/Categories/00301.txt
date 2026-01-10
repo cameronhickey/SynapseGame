@@ -1,0 +1,6 @@
+HOTEL NAMES
+200|Liz's Nicky|Hilton
+400|The film in which Bing sang about a white Christmas & an Easter parade|Holiday Inn
+600|According to Andy Griffith, "Everything's good that sits on" this cracker|a Ritz
+800|In 1959, "Maverick" won the Emmy for this category, only year it was given|Best Western
+1000|Muppets commenting from the balcony in the following "That was wonderful!" "Bravo!" "I loved it!" "Ah, it was great!" "Well, it was pretty good." "Well, it wasn't bad..." "Uh, there were parts of it that weren't very good though." "It could have been a lot better." "I didn't really like it." "It was pretty terrible." "It was bad." "It was awful!" "It was terrible!" "Take 'em away!" "Hey, boo!" "Boo!\"|Statler and Waldorf

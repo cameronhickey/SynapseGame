@@ -1,0 +1,6 @@
+FROM BOOK TO BIG SCREEN
+200|Zhang Ziyi played Chiyo-Sen in the film version of Arthur S. Golden's "Memoirs of" one of these|A Geisha
+400|This 2005 film in which aliens use tripod machines is based on a novel by H.G. Wells|War of the Worlds
+600|This novel and its 2006 film version both start with a museum curator staggering through the Louvre|The Da Vinci Code
+800|Hayden Christensen can teleport himself anywhere in this 2008 film based on a novel by Steven Gould|Jumper
+1000|This 1962 novel by Ken Kesey was adapted for the big screen in 1975 & won 5 Academy Awards|One Flew Over the Cuckoo's Nest

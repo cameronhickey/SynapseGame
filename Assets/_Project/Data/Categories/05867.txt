@@ -1,0 +1,6 @@
+LETTER DROP
+200|From a winning finish in a race, drop this letter to get a closed hand|R (first/fist)
+400|From a 2-wheeled horse-drawn vehicle, drop this letter to get a 4-wheeled power vehicle|T (cart/car)
+600|Drop this letter from 30 days to get a lepidopteran|N (month/moth)
+800|From darkness or depression, drop this letter to get a weaving apparatus|G (gloom/loom)
+1000|Drop this letter from quick & active to get a Jewish circumcision|K (brisk/bris)

@@ -1,0 +1,6 @@
+FOREIGN WORDS
+200|This French word for "goodbye" comes from 2 words literally meaning "to God\"|adieu
+400|This Japanese word for "teacher" is a common title for a karate instructor|sensei
+600|In India, she was the wife of a Maharaja|a Maharani
+800|Seattle has one of the oldest of these martial arts schools outside Japan|dojo
+1000|German for armed uprising or riot; Hitler's failed in 1923|putsch

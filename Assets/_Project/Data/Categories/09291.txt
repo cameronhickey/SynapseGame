@@ -1,0 +1,6 @@
+SHOOT SOME "POOL\"
+200|A group of commuters traveling together in one vehicle|a carpool
+400|A rapidly rotating current of water|whirlpool
+600|An underground container for sewage|cesspool
+800|English port city on the Mersey River|Liverpool
+1000|A military installation's centrally managed group of vehicles intended for the use of personnel|the motor pool

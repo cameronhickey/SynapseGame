@@ -1,0 +1,6 @@
+PLAY ADJECTIVES
+200|Neil Simon's "____ in Yonkers\"|Lost
+400|Noel Coward's "____ Lives\"|Private
+600|Eugene O'Neill's "The ____ Ape\"|Hairy
+800|Leonard Gershe's "Butterflies are ____\"|Free
+1000|Edward Albee's "A ____ Balance\"|Delicate

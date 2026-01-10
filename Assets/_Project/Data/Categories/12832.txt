@@ -1,0 +1,6 @@
+YOU NEED TO CONVERT
+200|1,728 cubic inches equals this many cubic feet|1
+400|4 pecks equals 1 of these|a bushel
+600|32 degrees Fahrenheit equals this many degrees Celsius|0
+800|One eighth of a circle equals this many degrees|45
+1000|18 square feet equals this many square yards|2

@@ -1,0 +1,6 @@
+FILL THE "BIL\"
+200|A flat surface on which outdoor advertisements are posted|a billboard
+400|He has a riddle contest with Gollum in "The Hobbit\"|Bilbo
+600|\"Bluesy" city of Southern Mississippi on the Gulf of Mexico|Biloxi
+800|It's the capital of Spain's Vizcaya province|Bilbao
+1000|A high amount of this bile pigment can produce jaundice|bilirubin

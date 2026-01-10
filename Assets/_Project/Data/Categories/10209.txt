@@ -1,0 +1,6 @@
+A CAPITAL QUICKIE
+200|In Europe: Bern|Switzerland
+400|In South America: Montevideo|Uruguay
+600|In Asia: Colombo|Sri Lanka
+800|In Europe: Zagreb|Croatia
+1000|In Africa: Asmara|Eritrea

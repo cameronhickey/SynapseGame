@@ -1,0 +1,6 @@
+CALL THE POLICE
+200|Also an after-school penalty, it's the holding of a suspect in custody to await charges or trial|detention
+400|Dactyloscopy is a forensic method of studying these to establish identification|fingerprints
+600|It's a legal document empowering the police to look through a premises for evidence of illegal activity|a search warrant
+800|Abbreviated FRS, this system is an advanced computerized method for identifying suspects|facial recognition system
+1000|The NYPD calls its stations these; the 17th one is headquartered on East 51st|a precinct

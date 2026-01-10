@@ -1,0 +1,6 @@
+PHYSICS
+200|In electricity, what "AC" stands for|alternating current
+400|Newton's 3rd law states for every action this is equal and opposite|a reaction
+600|He made "relativistic corrections" in Newton's theories which made atomic theory workable|Einstein
+800|Branch of physics dealing with light|optics
+1000|Term for the amount of twist that a force exerts on an object|torque

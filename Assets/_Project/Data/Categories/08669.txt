@@ -1,0 +1,6 @@
+DO YOU SPEAK COMPUTER?
+200|RAM & ROM are 2 types of this important computer storage|memory
+400|It's the decorative term for the background design on your computer screen|wallpaper
+600|It's the "rigid" disk inside your computer magnetized to hold the operating system & lots of data|the hard drive
+800|Lotus & Excel are 2 popular versions of this type of computer program that puts data in rows & columns|a spreadsheet
+1000|It's not a small Granny Smith, it's a small piece of computer code that can be transferred over the Internet|an applet

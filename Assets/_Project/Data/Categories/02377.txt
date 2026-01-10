@@ -1,0 +1,6 @@
+GLANDS
+200|In platypuses these milk-producing glands are functional in both males & females|the mammary glands
+400|Goiter can be characterized by the enlargement of this gland or of 1 of its 2 lobes|the thyroid
+600|This insulin-producing gland usually weighs about 3 ounces|the pancreas
+800|Gen. H. Norman Schwarzkopf is leading the fight against cancer of this gland|the prostate
+1000|Collectively, the submaxillary, sublingual & parotid glands are called these|the salivary glands

@@ -1,0 +1,6 @@
+STATE OF DISASTER
+200|There have been numerous avalanches in the Cascade Range's Stevens Pass in this state|Washington
+400|The first U.S. passenger rail fatalities occurred in this state when the Camden & Amboy train derailed|New Jersey
+600|In 1953 Worcester County saw one of the worst tornadoes in the history of this New England state|Massachusetts
+800|This U.S. mainland state has more active volcanoes than all other states combined; it's also the most earthquake prone|Alaska
+1000|In 1972 14 towns were flooded when a coal mine's slag-pile dam collapsed in this mountain state|West Virginia

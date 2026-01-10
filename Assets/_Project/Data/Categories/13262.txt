@@ -1,0 +1,6 @@
+COOKBOOKS FOR KIDS
+200|\"C is for Cooking: Recipes from the Street" is a book of recipes from this TV street|Sesame Street
+400|\"Cooking Rocks!" is her book of "30-Minute Meals for Kids\"|Rachael Ray
+600|The "Mom and Me Cookbook" tells how to put faces on these with typical toppings (olive noses! tomato eyes!)|pizza
+800|Linus knows that the "Lunchtime Cookbook" named for this comic strip includes Charles Schulz' Overnight Salad|Peanuts
+1000|This author's "Revolting Recipes" include Scrambled Dregs & Willy Wonka's Nutty Crunch Surprise|Roald Dahl

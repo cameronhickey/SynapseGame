@@ -1,0 +1,6 @@
+WHAT COLOR IS YOUR BUSINESS?
+200|Cooking steak since 1964: ____ Angus|black
+400|A hotel chain: ____ Roof Inn|red
+600|Offering frothy fruit drinks: ____ Julius|orange
+800|Helping home chefs: ____ Apron|Blue Apron
+1000|Tart frozen yogurt from Los Angeles: ____berry|pink

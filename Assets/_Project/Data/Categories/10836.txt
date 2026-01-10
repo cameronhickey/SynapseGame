@@ -1,0 +1,6 @@
+COLORS EN ESPAÑOL
+200|To be "en numeros rojos" means to be in this color|red
+400|In kids' drawings el sol is amarillo, this color|yellow
+600|As its name says, salsa verde is made with chiles & tomatillos that are this color|green
+800|Azul, this color, can be marino or celeste|blue
+1000|Spanish painter Juan Gris has a last name that means this color|gray

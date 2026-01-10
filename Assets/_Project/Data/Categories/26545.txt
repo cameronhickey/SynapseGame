@@ -1,0 +1,6 @@
+AT THE KEYBOARD
+200|This is typically the largest key on the keyboard; it's designed that way for easy access since it's used so frequently|the space bar
+400|For some users, this combo of keys is known as the TFS, or 3-finger salute; in the early days of Windows, it forced a system reboot|Control-Alt-Delete
+600|Say goodbye to "claw hand": From the Greek for "work", this type of keyboard is designed to optimize comfort & ease hand strain|ergonomic
+800|When gaming on a standard computer keyboard, these 4 letter keys are commonly used for directional character movement|W, A, S & D
+1000|In the 1980s this company's "Model M" keyboard with numeric keypad became an industry standard & a user favorite|IBM

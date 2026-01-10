@@ -1,0 +1,6 @@
+GERMAN
+200|Au revoir in German|auf wiedersehen
+400|Hitler began building these 4-laned highways in the '30s|the Autobahns
+600|General time of day for a greeting of "Guten tag\"|good afternoon
+800|German word meaning destroyed, ruined or all finished|kaput
+1000|What you'd get in a restaurant asking for "Herr ober\"|the waiter

@@ -1,0 +1,6 @@
+U.S. BODIES OF WATER
+200|The Arlington Memorial Bridge over this river links Washington, D.C. to Virginia|the Potomac River
+400|Waterfalls along this state's Kennebec River are used to generate power|Maine
+600|This arm of the Pacific in Washington state divides into Hood Canal & Admiralty Inlet|Puget Sound
+800|This state's 2 largest lakes, Harry S. Truman Reservoir & Lake of the Ozarks, were both created artificially|Missouri
+1000|From Rainy Lake to Lake of the Woods, the Rainy River provides this state's border with Canada|Minnesota

@@ -1,0 +1,6 @@
+\"SOFT\"
+200|Type of crab or clam|soft shell
+400|Cushy term for the unregulated donations to political parties from corporate & union treasuries|soft money
+600|The U.S. has has 4 trade disputes, known as Lumber I, II, III & IV, with Canada over this product|softwood lumber
+800|A deliberate slight blurring of a filmed image for effect|soft focus
+1000|It's the S in the ESA, the association to which video-game sellers like Sony belong|software

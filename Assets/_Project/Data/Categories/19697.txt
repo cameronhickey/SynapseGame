@@ -1,0 +1,6 @@
+MOTOR VEHICLES
+200|A pumper is this type of emergency vehicle|a fire truck
+400|Hit the sand for some fun in one of these vehicles|a dune buggy
+600|Ragtop is slang for this type of car|a convertible
+800|On the job an EMT mostly rides around in one of these|an ambulance
+1000|The Arctic Cat brand of these recreational vehicles has been made in Minnesota for over 50 years|snowmobiles

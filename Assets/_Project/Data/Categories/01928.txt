@@ -1,0 +1,6 @@
+STATE EMBLEMS
+200|Its state motto is "North to the Future"; its tree, the Sitka spruce|Alaska
+400|Its folk dance is the square dance; one of its songs is a waltz|Tennessee
+600|On New York's coat of arms, this figure holds a sword in one hand & scales in the other|Justice
+800|Connecticut's state this is a plaid with stripes of blue, green & gray|tartan
+1000|Illinois has a state microbe to honor Peoria's 1940s role in first mass-producing this antibiotic|penicillin

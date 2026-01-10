@@ -1,0 +1,6 @@
+LEFT TO YOUR OWN DEVICES
+200|When this device is "on hook", the speech circuit is disabled & the ringing circuit is connected|a phone
+400|The name of this ancient device used for calculations is from the Latin for "counting board\"|an abacus
+600|On a crash cart in a hospital, you'll find this device that shocks the heart|a defibrillator
+800|Elisha Otis' son Charles improved on the device that slowed a speeding this, whether or not the rope broke|an elevator
+1000|(Kelly of the Clue Crew gives the clue from a lab.) Stretch a balloon over a glass, secure with rubber bands, then place a straw on top & you have a simple version of this device that measures air pressure|a barometer

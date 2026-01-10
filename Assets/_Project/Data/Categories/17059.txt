@@ -1,0 +1,6 @@
+WONDERS
+200|In 1989, the Eiffel Tower will celebrate this anniversary|100
+400|Located between Nevada & Arizona, its over 200 sq. mi. reservoir holds some 10 trillion gallons of water|Lake Mead
+600|Name given the building which contained the remains of King Mausolus of Caira, who died in 353 B.C.|mausoleum
+800|A watchtower was built every 100-200 yards along this structure over 2000 miles long|Great Wall of China
+1000|Finished after 12 years in 280 B.C., this giant statue was destroyed by earthquake about 50 years later|the Colossus (of Rhodes)

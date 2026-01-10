@@ -1,0 +1,6 @@
+BODY WORKS
+200|It's the hinge-like joint that allows the foot to move up & down|Ankle
+400|This pair of tissue masses that can cause snoring lies above the tonsils in the nasal passage|Adenoids
+600|This chamber, also called the voice box, is larger in males than in females, producing a deeper voice|the larynx
+800|This reddish-brown organ, the largest inside the body, is believed to perform at least 500 functions|the liver
+1000|(Satah of the Clue Crew shows us a picture of a very tall man.) Robert Wadlow, the tallest man on record, grew to 8'11" due to a condition called gigantism in which too much growth hormone is produced by this important gland at the base of the brain|the pituitary

@@ -1,0 +1,6 @@
+STATE SLOGANS
+200|\"Land of the Midnight Sun\"|Alaska
+400|\"Rocky Mountain High\"|Colorado
+600|\"Great Potatoes, Tasty Destinations\"|Idaho
+800|\"Great Faces, Great Places\"|South Dakota
+1000|\"Restart your Engines\"|Indiana

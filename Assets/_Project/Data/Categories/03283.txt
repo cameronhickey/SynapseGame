@@ -1,0 +1,6 @@
+EXCHANGES
+200|Abbreviated TSE, it's Canada's largest stock exchange|the Toronto Stock Exchange
+400|The Parquet is the main trading area of this city's Bourse, founded in 1141|Paris
+600|London stock prices are tracked by the FTSE 100 Index, FT standing for this newspaper|the Financial Times
+800|The nation's grain futures are at stake in the "pit" of this Chicago institution founded in 1848|the Chicago Board of Trade
+1000|This continental city's exchange began in 1611, dealing in securities of companies in East India trade|Amsterdam

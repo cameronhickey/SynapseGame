@@ -1,0 +1,6 @@
+IN THEIR LEAGUE
+200|The Arizona Cardinals|the NFL
+400|The St. Louis Cardinals|the National League
+600|The BC Lions|the Canadian Football League (or CFL)
+800|The Stanford Cardinal (in this case, a conference)|the Pac-12
+1000|The Minnesota Lynx|the WNBA

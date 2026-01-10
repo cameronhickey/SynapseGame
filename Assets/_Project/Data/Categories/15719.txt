@@ -1,0 +1,6 @@
+TIME ZONE CITIES
+200|Chico, California|Pacific Time Zone
+400|Salt Lake City, Utah|Mountain Time Zone
+600|San Antonio, Texas|Central
+800|Nashville, Tennessee|Central
+1000|Louisville, Kentucky|Eastern

@@ -1,0 +1,6 @@
+\"FACE" BOOK
+200|To mar or spoil the appearance of something|to deface
+400|A style of type with thick, heavy lines to draw attention|boldface
+600|JFK & other newsmakers have often been seen on "FTN", this news program|Face the Nation
+800|To connect a peripheral machine with a computer|interface
+1000|(Jimmy of the Clue Crew turns around roughly in place.) This marching maneuver used by military formation can also mean a complete change of opinion|an about-face

@@ -1,0 +1,6 @@
+LIVRES EN FRANCAIS
+200|\"L'Art de la Guerre\"|The Art of War
+400|\"Le Silence des Agneaux\"|The Silence of the Lambs
+600|\"A la Poursuite D'Octobre Rouge\"|The Hunt for Red October
+800|\"La Ferme des Animaux\"|Animal Farm
+1000|\"Autant en Emporte le Vent\"|Gone with the Wind

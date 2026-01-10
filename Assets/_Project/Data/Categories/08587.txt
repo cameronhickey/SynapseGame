@@ -1,0 +1,6 @@
+JAILHOUSE
+200|While at Walden Pond, Thoreau was arrested by constable Sam Staples & spent a night in this city's jail|Concord
+400|A total of 49,485 prisoners went through this Confederate prison that was in operation for only 14 months|Andersonville
+600|In 1971, 33 inmates & 10 prison staff members were killed in a riot at this New York correctional facility|Attica
+800|After 1946 this Berlin prison on the Wilhelmstrasse housed Nazi war criminals|Spandau
+1000|The first of these very restrictive prisons was at Marion, Ill.; Florence, Colo. & Pelican Bay, Calif. followed|supermax

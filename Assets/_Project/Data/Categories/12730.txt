@@ -1,0 +1,6 @@
+WORDS FROM PLACES
+200|This type of formal clothing for men is named for a town in New York|a tuxedo
+400|The name of this Saudi Arabian city has come to mean any place to which people of a common interest are drawn|Mecca
+600|This type of resort is named for the Belgian town famous for mineral springs|a spa
+800|In France a woman from Utrecht or Delft is called this, like a classic sauce|hollandaise
+1000|This color, a brilliant purplish pink, is named for a northern Italian city|magenta

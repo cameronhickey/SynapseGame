@@ -1,0 +1,6 @@
+STANDING "O\"
+200|I'm versed in this public speaking skill & find that standing at a lectern works best|oratory
+400|I wouldn't mind sitting like other members of this group, but I guess nobody made me take up the xylophone|the orchestra
+600|Defending my client, I stand in court & shout this word to let the judge know I disapprove, procedurally|objection
+800|As part of this type of training with my unruly whippet, I have to stand & call his name over & over|obedience training
+1000|Life in the cult is tough at first—they make us stand during this 11-letter introductory part|orientation

@@ -1,0 +1,6 @@
+\"Q\"
+200|It's the type of musical work being performed here|a quintet
+400|To shake, or what an archer keeps his arrows in|a quiver
+600|The California valley type of this is California's state bird|a quail
+800|Robert Frost ended a poem, "I had a lover's" this "with the world\"|a quarrel
+1000|Made from the bark of a tree, it was once the only effective treatment for malaria|quinine

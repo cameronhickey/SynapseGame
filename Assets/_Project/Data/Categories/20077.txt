@@ -1,0 +1,6 @@
+LATIN IDIOMS
+200|\"This for this\"|quid pro quo
+400|\"Seize the day\"|carpe diem
+600|\"For the good\"|pro bono
+800|\"Nourishing mother\"|alma mater
+1000|\"Solid ground\"|terra firma

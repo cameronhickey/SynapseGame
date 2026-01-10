@@ -1,0 +1,6 @@
+VEGETABLE, ANIMAL OR MINERAL
+200|Bandicoot|Animal
+400|Chard|Vegetable
+600|Oryx|animal (antelope)
+800|Aubergine|Vegetable (eggplant)
+1000|Amphibole|Mineral

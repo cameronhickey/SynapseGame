@@ -1,0 +1,6 @@
+\"ANN" OR "ANNE\"
+200|It's the home of the University of Michigan|Ann Arbor
+400|Henry VIII's 2nd wife|Anne Boleyn
+600|Henry VIII's 4th wife|Anne of Cleves
+800|Actress & the role which won her both a Tony & an Oscar for "The Miracle Worker\"|Anne Bancroft & Annie Sullivan
+1000|Lucy Maud Montgomery wrote 6 sequels to this girlhood novel set in Canada|Anne of Green Gables

@@ -1,0 +1,6 @@
+GASES
+200|This "laughing gas" became a widely-used dental anesthetic during the 1860s|nitrous oxide
+400|Sir William Ramsay & Morris Travers named this gas from the Greek word meaning "new\"|neon
+600|This noble gas has 92% of hydrogen's lifting power even though it's twice as dense|helium
+800|When liquefied, this form of oxygen with 3 atoms in each molecule is deep blue|ozone
+1000|This gas is the chief component of firedamp, an explosive gas found in mines|methane

@@ -1,0 +1,6 @@
+INTERNATIONAL DATE LINES
+200|\"Puedo comprarle una bebida" is Spanish for this happy hour question|Can I buy you a drink?
+400|In Russian it's "Ya tebya lyublyu\"|I love you
+600|Lines like "Posso leva-la a casa", "May I see you home", show why Portuguese is this type of Latin-derived language|a Romance language
+800|Continues Labelle's sexy French invitation, "Voulez-vous...\"|coucher avec moi
+1000|In a German goodbye, it follows "Auf"; to say "Can we see each other again", it follows "Konnen wir uns\"|wiedersehen

@@ -1,0 +1,6 @@
+IT'S IN THE DICTIONARY
+200|\"A loud sound expressing disapproval", from a NYC borough|a Bronx cheer
+400|\"A Muslim holy war or spiritual struggle against infidels", from the Arabic|a jihad
+600|\"Any U.S. state that tends to vote for candidates of the Democratic Party in a general election\"|a blue state
+800|This tech acronym states that "the integrity of output is dependent on the integrity of input\"|GIGO
+1000|\"A hinged plastic case designed to hold a compact disk and usually a printed insert or liner\"|a jewel case

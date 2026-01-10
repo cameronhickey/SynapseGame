@@ -1,0 +1,6 @@
+SWANS
+200|Fully black swans are native only to this country, & the Sydney Swans sports team is only found there, too|Australia
+400|In Greek myth the beautiful Leda is ravished by this god in the form of a swan|Zeus
+600|Most swans are in this genus|Cygnus
+800|A male swan is called a cob & a female swan is called this, where you might keep one on a farm|a pen
+1000|Despite its name, this least vocal swan species can make soft grunting sounds|a mute swan

@@ -1,0 +1,6 @@
+CHEMISTS
+200|In 1783 J.A.C. Charles, known for Charles' law, made an ascent in one of these|a balloon
+400|Johannes Bronsted & T. Lowry are famous for describing the transfer of protons between acids & these|bases
+600|When Mendeleyev made his periodic table in 1869, this was the only element in the first period|hydrogen
+800|Scheele & Priestley told of discovering this gas at about the same time, so they're both credited|oxygen
+1000|19th century Italian chemist famous for his "number" of entities in 1 mole|(Amadeo) Avogadro

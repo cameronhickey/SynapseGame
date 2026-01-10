@@ -1,0 +1,6 @@
+MOVIES' MAIN CITIES
+200|\"The Cooler" & "Ocean's Eleven\"|Las Vegas
+400|\"Pretty Baby" & "A Streetcar Named Desire\"|New Orleans
+600|\"Chinatown" & "Crash\"|Los Angeles
+800|\"The Maltese Falcon" & "Dirty Harry\"|San Francisco
+1000|\"Avalon" & "Diner\"|Baltimore

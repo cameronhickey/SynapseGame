@@ -1,0 +1,6 @@
+PAIR OF DICE, LOST
+200|2, 3 or this number means you rolled craps, so give up the dice already|12
+400|In Yahtzee if you lose a pair of the dice you need to play, you're left with this many|3
+600|Roll your pair of dice & land on Luxury Tax on a classic Monopoly board & you lose this much cash|$75
+800|If your toss of the dice couldn't knock off the last number on this game show that I once hosted, you lost|High Rollers
+1000|If your man is on this 3-letter place in backgammon, your dice roll must correspond to an open point or your turn is lost|the bar

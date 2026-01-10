@@ -1,0 +1,6 @@
+\"L"THY FOOD
+200|This pasta is 2-to-3-inch wide noodles with straight or rippled edges|lasagna
+400|This super-stinky cheese originated in Belgium but now mostly comes from Germany|Limburger
+600|This kind of soup is made from the lens-shaped seeds of Lens esculenta, a good source of protein|lentil
+800|To make the popular Chinese dish chicken this, use boiled noodles mixed with stir-fried vegetables|lo mein
+1000|Mmm, this spreadable stuff|liverwurst

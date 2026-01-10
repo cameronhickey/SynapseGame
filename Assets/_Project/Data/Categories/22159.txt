@@ -1,0 +1,6 @@
+ABOUT [TYPE]FACE
+200|This company created the Verdana typeface for use on its Windows operating system|Microsoft
+400|In 1932 this London newspaper started using the New Roman typeface named for it|The London Times
+600|Now considered the standard for screenplays, Courier was used by IBM for the Selectric brand of these|a typewriter
+800|Lucida Bright was designed for this magazine that has brought the lab to the layman since 1845|Scientific American
+1000|Change one letter in the word "future" to get this font created in the '20s & used by tech companies like Cisco|Futura

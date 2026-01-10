@@ -1,0 +1,6 @@
+BIG SCREEN BOXERS
+200|Robert De Niro, 1980|Jake LaMotta
+400|Sly Stallone, 1976|Rocky Balboa
+600|Mr. T, 1982|Clubber Lang
+800|Paul Newman, 1956|Rocky Graziano
+1000|Marlon Brando, 1954|Terry Malloy

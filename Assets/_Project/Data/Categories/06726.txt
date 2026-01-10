@@ -1,0 +1,6 @@
+ACTION MOVIE
+200|With a total of $1.8 billion, this big 1997 film about a big boat has the biggest worldwide box office ever|Titanic
+400|\"The World is Not Enough" was the third time Pierce Brosnon played this action hero|James Bond
+600|In this windy 1996 action smash, Bill Paxton played storm-chasing weatherman Bill Harding|Twister
+800|In this 2001 action movie, Gene Hackman plays a Navy commander trying to rescue two downed aviators|Behind Enemy Lines
+1000|In this 1995 space thriller based on a true story, a moon-bound mission develops severe trouble|Apollo 13

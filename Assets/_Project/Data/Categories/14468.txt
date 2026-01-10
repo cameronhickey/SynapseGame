@@ -1,0 +1,6 @@
+CREATURES OF THE NIGHT
+200|The tapeti, or Brazilian this, is a nocturnal member of the genus Sylvilagus, or cottontail|a rabbit
+400|If you've never seen a "flying" one of these, it might be because they're nocturnal (Bullwinkle's pal is an exception)|squirrel
+600|Because tadpoles are 4 times bigger than adults, the nocturnal Pseudis paradoxa is known as the "shrinking" this|frog
+800|As you might expect from its name, the 2-toed variety of this nocturnal animal is a real slow mover|a sloth
+1000|The 222 members of the avian order Strigiformes, better known as these, are all nocturnal|owls

@@ -1,0 +1,6 @@
+MY MOVIES
+200|A musical: "My ____ Lady\"|Fair
+400|\"My ____ Foot \"|Left
+600|\"My ____ ____ Greek Wedding\"|Big Fat
+800|\"My ____ Is an Alien\"|Stepmother
+1000|\"My ____ Laundrette\"|Beautiful

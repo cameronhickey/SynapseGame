@@ -1,0 +1,6 @@
+TV SHOW SETTINGS
+200|\"Rizzoli & Isles": solving crime in this New England capital|Boston
+400|\"Treme" & "True Blood": this state|Louisiana
+600|\"Grey's Anatomy": this seat of King County|Seattle
+800|\"Mike & Molly": this midwestern city|Chicago
+1000|A show about a fading country superstar played by Connie Britton: this city|Nashville

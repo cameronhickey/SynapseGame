@@ -1,0 +1,6 @@
+TAKE ME HOME
+200|Found after "IP" or "email", it's also the place you live|address
+400|Fractional term for the place where military types reside & are sometimes "confined to\"|quarters
+600|It's Spanish for "house"; come on over, "mi" "es su\"|casa
+800|A floating leaf that supports a water lily, or a slang term for a home|pad
+1000|A plant or animal's natural environment; it's from a Latin word meaning "to dwell\"|habitat

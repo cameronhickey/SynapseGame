@@ -1,0 +1,6 @@
+LANDMARKS
+200|De"faced" by sand & invading armies, it crouches near the Great Pyramids|the Sphinx
+400|France's Unknown Soldier lies beneath this Champs-Elysees landmark|the Arc de Triomphe
+600|The Brandenburg Gate is in this city|East Berlin
+800|Only 1 of the 7 wonders of the ancient world still standing|the Great Pyramid
+1000|Though unmarried & childless, he lives in the world's largest residential palace|the Pope

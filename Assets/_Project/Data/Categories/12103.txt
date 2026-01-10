@@ -1,0 +1,6 @@
+ANIMAL NAMES
+200|This animal got its name because it was originally thought to be a hybrid of a lion & a panther|a leopard
+400|You'll get 3 As for effort for knowing the name of this mammal comes from Afrikaans for "earth pig\"|aardvark
+600|Floating in the waters off Majorca, you might find the fried egg this—we don't suggest it for breakfast|a jellyfish
+800|Its name comes from Greek words meaning "nose-horned\"|a rhinoceros
+1000|This hoofed animal of the far north is named for the odor produced by glands beneath its eyes|muskox

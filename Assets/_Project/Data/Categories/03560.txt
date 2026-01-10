@@ -1,0 +1,6 @@
+SCIENTIFIC NAMES
+200|Citrus limon|a lemon
+400|Equus caballus|Horse
+600|Panthera Leo|African lion
+800|Ursus maritimus|Polar bear
+1000|The yellow-eyed bird Megadyptes antipodes|a penguin

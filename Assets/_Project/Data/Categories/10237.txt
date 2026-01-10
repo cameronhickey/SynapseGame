@@ -1,0 +1,6 @@
+ASTROLOGY TIME
+200|From the Greek for "time observer", it's an astrological forecast based on time of birth & other factors|horoscope
+400|Considered the first sign of the zodiac, it's often represented by a ram|Aries
+600|The start of the sign of Cancer usually coincides with this observance when you have the most time to sunbathe|the summer solstice
+800|As Kris Kristofferson knows, the traditional date of Jesus' birth made him this zodiacal sign|Capricorn
+1000|According to astrology, we are influenced not only by the planets but also by these objects, like Ceres & Vesta|asteroids (or minor planets)

@@ -1,0 +1,6 @@
+LOGGER
+200|Also the surname of a Twain character, this term refers to someone who processes wood|a sawyer
+400|Sharing its name with a Beatles tune, it's the title of Lars Mytting's book about chopping trees the "Scandinavian way\"|Norwegian Wood
+600|One story about this companion of Paul Bunyan says it would take a day for crows to fly from one horn to the other|Babe (the blue ox)
+800|In the 1800s lumberjacks developed this fast-footed sport AKA birling|logrolling
+1000|The labor union IWW, known as these, actually was quite firm representing lumberjacks in the Pacific northwest|Wobblies

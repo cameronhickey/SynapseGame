@@ -1,0 +1,6 @@
+THE "B" TEAM
+200|This baseball team had a winning record all 13 years in Milwaukee but moved to Atlanta anyway|the Braves
+400|In 2011 this team won its first Stanley Cup in 39 years|the (Boston) Bruins
+600|This double-B team has gone 0-4 in Super Bowls|the Buffalo Bills
+800|They're Ohio's 2 NFL entries|the Browns and the Bengals
+1000|It was Kareem Abdul-Jabbar's first pro team|the Milwaukee Bucks

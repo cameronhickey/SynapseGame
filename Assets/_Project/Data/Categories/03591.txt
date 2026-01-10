@@ -1,0 +1,6 @@
+STARTS & ENDS WITH "T\"
+200|If you never say dye, say this, a light dye for the hair|Tint
+400|It's a special ability, perhaps drawing or playing the piano, or a biblical measure of silver or gold|a talent
+600|One to see the movie "Speed" is good; one for speeding is bad|Ticket
+800|This professional will stuff your turkey... or your moose, or your marlin|a taxidermist
+1000|In a right triangle, it's the ratio of the side opposite an acute angle to the side adjacent to the angle|the tangent

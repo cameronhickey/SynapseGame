@@ -1,0 +1,6 @@
+BE PRODUCTIVE
+200|-3 x 7 x -3|63
+400|104, expressed as an integer|10,000
+600|2/3 x 3/8, reduced to its simplest form|1/4
+800|5a x 5b x a|25a2b
+1000|1.1 x 2.2|2.42

@@ -1,0 +1,6 @@
+SHORTWAVE
+200|The shortwave band begins at about 1700 these units abbreviated kHz; below that you're in AM territory|kilohertz
+400|Mainly funded by the CIA, this broadcasting operation began transmitting behind the Iron Curtain in 1949|Radio Free Europe
+600|One book calls this 12-letter word the "arch-enemy of shortwave listeners"; I just call it annoying|interference
+800|This service that broadcasts from Abuja & Lagos has a name reflecting that of the USA's official radio service|Voice of Nigeria
+1000|To catch the BBC at 1700 UTC, or Universal Time Coordinated, tune in at this morning hour Pacific Standard time|9:00 AM

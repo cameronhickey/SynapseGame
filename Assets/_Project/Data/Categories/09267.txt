@@ -1,0 +1,6 @@
+ROCKS & STUFF
+200|A rock called pridotite produces this hardest gem|diamond
+400|This form of molten rock deep within the earth can reach a temperature of over 2100 degrees|magma
+600|This agreeable-sounding metamorphic rock has alternating bands of dark- & light-colored minerals|gneiss
+800|Most rocks are composed primarily of oxygen & this element|silicon
+1000|Soapstone, used as an electrical insulator, is a greenish-gray variety of this soft mineral|talc

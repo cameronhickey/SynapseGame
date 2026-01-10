@@ -1,0 +1,6 @@
+FRUITS & VEGETABLES
+200|The skin of this common salad vegetable is often waxed to prevent water loss|the cucumber
+400|This salad vegetable comes in 3 main types: Belgian, curly & escarole|endive
+600|Also called aubergine, this is often salted & drained before cooking|eggplant
+800|Montmorency is the sour or "pie" type of this fruit cultivated most often in the U.S.|the cherry
+1000|\"The Joy of Cooking" suggests cooking the Savoy type of this longer than the regular type|cabbage

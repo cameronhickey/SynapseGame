@@ -1,0 +1,6 @@
+TERM: PAPER
+200|This hyphenated term refers to individual sheets held in a binder|loose-leaf
+400|A type of strong, durable paper is called this, like a famous fictional spy|bond
+600|You hear this 3-letter term for a single layer when people are talking about bathroom tissue|ply
+800|This term for a large sheet of paper is used in the name of the first complete Shakespeare play collection|folio
+1000|(Kelly of the Clue Crew throws a paper airplane at you.) The light weight of this old-fashioned paper makes it good paper airplane material; if you know your produce, you can see why it has this 9-letter name|onionskin

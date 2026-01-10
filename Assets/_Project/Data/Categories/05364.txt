@@ -1,0 +1,6 @@
+WHO CREATED 'EM?
+200|Gooper Pollitt, Jim O'Connor, Stella Kowalski|Tennessee Williams
+400|Gabriel Conroy, Simon Dedalus, Leopold Bloom|James Joyce
+600|Eliot Rosewater, Dr. Felix Hoenikker, Billy Pilgrim|Kurt Vonnegut
+800|Ike McCaslin, Percy Grimm, Benjy Compson|William Faulkner
+1000|Hedda Tesman, Helen Alving, Knut Brovik|Henrik Ibsen

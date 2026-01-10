@@ -1,0 +1,6 @@
+FATS
+200|In the 1860s Hippolyte Mege-Mouries invented this butter substitute made from animal & vegetable fats|margarine
+400|PUFAs, short for these healthier fats, are found mostly in plant-based foods & oils|poly-unsaturated fats
+600|The fat droplets in milk carry most of this vitamin aka retinol, so the FDA requires skim milk to be fortified|vitamin A
+800|Saturated fats have been implicated in the incidence of this 7-syllable disease aka hardening of the arteries|arteriosclerosis
+1000|Regulated in some cities, partially hydrogenated fats are also known by this "changeable" name|trans fats

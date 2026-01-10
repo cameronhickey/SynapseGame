@@ -1,0 +1,6 @@
+\"A" "B\"
+200|It's used for voting by mail|an absentee ballot
+400|The illustration shows him in his famous "Open Sesame!" moment|Ali Baba
+600|The Northern Lights, for Latin lovers|the Aurora Borealis
+800|It has wooly hair, big horns & the scientific name Bison bison|the American buffalo
+1000|Ceres travels in this expanse between Mars & Jupiter|the asteroid belt

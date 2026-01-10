@@ -1,0 +1,6 @@
+\"THE" END
+200|To calm|soothe
+400|To respire|breathe
+600|To lave|to bathe
+800|Grim reaper-y agricultural implement|a scythe
+1000|Wormwoody liquor|absinthe

@@ -1,0 +1,6 @@
+SPORTS DYNASTIES
+200|They won 6 World Series titles in the 1950s|the Yankees
+400|They won 5 NBA titles in the 1980s|the Lakers
+600|From 1956 to 1960 Real Madrid won 5 straight European Cup titles in this sport|soccer
+800|They won 5 NFL titles in the 1960s|the Green Bay Packers
+1000|They won 5 NHL titles between 1984 & 1990|the Edmonton Oilers

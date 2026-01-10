@@ -1,0 +1,6 @@
+5 DIFFERENT VOWELS IN ONE WORD
+200|The removal of persons from an endangered area|evacuation
+400|The name of this type of vehicle means "self-movable\"|automobile
+600|Hey Mr., it's a small, circular drum with metal jingles|a tambourine
+800|Many of the giant type of this tree are more than 2,000 years old|sequoia
+1000|This 10-letter synonym for "dangerous" often describes a risky or perilous situation|precarious

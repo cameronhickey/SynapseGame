@@ -1,0 +1,6 @@
+DIPLOMACY—A GAME
+200|At the start of the game Diplomacy, France controls 3 supply centers: Paris, Brest & this port|Marseille
+400|Each army unit is represented by a cannon; each fleet unit, by this, also the name of a different game|a battleship
+600|Turkey is one of the 7 great powers players may represent; the game is set just before this war|World War I
+800|On the Diplomacy board, this country in the middle of Europe is considered impassable|Switzerland
+1000|The game is based on making & breaking these, such as the triple one that in real life united Italy, Germany & Austria|alliances

@@ -1,0 +1,6 @@
+PIGEONS
+200|4-letter alternate name for a small pigeon|dove
+400|Rock pigeons were domesticated in this kingdom around 3000 B.C.|Egypt
+600|The Palmetto pigeon plant in Sumter, S.C. is the USA's largest farm for these young pigeons|squabs
+800|Homing pigeons used to send messages are called these|carrier pigeons
+1000|This type of once-abundant pigeon was hunted to extinction in the U.S. in the early 1900s|the passenger pigeon

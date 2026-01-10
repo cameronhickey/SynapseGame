@@ -1,0 +1,6 @@
+FROM BOOK TO FILM
+200|\"The Sheep-Pig" somehow doesn't seem quite as friendly as this title of the cinema version|Babe
+400|\"Shoeless Joe\"|Field of Dreams
+600|Charlie Bucket lost top billing when Roald Dahl's popular confectionery tale became this 1970s film|Willy Wonka and the Chocolate Factory
+800|\"Monkey Planet\"|Planet of the Apes
+1000|William Peter Blatty's novel "Legion" provided the basis for the third film in this diabolical movie series|The Exorcist

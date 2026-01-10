@@ -1,0 +1,6 @@
+THE GOAL OF THE GAME
+200|Identify a person or thing within a score of inquiries|Twenty Questions
+400|Occupy 42 territories on 6 continents|Risk
+600|Repeat the pattern of flashing colored lights on the circular console|Simon
+800|Get all 15 of your stones to your home table & bear them off|backgammon
+1000|Form a horizontal, vertical or diagonal line of a quartet of your own colored discs|Connect Four (or Drop Four)

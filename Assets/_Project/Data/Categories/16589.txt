@@ -1,0 +1,6 @@
+THE ONLY GAME IN TOWN
+200|Green Bay|football
+400|Columbus|hockey
+600|Oklahoma City|basketball
+800|Jacksonville|football
+1000|Memphis|basketball

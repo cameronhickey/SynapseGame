@@ -1,0 +1,6 @@
+MY FIRST NAME IS A TV SHOW TITLE
+200|Dr. Crane, on the radio|Frasier
+400|Mr. Payne, played by the funny Mr. Lawrence|Martin
+600|Mr. Berkman, a hit man who becomes Mr. Block, an actor|Barry
+800|Mr. Read, an 8-year-old aardvark|Arthur
+1000|Ms. Findlay, Edith Bunker's cousin|Maude

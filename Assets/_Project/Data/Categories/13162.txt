@@ -1,0 +1,6 @@
+WHAT KIND OF ANIMAL ARE YOU?
+200|Fruit & vampire|a bat
+400|Black, blue, baleen|a whale
+600|Spectacled & American black|bears
+800|Friesian, Appaloosa, Pinto|a horse
+1000|Eider & Muscovy|ducks

@@ -1,0 +1,6 @@
+CLASSIC MONOPOLY
+200|Rent at this space is a whopping $50; good thing you'll pass Go on your next roll|Boardwalk
+400|There must be fancy flowers in these gardens that set you back $280|Marvin Gardens
+600|Your Luxury Tax is this much, $125 less than buying a railroad|$75
+800|Kentucky & Indiana Avenues are 2/3 of a monopoly; this third property is also a state that borders both|Illinois
+1000|It costs $2 to land on this owned property, but nearby Baltic Avenue must be a lot swankier with double the rent|Mediterranean

@@ -1,0 +1,6 @@
+DISENFRANCHISED
+200|The NFL's Colts|Baltimore
+400|The NBA's Supersonics|Seattle
+600|MLB's Athletics (1 of 2)|Philadelphia (or Kansas City)
+800|The NHL's Nordiques|Quebec
+1000|The NBA's Grizzlies|Vancouver

@@ -1,0 +1,6 @@
+WHICH PART OF SPEECH?
+200|Fabio won a Nobel Prize for chemistry: Fabio|a noun
+400|A German's germs are not germane to a conversation about Jermaine Jackson: germane (with a "G")|an adjective
+600|The golf tourney was a success despite the trampling incident: despite|a preposition
+800|Which of these Lederhosen brings out my eyes?: which|a pronoun
+1000|Neither rain nor snow nor sleet shall keep me from my appointed rounds, but locusts? I'm out: nor|a conjunction

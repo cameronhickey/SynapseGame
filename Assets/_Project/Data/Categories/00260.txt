@@ -1,0 +1,6 @@
+FLAGS
+200|Monochromatic flag appropriate for Lee at Appomattox & Napoleon at Waterloo|a white flag
+400|It bears the crosses of St. Andrew, St. George & St. Patrick|the Union Jack (the flag of Great Britain)
+600|The flag of the secretary of this current cabinet dept. depicts an eagle with 3 arrows in its talons|the Defense Department
+800|Iowa's flag resembles this country's tricolor because Iowa was once part of Louisiana|France
+1000|This East African nation's flag features a Masai shield & 2 spears|Kenya

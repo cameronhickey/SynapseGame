@@ -1,0 +1,6 @@
+POEM
+200|Man in the title of the 1863 poem that says, "One, if by land, and two, if by sea\"|Paul Revere
+400|An 1872 ditty: "'The time has come,' the walrus said, 'to talk of many things'\"|\"The Walrus and the Carpenter\"
+600|\"Water, water, everywhere; nor any drop to drink" says this 1798 poem|\"The Rime of the Ancient Mariner\"
+800|A 1667 work: "Of man's first disobedience and the fruit of that forbidden tree\"|\"Paradise Lost\"
+1000|1923 poem that reads: "But I have promises to keep, and miles to go before I sleep\"|\"Stopping by Woods on a Snowy Evening\"

@@ -1,0 +1,6 @@
+-OLOGIES
+200|Branches of this earth science include petrology & seismology|geology
+400|Martin Luther & Albert Schweitzer held doctorates in this|theology
+600|It's the branch of medicine that deals with the anatomy & disorders of the nervous system|neurology
+800|It's the branch of linguistics that deals with the origin & development of words|etymology
+1000|It's the study of sunlight|heliology

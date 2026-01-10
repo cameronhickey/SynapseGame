@@ -1,0 +1,6 @@
+YOU GET AN "F\"
+200|This verb can mean to fatten pillows or to mess up an actor's line|fluff
+400|...in music if you can't remember that the piccolo is a member of this woodwind's family|flute
+600|Ithaca, New York is on Cayuga, one of this group of narrow bodies of water|the Finger Lakes
+800|...in biology if you actually pick up the poison dart species of this amphibian|frog
+1000|The main city on the Main River, it's located 19 miles upstream from where the Main flows into the Rhine|Frankfurt

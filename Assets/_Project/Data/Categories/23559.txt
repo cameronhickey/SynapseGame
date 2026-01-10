@@ -1,0 +1,6 @@
+SOUNDS SERIOUS
+200|Alcohol & spicy foods can cause pyrosis, better known as this painful sensation|heartburn
+400|Cutis anserina is nothing to worry about; it's just this "fowl" reaction to cold or fear|goose bumps
+600|If you have pollinosis, you have this seasonal allergy & not necessarily to the crop in its name|hay fever
+800|Diplopia is what doctors call this, also the title of a Foreigner hit|double vision
+1000|Runners know medial tibial stress syndrome better by this 2-word name; ice may help|shin splints

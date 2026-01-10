@@ -1,0 +1,6 @@
+AN ECO-CATEGORY
+200|The 100,000-acre Roscoe farm spreading over 4 Texas counties produces electricity from this source|wind
+400|Toss your food scraps & other organic material into a bin to make this, which you can then use as fertilizer|compost
+600|(Jimmy of the Clue Crew presents the clue from the California Academy of Sciences in San Francisco.) The Academy calls itself the world's greenest museum; the 197,000 square-foot living roof is a sustainable tapestry of native California plants, including these state flowers|California poppies
+800|If your garden soil lacks magnesium, a green way to add it is to use magnesium sulfate, aka this salt named for a British town|Epsom salt
+1000|More efficient than filament bulbs, this light source gets its name from its twin-terminal structure|LEDs (light emitting diodes)

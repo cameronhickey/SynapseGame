@@ -1,0 +1,6 @@
+WHERE'S THE BEEF FROM?
+200|Kobe|Japan
+400|Hereford|England
+600|Zebu (aka Brahman)|India
+800|Angus|Scotland
+1000|Holstein|the Netherlands

@@ -1,0 +1,6 @@
+VODKA COUNTRY OF ORIGIN
+200|Smirnoff|Russia
+400|Ketel One|the Netherlands
+600|Skyy|the United States
+800|Grey Goose|France
+1000|Belvedere|Poland

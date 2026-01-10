@@ -1,0 +1,6 @@
+BEST DIRECTOR
+200|\"Schindler's List\"|(Steven) Spielberg
+400|\"Reds\"|Warren Beatty
+600|\"Treasure of the Sierra Madre\"|John Huston
+800|\"You Can't Take It with You\"|Frank Capra
+1000|\"Gandhi\"|Richard Attenborough

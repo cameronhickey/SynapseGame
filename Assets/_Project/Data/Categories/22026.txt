@@ -1,0 +1,6 @@
+A SHROOM WITH A VIEW
+200|These ubiquitous mushrooms share a name with something found on your shirt|button mushrooms
+400|\"P" is for this type of mushroom that, fittingly, shares its name with a type of umbrella|parasol
+600|They're often used in Japanese dishes, such as kinoko gohan|shiitake mushrooms
+800|Don't be shell-shocked despite the name of this mushroom. It doesn't grow under water|oyster mushrooms
+1000|This Italian mushroom, whose name comes from a dairy product, is a juvenile portobello|cremini

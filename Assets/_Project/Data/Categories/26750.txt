@@ -1,0 +1,6 @@
+SINGERS & ROLES
+200|The Beatle who wrote & starred in "Give My Regards to Broad Street\"|Paul McCartney
+400|Michael Jackson's 1st feature film was this 1978 musical|The Wiz
+600|Country singer who played Buck, a country singer, in "Honeysuckle Rose\"|Willie Nelson
+800|Frank Sinatra won an Oscar for his role as Maggio in his 1953 Oscar-winning film|From Here to Eternity
+1000|The 2 singer-actresses who played Esther in "A Star is Born", 1 in 1954 & the other in 1976|Judy Garland & Barbra Streisand

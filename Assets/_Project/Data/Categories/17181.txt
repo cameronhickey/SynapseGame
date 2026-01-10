@@ -1,0 +1,6 @@
+MAPPING THE NFL
+200|(Kelly of the Clue Crew shows a map of the U.S. with two cities marked.) Situated more than 2,700 miles apart, they're the northernmost & southernmost NFL teams|the Seahawks & the Dolphins
+400|The rivalry between these two teams goes back to the 1930s|the Chicago Bears and the Detroit Lions
+600|(Jimmy of the Clue Crew shows us a map of the US with a city marked.) Founded in Cleveland in 1937, this team moved west in 1946, and since 1995, has grazed over here|the St. Louis Rams
+800|Based on the location of its stadium, this is the NFL's easternmost team|the Patriots
+1000|(Jimmy of the Clue Crew shows us a map of the U.S. with a city marked.) The team that ended up here in the 1990s originated here under this name|the (Houston) Oilers

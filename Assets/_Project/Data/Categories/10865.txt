@@ -1,0 +1,6 @@
+ONE-WORD MOVIE TITLES
+200|1994: Sandra Bullock drives a bus really fast|Speed
+400|2006: Adam Sandler has a magic remote control|Click
+600|1979: Something not of the Earth bursts from John Hurt's chest (that'll leave a mark!)|Alien
+800|1996: Helen Hunt chases tornadoes to research a warning system|Twister
+1000|1986: Charlie Sheen is a soldier in Vietnam|Platoon

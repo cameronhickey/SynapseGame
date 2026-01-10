@@ -1,0 +1,6 @@
+LEF
+200|The "Athenaeum" is Gilbert Stuart's famous unfinished portrait of this man|George Washington
+400|He believed that the "Requiem" he was working on at his death in 1791 was for himself; sadly, he was right|Mozart
+600|When Michelangelo left Florence for Rome in 1534, he left this family's tomb unfinished|the Medicis
+800|He planned "The Faerie Queene" as an epic of 24 books, but only wrote 6 & part of the 7th|(Edmund) Spenser
+1000|When you speak of the Dickens, you can say he never finished this mystery novel|The Mystery of Edwin Drood

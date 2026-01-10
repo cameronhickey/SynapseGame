@@ -1,0 +1,6 @@
+LOVE THOSE VEGGIES!
+200|Daucus carota|Carrot
+400|Solanum tuberosum|Potato
+600|Capsicum annuum|Pepper
+800|Zea mays|Corn
+1000|Phaseolus limensis|Lima bean

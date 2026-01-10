@@ -1,0 +1,6 @@
+DOWN ECUADOR WAY
+200|It's the capital city of 1.8 million|Quito
+400|These islands made famous by Darwin became a part of Ecuador in the 19th century|Galapagos
+600|In March 2008 Ecuador mobilized its troops in response to anti-rebel actions by this neighbor|Colombia
+800|In July 1822 the city of Guayaquil was the site of an historic meeting between Jose de San Martin & this liberation leader|Simon Bolivar
+1000|Ecuador's longest border is with this country to the south & east|Peru

@@ -1,0 +1,6 @@
+PANCREAS, SPLEEN OR APPENDIX
+200|1 to 8 inches long & about as thick as a pencil, it seems to have no function in humans|appendix
+400|Soft, purplish & located behind & to the left of the stomach, it helps fight infections|spleen
+600|It contains the islets of Langerhans|pancreas
+800|It contains notes, charts, tables & lists|appendix
+1000|The duodenum, the first part of the small intestine, loops around it|pancreas

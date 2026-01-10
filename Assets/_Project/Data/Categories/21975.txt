@@ -1,0 +1,6 @@
+SPEAK SOFTLY
+200|Double talk word for a low, constant stream of noise or speech|murmur
+400|Kids, you're within the walls of the house, not out in the park, so stop shouting & "use your" this|inside voice
+600|These 6-letter "tones" are used when speaking softly & reverently|hushed
+800|These 5-letter "tones" are subdued colors in clothing & decor|muted
+1000|In an opera score, instructions telling a singer to hold back include mezza voce & this voce|sotto

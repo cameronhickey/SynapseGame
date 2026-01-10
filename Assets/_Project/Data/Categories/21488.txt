@@ -1,0 +1,6 @@
+\"B"ORDER COUNTRIES
+200|France: This country to the north|Belgium
+400|Mexico: Just to the southeast|Belize
+600|Romania: A Balkan buddy|Bulgaria
+800|Paraguay: These 2|Bolivia & Brazil
+1000|India: Burma & these other 2|Bangladesh & Bhutan

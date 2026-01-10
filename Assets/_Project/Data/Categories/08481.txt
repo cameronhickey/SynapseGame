@@ -1,0 +1,6 @@
+TERM COINERS
+200|As a player in this sport, Deacon Jones coined the term "sack\"|football
+400|It's Sir Richard Owen's "terrible lizard\"|dinosaur
+600|Enrico Fermi's name for this particle means "little neutral one" in Italian|neutrino
+800|Louis Vauxelles & Louis Leroy, who coined the terms Cubism & Impressionism, weren't artists, they were these|critics
+1000|Herbert Spencer, not Darwin, coined this 4-word phrase to describe competition among group members|survival of the fittest

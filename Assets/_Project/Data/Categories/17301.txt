@@ -1,0 +1,6 @@
+THE RIGHT TOOL
+200|The name of this tool can follow "musical", "bracket" or "hack\"|a saw
+400|Weird Al's "Plumbing Song" includes the rhyme "baby call the mensch" with this tool|wrench
+600|In addition to C-, these fasteners have an F-style, as well as a spring type|a clamp
+800|The name of this coarse file used on wood also means to utter with a grating sound|a rasp
+1000|This 5-letter woodworking item holds material & rotates it against a tool that shapes it|a lathe

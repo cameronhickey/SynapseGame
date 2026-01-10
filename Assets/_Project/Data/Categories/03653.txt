@@ -1,0 +1,6 @@
+COMPUTER LITERACY
+200|This synonym for "fundamental" is the name of a common beginner's programming language|Basic
+400|Digital computers use this number system in which the decimal number 12 becomes 1100|Binary
+600|From Greek for "to hide", it's putting a message in secret code|Encrypting
+800|This term for diplomatic procedure also refers to an agreed format for data to be communicated|Protocol
+1000|This powerful operating system from Bell Labs replaced an earlier system called Multics|Unix

@@ -1,0 +1,6 @@
+THE LAW
+200|Someone granted this can testify without fear of prosecution|immunity
+400|The charges in an indictment; the defendant may be guilty on one or all of them|the counts
+600|It's a temporary document showing proof of insurance until the policy is issued|a binder
+800|This pair denotes a title that has no liens or other hindrances|free & clear
+1000|This court has the ways to handle wills|probate

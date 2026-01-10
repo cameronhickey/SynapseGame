@@ -1,0 +1,6 @@
+WHO'S THE MAN
+200|Spartacus|Kirk Douglas
+400|Patch Adams|Robin Williams
+600|Texas Ranger J.J. McQuade|Chuck Norris
+800|Lieutenant Frank Drebin|Leslie Nielsen
+1000|Sergeant Tom Sharky|Burt Reynolds

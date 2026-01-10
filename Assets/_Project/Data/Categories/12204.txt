@@ -1,0 +1,6 @@
+WORDS IN ALEX TREBEK
+200|A hatchet is a small one|an axe
+400|Cenozoic, for example|era
+600|French visorless cap|a beret
+800|The shaft around which a wheel rotates|an axle
+1000|Bird bill|beak

@@ -1,0 +1,6 @@
+PAINTINGS
+200|The title of a Gauguin painting featuring the bird of the devil, or a quote from a Poe raven|\"Nevermore\"
+400|In Botticelli's "Primavera", this blindfolded cherub is ready to shoot an arrow at the 3 graces|Cupid
+600|His 2nd & 3rd most famous women's portraits are "Cecilia Gallerani" & "Ginevra de' Benci\"|Leonardo da Vinci
+800|Venus, Juno & Minerva are the full-bodied women in this Flemish master's 1638 "Judgment of Paris\"|Rubens
+1000|Victorine Meurend, his "Chanteuse des rues", is the nude in his "Le dejeuner sur l'herbe\"|Manet

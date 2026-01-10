@@ -1,0 +1,6 @@
+GRAPHIC ARTS
+200|Term for the circle that encloses a comic strip character's dialogue|a balloon
+400|Typesetters may use the Dvorak layout on one of these; it reduces their finger movements from Qwerty|a keyboard
+600|This term refers to printing beyond the edges & trimming back the sheet; first aid isn't required|bleeding
+800|Term for non-copyrighted pictures or drawings you can snip out & include in your own work|clip art
+1000|A color separator produces four negatives: cyan, magenta, yellow & this color|black

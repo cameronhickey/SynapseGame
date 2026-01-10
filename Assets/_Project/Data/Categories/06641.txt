@@ -1,0 +1,6 @@
+HEAD NORTH
+200|Ulster is another name for this United Kingdom division|Northern Ireland
+400|Michael Jordan wore number 23 for this university|North Carolina
+600|The postal abbreviation for this Canadian political subdivision is NT|Northwest Territories
+800|Minot is a city in this state bordered by Minnesota & Montana|North Dakota
+1000|The 3-word title of a 1960 hit, it's where country singer Johnny Horton was headed|\"North To Alaska\"

@@ -1,0 +1,6 @@
+ALL BARK
+200|The bald variety of this tree is common in swampy areas|a cypress
+400|Due to excessive logging, Lebanon established the Al-Shouf Reserve for these trees in 1997|cedars
+600|The terebinth is also known as this tree, as it yielded probably the earliest form of a paint solvent & thinner|a turpentine tree
+800|This "sandy" tree family includes oaks & chestnuts|beeches
+1000|Named for British botanist David, this large Christmas-y tree is called a fir or a spruce but it really is a pine|a Douglas

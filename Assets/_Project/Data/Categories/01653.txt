@@ -1,0 +1,6 @@
+U.S. DEMOGRAPHICS
+200|Over half the U.S. households with TVs own one of these to change viewing times|VCR
+400|In the 1980s more immigrants came to the U.S. from this country than from any other|Mexico
+600|This second-most populous U.S. city is in the most populous U.S. county|Los Angeles
+800|Of the 3 branches of the U.S. government, this one employs the fewest people|judiciary
+1000|This state's population density is 1 person per square mile|Alaska

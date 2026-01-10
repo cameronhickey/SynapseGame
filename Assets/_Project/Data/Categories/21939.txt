@@ -1,0 +1,6 @@
+SOAP
+200|Generic name for synthetic soap substitutes|detergents
+400|This word for the foam formed by soap in water can also mean a state of being upset|lather
+600|Founded in 1837, this firm became one of Cincinnati's largest companies by the Civil War; it still is|Procter & Gamble
+800|In colonial times this soap was made from water, wood ashes & fats|lye
+1000|Due to their contribution to water pollution, these chemicals in detergents have been banned is some areas|phosphates

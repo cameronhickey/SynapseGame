@@ -1,0 +1,6 @@
+WEATHER WORDS
+200|Traditionally, a dense one of these is compared to "pea soup\"|fog
+400|This 6-letter word for a tornado's shape is also a kitchen utensil|a funnel
+600|In the loose sense, it's any weather vane, but specifically it's one with a rooster on it|a weathercock
+800|(Jeff Probst reports from Palau.) Luckily, Palau is outside the zone of these storms, whose name comes from a Chinese word that means "great wind\"|typhoon
+1000|The name of this job comes from the Greek for "discussion of celestial phenomena" (stay tuned)|meteorologist

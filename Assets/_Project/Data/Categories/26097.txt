@@ -1,0 +1,6 @@
+BOOK "OF\"
+200|\"Repression is the only lasting philosophy" is a quote from this 1859 book set in both Paris & London|A Tale of Two Cities
+400|It's the third installment in a Middle-earth trilogy|The Return of the King
+600|Curly, a sweet Newfoundland, is put to work as a sled dog along with Buck in this classic|The Call of the Wild
+800|This Thomas Hardy novel is subtitled "A Pure Woman Faithfully Presented\"|Tess of the d'Urbervilles
+1000|A semi-autobiographical novel from W. Somerset Maugham|Of Human Bondage

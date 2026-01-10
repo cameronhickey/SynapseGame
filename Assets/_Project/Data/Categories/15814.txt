@@ -1,0 +1,6 @@
+1, 2, 3, "GO\"
+200|I knew you 3 were going to be terrific contestants right from this, the beginning|the get-go
+400|An aircraft that carries mainly goods, not people, is this type of plane|cargo
+600|It's a synonym for "do without\"|forgo
+800|The jargon of a profession, or any weird-sounding foreign tongue|lingo
+1000|We hope you are mature enough for the rhythms of this dance [Sexy Latin music plays]|tango

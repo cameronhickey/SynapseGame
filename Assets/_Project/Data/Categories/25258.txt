@@ -1,0 +1,6 @@
+UNION ACTIONS
+200|Cemetery Ridge was the site of the decisive action at this 1863 battle, with the Union emerging victorious|Gettysburg
+400|Union General Sheridan said, "No one did more to win the war than this "Boy General" & sent his wife the Appomattox surrender table|Custer
+600|Union victory at the September 17, 1862 Battle of Antietam emboldened President Lincoln to take this historic action 5 days later|the Emancipation Proclamation
+800|Outnumbered & outgunned, Union Major Robert Anderson surrendered this Charleston harbor spot April 13, 1861|Fort Sumter
+1000|Black Union sailors John H. Lawson & James Mifflin got the Medal of Honor for their actions at the 1864 battle of this Alabama bay|Mobile Bay

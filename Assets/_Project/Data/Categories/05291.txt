@@ -1,0 +1,6 @@
+MONARCHIES
+200|In 1999 Prince Ranier III celebrated the 50th year of his reign over this principality|Monaco
+400|This monarchial nation occupies over 3/4 of the Iberian Peninsula|Spain
+600|It's the country ruled by King Mohammed VI, son of the late Hassan II|Morocco
+800|The first king of this country was Harald I; today it's Harald V|Norway
+1000|It's the kingdom completely surrounded by South Africa|Lesotho

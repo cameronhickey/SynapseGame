@@ -1,0 +1,6 @@
+SPEL-EMENTS
+200|Helium, aluminum|heal (He-Al)
+400|Neon, argon|near (Ne-Ar)
+600|Copper, boron|cub (Cu-B)
+800|Calcium, iron|cafe (Ca-Fe)
+1000|Hydrogen, silver|hag (H-Ag)

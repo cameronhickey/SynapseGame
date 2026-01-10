@@ -1,0 +1,6 @@
+LITERARY CHARCTERS
+200|Middle name of A.A. Milne's son Christopher, who became a familiar children's lit character|Robin
+400|He's Sholem Aleichem's dairyman|Tevye
+600|This composer named Gustav may have been the model for the doomed composer Gustav in "Death in Venice\"|Gustav Mahler
+800|This author created Eliot Rosewater & Kilgore Trout|(Kurt) Vonnegut
+1000|Sci-fi writer Philip Jose Farmer rhymingly titled a work "The other log of" this Jules Verne world traveler|Phileas Fogg

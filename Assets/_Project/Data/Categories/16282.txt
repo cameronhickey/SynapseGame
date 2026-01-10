@@ -1,0 +1,6 @@
+PORT
+200|No trip to this port on the Mexican Riviera would be complete without seeing the cliff divers of La Quebrada|Acapulco
+400|England's chief cruise port, this city was the embarkation point of the Titanic|Southampton
+600|In 1980 thousands seeking freedom in the good ol' U.S.A. fled the port of Mariel in this country|Cuba
+800|Papeete on this island is the chief port of French Polynesia|Tahiti
+1000|The name of this port, joined with Tokyo in a metropolitan area, means "side beach\"|Yokohama

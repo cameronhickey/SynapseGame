@@ -1,0 +1,6 @@
+ARTISTS ON FILM
+200|Charlton Heston in "The Agony and the Ecstasy\"|Michelangelo
+400|Jose Ferrer in "Moulin Rouge\"|Toulouse-Lautrec
+600|Anthony Quinn in "Lust for Life\"|Paul Gauguin
+800|David Bowie in "Basquiat\"|Andy Warhol
+1000|Gerard Depardieu in "Camille Claudel\"|Auguste Rodin

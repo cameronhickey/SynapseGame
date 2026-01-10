@@ -1,0 +1,6 @@
+LITERARY LAST NAME'S THE SAME
+200|Wyndham, C.S., Sinclair|Lewis
+400|C.K., Emlyn, Tennessee|Williams
+600|John, Taylor, Erskine|Caldwell
+800|Frank, Hart, Stephen|Crane
+1000|Walter M., Arthur, Henry|Miller

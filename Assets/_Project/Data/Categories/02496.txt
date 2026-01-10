@@ -1,0 +1,6 @@
+PORT CITIES
+200|It's about 30 miles north of the Cape of Good Hope|Cape Town
+400|4 of the top 10 U.S. ports, including the port of Plaquemine, are in this state|Louisiana
+600|Piraeus is the port for this capital city|Athens
+800|In 1927 Australia's government moved from this port city to Canberra|Melbourne
+1000|Most of this nation's imports come through its port of Lagos on the Bight of Benin|Nigeria

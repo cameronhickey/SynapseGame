@@ -1,0 +1,6 @@
+JEFFERSON, LINCOLN OR CLINTON
+200|A state capital is not named after him|Clinton
+400|Did not serve 2 full terms as President|Lincoln
+600|An accomplished violinist|Jefferson
+800|Married a Yale graduate|Clinton
+1000|Once was a U.S. Congressman|Lincoln

@@ -1,0 +1,6 @@
+SHAKESPEARE'S FIRST WORDS
+200|\"Two households, both alike in dignity...\"|Romeo and Juliet
+400|\"When shall we three meet again\"|Macbeth
+600|\"Boatswain!\"|The Tempest
+800|\"O for a muse of fire...\"|Henry V
+1000|\"I learn in this letter that Don Pedro of Arragon comes this night in Messina.\"|Much Ado About Nothing

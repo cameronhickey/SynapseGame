@@ -1,0 +1,6 @@
+ECONOMICS
+200|Colloquial term for current president's economic policies|Reaganomics
+400|Along with supply, this economic force determines price of an item in a free market|demand
+600|Total value of a country's services & good produced|gross national product
+800|Though a factory owner, he helped Marx denounce capitalism|Engels
+1000|Critic of bureaucracy, his "Law" says work expands to fill the available time|Parkinson

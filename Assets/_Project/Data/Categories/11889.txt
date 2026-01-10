@@ -1,0 +1,6 @@
+GOOD "BY\"
+200|An uninvolved onlooker or spectator|a bystander
+400|A standing rule governing a corporation's internal affairs|a bylaw
+600|Don't have a coronary, it's just a road enabling motorists to avoid a city|bypass
+800|A secondary substance made from the manufacture of something else|a byproduct
+1000|Adjective meaning past or former|bygone

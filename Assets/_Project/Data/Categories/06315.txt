@@ -1,0 +1,6 @@
+JUST PLANE GEOMETRY
+200|In the 3rd century B.C., this "Father of Geometry" taught at the Museum, an institute in Alexandria, Egypt|Euclid
+400|A straight angle has this many degrees|180
+600|The sum of the squares of the lengths of the legs of a right triangle is equal to the square of the length of this|the hypotenuse
+800|The word geometry means to "measure" this|the world, the earth (the land)
+1000|To make this figure, put a looped string around 2 tacks, place a pencil tight against the string & draw|an ellipse

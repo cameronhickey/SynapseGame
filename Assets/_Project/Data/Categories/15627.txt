@@ -1,0 +1,6 @@
+HAI KARATE!
+200|Reflecting its roots as a form of unarmed combat, "karate" comes from the Japanese words "kara", empty, & "te", this|hand
+400|World Karate Federation rules require sparring competitors to do this to each other at the start & end of a bout|bow
+600|WKF fighters score 1 point for landing a punch, 2 points for a kick to the chest & 3 points for a kick to this body part|the head
+800|It's the 2-letter term for the usually white uniform worn by karate practitioners|gi
+1000|Many historians trace karate's origins to this big Japanese island invaded by the U.S. in the waning days of World War II|Okinawa

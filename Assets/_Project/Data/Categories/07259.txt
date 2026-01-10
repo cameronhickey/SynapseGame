@@ -1,0 +1,6 @@
+CITY WALK
+200|In the 1980s this city passed Chicago as the USA's second most populous|Los Angeles
+400|With a current population of 323,000 this North American national capital was founded in the early 1800s|Ottawa, Canada
+600|Thomas Alsgaard won the 15-kilometer cross-country ski event at the 1998 Winter Olympics in this Japanese city|Nagano
+800|The 1,000-year-old Al-Azhar University in this Middle East capital is an important center of Islamic learning|Cairo, Egypt
+1000|Founded by Ram Das, this city in Punjab state is home to the Golden Temple, the center of Sikh faith|Amritsar

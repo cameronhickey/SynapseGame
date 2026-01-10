@@ -1,0 +1,6 @@
+TV LOCALES
+200|Caramoan is the latest exotic Pacific setting for this CBS reality show|Survivor
+400|\"Breaking Bad" takes place in this "Land of Enchantment" state|New Mexico
+600|Pretty little Rosewood, Pennsylvania is the home of the girls on this series|Pretty Little Liars
+800|This title motorcycle gang revs up in Charming, California|the Sons of Anarchy
+1000|It's set in Mystic Falls, Virginia, home of werewolves & other creatures|The Vampire Diaries

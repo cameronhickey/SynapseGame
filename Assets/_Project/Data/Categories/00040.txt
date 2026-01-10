@@ -1,0 +1,6 @@
+MOVIES
+200|To Dustin Hoffman this '82 film was a "drag\"|Tootsie
+400|Film featuring March & Gaynor, Garland & Mason or Streisand & Kristofferson|A Star Is Born
+600|In '84 he's a destroyer, in '82 he was just a barbarian|Conan
+800|Walter Matthau & Tony Curtis both coached this kids' baseball team|The Bad News Bears
+1000|Went from bit part in film "Little Shop of Horrors" to Oscars for Best Actor & Best Support|Jack Nicholson

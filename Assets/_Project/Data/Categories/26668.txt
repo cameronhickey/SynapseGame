@@ -1,0 +1,6 @@
+LEGAL "P"s & "Q"s
+200|The act or process of proving a will|probating
+400|A landlord who wants to repossess his property might send a tenant a notice to do this|to quit
+600|In a criminal suit, one who proceeds against a person in the name of government|the prosecutor
+800|In Latin it means "what for what"; legally it means giving 1 valuable thing for another|quid pro quo
+1000|In some states lawyers are required to spend some time doing volunteer work, which is called this|pro bono

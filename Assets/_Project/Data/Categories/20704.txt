@@ -1,0 +1,6 @@
+AROUND THE CATHEDRAL
+200|A calvary is an often life-size sculpture depicting this event|the crucifixion
+400|A small room for prayer; St. John the Divine has several such as St. James & St. Savior|a chapel
+600|The mensa is the top slab or surface of one of these|the altar
+800|A benitier is a basin for this special liquid|holy water
+1000|A sacristy has this other name, from its use to store clerical garments|a vestry

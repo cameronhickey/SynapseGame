@@ -1,0 +1,6 @@
+ABBREV. TV
+200|Sitcom narrated through flashbacks from the future: "HIMYM\"|How I Met Your Mother
+400|Fashion rules from Stacy & Clinton: "WNTW\"|What Not To Wear
+600|A competition: "SYTYCD\"|So You Think You Can Dance
+800|Miss J. Alexander prepped the beauties: "ANTM\"|America's Next Top Model
+1000|Drama starring Jim Caviezel: "POI\"|Person of Interest

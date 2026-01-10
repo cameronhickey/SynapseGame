@@ -1,0 +1,6 @@
+THIS IS "US\"
+200|It's the 5-letter acronym for America's chief executive|POTUS
+400|A network of blood vessels or nerves, like the solar one|the plexus
+600|Violinist Jascha Heifetz was born in this Baltic capital in 1901|Vilnius
+800|Hop on, grab a seat & enjoy the reprinted works of your favorite author in this single volume|omnibus
+1000|After rescuing Andromeda from a sea monster, he marries her|Perseus

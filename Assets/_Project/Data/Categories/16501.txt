@@ -1,0 +1,6 @@
+LONDON TRANSPORTATION
+200|This largest airport serving London has 4 holding areas over southern England for aircraft waiting to land|Heathrow
+400|Until Westminster Bridge opened in 1750, London Bridge was the city's only crossing over this river|Thames
+600|The Underground has been known by this shorter nickname since 1890 when the first deep-level electric railway line opened|The Tube
+800|To do their job, they must pass an exam known as "The Knowledge" to show they know all of London's streets|cab drivers
+1000|In 2012 a redesigned, hybrid, but still red version of this iconic London transport hit the roads|double-decker bus

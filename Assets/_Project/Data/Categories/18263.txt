@@ -1,0 +1,6 @@
+CHARACTER REFERENCES
+200|Thomas Harris revealed that this character was inspired by a murderous Mexican surgeon, elegant & insane|Hannibal Lecter
+400|This character created by P.G. Wodehouse has been called the "most gentlemanly of gentlemen's gentlemen\"|Jeeves
+600|Among his siblings are Charlie, Percy, Fred, George & Ginny|Ron Weasley
+800|In 1972 disfigured Justin McLeod was "The Man Without a Face"; in 1863 exiled Philip Nolan was "The Man Without" this|a Country
+1000|This Virginia Woolf title character has the first name Clarissa|Mrs. Dalloway

@@ -1,0 +1,6 @@
+LIGHT
+200|Guinness says the lights atop this mid-Manhattan skyscraper are visible to aircraft 300 miles away|the Empire State Building
+400|This type of cable uses light to carry thousands of times as many phone calls as a copper wire|fiberoptics
+600|Optical device used by Newton to show light was composed of all colors in spectrum|a prism
+800|In dim light, the dilator muscle makes it open wider|the pupil of the eye
+1000|Engineering unit for measuring illumination, not light per se|a lumen (per square foot or foot-candle)

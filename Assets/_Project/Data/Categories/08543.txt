@@ -1,0 +1,6 @@
+FROM RUSSIA WITH LOVE
+200|The title character of this novel has a mistress named Lara, the wife of a revolutionary|Doctor Zhivago
+400|Once a prisoner of the French & of a bad marriage, Pierre Bezuhov finds love with Natasha Rostova in this novel|War and Peace
+600|This novel ends with Raskolnikov realizing he will have years of happiness with Sonia after his term in Siberia|Crime and Punishment
+800|In a Chekhov play, Sonya loves Astrov, while Astrov & this title relative are in love with Elena|Uncle Vanya
+1000|Khlestakov wants to marry the mayor's daughter in "The Inspector General", a play by this "Dead Souls" author|(Nikolai) Gogol

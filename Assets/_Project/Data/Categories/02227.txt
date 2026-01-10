@@ -1,0 +1,6 @@
+WORLD "C"ITIES
+200|The Nilometer on Rawdah Island in this city was built to measure the height of the Nile's floods|Cairo
+400|Landmarks in this Indian city include the Howrah Bridge & the Parasnath Jain Temple|Calcutta
+600|This German city's twin-spired Gothic cathedral was begun in 1248, but not completed until 1880|Cologne
+800|This Italian city is known for its violin making, which reached its height in the 1600s & 1700s|Cremona
+1000|This New Zealand city was founded in 1850 by the Canterbury Association, an Anglican group from England|Christchurch

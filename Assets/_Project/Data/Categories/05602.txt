@@ -1,0 +1,6 @@
+FLYING MANEUVERS
+200|To do it to a fire, you cover it, to do it to a plane, you lower one wing|Bank it
+400|Noisy term for flying low over a person or area|Buzzing
+600|Also a Coney Island ride, it's a 360-degree maneuver that starts by pointing the nose upward|Loop-the-loop
+800|In this roll named for a container, the plane revolves once on its longitudinal axis|Barrel roll
+1000|Pitch is when the plane's nose moves up or down, & this 3-letter word refers to a left or right motion|Yaw

@@ -1,0 +1,6 @@
+ANIMAL CHANGE A LETTER
+200|These two creatures are only one letter different but not really similar otherwise|lion & loon
+400|A "gruff" quadruped of fable switches a letter, becoming an insect pest|goat & gnat
+600|Change the first letter of a burrowing insectivore & you get a mouselike rodent|mole & vole
+800|Change a letter from the official state fish of Massachusetts & you get a mostly docile ruminant|cod & cow
+1000|Change the vowel in the name of a smelly mammal & you get a slithery lizard|skunk & skink

@@ -1,0 +1,6 @@
+7 WONDERS, 4 COUNTRIES
+200|Statue of Zeus|Greece
+400|Lighthouse of Alexandria|Egypt
+600|Colossus of Rhodes|Greece
+800|Hanging Gardens of Babylon|Iraq
+1000|Mausoleum of Halicarnassus|Turkey

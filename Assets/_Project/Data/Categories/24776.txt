@@ -1,0 +1,6 @@
+COMPANY HEADQUARTERS
+200|This airline is based in Mascot, a suburb of Sydney|Qantas
+400|Get the picture—Konica Minolta is based in this country|Japan
+600|Drive safely to this car company's HQ in Gothenburg, Sweden|Volvo
+800|This all-inclusive resort company is based in Paris, not on its namesake sea|Club Med
+1000|Puma & this rival are both based in the German town of Herzogenaurach|Adidas

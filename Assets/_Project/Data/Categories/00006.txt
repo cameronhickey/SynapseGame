@@ -1,0 +1,6 @@
+NATIONAL LANDMARKS
+200|She came from France to harbor America's freedom|the Statue of Liberty
+400|When he was home, George Washington slept here|Mount Vernon
+600|The cornerstone of Massachusetts, it bears the date 1620|Plymouth Rock
+800|Site where John Hancock signed his "John Hancock\"|Independence Hall
+1000|D.C. building shaken by November '83 bomb blast|the Capitol

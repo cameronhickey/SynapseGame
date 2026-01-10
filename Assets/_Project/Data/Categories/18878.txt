@@ -1,0 +1,6 @@
+TRUE BLOOD
+200|The pigment that transports oxygen in the blood, it is in the red blood cells & gives blood its red color|hemoglobin
+400|The solid parts of blood—the red & white blood cells & platelets—are suspended in this, the liquid portion|plasma
+600|An old test for this infection "kissing disease" used a sample of the patient's blood, mixed with that of a sheep|mononucleosis
+800|Some kinds of white blood cells produce these, proteins that destroy bacteria, viruses & other invaders|antibodies
+1000|Large numbers of abnormal white blood cells multiply out of control & do not fight infection in this disease|leukemia

@@ -1,0 +1,6 @@
+VOCABULARY
+200|The verb helenizing refers to adopting the speech & customs of this country|Greece
+400|By definition, a Cornish person doesn't tel corny jokes, but comes from this English county|Cornwall
+600|Together or alone, these 2 words refer to a car that carries passengers for a fare|a taxi cab
+800|From the Latin meaning "fit for use", it's any of various implements used for cooking or eating|a utensil
+1000|From the name of a mythical king, it means to tease with the promise of something desirable but out of reach|tantalize

@@ -1,0 +1,6 @@
+NAME THE WAR
+200|Anzio, Tobruk, Bataan|World War II
+400|Khe Sanh, Hue, the Ia Drang Valley|the Vietnam War
+600|Ypres, Verdun, Cambrai|World War I
+800|Santiago, El Caney, Manila Bay|the Spanish-American War
+1000|Buena Vista, Palo Alto, Contreras|the Mexican-American War

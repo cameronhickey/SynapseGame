@@ -1,0 +1,6 @@
+NURSES
+200|In 1853 this nurse was superintendent at London's Institution for Sick Gentlewomen in Distressed Circumstances|Florence Nightingale
+400|Before she helped desegregate armed forces nurses, Mabel Staupers worked at a Harlem sanitarium that mainly battled this lung disease|tuberculosis
+600|Civil War nurse Dorothea Dix also worked to help people with this condition, often kept in "cages, closets, cellars\"|mental illness
+800|An 1951 Life Magazine piece on Maude Callen gave prominence to the combined job "nurse" this, created around 1930|nurse-midwife
+1000|The Kenny method of treating paralysis caused by this viral disease was developed by Sister Kenny, an Australian nurse|polio

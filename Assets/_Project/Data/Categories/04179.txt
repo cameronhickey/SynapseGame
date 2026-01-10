@@ -1,0 +1,6 @@
+AUTHOR'S DICTIONARY
+200|It's defined as the combination of 2 seemingly contradictory words, like "deafening silence\"|oxymoron
+400|When this is used objects or abstractions are endowed with human traits, as in "The clouds wept\"|anthropomorphism (or personification)
+600|It's a specific comparison using "like" or "as"; "cool as a cucumber", for example|simile
+800|From the Greek for "orator", it's the art or study of using language effectively|rhetoric
+1000|As in "all hands on deck", it's the figurative use of a part of something for the whole|synecdoche

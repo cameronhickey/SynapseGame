@@ -1,0 +1,6 @@
+TEAM NAME'S THE SAME
+200|San Francisco & New York|the Giants
+400|Texas & New York|the Rangers
+600|Sacramento & Los Angeles|the Kings
+800|Edmonton & a former Houston team|the Oilers
+1000|Ottawa & a former Washington, D.C. team|the Senators

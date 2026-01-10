@@ -1,0 +1,6 @@
+WHERE IN THE WORLD IS YOUR HQ?
+200|Lloyd's; they're big in insurance, over on Lime St.|England
+400|Hitachi Maxell, Ltd.|Japan
+600|Royal Crown Cola International|the United States
+800|Grupo Modelo|Mexico
+1000|Mahindra Satyam Computer Services|India

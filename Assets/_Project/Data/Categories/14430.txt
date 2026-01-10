@@ -1,0 +1,6 @@
+DEBUT ALBUMS
+200|1987: "Appetite For Destruction\"|Guns N' Roses
+400|1962: "Surfin' Safari\"|The Beach Boys
+600|1967: "Are You Experienced\"|Jimi Hendrix
+800|2002: "Come Away With Me\"|Norah Jones
+1000|2000: "Parachutes\"|Coldplay

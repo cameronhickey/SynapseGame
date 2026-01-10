@@ -1,0 +1,6 @@
+SINGLE DIGITS
+200|Number of persons a love seat is designed for|2
+400|We don't know how many faces death has, but a die has this many|6
+600|Number of legs on an orb weaver|8
+800|Number of "Summits" in a climbing feat first completed in 1985|7
+1000|Used for self-understanding, the enneagram is a diagram showing this many personality types|9

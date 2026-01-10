@@ -1,0 +1,6 @@
+LITERARY OPENINGS
+200|\"Every Who down in Who-ville liked Christmas a lot...\"|How the Grinch Stole Christmas!
+400|\"True!-Nervous-very, very dreadfully nervous I had been and am; but why will you say that I am mad?\"|\"The Tell-Tale Heart\"
+600|\"It was a pleasure to burn.\"|\"Fahrenheit 451\"
+800|\"All happy families are alike but an unhappy family is unhappy after its own fashion.\"|\"Anna Karenina\"
+1000|\"My mother died. Today, or maybe it was yesterday.\"|\"The Stranger\"

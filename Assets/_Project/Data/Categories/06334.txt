@@ -1,0 +1,6 @@
+THE NUMBER AFTER 2
+200|The number after 2 in the product of 9 & 3|7 (27)
+400|In the quotient of 48 & 2|4 (24)
+600|At 6 degrees of separation below the Fahrenheit freezing point|6 (26)
+800|In the next prime number after 19|3 (23)
+1000|In 58 percent of 50 bucks|9 (29)

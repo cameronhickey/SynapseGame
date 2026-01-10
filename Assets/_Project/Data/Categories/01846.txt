@@ -1,0 +1,6 @@
+CHINESE FOOD
+200|There are 3 basic types of Chinese cooking in oil: shallow-frying, deep-frying & this one|stir-frying
+400|Mu shu pork is served rolled up in one of these|a pancake
+600|Sometimes called fensi, this thin pasta is made from mung beans & becomes transparent when soaked in water & cooked|glass (cellophane) noodles
+800|The use of spicy Huajiao peppers gives food from this Chinese province its zesty flavor|Sichuan
+1000|A popular ingredient in stir fry recipes, its name means "white vegetable" in Cantonese|bok choy

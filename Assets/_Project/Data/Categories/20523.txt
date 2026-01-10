@@ -1,0 +1,6 @@
+THE CITRUS BOWL
+200|Valencia & Seville|oranges
+400|Persian & Key|limes
+600|Eureka & Meyer|lemons
+800|Rio Red & Star Ruby|grapefruits
+1000|The bite-sized Nagami & Meiwa|kumquats

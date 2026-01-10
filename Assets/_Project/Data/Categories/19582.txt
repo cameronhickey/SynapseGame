@@ -1,0 +1,6 @@
+NOT A REAL MUPPET OR SESAME STREET CHARACTER
+200|Beaker, Fozzie, Gumbo|Gumbo
+400|Waldorf, Statler, Belleview|Belleview
+600|Dr. Strangepork, Dr. Oss-a-Lot, Dr. Honeydew|Dr. Oss-a-Lot
+800|Pretzels, Sweetums, Foo Foo|Pretzels
+1000|Owl Jolson, Placido Flamingo, Polly Darton|Owl Jolson

@@ -1,0 +1,6 @@
+DISTILL CRAZY
+200|Cognac is this type of liquor that's distilled from wine|brandy
+400|Ketel One puts fermented wheat through both column & pot stills to make this type of liquor|vodka
+600|In Prohibition times, this 10-letter type of bootlegger made booze in illegal stills at night|a moonshiner
+800|Before bourbon is distilled, it is this crushed grain mix that can be sweet or sour|mash
+1000|The best stills for gin are said to be made from this malleable elemental metal that strips away sulfur from the mix|copper

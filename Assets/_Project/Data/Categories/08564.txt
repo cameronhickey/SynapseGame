@@ -1,0 +1,6 @@
+LIBROS EN ESPAÑOL
+200|Rowling: "Harry Potter y la Piedra Filosofal\"|Harry Potter and the Sorcerer's Stone
+400|Puzo: "El Padrino\"|The Godfather
+600|Wells: "La Guerra de los Mundos\"|The War of the Worlds
+800|Rey: "Jorge el Curioso\"|Curious George
+1000|Gray: "Los Hombres son de Marte, las Mujeres son de Venus\"|Men Are from Mars, Women Are from Venus

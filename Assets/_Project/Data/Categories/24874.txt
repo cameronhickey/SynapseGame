@@ -1,0 +1,6 @@
+\"CHAIN\"
+200|The U.S. Post Office said that "send-a-dime" these, a craze in 1935, violated federal lottery laws|chain mail (chain letters)
+400|In the military, orders go down this; requests go up|the chain of command
+600|This protective medieval stuff was made of interlinked rings of iron|chain mail
+800|this.com calls itself "the world's leading crypto finance house\"|blockchain
+1000|In law, prosecutors work to establish this, the trail of possession & handling of a piece of evidence|chain of custody

@@ -1,0 +1,6 @@
+AFRICAN COUNTRY BY AIRPORT
+200|Aswan Airport|Egypt
+400|Mogadishu International|Somalia
+600|Kruger Mpumalanga International|South Africa
+800|Indaselassie Airport|Ethiopia
+1000|Mohammed V International Airport|Morocco

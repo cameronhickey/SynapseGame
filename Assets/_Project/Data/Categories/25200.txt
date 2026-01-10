@@ -1,0 +1,6 @@
+SHAKESPEARE -LOGUES ON
+200|\"My only love sprung from my only hate! Too early seen unknown, and known too late!\"|Juliet
+400|\"Mark Antony, here, take you Caesar's body. You shall not in your funeral speech blame us\"|Brutus
+600|\"I know not that; but such a handkerchief—I am sure it was your wife's—did I today see Cassio wipe his beard with\"|Iago
+800|Hamlet: "Shall we to th' court? For, by my fay, I cannot reason"; these 2: "We'll wait upon you\"|Rosencrantz & Guildenstern
+1000|\"When I did him at this advantage take, an ass's noll I fixed on his head\"|Puck

@@ -1,0 +1,6 @@
+STUDENT AID
+200|A 1902 will established this scholarship that sends students to Oxford University|the Rhodes
+400|The name of these 4-letter federal grants honors the senator who originated the program|Pell
+600|The PSAT is the qualifying exam for this scholarship program that began in 1955|the National Merit Scholarship Program
+800|This group gives scholarships to minority students & financial support to 37 historically black colleges & universities|the UNCF (United Negro College Fund)
+1000|Originally for WWII vets, it provides grants for tuition & is more formally known as the Servicemen's Readjustment Act|the G.I. Bill

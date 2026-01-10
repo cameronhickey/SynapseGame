@@ -1,0 +1,6 @@
+EARTHQUAKE!
+200|The Palace Hotel in this U.S. city had to be rebuilt after it was gutted by fire following a 1906 earthquake|San Francisco
+400|The center of this Nicaraguan capital was almost completely destroyed in a 1972 earthquake|Managua
+600|The standard scale is logarithmic, so an 8.0 has waves this many times larger than a 7.0|ten
+800|The August 23, 2011 5.8 quake near D.C. really shook up the scientists in Reston, Virginia at the USGS, short for this|the United States Geological Survey
+1000|Roman emperor Trajan was nearly killed in a 115 A.D. quake in Antioch, now Antakya in this country|Turkey

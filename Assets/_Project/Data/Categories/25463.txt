@@ -1,0 +1,6 @@
+FROM THE NEWSPAPERS
+200|A subhead from 1929: "Istanbul, not found in recent atlases, has replaced" this old name|Constantinople
+400|December 27, 2007: this "Pakistani leader killed in suicide attack\"|Benazir Bhutto
+600|1963: this civil rights leader "survived the Normandy invasion but died of an assassin's bullet in Mississippi\"|(Medgar) Evers
+800|From September 1933: "Nazi dominance... astounding to visitors"; this republic "irretrievably buried\"|Weimar
+1000|In 1921: "Italian radicals make issue of" this pair's case|Sacco & Vanzetti

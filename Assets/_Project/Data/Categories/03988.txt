@@ -1,0 +1,6 @@
+AROUND WILLIAMSBURG
+200|Williamsburg was the capital of this colony from 1699 to 1776|Virginia
+400|During the revolution, the state capital moved from Williamsburg to this city in 1780|Richmond
+600|Williamsburg was made defensible & had fewer mosquitos than this early English settlement a few miles to the SW|Jamestown
+800|This Williamsburg college was founded in 1693|William And Mary
+1000|Patrick Henry's famous 1765 speech in Williamsburg denounced this "act\"|The Stamp Act

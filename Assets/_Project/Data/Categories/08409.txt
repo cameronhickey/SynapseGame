@@ -1,0 +1,6 @@
+GLOBAL KITCHEN
+200|Shrimp cooked with garlic, butter & lemon are known by this Italian term|scampi
+400|Ivory-colored shoots of this plant of the Genus Arundinaria are often used as a complement in Asian cooking|bamboo shoots
+600|\"No dinner without bread" goes a Russian saying & usually it is bread made from this grain, secale cereale|rye
+800|The crust of this traditional English "pie" is made with mashed potatoes|shepherd's pie
+1000|Rice & ground meat wrapped in these leaves make up Dolma, a traditional Greek dish|grape leaves

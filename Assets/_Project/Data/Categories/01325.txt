@@ -1,0 +1,6 @@
+MONSTERS
+200|It's the name native Tibetans have given to the Abominaible Snowman|the Yeti
+400|A manticore has a human head, the body of a lion & the tail of this zodiac arachnid|a scorpion
+600|This poem tells of a Scandinavian prince who rids the Danes of the monster Grendel|\"Beowulf\"
+800|The Thebans made Oedipus king for ridding them of this monster|the Sphinx
+1000|Krishna, the 8th avatar of this god, slew or defeated scores of evil demons & monsters|Vishnu

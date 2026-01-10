@@ -1,0 +1,6 @@
+THE COUNTY SEAT
+200|Buffalo: Of this county on a Great Lake|Erie
+400|Santa Rosa, California: Of this winey county west of Napa|Sonoma
+600|Towson, Maryland: Of this charm county, we guess|Baltimore (County)
+800|Indianapolis: Of this county named for Revolutionary general Francis|Marion
+1000|Tucson: Of this county/people/type of cotton|Pima

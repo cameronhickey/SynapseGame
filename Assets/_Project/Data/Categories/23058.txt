@@ -1,0 +1,6 @@
+BUSINESS ACRONYMS & ABBREV.
+200|The boss wants that report by EOD, this|end of day
+400|The pharmaceutical industry spends about $200 billion a year on R&D, short for this|research & development
+600|Let's get down to the bottom line & discuss AGI, "adjusted" this|gross income
+800|NASDAQ is the National Association of Securities Dealers Automated these bids & offers|quotations
+1000|Business analysts use SWOT to stand for "strengths, weaknesses, opportunities &" these possible dangers|threats

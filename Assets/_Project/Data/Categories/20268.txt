@@ -1,0 +1,6 @@
+STATUARY HALL: THE STATE REPRESENTED
+200|Huey Long|Louisiana
+400|Brigham Young|Utah
+600|Father Damien|Hawaii
+800|William Jennings Bryan|Nebraska
+1000|Helen Keller: This southern state|Alabama

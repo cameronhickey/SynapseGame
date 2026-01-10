@@ -1,0 +1,6 @@
+IT'S ALL IN THE DNA
+200|In most cellular organisms, DNA is carried by these threadlike structures in the nucleus of a cell|chromosomes
+400|Humans have about 30,000 of these basic DNA units of heredity whose name is from the Greek for "birth\"|genes
+600|In 1953 Watson & crick described the spiral structure of DNA as one of these|a double helix
+800|3 types of this nucleic acid are transfer, ribosomal & messenger|RNA
+1000|One of the 4 nitrogen-containing DNA bases abbreviated A, G, T & C|cytosine (or adenine, guanine or thymine)

@@ -1,0 +1,6 @@
+STATES' MOST POPULOUS CITIES
+200|Iowa: 193,000|Des Moines
+400|Kansas: 305,000|Wichita
+600|Alaska: Pop. 226,000|Anchorage
+800|South Dakota: Pop. 101,000|Sioux Falls
+1000|Vermont: Pop. 39,000|Burlington

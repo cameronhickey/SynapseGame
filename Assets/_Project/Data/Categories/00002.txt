@@ -1,0 +1,6 @@
+ANIMALS
+200|There are about 40,000 muscles & tendons in this part of an elephant's body|the trunk
+400|Close relative of the pig, though its name means "river horse\"|a hippopotamus
+600|The order they belong to, Proboscidea, is named for their most distinguishing feature|elephants
+800|3-letter Australian bird of crossword puzzle fame, it's 2nd tallest in the world|an emu
+1000|Its name comes from the Spanish el lagarto, meaning "lizard\"|an alligator

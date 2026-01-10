@@ -1,0 +1,6 @@
+PICTURE/BOOK
+200|Here's this 1850 novel quite literally|The Scarlet Letter
+400|This tragic 1937 novella now looks kind of cute|Of Mice and Men
+600|It's mainly set in New York City|The Catcher in the Rye
+800|A landmark work of the 18th century|The Wealth of Nations
+1000|A first novel dealing with the Second World War|The Naked and the Dead

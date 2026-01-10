@@ -1,0 +1,6 @@
+RED STATES
+200|Like Grosse Pointe, Redford is a suburb of the largest city in this state|Michigan
+400|Red is one of the many colors in the palette of this state's "Painted Desert\"|Arizona
+600|Redwood City, Redding & Redlands are all cities in this state|California
+800|If you're visiting Glacier National Park in this state, be sure to check out Red Mountain & Red Eagle Mountain|Montana
+1000|2 of the 3 states whose borders are partially formed by the Red River of the South|Texas & Oklahoma (& Arkansas)

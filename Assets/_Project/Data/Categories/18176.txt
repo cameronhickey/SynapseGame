@@ -1,0 +1,6 @@
+BRAINY ANAGRAMS
+200|One major division: HERE IS HEMP|hemisphere
+400|Neuron extension: NERD DIET|dendrite
+600|A sensory lobe: AMPLE ROT|temporal
+800|A chemical neurotransmitter that affects mood: ONION REST|serotonin
+1000|A control center: MY ALPHA SHOUT|hypothalamus

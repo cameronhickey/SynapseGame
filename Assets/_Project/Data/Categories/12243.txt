@@ -1,0 +1,6 @@
+ZEPPELIN
+200|Zeppelins were named for Count Ferdinand von Zeppelin of this country|Germany
+400|The first military use of Zeppelins came during this war|World War I
+600|In 1924 this U.S. company acquired all the Zeppelin patents|Goodyear
+800|This high-flying dirigible made the first airship flight around the world in 1929|the Graf Zeppelin
+1000|These 2 lighter-than air gases that lift the Zeppelin are carried in balloons called cells|hydrogen & helium

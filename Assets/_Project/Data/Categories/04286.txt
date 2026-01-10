@@ -1,0 +1,6 @@
+ENDS IN "UM\"
+200|The Louvre or Prado, for example|a museum
+400|Term for the minimum number of people required at a meeting to conduct business legally|a quorum
+600|It's where you keep your guppies, gourami & mollies|an aquarium
+800|This lightest metal is often used in the treatment of manic depression|lithium
+1000|It's the point or support on which a lever pivots|a fulcrum

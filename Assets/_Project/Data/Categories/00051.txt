@@ -1,0 +1,6 @@
+SHAKESPEARE
+200|Hamlet found "something rotten" in this country|Denmark
+400|The Moor who loved Desdemona "not wisely, but too well\"|Othello
+600|Battle of the sexes on which musical "Kiss Me Kate" was based|The Taming of the Shrew
+800|Chubby character who loved his ale & supplied the name for one|Falstaff
+1000|She was 8 years older & 3 months pregnant when Shakespeare married her|Anne Hathaway

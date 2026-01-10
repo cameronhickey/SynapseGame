@@ -1,0 +1,6 @@
+IRON
+200|A simple one of these is made by placing a magnetized piece of iron on a splinter of wood in water|a compass
+400|In Europe the Iron Age immediately followed this age|the Bronze Age
+600|Term for the commercially purified iron used to make ornamental ironwork|wrought iron
+800|It's the component of a red blood cell that contains iron|hemoglobin
+1000|Term for the impurities that float on top of melted iron in the furnace|slag

@@ -1,0 +1,6 @@
+BEFORE, DURING OR AFTER
+200|The death of the prophet Muhammad, BDA 1095 A.D.|before
+400|The publication of Stephenie Meyer's "Twilight", BDA 2001|after
+600|The Winter Olympics in Lillehammer, Norway, BDA 1996|before
+800|The real charge of the light brigade, BDA 1854|during
+1000|The Lewis & Clark expedition hits the trail, BDA 1801|after

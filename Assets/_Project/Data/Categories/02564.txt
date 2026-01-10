@@ -1,0 +1,6 @@
+DOUBLE "P" WORDS
+200|They blow in Flanders Fields|Poppies
+400|It "knocks but once" & Arkansas is the "Land Of" it|Opportunity
+600|Pliant or limber|supple
+800|One who learns a trade as a member of a labor union|an apprentice
+1000|Meaning the reestablishment of cordial relations between 2 nations, it's from the French for "bring together\"|rapprochement

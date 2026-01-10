@@ -1,0 +1,6 @@
+RIVERS
+200|William Shakespeare's Stratford in on this river, a tributary of the Severn|the Avon
+400|The Amur River in Central Asia forms part of Russia's border with this country|China
+600|Called "China's Sorrow" from its frequent floods, the Huang Ho is known by this name in English|the Yellow River
+800|The Bonneville Dam was completed in 1937 on this U.S.-Canadian river & made it easier to navigate|the Columbia
+1000|Pakistan's fertile Punjab Plain is irrigated by this river & its tributaries|the Indus River

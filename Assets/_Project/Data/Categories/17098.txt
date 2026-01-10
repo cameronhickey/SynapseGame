@@ -1,0 +1,6 @@
+SPIDERS & WEBS
+200|Number of bones in a spider's body|zero
+400|Term for the way spiderlings travel by the wind, but they don't use hot air or helium|ballooning
+600|Spiders can only take in food that's in this form|liquid
+800|In myth, Arachne was changed into a spider when she beat Athena in a contest of this skill|weaving
+1000|Scottish author who wrote "O, what a tangled web we weave, when 1st we practice to deceive!\"|Sir Walter Scott

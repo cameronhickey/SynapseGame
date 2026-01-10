@@ -1,0 +1,6 @@
+MOVIE DIRECTORS
+200|This director's then wife Marcia served as editor on his 1977 film "Star Wars\"|George Lucas
+400|This Swede's first English-language film was "The Touch" in 1971|Ingmar Bergman
+600|The Swedish Film Institute honors excellence in filmmaking with an annual prize named for this director|Ingmar Bergman
+800|In "Platoon" Charlie Sheen's character Chris was based on this man, who directed the film|Oliver Stone
+1000|Through 1996 he starred in all of the films he directed with the exception of "Breezy" & "Bird\"|Clint Eastwood

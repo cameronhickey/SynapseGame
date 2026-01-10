@@ -1,0 +1,6 @@
+THE FIRST WORD
+200|In our Constitution's preamble|We
+400|In Elvis Presley's "Hound Dog\"|You
+600|In Dickens' "A Christmas Carol\"|Marley
+800|In Genesis|In
+1000|In Shakespeare's 18th sonnet|Shall

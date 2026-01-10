@@ -1,0 +1,6 @@
+MAGAZINE DEBUTS BY DECADE
+200|Mad, TV Guide, Playboy|the 1950s
+400|Rolling Stone, Psychology Today, New York|the 1960s
+600|Money, Ms., Games|the 1970s
+800|Reader's Digest, Business Week, Time|the 1920s
+1000|Newsweek, Esquire, Consumer Reports|the 1930s

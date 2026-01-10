@@ -1,0 +1,6 @@
+YOU'VE GOT ANIMAL MALE
+200|Party on with this name for an adult male deer|a stag
+400|A male guinea pig is called this, like a male pig|a boar
+600|Male house cats & male turkeys both have this name|a tom
+800|A sea stallion is the male of this unique fish|a seahorse
+1000|The drake of this common North American duck is also called a greenhead|a mallard

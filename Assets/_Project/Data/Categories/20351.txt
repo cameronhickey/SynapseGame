@@ -1,0 +1,6 @@
+CHURCHILL, FDR OR STALIN
+200|He was Caucasian by birth & birthplace|Stalin
+400|He died last|Churchill
+600|He had 6 children|FDR
+800|He originally trained for the priesthood|Stalin
+1000|He was an avid stamp collector|FDR

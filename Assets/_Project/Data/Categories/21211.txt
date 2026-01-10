@@ -1,0 +1,6 @@
+EPONYMOUSE
+200|The name of this Disney character can mean rundown or rinky-dink, as in "What kind of a ____ ____ outfit are you running?\"|Mickey Mouse
+400|When hunting a wily suspect, detectives often play this type of game that mentions 2 creatures|cat and mouse
+600|Robert Burns' "best laid schemes" of this pair led to a Steinbeck title|of mice and men
+800|Half of Gnarls Barkley, artist-producer Brian Burton goes by this name of a cartoon secret agent|Danger Mouse
+1000|\"Knowing how to do" in French, this omnipresent cheese-stealing cartoon mouse was a thorn in Klondike Kat's side|Savoir Faire

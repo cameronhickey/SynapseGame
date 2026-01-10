@@ -1,0 +1,6 @@
+READ IT
+200|This novel in which the Pequod sinks in the last chapter—read it|Moby Dick
+400|The Yorkshire dialect makes this Bronte classic a tough read; I prefer the film with Olivier as Heathcliff|Wuthering Heights
+600|Woodward & Bernstein changed America with this book, nonfiction that read like a spy thriller|All the President's Men
+800|This first mystery novel with Philip Marlowe—too convoluted & kind of a snooze (pun intended)|The Big Sleep
+1000|Jhumpa Lahiri's writing is exquisite in her short story collection called "Interpreter of" these|maladies

@@ -1,0 +1,6 @@
+ANATOMIC TISSUES
+200|As its name implies, cardiac muscle tissue is found only in this organ|the heart
+400|A tissue is a group of like cells with a specific job; this liquid of white & red cells is an example|blood
+600|Your septum is made of this tissue also known as gristle|cartilage
+800|This rigid supporting tissue that may be compact or spongy gets its hardness from calcium|bone
+1000|The walls of the human digestive tract are made up of lymphatic tissue & this kind of muscle, not striped|smooth

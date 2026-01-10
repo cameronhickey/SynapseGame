@@ -1,0 +1,6 @@
+ANIMAL NICKNAMES
+200|\"The Lone Eagle\"|Charles Lindbergh
+400|Depression-era kingpin known as "The Kingfish\"|Huey Long
+600|Until overthrown in 1974, he was "The Conquering Lion of Judah\"|Haile Selassie
+800|Soprano known as "The Swedish Nightingale\"|Jenny Lind
+1000|Major League Baseball's past & present "Goose\"|Goslin & Gossage

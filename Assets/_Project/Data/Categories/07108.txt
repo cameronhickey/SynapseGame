@@ -1,0 +1,6 @@
+GERMAN CITIES
+200|This capital's oldest church, older than the city itself, is the 800-year-old St. Nicholas Church|Berlin
+400|In 1923 Hitler staged his Beer Hall Putsch in this capital of Bavaria|Munich
+600|In German, it's Koln; in English, this|Cologne
+800|A British royal house that ruled from 1714 to 1901 originated in this city from which it got its name|Hanover
+1000|Europe's second-busiest port, it's said to have more bridges than Venice & Amsterdam combined|Hamburg

@@ -1,0 +1,6 @@
+STATE ANIMALS
+200|The white-tailed type of this is Nebraska's state mammal|a deer
+400|South Dakota's state animal is this howling canine|a coyote
+600|It's the state animal of Montana & California, but the California one is extinct|the grizzly bear
+800|The name of this pretty kitty includes the state where it's an official symbol|the Maine Coon
+1000|It's South Carolina's official game bird, not its state bourbon|wild turkey

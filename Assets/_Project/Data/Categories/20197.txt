@@ -1,0 +1,6 @@
+PLACES IN CONTINENTS
+200|It's in Australia, it's big, hot & empty, & it's called the Great Sandy this|desert
+400|It's in Central Asia, between Russia & China; I've horde you Khan visit all 21 provinces|Mongolia
+600|It's in Africa, where it's the nearest country to continental Europe|Morocco
+800|It's in North America; along with Manitoba & Saskatchewan, it's one of Canada's prairie provinces|Alberta
+1000|It's in Europe: its only land border is with Germany|Denmark

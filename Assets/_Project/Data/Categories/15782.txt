@@ -1,0 +1,6 @@
+AT THE "DELI\"
+200|One who offends the law, maybe a juvenile|a delinquent
+400|A word for a choice or dainty morsel of food|a delicacy
+600|It was probably your first room, but you got kicked out of it quickly|the delivery room
+800|It's what a jury does to arrive at a verdict|deliberate
+1000|A state of mental confusion|delirium

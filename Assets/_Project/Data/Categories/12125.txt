@@ -1,0 +1,6 @@
+MISQUOTED
+200|Contrary to popular belief, Humphrey Bogart never said "Play it again, Sam" in this 1942 film|Casablanca
+400|This leader said "I have nothing to offer but blood, toil, tears & sweat", not "blood, sweat & tears\"|Winston Churchill
+600|\"Luke, I am your father" was a misquoted line in this "Star Wars" film, the fifth episode|The Empire Strikes Back
+800|This man who created Tarzan never wrote the line "Me Tarzan, you Jane\"|Edgar Rice Burroughs
+1000|This Brooklyn Dodgers manager said, "The nice guys are all over there. In 7th place", not "Nice guys finish last\"|Leo Durocher

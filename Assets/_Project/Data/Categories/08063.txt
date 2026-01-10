@@ -1,0 +1,6 @@
+MOVIE MATH
+200|\"The 5000 Fingers of Dr. T" minus "5 Easy Pieces\"|4,995
+400|Sum of the digits in "THX-1138\"|13
+600|\"The 7 Year Itch" plus "10 North Frederick" divided by "2 for the Road\"|8 1/2
+800|\"Friday the 13th" times its sequels|52 (13 X 4)
+1000|\"The Faces of Dr. Lao" plus "The Faces of Eve\"|10 (7 + 3)

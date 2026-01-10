@@ -1,0 +1,6 @@
+NOVEL OPERAS
+200|English title of the novel that inspired Isidore de Lara's opera "Les Trois Mousquetaires\"|The Three Musketeers
+400|Composer Vittorio Giannini's sister Dusolina played Hester in his opera based on this Hawthorne novel|The Scarlet Letter
+600|Mr. Fezziwig is featured in Thea Musgrave's opera based on this Dickens novel|A Christmas Carol
+800|He died before "The Trial" was published, so he never got to see the opera version either|Franz Kafka
+1000|The Benjamin Britten opera based on this Herman Melville work climaxes with a hanging|Billy Budd

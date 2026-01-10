@@ -1,0 +1,6 @@
+NAME THAT TUNE-STER
+200|A singer/actress: "Baby Boy", "Crazy In Love", "Irreplaceable\"|Beyoncé
+400|A duo: "St. Elsewhere" "Go Go Gadget Gospel", "Crazy\"|Gnarls Barkley
+600|A Las Vegas group: "Mr. Brightside", "Somebody Told Me", "When You Were Young\"|The Killers
+800|A singer-songwriter: "Gravity", "Belief", "Waiting On The World To Change\"|John Mayer
+1000|A 3-named woman: "Like A Star", "Enchantment", "Put Your Records On\"|Corinne Bailey Rae

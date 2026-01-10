@@ -1,0 +1,6 @@
+SILENT "K\"
+200|A finger joint|a knuckle
+400|To fold & stretch bread dough into a smooth, uniform mass|knead
+600|It's a British term for women's underwear|knickers
+800|The sound of a bell rung ominously|knell
+1000|A backpack for a hiker|a knapsack

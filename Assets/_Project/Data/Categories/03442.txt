@@ -1,0 +1,6 @@
+AT THE FAIR
+200|Salem|Oregon
+400|Richmond|Virginia
+600|Jackson|Mississippi
+800|Sedalia|Missouri
+1000|Timonium|Maryland

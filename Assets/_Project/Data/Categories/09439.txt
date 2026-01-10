@@ -1,0 +1,6 @@
+3 OF A KIND
+200|Coddled, deviled, hard boiled|eggs
+400|Othello, Pente, Trouble|games
+600|Golf, Beetle, Karmann Ghia|Volkswagen models
+800|Java, COBOL, Perl|programming languages
+1000|Sinhala, Xhosa, Novial|languages

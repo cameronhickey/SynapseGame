@@ -1,0 +1,6 @@
+WHO SAID IT, SHAKESPEARE?
+200|\"Soft you now, the fair Ophelia—nymph, in thy orisons be all my sins remembered\"|Hamlet
+400|\"O true apothecary! Thy drugs are quick, thus with a kiss I die\"|Romeo
+600|\"Thou must be married to no man but me, for I am he am born to tame you, Kate\"|Petruchio
+800|\"Signior Antonio, many a time and oft in the Rialto you have rated me about my moneys and my usances\"|Shylock
+1000|\"Here's the smell, of the blood still; all the perfumes of Arabia will not sweeten this little hand\"|Lady Macbeth

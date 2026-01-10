@@ -1,0 +1,6 @@
+SOUNDS LIKE FOOTBALL
+200|The moment an airplane lands on the ground|a touchdown
+400|The profit you get back on an investment|return
+600|Hook, line, sinker... all that fishing gear|tackle
+800|A sharp momentary surge in electrical current|spike
+1000|Folded pastry|a turnover

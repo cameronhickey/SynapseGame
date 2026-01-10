@@ -1,0 +1,6 @@
+TO "SUR\"
+200|Buoyant plank for wave riding|a surfboard
+400|An extra fee for a special service|a surcharge
+600|An excess or overabundant supply|a surplus
+800|The Brits call a doctor's office this|a surgery
+1000|Close observation of someone by the police|surveillance

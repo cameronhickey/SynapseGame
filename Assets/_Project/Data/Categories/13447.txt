@@ -1,0 +1,6 @@
+NAME THAT GAME
+200|Board game in which you might land on Short Line or St. James Place|Monopoly
+400|Stack one piece on top of another to crown a king in this board game|checkers
+600|This 2-team rope competition was an Olympic sport from 1900 to 1920|tug of war
+800|\"Colorful" schoolyard chain game in which one team might chant, "Send Alex right over\"|Red Rover
+1000|In this PopCap game, the object is to swap one gem for another in order to form a vertical or horizontal chain|Bejeweled

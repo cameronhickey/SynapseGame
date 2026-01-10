@@ -1,0 +1,6 @@
+WHERE & WHEN
+200|Martin Luther nails his theses to the door: the country|Germany
+400|The Wright Brothers first take off under power: the year|1903
+600|The building of the white tower begins around 1078: the city|London
+800|The Thirty Years' War: the century|the 17th
+1000|The 1847 Battle of Buena Vista: the country|Mexico

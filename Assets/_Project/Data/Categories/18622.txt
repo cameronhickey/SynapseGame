@@ -1,0 +1,6 @@
+GET RELIGION
+200|A star & this shape moon appear on the flags of many Muslim nations|a crescent
+400|In the Book of Matthew, he asked the chief priests, "What will ye give me" for handing over Jesus|Judas Iscariot
+600|Dread-talk is the linguistic style of many followers of this Jamaica-based religion|Rastafarianism
+800|In Judaism Sukkot, or Feast of Tabernacles, begins 5 days after this holy fast day|Yom Kippur
+1000|While meditating, a Hindu will repeat this 2-letter sacred word many times|om

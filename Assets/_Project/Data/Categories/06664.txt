@@ -1,0 +1,6 @@
+PARLEZ-VOUS FRANCAIS?
+200|Lundi is this day of the week|Monday
+400|Lunch is le dejeuner, this is le petit dejeuner|breakfast
+600|A bon mot is a witty remark, or literally a good one of these|word
+800|The pastry is pate feuillete; the nationality is Danois|Danish
+1000|The French say "pomme de terre"; we say this|potato

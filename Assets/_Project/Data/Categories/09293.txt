@@ -1,0 +1,6 @@
+NO SOUP FOR YOU!
+200|Mungo, mulligatawny, menudo|mungo
+400|Billi bi, billet-doux, bouillabaisse|billet-doux
+600|Poudrette, stracciatella, Philadelphia Pepper Pot|poudrette
+800|Chlodnik, cock-a-leekie, kuttar|kuttar
+1000|Bourride, rond de jambe, asopao de pollo|rond de jambe

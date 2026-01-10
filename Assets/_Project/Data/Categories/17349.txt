@@ -1,0 +1,6 @@
+GET "DOWN"!
+200|Torrential rain|a downpour
+400|Direction to the end zone|downfield
+600|To change to a lower gear|downshift
+800|Cracker Barrel promises this type of simple rural cooking|down-home
+1000|An opening in a ship gives us this phrase said before gulping a drink|down the hatch

@@ -1,0 +1,6 @@
+\"OCK" DU LIEBER
+200|Fred Flintstone's hometown|Bedrock
+400|A dialect from the east end of London|Cockney
+600|This bird known for its mimicry is the state bird of 5 southern U.S. states|the mockingbird
+800|An ankle-length garment worn by a priest|cassock
+1000|A mythological serpent that hatches from an egg|cockatrice

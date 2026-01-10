@@ -1,0 +1,6 @@
+FILL IN THE PHRASE
+200|\"Penny wise & ____ foolish\"|pound foolish
+400|\"There is no joy in ____—mighty Casey has struck out\"|Mudville
+600|\"Either fish or cut ____\"|bait
+800|\"There is honor even among ____\"|thieves
+1000|\"There are lies, damned lies & ____\"|statistics

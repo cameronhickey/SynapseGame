@@ -1,0 +1,6 @@
+ASSOCIATIONS
+200|This group of U.S. soldiers who have served in overseas conflicts was founded in 1913|the Veterans of Foreign Wars
+400|The headquarters for this children's sports organization is located in S. Williamsport, Pennsylvania|the Little League (Baseball)
+600|This inventor's association for the deaf is on Volta Place in Washington, D.C.|Alexander Graham Bell
+800|A member of the AAFS, the American Academy of these sciences, may visit a crime scene|Forensics
+1000|Founded in 1874 & still fighting for prohibition, the "Woman's" this is based in Illinois|Woman's Christian Temperance Union

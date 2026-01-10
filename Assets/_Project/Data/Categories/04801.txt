@@ -1,0 +1,6 @@
+STORY PROBLEMS
+200|If Brandy & Monica have 2 songs each in the Top 40, together they command this percentage of the chart|10
+400|If Dave eats 3 Twinkies a day, he'll devour this many in January alone|93
+600|If Abby jogs 2 miles a day around a 1/4-mile track, she does this many laps in a week|56
+800|Hank's mobile home is this long, 1 3/4 times longer than his 8-foot-long car|14 feet
+1000|At 50 cents a dog, it's how many dogs Jill will have to walk to buy that $43,500 Porsche|87,000

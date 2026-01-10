@@ -1,0 +1,6 @@
+MEDICAL WORDS & PHRASES
+200|Little Johnny, let me feel your forehead; yes, a touch of pyrexia, better known as this|a fever
+400|The Latin for "touch" gives us this adjective meaning your condition can be passed on to others|contagious
+600|Lyssa, a goddess of madness, is another word for this disease that makes animals irrationally vicious|rabies
+800|Trismus, or jaw stiffness, is an early sign of this other 7-letter "T" condition|tetanus
+1000|In this kind of immunity, enough people are immune to a disease to prevent its spread to those left vulnerable|herd immunity

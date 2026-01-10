@@ -1,0 +1,6 @@
+DOMAIN EXTENSIONS MATTER
+200|Visit this.gov & you get the current hour & minute; visit this.com & you get the current news|time
+400|this.com shows you the Navigator & Continental; this.org shows you tourist sites in a Midwest state capital|Lincoln
+600|these.gov takes you to Atlantic marine forecasts; these.com takes you to Carolina NHL action|hurricanes
+800|this.gov is an agency that polices Wall Street; this.org takes you to a college sports organization|SEC
+1000|this.com is an outdoor clothing company; this.edu is an Ivy League school|Columbia

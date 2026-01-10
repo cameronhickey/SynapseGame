@@ -1,0 +1,6 @@
+GRAINS & STAPLES
+200|The rolled form of this grain cooks in about 5 minutes; the steel-cut takes much longer|oats
+400|Millet seed, an important food for North Africans, is most often fed to these pets in the U.S.|birds
+600|Quinoa, like other non-cereal grains, is rich in lysine, one of these protein components|Amino Acids
+800|Much of this grain grown in the U.S. is malted for use in breakfast cereal or for alcoholic beverages|Barley
+1000|The name of this grain comes from triticum & secale, the genus names of wheat & rye|Triticale

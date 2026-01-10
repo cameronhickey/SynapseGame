@@ -1,0 +1,6 @@
+FROM "D" TO "O\"
+200|Term for an electric generator at a power plant or a hardworking doer at the office|a dynamo
+400|In the mid-1400s he sculpted the biblical David a bit over 5 feet high in bronze|Donatello
+600|A Brooklyn neighborhood has this acronymic name that fits the category|DUMBO
+800|Room 222 at the Strater Hotel in this Colorado city was where Louis L'Amour wrote many of his Western novels|Durango
+1000|It's the proprietary name for an acoustic guitar with a metal resonator built into its body; it's popular for country music|Dobro

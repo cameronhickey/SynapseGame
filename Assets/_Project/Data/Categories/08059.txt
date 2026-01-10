@@ -1,0 +1,6 @@
+ANTS
+200|Since the queen has but one mating flight, she has no need for these afterwards & chews them off|wings
+400|Antennae serve ants as organs of all senses except this|sight
+600|Also known as plant lice, these insects are captured by some ants for the sweet liquid they produce|aphids
+800|Of the 3 classes of ants in a colony, this one lives the longest, up to 20 years|the queen
+1000|Harvester ants collect these food items & store them in underground chambers|seeds

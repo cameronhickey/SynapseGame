@@ -1,0 +1,6 @@
+2-3 ZONE
+200|Billings & Albuquerque are in this time zone centered on the 105-degree west meridian|Mountain
+400|Recently, the Green Zone, a fortified area with government buildings & the U.S. embassy, has opened up to this Mideast city's people|Baghdad
+600|Losing other habitat, the Asiatic black bear & the monk vulture are surviving in this 155-mile-long strip with few humans|the Korean DMZ (Demilitarized Zone)
+800|In the 1970s, a section of Boston had this name more suited to a place where wars are fought|the Combat Zone
+1000|When what's now this country was South West Africa, its southern 2/3 was a "police zone" set aside for white settlers|Namibia

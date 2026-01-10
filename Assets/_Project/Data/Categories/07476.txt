@@ -1,0 +1,6 @@
+BASES LOADED
+200|Found near San Juan, Fort Buchanan is the only U.S. Army base in this commonwealth|Puerto Rico
+400|The U.S. has leased this important naval base on the island of Cuba since 1903|Guantanamo Bay
+600|One of the joint military bases in this country is found at Kandahar International Airport|Afghanistan
+800|During WWII the Declaration of Independence was moved to this Kentucky military base for safety|Fort Knox
+1000|Naval Forces Marianas is a combination of 2 bases on this island|Guam

@@ -1,0 +1,6 @@
+WEAPON TYPES
+200|Tomahawk, hatchet|an ax
+400|Cutlass, falchion|a sword
+600|Compound, recurve|a bow
+800|Bolt action; AR, also called modern sporting|rifle
+1000|Cudgel, shillelagh|a club

@@ -1,0 +1,6 @@
+COUNTIES OF CALIFORNIA
+200|The A's play in this city, the seat of Alameda County|Oakland
+400|Prominent during the Gold Rush, this county bears the name of a mythical land of gold|El Dorado
+600|Formed as the last California county in 1907, Imperial County borders Mexico & this U.S. state|Arizona
+800|Los Angeles County was one of the original 27 counties making up the new state of California in this year|1850
+1000|The largest county in California and the lower 48, it's named for an Italian saint of the 15th century|San Bernardino

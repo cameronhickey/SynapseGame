@@ -1,0 +1,6 @@
+NEVER
+200|Even if your insurance is the no-this type, never admit it at the scene of an accident|fault
+400|Never write your PIN, which stands for this "number", on the back of your ATM card|personal identification number
+600|If you have this kind of "bite" on your fingers, you can warm the hand under your arm, but never rub it|frostbite
+800|In removing stains, do not mix chlorine bleach with this substance, NH3; the mix can create these fumes|ammonia
+1000|In "plain" language, Benjamin Disraeli used to say, "Never complain and never" do this|explain

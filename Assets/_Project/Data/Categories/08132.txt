@@ -1,0 +1,6 @@
+MUSCLES
+200|Popular "equine" term for some types of muscle tears in the leg|a charlie horse
+400|Stores specializing in the sale of skeletal muscle of herbivorous animals|butcher shops
+600|Type of muscle found only in the heart|cardiac muscle
+800|On market since 1970, this Arthur Jones invention has revolutionized muscle building|the Nautilus machine
+1000|A variant of this acid in buttermilk & beer causes the fatigue & pain of exercise|lactic acid

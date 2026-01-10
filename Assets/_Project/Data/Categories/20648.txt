@@ -1,0 +1,6 @@
+HORMONES
+200|In female mammals prolactin initiates the secretion of this|milk
+400|The 1990s weren't baseball's sex hormone era, but sex hormones are these compounds of 17 carbon atoms|steroids
+600|Glucagon, which raises glucose levels in the blood, works in opposition to this other pancreatic hormone|insulin
+800|Acromegaly, a disorder in which the hands & feet enlarge, is caused by overproduction of this|human growth hormone
+1000|Darkness triggers production of this hormone isolated in 1958, so turn out the lights at bedtime|melatonin

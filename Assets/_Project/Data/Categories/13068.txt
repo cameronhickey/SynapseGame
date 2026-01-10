@@ -1,0 +1,6 @@
+ONE-BUTTON TEXT MESSAGING
+200|You can text the name of this TV network by using only the 2 on your phone; it's spelled on the button|ABC
+400|Friendly greeting spelled out on your cell's 4 button|hi
+600|Use the 3 button for this nickname of the banking system headed by Ben Bernanke|Fed
+800|Day of the week whose abbreviation can be texted using only the letters on the 6 button|Monday
+1000|To text the 2-letter postal code of this U.S. state, get your thumb on the 9|Wyoming

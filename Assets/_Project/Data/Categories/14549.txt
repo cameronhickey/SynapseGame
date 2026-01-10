@@ -1,0 +1,6 @@
+THE LAST EMPEROR
+200|Napoleon III|France
+400|Puyi, aka Xuantong|China
+600|Maximilian|Mexico
+800|Sultan Mehmed VI|the Ottoman Empire
+1000|Constantine XI|the Byzantine Empire

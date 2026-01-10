@@ -1,0 +1,6 @@
+STATE CAPITOLS
+200|This state's capitol in Harrisburg contains more than 600 rooms|Pennsylvania
+400|Designed by Charles Bulfinch, the state house in this city was once sheathed in copper from Paul Revere's foundary|Boston
+600|The Rhode Island state house in this city boasts the world's 4th-largest unsupported dome|Providence
+800|This state's capitol building, dating from 1969, has legislative chambers shaped like volcanic cinder cones|Hawaii
+1000|This state's capitol building has a round kiva-like design that resembles the Zia sun sign|New Mexico

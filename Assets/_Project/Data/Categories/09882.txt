@@ -1,0 +1,6 @@
+DEATH OF A PRESIDENT
+200|He died on Independence Day in 1826 at his beloved Monticello|Thomas Jefferson
+400|He died on Independence Day in 1826 in Quincy, Massachusetts|John Adams
+600|Pneumonia claimed this president's life on April 4, 1841|William Henry Harrison
+800|His March 8, 1930 death occured a month after he resigned as Chief Justice of the Supreme Court due to heart trouble|(William) Taft
+1000|He died in his sleep on February 3, 1924, 6 months after Warren Harding|(Woodrow) Wilson

@@ -1,0 +1,6 @@
+THE STATE'S MOST POPULOUS COUNTY
+200|Cook County|Illinois
+400|Laramie County|Wyoming
+600|Maricopa County|Arizona
+800|Fairfax County|Virginia
+1000|Multnomah County|Oregon

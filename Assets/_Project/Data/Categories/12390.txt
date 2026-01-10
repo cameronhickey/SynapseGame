@@ -1,0 +1,6 @@
+STARTS WITH FEB, TREBEK
+200|Tell your sweetie—this is St. Valentine's feast day|February 14th
+400|This date brings Punxsutawney Phil's big moment|February 2nd
+600|It's the latest date in February on which the first Sunday of the month can fall|the 7th
+800|Computer displays in some 2004 Pontiacs showed the wrong day of the week because engineers forgot about this date|February 29th
+1000|Before a correction to the calendar in 1752, Washington's birthday was February 11; today it's this|February 22nd

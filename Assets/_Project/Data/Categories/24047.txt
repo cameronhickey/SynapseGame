@@ -1,0 +1,6 @@
+YOU'VE BEEN BOOKED
+200|It's an official record of events during the voyage of a ship or aircraft, captain|a log
+400|Originally it was a book for priests on how to administer the sacraments; today it's a book of operating instructions|a manual
+600|A classic work of literary criticism is Ian Watt's "The Rise of" this form: "Studies in Defoe, Richardson & Fielding\"|the novel
+800|Debits go on the left side in this book that contains the financial records of a business|a ledger
+1000|This 4-letter word for an especially weighty scholarly book comes from the Greek for "roll of papyrus\"|a tome

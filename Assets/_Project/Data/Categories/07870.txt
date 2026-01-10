@@ -1,0 +1,6 @@
+MERCURIAL
+200|The Mercury News bills itself as "The Newspaper of" this California tech area|Silicon Valley
+400|In the early '60s this man known as Q became a vice president at Mercury Records|Quincy Jones
+600|The Mercury is the WNBA team in this city in which the mercury has hit 122|Phoenix
+800|This Mercury astronaut didn't make it into orbit when launched May 5, 1961|Alan Shepard
+1000|The most famous broadcast of "The Mercury Theater on the Air" was this tale about Mars, broadcast October 30, 1938|War of the Worlds

@@ -1,0 +1,6 @@
+WHERE IS THAT PLANET?
+200|After Google; before wind & fire|Earth
+400|Before flytrap; after blonde|Venus
+600|After Freddie; before Morris|Mercury
+800|After Veronica; before Blackmon|Mars
+1000|Before missile; after jumpin\'|Jupiter

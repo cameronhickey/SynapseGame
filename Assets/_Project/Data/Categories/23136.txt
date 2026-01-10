@@ -1,0 +1,6 @@
+OLYMPIC SPORTS EQUIPMENT
+200|Goal, swimsuit|water polo
+400|Rocks, brooms|curling
+600|Hoops, ribbons|rhythmic gymnastics
+800|Bindings & a tube with 22-foot-high walls|snowboarding
+1000|Horse, epee|modern pentathlon

@@ -1,0 +1,6 @@
+CHESS PIECES IN DISGUISE
+200|Let's sea... it precedes clam, crab & mackerel|king
+400|An item deposited as security is in this|pawn
+600|Singer Gladys or Hoops coach Bob|a Knight
+800|To swindle someone|rook
+1000|Author of "The Roman Hat Mystery\"|Ellery Queen

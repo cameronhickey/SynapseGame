@@ -1,0 +1,6 @@
+THE M16
+200|Technically, an M16 isn't really a machine gun, but an automatic one of these|a rifle
+400|The primary manufacturer of the M16 is this American company also famous for its revolvers|Colt
+600|Varieties of these for the M16 include rubber, tracer & armor-piercing|ammunition (or bullets)
+800|A standard attachment to the underside of the M16 is the M203, one of these "launchers\"|a grenade launcher
+1000|If you could keep it supplied, an M16 is capable of 950 rpm, which stands for this|rounds per minute

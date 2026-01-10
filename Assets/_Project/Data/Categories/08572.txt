@@ -1,0 +1,6 @@
+CAN I BUY YOU A DRINK?
+200|Ingredient in common to a Tequila Sunrise & a Screwdriver|orange juice
+400|If you don't have one of these small appliances, you can forget about making frozen Daiquiris|blender
+600|2 oz. of white wine & 6 oz. of this & you've got the standard white wine spritzer|club soda
+800|Traditionally, before you dip the rim of your Margarita glass in the salt, rub it with this|lime'lemon juice
+1000|To make this type of Martini, add a splash of olive juice|Dirty Martini

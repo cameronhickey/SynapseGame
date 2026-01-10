@@ -1,0 +1,6 @@
+TALK TO THE HAND
+200|This digit only has 2 phalanges|the thumb
+400|Useful when performing magic, this 3-word skill refers to manual dexterity employed in doing tricks|sleight of hand
+600|This twisting action done out of grief or concern can also mean showing an exaggerated amount of those emotions|wringing your hands
+800|Ambrose Bierce defined this divination practice as "the 947th method... of obtaining money by false pretences\"|palmistry
+1000|The nerves providing sensation to the hand are the median, radial & this one that enters the hand via Guyon's canal|ulnar

@@ -1,0 +1,6 @@
+SOUNDS ALL AROUND
+200|It can be a continuous low humming sound or a male bee|drone
+400|If you listen to your heart using a stethoscope, you'll hear the sound of these flaps opening & closing|valves
+600|In part of the Capitol dome, you can clearly hear distant sounds, making it this kind of "gallery\"|a whispering gallery
+800|The name of this instrument comes from the Italian for "little goose\"|an ocarina
+1000|This rude noise is the last name of Toby, a character in "Twelfth Night\"|Belch

@@ -1,0 +1,6 @@
+PRESIDENTIAL AUTHORS
+200|\"Where's the Rest of Me?\"|Ronald Reagan
+400|\"As We Remember Joe\"|John F. Kennedy
+600|\"Principles of Mining\"|Herbert Hoover
+800|\"At Ease\"|Dwight D. Eisenhower
+1000|\"No More Vietnams\"|Richard Nixon

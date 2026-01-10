@@ -1,0 +1,6 @@
+WHERE FOR ART
+200|When the Musee D'Orsay opened in 1986, some of its oldest works came from this museum established in 1793|The Louvre
+400|This Spanish museum is home to Pedro Pablo Rubens' version of St. George & the Dragon|The Prado
+600|It claims on its website to have "The Largest Collection of Ancient Egyptian Material Outside Cairo\"|The British Museum
+800|Original Aboriginal art has been shown in the National Gallery of Australia in this city|Canberra
+1000|His urban estate at 900 East Ave. in Rochester, N.Y. is a museum of photography & film|George Eastman

@@ -1,0 +1,6 @@
+ROCK, PAPER OR SCISSORS
+200|Rolling Stone has an encyclopedia covering it|rock
+400|Last name of Puff the Magic Dragon's friend Jackie|Paper
+600|It was a weapon in "Dial M for Murder\"|scissors
+800|It's what you're "hanging" when passing bad checks|paper
+1000|The Dungeness is a large species of this type of crab|rock

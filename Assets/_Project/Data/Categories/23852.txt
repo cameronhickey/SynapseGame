@@ -1,0 +1,6 @@
+CLEAR "I"s
+200|It's from the Latin for "not readable", like with bad handwriting|illegible
+400|It's from the Latin for "to drink in", perhaps some beer|imbibe
+600|This 10-letter word describes one who destroys religious images|iconoclast
+800|This Latin abbreviation means "in the same place\"|ibid
+1000|A narrative poem treating an epic theme; Tennyson wrote some "of the King\"|idylls

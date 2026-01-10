@@ -1,0 +1,6 @@
+IN THE FRUIT BASKET
+200|Lima, Cara Cara, Navel|oranges
+400|Ribston Pippin, Golden Delicious, Empire|apples
+600|Rainier, Montmorency, Maraschino|cherries
+800|Adriatic, Calimyrna, Black Mission|figs
+1000|Moon Drop, Muscat, Catawba|grapes

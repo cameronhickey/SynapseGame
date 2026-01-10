@@ -1,0 +1,6 @@
+SPACE EXPLORERS
+200|In 1983 Karol Bobko piloted the first flight of this ill-fated shuttle|Challenger
+400|She was the third woman to fly into space as well as the first American woman|Sally Ride
+600|Pavel Belyayev commanded the 1965 Voskhod 2 mission on which Alexi Leonov became the first to do this|spacewalk
+800|A statue of this first human in space stands in the Moscow square named for him|Gagarin
+1000|This Apollo 11 command module pilot wrote "Flying to the Moon and Other Strange Places" for kids|(Michael) Collins

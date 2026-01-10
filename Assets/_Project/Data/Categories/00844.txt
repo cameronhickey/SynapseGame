@@ -1,0 +1,6 @@
+LEATHER
+200|Fleshed hides are treated with sodium sulfide in a lime & water solution to remove this|hair
+400|Although named for an antelope-like animal, this polishing cloth now comes mostly from sheepskin|chamois
+600|Alum has been used in this process for over 2,000 years|tanning
+800|The skin of the angel species of this large carnivorous fish was used to cover the hilts of samurai swords|shark
+1000|Prince Matchabelli makes perfumes like Wind Song, & this Prince makes leather goods like wallets|Prince Gardner

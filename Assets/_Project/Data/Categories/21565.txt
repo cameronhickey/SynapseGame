@@ -1,0 +1,6 @@
+BIRTHPLACE OF A BRAND
+200|Gatorade|Florida
+400|Goodyear tires|Ohio
+600|Tabasco sauce|Louisiana
+800|Maytag appliances|Iowa
+1000|Pillsbury|Minnesota

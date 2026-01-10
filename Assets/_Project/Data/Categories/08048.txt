@@ -1,0 +1,6 @@
+SHORT ORDER SHORTHAND
+200|\"Draw one in the dark" & pour me one of these breakfast beverages|black coffee
+400|The family in the corner wants 5 servings of "nervous pudding", this dessert|Jell-O
+600|Holy Cow, I'd like "a white cow": a vanilla one of these|milkshake
+800|Get me a "Noah's boy on bread", one of these lunch favorites|a ham sandwich
+1000|I need "a stack of Vermont", pronto: this breakfast favorite|pancakes

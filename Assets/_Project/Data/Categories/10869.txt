@@ -1,0 +1,6 @@
+LET'S PLAY POST OFFICE
+200|The current price of one first-class stamp for a one-ounce letter|39 cents
+400|20500 is the ZIP code of this Washington, D.C. location|the White House
+600|The most popular commemorative U.S. stamp ever featured this man|Elvis Presley
+800|In 2002 the Post Office reported that more than 3,000 letter carriers suffered injury due to these|dog bites
+1000|\"GU" is the official postal abbreviation for this U.S. territory|Guam

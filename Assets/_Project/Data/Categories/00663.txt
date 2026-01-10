@@ -1,0 +1,6 @@
+BEVERAGES
+200|It used to be an ale; now it follows "egg" in a holiday drink|nog
+400|The sloe is a small, bitter one of these fruits used to make sloe gin|plum
+600|Philadelphia pharmicist Charles Hires commercialized this type of soda in the mid-1800s|root beer
+800|The bunny who advertises this chocolate milk mix from Nestle "can't drink it slow\"|Quik
+1000|An Arnold Palmer is a refreshing mix of these 2 drinks|iced tea and lemonade

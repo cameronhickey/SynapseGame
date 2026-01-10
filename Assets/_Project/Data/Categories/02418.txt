@@ -1,0 +1,6 @@
+SURGERY
+200|To make incisions, a surgeon uses this sharp-bladed steel knife|scalpel
+400|Babies in distress at the time of birth may be delivered by this surgical procedure|Caesarean section
+600|Now rarely performed, it was once the most common psychosurgery to treat mental illness|lobotomy
+800|Lasers or heated instruments are used for this procedure to stop a vessel from bleeding|cauterization
+1000|Torn cartilage in a knee may be repaired using a fiber-optic instrument during this type of surgery|arthroscopic

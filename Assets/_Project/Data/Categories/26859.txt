@@ -1,0 +1,6 @@
+LOBSTERS
+200|You'll find these organs on the end of a lobster's stalks|eyes
+400|Heat causes the pigments in the lobster's shell to break down, so after cooking only this color remains|red
+600|Adult female lobsters do it no more than once a year, males about twice as often|shed their skin (shell)
+800|Called tomalley, this greenish organ is considered a delicacy|the liver
+1000|In France the spiny lobster is called this|langouste

@@ -1,0 +1,6 @@
+WHEN DID IT HAPPEN?
+200|JFK won the presidential nomination at the Democratic National Convention in this year|1960
+400|The U.S. declared war against Spain on April 25 of this year|1898
+600|Bastille Day in France commemorates an event on this date in 1789|July 14
+800|The Sons of Liberty threw one heck of a tea party in Boston on Dec. 16 of this year|1773
+1000|King John affixed his seal to the Magna Carta at Runnymede in June of this year|1215

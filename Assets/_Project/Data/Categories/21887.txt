@@ -1,0 +1,6 @@
+GO, GO, GADGET...
+200|LifeStraw is a drinking implement that acts as this, allowing you to drink from dubious water sources|a purifier (or filter)
+400|In the name of Aibo, Sony's robot dog, the "A" & "I" stand for this, but "Aibo" also means "companion" in Japanese|artificial intelligence
+600|The Smarter Fridge Cam takes pictures every time you open your fridge, & even keeps track of these with a "best before" tracker|expiration dates
+800|Ghost hunters would never be caught without an EMF meter, which detects these fields, EMF for short|electromagnetic fields
+1000|Crustaceans have hard outer shells called these; the CLOi SuitBot is billed as one that helps you lift things|exoskeletons

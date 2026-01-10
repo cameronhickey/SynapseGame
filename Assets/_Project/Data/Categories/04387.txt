@@ -1,0 +1,6 @@
+GEOGRAPHIC TERMS
+200|Till is defined as the rock material dragged under one of these as it moves|a glacier
+400|Normally, an atoll is made of this or nothing atoll|Coral
+600|It's a small body of water, or how the British refer to the Atlantic|the pond
+800|It's a bit of land lower than the surrounding area, or a jazzy street in New Orleans|a basin
+1000|This term for a chain of islands came from the Greek name for the Aegean Sea|an archipelago

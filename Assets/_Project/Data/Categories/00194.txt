@@ -1,0 +1,6 @@
+DESSERTS
+200|Properly spelled, it's a whipped dessert, not an elk|mousse
+400|The "cream pie" named for this city is actually a cake|Boston
+600|It's thought Saladin offered this fruity dessert, cousin to ice cream, to Richard I during Crusades|sherbet
+800|A dessert that might be appropriate while repairing shoes|cobbler
+1000|This dessert of stacked cream puffs has the French for "mouth" in its name|croquembouche

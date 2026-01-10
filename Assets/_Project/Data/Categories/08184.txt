@@ -1,0 +1,6 @@
+\"BLACK\"
+200|North American flower resembling the daisy|a black-eyed Susan
+400|Negative vote used especially against admitting one to membership in a club|blackballing
+600|\"You Shook Me All Night Long" was on this classic album of the '80s|Back in Black
+800|It grew out of a small machine shop in Baltimore to become a leading maker of power tools & accessories|Black and Decker
+1000|An essay that promoted kindness to animals inspired Anna Sewell to write this novel|Black Beauty

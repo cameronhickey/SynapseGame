@@ -1,0 +1,6 @@
+BEER COUNTRY OF ORIGIN
+200|Tsingtao|China
+400|Kirin|Japan
+600|\"It's all about the beer" is an advertising slogan for Heineken, the best-known beer from this country|Holland (the Netherlands)
+800|Ah! I see an Asahi from this country in your beer-drinking future|Japan
+1000|Kingfisher is a world-renowned brew from this country of Asia|India

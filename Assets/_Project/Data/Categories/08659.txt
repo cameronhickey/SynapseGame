@@ -1,0 +1,6 @@
+LETHAL WEAPONS
+200|Also called a scattergun, this smooth-bored weapon is designed to shoot at short ranges|a shotgun
+400|This large knife bears the name of a man who died at the Alamo|Bowie knife
+600|These weapons are divided into "dumb" ones, which just use gravity, & "smart" ones, which are guided|bombs
+800|A combination of napthenic & palmitic acids resulting in a flammable substance|napalm
+1000|Taking the first part of its name from the Dutch for thunder, it was a type of old-fashioned musket|blunderbuss

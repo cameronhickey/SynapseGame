@@ -1,0 +1,6 @@
+LITERARY LINES
+200|\"This is a story of how a Baggins had an adventure" is a line from Chapter 1 of this novel|The Hobbit
+400|Completes the concluding line from "Gone with the Wind": "After all...\"|\"tomorrow is another day\"
+600|1954 novel that contains the lines "This is our island. It's a good island. Until the grown-ups come to fetch us we'll have fun\"|Lord of the Flies
+800|\"1984" begins, "It was a bright cold day in April, and the clocks were striking" this odd hour|13
+1000|This 1934 novel begins "Monsieur Van Gogh! It's time to wake up!\"|Lust for Life

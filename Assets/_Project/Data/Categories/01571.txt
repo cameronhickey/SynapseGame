@@ -1,0 +1,6 @@
+\"V"OCABULARY
+200|It's the popular term for the host of a music video show|a veejay
+400|It's the common language of a country or locale|vernacular
+600|\"Discretion is the better part of" it|valor
+800|It can refer to a boat or a bowl|vessel
+1000|It's a synonym for wordy|verbose

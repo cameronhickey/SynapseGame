@@ -1,0 +1,6 @@
+COUNTRY NAME ETYMOLOGY
+200|From an explorer, Mr. Vespucci|America
+400|After seeing stilt houses on Lake Maracaibo, explorers named this country after Venice|Venezuela
+600|This Central American country is named for "The Savior", Jesus Christ|El Salvador
+800|This African country is named from the Portuguese for "lion mountains\"|Sierra Leone
+1000|This new Balkan nation is named for the appearance of Mt. Lovcen or perhaps the dark forests around it|Montenegro

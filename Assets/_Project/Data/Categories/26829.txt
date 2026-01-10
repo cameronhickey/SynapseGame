@@ -1,0 +1,6 @@
+LEGAL DOCUMENTS
+200|Derived from the Latin for "under penalty", this is a legal notice to appear in court as a witness|a subpoena
+400|From the Latin, meaning "to enjoin", it can be issued to stop a person from committing an act|an injunction
+600|This document notifies a person that he must come to court to answer a complaint against him|a summons
+800|An attorney prepares this document of his arguments in a case to give to the judge & opposing party|a brief
+1000|Used chiefly against debtors, this court order allows the seizure of one's property to pay a debt|a lien (garnishment)

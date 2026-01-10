@@ -1,0 +1,6 @@
+BODY PARTS IN LATIN
+200|Cerebrum|the brain
+400|Oculus|the eye
+600|Gingiva|gums
+800|Pes|feet
+1000|Genu (as in genuflect)|knee

@@ -1,0 +1,6 @@
+BIRD TALK
+200|To avoid a punch, like a webbed wonder|duck
+400|To brag about something, like a member of the genus Corvus|crow
+600|To cower or shrink back in fear, like a small brown bird that gathers in coveys|quail
+800|To shoot from a concealed location, like a shore bird|snipe
+1000|To sell your wares on the street, like a diurnal bird of prey|hawk

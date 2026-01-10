@@ -1,0 +1,6 @@
+BOATS
+200|A small boat used to move big boats|tug
+400|The Cutty Sark was built in the 1860s not to carry scotch but this cargo from China to England as fast as possible|tea
+600|Now used as a ferry between N.Y. & Connecticut, the Cape Henlopen hit the beach in this French region in June 1944|Normandy
+800|John Maxtone-Graham put the ship in scholarship in books on these posh boats like "Queen Mary 2: The Greatest" one "of Our Time\"|an ocean liner
+1000|On Inle Lake, about 6 hours from Naypyidaw in this country, fishermen row, row, row their boats with one leg wrapped around an oar|Myanmar

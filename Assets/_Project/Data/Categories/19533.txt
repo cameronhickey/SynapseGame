@@ -1,0 +1,6 @@
+THE LETTER OF THE LAW
+200|M: If it can go wrong, it will|Murphy's law
+400|B: Handgun violence prevention act passed in 1993|Brady (Law)
+600|O: Physics law describing the relation between voltage, current & resistance|Ohm's law
+800|B: Chemistry law saying pressure of a gas at constant temperature varies inversely with volume|Boyle's
+1000|M: 1996 federal law requiring law enforcement to notify communities of sex offenders|Megan's Law

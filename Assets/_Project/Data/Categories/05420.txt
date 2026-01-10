@@ -1,0 +1,6 @@
+FILM BIOS
+200|\"Man on the Moon\"|Andy Kaufman
+400|\"Funny Girl" & "Funny Lady\"|Fanny Brice
+600|\"La Bamba\"|Ritchie Valens
+800|\"Bird\"|Charlie Parker
+1000|\"Gorillas in the Mist\"|Dian Fossey

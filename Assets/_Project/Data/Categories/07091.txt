@@ -1,0 +1,6 @@
+SPORTS NUMBERS
+200|Points for a touchdown plus a 2-point conversion|8
+400|In golf, number of holes played in the Masters Tournament, without a playoff|72
+600|Number of seconds in a full NBA shot clock|24
+800|In Major League Baseball, the minimum number of pitches to reach a "full count\"|5
+1000|If you win the first point of a tennis game, you have this number as your score|15

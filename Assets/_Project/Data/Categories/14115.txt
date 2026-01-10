@@ -1,0 +1,6 @@
+I'M SEEING COLORS
+200|Raven or jet|black
+400|Alabaster or bone|white
+600|Mandarin or pumpkin|orange
+800|Dresden or cobalt|blue
+1000|Slate or mouse|gray

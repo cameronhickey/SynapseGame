@@ -1,0 +1,6 @@
+ANIMAL, VEGETABLE OR MINERAL ANAGRAMS
+200|Vegetable: FAILURE COWL|cauliflower
+400|Animal: BALL WAY|wallaby
+600|Mineral: SPY MUG|gypsum
+800|Vegetable: TACO HIKER|artichoke
+1000|Mineral: CUR MOUND|corundum

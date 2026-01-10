@@ -1,0 +1,6 @@
+\"GATE"KEEPING
+200|To water the land by artificial means|irrigate
+400|To provoke, like a fight|instigate
+600|Orkin will do it to prevent termites from brunching on your home|fumigate
+800|To give various forms of a verb|conjugate
+1000|Per the Judicial Branch of California, "to repeal or cancel an old law using another law\"|to abrogate

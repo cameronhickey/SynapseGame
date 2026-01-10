@@ -1,0 +1,6 @@
+OUTBREAKS
+200|This paralytic disease peaked in the U.S. in the 1950s, closing swimming pools & movie theaters|polio
+400|Isaac Newton was at home for 2 years waiting out this infectious fever|the (bubonic) plague
+600|In 1918 & 1919 20-50 million worldwide perished from this, so named for the country where it was widely reported|the Spanish flu
+800|A 19th century pandemic of this water-borne disease began in the delta region of the Ganges River|cholera
+1000|Variola major is the virus that causes this acute infectious disease|smallpox

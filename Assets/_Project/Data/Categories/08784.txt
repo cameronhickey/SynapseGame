@@ -1,0 +1,6 @@
+ARMOR
+200|A bracket on the chest positioned this 12-foot spear that could be driven through another knight's armor|lance
+400|These gloves were made in a fashionable hourglass shape, narrow at the wrist|gauntlets
+600|Plate armor first covered, then replaced this protective wrap|chain mail
+800|The nasal, a piece on this item, could get you in trouble when the other guy grabbed it|the helmet
+1000|The 16th century Maximilian style is named for a ruler of this empire who was called "The Last of the Knights\"|the Holy Roman Empire

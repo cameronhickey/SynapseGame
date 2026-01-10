@@ -1,0 +1,6 @@
+\"F" IN SCIENCE
+200|The name of this bone is Latin for "thigh\"|femur
+400|This simple sugar is found in honey|fructose
+600|Equal to one cycle per second, the hertz is the international unit of this, as for sound waves|frequency
+800|This technology uses hair-thin transparent filaments to transmit light or infrared signals|fiber optics
+1000|When dissolved in a solution of water & methanol, this gas with a strong odor is used to preserve biological samples|formaldehyde

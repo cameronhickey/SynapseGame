@@ -1,0 +1,6 @@
+GOVT. ABBR.
+200|It promotes technical research & education programs: the NSF|the National Science Foundation
+400|It protects Grandma's money in the bank: the FDIC|the Federal Deposit Insurance Corporation
+600|Providing assistance around the globe: AID|the Agency for International Development
+800|It protects against workplace discrimination: the EEOC|the Equal Employment Opportunity Commission
+1000|Analyzing global business & tariffs: the USITC|the United States International Trade Commission

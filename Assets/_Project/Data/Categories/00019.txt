@@ -1,0 +1,6 @@
+FOREIGN PHRASES
+200|In Germany, said before a toast & after a sneeze|Gesundheit
+400|American equivalent to English "the bonnet on a lorry\"|the hood on a truck
+600|From French, it literally means "a pen name\"|nom de plume
+800|The vidi, in "Veni, vidi, vici\"|I saw
+1000|In Danish, it's "slippe katten ud af saekken", but we shouldn't have told you|let the cat out of the bag

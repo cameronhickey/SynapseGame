@@ -1,0 +1,6 @@
+GET A LYFT WITH UBER
+200|Uber says its drivers aren't employees but independent these, thus not entitled to reimbursements for car expenses|contractors
+400|Both Lyft & Uber are headquartered in this city, just a short rideshare from Silicon Valley|San Francisco
+600|In 2015 Lyft shaved this symbol from its cars' grills & replaced it with a light-up dashboard version|a pink mustache
+800|Uber debuted this kind of car in September 2016, & passengers didn't have to make small talk or argue about the music|self-driving cars
+1000|Airports have been slow to welcome rideshare cars; this busiest one in the U.S. began allowing pickups on Jan. 1, 2017|Atlanta

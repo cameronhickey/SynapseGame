@@ -1,0 +1,6 @@
+2 PICTURES SAY 1 WORD
+200|There's plenty of room here for your groceries|a pantry
+400|This is your John Hancock|your autograph
+600|This is right|starboard
+800|This is your history|your background
+1000|Someone who's very middle-of-the-road|centrist

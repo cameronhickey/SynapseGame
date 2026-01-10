@@ -1,0 +1,6 @@
+BARELY ALIVE
+200|The name of this condition comes from the Greek for "deep sleep\"|a coma
+400|If a patient is non-responsive & these openings in the iris are fixed & dilated, it's bad news|the pupils
+600|Defined as asystole, no cardiac electrical activity on the EKG is also known by this "level" term|a flatline
+800|Cleveland Clinic protocol says when this 3-letter order is given by a patient, there will be no chest compressions|DNR (do not resuscitate)
+1000|Patient has tachycardia! Oh, man, he's in V-fib! Charge to 360! Clear! while I use an external this device|a defibrillator

@@ -1,0 +1,6 @@
+WATER, WATER
+200|The Chukchi & Laptev are among the seas in this ocean|the Arctic
+400|The Pacific's Yap Trench is this kind of trench that shares a name with a deep sea vessel|submarine
+600|As well as a neighborhood of Queens & the subject of an old joke, it's a river there & the bay it flows into|Flushing
+800|The Hollands Diep River flows into the Haring Estuary, which ultimately discharges into this sea|the North Sea
+1000|The Humboldt Current is sometimes called this South American country's current|the Peru Current (the Chilean)

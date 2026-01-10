@@ -1,0 +1,6 @@
+THE END OF THE LINE
+200|\"Frankly, my dear...\"|\"I don't give a damn\"
+400|\"One flew east, one flew west...\"|\"One flew over the cuckoo's nest\"
+600|\"Float like a butterfly...\"|\"Sting like a bee\"
+800|\"I'll get you my pretty...\"|\"And your little dog too!\"
+1000|\"As Maine goes...\"|\"So goes the nation\"

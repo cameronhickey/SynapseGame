@@ -1,0 +1,6 @@
+THAT'S MY RUNNING MATE
+200|1984: Geraldine Ferraro|Walter Mondale
+400|1968: Edmund Muskie|Hubert Humphrey
+600|1964: William Edward Miller|Barry Goldwater
+800|1956: Estes Kefauver|Adlai Stevenson
+1000|1920: Calvin Coolidge|Warren G. Harding

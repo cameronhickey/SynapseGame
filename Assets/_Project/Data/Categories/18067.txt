@@ -1,0 +1,6 @@
+DRAWING THE "LINE\"
+200|In 1913 the Ford Motor Company used a moving one of these to mass produce the Model T|an assembly line
+400|In the pre-Civil War period, the Ohio River & this line were considered the dividing line between free & slave states|the Mason-Dixon line
+600|(Kelly of the Clue Crew shows a map on the monitor.) For much of its length, the 180th meridian of longitude is tracked by this line that varies where it diverges to avoid land|the International Date Line
+800|On a classic Monopoly board, it's between Pennsylvania Ave. & Chance|the Short Line (Railroad)
+1000|This fortification covered the French frontier with Germany but not Belgium, so once it was flanked in WWII, it was useless|the Maginot Line

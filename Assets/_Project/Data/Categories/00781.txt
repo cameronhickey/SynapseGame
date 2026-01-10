@@ -1,0 +1,6 @@
+HEALTH & MEDICINE
+200|Swollen lymph glands are a symptom of this disease that's also known as the three-day measles|German measles
+400|Christmas disease is a type of this inherited disease in which blood does not clot normally|hemophilia
+600|Bjorn & Martina may know that the medical term for this inflammation is epicondylitis|tennis elbow
+800|Glossitis is defined as inflammation of this organ|The tongue
+1000|In a blepharoplasty, excess tissue is removed from the area around these|the eyes

@@ -1,0 +1,6 @@
+POE TALES
+200|Story that ends, "I admit the deed!—tear up the planks! Here, here!—it is the beating of his hideous heart!\"|\"The Tell-Tale Heart\"
+400|It could have been titled "The Stolen Correspondence\"|\"The Purloined Letter\"
+600|In this story C. Auguste Dupin deduces that 2 Paris homicides were committed by an orangutan|\"The Murders in the Rue Morgue\"
+800|Fortunato, a wine connoisseur, is entombed with stone & mortar by Montressor in this tale|\"The Cask of Amontillado\"
+1000|This story is told from the point of view of a prisoner of the Spanish Inquisition in Toledo|\"The Pit and the Pendulum\"

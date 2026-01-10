@@ -1,0 +1,6 @@
+WARNINGS
+200|Follows "Be sure brain is engaged before...\"|putting your mouth in gear
+400|Warning on the handling of IBM cards|\"do not fold, spindle, or mutilate\"
+600|Emergency warning posted outside of elevators|Do not use in the event of fire
+800|4 of 7 warnings the FAA requires a stewardess to announce just before landing|(4 of) extinguish all smoking materials, fasten your seatbelts, put your seat back in an upright position, put up the tray in front of you (return carry-on items to beneath the seat or the overhead compartment, return all loose items to the flight attendant or remain seated until the plane has come to a full stop at the gate)
+1000|Woody Allen play about an American family held prisoner in the Iron Curtain country of Vulgaria|Don't Drink the Water

@@ -1,0 +1,6 @@
+STATES' FORMER CAPITALS
+200|Tuscaloosa|Alabama
+400|Omaha (1854-1867)|Nebraska
+600|Augusta|Georgia
+800|Natchez (1798-1802 & 1817-1821)|Mississippi
+1000|Newport|Rhode Island

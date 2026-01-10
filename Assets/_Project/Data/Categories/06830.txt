@@ -1,0 +1,6 @@
+WHO'S THE MRS.?
+200|Mrs. Brad Pitt|Jennifer Aniston
+400|Mrs. Arnold Schwarzeneggar|Maria Shriver
+600|Mrs. James Carville|(Mary) Matalin
+800|Mrs. Danny DeVito|Rhea Perlman
+1000|Mrs. Blake Edwards|Julie Andrews

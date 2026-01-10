@@ -1,0 +1,6 @@
+PASS THE TURKEY
+200|This capital is Turkey's second-most populous city, with about 3.5 million people|Ankara
+400|The majority of the country belongs to this branch of Islam|Sunni
+600|Banned by Ataturk for political reasons, this hat with a 3-letter name was once the national hat of Turkish men|a fez
+800|Turkey's longest land border is with this Arab neighbor to its south|Syria
+1000|This Turkish peak is said to be where Noah's Ark came to rest|Ararat

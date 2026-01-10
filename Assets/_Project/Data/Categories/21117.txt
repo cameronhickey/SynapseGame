@@ -1,0 +1,6 @@
+THE COMPANY CAR
+200|Truck around in its Tacoma|Toyota
+400|There's only one consonant in this maker of the S7|Audi
+600|Sail on by in this brand's Armada|Nissan
+800|Need some insight on its Insight? OK—the car gets 44 MPG|Honda
+1000|Its Mirage from Japan is no mirage|a Mitsubishi

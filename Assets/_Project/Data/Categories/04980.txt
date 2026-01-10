@@ -1,0 +1,6 @@
+ANIMAL COMMON BONDS
+200|Sumatran short-eared, lop, cottontail|Rabbits
+400|Abyssinian, Burmese, Manx|Cats
+600|Bushmaster, Coral, Hognose|snakes
+800|Bufflehead, Eider, Teal|ducks
+1000|Green tree, Leopard, Bull|frogs

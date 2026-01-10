@@ -1,0 +1,6 @@
+TV SHOW OPENING NARRATIONS
+200|\"On Nov. 13th, Felix Unger was asked to remove himself from his place of residence. That request came from his wife...\"|The Odd Couple
+400|\"Once upon a time there were three little girls who went to the police academy...\"|Charlie's Angels
+600|\"In every generation there is a chosen one. She alone will stand against the vampires...\"|Buffy the Vampire Slayer
+800|\"There is a fifth dimension beyond that which is known to man...\"|The Twilight Zone
+1000|\"Name: Richard Kimble. Profession: Doctor of Medicine. Destination: Death Row...\"|The Fugitive

@@ -1,0 +1,6 @@
+\"LEFT", "RIGHT" OR "CENTER\"
+200|Current name of the branch of the U.S. Public Health Service charged with investigating & mitigating contagions|the Centers for Disease Control
+400|Traffic precedence of one vehicle over another|right of way
+600|Related to the sports world, it's a source for unexpected or strange insight|left field
+800|The point within an object where its entire weight is evenly balanced|the center of gravity
+1000|Paris' Latin Quarter is found there|the Left Bank

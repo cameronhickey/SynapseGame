@@ -1,0 +1,6 @@
+LANGUAGES BY ANY OTHER NAME
+200|Nederlands|Dutch
+400|Siamese|Thai
+600|Lettish|Latvian
+800|Ellinika|Greek
+1000|Judeo-German|Yiddish

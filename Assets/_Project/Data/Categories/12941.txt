@@ -1,0 +1,6 @@
+NAME THAT MAMMAL
+200|Has webbed feet; lays eggs|a platypus
+400|Sega's Sonic is one|a hedgehog
+600|Adult males are called silverbacks|gorillas
+800|1 of the 2 whose names end in "beest\"|a wildebeest (or a hartebeest)
+1000|Marsupial that comes in a Virginia type|opossum

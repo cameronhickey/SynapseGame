@@ -1,0 +1,6 @@
+QUESTIONABLE GRAMMAR IN LYRICS
+200|Parenthetically, "(I Can't Get No) Satisfaction" has this 2-word grammar atrocity|a double negative
+400|\"I still haven't found what I'm looking for" ain't preferred by some, due to this part of speech the title ends with|a preposition
+600|\"Every little thing she does is magic, everything she do just turns me on" has an issue with agreement of these 2 elements|subject & predicate
+800|Bryan Adams: "That'd change if she ever found out about you & I": "I" should be in this grammatical case|the objective case
+1000|\"Damn I wish I was your lover" should be "...were your lover", as this mood is used to express a wish|the subjunctive mood

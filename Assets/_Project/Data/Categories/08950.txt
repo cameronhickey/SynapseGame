@@ -1,0 +1,6 @@
+NAME THAT MOVIE
+200|1991: "Well, Clarice, have the lambs stopped screaming?\"|The Silence of the Lambs
+400|1961: "When you're a Jet, you're a Jet all the way\"|West Side Story
+600|2003: "If you are fighting, stop fighting. If you are marching, stop marching. Come back to me...\"|Cold Mountain
+800|\"Hokey religions & ancient weapons are no match for a good blaster at your side, kid\"|Star Wars
+1000|1944: "You know how to whistle, don't you, Steve? Just put your lips together and blow\"|To Have and Have Not

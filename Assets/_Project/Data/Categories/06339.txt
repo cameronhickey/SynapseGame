@@ -1,0 +1,6 @@
+GET MEDIEVAL
+200|Around the year 1000, the pirate Mogahid roamed this sea from his base in Sardinia|the Mediterranean
+400|In "Paradiso" Dante is queried by St. James about hope; by St. John about charity; & by St. Peter about this|faith
+600|The Byzantine emperor got to appoint the head of his church, the patriarch of this city|Byzantium (or Constantinople)
+800|In 1381, Wat Tyler led the revolt named for these farm laborers|peasants
+1000|\"Guide for the Perplexed" is a major work by this Jewish philosopher born Moses ben Maimon|Maimonides

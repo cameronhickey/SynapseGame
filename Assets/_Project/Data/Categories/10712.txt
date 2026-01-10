@@ -1,0 +1,6 @@
+ON ITS EASTERN BORDER
+200|Haiti|the Dominican Republic
+400|Cambodia|Vietnam
+600|Brunei|Malaysia
+800|Lesotho|South Africa
+1000|Honduras|Nicaragua

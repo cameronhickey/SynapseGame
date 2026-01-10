@@ -1,0 +1,6 @@
+OSCAR
+200|Stephen Gaghan won an Oscar for Best Adapted Screenplay for this 2000 drama about America's war on drugs|Traffic
+400|Maggie Smith actually won an Oscar for playing a film star who is in L.A. for the Oscars in this Neil Simon film|California Suite
+600|Michael Douglas won for producing this 1975 film that swept all 5 major Oscar categories|One Flew Over the Cuckoo's Nest
+800|At the age of 80 she won her first Oscar—for Best Actress in "Driving Miss Daisy\"|Jessica Tandy
+1000|His Oscar win for "Life is Beautiful" made him so elated he walked on chairs|(Roberto) Benigni

@@ -1,0 +1,6 @@
+LITERARY TITLE COLORS
+200|Lucy Maud Montgomery: "Anne of ____ Gables\"|Green
+400|John Steinbeck: "The ____ Pony\"|Red
+600|James Patterson: "____ Market\"|Black
+800|Janet Fitch: "____ Oleander\"|White
+1000|Henry James: "The ____ Bowl\"|Golden

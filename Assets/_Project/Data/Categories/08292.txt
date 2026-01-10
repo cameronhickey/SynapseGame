@@ -1,0 +1,6 @@
+SEASON
+200|In the U.S., Halloween & Thanksgiving Day are celebrated in this season|the fall
+400|These 2 seasons begin with an equinox|spring and fall
+600|In 1936 they were held at Garmisch-Partenkirchen, Germany from February 6 to 16|the Winter Olympics
+800|In a 1958 Eddie Cochran hit, "There ain't no cure for" these|the summertime blues
+1000|This seasonal play by William Shakespeare is set in Sicilia & Bohemia|The Winter's Tale

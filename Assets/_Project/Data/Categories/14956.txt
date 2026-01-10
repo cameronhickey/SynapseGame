@@ -1,0 +1,6 @@
+THE MAIN VEGETABLE
+200|Coleslaw|cabbage
+400|Hominy grits|corn
+600|Moussaka|eggplant
+800|Gratin dauphinois|potatoes
+1000|Chana masala|chickpeas

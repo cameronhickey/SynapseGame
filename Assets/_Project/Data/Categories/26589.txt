@@ -1,0 +1,6 @@
+BUST
+200|John Gibson sculpted a marble bust of this mythological personification of the dawn, also known as Eos|Aurora
+400|Since its discovery in 1912, the bust of this Egyptian queen has become a symbol of beauty|Nefertiti
+600|You can see this man of letters in the Cathedral of Lichfield, his birth; the bust of Boswell sold separately|(Dr.) Johnson
+800|Think stoical thoughts as you meditate on the bust of this Roman emperor|Marcus Aurelius
+1000|Here's Rodin's bust of this premier of France who helped frame the Treaty of Versailles|Clemenceau

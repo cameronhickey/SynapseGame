@@ -1,0 +1,6 @@
+PLAYTIME WITH SHAKESPEARE
+200|\"The M of V\"|The Merchant of Venice
+400|\"M for M\"|Measure for Measure
+600|With action at Agincourt, "H the F\"|Henry V
+800|\"A Y L I\"|As You Like It
+1000|\"T of A\"|Timon of Athens

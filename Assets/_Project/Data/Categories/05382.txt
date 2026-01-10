@@ -1,0 +1,6 @@
+SPORTS LEAGUES
+200|The first 4 Super Bowls matched up the champions of these 2 leagues|AFL & NFL
+400|Founded in 1876, it's baseball's "Senior Circuit\"|National League
+600|The Detroit Loves sound like a Motown soul group, but in the '70s they were part of World Team this|Tennis
+800|In this sport's major league, the Dallas Burn & Chicago Fire vie for the Alan I. Rothenberg Trophy|Soccer
+1000|Before the NBA discovered Mario Elie, he spent 2 seasons with the Albany Patroons of this association|CBA (Continental Basketball Association)

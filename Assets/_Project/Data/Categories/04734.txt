@@ -1,0 +1,6 @@
+UNIVERSITY TOWNS
+200|The University of Florida|Gainesville
+400|The University of Michigan|Ann Arbor
+600|Pepperdine University|Malibu, California
+800|Howard University|Washington, D.C.
+1000|Vanderbilt University|Nashville

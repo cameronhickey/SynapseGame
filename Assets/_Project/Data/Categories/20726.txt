@@ -1,0 +1,6 @@
+BROTHERHOODS
+200|In college if you're an Ape, an Ox or a Pike, you're in one of these brotherhoods|a fraternity
+400|This Catholic organization is named for the explorer, not the capital of Ohio|Knights of Columbus
+600|Known for their red hats, this fraternal organization has established more than 20 hospitals for children|the Shriners
+800|Lodges of the Fraternal Order of these beasts are known as aeries|the Eagles
+1000|The Elks began celebrating this very patriotic June holiday in 1907|Flag Day

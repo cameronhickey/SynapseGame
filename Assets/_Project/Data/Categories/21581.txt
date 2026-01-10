@@ -1,0 +1,6 @@
+DRINKS ALL AROUND!
+200|The drink called Sly goes to Havana requires the light type of this liquor|rum
+400|When I find myself in times of trouble, bloody Mary comes to me, traditionally with this booze, let it be|vodka
+600|In the U.S. it's a 3-letter abbrev. for a Pabst product; in China it's a premium ale that can run you upwards of $40|PBR
+800|To make a dirty martini, add this type of brine or juice|olive
+1000|If you fancy a dry Rob Roy, this is the main potent potable in the glass|scotch

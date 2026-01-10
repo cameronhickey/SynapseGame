@@ -1,0 +1,6 @@
+FOREIGN FILMS
+200|One letter title of Costa-Gravas' '69 film about political assassination in Greece|Z
+400|Italian director whose name appears in the titles: -Casanova -Roma -Satyricon|Fellini
+600|The French woman who became a star in "And God Created Woman\"|Brigitte Bardot
+800|Fernando deserts this country's army after the abdication of Alfonso XIII in 1992's "Belle Epoque\"|Spain
+1000|Poet Pablo Neruda befriends the title character of this recent film set in Italy|\"Il Postino\"

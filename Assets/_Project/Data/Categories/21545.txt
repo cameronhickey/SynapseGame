@@ -1,0 +1,6 @@
+TRIPLE "O" RATED
+200|Branch of biology that brings together bees, buffaloes & barracudas|zoology
+400|A Xerox, or this generic term for one|a photocopier
+600|A sentence spoken without expression or change in pitch is said in this way|monotone
+800|This dark-colored tea's name is from the Chinese for "black dragon\"|oolong
+1000|This gold coin was so named because it was worth twice as much as a pistole|a doubloon

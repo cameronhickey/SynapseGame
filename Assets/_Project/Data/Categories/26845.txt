@@ -1,0 +1,6 @@
+6-LETTER BIRDS
+200|This "clock" bird's scientific name is Cuculus canorus|cuckoo
+400|The flightless New Zealand kakapo is the heaviest type of this bird; the macaw is the largest|parrot
+600|Eagles & hawks can also be used in the sport named for this bird|falcon
+800|In New England it's often called a partridge while southerners call it a pheasant|grouse
+1000|This diving bird of the auk family is distinguished by its colorful, triangular beak|puffin

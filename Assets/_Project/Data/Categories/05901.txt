@@ -1,0 +1,6 @@
+ABBREVIATED S
+200|On a clothing size tag|small
+400|As part of a price in '60s London|a shilling
+600|A "First" or "Second" book of the BIble|Samuel
+800|A chemical element|sulfur
+1000|Former British currency that smacks of a certain Boston pitcher|shilling

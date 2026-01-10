@@ -1,0 +1,6 @@
+TV SHOW CHARACTERS
+200|Alan & Jake Harper, Berta|Two and a Half Men
+400|Leonard Hofstadter, Penny, Sheldon Cooper|The Big Bang Theory
+600|Captain McNeil, Detective Crocker, Detective Stavros|Kojak
+800|Robin Scherbatsky, Lily Aldrin, Ted Mosby|How I Met Your Mother
+1000|Nancy & Shane Botwin, Doug Wilson|Weeds

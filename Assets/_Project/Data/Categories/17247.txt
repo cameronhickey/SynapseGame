@@ -1,0 +1,6 @@
+PARLEZ?
+200|Michel is mort; we will miss Michel much|dead
+400|Angelique gave the victim bouche a bouche|mouth-to-mouth
+600|I'm not spending cinquante euros on that scarf|50
+800|I'm wearing jeans because it's vendredi decontracte, this day|casual Friday
+1000|Join me for petit dejeuner, won't you?|a little breakfast

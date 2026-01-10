@@ -1,0 +1,6 @@
+NOT ON MY WATCH
+200|My watch shows the time, but not in these units abbreviated ms|milliseconds
+400|A lunar phase display, yes; a 2-way wrist radio like the one introduced by this comics detective in 1946, no|Dick Tracy
+600|It's got a glow-in-the dark dial but not one of these radiation detectors named for a German physicist|a Geiger counter
+800|The movement uses a quartz crystal, not one of these transparent gem crystals prized for shimmering colors|an opal
+1000|The housing is stainless steel, not this super-hard element No. 74 long used in light bulb filaments|tungsten

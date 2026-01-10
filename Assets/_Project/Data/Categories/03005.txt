@@ -1,0 +1,6 @@
+SHOWBIZ FAMILIES
+200|Damon, Keenan, Marlon, Shawn|Wayans
+400|Beau, Jeff, Lloyd|Bridges
+600|John, David, Keith, Robert|Carradine
+800|Lionel, Ethel, John, Drew|Barrymore
+1000|Edwin, Junius, John Wilkes|Booth

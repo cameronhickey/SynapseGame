@@ -1,0 +1,6 @@
+SHERLOCK'S ADVENTURES
+200|Dr. Watson, I need you to relate the adventure of "The Resident" one of these, not "The English" one|Patient
+400|(Sofia gives the clue.) An adventure containing a "Golden" pair of this type of glasses is tackled by Holmes|pince-nez
+600|The number of students or gables in Conan Doyle titles; it's 2 less than the number of "Orange Pips\"|3
+800|There was "A Study in Scarlet" & one of these "in Bohemia\"|A Scandal
+1000|You know about "The Adventure of the Sussex" one of these if you're a Sherlock buff-y|a Vampire

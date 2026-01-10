@@ -1,0 +1,6 @@
+THEY'RE IN CHARGE
+200|President Jacques Chirac|France
+400|Prime Minister John Howard|Australia
+600|Asian president Joseph Estrada|Philippines
+800|South American president Andres Pastrana|Colombia
+1000|Eastern European president Leonid Kuchma|Ukraine

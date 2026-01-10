@@ -1,0 +1,6 @@
+AIRLINES' HOME COUNTRIES
+200|All Nippon Airways|Japan
+400|Lufthansa|Germany
+600|El Al|Israel
+800|Iberia Airlines|Spain
+1000|SAS|Sweden

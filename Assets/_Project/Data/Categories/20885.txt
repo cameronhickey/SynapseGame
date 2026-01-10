@@ -1,0 +1,6 @@
+AUTO ABBREV.
+200|It can get you out of a rut: AWD|all-wheel drive
+400|LEV: One of these green machines|a low emission vehicle
+600|Good luck memorizing all 17 characters: VIN|vehicle identification number
+800|You can probably get it for less: MSRP|manufacturer's suggested retail price
+1000|It helps mix your gas with the right amount of another gas: O2S|oxygen sensor

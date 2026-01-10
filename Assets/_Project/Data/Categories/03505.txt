@@ -1,0 +1,6 @@
+PUT 'EM IN ORDER
+200|Spanish-American War, French & Indian War, U.S. Civil War|French & Indian, U.S. Civil, Spanish-American
+400|Telephone, telegraph, telescope|Telescope, telegraph, telephone
+600|Taft, Tyler, Taylor|Tyler, Taylor, Taft
+800|da Vinci, Rembrandt, Van Gogh|da Vinci, Rembrandt, Van Gogh
+1000|Richard the Lion-Hearted, Alfred the Great, Henry VIII|Alfred, Richard, Henry

@@ -1,0 +1,6 @@
+THE "END\"
+200|It means to make a change to something, especially to the Constitution|amend
+400|It's to grasp mentally; understand?|comprehend
+600|This Indiana city is home to the College Football Hall of Fame|South Bend
+800|It's a bonus paid by a company to its stockholders, often on a quarterly basis|dividend
+1000|Take a suspect into custody|apprehend

@@ -1,0 +1,6 @@
+FOREIGN FOODS
+200|A filled tortilla, its name is from Spanish for a young donkey|Burrito
+400|In Jewish cookery it's a baked pastry, usually with a meat or potato filling|Knish
+600|Calling vegetables "julienne" does not mean they're prepared by Julieann, but cut this way|cut thin (thin strips)
+800|Mulligatawny soup, meaning "pepper water", is found on menus featuring this country's cuisine|India
+1000|Legend says the name of this Scottish smoked haddock came from fishing village of Findhorn|finnan haddie

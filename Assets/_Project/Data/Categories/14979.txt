@@ -1,0 +1,6 @@
+ROLL WITH IT
+200|Whether a Corona, a Lonsdale or a Panatela, this rolled item is named for its shape & size|a cigar
+400|This sport uses a ball that has a circumference of 27 inches & a weight limit of 16 pounds|bowling
+600|This Mexican dish comes from the Spanish for "little donkey\"|a burrito
+800|Invented in the 1970s, this sushi roll named for its place of origin consists of crab, avocado & cucumber|a California Roll
+1000|Spinning, grinding, prayer & paddle are different types of this object|a wheel

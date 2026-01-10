@@ -1,0 +1,6 @@
+IN THERE
+200|In the song "Take Me Out To The Ballgame": beer, hot dogs, peanuts|peanuts
+400|The Smithsonian: Archie Bunker's chair, the Declaration of Independence, the Liberty bell|Archie Bunker's chair
+600|The solar system: Arcturus, Canopus, Deimos|Deimos
+800|The Caribbean: Bahrain, Barbados, Bermuda|Barbados
+1000|\"War and Peace": Kutuzov, Raskolnikov, Vronsky|Kutuzov

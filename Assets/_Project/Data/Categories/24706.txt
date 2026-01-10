@@ -1,0 +1,6 @@
+WHERE IS IT, DOC?
+200|An alias of functional dyspepsia is non-ulcer this organ pain|the stomach
+400|It's a torn acromioclavicular joint, also called separated this|shoulder
+600|Chronic heartburn? Might be Barrett's this tube|esophagus
+800|Subungual hematoma, I'm afraid—blood collecting under this|a nail
+1000|It's glioblastoma, a tumor here|the brain

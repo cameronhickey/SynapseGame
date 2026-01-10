@@ -1,0 +1,6 @@
+WELCOME TO
+200|Welcome to this Oregon city, population 600,000|Portland
+400|Come tour this building where Dickens & Dryden are buried|Westminster Abbey
+600|You've reached doi.gov, the website of this cabinet department|the Department of the Interior
+800|Welcome to this Chicago landmark|the Sears Tower
+1000|Welkom op Bonaire, an island in this sea|the Caribbean

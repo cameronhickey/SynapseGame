@@ -1,0 +1,6 @@
+MOVIE TITLE FILL-IN
+200|\"How to Eat Fried ____\"|Worms
+400|\"The Chronicles of Narnia: The Voyage of the ____ ____\"|Dawn Treader
+600|\"Legend of the Guardians: The ____ of Ga'Hoole\"|Owls
+800|\"Cats & Dogs: The Revenge of ____ ____\"|Kitty Galore
+1000|\"John Tucker Must ____\"|Die

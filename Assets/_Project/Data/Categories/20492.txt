@@ -1,0 +1,6 @@
+SHAKESPEARE PLAY BY GRADUALLY EASIER CHARACTER
+200|Bianca, Roderigo, Desdemona|Othello
+400|Baptista Minola, Gremio, Lucentio, Hortensio, Petruchio|The Taming of the Shrew
+600|Doctor, Duke of Cornwall, Goneril|King Lear
+800|Snug, Helena, Oberon|A Midsummer Night's Dream
+1000|Flavius, Cicero, Calpurnia|Julius Caesar

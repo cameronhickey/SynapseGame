@@ -1,0 +1,6 @@
+\"WARE"-ING
+200|Tools, machinery & other implements for home & work bought at the store of the same name|hardware
+400|When Alcatraz was a prison, these items with a metallic name were counted by officers after each meal|silverware
+600|Malicious computer programs that are secretly installed on a computer to steal the user's private information|spyware
+800|Caveat Emptor is usually translated as this 4-word English phrase|let the buyer beware
+1000|Before it reaches Trenton, it skirts the Kittatinny Mountains & flows past Nockamixon Rocks|the Delaware

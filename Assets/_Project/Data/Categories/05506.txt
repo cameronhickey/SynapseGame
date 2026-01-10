@@ -1,0 +1,6 @@
+INT. ORG.
+200|The OAS|Organization of American States
+400|The IOC|International Olympic Committee
+600|The IMF|International Monetary Fund
+800|SEATO|South East Asia Treaty Organization
+1000|The OAU|Organization of African Unity

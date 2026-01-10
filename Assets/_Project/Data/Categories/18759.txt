@@ -1,0 +1,6 @@
+WELCOME TO BOOZETOWN!
+200|Anheuser-Busch is headquartered at One Busch Place in this city|St. Louis
+400|The Town of Bushmills in County Antrim is renowned for this stuff distilled there|Irish whiskey
+600|Henry Weinhard built a brewery there in 1862, long before it was Microbrewlandia|Portland (Oregon)
+800|This "White Label" brand was founded in Perth (Scotland, not Australia) in 1846|Dewar's
+1000|This city's "Big 6" breweries are Augustiner, Hofbrau, Hacker-Pschorr, Lowenbrau, Paulaner & Spaten|Munich

@@ -1,0 +1,6 @@
+CLOTHING MATERIAL
+200|Polyvinyl Chloride, a leather substitute, is known by these initials|PVC
+400|On "Late Night" David Letterman put on a suit of this material & stuck himself to a wall of it|Velcro
+600|This material, the dried stems of grain, is often used to make hats & buttons|Straw
+800|A plain knitted fabric, or a pullover shirt that may or may not be made from it|Jersey
+1000|13th century weavers in Norfolk "bested" rivals by making this fabric of combed & carded wool|Worsted Wool

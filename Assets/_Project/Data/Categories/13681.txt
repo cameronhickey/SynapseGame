@@ -1,0 +1,6 @@
+THE 7 DWARFS
+200|The dwarfs' self-appointed leader, he wears glasses|Doc
+400|This youngest of the 7 dwarfs is completely bald & speechless|Dopey
+600|Whenever Snow White's around, he blushes & bats his long eyelashes|Bashful
+800|Maybe this dwarf pictured with heavy eyelids needs a cup of coffee|Sleepy
+1000|The most rotund of the 7 dwarfs, he's just too darn cheerful|Happy

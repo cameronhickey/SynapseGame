@@ -1,0 +1,6 @@
+\"AD"JECTIVES
+200|It refers to the behavior of teenagers, or of immature adults|Adolescent
+400|Fatty, like some "tissue\"|adipose
+600|It means "sufficient or good enough" & can imply "but just barely\"|adequate
+800|Unfavorable, like some circumstances, or the last name of Anthony in a 1933 novel|adverse
+1000|Latin term for a type of argument based on emotion or on another person's character|ad hominem

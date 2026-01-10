@@ -1,0 +1,6 @@
+LINE 'EM UP
+200|From largest in area to smallest: Australia, United States, Russia|Russia, United States, Australia
+400|From farthest away to closest to the Earth: Uranus, Mars, Pluto|Pluto, Uranus, Mars
+600|From earliest movie to most recent: "The Birds", "Birdman of Alcatraz", "The Birdcage\"|Birdman of Alcatraz, The Birds, The Birdcage
+800|From longest river to shortest: The Volga, The Nile, The Po|Nile, Volga, Po
+1000|From north to south: Warsaw, Pretoria, Helsinki|Helsinki, Warsaw, Pretoria

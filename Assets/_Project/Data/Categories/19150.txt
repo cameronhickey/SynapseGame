@@ -1,0 +1,6 @@
+LITERAL LITERARY TITLES
+200|\"Large Anticipations" by Charles Dickens|Great Expectations
+400|\"Deeply Cared For" by Toni Morrison|Beloved
+600|\"One Dried Grape Catching Rays" by Lorraine Hansberry|A Raisin in the Sun
+800|\"Paper-Burning Temperature" by Ray Bradbury|Fahrenheit 451
+1000|\"Hill of Sand" by Frank Herbert|Dune

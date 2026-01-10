@@ -1,0 +1,6 @@
+U.S. GOVT. ABBREV.
+200|Tune in to this, the VOA|Voice of America
+400|The DCI (Director of Central Intelligence) is a member of this group, the NSC|National Security Council
+600|It's the "beastly" government entity known as the FWS|Fish and Wildlife Service
+800|Map out your response about this government unit, the USGS|United States Geological Survey
+1000|Take a look at this selfless group, VISTA|Volunteers in Service to America

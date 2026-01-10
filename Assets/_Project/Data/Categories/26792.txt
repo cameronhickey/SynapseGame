@@ -1,0 +1,6 @@
+INTERNATIONAL COOKING
+200|You need this flatbread to make tacos, burritos or enchiladas|tortillas
+400|Mulligatawny, a cream soup made with chicken or lamb, originated in this Asian country|India
+600|They're the "fagioli" in pasta e fagioli, or pasta fazool, as it's better known|beans
+800|Wiener schnitzel isn't made with hot dogs but with this meat|veal
+1000|Spanish dish of chicken, seafood & rice, cooked in a special wide-bottom pan|paella

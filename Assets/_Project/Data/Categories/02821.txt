@@ -1,0 +1,6 @@
+CRITTERS
+200|Like kangaroo, the young of the koala are referred to by this term|Joeys
+400|A member of this family, although without a long neck, the okapi was discovered in the Congo rain forest|Giraffe
+600|These American salamanders got their name from the mistaken belief that they can bark like dogs|mudpuppies
+800|In Central America the basilisk is sometimes called the Jesus Christ lizard because it can do this|walk on water
+1000|Tamarins belong to this family of small New World monkeys|Marmosets

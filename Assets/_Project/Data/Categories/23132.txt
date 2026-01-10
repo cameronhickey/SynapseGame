@@ -1,0 +1,6 @@
+TOURNAMENTS
+200|The ACPT is the American tournament for these cruciverbalist challenges|crossword puzzles
+400|This org.'s first "King of the Ring" tournament saw the Magnificent Muraco defeat the Iron Sheik in the final|WWE
+600|In 1985 the NCAA men's "March Madness" basketball tournament expanded to this many teams|64
+800|Just like soccer, in July 2019 this video game had a World Cup, in NYC's Arthur Ashe Stadium with a $3 million grand prize|Fortnite
+1000|In 1851 the first international tournament of this game was held in London, with Adolf Anderssen crowned champion|chess

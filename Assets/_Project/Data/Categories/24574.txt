@@ -1,0 +1,6 @@
+BEGINS & ENDS WITH "L\"
+200|It's the first name of singer Richie & soccer great Messi, though they pronounce it differently|Lionel
+400|This brand of disinfecting wipes claims it "kills 99.9% of viruses & bacteria", including the COVID-19 virus|Lysol
+600|It can mean pertaining to the tongue, or to languages|lingual
+800|It's the part of a suit jacket on which someone wears a boutonniere|lapel
+1000|Synonyms for it include bountiful & generous, & progressive & open-minded|liberal

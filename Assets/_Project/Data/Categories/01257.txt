@@ -1,0 +1,6 @@
+WORLD FLAGS
+200|In 1992 the Yugoslavian flag dropped the gold-trimmed red star that symbolized this political system|communism
+400|After "Baby Doc" Duvalier was ousted, this country restored its blue & red flag|Haiti
+600|On Ireland's tricolor, the orange is symbolic of this religious group|the Protestants
+800|An armillary sphere on this country's flag represents Prince Henry the Navigator|Portugal
+1000|The flag of this African country bears an "R" in its center|Rwanda

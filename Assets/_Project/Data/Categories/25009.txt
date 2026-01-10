@@ -1,0 +1,6 @@
+MEDIUM & MESSAGE
+200|Name of the telegraphic instrument that reported stock market quotations on a paper tape|ticker tape
+400|The "fax" in a telephone fax machine is short for this word|facsimile
+600|Meaning circular, it's a circular sent out by the Pope|encyclical
+800|Mediums still hope for a specially coded message from this man who died October 31, 1926|Harry Houdini
+1000|The Garcia to whom the message was sent, Calixto Garcia Iniquez, was a revolutionary in this country|Cuba

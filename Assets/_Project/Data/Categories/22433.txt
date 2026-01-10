@@ -1,0 +1,6 @@
+UNIQUE COLLEGE COURSES
+200|Sweet! Alfred University in New York offered a course on this pancake topper|maple syrup
+400|I scream, you scream, we all scream for the ice cream short course at this school, home of the Nittany Lions|Penn State
+600|You can take a course on artificial intelligence at this school along the Charles River; go Engineers!|MIT
+800|History courses at Kent State include ones on espionage, the holocaust & this Italian city, the birthplace of the renaissance|Florence
+1000|One of the topics covered in a Major League Baseball course at Arizona State is this player who broke the color barrier in 1947|Jackie Robinson

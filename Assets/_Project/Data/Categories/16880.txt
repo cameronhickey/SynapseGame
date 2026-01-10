@@ -1,0 +1,6 @@
+HEALTHY CHOICE
+200|In an equal serving of roasted duck, turkey or goose, the one with the fewest calories|turkey
+400|Of a pear, banana or nectarine, the one with the most potassium|a banana
+600|In a cup of ice cream, a cup of raw spinach or a cup of dried figs, the one with the most calcium|dried figs
+800|In a 1-cup serving of regular oatmeal, lima beans or raspberries, the one with the most fiber|lima beans
+1000|Of feta cheese, blue cheese or cheddar cheese, the one with the least fat|feta

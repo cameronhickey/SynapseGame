@@ -1,0 +1,6 @@
+RUSSIAN LITERATURE
+200|The last words spoken in this novel are "Hurrah for Karamazov!\"|The Brothers Karamazov
+400|In this last Chekov play, the character Trofimov says, "All Russia is our orchard\"|The Cherry Orchard
+600|This 1957 Pasternak novel was finally published in the USSR in 1987|Doctor Zhivago
+800|His 1863 novel "The Cossacks" grew out of his service in the Russian Army in the Caucasus|Tolstoy
+1000|He was expelled from the Soviet Writer's Union in 1969; in 1970 he won the Nobel Prize for Literature|Solzhenitsyn

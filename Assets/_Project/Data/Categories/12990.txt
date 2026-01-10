@@ -1,0 +1,6 @@
+BEST ACTRESS OSCAR BY FILM
+200|\"Moonstruck\"|Cher
+400|\"Klute\"|Jane Fonda
+600|\"Shakespeare in Love\"|Gwyneth Paltrow
+800|\"Dead Man Walking\"|Susan Sarandon
+1000|\"Walk the Line\"|(Reese) Witherspoon

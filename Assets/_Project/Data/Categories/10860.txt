@@ -1,0 +1,6 @@
+WHAT PLANET ARE YOU FROM?
+200|It has seasonal weather patterns & iron-rich minerals in the soil, giving it a distinct red color|Mars
+400|Greater in mass than all the other planets combined, it's surrounded by dozens of moons|Jupiter
+600|Its mean distance from the Sun is only about 36 million miles|Mercury
+800|It's the smallest & densest of the outer gas giants & has an appropriate name, as it has a watery interior|Neptune
+1000|Bands of debris & ice surround it, as do its satellites, including Titan|Saturn

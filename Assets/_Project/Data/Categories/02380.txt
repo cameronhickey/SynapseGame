@@ -1,0 +1,6 @@
+BARONS
+200|This "Red Baron" commanded Fighter Group I with its fancifully decorated scarlet planes|Manfred von Richthofen
+400|This actor was knighted in 1947 & was created a baron in 1970|(Laurence) Olivier
+600|This founder of the Boy Scouts also organized the South African Constabulary|Baden-Powell
+800|Rudolf Erich Raspe wrote an account of this German soldier's marvelous travels & campaigns|Baron von Munchausen
+1000|This Prussian-American general participated in the 1780 trial of Major John Andre|Baron von Steuben

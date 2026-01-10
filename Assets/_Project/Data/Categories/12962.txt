@@ -1,0 +1,6 @@
+ALPHABETICALLY LAST LETTER
+200|...in the title of the TV show you're on right now|Y
+400|...in the last name of the current U.S. president|O
+600|...in the name of your home planet|T
+800|...in the name of the third month of the year|R
+1000|...in the name of that opposable digit used for hitchhiking|U

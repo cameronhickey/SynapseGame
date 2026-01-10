@@ -1,0 +1,6 @@
+\"SUB" GROUPING
+200|U-boot is a German word for this|a submarine
+400|This -ia can be a disparaging term for an area away from the city center, populated by bourgeois lawn mower riders|suburbia
+600|A company that is completely controlled by another company|a subsidiary
+800|12-letter word meaning beneath the epidermis|subcutaneous
+1000|A large self-contained landmass, like India|a subcontinent

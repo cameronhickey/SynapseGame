@@ -1,0 +1,6 @@
+ELEMENT SYMBOL SPELLING
+200|Nobelium, selenium|Nose (No Se)
+400|Radium, iodine, nitrogen|Rain (Ra I N)
+600|Scandium, Americium|Scam (Sc Am)
+800|Nickel, carbon, potassium|Nick (Ni C K)
+1000|Sodium, sulfur, aluminum|Nasal (Na S Al)

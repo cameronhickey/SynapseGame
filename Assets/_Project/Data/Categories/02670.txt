@@ -1,0 +1,6 @@
+DISEASES
+200|Most cases of this mosquito-transmitted disease can be cured by chloroquine & primaquine|Malaria
+400|Bulbar paralysis, the most serious form of this disease, results from nerve damage to the brain stem|Poliomyelitis
+600|To prevent Reye's syndrome, children with viral infections should not take this common medication|aspirin
+800|Young children are usually given a DPT shot to immunize them against pertussis, tetanus & this disease|diphtheria
+1000|Rubeola is the 10-day measles; this is 3-day measles|rubella

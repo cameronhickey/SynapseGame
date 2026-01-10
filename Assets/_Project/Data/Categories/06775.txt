@@ -1,0 +1,6 @@
+GEOGRAPH"E\"
+200|Sicilians call this active volcano Mongibello|Etna
+400|The ruins of Babylon lie on the banks of this river, the longest in southwest Asia|the Euphrates
+600|This city was probably named for Edwin of Northumbria, who built a fort on the Firth of Forth in the 600s|Edinburgh
+800|Large oceangoing vessels can travel from the North Sea inland as far as Hamburg on this river|the Elbe
+1000|In 1979 an airliner crashed on this Antarctic peak, killing all 257 aboard|Erebus

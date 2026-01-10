@@ -1,0 +1,6 @@
+ISOTOPES
+200|Unstable thorium-230 breaks down into the 226 isotope of this Curie-ous element|radium
+400|In 1960 the wavelength of light from krypton-86 was used to define this measurement, also 39.37\"|meter
+600|Isotopes are 2 forms of an element with the same number of protons but different numbers of these particles|neutrons
+800|As in planetary sequence, neptunium-239 emits a beta particle & becomes isotope 239 of this element|plutonium
+1000|The hydrogen isotope called this was discovered in 1932, 2 years before tritium|deuterium

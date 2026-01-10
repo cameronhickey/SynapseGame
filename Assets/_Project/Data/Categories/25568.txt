@@ -1,0 +1,6 @@
+GORGES COUNTRIES
+200|The Avon & Cheddar Gorges|England
+400|Part of a trio, the Wu & Qutang|China
+600|Todra Gorge in the High Atlas|Morocco
+800|Aare Gorge|Switzerland
+1000|Olduvai Gorge|Tanzania

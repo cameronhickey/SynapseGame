@@ -1,0 +1,6 @@
+STATE NAMES
+200|Home to no Fortune 500 companies, its name is Aleut for "mainland\"|Alaska
+400|In this state whose name means "Gem of the Mountain", Boiseans will be Boiseans|Idaho
+600|Person for whom the Evergreen State was named|George Washington
+800|The name of this state & its "Big Muddy" river, may mean "owners of big canoes\"|Missouri
+1000|This state's name was first used for what's now called the Columbia River|Oregon

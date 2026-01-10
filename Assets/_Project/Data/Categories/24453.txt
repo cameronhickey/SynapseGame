@@ -1,0 +1,6 @@
+MAJOR LEAGUE BASEBALL TEAMS
+200|This National League team shares its name with a mountain range|the Rockies
+400|The roster of this MLB team includes Mookie Betts & Freddie Freeman|the Dodgers
+600|In 2022 this team gave 73-year-old Dusty Baker his 1st championship as a manager; he's the oldest skipper to win a World Series|the Astros
+800|The Swinging Friar is the official mascot of this team|the Padres
+1000|Jim Palmer pitched his No. 22 into immortality with this team|the Orioles

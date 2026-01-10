@@ -1,0 +1,6 @@
+\"FI\"
+200|The basic pitch of this small flute is usually A-flat|Fife
+400|This car company was established in Turin in 1899|Fiat
+600|It's the last "Jeopardy!" in the game|Final Jeopardy
+800|This adjective denotes a certain known number of possibilities|Finite
+1000|In computer security, this device blocks unauthorized access to a LAN, a local area network|Firewall

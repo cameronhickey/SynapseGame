@@ -1,0 +1,6 @@
+ON THE "HOUSE\"
+200|It's a poker hand consisting of three of a kind & a pair|a full house
+400|Jane Addams carried on much of her work in this dwelling, now a museum run by the Univ. of Ill. at Chicago|Hull House
+600|Ruth Wakefield once said of her recipe for these, "I'll never live them down\"|Toll House cookies
+800|Torvald to Nora in this play: "Can you not understand your place in your own home?\"|A Doll's House
+1000|Across the street from Ford's Theatre is this residence where Abraham Lincoln died|the Petersen Boarding House

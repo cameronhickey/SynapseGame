@@ -1,0 +1,6 @@
+U.S. FRANCHISES
+200|The Filet-O-Fish is one of its offerings|McDonald's
+400|Regis Corporation franchises this "Super" salon chain that gives 33 million clips a year|Supercuts
+600|The sandwich generation loves this chain, now tops in number of U.S. restaurants|Subway
+800|Out west you'll find this convenience store at Arco stations, morning or night|AM-PM
+1000|Hilton doesn't own Holiday Inn but does own this other "H" "Inn\"|Hampton Inn

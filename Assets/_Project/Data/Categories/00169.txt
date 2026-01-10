@@ -1,0 +1,6 @@
+BALLET
+200|Tchaikovsky's fowl aquatic ballet|\"Swan Lake\"
+400|The arrangement of dance movements|choreography
+600|French for "spinning top", it's full turn executed on one foot|a pirouette
+800|Legendary Russian dancer of early 1900s, his career was cut short when his mind took a flying leap|Nijinsky
+1000|In a famous Stravinsky ballet, this title character is in love with a ballerina puppet|Petrushka

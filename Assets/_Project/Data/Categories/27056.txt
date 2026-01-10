@@ -1,0 +1,6 @@
+GRASSES
+200|The stems of this giant woody grass may be 1 foot in diameter|bamboo
+400|Lexington is the center of this region of Kentucky|the Bluegrass region
+600|About 25% of the U.S. oat crop winds up at the grocery; most of the rest is used as this|fodder
+800|They're the grasslands associated with Gauchos|the Pampas
+1000|Most Italian-type pasta is made from the semolina of this type of wheat|durum

@@ -1,0 +1,6 @@
+RAILROADS
+200|Office for conductor & living quarters for crew, it is often red|a caboose
+400|Where Glenn Miller was headed on this choo choo: Instrumental music plays|Chattanooga
+600|Most commonly, it's 4' 8 1/2\"|standard gauge of track
+800|Compressed air in a rock drill inspired George Westinghouse to invent this in 1869|the air brake
+1000|It met the Union Pacific at Promontory, Utah, in 1869|the Central Pacific

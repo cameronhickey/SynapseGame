@@ -1,0 +1,6 @@
+FLORIDA CITIES
+200|This city, central Florida's largest, is one of the world's top tourist destinations|Orlando
+400|John Ringling exerted major influence on the development of this city where he made his home in the 1920s|Sarasota
+600|Just like its Italian namesake, it has canals criss-crossing the city|Venice
+800|Established as a military post in 1838, it's now the home of the International Swimming Hall of Fame|Fort Lauderdale
+1000|You won't find Capt. Tony Nelson in this "chocolaty" city, but you will find a missile exhibit at nearby Patrick AFB|Cocoa Beach

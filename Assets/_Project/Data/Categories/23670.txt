@@ -1,0 +1,6 @@
+LITERARY DECADES
+200|\"A Farewell to Arms\"|1920s
+400|\"Twilight\"|the 2000s
+600|\"Silent Spring\"|the 1960s
+800|\"Looking for Mr. Goodbar\"|the 1970s
+1000|\"The Man in the Gray Flannel Suit\"|the 1950s

@@ -1,0 +1,6 @@
+COMPUTERS
+200|Name for the cabinet rack, tubes, transistors, wires, motors, etc., but not the programs|hardware
+400|It comes between your telephone line & your terminal|a modem
+600|Computer language which came from the words "formula translator\"|FORTRAN
+800|It's considered fragmented when the spaces it allocates to a file are not contiguous, but scattered|a hard disk
+1000|The main or baseboard of most computers, it has expansion slots to extend the computer's capabilities|the motherboard

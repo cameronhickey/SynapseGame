@@ -1,0 +1,6 @@
+MONOPOLY TOKENS
+200|This piece is a Scottie|a dog
+400|As Roy Scheider said in "Jaws", "You're gonna need a bigger" one|a boat
+600|Domicile for the nursery rhyme old woman with a family of unmanageable size|the shoe
+800|This load-carrying item is lifted & pushed by 2 horizontal shafts|a wheelbarrow
+1000|This speedy item is also a palindrome|a racecar

@@ -1,0 +1,6 @@
+NAME THE DISNEY MOVIE
+200|\"That's no blizzard. That's my sister\"|Frozen
+400|\"We are all connected in the great circle of life\"|The Lion King
+600|\"A lie keeps growing and growing until it's as plain as the nose on your face\"|Pinocchio
+800|\"I shall call him Squishy & he shall be mine. & he shall be my Squishy. Come here, Squishy\"|Finding Nemo
+1000|\"Ohana means family. Family means nobody gets left behind\"|Lilo & Stitch

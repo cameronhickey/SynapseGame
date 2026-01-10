@@ -1,0 +1,6 @@
+FROM A TO B
+200|Assimilate, like a sponge|absorb
+400|One of the grammatical parts of speech, this can modify another one of its type|an adverb
+600|Only 3 letters long, it's a long white robe worn by priests|an alb
+800|Something done with poise & assurance is done with this|aplomb
+1000|Sweetie, darling, it's the nickname of that British series featuring Edina & Patsy|Ab Fab

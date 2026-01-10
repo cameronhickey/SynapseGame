@@ -1,0 +1,6 @@
+RHETORIC
+200|This civilization's earliest rhetoric teachers were known as Sophists|Greek
+400|5-letter word for when the intended meaning is different from the literal meaning|irony
+600|Color used to describe the ornate prose associated with rhetoric at the turn of the century|purple prose
+800|\"To be or not to be" is not a thesis but an example of this, also meaning "the opposite\"|antithesis
+1000|An interrogatio; do we have to ask?|rhetorical question

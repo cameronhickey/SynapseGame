@@ -1,0 +1,6 @@
+WORDS OF SCIENCE
+200|It's a substance capable of reacting with an acid to form salts|a base
+400|From the Latin for "full of commotion", it's a violent flow of air like that which a plane might encounter|turbulence
+600|In physics, it's a substance that technically can be gas or liquid & that conforms to the shape of the vessel holding it|a fluid
+800|This "middle" layer of our atmosphere is where meteors first encounter major air & burn up from the friction|the mesosphere
+1000|This type of heat is absorbed or released when a substance changes from one state to another w/o a rise in temp.|latent heat

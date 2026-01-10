@@ -1,0 +1,6 @@
+POSSESSIVE LIT
+200|It was the biggest-selling American novel of the 1850s|\"Uncle Tom's Cabin\"
+400|This 4-part satirical novel was published in 1726 as "Travels Into Several Remote Nations of the World\"|\"Gulliver's Travels\"
+600|Roman Polanski brought this Ira Levin novel to the big screen in 1968|\"Rosemary's Baby\"
+800|In the 1930s early excerpts of this experimental James Joyce work were published as "Work in Progress\"|\"Finnegan's Wake\"
+1000|Thomas Hughes published this chronicle of life at an English boys' school in 1857|\"Tom Brown's Schooldays\"

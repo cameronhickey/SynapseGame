@@ -1,0 +1,6 @@
+NUMERIC LIT
+200|This kid lit classic has a chapter called "The Puppies Arrive\"|One Hundred and One Dalmatians
+400|E.L. James self-published this first book in an erotic series that started as fan fiction loosely based on "Twilight\"|Fifty Shades of Grey
+600|The cover of the first edition of this 1961 military novel included a dancing figure & a little airplane|Catch-22
+800|John Reed gave an eyewitness account of the Bolshevik Revolution in "Ten Days That" did this|Shook the World
+1000|\"The Science of Deduction" is chapter one of this Sherlock Holmes story|The Sign of Four

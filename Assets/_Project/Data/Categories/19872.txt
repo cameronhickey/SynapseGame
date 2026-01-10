@@ -1,0 +1,6 @@
+JUST "ASP" ME
+200|To comprehend, or take hold firmly with the hand|grasp
+400|One shouldn't cast these damaging remarks on another's character|aspersions
+600|It's the width-to-height ratio of a film or television image|the aspect ratio
+800|Inhalation|aspiration
+1000|This clear jelly made of stock & gelatin is used as a glaze or garnish|aspic

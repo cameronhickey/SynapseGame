@@ -1,0 +1,6 @@
+HIDDEN INSTRUMENTS
+200|Cancel long periods praciticing with this string instrument or your fingers will get tired|cello (in Cancel long)
+400|When told he'd be playing these drums with the band, Tim panicked|timpani (in Tim panicked)
+600|Barabas soon learned this Western instrument was like nothing he had ever seen before|bassoon (in barabas soon)
+800|Carefully replace the strings on this ancient instrument|lyre (in carefully replace)
+1000|Neither Bilbo nor Gandalf knew any cool tunes on this|organ (in nor gandalf)

@@ -1,0 +1,6 @@
+TRAVELING ALONG ROUTE 66
+200|One end of Route 66 is at Grant Park on the corner of Jackson & Michigan Avenues in this city|Chicago
+400|One of these theaters was opened in 1949 in Carthage, Missouri; occupying 9 acres, it's still in operation|a drive-in
+600|The only major city on Route 66 in Texas' upper panhandle; its attractions include Taylor's Texaco station|Amarillo
+800|Part of this 1940 Henry Fonda movie was filmed in Santa Rosa, New Mexico on Route 66|The Grapes of Wrath
+1000|In 2009 the Route 66 Alliance designated this California city's pier as the "end of the trail\"|Santa Monica

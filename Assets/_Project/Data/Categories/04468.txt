@@ -1,0 +1,6 @@
+STATE FLOWERS
+200|This state flower of Massachusetts shares its name with the ship that brought the Pilgrims to the New World|Mayflower
+400|Its state flower is the Rocky Mountain Columbine|Colorado
+600|Interestingly, this fruit's blossom is the state flower of Delaware, but not of Georgia|peach
+800|This desert shrub is so abundant in Nevada that it gave the state one of its nicknames|sagebrush
+1000|The fragrant light purple variety of this shrub is New Hampshire's state flower|lilac

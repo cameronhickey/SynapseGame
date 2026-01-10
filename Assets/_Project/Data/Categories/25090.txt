@@ -1,0 +1,6 @@
+\"NORTH" ON THE MAP
+200|For 364 days a year, it's where the "you are here" arrow points on Santa Claus' map|North Pole
+400|State which contains the geographic center of our continent|North Dakota
+600|As far as we know, the U.S. intelligence ship Pueblo is still there|North Korea
+800|It has a mean depth of 90 meters & surrounds the Frisian Islands|North Sea
+1000|Its highest point is Mt. Sir James MacBrien, its lowest, sea level by the Arctic Ocean|Northwest Territories

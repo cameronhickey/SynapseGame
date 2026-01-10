@@ -1,0 +1,6 @@
+\"O" TOWN
+200|This city's Sentinel newspaper carries heavy coverage of "Magic" events|Orlando
+400|The Hanshin Expressway, a major road between Kobe & this port city, collapsed in a 1995 earthquake|Osaka
+600|With the help of a teenager, French forces ended the long, bloody siege of this city in May 1429|Orleans
+800|The Queen of England probably didn't use the dart in the map trick to make this city a capital in 1857|Ottawa
+1000|Every 10 years the residents of this German village put on a passion play as they have since 1634|Oberammergau

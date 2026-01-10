@@ -1,0 +1,6 @@
+SOUNDS LIKE A CAR PART
+200|It's a room-heating device with a series of pipes through which steam passes|a radiator
+400|The broadcasting of electromagnetic TV waves from one location to another|transmission
+600|In a car it ignites the fuel mixture; in a group he or she provides inspiration|a spark plug
+800|Shh! For $65 you can get this winter scarf from Tommy Hilfiger|a muffler
+1000|It's the rotating part of a revolver, containing the chambers for the cartridges|the cylinder

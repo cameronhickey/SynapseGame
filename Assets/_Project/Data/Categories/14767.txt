@@ -1,0 +1,6 @@
+OLD NAMES FOR MEDICAL CONDITIONS
+200|This older name for tuberculosis referred to the disease's wasting away of the body|consumption
+400|What was once referred to as mongolism is now called this|Down's syndrome
+600|In "Julius Caesar", Shakespeare mentions "falling sickness", this disorder characterized bv seizures|epilepsy
+800|An old name for influenza wasn't grab or clutch but this, from French for "seize\"|the grippe
+1000|Pens down, scrivener's palsy is an old term for this, also known as graphospasm|writer's cramp

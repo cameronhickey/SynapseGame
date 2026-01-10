@@ -1,0 +1,6 @@
+DOCTOR: WHO?
+200|This civil rights leader said, "The great glory of American democracy is the right to protest for right\"|Dr. Martin Luther King Jr.
+400|He made it out of the O.K. Corral, but after Nov. 8, 1887, he could no longer be anybody's huckleberry|Doc Holliday
+600|Medieval theologian John Duns Scotus, "The subtle doctor", pioneered this doctrine that the Virgin Mary was born free of original sin|the Immaculate Conception
+800|His "Common Sense Book of Baby and Child Care" came out in 1946; "Common Sense" left the title in later editions|Dr. Spock
+1000|Though finished in 1957, the hefty novel about him would not be published in the Soviet Union for 30 years|Doctor Zhivago

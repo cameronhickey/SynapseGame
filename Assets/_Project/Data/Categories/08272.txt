@@ -1,0 +1,6 @@
+BEGINS & ENDS WITH "A\"
+200|A type of rabbit, goat, cat or sweater|angora
+400|The only crop used for livestock feed that has been grown since prehistoric times|alfalfa
+600|Choirs & Todd Rundgren's voice-only rock album share this name, from Italian for "as in a chapel\"|a cappella
+800|Both London's & NYC's Cleopatra's Needles originally stood in this city|Alexandria
+1000|Officially named Catalan, # of tourists each year outnumbers residents here 30 to 1|Andorra

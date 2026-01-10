@@ -1,0 +1,6 @@
+MAGAZINE FEATURES
+200|Leading Off, Faces in the Crowd, Scorecard|Sports Illustrated
+400|Goings on About Town, The Talk of the Town, The Critics|The New Yorker
+600|Agenda, Fairground, Fanfair|Vanity Fair
+800|Star Tracks, Scoop, Chatter|People
+1000|Your Shot, Where in the World?, Visions of Earth|National Geographic

@@ -1,0 +1,6 @@
+YOU LIVE IN A ZOO
+200|Webcams at the National Zoo allow you to observe Mei Xiang & Tian Tian, 2 of these|pandas
+400|The howl of the ring-tailed type of this primate can be heard half a mile away|lemurs
+600|The "snow" type of this cat normally lives in Asia, but you can also see it at the Woodland Park Zoo in Seattle|a leopard
+800|It's alphabetically first of the 4 members of the South American camelids|an alpaca
+1000|Nicknamed the bushman's clock, this Aussie critter is helpful in rousing the other animals in the morning|a kookaburra

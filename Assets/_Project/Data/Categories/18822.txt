@@ -1,0 +1,6 @@
+\"TAKE\"
+200|A funeral director|undertaker
+400|A falafel or a burger to go|takeout
+600|Film left on the cutting room floor|outtake
+800|The amount of salary you actually get after taxes & other deductions are withheld|take-home pay
+1000|A horse race in which money is bet & divided among the winners|a sweepstake

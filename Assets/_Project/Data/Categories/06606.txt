@@ -1,0 +1,6 @@
+ATOM
+200|The first atomic bomb to be dropped in warfare used an isotope of this element as its explosive|uranium
+400|The nucleus of an atom contains neutrons & these positively charged particles|protons
+600|In a nice, stable early 1900s model, the atom was like a plum pudding with electrons distributed like these|raisins
+800|It's made of specific combinations of atoms; 2 hydrogen atoms bond to 1 oxygen atom to form a water one|a molecule
+1000|An atom may become more stable by releasing this Greek letter particle, identical to a helium atom nucleus|an alpha particle

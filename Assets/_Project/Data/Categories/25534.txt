@@ -1,0 +1,6 @@
+FLAG TIME!
+200|Naturally, the dark blue background of NATO's flag represents this body of water|the Atlantic Ocean
+400|Mary Pickersgill made the flag that was flying over this fort in 1814; it inspired a patriotic poem|Fort McHenry
+600|Scotland's flag has a white cross on a blue background; the colors are reversed for the flag of this Canadian province|Nova Scotia
+800|In 1876 lumberjacks nailed a U.S. flag to this alliterative type of pine, giving Flagstaff, Arizona its name|a ponderosa pine
+1000|A rainbow is featured on the flag of this environmental group that has the Rainbow Warrior as its flagship|Greenpeace

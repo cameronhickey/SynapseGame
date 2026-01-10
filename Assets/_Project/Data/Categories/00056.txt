@@ -1,0 +1,6 @@
+SPACE
+200|Last planet discovered & last chance for gas in the solar system|Pluto
+400|It forms a large part of Jupiter's atmosphere or Earth's kitchen cleaners|ammonia
+600|The Van Allen belts surround most of this planet|Earth
+800|Soviet ship which docked with our Apollo in '75|Soyuz
+1000|Comet in 1973 which didn't put on its promised show|Kohoutek

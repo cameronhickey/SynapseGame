@@ -1,0 +1,6 @@
+TV NETWORKING
+200|\"Big Cheese", "Diners, Drive-Ins and Dives", "Kitchen Inferno\"|Food Network
+400|\"Frontline", "Nova", "Nature\"|PBS
+600|\"Vice Principals", "Room 104\"|HBO
+800|\"The Walking Dead", "Better Call Saul\"|AMC
+1000|\"The Magicians", "The Expanse\"|Syfy

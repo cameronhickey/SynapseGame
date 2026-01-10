@@ -1,0 +1,6 @@
+MEASURING DEVICES
+200|You might want to put one of these on the plain in Spain to measure how much precipitation occurs|a rain gauge
+400|Found in a car, its name is from the Greek hodos, "road", & "metron", measure|an odometer
+600|When making beer or wine, you might want to use a saccharometer to measure the concentration of this in a solution|sugar
+800|Leave a cup outside overnight & you've got a primitive drosometer, to measure this condensation|dew
+1000|An ebullioscope is used to determine this in liquids|the boiling point

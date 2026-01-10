@@ -1,0 +1,6 @@
+ANN-A-GRAMS
+200|Comics make me unhappy (stop) split with Steve Martin (stop) then Ellen DeGeneres (stop)|Anne Heche
+400|Take my advice (stop) no one cares how you hang the toilet paper (stop) "Wake up and smell the coffee" (stop)|Ann Landers
+600|Bush has a silver foot in his mouth (stop) same with W (stop) so how did he beat me as Texas governor (stop)|Ann Richards
+800|The New Yorker finally published my short story (stop) it's all "Falling In Place" (stop) "Love Always" (stop)|Ann Beattie
+1000|Love being a prima ballerina (stop) hate playing the dying swan (stop) it's 1925, I'll take the pension (stop)|Anna Pavlova

@@ -1,0 +1,6 @@
+SINGLE QUOTES
+200|In "Pride and Prejudice", she wrote that a wealthy bachelor "must be in want of a wife\"|Jane Austen
+400|At Walden Pond, he "never found the companion that was so companionable as solitude\"|Henry David Thoreau
+600|In "The Devil's Dictionary", he defined "alone" as "In bad company\"|Ambrose Bierce
+800|\"Bachelors know more about women", quipped this Baltimore sage, "If they didn't, they'd be married\"|H.L. Mencken
+1000|Attributed to Gloria Steinem, a slogan says, "A woman without a man is like a fish without" one of these|a bicycle

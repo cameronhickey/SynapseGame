@@ -1,0 +1,6 @@
+COLORFUL BOOKS
+200|In 1935 Hemingway wrote about these hills of Africa|Green Hills
+400|Conan Doyle's "The Sign of Four" & this Oscar Wilde novel were commissioned at the same time|\"The Picture of Dorian Gray\"
+600|Georgeanne Brennan wrote a cookbook that shares its title with this Dr. Seuss classic|Green Eggs and Ham
+800|The 2 bestselling 1980s novels by Tom Clancy with "Red" in the title|\"Red Storm Rising" & "The Hunt for Red October\"
+1000|G.K. Chesterton wrote many stories featuring this priest/sleuth|Father Brown

@@ -1,0 +1,6 @@
+THE CLASS MENAGERIE
+200|Caecilians & newts are members of this animal class|amphibians
+400|For their somewhat ursine looks, the microscopic members of the class Eutardigrada are called water these|bears
+600|The class Malacostraca includes crabs, shrimps & homaridae, the delicious "true" these|lobsters
+800|It's the tallest & heaviest member of the class Aves|an ostrich
+1000|Members of the class Chondrichthyes include these flat-bodied fish that sound like winter footwear|sea skates

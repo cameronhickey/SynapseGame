@@ -1,0 +1,6 @@
+WHERE
+200|To vacation in this Caribbean paradise, you may fly into Sangster Intl. Airport in Montego Bay|Jamaica
+400|In Portugal the area south of this river that bisects the country is much warmer than the area north of it|Tagus
+600|It's at the north end of the Champ de Mars, just across the Seine from the Jardins du Trocadero|the Eiffel Tower
+800|This residence is in London, just past the Victoria Memorial at the southwest end of the mall|Buckingham Palace
+1000|It's at the entrance to Guanabara Bay, overlooking Rio from a height of 1,300 feet|Sugarloaf Mountain

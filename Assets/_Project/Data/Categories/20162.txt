@@ -1,0 +1,6 @@
+DISTRICTS
+200|This state has the largest Congressional district in area, 571,000 square miles|Alaska
+400|The film "District 9" was inspired by the apartheid-based clearing out of District 6 in this South African seaport & capital|Cape Town
+600|Ullswater is this geographical feature in the English district of the same name, made famous by Wordsworth|a lake
+800|South of the Tenderloin is this city's Mission District, named for Mission Dolores|San Francisco
+1000|This type of wine, AKA claret, can be classified by 36 districts, which are then divided into communes|Bordeaux

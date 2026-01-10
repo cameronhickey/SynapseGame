@@ -1,0 +1,6 @@
+A BILL IN CONGRESS
+200|These formal arguments for or against proposed bills take place on the floor of the House & the Senate|debates
+400|After a bill is introduced, it is given a number, printed & referred to one or more of these entities for review|a committee
+600|A holiday symbol lends its name to this type of bill that attracts many amendments, like ornaments|a Christmas tree bill
+800|Per its initials, the Revoking Excessive Policies that Encroach on American Liberties Act tried to do this to Obamacare|repeal
+1000|In 2002 Congress approved a campaign-spending bill co-sponsored by John McCain & this Wisconsin senator|(Russ) Feingold

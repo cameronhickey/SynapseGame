@@ -1,0 +1,6 @@
+PLURALIZE, PLEASE
+200|Sheep (5 letters... you know, like moose is 5 letters)|sheep
+400|Hoof (6 letters)|hooves
+600|Sarcophagus (10 letters)|sarcophagi
+800|Passer-by (9 letters)|passers-by
+1000|Appendix (10 letters, none of them X)|appendices

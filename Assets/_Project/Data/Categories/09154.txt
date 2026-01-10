@@ -1,0 +1,6 @@
+PLANETARY DISTINCTIONS
+200|The heaviest|Jupiter
+400|The most distant one known to the ancients|Saturn
+600|The hottest, on average|Venus
+800|The one named by an 11-year-old|Pluto
+1000|The farthest from the Sun from 1979 to 1999|Neptune

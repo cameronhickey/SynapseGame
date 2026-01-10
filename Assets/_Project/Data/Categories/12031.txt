@@ -1,0 +1,6 @@
+STARTS & ENDS WITH "L\"
+200|Faithful, true blue|loyal
+400|Fatal, deadly|lethal
+600|Permitted by law, licit (5 letters)|legal
+800|Reasonable, makes perfect sense|logical
+1000|Of, at or toward the side|lateral

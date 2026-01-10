@@ -1,0 +1,6 @@
+STATE INSECTS
+200|In Illinois it's good to be the king, or at least this butterfly, the state insect|the monarch
+400|It might want to fly away home to Massachusetts, where it's the state insect|the ladybug
+600|It wasn't until 1983 that Utah finally made this its state insect|the honeybee
+800|Alaska's state insect is the "four spot skimmer" this, so keep it away from St. George|a dragonfly
+1000|It's tough to separate church & state in Connecticut while having this as state insect|the praying mantis

@@ -1,0 +1,6 @@
+NARRATORS
+200|This good-natured but bumbling friend narrates the Sherlock Holmes stories|Dr. Watson
+400|Call him the narrator of "Moby Dick\"|Ishmael
+600|Alex narrates this Anthony Burgess novel in Nadsat, a combination of English slang & Russian|A Clockwork Orange
+800|Part of this 1929 Faulkner novel is truly a tale told by an idiot — Benjy Compson|The Sound and the Fury
+1000|Jack Burden narrates his 1946 novel "All the King's Men\"|Robert Penn Warren

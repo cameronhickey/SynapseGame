@@ -1,0 +1,6 @@
+ALSO A CLASSIC MONOPOLY SPACE
+200|Randomness|Chance
+400|Leave!|Go
+600|No money needed for the meter|Free Parking
+800|Seaside pathway of narrow wooden slats|Boardwalk
+1000|Punitive penalty assessed to sports teams that spend more than the salary cap|Luxury Tax

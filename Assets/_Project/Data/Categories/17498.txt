@@ -1,0 +1,6 @@
+\"FOO"' ON YOU
+200|Botulism is a type of this|food poisoning
+400|It's a Chinese dish of a pancake-shaped omelet with a mix of chopped foods|egg foo young
+600|Proverbially, it follows "penny wise\"|pound foolish
+800|7-letter word for a person given to coarse or undignified joking|buffoon
+1000|A liveried servant who attends the door or carriage|footman

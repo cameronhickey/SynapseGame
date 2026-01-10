@@ -1,0 +1,6 @@
+BOGART FILMS
+200|Film in which Bogart said, "Ah, but the strawberries! That's &#8211 That's where I had them\"|The Caine Mutiny
+400|William Faulkner was one of the writers of this 1946 film based on a Raymond Chandler novel|The Big Sleep
+600|Since he didn't really play piano, this actor's music in "Casablanca" was dubbed in|Dooley Wilson
+800|Claire Trevor won an Oscar for playing Edward G. Robinson's mistress in this 1948 film|Key Largo
+1000|Leslie Howard insisted that Bogart recreate his stage role of killer Duke Mantee in this 1936 film|The Petrified Forest

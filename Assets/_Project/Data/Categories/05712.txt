@@ -1,0 +1,6 @@
+FROM THE KORAN
+200|The Koran begins, "In the name of" him, "most benevolent, ever-merciful\"|Allah
+400|\"Those who were arrogant...were seized by" this disaster & "lay overturned on the ground in their homes\"|Earthquake
+600|The title given to chapter 47 is the name of this prophet|Mohammed
+800|\"We sent Moses and" this brother "to Pharaoh and his nobles\"|Aaron
+1000|\"We enjoined upon Abraham and" this son "to keep our house immaculate\"|Ishmael

@@ -1,0 +1,6 @@
+SHIP NAMES
+200|The Cunard liner Carpathia arrived 1 hour & 20 minutes after this other ship went down|the Titanic
+400|The name of this Spanish slave ship, the subject of a Spielberg film, means "friendship\"|Amistad
+600|A pro-war slogan of 1898 was "Remember" this ship, "to hell with Spain!\"|the Maine
+800|One of the first frigates built for the U.S. Navy, it was launched in Boston on Oct. 21, 1797|the Constitution
+1000|A white concrete & steel structure spans the hull of this sunken battleship, a national memorial since 1962|the Arizona

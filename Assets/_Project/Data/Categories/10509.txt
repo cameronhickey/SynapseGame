@@ -1,0 +1,6 @@
+THE BEST PICTURE OSCAR WINNER
+200|\"Shane", "Shine", "Shakespeare in Love\"|Shakespeare in Love
+400|\"Chinatown", "Chicago", "Fargo\"|Chicago
+600|\"Roman Holiday", "American Graffiti", "The French Connection\"|The French Connection
+800|\"Cat on a Hot Tin Roof", "The Silence of the Lambs", "Crouching Tiger, Hidden Dragon\"|The Silence of the Lambs
+1000|\"Mrs. Miniver", "Mister Roberts", "Mr. Smith Goes to Washington\"|Mrs. Miniver

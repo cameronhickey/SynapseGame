@@ -1,0 +1,6 @@
+THE SMALLEST IN AREA
+200|Iceland, Norway, Sweden|Iceland
+400|India, China, Russia|India
+600|Saudi Arabia, Iran, Pakistan|Pakistan
+800|Argentina, Brazil, Peru|Peru
+1000|Spain, Germany, France|Germany

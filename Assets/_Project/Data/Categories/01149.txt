@@ -1,0 +1,6 @@
+CITIES OF INDIA
+200|In this capital of India, the average temperature in May is 92°|New Delhi
+400|The original Fort William in this city contained the guardroom known as the "Black Hole\"|Calcutta
+600|This city, "The Gateway of India", is considered the nation's most westernized city|Bombay
+800|This city, home of the Taj Mahal, is on the right bank of the Yamuna River|Agra
+1000|In 1984 this city of 670,000 was the site of the world's worst industrial disaster|Bhopal

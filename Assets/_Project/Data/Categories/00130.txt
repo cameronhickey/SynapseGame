@@ -1,0 +1,6 @@
+TYPES OF GOVERNMENT
+200|State ruled by a king, queen or emperor|a monarchy
+400|From the Greek, it means "the people rule\"|a democracy
+600|According to Marx, under this system, government is supposed to wither away|communism
+800|The one who's in charge under anarchy|no one
+1000|In a theocracy, those thought to be his representatives rule|God

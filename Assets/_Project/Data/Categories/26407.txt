@@ -1,0 +1,6 @@
+ENGLISH AS A THIRD LANGUAGE
+200|Grazie in Italian, bedankt in Dutch...|thank you
+400|Bienvenue in French, talitali fiefia in Tongan...|welcome
+600|\'Ohana in Hawaiian, perhe in Finnish... (feel free to do your best Vin Diesel!)|family
+800|Ferrum in Latin, u'amea in Samoan...|iron
+1000|Tag in German, siku in Swahili...|day

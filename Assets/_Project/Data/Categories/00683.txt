@@ -1,0 +1,6 @@
+GOVERNMENT & POLITICS
+200|All U.S. tax bills must be initiated in this legislative body|the House of Representatives
+400|This Cabinet department leases federal offshore areas for mineral development|the Department of the Interior
+600|This current Democratic senator from New York was born in Tulsa, Oklahoma|Moynihan
+800|These 13 courts rank second to the Supreme Court as reviewing authorities|the appeals courts
+1000|This statesman argued for a bimetal monetary policy at the 1896 Democratic National Convention|William Jennings Bryan

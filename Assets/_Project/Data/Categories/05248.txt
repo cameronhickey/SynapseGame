@@ -1,0 +1,6 @@
+FIRST NAME'S THE SAME
+200|Gooden, Moody, Eisenhower|Dwight
+400|Bronte, Dickinson, Post|Emily
+600|Kun, Fleck, Lugosi|Bela
+800|Dore, Eiffel, Flaubert|Gustave
+1000|Evans, Head, Piaf|Edith

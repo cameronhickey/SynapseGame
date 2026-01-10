@@ -1,0 +1,6 @@
+COLLEGE TEAM NAMES
+200|This team hogs all the glory at the University of Arkansas|the Razorbacks
+400|They roar for Penn State|the Nittany Lions
+600|This colorful team takes the field for Texas Tech|the Red Raiders
+800|Don't be chicken, go ahead & cheer for this University of South Carolina team|the Gamecocks
+1000|They sail for Vanderbilt University|the Commodores

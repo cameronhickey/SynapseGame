@@ -1,0 +1,6 @@
+FEDERAL TAXES
+200|The IRS claims they'll do this to about 1 out of every 100 individual tax returns in 1994|audit
+400|1 of the 2 shorter 1040 forms you may file if your income is less than $50,000|the 1040EZ (or 1040A)
+600|Use Form 8815 to exclude interest paid on Series EE ones of these issued after 1989|savings bonds
+800|For a single person, the basic one of these was $3,700 on 1993 returns|a personal deduction
+1000|A business or group that sends one of these people to talk to congressmen can no longer deduct the cost|a lobbyist

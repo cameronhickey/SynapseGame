@@ -1,0 +1,6 @@
+MUSEUMS BY CITY
+200|Byzantine Museum, Acropolis Museum|Athens
+400|Anne Frank House, Rijksmuseum|Amsterdam
+600|Uffizi Gallery, Bardini Museum|Florence
+800|Hagia Sophia Museum, Museum of the Ancient Orient|Istanbul
+1000|Edvard Munch Museum, Ski Museum|Oslo

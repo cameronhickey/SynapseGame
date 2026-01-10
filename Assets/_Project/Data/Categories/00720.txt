@@ -1,0 +1,6 @@
+SHAKESPEAREAN CHARACTERS
+200|There are several ghosts in "Richard III" but "Hamlet" has only one ghost, this one|Hamlet's father
+400|In this tragedy Donalbain flees to Ireland after his father, Duncan is murdered|Macbeth
+600|Disguised as a male lawyer, she outwits Shylock in "The Merchant of Venice\"|Portia
+800|1 of the 2 plays that feature a character named Paris|(1 of) Troilus & Cressida (or Romeo and Juliet)
+1000|2 men named Cinna appear in this tragedy: one is a poet & one is a conspirator|Julius Caesar

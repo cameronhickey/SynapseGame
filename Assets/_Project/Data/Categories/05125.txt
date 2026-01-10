@@ -1,0 +1,6 @@
+FORMER CITY NAMES
+200|Byzantium|Istanbul
+400|Tenochtitlan|Mexico City
+600|Saigon|Ho Chi Minh City
+800|Edo|Tokyo
+1000|Salisbury, Rhodesia|Harare

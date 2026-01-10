@@ -1,0 +1,6 @@
+RIVER CITY
+200|Cologne, Germany|the Rhine
+400|Baghdad is on the Tigris; Fallujah is on this|the Euphrates
+600|Strasbourg, France|the Rhine
+800|Bismarck, North Dakota is on this river|the Missouri
+1000|Vienna, Austria|the Danube

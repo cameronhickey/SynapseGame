@@ -1,0 +1,6 @@
+COMPUTER ABBREV.
+200|Your I.T. guy knows "I.T." means this|information technology
+400|Useful for connecting devices, USB is short for Universal Serial this|Bus
+600|In the abbreviation JPEG, the "P" is this 12-letter adjective|Photographic
+800|\"DOS" stands for these 3 words|disk operating system
+1000|\"DSL" is "digital" this "line\"|subscriber

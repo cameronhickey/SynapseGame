@@ -1,0 +1,6 @@
+COMPLETES THE NONFICTION TITLE
+200|By Strunk & White: "The ____ of Style\"|Elements
+400|By Spencer Johnson: "Who Moved My ____?\"|Cheese
+600|Hillary Clinton's memoir about her time in the State Department: "Hard ____\"|Choices
+800|Carrie Fisher's first memoir: "Wishful ____\"|drinking
+1000|An autobiography by Nabokov: "Speak, ____\"|Memory

@@ -1,0 +1,6 @@
+DOC TALK
+200|Meaning a feeding apparatus, IV stands for this|Intravenously
+400|DNR, used to contraindicate life-prolonging treatment, stands for this|do not resuscitate
+600|If you have a GSW, you have this type of wound (& get to a hospital, quick!)|gunshot wound
+800|It's the C in a C-section|Caesarean
+1000|AMA can mean "against" this|medical advice

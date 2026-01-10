@@ -1,0 +1,6 @@
+DIETS
+200|Trainer Bob Harper wrote a foreword to a book of recipes from this NBC reality competition|The Biggest Loser
+400|Elisabeth Hasselbeck wrote "The G-Free Diet", a survival guide to being free of this G|gluten
+600|Mark Bittman's plan to lose weight & restore health is "VB6": eat this 5-letter way before 6 PM|vegan
+800|The doctor who created this diet wrote, "Because I live in Florida, the best fruit example I can think of is the orange\"|the South Beach Diet
+1000|\"The Right Carbs in the Right Amounts" is a chapter in "The New" this diet "For a New You\"|the new Atkins

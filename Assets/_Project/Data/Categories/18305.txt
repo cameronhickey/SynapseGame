@@ -1,0 +1,6 @@
+PUT IT ON MY "BILL\"
+200|Jed, Jethro, Elly May & Granny, collectively|the Beverly Hillbillies
+400|Forbes magazine lists oilman John D. Rockefeller as America's first of these|billionaire
+600|With about 100,000 people, this seat of Yellowstone County is Montana's most populous city|Billings
+800|This magazine for theater buffs just doesn't cover Broadway, but off-Broadway & the London stage as well|Playbill
+1000|Mais oui, ma chere, it's a hyphenated French term for a love letter|billet-doux

@@ -1,0 +1,6 @@
+STATE OF THE TV SHOW
+200|\"Grey's Anatomy\"|Washington
+400|\"Big Love\"|Utah
+600|\"Northern Exposure" & "Men in Trees\"|Alaska
+800|\"Royal Pains\"|New York
+1000|\"The Middle\"|Indiana

@@ -1,0 +1,6 @@
+SNAKE, BIRD OR MONKEY
+200|The adder|a snake
+400|The stilt|a bird
+600|The hognose|a snake
+800|The tamarin|a monkey
+1000|The killdeer|a bird

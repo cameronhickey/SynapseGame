@@ -1,0 +1,6 @@
+WHICH NYC BOROUGH?
+200|Was purchased from Native Americans for about $24|Manhattan
+400|Is home to the New York Yankees|the Bronx
+600|Is the most populous, with more than 2.5 million people|Brooklyn
+800|Is where LaGuardia & JFK International are located|Queens
+1000|Until 1975 was known as Richmond Borough|Staten Island

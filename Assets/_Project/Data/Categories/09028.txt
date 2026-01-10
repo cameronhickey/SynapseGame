@@ -1,0 +1,6 @@
+WORLD MUSEUMS
+200|I visited the national museum founded by King Rama V in this city & all I got was this lousy Thai-shirt|Bangkok
+400|The Musee d'Orsay in Paris was built in the Gare d'Orsay, an old one of these|a railway station
+600|This museum founded back in 1835 contains the gold coffin of Tutankhamen|the Egyptian Museum
+800|Works by Venetian masters Titian & Tintoretto are in this other "V" city's Kunsthistorisches Museum|Vienna
+1000|During its remodeling it moved "The Night Watch" from the Main Hall to the new Philips Wing|the Rijksmuseum

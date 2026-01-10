@@ -1,0 +1,6 @@
+ADD A "PIN"CH
+200|This leafy green vegetable originated in Southwest Asia & was considered a medicine by Persians|spinach
+400|The type of bowling done on the PBA circuit, or one of the objects you'd aim your ball at|tenpin
+600|In order to remain independent, this 17th C. Dutch philosopher declined a professorship & a pension|Spinoza
+800|A green woodpecker or a vain, pretentious chatterbox|popinjay
+1000|It's a pair of glasses kept on the face by a spring that grips the nose|pince-nez

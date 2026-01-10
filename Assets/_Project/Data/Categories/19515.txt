@@ -1,0 +1,6 @@
+HAMBURGER JOINTS
+200|Quarter Pounder with cheese|McDonald's
+400|Bacon & Swiss Buttery Jack|Jack in the Box
+600|Big King Sandwich|Burger King
+800|Flamethrower Grillburger (save room for a Blizzard)|Dairy Queen
+1000|Bacon Cheeseburger Toaster|Sonic

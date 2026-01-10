@@ -1,0 +1,6 @@
+BRITISH SPELLING TEST
+200|Parlor|P-A-R-L-O-U-R
+400|Recognize|R-E-C-O-G-N-I-S-E
+600|Check|C-H-E-Q-U-E
+800|Airplane|A-E-R-O-P-L-A-N-E
+1000|Jail (more in bygone times than today)|G-A-O-L

@@ -1,0 +1,6 @@
+ACTOR FACTOR
+200|He's the first James Bond born after the start of the film series|Daniel Craig
+400|This late actor had a daughter named Matilda with Michelle Williams|Heath Ledger
+600|He played news producer Fred Friendly in "Good Night, and Good Luck.\"|George Clooney
+800|He directed "Argo" as well as starring in it as Tony Mendez|Ben Affleck
+1000|Greg on "Dharma & Greg" & Hotch on "Criminal Minds", he was born the same day as Tom Cruise|Thomas Gibson

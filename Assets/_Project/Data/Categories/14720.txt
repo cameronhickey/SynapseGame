@@ -1,0 +1,6 @@
+DRINKING VESSELS
+200|The tall, narrow flute used for this beverage named for a region of France allows the bubbles to rise slower|champagne
+400|Also the name of a pub at Brandeis U., this earthenware vessel can hold about a pint of beer|a stein
+600|Although it usually refers to a laboratory container, it can also mean a large drinking cup with a wide mouth|a beaker
+800|A flat-bottomed glass with no handle, it sounds like a gymnast|tumbler
+1000|Ochoko are traditional tiny cups from which to drink this alcoholic beverage|sake

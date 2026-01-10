@@ -1,0 +1,6 @@
+MILESTONES IN MATH
+200|In the '40s Harvard's Howard Aiken developed the Mark I computer with this company's help|IBM
+400|Century in which most of David Hilbert's 23 unsolved problems were solved|20th century
+600|This Persian poet's work on algebra included systematic solutions to cubic equations|Omar Khayyam
+800|Norbert Wiener wrote 1948's "Cybernetics" while teaching at this U.S. institute in Cambridge|MIT
+1000|This Greek's "Elements" deal with the theories of earlier scholars like Eudoxus of Cnidus|Euclid

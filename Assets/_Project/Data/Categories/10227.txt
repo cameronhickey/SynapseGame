@@ -1,0 +1,6 @@
+PRAWNOGRAPHY
+200|The word "prawn" is used loosely for a large one of these shellfish|a shrimp
+400|The Muppet known as Pepe the Prawn did commercials for a restaurant chain named for this "Long" character|Long John Silver
+600|Like many insects, prawns also feature pairs of these long, thin sensory organs on their heads|antennae
+800|Prawns go through as many as 11 different metamorphoses during this stage of immaturity|the larval stage
+1000|From the Latin for "having a shell", it's the subphylum to which all prawns belong|crustacean

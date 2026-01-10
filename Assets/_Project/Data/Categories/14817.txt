@@ -1,0 +1,6 @@
+COME, HO CHI MINH
+200|Ho Chi Minh is buried in this capital city|Hanoi
+400|Ho Chi Minh helped start Vietnam's Communist Party & in the 1920s helped start this Eur. country's Communist Party|France
+600|The trail bearing Ho's name was a series of Viet Cong supply routes mostly through this neighboring nation|Laos
+800|Ho Chi Minh was also known by the nickname Bac Ho, meaning this relative|uncle
+1000|Ho Chi Minh's real family name wasn't Ho, it was this, like many other Vietnamese|Nguyen

@@ -1,0 +1,6 @@
+LIBRARY GLOSSARY
+200|2 essential types of call numbers are Dewey Decimal & this classification system abbreviated L.C.|the Library of Congress
+400|I.L.L., short for this, won't make you sick; it's just a way of borrowing books from other repositories|interlibrary loan
+600|Another name for the loan desk is this 4-syllable word, a reference to how the books move around|circulation
+800|Also a Triple Crown racehorse, it's a reference to a book or magazine including publication date, author & so on|citation
+1000|Your library may have a reader for this type of film, with reproductions of newspapers & a name from French|microfiche

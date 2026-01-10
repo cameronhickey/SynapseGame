@@ -1,0 +1,6 @@
+GO TO JAIL, GO DIRECTLY TO JAIL
+200|This prison takes its name from the New York town of Ossining, where it's located|Sing Sing
+400|This man did some of his important writing while in prison, including his Epistle to the Colossians|Saint Paul
+600|This saint whose feast day is Halloween shares his name with a prison; do they allow trick or treating there?|San Quentin
+800|MacKinlay Kantor won a 1956 Pulitzer Prize for his book about this notorious Civil War prison|Andersonville
+1000|A prison in Florence, Colorado holds this man known as the Unabomber|Ted Kaczynski

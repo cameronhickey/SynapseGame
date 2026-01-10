@@ -1,0 +1,6 @@
+FOREIGN FILM COUNTRIES
+200|1992: "Like Water for Chocolate\"|Mexico
+400|1989: "Jesus of Montreal\"|Canada
+600|1985: "My Life as a Dog\"|Sweden
+800|1990: "Tie Me Up! Tie Me Down!\"|Spain
+1000|1988: "Babette's Feast\"|Denmark

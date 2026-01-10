@@ -1,0 +1,6 @@
+THE NEW TV RATINGS
+200|If we don't watch our "L", a warning for this might be slapped on our show|Language
+400|\"Jeopardy!" proudly sports this rating|TVG
+600|The most restrictive of the ratings, it's not just for mothers|TVMA (Mature Audiences only)
+800|\"Red Shoe Diaries" usually contains these situations, as indicated by the S|Sexual situations
+1000|V is for violence; FV stands for this|Fantasy Violence

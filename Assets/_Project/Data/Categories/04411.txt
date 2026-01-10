@@ -1,0 +1,6 @@
+NATIONS' MOST POPULOUS CITIES
+200|Australia|Sydney
+400|Pakistan|Karachi
+600|China|Shanghai
+800|Switzerland|Zurich
+1000|Nigeria|Lagos

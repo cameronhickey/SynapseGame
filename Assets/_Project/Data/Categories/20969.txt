@@ -1,0 +1,6 @@
+COMIC-CONVERSATION
+200|It encloses dialogue from a specific speaker's mouth|a speech bubble (or balloon)
+400|An image that extends beyond the edge of a page is said to do this medical verb|bleed
+600|King Features specializes in this business, distributing a comic strip to a large number of newspapers|syndication
+800|This type of story similar to back story goes back at least as far as the character gaining his or her powers|an origin story
+1000|This term for a book-length visual narrative spread after it was on the cover of 1978's "A Contract with God\"|a graphic novel

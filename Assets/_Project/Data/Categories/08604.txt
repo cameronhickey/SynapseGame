@@ -1,0 +1,6 @@
+\"CON" GAME
+200|Fertilization leading to pregnancy|conception
+400|When it comes to cars, ragtop is slang for this|convertible
+600|From the Latin for "contact", this adjective is used to describe diseases transmitted from person to person|contagious
+800|Cortes & Balboa were 2 of the most famous of these Spanish military adventurers|conquistadors
+1000|French term for a doorkeeper, or a helpful person at a hotel|concierge

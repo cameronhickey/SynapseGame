@@ -1,0 +1,6 @@
+SCOTT, PILGRIM
+200|Scott, can you tell me of this English city whence the Mayflower set sail to reach the New World?|Plymouth
+400|Scott, wasn't it nice of the Wampanoag tribe to teach us how to make this dish of beans & corn?|succotash
+600|Hey Scott, it's Nov. 11, 1620; it's time to sign the document called "the Mayflower" this|Compact
+800|Scott, as a Pilgrim, you must adhere to this stern Protestant movement, an offshoot of Calvinism|Puritanism
+1000|Scott, did you hear Gov. Bradford made this Indian, aka Tisquantum, an emissary; his English is remarkable!|Squanto

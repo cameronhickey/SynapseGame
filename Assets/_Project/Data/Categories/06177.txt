@@ -1,0 +1,6 @@
+HOME STATES
+200|Butch Cassidy, Roseanne, Donny Osmond|Utah
+400|Robert Motherwell, Kurt Cobain, Bill Gates|Washington
+600|Thomas Dewey, Henry Ford, Madonna|Michigan
+800|Dana Carvey, Evel Knievel, Jeannette Rankin|Montana
+1000|Amelia Earhart, Edgar Lee Masters, Dennis Hopper|Kansas

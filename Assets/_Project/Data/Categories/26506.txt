@@ -1,0 +1,6 @@
+CYBERCRIME
+200|Reportedly named for a stripper, Melissa, an early major one of these, began spreading from a hijacked AOL account in 1999|a virus
+400|Wow... the FBI nabbed Vladimir Levin for a 1994 online bank robbery thanks to "outstanding cooperation " from this country|Russia
+600|Less of a risk with newer cell phones, but these cards can be swapped or hijacked, giving hackers access to your info|SIM cards
+800|There's a weapon in the name of this cybercrime, an info-gathering attempt with a specific target; it won't catch any grouper|spear phishing
+1000|A 2017 hack of this credit reporting agency compromised the personal information of nearly 150 million Americans|Equifax

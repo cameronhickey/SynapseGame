@@ -1,0 +1,6 @@
+NEW ABBREV.
+200|In computers "DOS" can either stand for disk operating system or this type of attack that keeps users from a site|denial of service
+400|Skype uses VoIP, which stands for this "over Internet protocol\"|voice
+600|You may have noticed the MSG network on your program guide; MSG stands for this New York City locale|Madison Square Garden
+800|Currently, she's the FLOTUS|Michelle Obama
+1000|Debate raged in 2009 as to whether members of Congress had been briefed on "EIT"s, enhanced this techniques|interrogation

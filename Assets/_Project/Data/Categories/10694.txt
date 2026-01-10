@@ -1,0 +1,6 @@
+MOVIE TITLE NAMES
+200|2007: George Clooney is the fixer for a law firm|Michael Clayton
+400|Told his nose is broken, this 1976 title pugilist asks how it looks & gets the reply, "Ah, it's an improvement\"|Rocky
+600|1996: Sports agent Tom Cruise has a moral epiphany|Jerry Maguire
+800|A single mom leads the legal charge against Pacific Gas & Electric in this 2000 drama|Erin Brockovich
+1000|2008: Rich kid Anton Yelchin acts as a psychiatrist to his peers at his new school|Charlie Bartlett

@@ -1,0 +1,6 @@
+5-LETTER MAMMALS
+200|Ewe ought to know it belongs to the genus Ovis|a sheep
+400|The stripes on the Grevy's species of this are narrower & closer together than on most other species|a zebra
+600|The prey of this wild dog of Australia includes kangaroos & wallabies|a dingo
+800|Europe's largest land mammal, the wisent, is also called this, like its American cousin|a bison
+1000|Hmm, what's that musky smell? Why, it's this catlike mammal found in Africa & Asia|a civet

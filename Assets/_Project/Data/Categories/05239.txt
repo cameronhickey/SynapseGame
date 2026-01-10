@@ -1,0 +1,6 @@
+TRIANGLES
+200|Term for the process of putting all your billiard balls in a triangle to set them for a break|Racking
+400|Body part in the triangle atop the pyramid in the Great Seal of the United States|Eye
+600|The east side of this large, triangular citadel faces Red Square|the Kremlin
+800|From the Greek for "uneven", it's the term for a triangle in which no sides are the same length|scalene
+1000|In 1911 a devastating fire at this company's factory in New York City killed 146 garment workers|the Triangle Shirtwaist Factory

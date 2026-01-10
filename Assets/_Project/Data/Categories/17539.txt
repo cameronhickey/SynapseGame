@@ -1,0 +1,6 @@
+THE COUNTRY DUE SOUTH
+200|of Ulan Bator, Mongolia|China
+400|of Nairobi, Kenya|Tanzania
+600|of Sofia, Bulgaria|Greece
+800|of Quito, Ecuador|Peru
+1000|of Luanda, Angola|Namibia

@@ -1,0 +1,6 @@
+FOR DRINKS
+200|The Spanish-derived name of this punch made with red wine & fruit juice refers to its bloodlike color|sangria
+400|The book "Southern Cocktails" says this bourbon drink is "de rigueur for any daytime soiree in the South\"|a mint julep
+600|El Floridita, a restaurant in Old Havana, claims to be the birthplace of this rum drink sometimes served frozen|a daiquiri
+800|Tabasco makes mildly seasoned & extra spicy mixes for this cocktail|a Bloody Mary
+1000|Orange juice is the "navel" in a fuzzy navel; this flavored liquor makes it "fuzzy\"|peach schnapps (peach liqueur accepted)

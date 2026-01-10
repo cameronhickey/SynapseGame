@@ -1,0 +1,6 @@
+BEGINS & ENDS IN "D\"
+200|Father|dad
+400|A feat or exploit; usually a praiseworthy act|a deed
+600|This term refers to a bomb or explosive that fails to detonate|dud
+800|\"Wiener Dogs on Parade", featuring this breed, is a part of Ashland, Oregon's annual 4th of July parade|a dachshund
+1000|This shepherd's name appears more than 1,000 times in the Old & New Testaments|David

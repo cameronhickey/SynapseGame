@@ -1,0 +1,6 @@
+CHAT, GPS
+200|Traffic ahead on the 5 South as you approach Disneyland in this city; would you like a faster alternate route through Wyoming?|Anaheim
+400|Take US-75 N. to get from Nebraska City to this Nebraska city; eta, about 45 minutes, but I won't direct you to Warren Buffett's house|Omaha
+600|Here is your route from Hollywood to this New Mexico city, formerly known as Hot Springs & named after a game show in 1950|Truth or Consequences
+800|After leaving Richmond, take I-95 north, then head east & pick up DE-8 to reach this other capital, 3 1/2 hours away|Dover
+1000|Take AZ-80 to N. 4th Street; E. Allen St. & your destination is ahead at this landmark that gained fame in 1881; enjoy your holliday!|the O.K. Corral

@@ -1,0 +1,6 @@
+\"-LY" WORDS THAT AREN'T ADVERBS
+200|This noun, an intimidator on the playground|a bully
+400|This adjective meaning ridiculous or absurd; in kids' toys, it precedes "string" & "putty\"|silly
+600|This noun, which the home team pulled off in the bottom of the 6th|a rally
+800|This noun meaning a record of debt; in a British interjection, it's followed by -ho!|tally
+1000|This sad adjective derived from one of the 4 humors|melancholy

@@ -1,0 +1,6 @@
+DETAIL
+200|Pieces in the 4 corners of the board at the start of a game of chess|the rooks
+400|The letter just to the right of "A" on a standard keyboard|S
+600|The first family member shown in "The Simpsons" title sequence|Bart
+800|Number of white stripes on the current U.S. flag|6
+1000|Color of the "Ex" in the principal FedEx logo|orange

@@ -1,0 +1,6 @@
+BILLIARDS SHOTS
+200|The shot that hits a full rack of balls to start a game|the break
+400|It's any shot where the object ball bounces off a side cushion|a bank
+600|To hit the cue ball into the 6 ball into the 9 ball, all on purpose, is this kind of shot that can also open a safe|a combination
+800|When a player designates in advance the ball to be made & the pocket into which it will go, it's this type of shot|a called shot
+1000|This shot where you hit the cue ball low so that it rises off the table shares its name with a basketball shot|a jump shot

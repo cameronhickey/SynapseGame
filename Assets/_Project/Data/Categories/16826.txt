@@ -1,0 +1,6 @@
+MOVIE TITLE OVERLAPS
+200|\"Real _____ Magnolias\"|Steel
+400|\"The Rum _____ of a Wimpy Kid\"|Diary
+600|\"Jeff, Who Lives at _____ Alone\"|Home
+800|\"The Dark _____ and Day\"|Knight
+1000|\"Shaun of the _____ Presidents\"|Dead

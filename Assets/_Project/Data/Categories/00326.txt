@@ -1,0 +1,6 @@
+DRUGS
+200|Lysergic acid diethylamide|LSD
+400|In 1903, barbital became the 1st of this type of drug|barbiturates
+600|Recombinant alpha interferon has proved effective in chronic cases of the C type of this liver inflammation|Hepatitis
+800|Now sold over the counter, Rogaine is the brand name of this thinning hair remedy|Minoxidil
+1000|Salvarsan, Dr. Ehrlich's treatment for this disease, contained arsenic|Syphilis

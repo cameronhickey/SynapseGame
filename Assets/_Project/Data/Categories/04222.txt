@@ -1,0 +1,6 @@
+CIVICS CLASS
+200|In the most common form of U.S. city government, a council is balanced by this executive|Mayor
+400|Instead of a "standing" one, the House & Senate each have a "select" one on intelligence|Committee
+600|It's about 50% in U.S. national elections, 30 points lower than in western Europe|Voter turnout
+800|Wisconsin introduced this "fare" game that made AFDC recipients get jobs|Workfare
+1000|Constitutional amendment that prohibits privacy by banning "unreasonable searches and seizures\"|Fourth Amendment

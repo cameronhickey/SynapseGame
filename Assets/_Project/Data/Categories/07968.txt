@@ -1,0 +1,6 @@
+\"ER\"
+200|A short trip somewhere to do something on behalf of somebody else|errand
+400|This small northern weasel is also known as a stoat|ermine
+600|From the Latin for "pull up by the roots", it means to completely get rid of something, like a disease|eradicate
+800|This 3-word Gaelic phrase means "Ireland Forever\"|\"Erin Go Bragh!\"
+1000|Asmara is this African nation's capital|Eritrea

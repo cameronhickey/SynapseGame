@@ -1,0 +1,6 @@
+EDIBLE COMMON BONDS
+200|Irish, Brunswick, mulligan|stew
+400|Crescent, kaiser, Parker House|rolls
+600|Brown, beurre-blanc, bordelaise|sauces
+800|Blood, bockwurst, chorizo|sausages
+1000|Button, enoki, chanterelle|mushrooms

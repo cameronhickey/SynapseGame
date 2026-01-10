@@ -1,0 +1,6 @@
+INTERNATIONAL AIRLINES
+200|Air Nippon|Japan
+400|Lufthansa|Germany
+600|KLM|Netherlands
+800|Aeroflot|Russia
+1000|Cronus Airlines|Greece

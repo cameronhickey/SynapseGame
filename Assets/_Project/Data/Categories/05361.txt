@@ -1,0 +1,6 @@
+COUNTRIES BY CITY
+200|In Southeast Asia: Pattaya, Udon Thani, Bangkok|Thailand
+400|In the Caribbean: Cienfuegos, Matanzas, Guantanamo|Cuba
+600|In Africa: East London, Tembisa, Krugersdorp|South Africa
+800|In Scandinavia: Bergen, Trondheim, Hammerfest|Norway
+1000|In South America: Arequipa, Callao, Piura|Peru

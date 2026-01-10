@@ -1,0 +1,6 @@
+SPEECH! PARTS OF SPEECH!
+200|Fred Flintstone, Sweden, Roomba|nouns
+400|Neither, &, nor|conjunctions
+600|Xem, xyrs, xemself|(neo)pronouns
+800|Betwixt, between, beyond|preposition
+1000|Yowza! Zoinks! Shazbot!|interjections

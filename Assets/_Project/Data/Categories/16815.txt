@@ -1,0 +1,6 @@
+THE COUNTRY'S MAJOR RELIGION
+200|India|Hinduism
+400|Egypt (a branch of Islam)|Sunni
+600|In Denmark: Evangelical this|Lutheranism
+800|Thailand|Buddhism
+1000|Mongolia|Buddhism

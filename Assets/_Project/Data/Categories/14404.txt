@@ -1,0 +1,6 @@
+RAW FOOD
+200|This food tartare originated in medieval Russia|steak
+400|A restaurant called Que Seraw Seraw makes this with organic buckwheat crust & macadamia cheese|pizza
+600|We don't have any food ideas for raw Yukon Gold or other types of these, but they're supposed to help with warts|potatoes
+800|The danger of eating unbaked cookie dough is mainly due to this ingredient|eggs
+1000|Some sushi restaurants also serve this similar food, from the Japanese for "stab the body\"|sashimi

@@ -1,0 +1,6 @@
+CIA WORLD FACTBOOK NO. 1s
+200|Monaco leads in this: it's 89.40 years from birth|the life span of its citizens
+400|Saudi Arabia: exports of this, 7.3 million barrels a day|oil
+600|The United States: 13,513 of these, including Logan & McCarran|airports
+800|China: 731 million users of this technological network|the Internet
+1000|South Africa: 7.2 million people living with this communicable affliction|AIDS

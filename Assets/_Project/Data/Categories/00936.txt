@@ -1,0 +1,6 @@
+CANADIAN PROVINCES
+200|This province's postal abbreviation is QC|Quebec
+400|With about 10 million people, it has Canada's largest population|Ontario
+600|This island province has three counties: King's, Queen's, and Prince|Prince Edward Island
+800|Cape Breton Island forms the northeastern tip of this Atlantic province|Nova Scotia
+1000|This province bordering Maine is 90% forest|New Brunswick

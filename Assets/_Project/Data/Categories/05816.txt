@@ -1,0 +1,6 @@
+PLAYING WITH FIRE
+200|With fire, wood is turned into this material for artists' drawing sticks|charcoal
+400|With fire, melted sand is combined with soda & lime to make this transparent substance|glass
+600|With fire, iron & carbon are forged into this strong alloy|steel
+800|With fire, these hog thighs are smoked for flavor|ham
+1000|With fire, water is boiled to propel this type of engine|a steam engine

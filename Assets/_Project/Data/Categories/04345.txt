@@ -1,0 +1,6 @@
+PUT A KIRK IN IT
+200|Kirk Douglas was a slave in & executive producer of this 1960 film|Spartacus
+400|Kirk got his first Oscar nomination for "Champion", a 1949 film about this sport|Boxing
+600|In this 1956 film James Donald played Theo & Kirk played his brother Vincent|Lust for Life
+800|Kirk was more than O.K. as this dentist in 1957|Doc Holliday
+1000|Kirk played Rick Martin, a role based on Bix Beiderbecke, in "Young Man with" one of these|A horn

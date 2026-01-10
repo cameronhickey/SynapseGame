@@ -1,0 +1,6 @@
+GAME PLAN
+200|Determine 3 things: In what room, with what weapon & whodunit|Clue
+400|Collect 6 wedges for answering a question in 6 different categories, then head to the middle & answer one more|Trivial Pursuit
+600|In survival mode, fight off mobs such as evokers & build shelter so as to stay alive|Minecraft
+800|Drop colored discs into a grid trying to get a quartet of yours in a row vertically, horizontally or diagonally|Connect Four
+1000|Using a small mallet, tap out the blocks one by one until someone topples the standing animal|Don't Break the Ice

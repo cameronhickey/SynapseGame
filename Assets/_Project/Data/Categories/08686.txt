@@ -1,0 +1,6 @@
+SHAKESPEARE 101
+200|A passage from "A Midsummer Night's Dream" alludes to this real-life queen as "a fair vestal\"|Elizabeth I
+400|As this play opens, a Moorish general has just married the much younger Desdemona|Othello
+600|This moneylender tells the Merchant of Venice, "I am a dog, beware my fangs\"|Shylock
+800|Shrew-tamer Petruchio came from this city, like a certain two gentlemen|Verona
+1000|Also known as Robin Goodfellow, this fairy boasts that he could encircle the Earth in 40 minutes, about 37,300 mph!|Puck

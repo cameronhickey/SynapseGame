@@ -1,0 +1,6 @@
+DEAD PRECEDENTS
+200|In 1943 the Supreme Court overruled a 1940 decision & said students couldn't be required to salute this|the flag
+400|In 1987 the Supreme Court overruled an 1861 decision that courts couldn't do this, order a suspect handed over to another state|extradite
+600|Agostini v. Felton reversed a 1985 ruling that prohibited public school teachers from teaching in these schools|parochial
+800|1961's Mapp v. Ohio overturned a 1949 ruling & said this amendment bars illegally seized evidence from state courts|the 4th Amendment
+1000|This controversial 2010 decision overruled a precedent that had barred certain political contributions|Citizens United

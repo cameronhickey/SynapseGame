@@ -1,0 +1,6 @@
+MOVIE TITLE CHARACTERS
+200|Paranormal investigators Egon Spengler, Raymond Stantz & Peter Venkman were this title group|Ghostbusters
+400|This silent comic played the title role in "The Saphead" & "Sherlock Jr.", but not in "The General\"|Buster Keaton
+600|In a 1996 release, they're the 2 lions Val Kilmer & Michael Douglas hunt down|The Ghost and the Darkness
+800|In 1993 Wes Studi played this Apache, "An American Legend\"|Geronimo
+1000|In a 1941 classic he dictates: "Dear Wheeler, you provide the prose poems. I'll provide the war.\"|Charles Foster Kane (in "Citizen Kane")

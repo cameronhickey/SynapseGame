@@ -1,0 +1,6 @@
+GRAY MATTERS
+200|Neurons & glia are the brain's 2 main types of these basic biological units|Cells
+400|Boron neutron capture therapy is an experimental treatment for these growths in the brain|Tumors
+600|This hemisphere of the brain generally governs musical & artistic creativity|Right
+800|This "cerebral" layer has sensory, motor & associative areas, the latter helping you play "Jeopardy!\"|Cortex
+1000|To move messages around the brain, chemicals called neurotransmitters jump these 1/10,000,000-inch gaps|Synapses

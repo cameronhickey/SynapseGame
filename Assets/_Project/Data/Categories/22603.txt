@@ -1,0 +1,6 @@
+THE WORK'S ORIGINAL LANGUAGE
+200|\"The Death of Ivan Ilyich\"|Russian
+400|\"The Count of Monte Cristo\"|French
+600|Ovid's "Metamorphoses\"|Latin
+800|Kafka's "The Metamorphosis\"|German
+1000|\"Pippi Longstocking\"|Swedish

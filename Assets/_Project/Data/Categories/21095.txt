@@ -1,0 +1,6 @@
+MULTI-WORD CAPITAL CITIES
+200|San Jose in this Central American nation is home to John F. Kennedy Park, memorializing his visit to the country in 1963|Costa Rica
+400|With a name meaning "new flower", this city replaced Entoto as the capital of Ethiopia in 1887|Addis Ababa
+600|This Malaysian capital lies in the country's tin & rubber belt; I used to wear one of those, but it chafed|Kuala Lumpur
+800|Developed by King Norodom, this capital city lies at the confluence of the Mekong, Bassac & Tonle Sap Rivers|Phnom Penh
+1000|U.S. Students at a medical school in this Caribbean nation's capital St. George's were rescued during a 1983 invasion|Grenada

@@ -1,0 +1,6 @@
+ANTI-SYNONYMS
+200|Discordant or paradoxical; Mary, Mary was quite this in a rhyme|contrary
+400|This letter separates the parties in Supreme Court case names|V
+600|As a preposition, it means "in contact with"; if you're on a deadline, it precedes "the clock\"|against
+800|A competitor; put the word between "un" & "ed" & you're the best, with no equal|rival
+1000|The minority party in Britain's Parliament is called "the loyal" this 10-letter word|opposition

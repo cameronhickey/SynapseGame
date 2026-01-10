@@ -1,0 +1,6 @@
+SCIENCE IS A BREEZE
+200|Breezes often transfer these tiny grains from male flower parts to female seed cones|pollen
+400|A flow of air from ocean to land, often producing clouds; or a drink of vodka, grapefruit & cranberry|a sea breeze
+600|Along with pressure & elevation, breezes are mainly caused by differences in this between adjacent areas|temperature
+800|When a migrating bird has this helping it along, it'll fly higher, where the effect is strongest|a tailwind
+1000|This scale includes light breeze (4-6 knots) & strong breeze (22-27 knots)|the Beaufort scale

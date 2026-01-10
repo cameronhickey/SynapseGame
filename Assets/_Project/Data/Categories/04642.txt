@@ -1,0 +1,6 @@
+SKY WATCHING
+200|There are approximately this many weeks between full moons|4
+400|Our solar system lies on one of the spiral arms of this galaxy|Milky Way
+600|Last seen in 1997, another 2,400 years will pass before the next visiti of Hale-Bopp, one of these|Comet
+800|This planet is the closest planet to Earth & is about the same size|Venus
+1000|The star Polaris doesn't seem to move through the sky because it is almost directly above this place|North Pole

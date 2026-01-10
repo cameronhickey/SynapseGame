@@ -1,0 +1,6 @@
+MIXED FRUIT
+200|MILE|lime
+400|NO GEAR|orange
+600|CHEAP|peach
+800|DONE WHEY|honeydew
+1000|AIN'T GREEN|tangerine

@@ -1,0 +1,6 @@
+COUNTRY BORDERS
+200|On its north, Denmark; on its south, Switzerland|Germany
+400|On its north, Egypt; on its southeast, Ethiopia|Sudan
+600|On its northwest, Croatia; on its southeast, Bulgaria|Serbia
+800|On its west, Guatemala; on its northwest, Mexico|Belize
+1000|On its northwest, Ecuador; on its southeast, Bolivia|Peru

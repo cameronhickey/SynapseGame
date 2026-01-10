@@ -1,0 +1,6 @@
+CORRUPTED WORDS
+200|\"A napron" shuffled a bit & became this item of clothing|an apron
+400|Acadian was corrupted into this word after a move from Canada to Louisiana|Cajun
+600|A Ragman Roll, an old catalog, became this word for nonsense or a list of petty procedures|rigamarole
+800|The name of William the Conqueror's census book came from this term for the final judgment|doomsday
+1000|\'D rather, from "would rather", became this choice you'd rather have|druthers

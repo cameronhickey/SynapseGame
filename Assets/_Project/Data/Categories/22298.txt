@@ -1,0 +1,6 @@
+3-WORD BOOK TITLES BY MIDDLE WORD
+200|Elizabeth Gilbert: "Pray\"|Eat Pray Love
+400|Truman Capote: "Cold\"|In Cold Blood
+600|Jojo Moyes: "Before\"|Me Before You
+800|Dr. Seuss: "in\"|Fox in Socks
+1000|W. Somerset Maugham: "Human\"|Of Human Bondage

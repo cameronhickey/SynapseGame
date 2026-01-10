@@ -1,0 +1,6 @@
+CARD GAMES
+200|When wild cards are used in straight poker, this replaces the royal flush as the highest type of hand|five of a kind
+400|In contract bridge, bidding & making one of these can get you 1500 points|grand slam
+600|This game has the same name as a Spanish number, which you must yell once you get down to one card left|Uno
+800|A dramatic piece of reportage on this card game said, "South could cash his last trump, pitching a club from dummy...\"|bridge
+1000|Also a nickname for our ex-Secretary of Defense, this card game comes in tonk & gin varieties|rummy

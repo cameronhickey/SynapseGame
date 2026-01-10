@@ -1,0 +1,6 @@
+IN MY ELEMENT
+200|This foe|enemy
+400|One of these, whether tuna or patty|melt
+600|This serve that hits the net before bouncing in|a let
+800|This strong alkaline solution|lye
+1000|This Mideast country|Yemen

@@ -1,0 +1,6 @@
+HARK, WHO SAID THAT?
+200|\"Upon such sacrifices, my Cordelia, the gods themselves throw incense\"|King Lear
+400|\"What's in a name? That which we call a rose by any other name would smell as sweet\"|Juliet
+600|\"Not that I loved Caesar less, but that I loved Rome more\"|Brutus
+800|\"The play's the thing, wherein I'll catch the conscience of the king\"|Hamlet
+1000|\"The Thane of Fife had a wife; where is she now? What, will these hands ne'er be clean?\"|Lady Macbeth

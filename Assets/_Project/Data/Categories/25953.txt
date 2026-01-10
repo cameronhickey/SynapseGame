@@ -1,0 +1,6 @@
+GOING DEEP ON THE FAST FOOD MENU
+200|A Salted Caramel Truffle Blizzard Treat|Dairy Queen
+400|The Pretzel Baconator|Wendy's
+600|Fiery Chicken Fries|Burger King
+800|Nacho Cheese Doritos Locos Tacos|Taco Bell
+1000|The Classic French Dip & Swiss|Arby's

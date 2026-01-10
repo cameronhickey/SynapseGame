@@ -1,0 +1,6 @@
+ARMY, NAVY, AIR FORCE OR MARINES
+200|Secretary of State Colin Powell|Army
+400|Walter Reed|Army
+600|\"The Right Stuff" guy Chuck Yeager after 1947|Air Force
+800|Al Gore, Jr.|Army
+1000|Assassin Lee Harvey Oswald|Marines

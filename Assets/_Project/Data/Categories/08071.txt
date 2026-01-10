@@ -1,0 +1,6 @@
+MOVIE CITIES
+200|City where "Beverly Hills Cop" begins|Detroit
+400|For his '84 flop Michael Caine should blame it on the script, not this city|Rio (de Janeiro)
+600|In a "Casablanca" flashback, Ingrid Bergman jilted Bogie in this city|Paris
+800|Blue collar backdrop to Jennifer Beals' "flashdancing\"|Pittsburgh
+1000|Although filmed in Czechoslovakia, "Amadeus" takes place mostly in this world capital|Vienna
