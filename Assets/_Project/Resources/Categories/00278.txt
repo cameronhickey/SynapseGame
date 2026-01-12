@@ -1,0 +1,6 @@
+TRAINS
+200|Railroad car for transporting liquids & gasses in bulk|a tank car
+400|The 13-mile Dai-Shimizu tunnel, world's longest, serves trains in this country|Japan
+600|In 1987 this "World's Favorite Hobo", known for songs of riding the rails, opened his own theater in Branson|Boxcar Willie
+800|Name of the nocturnal express this prisoner was waiting for|the Midnight Special
+1000|This city's subway is the oldest in America|Boston

@@ -1,0 +1,6 @@
+STATE QUARTERS
+200|The first 3 ships that reached Jamestown are docked on the reverse of this state's quarter|Virginia
+400|The Massachusetts quarter has this "timely" guy on the back|Minuteman
+600|There's a keystone & an outline of the state on its quarter|Pennsylvania
+800|Caesar Rodney's horseback ride backs this state's quarter, the first issued|Delaware
+1000|The paths of a river & a canal are on the back of this state's coin, as well as the line "Gateway to Freedom\"|New York State

@@ -1,0 +1,6 @@
+HALL OF FAMER BY POSITION
+200|Joe Namath, Joe Montana|quarterback
+400|Bill Russell, Bill Walton|center
+600|Bob Feller, Bob Lemon, Bob Gibson|pitcher
+800|Jack Lambert, Jack Ham|linebacker
+1000|Gump Worsley, Shrimp Worters, Rat Westwick|hockey goalie

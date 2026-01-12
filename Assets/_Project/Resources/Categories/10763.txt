@@ -1,0 +1,6 @@
+STATE FISH
+200|A Massachusetts cape is named for this state fish, a valuable food source|cod
+400|The largemouth species of this fish is the state fish of Alabama, Florida, Mississippi & Georgia|bass
+600|Called a muskie for short, it's Wisconsin's state fish|a muskellunge
+800|This largest species of salmon, Oregon's state fish, shares its name with an Indian tribe & may grow to 3 feet|the Chinook salmon
+1000|South Dakota chose the walleye, while North Dakota chose the northern type of this fish|a pike

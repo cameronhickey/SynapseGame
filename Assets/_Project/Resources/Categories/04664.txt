@@ -1,0 +1,6 @@
+BUG ME!
+200|2 anatomical features common to all insects are 6 mouth parts & 6 of these appendages|Legs
+400|The females of these insects lay their eggs only in water|Mosquitos
+600|Bees feed on both nectar & this granular dust-like substance necessary for germination|Pollen
+800|The 3 basic body parts of an insect are the head, abdomen & this part|Thorax
+1000|Insects are members of this largest animal kingdom phylum that also includes spiders & crustaceans|Arthropods

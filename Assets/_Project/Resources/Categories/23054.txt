@@ -1,0 +1,6 @@
+MUSIC SCALES
+200|The diatonic scale is widely used in classical music; this composer employed it in the finale of his 1824 9th Symphony|Beethoven
+400|These 2 "big" & "little" types of scale give contrasting happy & sad feelings to compositions|major & minor scales
+600|Musical scales are used to divide these intervals between similar notes with different frequencies, from Latin for "eighth\"|octaves
+800|This 5-note scale pops up pretty much everywhere in Western popular music|a pentatonic scale
+1000|There's a half-step between every 2 notes in this "colorful" scale pioneered by Arnold Schoenberg|the chromatic scale

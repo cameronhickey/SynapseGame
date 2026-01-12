@@ -1,0 +1,6 @@
+U.S. MILITARY BRANCHES
+200|Norman Schwarzkopf & Teddy Roosevelt were officers in this branch|the Army
+400|The Blue Angels are a part of it|the Navy
+600|Became its own branch under the National Security Act of 1947|the Air Force
+800|In 1805 they crossed 600 miles of desert to raise the American flag over a foreign fort|the Marines
+1000|About 1 out of every 5 members is an officer|the Air Force (Coast Guard accepted)

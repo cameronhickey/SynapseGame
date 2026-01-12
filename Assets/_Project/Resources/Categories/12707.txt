@@ -1,0 +1,6 @@
+WHICH IS TALLEST?
+200|Kobe, LeBron, Yao|Yao (Ming)
+400|Coast redwood, Douglas fir, giant sequoia|coast redwood
+600|Jimmy Carter, Bill Clinton, George W. Bush|Clinton
+800|Ararat, Kilimanjaro, Matterhorn|Kilimanjaro
+1000|San Francisco's Coit Tower, Chicago's UBS Tower, Wyoming's Devils Tower|Devils Tower

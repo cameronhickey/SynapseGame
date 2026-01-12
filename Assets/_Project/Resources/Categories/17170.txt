@@ -1,0 +1,6 @@
+SPACE SHUTTLE FLYOVERS
+200|This city's people got to see the Enterprise, but good luck getting a cab.|New York City
+400|Over this city, Endeavour shows us a way to beat the bridge traffic.|San Francisco
+600|Discovery took a different kind of trip to the mall over this city.|Washington, D.C.
+800|On a visit to Los Angeles, the shuttle took itself out to the ball game, flying over this venue.|Dodger Stadium
+1000|The flyover here is over this city & its 40-something-year-old dome|Houston

@@ -1,0 +1,6 @@
+SOUP ORIGINS
+200|Pasta e fagioli|Italy
+400|Gazpacho|Spain
+600|Winter melon soup|China
+800|Dashi|Japan
+1000|Avgolemono|Greece

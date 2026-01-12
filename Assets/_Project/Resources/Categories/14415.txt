@@ -1,0 +1,6 @@
+THE DREADED COUNTING CATEGORY
+200|In baseball it's how a pitcher-to-catcher-to-first double play is scored (this is an easy one)|1, 2, 3
+400|In poker if you've got a jack high straight, these are your 3 lowest cards|7, 8, 9
+600|If a Spanish child tells you to count to mil while he hides, you'll end with this trio of numbers|998, 999, 1000
+800|If Joe Biden counts senators to see if he has a quorum, he can stop after these 3 numbers|49, 50, 51
+1000|If you're counting out pennies to buy a first class stamp, you'll end with these 3 numbers|42, 43, 44

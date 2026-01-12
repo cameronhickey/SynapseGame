@@ -1,0 +1,6 @@
+CHATEAU "DIF\"
+200|Ranging from 1.3 to 3.6, degrees of this increase your potential score in Olympic diving|difficulty
+400|It's defined as the bending of light waves as they pass around the edge of an obstacle|diffraction
+600|Automotive gear allowing wheels to turn at separate speeds|the differential
+800|A reserved or restrained manner often resulting in fatal hesitation|diffidence
+1000|In anthropology, it's the spread of cultural features like tools or rituals from one group to another|diffusion

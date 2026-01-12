@@ -1,0 +1,6 @@
+DISASTER
+200|The earthquake & ensuing fire that struck this U.S. city in 1906 had a 7.9 magnitude & claimed more than 3,000 lives|San Francisco
+400|BP's Deepwater Horizon rig suffered an explosion in 2010, resulting in a massive oil spill in this body of water|the Gulf of Mexico
+600|In 2003 this Space Shuttle met with disaster when it broke apart during its descent on its 28th mission|the Columbia
+800|The USA's deadliest maritime disaster killed more than 1,000 people when the steamboat Sultana sank on this river in 1865|the Mississippi
+1000|In 1988 a terrorist bomb destroyed Pan Am Flight 103 over this Scottish town|Lockerbie

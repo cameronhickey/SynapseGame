@@ -1,0 +1,6 @@
+CAST
+200|Col. Pickering, Freddy Eynsford Hill, Eliza Doolittle|My Fair Lady
+400|Nurse Ratched, Randle P. McMurphy, Dr. Spivey|One Flew Over the Cuckoo's Nest
+600|Murray, The Pigeon Sisters, Felix Ungar|The Odd Couple
+800|Che, Eva, Peron's mistress|Evita
+1000|Clifford Bradshaw, The Kit Kat Girls, Herr Schultz|Cabaret

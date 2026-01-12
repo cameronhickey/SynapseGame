@@ -1,0 +1,6 @@
+MATH FORMULAS
+200|For a pyramid this, V, is equal to 1/3 (the area of the base times the height)|the volume
+400|C=pi d or 2 pi r, r being this|the radius
+600|Newton calculated that m, mass, times a, acceleration, gives you F, this|force
+800|This famous theorem in trigonometry is a2 plus b2 = c2|Pythagorean theorem
+1000|The formula to calculate the area of this figure is A=1/2bh|a triangle

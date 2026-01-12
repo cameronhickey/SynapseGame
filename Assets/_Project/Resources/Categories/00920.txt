@@ -1,0 +1,6 @@
+ASTRONOMERS
+200|Like this Italian, American astronomer Seth Nicholson discovered 4 moons of Jupiter|Galileo
+400|This PBS host determined that the high temperatures on Venus are caused by the greenhouse effect|Carl Sagan
+600|Karl Schwarzschild has a type of this named after him; Schwarz is a clue|Black hole
+800|His observatory on the Scandinavian island of Ven lacked a telescope; it hadn't been invented yet|Tycho Brahe
+1000|Members of this family found a division in Saturn's rings & ran the observatory in Paris|Cassini

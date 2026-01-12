@@ -1,0 +1,6 @@
+COOKING "P"s
+200|The name of this tubular pasta is from the Italian for "quill"; you can prepare it "alla vodka\"|penne
+400|The consistency of this Hawaiian dish eaten with the fingers ranges from "1-finger" to "3-finger" in thickness|poi
+600|To immerse food, often veggies, for a brief time in 212-degree water|parboil (poach accepted)
+800|Open wide for this Italian corn-based dish|polenta
+1000|This Vietnamese noodle dish consists of meat & rice noodles served in a bowl of beef broth & seasonings|pho

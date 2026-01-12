@@ -1,0 +1,6 @@
+BASEBALL ABBREVIATIONS
+200|E|an error
+400|RBI|runs batted in
+600|DP|double play
+800|HBP|hit by pitch
+1000|OBP|on-base percentage

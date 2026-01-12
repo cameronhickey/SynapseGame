@@ -1,0 +1,6 @@
+CHEMISTRY TEST
+200|The process of photosynthesis converts water & carbon dioxide into organic compounds & this gas|oxygen
+400|It's the branch of chemistry that studies elements & compounds containing little or no carbon, i.e. nonliving stuff|inorganic
+600|It's the general term for a chemical process that converts a substance into a different one; give us your gut...|reaction
+800|Mg is magnesium; Mn is this element|manganese
+1000|This unit with an animal name is used to measure extremely large numbers of atoms & other tiny particles|a mole

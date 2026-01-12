@@ -1,0 +1,6 @@
+GEOG. DICT. ABBREV.
+200|N.H.S. stands for a "national" this type of "site" in the national park system|historic
+400|A.F.B. stands for one of these military installations|Air Force Base
+600|\"est." (little e) stands for estimated; "Est." (big E) is this country|Estonia
+800|Res. can stand for a reservation or this type of body of water|reservoir
+1000|Pk. is park; to get an abbreviation for a scenic road, add these 2 letters|w & y

@@ -1,0 +1,6 @@
+THE END OF THE MARATHON
+200|In Copley Square|the Boston Marathon
+400|In front of Buckingham Palace|the London Marathon
+600|In Grant Park near Buckingham Fountain|the Chicago Marathon
+800|Near the Kapiolani Park bandstand|the Honolulu Marathon
+1000|In the Heldenplatz|Vienna

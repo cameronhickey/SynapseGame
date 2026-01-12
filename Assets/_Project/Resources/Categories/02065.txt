@@ -1,0 +1,6 @@
+VILLAINS
+200|This villain is jealous when Michael Cassio is appointed o the position of Othello's lieutenant|Iago
+400|Hiding in an apple barrel, Jim Hawkins hears this one-legged pirate planning mutiny|Long John Silver
+600|In this novel O'Brien, a member of the Inner Party, is Winston Smith's personal torturer & educator|1984
+800|It's not unusual to find Master Blilfil committing villainy in this Henry Fielding novel|Tom Jones
+1000|Monsieur Lheureux drives this Flaubert title character deeper & deeper into debt|Madame Bovary

@@ -1,0 +1,6 @@
+WHAT'S THEIR SPORT?
+200|The Indiana Fever, whose star Tamika Catchings retired in 2016|basketball
+400|The New York Empire, coached by Patrick McEnroe|tennis
+600|The Durham Bulls|baseball
+800|The Portland Timbers|soccer
+1000|Hoosier Team Pineapple, 2016 men's champs of the PVL, the "Premier" this "League\"|volleyball

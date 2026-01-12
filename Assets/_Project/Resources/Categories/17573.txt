@@ -1,0 +1,6 @@
+STATE LINES
+200|Stephen Foster: "I've come from ____ with my banjo on my knee\"|Alabama
+400|\"I am from ____. You have got to show me\"|Missouri
+600|Woody Guthrie: "From California to the ____ ____ Island\"|New York
+800|From the pen of screenwriter Noel Langley: "I've a feeling we're ____ ____ ____ ____\"|not in Kansas anymore
+1000|\"So we sang the chorus from Atlanta to the sea, while we were marching ____ ____\"|through Georgia

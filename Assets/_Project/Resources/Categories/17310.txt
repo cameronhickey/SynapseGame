@@ -1,0 +1,6 @@
+UNIFORMS
+200|Medical apparel named after the area & activity used in preparation for surgery|scrubs
+400|A neckerchief & a sash for merit badges are part of this organization's uniform|the Boy Scouts
+600|Employees working at Foot Locker dress in the uniform of someone in this other job|a referee
+800|See the mark of the beast on the uniform of this NBA team, 65 million years in the making|the (Toronto) Raptors
+1000|The uniform of a German soldier during World War I might have included a Pickelhaube, one of these|a (spiked) helmet

@@ -1,0 +1,6 @@
+VETERINARY AFFAIRS
+200|Contrary to myth, this part of a dog doesn't need to be cold, but should usually be moist|nose
+400|It's another common name for foot-and-mouth disease|hoof-and-mouth disease
+600|Vets use antibiotics on fish suffering from "rot" of this, whether dorsal or caudal|fin
+800|The Association of Avian Veterinarians says that to protect other birds, do this to a new bird for at least 6 weeks|isolate it
+1000|In 1987 researchers found a new virus in cats, known by this 3-letter abbreviation|FIV (Feline Immunodeficiency Virus)

@@ -1,0 +1,6 @@
+BEFORE & AFTER: SINGERS & WRITERS
+200|\"The Heart Of Rock & Roll" lead singer who also wrote "Alice in Wonderland\"|Huey Lewis Carroll
+400|\"Hit The Road Jack" with the singer & pianist who also came up with the theory of evolution by natural selection|Ray Charles Darwin
+600|Folk trio that was "Blowin' In The Wind" with the writer of "Frankenstein\"|Peter, Paul and Mary Shelley
+800|\"Super Freak" singer who also told "Tales of the South Pacific\"|Rick James Michener
+1000|\"Raindrops Keep Fallin' On My Head" singer who takes up a pen & creates "The Mayor of Casterbridge\"|B.J. Thomas Hardy

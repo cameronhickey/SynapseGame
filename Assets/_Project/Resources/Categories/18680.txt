@@ -1,0 +1,6 @@
+POLITICAL VOCABULARY
+200|At a convention, it's a person chosen to represent a state in the nomination process|a delegate
+400|The Nov. 8, 1972 L.A. Times headline was this type of huge "Victory for Nixon\"|landslide
+600|Alliterative term for a procedure counting up spoken yeas & nays|voice vote
+800|Phrase meaning shifting the burden of responsibility; Harry Truman said it stopped with him|passing the buck
+1000|It's a fundraiser who gathers lots of smaller donations into a big package of money for a candidate|a bundler

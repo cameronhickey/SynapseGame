@@ -1,0 +1,6 @@
+EUROPEAN LANGUAGES
+200|Modern dialects of this language include Gronings, West-Vlaams & Brabants|Dutch
+400|Although Spanish is widely spoken in Gibraltar, this language is used for schools & for official purposes|English
+600|Nynorsk, an official language of this country, was created by Ivar Aasen in the mid-19th century|Norway
+800|Dialects in the High form of this European language include Thuringian, Silesian & Franconian|German
+1000|It's also called Ruthenian, & you'll hear it spoken in Odessa & Sevastopol|Ukrainian

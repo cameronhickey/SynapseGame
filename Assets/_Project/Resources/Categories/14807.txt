@@ -1,0 +1,6 @@
+THE VEEP RIGHT BEFORE...
+200|Joe Biden|Dick Cheney
+400|Thomas Jefferson|John Adams
+600|Gerald Ford|Spiro Agnew
+800|George H.W. Bush|Walter Mondale
+1000|Hubert Humphrey|Lyndon Baines Johnson

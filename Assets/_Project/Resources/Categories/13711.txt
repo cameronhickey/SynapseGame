@@ -1,0 +1,6 @@
+NAME THAT CONTINENT
+200|Estado de Mato Grosso|South America
+400|The Filchner Ice Shelf|Antarctica
+600|Ayers Rock, or as the locals call it, Uluru|Australia
+800|The Kamchatka Peninsula|Asia
+1000|The Limpopo River|Africa

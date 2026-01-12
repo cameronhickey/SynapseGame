@@ -1,0 +1,6 @@
+SOWING "OTE"s
+200|It can mean to carry in a bag or the bag itself|tote
+400|A short, funny or interesting story about something that happened to you|anecdote
+600|Okay, okay, okay, okay, it's memorization through continued repetition|rote
+800|(Sarah of the Clue Crew presents the clue.) When two gametes like an egg & a sperm unite, they form a fertilized egg cell called this; once it divides, it's considered an embryo|a zygote
+1000|Theodore Roosevelt said this "is like a rifle: its usefulness depends on the character of the user\"|vote

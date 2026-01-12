@@ -1,0 +1,6 @@
+BOOK BINDINGS
+200|Eats, Shoots & ____ of Grass|leaves
+400|O'Neill, 1922 & Tolstoy, 1875-77: "Anna _____" & "Anna _____\"|Christie & Karenina
+600|Arms and ____ ____ Who Mistook His Wife for a Hat|the man
+800|Tolkien (a trilogy), 1954-55 & Golding, 1954: "Lord of the _____\"|Rings & Flies
+1000|Needful ____ Fall Apart|things

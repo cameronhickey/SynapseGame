@@ -1,0 +1,6 @@
+STATE BIRDS
+200|This "crazy" state bird of Minnesota is also called the great northern diver|the loon
+400|This pouched state bird of Louisiana has been designated an endangered species in North America|the pelican
+600|Add red to this state's name & you get this bird|Rhode Island
+800|You'll have "shear" delight using this term that describes the tail of Oklahoma's flycatcher|Scissored
+1000|Some call it a pheasant & others a partridge; as a state bird Pennsylvania calls it the ruffed this|grouse

@@ -1,0 +1,6 @@
+COMPLETES THE SONG TITLES
+200|\"Rainy Night In ____" & "Midnight Train To ____\"|Georgia
+400|\"Used To Be ___" & "Live While We're ____\"|Young
+600|\"Bad ____", "Jealous ____" & "Ordinary Average ____\"|Guy
+800|\"I Gotta ____" & "Hooked On A ____\"|Feeling
+1000|\"Jungle ____" & "Boot Scootin' ____\"|Boogie

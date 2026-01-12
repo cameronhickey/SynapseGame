@@ -1,0 +1,6 @@
+INTERNATIONAL "K"UISINE
+200|In Australia, some people make a soup from the tail of this marsupial; Run, Skippy!|a kangaroo
+400|A steak made from this Japanese beef can set you back well over a hundred dollars|Kobe beef
+600|It's also known as a Polish sausage|a Kielbasa
+800|Chicken or shrimp go equally well with this Szechwan dish that's also packed with peanuts|Kung Pao
+1000|(Alex tastes a South Korean delicacy.) Here in South Korea, almost every dish comes with this spicy pickled condiment; and let me tell you, it can be hot|kimchi

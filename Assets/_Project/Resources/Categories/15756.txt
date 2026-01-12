@@ -1,0 +1,6 @@
+OTHER USPS ABBREV.
+200|Aly: This narrow passageway|an alley
+400|Byp: This alternative route|a bypass
+600|Msn: A religious or diplomatic establishment|a mission
+800|Knl: One of these small hills, grassy or not|a knoll
+1000|Spgs: They're cold in the 89506 & hot in the 71901|springs

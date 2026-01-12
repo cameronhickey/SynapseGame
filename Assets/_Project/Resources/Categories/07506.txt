@@ -1,0 +1,6 @@
+AMERICAN TRAFFIC SIGNS
+200|Scouts take note, this activity permitted|hiking
+400|Ahoy!, signal ahead; this kind of signal|lighthouse
+600|Bring extra batteries, this kind of exploring ahead|cave exploring
+800|\"Station" yourself for these forest folks headquartered up ahead|rangers
+1000|This specific mountaineering activity permitted here|rock climbing

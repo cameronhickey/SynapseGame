@@ -1,0 +1,6 @@
+NUMBERS
+200|Police questioning, or a very severe burn|the third degree
+400|The most common sizes of these cards are 3x5, 4x6 & 5x8|index cards
+600|Numeric system using only 1 & 0|binary
+800|Number of points on a backgammon board|24
+1000|Despite Polk's campaign slogan, we neither reached this line nor fought|54-40

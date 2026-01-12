@@ -1,0 +1,6 @@
+\"IN\"
+200|The initials of computer giant "IBM" stand for this|International Business Machines
+400|Illegally obtained evidence is an example of this kind of evidence not allowed in a courtroom|Inadmissible evidence
+600|Kin-Tiki was a god of this South American people|the Incas
+800|Because they were too inexperienced or low in rank for the cavalry, foot soldiers came to be called this|infantry
+1000|The Spanish one was officially founded by Ferdinand & Isabella in 1478|the Inquisition

@@ -1,0 +1,6 @@
+ACTRESSES' ROLES
+200|\"Along Came Polly", "Office Space", "Love Happens\"|Jennifer Aniston
+400|\"Laugh-In", "Shampoo", "Private Benjamin\"|Goldie Hawn
+600|\"Sleeper", "Annie Hall", "The Godfather\"|Diane Keaton
+800|\"Boys on the Side", "Never Been Kissed", "Charlie's Angels\"|Drew Barrymore
+1000|\"Henry & June", "Pulp Fiction", "The Truth About Cats & Dogs\"|Uma Thurman

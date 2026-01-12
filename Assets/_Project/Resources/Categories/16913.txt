@@ -1,0 +1,6 @@
+RENTERS
+200|Under California law, if this rental agreement covers more than 1 year, it must be in writing|a lease agreement
+400|I need big rooms in my rental space, so I'm choosing one built before 1939 & thus called by this 6-letter term|prewar
+600|\"Owner Pays" means prospective landlords will pay this, the agent's fee to get a renter in|the commission
+800|Renters hope their new digs have plenty of these features that start with the way you end prayers|amenities
+1000|\"EIK" is short for this, meaning there's actually room for a table|an eat-in kitchen

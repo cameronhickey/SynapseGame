@@ -1,0 +1,6 @@
+FOODS THAT BEGIN WITH THE LETTER "Q\"
+200|This member of the pheasant family can be roasted, broiled or fried|quail
+400|It's a tortilla that's been filled, folded & fried|quesadilla
+600|This savory pie can have bacon bits added to the custard filling|quiche
+800|This yellow-skinned fruit has been used for centuries in jams & jellies|quince
+1000|Most biscuits are an example of these baked items that require little or no kneading|quick breads

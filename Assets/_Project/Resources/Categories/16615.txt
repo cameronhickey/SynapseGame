@@ -1,0 +1,6 @@
+YOU NEED A LAB TEST
+200|Checking your Vitamin B12 level may help diagnose the pernicious type of this disease|anemia
+400|A scratch test of the skin is used to detect these, such as to pollen, dust or mold|allergies
+600|One way to check for diabetes is FBG—measuring the level of this sugar in the blood after an 8-hour fast|glucose
+800|Chorionic villus sampling & an amniocentesis can make a prenatal diagnosis of this, DS for short|Down syndrome
+1000|A biopsy of the small intestine confirms a diagnosis of this digestive disease, an intolerance to gluten|celiac

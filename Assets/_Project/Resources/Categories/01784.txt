@@ -1,0 +1,6 @@
+FOOD PHRASES
+200|A person who can't accomplish a required task can't "cut" this|the mustard
+400|If you're in hot water, you may be in a "pretty", "sad", "fine" or "sweet" one of these|a pickle
+600|[Hi, I'm Freddie Jones of the NFL] I get hungry when I look at these marks that run across the yard lines|Hash marks
+800|This 3-word phrase meaning "to overact" comes from a 19th century song|Ham it up
+1000|Meaty phrase meaning to increase the force or quantity of something|Beef it up

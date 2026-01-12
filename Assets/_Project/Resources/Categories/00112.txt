@@ -1,0 +1,6 @@
+LAW
+200|A second prosecution for the same offense, or this round|double jeopardy
+400|\"Justice is incidental to law and order", said this former FBI chief|J. Edgar Hoover
+600|Civil law in France & Louisiana is based on his code|Napoleon
+800|To avoid litigation, this type of insurance or divorce avoids affixing blame|no-fault
+1000|While a summons asks nicely, this demands your appearance in court|a subpoena

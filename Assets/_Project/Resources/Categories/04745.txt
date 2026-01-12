@@ -1,0 +1,6 @@
+SHAKESPEAREAN GEOGRAPHY
+200|The Boar's Head Tavern is one of many Shakespearean settings in this city|London
+400|In "Henry VI, Part 1" it's a setting; in "Romeo and Juliet" it's a suitor for Juliet's hand|Paris
+600|Messina, where "Much Ado About Nothing" takes place, is a port on this Italian island|Sicily
+800|Hamlet's father, the king of Denmark, killed Fortinbras' father, king of this nearby country|Norway
+1000|Theseus, duke of this city in "A Midsummer Night's Dream", doesn't run into fellow resident Timon|Athens

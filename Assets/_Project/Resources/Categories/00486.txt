@@ -1,0 +1,6 @@
+STATE MOTTOES
+200|Oregon's motto, or the Teamsters, for example|\"(The) Union\"
+400|You can pack crystal in the state motto of NY, which means "ever upward\"|\"Excelsior\"
+600|Neighbor of Virginia whose license plates say it's "First In Freedom" & "First In Flight\"|North Carolina
+800|This motto of Kentucky about sticking together was also a song by The Brotherhood of Man|\"United we stand, divided we fall\"
+1000|The beehive on its license plates & this state's motto, "Industry", mean hard work, not factories|Utah

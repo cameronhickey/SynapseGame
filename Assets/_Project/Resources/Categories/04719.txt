@@ -1,0 +1,6 @@
+5 MOVIES
+200|This 1980 comedy starred Jane Fonda, Lily Tomlin & Dolly Parton as office workers|9 To 5
+400|The title of this 1970 Jack Nicholson film refers to musical compositions, not toast|Five Easy Pieces
+600|George Roy Hill directed the 1972 film adaptation of this Kurt Vonnegut war novel|Slaughterhouse Five
+800|The title of a 1982 Cher film asks Jimmy Dean to "come back to" this place|The Five and Dime
+1000|Danny Kaye starred in this 1959 biography of Red Nichols named for his backing group|The Five Pennies

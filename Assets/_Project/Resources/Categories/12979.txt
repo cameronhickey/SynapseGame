@@ -1,0 +1,6 @@
+NAME THEIR ISLAND CHAIN
+200|Niihau & Lanai|the Hawaiian Islands
+400|St. John & St. Thomas|the U.S. Virgin Islands
+600|Unimak & Unalaska|the Aleutian Islands
+800|New Providence & Turks & Caicos|the Bahamas
+1000|San Cristobal & Guadalcanal|the Solomons

@@ -1,0 +1,6 @@
+FILE UNDER "AE\"
+200|Industry that makes shuttles & satellites|aerospace
+400|This sea's name may be from a Greek king or an Amazon queen|the Aegean
+600|The term for this philosophy branch concerned with the study of beauty was coined in 1735|aesthetics
+800|Virgil's vagabond|Aeneas
+1000|Popular in the 19th century, this stringed instrument is played by the wind|the Aeolian (harp)

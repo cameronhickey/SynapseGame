@@ -1,0 +1,6 @@
+FROM THE U.S. CITIZENSHIP TEST
+200|If the president & veep can no longer serve, this person becomes president|the Speaker of the House
+400|The U.S. Supreme Court is made up of this many justices|9
+600|This 3-word separation of power keeps each branch of government from gaining too much over the others|checks and balances
+800|The 3 branches of the U.S. federal government|Executive, Judicial & Legislative
+1000|These "Northern" islands in the Pacific are a U.S. territory|the Northern Mariana Islands

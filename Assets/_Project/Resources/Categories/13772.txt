@@ -1,0 +1,6 @@
+U.S. STATES' LARGEST ISLANDS
+200|Antelope Island in the Great Salt Lake|Utah
+400|Martha's Vineyard|Massachusetts
+600|Kodiak Island|Alaska
+800|Padre Island|Texas
+1000|Isle Royale|Michigan

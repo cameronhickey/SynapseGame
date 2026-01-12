@@ -1,0 +1,6 @@
+FISH ANAGRAMS
+200|Lee thinks this slimy fish makes a fine pet|eel (from Lee)
+400|Doc eats a lot of this fish known for its liver oil|cod (from Doc)
+600|You can't lose if you serve this flatfish for dinner|sole (from lose)
+800|I make a mad dash for this fish when it's baked on a wooden plank|shad (from dash)
+1000|Dolly Parton might know this game fish springs out of the water|tarpon (from Parton)

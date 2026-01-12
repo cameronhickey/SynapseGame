@@ -1,0 +1,6 @@
+THE 5 W's IN OTHER LANGUAGES
+200|French: qui|who
+400|Italian: quando|when
+600|Norwegian: hva|what
+800|Spanish: donde|where
+1000|Swedish: varfor|why

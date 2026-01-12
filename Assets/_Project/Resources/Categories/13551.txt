@@ -1,0 +1,6 @@
+____ OF ____ BOOKS
+200|This classic by Victor Hugo opens on Jan. 6, 1482|The Hunchback of Notre Dame
+400|In this Jack London novel, Francois says, "Nevaire such a dog as dat Buck!\"|The Call of the Wild
+600|In this memoir, Isak Dinesen wrote, "Denys Finch-Hatton... lived in my house between his safaris\"|Out of Africa
+800|This 7-volume novel is based on Marcel Proust's life|Remembrance of Things Past
+1000|This Conrad book describes Marlow as a seaman, but a wanderer, too|Heart of Darkness

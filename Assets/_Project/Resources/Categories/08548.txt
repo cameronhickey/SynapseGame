@@ -1,0 +1,6 @@
+GET A ROOM!
+200|That erupting volcano is no mirage—you're at The Mirage in this city|Las Vegas
+400|Take a romantic bath in the Garden of Eden Apple Suite at Caesars Pocono Palace—your tub is shaped like this|a heart
+600|Get 40 whacks—oops, we mean 40 winks—at the Mass. home of this accused ax murderess; it's a bed & breakfast|Lizzie Borden
+800|Throw a stag party at London's Dorchester Hotel, like this man did on Nov. 19, 1947—before his royal wedding|Prince Philip
+1000|Get an in-room massage for your dog at the Santa Barbara resort owned by this actor, TV's Daniel Boone|Fess Parker

@@ -1,0 +1,6 @@
+CATS & DOGS
+200|Dog who went from "Petticoat Junction" to international stardom|Benji
+400|This spotted dog is also known as the "firehouse dog\"|a dalmatian
+600|Breeders once considered it desirable for these "Thai" cats to have crossed eyes|Siamese
+800|The Airedale type of this dog is named for the Aire Valley in Yorkshire, England|terrier
+1000|The ocicat is so named because the daughter of its original breeder thought it looked like this wild cat|ocelot

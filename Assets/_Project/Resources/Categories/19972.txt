@@ -1,0 +1,6 @@
+BASIC GEOGRAPHY
+200|This northeast African river flows for more than 4,100 miles|the Nile
+400|From here in southern California, do you know the way to this Central American capital city? We'll show you|San Jose
+600|It's the capital of Montana; also, it's illegal to annoy passersby on sidewalks with a revolving water sprinkler there|Helena
+800|You may get lightheaded in Gar, a town about 15,000 feet above sea level, in this autonomous region of China|Tibet
+1000|Canada's easternmost province is Newfoundland & this|Labrador

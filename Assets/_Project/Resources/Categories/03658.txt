@@ -1,0 +1,6 @@
+FLOWER
+200|There's no need to keep mum about it, mum is short for this flower|Chrysanthemum
+400|The opium variety of this flower yields a powerful narcotic, & non-narcotic seeds used in baking|Poppy
+600|Blue Moon & Dainty Bess are hybrid tea varieties of this flower|Rose
+800|Bergamot is also called the "balm" of these creatures to which it's highly attractive|bees
+1000|Butterflies are especially fond of these flowers whose name sounds like you just can't wait for them to grow|Impatiens

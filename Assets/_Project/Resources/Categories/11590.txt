@@ -1,0 +1,6 @@
+STUDENT & TEACHER
+200|His teacher Ghirlandaio frescoed the Sistine Chapel's north wall; he frescoed the ceiling|Michelangelo (Buonarroti)
+400|Hermann Minkowski taught him math in the 1890s & couldn't believe it when he became a great scientist|(Albert) Einstein
+600|Isocrates didn't teach Iplato but did teach Timotheus, a great general for this city-state|Athens
+800|Mozart & Haydn each taught this composer, briefly; maybe he just wouldn't listen|(Ludwig van) Beethoven
+1000|Mikhail Botvinnik, a world champion at this, was a teacher of Garry Kasparov|chess

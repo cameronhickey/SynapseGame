@@ -1,0 +1,6 @@
+FOODS, STUFFED
+200|For a tasty appetizer, try crab-stuffed portobello ones of these|mushrooms
+400|Hot out of the oven is one of these stuffed pizza turnovers of Naples|a calzone
+600|The Russian dish golubtsy is traditionally made with these leaves, stuffed & rolled|cabbage leaves
+800|This Mexican dish whose name means "stuffed pepper" is typically a green chile stuffed with cheese, covered in batter & fried|a chile relleno
+1000|Miss Leone's "Fire in the Pit" are queen ones of these stuffed with hot peppers|olives

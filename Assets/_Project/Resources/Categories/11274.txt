@@ -1,0 +1,6 @@
+A NUMBER FROM ONE TO 10
+200|Humps on a Bactrian|two
+400|Teaspoons in a tablespoon|three
+600|Faces on a cube|six
+800|The number of minutes in an IBF boxing round|three
+1000|Pillars of Islam|five

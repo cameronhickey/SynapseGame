@@ -1,0 +1,6 @@
+PROJECTILES
+200|In this sport you carry your projectiles in a quiver|archery
+400|At the end of "The Dating Game", Jim Lange invited couples to throw these "projectiles" to the audience|kisses
+600|Star-shaped projectiles were in the arsenal of these feudal Japanese mercenaries similar to samurai|ninjas
+800|The projectiles fly at 150 mph & can kill in this fronton-based game|jai alai
+1000|It's the discharge of several projectiles or a return tennis shot made before the ball hits the ground|a volley

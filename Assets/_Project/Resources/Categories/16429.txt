@@ -1,0 +1,6 @@
+PIZZA-PALOOZA
+200|While other cheeses can be used as the base for pizza, this one is the most popular in America|mozzarella
+400|In Japan favorite pizza toppings include unagi, this snakelike fish|eel
+600|Hold the cheese & pepperoni! This chain also offers chicken wings for delivery from its WingStreet menu|Pizza Hut
+800|In the 1940s Chicago's Pizzeria Uno originated this thick, hyphenated style of pizza|deep-dish
+1000|Now a frozen brand, it was introduced at a Wisconsin tavern across from a cemetery|Tombstone

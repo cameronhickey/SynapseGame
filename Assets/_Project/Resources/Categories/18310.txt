@@ -1,0 +1,6 @@
+DOUBLE "O\"
+200|Lunar term for working a second job at night|moonlighting
+400|A row of icons on a computer screen representing tasks within a program|toolbar
+600|A cavalry soldier or mounted police officer; what a...|trooper
+800|A large terrestrial monkey such as the chacma|baboon
+1000|An area of shallow water separated from the sea by dunes|lagoon

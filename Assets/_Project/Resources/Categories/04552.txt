@@ -1,0 +1,6 @@
+WAR STORIES
+200|In this Joseph Heller novel, Captain Yossarian pleads insanity in an attempt to get grounded from flying|\"Catch-22\"
+400|In "Slaughterhouse Five", Billy Pilgrim survives the firebombing of this German city|Dresden
+600|\"A Farewell to Arms", "Goodbye to All That\"|World War I
+800|\"The Splendid Little War", "The Rough Riders\"|The Spanish-American War
+1000|\"Hold Back the Night", "The Coldest War\"|The Korean War

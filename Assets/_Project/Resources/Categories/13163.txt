@@ -1,0 +1,6 @@
+NFL LOGOS
+200|One of the 2 teams whose logos contain handheld weapons|the Oakland Raiders (or the Tampa Bay Buccaneers)
+400|The hair on the mustachioed fellow of this team's logo is definitely blond|the Vikings
+600|Both of the teams in this state have stars in their logos|Texas
+800|2 of the colors on this champion team's logo refer to coal & ore|the Steelers
+1000|Flipping the item on this team's logo upside down should bring bad luck according to superstition|the (Indianapolis) Colts

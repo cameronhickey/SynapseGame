@@ -1,0 +1,6 @@
+GET "HIP\"
+200|During Prohibition, it was someone who wore a hip flask, not ironic T-shirts & skinny jeans|a hipster
+400|4-word phrase meaning to make a snap decision, or to fire without aiming|to shoot from the hip
+600|A TV commercial for this kids' game around since the '70s said, "We're in an eating race\"|Hungry Hungry Hippos
+800|Hope you went to school on this seahorse-shaped region of the brain|the hippocampus
+1000|A popular modern version of this says, "Above all, I must not play at God\"|the Hippocratic Oath

@@ -1,0 +1,6 @@
+ALL THE MARBLES
+200|It's the color of pure marble|white
+400|This 180-foot-tall marble landmark is now over 13 feet out of perpendicular|Leaning Tower of Pisa
+600|This marble statue was carved between 1501-1504 as a symbol of the independent Florentine Republic|David
+800|Though found on a Greek isle in 1820, this statue is usually called by the name of the Roman love goddess|Venus de Milo
+1000|Of the 7 Ancient Wonders, this one was a marble tomb|Mausoleum at Halicarnassus

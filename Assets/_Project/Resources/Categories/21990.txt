@@ -1,0 +1,6 @@
+CLUE "N" RESPONSE
+200|Joan Jett sang "I love" this|\"I Love Rock 'N' Roll\"
+400|With this product you toss your chicken in a bag with bread crumbs before it goes in the oven|Shake 'n Bake
+600|Beginning in 2016, this Axl Rose band's "Not in This Lifetime" tour played to more than 5 million fans|Guns N' Roses
+800|The name of this Clairol hair color brand emphasizes how simple it is|Nice 'N Easy
+1000|This rap duo throws a pajama jammy jam in "House Party 2\"|Kid 'n Play

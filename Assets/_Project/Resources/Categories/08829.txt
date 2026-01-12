@@ -1,0 +1,6 @@
+MEN & WOMEN OF LETTERS
+200|Thomas Stearns...|T.S. Eliot
+400|Herbert George...|H.G. Wells
+600|Phyllis Dorothy...|P.D. James
+800|Henry Louis...|H.L. Mencken
+1000|Wystan Hugh...|W.H. Auden

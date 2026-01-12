@@ -1,0 +1,6 @@
+TALKIN' BASEBALL
+200|When a player "hits for the cycle", it means he hits a single, a double, a triple & this all in the same game|Home run
+400|Though this pitch was banned in 1920, 17 pitchers were allowed to keep using it; the last was Burleigh Grimes in 1934|Spitball
+600|The Cactus League refers to spring training games in the Southwest; this term refers to those played in Florida|Grapefruit League
+800|This Dodger manager was referring to the New York Giants when he reportedly said, "Nice guys finish last\"|Leo Durocher
+1000|The 1982 World Series was known as the "Suds Series" because these 2 teams had beer connections|Milwaukee Brewers & St. Louis Cardinals

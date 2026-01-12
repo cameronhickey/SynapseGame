@@ -1,0 +1,6 @@
+GEOGRAPHIC CAPES
+200|This cape extends like an elbow on the Massachusetts coastline|Cape Cod
+400|In 1957 the 1st intermediate range ballistic missile was fired from here|Cape Canaveral
+600|Known for its Victorian houses, Cape May, on this state's shore, is one of the oldest U.S. resorts|New Jersey
+800|If you sail from Cape Fear to Cape Lookout to Cape Hatteras, you've gone along this state's coast|North Carolina
+1000|The northernmost cape in the U.S. is this point north of the northernmost town|Point Barrow

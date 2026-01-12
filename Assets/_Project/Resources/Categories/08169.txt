@@ -1,0 +1,6 @@
+ODD ALPHABETS
+200|In sign language, this letter can hold Winston Churchill's cigar|V
+400|It was assigned one dot in Morse code because of its common use|E
+600|One dot in Braille symbolizes this letter meaning "one\"|A
+800|Of the English letters in the word "gnome", the 1 not to have a Greek letter look-alike|the G
+1000|If a football ref held flags while signaling a 6 point score, it could semaphore this apt letter|T

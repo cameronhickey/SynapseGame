@@ -1,0 +1,6 @@
+LEARN SOME GERMAN
+200|A greeting: Guten Morgen!|good morning
+400|A place to get your feet wet: Der Strand|the beach
+600|A weather adjective: neblig|foggy
+800|A musical instrument: Das Klavier|the piano
+1000|How about some seafood: Hummer|lobster

@@ -1,0 +1,6 @@
+\"T"3
+200|The Holy Bible is made up of the "Old" & "New" ones|testaments
+400|Gouverneur Morris was responsible for much of the wording of this in 1787|the Constitution
+600|While not an M.D., this person can still diagnose eye problems & prescribe glasses|optometrist
+800|It's the lever pilots use to control the power & speed of many planes|throttle
+1000|To create an opera, you need a composer & this person who writes or adapts the text|librettist

@@ -1,0 +1,6 @@
+VOYAGERS
+200|Of Columbus' 3 ships in 1492, the Nina & Pinta were smaller than this one|the Santa Maria
+400|Among the voyagers on this ship that set sail April 12, 1912 were Benjamin Guggenheim & J. Bruce Ismay|the Titanic
+600|John Wesley Powell led the first successful navigation down this river through the Grand Canyon|the Colorado River
+800|He was fit enough to survive for 5 years on the HMS Beagle working as a naturalist|Charles Darwin
+1000|Literary captain who was master of the whaling ship Pequod|Ahab

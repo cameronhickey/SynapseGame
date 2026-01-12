@@ -1,0 +1,6 @@
+THE MOVIE MAP
+200|Bill Murray as FDR: "Hyde Park on ____\"|the Hudson
+400|J. Lo is the help: "Maid in ____\"|Manhattan
+600|A Kurt Russell adventure: "Big Trouble in Little ____\"|China
+800|Nick Nolte as TJ: "Jefferson in ____\"|Paris
+1000|An Orson Welles classic: "The Lady from ____\"|Shanghai

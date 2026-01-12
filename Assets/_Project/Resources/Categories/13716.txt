@@ -1,0 +1,6 @@
+CAN I GET A WITNESS?
+200|Ideally, witness to this document shouldn't be named in its bequests|a will
+400|A target witness is one the government calls before this jury & really wants to indict|the grand jury
+600|In olden law, compurgators were these witnesses who swore to faith in the accused, not to knowing the facts|character witnesses
+800|(Jimmy of the Clue Crew reports from a courtroom.) A witness doesn't have to swear to tell the truth; some, for reasons of religion or lack of religion, prefer this word, also an option in the presidential oath of office|affirm
+1000|It's in plain sight that the U.S. law enforcement service is responsible for witness security|the U.S. Marshals Service

@@ -1,0 +1,6 @@
+ANIMALS WITH BEASTLY NAMES
+200|Some species of this creature with a mythic beast in its name can reach speeds of 30 miles per hour|a dragonfly
+400|These rodents of the American West don't just bark; their sounds can tell the colony, "Tall human in blue shirt approaching\"|a prairie dog
+600|This tree-dwelling carnivore of Asia combines ursine and feline creatures in its name|a cat-bear (or bear-cat)
+800|The horned toad of the Americas isn't a toad at all, nor even a frog, but one of these reptiles|a lizard
+1000|Not actually swine but rodents, they may be pets, lab research subjects or food, depending where you are|guinea pigs

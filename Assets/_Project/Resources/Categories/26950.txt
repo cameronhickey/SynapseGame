@@ -1,0 +1,6 @@
+PRESIDENTIAL CITIES
+200|Although Quincy, Mass. wasn't named for this president, Quincy, Illinois was|John Quincy Adams
+400|The meat-packing firm of Oscar Mayer & Co. is one of this Wisconsin capital's largest private employers|Madison
+600|Home of Lincoln University, this Missouri capital was named for an earlier president|Jefferson City
+800|This Texas city was named for the man who became president in 1841 after only 1 month as vice president|Tyler
+1000|This city on Africa's west coast is named for the man who was U.S. president in 1822|Monrovia

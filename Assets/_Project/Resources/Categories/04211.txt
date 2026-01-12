@@ -1,0 +1,6 @@
+BROADCAST
+200|It's the "Peacock Network\"|NBC
+400|This one of the "Big Three" networks used to have phonograph in its name|CBS
+600|The first radio broadcast of a presidential inaugural address was this president's in 1921 over KDKA|Warren G. Harding
+800|The broadcasting service of the U.S. Information Agency, abbreviated VOA|Voice of America
+1000|Bud Paxson, who founded PAX TV in 1998, set up this buyer's delight in 1982|Home Shopping Network

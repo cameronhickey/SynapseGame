@@ -1,0 +1,6 @@
+HAVE AN AGUILA!
+200|\"Águila" is Spanish for one of these birds|an eagle
+400|Mr. Águila is a famed luchador, one of these entertaining athletes|a wrestler
+600|In both 1915 & 1941 British passenger ships named SS Aguila were sunk by these vessels|submarines
+800|Atlético Nacional & Independiente Medellín compete in Liga Águila, this country's top soccer league|Colombia
+1000|Population 798, Aguila, Arizona lies just northwest of Phoenix in this most-populous Arizona county|Maricopa

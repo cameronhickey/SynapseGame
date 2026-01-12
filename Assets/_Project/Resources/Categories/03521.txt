@@ -1,0 +1,6 @@
+SPELL CHECK
+200|Think back and spell...|P-R-I-M-O-R-D-I-A-L
+400|Feel no pain as you spell...|A-N-E-S-T-H-E-S-I-A
+600|Don't lose your way as you spell...|L-A-B-Y-R-I-N-T-H
+800|Overflow with knowledge & spell...|C-O-R-N-U-C-O-P-I-A
+1000|It'll be peculiar if you can't spell...|I-D-I-O-S-Y-N-C-R-A-S-Y

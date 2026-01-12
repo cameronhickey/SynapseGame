@@ -1,0 +1,6 @@
+COUNTRIES' CURRENCIES
+200|Like Mexico, the Philippines uses this as its basic monetary unit|the peso
+400|(Kelly of the Clue Crew presents the clue from Sydney, Australia.) Australia was the first country to start making bills out of this; they improve security & last much longer than paper bills, if you don't spend them|plastic
+600|It's the currency in common to India & Sri Lanka|the rupee
+800|As you might guess, the lats is the basic monetary unit of this Baltic country|Latvia
+1000|This country's Rand was named for a gold mining region|South Africa

@@ -1,0 +1,6 @@
+COUNTRY COOKING
+200|A German specialty, braunschweiger is a smoked sausage traditionally made from this organ meat|Liver
+400|It's the traditional meat in souvlaki, a popular Greek dish|Lamb
+600|Tandoori chicken|India
+800|Moussaka|Greece
+1000|Pad see-ew|Thailand

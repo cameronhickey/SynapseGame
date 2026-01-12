@@ -1,0 +1,6 @@
+PLACE YOUR FAST FOOD ORDER
+200|A Mocha Frappé & a Filet-O-Fish|McDonald's
+400|A drumstick & thigh Fill Up Meal & some Extra Crispy tenders|KFC
+600|A Meatball Marinara footlong & an Italian B.M.T. Melt|Subway
+800|Black Pepper Angus Steak & some Beijing Beef|Panda Express
+1000|A Chalupa Supreme & Nachos Bellgrande|Taco Bell

@@ -1,0 +1,6 @@
+MEMORY
+200|So you have a good memory for these? So do chimps, who in a 2023 study could recognize ones they hadn't seen for 25 years|faces
+400|RAM, computer memory used for the temporary storage of data, is short for this|random-access memory
+600|A hafiz or hafiza is someone who has memorized this|the Quran
+800|Serta offers Cool Action Gel Memory Foam for "more support where you need it most" in one of these|a mattress
+1000|In comparing computer memory info, think before you give us this, the number of megabytes in a gigabyte|1,024

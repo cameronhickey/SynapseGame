@@ -1,0 +1,6 @@
+POPES UNDER THE SCOPE
+200|The pope alone creates Catholic clergy of this rank, in a private assembly in which they receive their red hats|cardinal
+400|The pope's official titles include Vicar of Christ & this of Rome|Bishop
+600|Pope Francis has likened traveling by this conveyance to being in a sardine can|the popemobile
+800|Called the world's smallest army, this corps of 135 has officially protected the pope since 1506|the Swiss Guard
+1000|In 1492, Pinturicchio worked blue & other colors decorating apartments for Alexander VI, named for this family of Alexanders|a Borgia

@@ -1,0 +1,6 @@
+JOBS
+200|The USA's chief health educator is this "General\"|the Surgeon
+400|Every day, 650 tons of coal were shoveled into the Titanic's furnaces by the men with this job|stokers
+600|Back in 1898 William Morris went into business as one of these|a talent agent
+800|Generally, U.S. tenure-track jobs descend from Professor to Associate Prof to this kind of Professor|Assistant Professor
+1000|Mr. Kenge, from the legal morass of Dickens' "Bleak House", is this type of non-pleading lawyer|a solicitor

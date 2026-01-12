@@ -1,0 +1,6 @@
+COLLEGE DEGREES
+200|A B.L.S. is a bachelor of this science—shhhh!|library science
+400|A M.S.W. is a master of this kind of work|social work
+600|An M.S. in C.E. is a Master of Science in Civil Engineering; an M.S. in Ch.E. is this|Chemical Engineering
+800|A B.D. is a Bachelor of this; an M.Div. is a Master of it—let us pray|Divinity
+1000|If you're a financial wizard, you know a D.B.A. is this|a Doctor of Business Administration

@@ -1,0 +1,6 @@
+INSECTS
+200|These insects flash yellow lights to find mates|fireflies (or lightning bugs or glowworms)
+400|Its name comes from its worshipful appearance, not its voracious appetite|a praying mantis
+600|Insects use them to smell & feel, & sometimes even to taste & hear|antennae
+800|Sensory organs located almost anywhere, but never on an insect's head|ears
+1000|Balls of naphthalene are protection against them|moths

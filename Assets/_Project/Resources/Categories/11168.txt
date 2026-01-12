@@ -1,0 +1,6 @@
+I WROTE THAT
+200|\"Roughing It", "Life on the Mississippi\"|Mark Twain
+400|\"Nicholas Nickleby", "Barnaby Rudge", "Martin Chuzzlewit\"|Charles Dickens
+600|A book about a fire-related goblet, a book about a "Prince" with blood issues|J.K. Rowling
+800|\"Misery", "Desperation", "The Green Mile\"|Stephen King
+1000|\"Raise High the Roof Beam, Carpenters", "Seymour: An Introduction\"|J.D. Salinger

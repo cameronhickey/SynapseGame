@@ -1,0 +1,6 @@
+OFFICIAL STATE CREATURES
+200|Its state insect is the Baltimore Checkerspot Butterfly|Maryland
+400|Though Utah's not on the ocean, this is its state bird|seagull
+600|It's not odd that its state fish is the cod|Massachusetts
+800|The beaver is a "dam" fine choice as its state animal|Oregon
+1000|The dolphin & the manatee are in the swim as its state marine mammals|Florida

@@ -1,0 +1,6 @@
+ROBOTS
+200|These 2 robots from a galaxy far, far away first appeared in a 1977 hit movie|R2-D2 & C-3PO
+400|Anthony Daniels & Kenny Baker, who played these 2 robots, are the only actors to appear in all 6 "Star Wars" films|R2-D2 & C-3PO
+600|A design for a self-propelled robot vehicle was drawn up by this man around 1478; built in 2004, it worked|da Vinci
+800|This yellow-eyed "Star Trek" android had a more human-like brother, Lore, also played by Brent Spiner|Data
+1000|In "I, Robot", a sci-fi collection by this author, a robot becomes self-aware & begins to feel emotions|(Isaac) Asimov

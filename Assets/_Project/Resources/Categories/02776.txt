@@ -1,0 +1,6 @@
+PARTICLE PHYSICS
+200|The theoretical tachyons are said to exist only at speeds faster than the speed of this|light
+400|Term for the intrisnic angular momentum of a particle, or more simply, rapid rotation|spin
+600|To get an element's mass number, add its protons & these|neutrons
+800|Some say particle physics goes back to the discovery of this particle in 1897|electron
+1000|Color is a property of these fundamental particles that come in strange & charm types|quarks

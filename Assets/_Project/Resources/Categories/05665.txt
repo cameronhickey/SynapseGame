@@ -1,0 +1,6 @@
+METHOD OF EXECUTION
+200|Lady Jane Grey, 1554|Beheading
+400|Pvt. Eddie Slovik, 1945|Firing Squad
+600|Bruno Hauptmann, 1936|Electric Chair
+800|Caryl Chessman, 1960|Gas Chamber
+1000|Joachim Von Ribbentrop, 1946|Hanging

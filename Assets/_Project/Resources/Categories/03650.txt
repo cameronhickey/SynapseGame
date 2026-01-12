@@ -1,0 +1,6 @@
+WORD WORDS
+200|Term for a word with a similiar meaning to another, Roget's lists "Roget's" for "thesaurus\"|Synonym
+400|These terms are, you know, the 2 examples of embololalia in this clue that, like, stall for time|You know & like
+600|A speaker's use & choice of words; with the suffix "ary", it's a list of all the words & their meanings|Diction
+800|To tell the truth, mendaciloquence, is the art of doing this — artfully|Lying
+1000|From French for a stencil — something used over again — it's a too oft-repeated phrase|Cliche

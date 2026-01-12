@@ -1,0 +1,6 @@
+FIRES
+200|The damage a fire did to this city was estimated at 10 million pounds, & that was back in 1666|London
+400|While Rome was burning in 64 A.D., this ruler was about 35 miles away at Antium|Nero
+600|This city's main public library was hit by a major fire in April 1986, & again 5 months later|Los Angeles
+800|In 1699, after this town burned 3 times, the people of Virginia moved the capital to Williamsburg|Jamestown
+1000|9 years after its big fire, this rebuilt city hosted the 1915 Panama-Pacific International Expo|San Francisco

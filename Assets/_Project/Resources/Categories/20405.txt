@@ -1,0 +1,6 @@
+CAPITAL BIRTHPLACES
+200|Child psychologist Anna Freud|Vienna
+400|Martina Navratilova|Prague
+600|Pope Francis I|Buenos Aires
+800|Idris Elba|London
+1000|Philosopher Baruch Spinoza|Amsterdam

@@ -1,0 +1,6 @@
+LOST "COS\"
+200|Clothing worn in a play|costume
+400|It's another name for a beautician|a cosmetologist
+600|It's what a Russian calls a space traveler|a cosmonaut
+800|San Jose is its capital city|Costa Rica
+1000|This actor directed a 1990 movie that won 7 Oscars|Kevin Costner

@@ -1,0 +1,6 @@
+WORDS WITH ENEMIES
+200|This prefix is attached to "enemy" when referring to Satan or your biggest enemy|arch-
+400|This literary word for an opponent or rival is also used for a muscle that works in opposition to another|an antagonist
+600|Batman has an enemy aptly named this, a 4-letter word for the worst thing "of your existence\"|Bane
+800|You might dread your enemy & regard him as this, French for "black beast\"|bête noire
+1000|Agatha Christie & Philip Roth both have books called this, a word from myth for a formidable opponent|Nemesis

@@ -1,0 +1,6 @@
+MIDDLE I
+200|To tell a trivial lie|fib
+400|A type of broom, or an egg beater|a whisk
+600|Preaching often accompanies this evangelical assembly|a revival
+800|Instinctive knowledge or belief; "woman's" is said to be keen|intuition
+1000|This official rebuke or censure is often quite severe|reprimand

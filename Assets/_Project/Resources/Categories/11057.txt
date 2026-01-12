@@ -1,0 +1,6 @@
+AIRLINE CODES
+200|JL|Japan Airlines
+400|KL|KLM (Royal Dutch)
+600|AF|Air France
+800|BA|British Airways
+1000|MX|Mexicana

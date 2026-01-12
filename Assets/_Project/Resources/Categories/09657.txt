@@ -1,0 +1,6 @@
+CAB ARRAY
+200|You might want to take a water taxi to this city's Piazza San Marco but—mamma mia!—it can be pricey|Venice
+400|Even when you think it's too expensive, the price you pay to ride in a cab is called by this homophone|a fare
+600|Often seen in Central Park, this conveyance gets part of its name from the Latin word for "foot\"|a pedicab
+800|Cab drivers came to be called hacks because of this old word for a coach for hire|hackney
+1000|\"Cab" is a shortened form of this 4-syllable French word for a light one-horse carriage|cabriolet

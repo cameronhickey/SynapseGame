@@ -1,0 +1,6 @@
+YOU HAVE TOO MUCH...
+200|You have too much of this in your blood if you have diabetes mellitus|sugar
+400|...of this if afflicted with hirsutism|hair
+600|...of this on your bow that's overstrung|tension
+800|...if you suffer from hypernatremia (put down the potato chips)|sodium
+1000|...if you're bicycling with higher-than-recommended PSI|pressure in your tires

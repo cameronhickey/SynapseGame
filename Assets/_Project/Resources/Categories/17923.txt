@@ -1,0 +1,6 @@
+BESTSELLING AUTHORS BY PARTIAL TITLE
+200|\"Pelican" (1992)|John Grisham
+400|\"Sematary" (1983)|Stephen King
+600|\"Jurassic" (1990)|Michael Crichton
+800|\"Moreau" (1896)|H.G. Wells
+1000|\"Augie" (1953)|Saul Bellow

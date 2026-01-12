@@ -1,0 +1,6 @@
+PHYSICS 101
+200|The area of physics divided into statics & dynamics or the guys replacing your head gasket|mechanics
+400|Term for one end of a bar magnet, or for one of the discoverers of radium|a pole
+600|By definition, liquids & gases do this under stress, solids don't|they flow
+800|In the 19th C. Rudolf Clausius coined this word for measuring increasing disorder in a system|entropy
+1000|Silicon is a semiconducting material; this is the term for nonconductors like plastics|an insulator

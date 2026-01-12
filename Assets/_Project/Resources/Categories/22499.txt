@@ -1,0 +1,6 @@
+PICTURE THE MOVIE
+200|Take a ride with this recent Oscar-winning movie|Green Book
+400|Costner, for the win|Dances with Wolves
+600|A Kubrick classic|A Clockwork Orange
+800|The jury is in|12 Angry Men
+1000|It's 2019 in L.A.|Blade Runner

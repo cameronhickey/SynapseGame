@@ -1,0 +1,6 @@
+\"INTER" MURALS
+200|A junction of lines or streets|an intersection
+400|The Bureau of Mines was a division of this Cabinet department|Interior
+600|When the defensive player makes the catch in football|an interception
+800|Oh, my heavens! It's a word or phrase used in exclamation|an interjection
+1000|From the Old English for "twisted thread", to twist 2 or more fibers together to form a single strand|intertwine

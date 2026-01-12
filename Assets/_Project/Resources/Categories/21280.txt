@@ -1,0 +1,6 @@
+CRYPTOCURRENCIES
+200|An altcoin is any unit of cryptocurrency other than this original one|Bitcoin
+400|A lawsuit from this rapper killed off the Coinye currency|Kanye West
+600|Each transaction is a "block" connected in these digital ledgers that enable cryptocurrencies to work|a blockchain
+800|This 3-letter chat app created its own currency, the very similarly named Kin|Kik
+1000|In 2018 this South American country launched the Petro currency backed by oil reserves|Venezuela

@@ -1,0 +1,6 @@
+SPECIAL "OP"s
+200|A general disposition to expect the best|optimism
+400|It's from the Latin for "favorable"; when it knocks, open the door|opportunity
+600|Adjective meaning ostentatiously lavish|opulent
+800|A musical work not as serious as "Rigoletto"; "Babes in Toyland", for example|operetta (*light opera)
+1000|It's a branch of physics, or the way a situation looks in the public eye|optics

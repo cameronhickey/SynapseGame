@@ -1,0 +1,6 @@
+THE OED "PAL" COMPLEX
+200|The OED says it's "an official residence... of an emperor, king, pope, or other ruler\"|a palace
+400|\"The roof of the mouth\"|the palate
+600|\"A range or selection of colours\"|a palette
+800|\"Designating the earliest of the three major divisions of the Stone Age\"|Paleolithic
+1000|\"A fence made of wooden... stakes fixed in the ground, forming an enclosure or defence\"|a palisade

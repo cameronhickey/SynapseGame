@@ -1,0 +1,6 @@
+COUNTIES
+200|Almost 17 times the size of Rhode Island, San Bernardino County in this state is the USA's largest|California
+400|This Pennsylvania city is the seat of Allegheny County|Pittsburgh
+600|A total of 23 U.S. counties are named for this Pennsylvanian|(Benjamin) Franklin
+800|Counties in Iowa & West Virginia are named for this Indian princess|Pocahontas
+1000|Manhattan, the nation's smallest county in area is officially called this|New York County

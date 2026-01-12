@@ -1,0 +1,6 @@
+WHAT KIND OF ANIMAL MASCOT?
+200|GEICO|a gecko
+400|Aflac|a duck
+600|NBC (since the 1950s)|a peacock
+800|Klondike bar|a polar bear
+1000|Elmer's glue|a bull

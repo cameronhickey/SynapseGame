@@ -1,0 +1,6 @@
+CARS BY THE NUMBER
+200|560 SEL|Mercedes
+400|325 e|BMW
+600|The 2005 Chevy Corvette C6 introduced a new GM engine with a capacity of 6.0 of these metric units|liters
+800|This company has made 7 generations of its 3 series, including the 330i sedan|BMW
+1000|Oldsmobile called a classic muscle car the 4-4-2 because it had a 4-barrel carburetor, 4-speed this, & 2 exhaust pipes|transmission

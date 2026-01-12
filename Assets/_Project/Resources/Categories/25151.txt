@@ -1,0 +1,6 @@
+DUMB AS AN "OX\"
+200|The shoe is named for this city; the cloth is named for the university there|Oxford
+400|It's the color that's sort of reddish brown...or maybe brownish red|oxblood
+600|Iron rust, Fe2O3, & CO2 are forms of this|oxide
+800|Deafening silence & jumbo shrimp are examples of this contradiction in terms|oxymoron
+1000|Common term for what occurs in physical activity when the heart & lungs can't supply enough "air" to muscles|anoxia (hypoxia or oxygen debt)

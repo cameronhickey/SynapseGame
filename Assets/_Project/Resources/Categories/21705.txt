@@ -1,0 +1,6 @@
+STARTS WITH 2 VOWELS, ENDS WITH ONE
+200|It's the walkway between rows of airplane seats|the aisle
+400|Capable of being heard, or a football play adjustment|audible
+600|It's a powerful feeling of anger, maybe about social injustice|outrage
+800|Archimedes' exclamation after figuring out how to determine gold content in an alloy|eureka
+1000|To treat a liquid with a gas|aerate

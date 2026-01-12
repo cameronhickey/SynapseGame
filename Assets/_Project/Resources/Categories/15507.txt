@@ -1,0 +1,6 @@
+FOREIGN
+200|In Portuguese, domingo is this day of the week|Sunday
+400|In French, l'oiseau is this; it sports les plumes|a bird
+600|If Popeye spoke Hebrew he'd ask for tered, this|spinach
+800|Tredici is Italian for this symbol of bad luck|thirteen
+1000|In German, berg is this topographical feature on a map|a mountain

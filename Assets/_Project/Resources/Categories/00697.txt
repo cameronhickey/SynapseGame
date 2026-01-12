@@ -1,0 +1,6 @@
+THE HEART
+200|This small electronic device is sometimes implanted to stimulate the heart to beat properly|pacemaker
+400|The relaxing & filling phase of the heart is the diastole; the contracting & pumping phase, this|systole
+600|In coronary angioplasty, this is used to open clogged arteries|a balloon
+800|Evidence of heart disease is found in this part of the eye, the easiest place to view small blood vessels|the retina
+1000|The 4 heart valves are the tricuspid, the aortic, the pulmonic & this one|the bicuspid (mitral)

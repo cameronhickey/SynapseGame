@@ -1,0 +1,6 @@
+ACCORDING TO BLACK'S LAW DICTIONARY
+200|\"Parental" this is "given on a minor's behalf... for the minor to engage in or submit to a specified activity\"|consent
+400|\"The act...of officially nullifying punishment or other legal consequences of a crime\"|a pardon
+600|\"A person who settles on property without any legal claim or title\"|a squatter
+800|\"A writ... directing a law enforcer to make an arrest, a search, or a seizure\"|a warrant
+1000|\"The judicial procedure by which a testamentary document is established to be a valid will\"|probate

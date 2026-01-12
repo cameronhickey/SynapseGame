@@ -1,0 +1,6 @@
+PLAY SETTINGS
+200|The musical "Evita": set in this country|Argentina
+400|\"The Crucible": 1692 in this Massachusetts city|Salem
+600|Grover's Corners, New Hampshire from 1901 to 1913: this drama|Our Town
+800|\"Rosencrantz and Guildenstern are Dead": within & around the action of this other play|Hamlet
+1000|The Kellers' home in Tuscumbia, Alabama: this drama|The Miracle Worker

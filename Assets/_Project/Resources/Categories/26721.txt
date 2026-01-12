@@ -1,0 +1,6 @@
+AUTHORS' LAST NAMES
+200|Thomas Stearns|Eliot
+400|Gilbert Keith|Chesterton
+600|Elwyn Brooks|White
+800|James Matthew|Barrie
+1000|Pelham Grenville|Wodehouse

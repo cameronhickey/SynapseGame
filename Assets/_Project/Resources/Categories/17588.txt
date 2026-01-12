@@ -1,0 +1,6 @@
+U.N. COUNTRY ABBREVIATIONS
+200|TUR|Turkey
+400|THA|Thailand
+600|TJK|Tajikistan
+800|TGO|Togo
+1000|TKM|Turkmenistan

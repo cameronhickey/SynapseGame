@@ -1,0 +1,6 @@
+SENTENCING
+200|In "He gave the dog a bone", bone is a direct one of these & dog is an indirect one|an object
+400|In French most adjectives are postpositive, meaning you'll find them here|after the noun
+600|Austrian novelist Thomas Bernhard used long sentences; the 2nd sentence of "Correction" has 79 of these punctuation marks|commas
+800|This is the subject at hand; this type of "sentence" tells the main idea of a paragraph|the topic
+1000|The arrangement of words to make a sentence meaningful; in programming, it's the arrangement of characters so a computer cooperates|syntax

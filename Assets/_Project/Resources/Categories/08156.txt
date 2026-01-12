@@ -1,0 +1,6 @@
+CRIME
+200|The crime which brought Raskolnikov punishment in Dostoyevsky's "Crime & Punishment\"|murder
+400|Crimes punishable by less than a 1 year sentence are usually classified as this|a misdemeanor
+600|A 1994 New York state law compels police to make an arrest under certain conditions when investigating this|domestic violence
+800|Under English law, having relations with the King's wife (if you're not the King) constitutes this crime|treason
+1000|The name of the Miami-Dade Corrections Dept. also includes this, restoring inmates to useful lives|rehabilitation

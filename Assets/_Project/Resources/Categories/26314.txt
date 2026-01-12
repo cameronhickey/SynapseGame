@@ -1,0 +1,6 @@
+FROM THEIR NEW YORK TIMES OBITUARY
+200|1968: "Overcame blindness and deafness to become a symbol of the indomitable human spirit\"|Helen Keller
+400|1947: "Struck a cruel blow shortly before his 80th birthday by the death of his only son, Edsel\"|(Henry) Ford
+600|1901: "The end of this splendid career came in a simply furnished room in Osborne House. This most respected of all women\"|Queen Victoria
+800|1926: "Began her career at 16 years and performed wonderful shooting feat at 62\"|Annie Oakley
+1000|1977: "Dead of heart attack in Paris"; "most exciting opera singer of her time\"|Maria Callas

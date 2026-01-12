@@ -1,0 +1,6 @@
+\"G" IS FOR...
+200|This burrowing rodent; the pocket type is native to North America|a gopher
+400|This Dutch cheese that's named for a port near Rotterdam|Gouda
+600|This small sac that store about 1 1/2 ounces of bile at a time|the gallbladder
+800|This genre of novel satirized by Jane Austen in "Northanger Abbey\"|gothic
+1000|This plural-sounding medical specialty that deals specifically with the elderly|geriatrics

@@ -1,0 +1,6 @@
+COMPANY
+200|The Dragon spacecraft built by this company launches from Cape Canaveral via a Falcon 9 launch vehicle|SpaceX
+400|In 1964 the Sanford Ink Company cut loose & introduced these permanent markers to the world|Sharpie
+600|Need some cash for your home or credit card balance? This company with a green leaf in its logo may bear fruit|Lending Tree
+800|Evan Moore heard a macaroon shop turn down a delivery order & created this speedy company he dubbed an "On-Demand FedEx\"|DoorDash
+1000|Known for Kenosha red toolboxes, this hyphenated company filed its first patent in 1923|Snap-On

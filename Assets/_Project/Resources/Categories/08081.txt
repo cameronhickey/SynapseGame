@@ -1,0 +1,6 @@
+DEPARTMENT STORES
+200|This NYC store has opened 2 mini stores at JFK Airport called Bloomie's Express|Bloomingdale's
+400|Department store featured in the films "Splash" & "Moscow on the Hudson\"|Bloomingdale's
+600|Loaning money to a young auto maker got this Detroit store owner a car named for him|J.L. Hudson
+800|At the turn of the century, this Chicago merchant was the world's largest dry goods retailer|Marshall Field
+1000|While many chains started in New York or Chicago, his began in Kemmerer, Wyo.|J.C. Penney

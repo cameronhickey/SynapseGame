@@ -1,0 +1,6 @@
+ABBREV-"E"-ATIONS
+200|In a business letter, encl. is an abbreviation for this|enclosed (or enclosure)
+400|The clean water act of 1972 was administered by it, the EPA|the Environmental Protection Agency
+600|E.O.D. can stand for this, perhaps the time when taps is played|end of day
+800|(Sarah of the Clue Crew presents the clue.) Mr. DeMille, I'm ready for this type of shot—an ECU for short|an extreme close-up
+1000|Medically, EEG is short for this (& ends with the letter M, not ph)|electroencephalogram

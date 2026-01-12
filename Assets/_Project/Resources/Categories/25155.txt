@@ -1,0 +1,6 @@
+LITERARY LOCATIONS
+200|Everything is edible in the town of Bunbury, located in this land created by L. Frank Baum|Oz
+400|Book you'd have to read to "visit" Brobdingnag|Gulliver's Travels
+600|The town in this famous poetic "Anthology" was inspired by two Illinois cities, Lewistown & Petersburg|Spoon River
+800|\"The Shire" is a county in Eriador where these small good-natured folk live|the Hobbits
+1000|The Silent Ones watch over these, which were found by Allan Quartermain's African expedition|King Solomon's Mines

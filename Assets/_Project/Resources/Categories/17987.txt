@@ -1,0 +1,6 @@
+COMPUTER STUFF
+200|A class in school, or a record of where you've gone in a web browser|history
+400|A single processor sharing multiple jobs is doing this, like when Mom tries to drive & put on makeup|multitasking
+600|Before a game's release, Joe Gamer may be asked to play a pre-version usually referred to by this Greek letter|beta
+800|You may have worked with a newfangled cash register called a POS terminal, the POS standing for this|point of sale
+1000|imgur.com has a button to make this four-letter cultural reference that often spreads online|a meme

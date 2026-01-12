@@ -1,0 +1,6 @@
+ALBUMS
+200|The Beatles sang "Come Together" on this, their last album recorded together, though not the last released|Abbey Road
+400|This Who album's title refers to the double schizophrenia of Jimmy, its protagonist|Quadrophenia
+600|This New Wave group's album "Shake It Up" begins with the lachrymose "Since You're Gone\"|The Cars
+800|The soundtrack of this 1988 U2 film included "Angel of Harlem", recorded at Memphis' famed Sun Studios|Rattle and Hum
+1000|In 2001 their "Mellon Collie and the Infinite Sadness" CD was certified 9 times platinum|Smashing Pumpkins

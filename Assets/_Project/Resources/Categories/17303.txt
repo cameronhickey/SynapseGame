@@ -1,0 +1,6 @@
+TALKIN' MATH
+200|Also an underground part of a plant, it's the solution to an equation|the root
+400|A '50s comedy song joked about a movie called "The Eternal Triangle", with Ingrid Bergman as this longest right triangle side|the hypotenuse
+600|In math, it's a rectangular array of numbers, not the setting for a dystopian 1999 sci-fi movie|the matrix
+800|Students usually take this, the study of angles & their functions, after geometry & algebra|trigonometry
+1000|In calculus, it's what the notation df/dx represents; don't try to be original|derivative (differentiation accepted)

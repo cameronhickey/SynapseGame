@@ -1,0 +1,6 @@
+A FEW CARS
+200|The Thunderbird|Ford
+400|The Regal|Buick
+600|The Delta 88|Oldsmobile
+800|The Echo|Toyota
+1000|The Aspen|Dodge

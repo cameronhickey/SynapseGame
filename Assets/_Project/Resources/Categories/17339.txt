@@ -1,0 +1,6 @@
+OUT OF WHAT?
+200|An attorney not following court rules, or what a broken vending machine is|out of order
+400|\"Out of" this sense means unhip or no longer in contact with|out of touch
+600|If you're "out of breath" you may also be "out of" this; if you're angry you're "bent" out of this|shape
+800|Clothing phrase for a cash expenditure that wasn't in the budget|out of pocket
+1000|Unacceptable, or no longer in the queue|out of line

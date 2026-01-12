@@ -1,0 +1,6 @@
+FIRST RESPONDERS
+200|A little more advanced than a typical EMT, "P" is for this first responder, able to dispense medicines|a paramedic
+400|Some first responders are trained to deal with this 6-letter issue; here's one wearing the suit of the same name|HAZMAT
+600|Hoist gloves protect first responders' hands while aboard these vehicles performing rescues|helicopters
+800|Where there are these pros, there's fire; the U.S. Forest Service employs more than 300 of them|smoke jumpers
+1000|The First Responder Support Network helps those with trauma from the job & who may be suffering from this, PTSD for short|Post-traumatic stress disorder

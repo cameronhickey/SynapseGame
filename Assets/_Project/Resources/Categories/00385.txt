@@ -1,0 +1,6 @@
+THEATER
+200|Open performing area with no proscenium & an audience on all 4 sides|theater in the round
+400|Unlike subdued No theater, this form of Japanese theater uses an exaggerated acting style|Kabuki
+600|Brother of the notorious John Wilkes, he played the finest Hamlet of his time|Edwin Booth
+800|The stage is dressed but the actors aren't in this musical with sketches by Jules Feiffer & John Lennon|Oh, Calcutta!
+1000|\"Learn the lines & don't bump into the furniture," advised this Brit. author of "Blithe Spirit\"|Noel Coward

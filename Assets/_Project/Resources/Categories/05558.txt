@@ -1,0 +1,6 @@
+POET'S DICTIONARY
+200|2 consecutive lines that rhyme|Couplet
+400|\"There was an old lady of Prague" begins a popular one of these lighthearted poems of 5 lines|Limerick
+600|Term for a long narrative poem celebrating the exploits of real or mythic heroes|Epic
+800|A reflective poem with a solemn or sorrowful theme, perhaps "Written in A Country Churchyard\"|Elegy
+1000|Also meaning "to hold back", it's a phrase or line that recurs at certain points in a poem|Refrain

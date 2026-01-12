@@ -1,0 +1,6 @@
+FROM "B" TO "Y\"
+200|Chapter 7 of this federal code provides for liquidation|bankruptcy
+400|In a theater, the mezzanine is the lowest one|a balcony
+600|All hail the grain of this plant, used in making beer|barley
+800|The temperature is so mild & pleasant, it's downright this 5-letter adjective|balmy
+1000|A tongue twister mentions rubber bumpers on this 2-word conveyance (both words fit the category)|baby buggy

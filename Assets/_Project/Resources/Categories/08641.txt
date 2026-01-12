@@ -1,0 +1,6 @@
+STATE YOUR NAME
+200|The names Colorado & Tennessee were applied to these physical features before they were applied to states|rivers
+400|The sylvania in Pennsylvania refers to these|woods
+600|Its name may be from a Dutch name or a Greek colossus site|Rhode Island
+800|Maine's name came from this longer English word used to distinguish it from the nearby isles|the mainland
+1000|Montana was named for its mountains & this state was named for some "snow-covered" mountains|Nevada

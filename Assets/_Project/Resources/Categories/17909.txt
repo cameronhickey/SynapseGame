@@ -1,0 +1,6 @@
+MASHED-UP BOOK TITLES
+200|\"Horton Hears a Ham\"|Horton Hears a Who! & Green Eggs and Ham
+400|\"Charlotte's Little\"|Charlotte's Web & Stuart Little
+600|\"Pride and Sensibility\"|Pride and Prejudice & Sense and Sensibility
+800|\" 'A' is for Trespass\"|\" 'A' is for Alibi & 'T' is for Trespass
+1000|\"God Bless You, Mr. Cradle\"|God Bless You, Mr. Rosewater & Cat's Cradle

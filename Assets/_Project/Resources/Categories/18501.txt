@@ -1,0 +1,6 @@
+DON'T L ME
+200|It's a possible response in a T or F quiz|true
+400|This party has more than 50 seats in the U.K.'s House of Commons|the Tories
+600|It's a call an umpire can make regarding a ball hit down the line|fair
+800|It's a color on Israel's flag|white
+1000|A basic 4-letter category of food mentioned in 1 Corinthians 3:2|meat

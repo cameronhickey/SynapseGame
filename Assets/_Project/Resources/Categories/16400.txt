@@ -1,0 +1,6 @@
+THE APPROPRIATE SPORT THEY PLAYED
+200|Prince Fielder|baseball
+400|Margaret Court|tennis
+600|Jim Kiick|football
+800|Chip Beck|golf
+1000|Scott Speed|race car driving

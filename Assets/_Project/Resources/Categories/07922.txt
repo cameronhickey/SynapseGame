@@ -1,0 +1,6 @@
+BASEBALL TERMS
+200|This sparkling term for the playing field is as old as baseball|diamond
+400|The "H" in the old Schaeffer sign in Ebbets Field lit up for a hit; an "E" was lit when one of these occurred|error
+600|This term for the pitcher & catcher may refer to the firepower between them|battery
+800|\"Shade in the hole" tells the shortstop to move closer to this|third base
+1000|A walk year is the season before a player becomes one of these|free agent

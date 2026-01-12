@@ -1,0 +1,6 @@
+SAT: MATH
+200|3 squared is 9; 1/3 squared is this|1/9
+400|Hey, gimme this, the sum of the 2 smallest prime numbers|5 (2 + 3)
+600|Rob & Larry agreed to split their profits (Rob 60%, Larry 40%); if they made $20 Rob would get this much|$12
+800|If 100-pound Kathy steps on a scale holding 2 5-ounce bags of candy, the scale will read this many ounces|1610
+1000|In 90 minutes a minute hand will travel this many degrees|540 (360 + 180)

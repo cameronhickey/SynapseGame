@@ -1,0 +1,6 @@
+DEFINING LAW
+200|This association is "an organization of members of the legal profession", & it's time for you to pass it|the Bar
+400|This aforethought is "the requisite mental state for common-law murder", including the intent to inflict grievous bodily harm|malice
+600|\"A solemn declaration, accompanied by a swearing to God... that one's statement is true\"|an oath
+800|This witness "is biased against the examining party, is unwilling to testify, or is identified with an adverse party\"|a hostile witness
+1000|Alliterative item "given to a court... to guarantee that the defendant will duly appear in court in the future\"|a bail bond

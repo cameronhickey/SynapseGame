@@ -1,0 +1,6 @@
+ANIMAL ANCESTORS
+200|Animals of this class that includes frogs & salamanders were the ancestors of reptiles|Amphibians
+400|The multiple-toed feet of Eohippus, this domestic animal's ancestor, evolved into 1 toe covered by a hoof|Horse
+600|Ursavus elmensis, the "down" version of this carnivore, was small enough to hunt in treetops|Bear
+800|Moeritherium, with an elongated snout & front teeth, was the ancestor of this present-day animal|Elephant
+1000|Arthropods, including shrimps & spiders, are descended from aquatic segmented ones of these|Worms

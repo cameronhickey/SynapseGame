@@ -1,0 +1,6 @@
+ADDRESSING THE BALLPARK
+200|One Royal Way|the (Kansas City) Royals
+400|24 Willie Mays Plaza|the Giants
+600|333 West Camden Street|the Orioles
+800|2000 Gene Autry Way|the Angels
+1000|100 Joe Nuxhall Way|the (Cincinnati) Reds

@@ -1,0 +1,6 @@
+WASHINGTON MATH
+200|The number of U.S. senators divided by the number of U.S. states|two (100 divided by 50)
+400|The number of amendments in the Bill of Rights times the number of Supreme Court justices|ninety (10 times 9)
+600|U.S. representatives for Delaware times U.S. representatives for Alaska|one (1 times 1)
+800|Obama's number as president divided by the number of heads carved on Mount Rushmore|eleven (44 divided by 4)
+1000|States outside the contiguous U.S. minus people on the dais behind the president at the State of the Union|zero (2 minus 2)

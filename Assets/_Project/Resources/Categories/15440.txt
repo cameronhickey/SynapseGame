@@ -1,0 +1,6 @@
+BOOKS' FIRST LINES
+200|The Beat Generation Bible: "I first met Dean not long after my wife and I split up\"|On the Road
+400|Kerouac: "I first met Dean not long after my wife and I split up\"|On the Road
+600|\"Renowned curator Jacques Sauniere staggered through the vaulted archway of the museum's grand gallery\"|The Da Vinci Code
+800|A kids' classic: "'Where's papa going with that ax?' said Fern to her mother\"|Charlotte's Web
+1000|Hard boiled: "Sam Spade's jaw was long and bony, his chin a jutting V under the more flexible V of his mouth\"|The Maltese Falcon

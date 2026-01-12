@@ -1,0 +1,6 @@
+NETWORK INITIALS
+200|A&E|Arts & Entertainment
+400|HGTV|Home and Garden Television
+600|CBS|Columbia Broadcasting System
+800|IFC|Independent Film Channel
+1000|GAC|Great American Country

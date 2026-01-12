@@ -1,0 +1,6 @@
+TEXTILES
+200|Dungaree is a sturdy type of this cotton cloth used to make dungarees|denim
+400|If this fabric has a pile more than 1/8 inch high, it's called plush|velveteen
+600|In the Philippines, the fibers of this fruit plant are woven into a cloth called pina|the pineapple plant
+800|This steam engine pioneer helped perfect a method of bleaching fabrics with chlorine|(James) Watt
+1000|A city in Scotland gave its name to this fabric & print featuring curved & swirled designs|paisley

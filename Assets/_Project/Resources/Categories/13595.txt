@@ -1,0 +1,6 @@
+BIBLE BOOKS BY QUOTATION
+200|\"And God remembered Noah, and every living thing, and all the cattle that was with him in the ark\"|Genesis
+400|\"And God spake unto Moses, and said unto him, I am the lord\"|Exodus
+600|\"So they took up (him), and cast him forth into the sea\"|Jonah
+800|\"Then Satan answered the Lord, and said, doth (this man) fear God for nought?\"|Job
+1000|\"And when he had opened the seventh seal, there was silence in heaven about the space of half an hour\"|Revelation

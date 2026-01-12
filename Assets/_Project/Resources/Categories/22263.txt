@@ -1,0 +1,6 @@
+WHERE DOES IT HURT?
+200|Dermatalgia|skin
+400|Hepatalgia|the liver
+600|Odontalgia|teeth
+800|Arthralgia (these parts, whether hinge or ball-&-socket)|joint
+1000|Myalgia (these parts)|muscles

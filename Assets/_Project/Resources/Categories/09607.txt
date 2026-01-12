@@ -1,0 +1,6 @@
+REAGAN 101
+200|The state where Ronald Reagan was born in 1911|Illinois
+400|The year he took up residence in the White House|1981
+600|Nickname he gained from his role in "Knute Rockne—All American\"|\"The Gipper\"
+800|His term as president of this began in 1947|the Screen Actors Guild
+1000|The California city that's home to his presidential library & burial site|Simi Valley

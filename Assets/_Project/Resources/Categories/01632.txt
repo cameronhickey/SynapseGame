@@ -1,0 +1,6 @@
+COFFEE
+200|In its pure form this stimulant appears as glistening white crystals|caffeine
+400|A synonym for coffee, it's a variety grown in Indonesia|java
+600|This plant related to & sometimes confused with endive has been used to flavor coffee since the 18th century|chicory
+800|For the taste of coffee with a kick, try this Jamaican coffee liqueur with a rhyming name|Tia Maria
+1000|This corporation bears the first name of a German housewife who invented the drip coffee filter in 1908|Melitta (Benz)

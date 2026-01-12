@@ -1,0 +1,6 @@
+GET AN EDUCATION
+200|It's a public school offering special instruction that's designed to "attract" a diverse student body|a magnet school
+400|From a word for "seed", it's a college that prepares students to be priests, ministers or rabbis|a seminary
+600|Influenced by Friedrich Froebel, in 1873 Susan Blow founded America's first public one of these for little kids in St. Louis|a kindergarten
+800|In France, ecole is "school" & this is the word for a secondary school|lycée
+1000|In the painting "The School of Athens", these two great teachers are the center of attention|Plato and Aristotle

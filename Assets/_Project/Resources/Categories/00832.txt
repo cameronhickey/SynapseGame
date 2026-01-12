@@ -1,0 +1,6 @@
+MUSEUMS
+200|You can see this rock star's jet Lisa Marie at his estate in Memphis|Elvis Presley
+400|An Arlington, Tex. museum has 145 of these machines on exhibit, including some of Elias Howe's from the 1860s|sewing machines
+600|Waterloo Gallery, part of his London home, Apsley House, contains his art collection|the Duke of Wellington
+800|Crop dusting equipment is displayed at the Nat'l Agricultural Aviation Museum in this Miss. capital|Jackson
+1000|This former Nevada boomtown has 2 museums devoted to Mark Twain, who was a newspaper reporter there|Virginia City

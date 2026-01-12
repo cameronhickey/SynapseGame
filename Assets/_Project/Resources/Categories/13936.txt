@@ -1,0 +1,6 @@
+TERMS OF ENBEERMENT
+200|From a German word meaning "to store", it's the lighter of the 2 basic beer types|lager
+400|Porter & bitter are examples of this 3-letter beer, the darker of the 2 basic types of beer|ale
+600|Saccharomyces cerevisiae is a strain of this stuff vital to the fermentation process|yeast
+800|If you're drinking from the bottle, you'll often find the beer's percentage of ABV, or this, on the label|alcohol by volume
+1000|The dried blossoms of this plant, genus Humulus, add bitterness to beer|hops

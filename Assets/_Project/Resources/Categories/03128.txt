@@ -1,0 +1,6 @@
+FOREIGN STATES
+200|Queensland, Victoria & New South Wales|Australia
+400|Tripura, Sikkim & Punjab|India
+600|Sikkim & Punjab|India
+800|Amazonas & Bahia|Brazil
+1000|Gombe & Lagos|Nigeria

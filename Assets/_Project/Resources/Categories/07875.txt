@@ -1,0 +1,6 @@
+A CHRISTMAS CAROL
+200|\"Round yon virgin mother and child, holy infant so tender and mild\"|\"Silent Night\"
+400|\"Fa la la la la la la la la\"|\"Deck the Halls\"
+600|\"A partridge in a pear tree\"|\"The Twelve Days of Christmas\"
+800|\"Good tidings we bring to you and your kin, we wish you good tidings for Christmas and a Happy New Year\"|\"We Wish You A Merry Christmas\"
+1000|\"And heav'n and nature sing, and heav'n and nature sing, and heav'n and heav'n and nature sing\"|\"Joy to the World\"

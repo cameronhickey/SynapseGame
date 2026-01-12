@@ -1,0 +1,6 @@
+ANAGRAMMED SHAKESPEARE PLAYS
+200|\"BATCH ME\"|Macbeth
+400|\"HELL TOO\"|Othello
+600|\"REGAL KIN\"|King Lear
+800|\"CASUAL JURIES\"|Julius Caesar
+1000|\"IT RUNS A DISCOUNT\"|Titus Andronicus

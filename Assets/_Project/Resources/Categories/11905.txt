@@ -1,0 +1,6 @@
+LANDING AT JFK
+200|Located at Terminal 3, this company with a Greek letter as its name offers 1,500 daily flights|Delta
+400|This airline at Terminal 4 was formed by the Irish government in April 1936 & has been in the "Aer" ever since|Aer Lingus
+600|Now at Terminal 4, this company's first flight, from Amsterdam to London on May 17, 1920, was letter perfect|KLM
+800|This Terminal 4 company was founded in 1984 by Richard Branson; over 1 mil. people flew it by the end of the decade|Virgin
+1000|On Feb. 20, 2007 this Terminal 6 airline introduced its "Customer Bill of Rights\"|JetBlue

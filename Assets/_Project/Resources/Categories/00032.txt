@@ -1,0 +1,6 @@
+ASTRONOMY
+200|Self-luminous gaseous body, or Hollywood "celeb\"|a star
+400|The evening or morning "star" is really this planet|Venus
+600|Planet once thought unique, it no longer runs "rings" around its neighbors|Saturn
+800|Launched Oct. 4th, 1957, it was Earth's 1st artificial satellite|Sputnik
+1000|Only planet to have seasons similar to Earth's|Mars

@@ -1,0 +1,6 @@
+PIZZA TOPPINGS
+200|This type of hard sausage is America's favorite pizza topping|pepperoni
+400|How about a nice traditional Hawaiian pizza topped with ham or Canadian bacon & this fruit|pineapple
+600|These on your pizza may be fire-roasted, sun-dried, or just fresh sliced Romas|tomatoes
+800|On November 12 celebrate National Pizza with the Works Except these fish Day|Anchovies
+1000|Wild ones of these found on pizza include shiitakes, morels & chanterelles|mushrooms

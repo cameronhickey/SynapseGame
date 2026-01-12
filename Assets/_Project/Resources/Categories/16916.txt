@@ -1,0 +1,6 @@
+COUNTRIES BY AIRPORTS
+200|Federico Fellini International|Italy
+400|Bergen & Kristiansand-Kjevik|Norway
+600|Kalamata & Kos|Greece
+800|Puerto Princessa & Ninoy Aquino International|the Philippines
+1000|La Coloma & Jose Marti International|Cuba

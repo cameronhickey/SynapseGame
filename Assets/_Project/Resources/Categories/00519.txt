@@ -1,0 +1,6 @@
+MAGIC
+200|Disney film in which "Bibbidi Bobbidi Boo" turned a pumpkin into a coach|Cinderella
+400|Magicians do it with trickery, but Jesus did it for real at the wedding feast at Cana|changing water into wine
+600|Stick used by water witchers to find water underground|a divining rod
+800|Meaning "ready finger" in Latin, it's a term for sleight of hand|prestidigitation
+1000|French "father of modern conjuring", he once stopped a rebellion in Algeria with his tricks|Robert-Houdin

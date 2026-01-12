@@ -1,0 +1,6 @@
+YOUR RESERVATION IS CONFIRMED
+200|The Salt River & Gila River Reservations are in the metropolitan area of this state capital|Phoenix
+400|Warm Springs Reservation in Oregon extends to the 10,500-foot summit of Mount Jefferson in this range|the Cascades
+600|The Rosebud Reservation of this people in South Dakota operates the Spotted Tail Crisis Center|the Sioux
+800|The tribe whose reservation includes Little Big Horn College, or what Indians might have done over their victory|Crow
+1000|A New Jersey reservation is home to the nation named for this man, who they say never tried to kill John Smith|Powhatan

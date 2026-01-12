@@ -1,0 +1,6 @@
+MEASURES OF PEOPLE
+200|Outside the U.S., the temperature scale most commonly used is the one named for this Swede|Anders Celsius
+400|This measure of pressure is named for French scientist Blaise|Pascal
+600|The flow of an electric current is measured in a unit named for this French physicist|Andre-Marie Ampere
+800|Used to measure work, not diamonds, is this, symbolized J & named for a British physicist|Joule
+1000|dB is the symbol for a measurement named for this Scottish-born inventor|Alexander Graham Bell

@@ -1,0 +1,6 @@
+FROM THE PRESIDENT'S MEMOIRS
+200|\"During the 4 1/2 years of my presidency I had never been able to establish a close relationship with Bobby Kennedy\"|LBJ (Lyndon Johnson)
+400|\"On the first intelligence of Forrest's raid I telegraphed Sherman to send all his cavalry against him\"|Ulysses S. Grant
+600|\"I have used some of the tape transcripts that are already public\"|Nixon
+800|\"I ordered our men to open fire on the Spaniards in the trenches\"|Teddy Roosevelt
+1000|\"The Constitution does not confer upon Congress the power to interfere with slavery in the states\"|Buchanan

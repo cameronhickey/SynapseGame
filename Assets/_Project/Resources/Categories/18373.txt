@@ -1,0 +1,6 @@
+THE NAME OF THE BOARD GAME
+200|Rhinoplasty or appendectomy, for example|Operation
+400|The USS Missouri is an Iowa-class one|Battleship
+600|The Sherman Act of 1890 was meant to combat this type of business|Monopoly
+800|Slang for a tornado|Twister
+1000|Nixon's spaniel|Checkers

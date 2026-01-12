@@ -1,0 +1,6 @@
+FOOD, FAST
+200|Dutch gives us the name of these baked treats, an afternoon tea staple|scones
+400|Carob & cardamom grow in these seed holders|pods
+600|One member of the beet family is Swiss this|chard
+800|Egg drop is not an omelet but a Chinese type of this|soup
+1000|Liquid smoke, not coffee liqueur, is in this shredded pork dish, the star of many luaus|kalua

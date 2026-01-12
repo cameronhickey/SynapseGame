@@ -1,0 +1,6 @@
+THE FIRST "STONE\"
+200|A pellet of frozen precipitation|a hailstone
+400|A newspaper in this fabled Arizona city is appropriately named the Epitaph|Tombstone
+600|Imitation diamond fit for a certain "cowboy\"|a rhinestone
+800|This fashion fad for jeans gives them the appearance of wear|stonewashed
+1000|(Jeff Probst reports from Guatemala.) Mayan pyramids were characteristically constructed with this stone, named for the calcium oxide it produces when burned|limestone

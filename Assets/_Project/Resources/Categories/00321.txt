@@ -1,0 +1,6 @@
+CARS
+200|GM car named for Indian chief who tried to take Ft. Detroit|Pontiac
+400|Some of this Swedish co.'s 1995 models, including the 850 Turbo, feature side-impact air bags|Volvo
+600|Introduced in 1963, the Sting Ray was a version of this Chevrolet sports car|the Corvette
+800|Actor Paul Hogan appeared in ads for its Outback model|Subaru
+1000|(Jimmy of the Clue Crew) This legendary GM designer introduced tailfins in 1948 & saw them reach a peak with the 1959 Cadillac|Harley Earl

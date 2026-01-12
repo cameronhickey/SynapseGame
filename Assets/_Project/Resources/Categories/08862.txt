@@ -1,0 +1,6 @@
+\"C" WORLD
+200|Opened in 1934, world-famous Tavern on the Green is found in this green area of New York City|Central Park
+400|Taiwan honors this ancient philosopher every year on September 28|Confucius
+600|This Caribbean dance style shares its name with a nymph who kept Odysseus on her island for 7 years|Calypso
+800|(Cheryl of the Clue Crew in Berlin) The Nazis blamed the 1933 Reichstag fire on this political group that may well have set it themselves|the Communists
+1000|Pollux could have fed some of this oil to his brother of the same name|Castor oil

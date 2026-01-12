@@ -1,0 +1,6 @@
+THAT'S MY LAW
+200|Snell's Law governs the angle of refraction of this as it passes from one medium to another|Light
+400|Kepler's first law says that planetary orbits aren't circular but have this shape|Elliptical
+600|Gresham's Law, named for a 16th century financier, is usually stated as "Bad" this "drives out good\"|Money
+800|The Law of Independent Assortment is one of the laws of heredity named for this 19th C. Austrian monk|Gregor Mendel
+1000|Objects with this property, meaning they can be deformed & regain their shapes, are covered by Hooke's Law|Elasticity

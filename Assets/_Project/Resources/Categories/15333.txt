@@ -1,0 +1,6 @@
+TYPES OF POEMS
+200|Pindar was famed for these poems; Alexander Pope wrote one "On Solitude\"|odes
+400|One of these poems by Basho says, "A lovely spring night / suddenly vanished while we / viewed cherry blossoms\"|a haiku
+600|A villanelle is a 19-line poem consisting of 5 tercets & a concluding (do the math) one of these|a quatrain
+800|A cinquain is a poem consisting of this many lines|5
+1000|For this grave work, Yeats chose words he had already written: "Cast a cold eye, on life, on death. Horseman, pass by\"|his epitaph

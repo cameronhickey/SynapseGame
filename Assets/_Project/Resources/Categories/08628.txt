@@ -1,0 +1,6 @@
+TO A "TEE\"
+200|Type of ballot to file when you're not there to vote on election day|an absentee
+400|Ring in, miss the clue — tough. We don't offer a "money back" one|guarantee
+600|It's been said that "A camel is a horse designed by" this|committee
+800|Conversation marked by quick, witty banter|repartee
+1000|The order Sirenia includes the dugong, the extinct Steller's sea cow & this|the manatee

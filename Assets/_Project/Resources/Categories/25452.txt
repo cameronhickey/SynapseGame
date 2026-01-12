@@ -1,0 +1,6 @@
+MEASURES
+200|A mercury one of these devices measures atmospheric pressure in pounds per square inch|a barometer
+400|In the 1670s Danish astronomer Ole Roemer was the first to show this was finite, now defined as 186,282 miles per second|the speed of light
+600|For a measured pour, a bartender might rely on this double-sided metal cup; a versatile one is 2 oz. on one side, 1 on the other|a jigger
+800|A blood test to measure cholesterol should calculate total cholesterol, LDLs, HDLs & these, named for a trio of molecules|triglycerides
+1000|A unit of weight in the apothecaries' system, it equals 20 grains; in another sense, it's a synonym for a moral principle|a scruple

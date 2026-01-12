@@ -1,0 +1,6 @@
+THE SHAKESPEARE CHARACTER WHO SAID...
+200|\"My only love sprung from my only hate! Too early seen unknown, and known too late!\"|Juliet
+400|\"I come to bury Caesar, not to praise him\"|Mark Antony
+600|\"Is this a dagger which I see before me, the handle toward my hand? Come, let me clutch thee\"|Macbeth
+800|\"Once more unto the breach, dear friends, once more; or close the wall up with our English dead\"|Henry V
+1000|\"Beware, my Lord, of jealousy; it is the green-eyed monster\"|Iago

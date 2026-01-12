@@ -1,0 +1,6 @@
+NATURALISTS
+200|While living by Walden Pond in 1846, he was arrested for refusing to pay his poll tax|Henry David Thoreau
+400|He & William MacGillivray wrote "The Ornithological Biography" to go with his "Birds of America\"|John James Audubon
+600|Studying these in the Swiss Alps, Louis Agassiz postulated the Earth was once covered by them|Glaciers
+800|He was only 22 when he boarded the Beagle in 1831|Charles Darwin
+1000|While in Holland in 1735, this Swede published his "Systema Naturae", a taxonomy system|Carolus Linnaeus

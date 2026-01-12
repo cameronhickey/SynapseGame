@@ -1,0 +1,6 @@
+TO BUILD A FLOWER
+200|Any automobile plus any country|a carnation
+400|Word preceding "and proper" plus "Charmed" actress McGowan|a primrose
+600|An English fop plus the king of beasts|a dandelion
+800|A numeric pair plus a part of the mouth|a tulip
+1000|A fib plus French for "lake\"|a lilac

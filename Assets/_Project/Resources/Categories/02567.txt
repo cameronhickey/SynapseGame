@@ -1,0 +1,6 @@
+ENGLISH USAGE
+200|Nouns have 3 cases: nominative, objective & this, usually indicated by 's|Possessive
+400|The phrase "To take arms against a sea of troubles" is a "mixed" one of these figures of speech|Metaphor
+600|Around 2008 this negative word that had been doing fine as a verb was popular as a noun, often preceded by "epic\"|fail
+800|This adjective meaning "having the most victories" is a fairly recent sports page creation|winningest
+1000|\"Rankle" is traditionally this kind of objectless verb; not "his insults rankled me" but just "his insults rankled\"|intransitive

@@ -1,0 +1,6 @@
+SAY "AH\"
+200|It precedes "humbug\"|bah
+400|Exotic water pipe|a hookah
+600|It's used to hail a fellow sailor|ahoy
+800|Genus of the family Asteraceae with many ornamental ray-shaped flowers|the dahlia
+1000|In Judaism, a good deed|a mitzvah

@@ -1,0 +1,6 @@
+POINTING OUT DECIMALS
+200|In 1938 the AMA signed off on a legal limit for blood alcohol concentration of a rather startling .15; today it's this|.08
+400|Start counting zeroes: it's how you say one ten-thousandth, decimal-style|.0001
+600|Ted Williams is the last Major Leaguer to hit more than this fabled average, going .006 above it in 1941|.400
+800|It's easy as pie to take pi to 2 decimal places (there's even a day for it) but take it to 3.these 5 digits|3.14159
+1000|At Princeton, if you get straight C+es, this is your semester GPA & you might want to do a bit more studying|2.3

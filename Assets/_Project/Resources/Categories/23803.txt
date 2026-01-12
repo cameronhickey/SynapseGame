@@ -1,0 +1,6 @@
+WORDS WITH ONLY ONE CONSONANT
+200|A set cost for a service provided|a fee
+400|A bitter brew often with higher alcohol content|an ale
+600|A signal to an actor|a cue
+800|Great sorrow|woe
+1000|Home for an osprey|an aerie

@@ -1,0 +1,6 @@
+ABBREVIATED JOBS
+200|In most states, an elected official: DA|district attorney
+400|Runs the set on a movie: AD|assistant director
+600|Advises on investing & saving for the future: CFP|certified financial planner
+800|Oversees recruiting & onboarding: HRM|human resources manager
+1000|Helps those with communication disorders including stuttering: SLP|speech & language pathologist

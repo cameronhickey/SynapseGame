@@ -1,0 +1,6 @@
+WHAT'S ON CABLE?
+200|\"South Park\"|Comedy Central
+400|\"Larry King Live\"|CNN
+600|\"Civil War Journal\"|History Channel
+800|\"Arli$$\"|HBO
+1000|\"Farscape\"|Sci Fi Channel

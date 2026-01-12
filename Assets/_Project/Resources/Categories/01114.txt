@@ -1,0 +1,6 @@
+ASTRONAUT LINGO
+200|A single one of these by a spacecraft is called a pass|an orbit
+400|Term for the time in its descent when a capsule comes back into the earth's atmosphere|reentry
+600|It's the chamber between the outer hull & an inner door; it can be pressurized & depressurized|Airlock
+800|An instrument-filled, unmanned spacecraft; its name means to search into|Probe
+1000|The passengers, cargo, supplies, etc. that are carried up by the rocket|a payload

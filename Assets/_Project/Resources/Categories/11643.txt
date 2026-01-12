@@ -1,0 +1,6 @@
+FILL IN THE BOOK TITLE
+200|\"B.N.W." by Aldous Huxley|Brave New World
+400|\"T.J." by Henry Fielding|Tom Jones
+600|\"S.O.S." by Toni Morrison|Song of Solomon
+800|\"J.T.O." by Thomas Hardy|Jude the Obscure
+1000|\"W., O." by Sherwood Anderson|Winesburg, Ohio

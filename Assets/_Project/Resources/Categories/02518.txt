@@ -1,0 +1,6 @@
+\"OVER" & "UNDER\"
+200|It's a strong current below the water's surface, caused by waves breaking on a beach|Undertow
+400|It's said Winston Churchill coined this code name for the D-Day invasion of Europe|Operation Overlord
+600|You're this if a judge disallows your objection|overruled
+800|To disguise the illegal source of money by routing it through banks or intermediaries|laundering
+1000|It was also known to the pioneers as a prairie schooner|a covered wagon

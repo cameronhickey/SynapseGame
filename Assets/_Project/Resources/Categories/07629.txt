@@ -1,0 +1,6 @@
+CHOOSE YOUR WEAPON
+200|An M1 Abrams is one of these vehicles with a moving turret that rides on caterpillar tracks|tank
+400|The Gatling gun was the first practical one of these guns that fire a rapid, continuous stream of bullets|machine gun
+600|Abbreviated SAM, it's a guided weapon meant to be fired from the ground (or from a ship)|surface-to-air missile
+800|Also known as an arbalest, this weapon can use a cranking mechanism & a trigger to fire arrows farther|crossbow
+1000|\"Putting Descartes before the horse" is an example of one of these groan up witticisms|pun

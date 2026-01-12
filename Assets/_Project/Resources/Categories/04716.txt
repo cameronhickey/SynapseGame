@@ -1,0 +1,6 @@
+SUITE
+200|We could listen to the 1888 suite named for this tale-spinner for "1001 Nights\"|Scheherazade
+400|Yes, my children, "Jeux D'Enfants" is a suite for piano by this composer of "Carmen\"|Georges Bizet
+600|Ferde Grofe's "grandest" suite, it premiered in Chicago, not in Arizona|Grand Canyon Suite
+800|This Norwegian's "Holberg Suite" isn't quite as famous as his "Peer Gynt" suite|Edvard Grieg
+1000|Bela Bartok wrote his 1923 "Dance Suite" for the 50th anniversary of this city's unification|Budapest

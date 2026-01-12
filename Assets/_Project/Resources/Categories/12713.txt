@@ -1,0 +1,6 @@
+STUPID GEOGRAPHIC ANSWERS
+200|It was once called the Union of South Africa|South Africa
+400|This seaport is the capital of Djibouti|Djibouti
+600|This sea lies to the north of Belgium, the Netherlands & Germany|the North Sea
+800|The Arabian Sea lies between India on the east & this peninsula on the west|the Arabian peninsula
+1000|Kansas City is at the confluence of the Missouri River & this river|the Kansas River

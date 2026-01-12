@@ -1,0 +1,6 @@
+NFL TEAM NICKNAMES
+200|The Bucs|Tampa Bay
+400|America's Team, in the '70s|the (Dallas) Cowboys
+600|The Monsters of the Midway|Chicago Bears
+800|The Fins|the Miami Dolphins
+1000|The Bolts|the San Diego Chargers

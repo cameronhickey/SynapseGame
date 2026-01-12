@@ -1,0 +1,6 @@
+TERRITORIES & DEPENDENCIES
+200|Martinique|France
+400|Greenland|Denmark
+600|Wake Island|United States
+800|Cayman Islands|United Kingdom
+1000|Svalbard|Norway

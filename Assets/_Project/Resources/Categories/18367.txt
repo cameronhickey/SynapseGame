@@ -1,0 +1,6 @@
+PARTS OF A PLANT
+200|QC is short for this department that makes sure the plant turns out good goods|quality control
+400|You may see an assembly line or this type of line, also the amount of stuff a factory can make|a production line
+600|To keep the 600-degree water from boiling in a nuclear power plant, the reactor core is kept at 150 times atmospheric this|pressure
+800|The main working part of a factory is called this "floor", though nothing is sold there|the shop floor
+1000|In a cement plant this oven can be 200 yards long, a bit bigger than the one in ceramics class|the kiln

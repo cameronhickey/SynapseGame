@@ -1,0 +1,6 @@
+YOU AUTO KNOW THE CAR MAKER
+200|The RAV4; the company was in the news a bit in 2010|Toyota
+400|The Tahoe Hybrid, perfect for that trip to the lake|Chevrolet
+600|The XJ, with 385 hp purring under the hood|Jaguar
+800|The S600 sedan, MSRP only $159,500|Mercedes-Benz
+1000|The Golf—try not to hit 18 potholes in one|Volkswagen

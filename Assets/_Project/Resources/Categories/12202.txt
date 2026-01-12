@@ -1,0 +1,6 @@
+BUGGY
+200|In 1897 Dr. Ronald Ross demonstrated that malaria was transmitted by these insects|mosquitoes
+400|Salticidae, the jumping types of these arachnids, have hairy bodies & feed on insects & on others of their kind|spiders
+600|Some ants herd these small insects of the order Hemiptera for the sweet excretions they produce|aphids
+800|The term "locust" commonly refers to the short-horned variety of this insect|a grasshopper
+1000|Edward Lorenz' "effect" on how something small can make a big change in the weather is named for this insect|the butterfly

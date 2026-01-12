@@ -1,0 +1,6 @@
+MAKE MY CAR
+200|The Sentra of your attention|Nissan
+400|The $120,000 S-class coupe; my friends all drive Porsches, I must make amends|Mercedes
+600|The Rav4, which has the airbags8|Toyota
+800|The Sportage (Hint: SUV is 3 letters, too)|Kia
+1000|The A4 runs 4 rings around the competition|Audi

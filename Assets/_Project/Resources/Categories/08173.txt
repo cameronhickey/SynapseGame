@@ -1,0 +1,6 @@
+ENGLISH LANGUAGE
+200|The punctuation that can make a word like "help" an interjection|an exclamation point
+400|Grammatical rule which controls the spellings of "field" & "receive\"|I before E except after C
+600|\"For", "or", "nor", for example, are all this part of speech|conjunctions
+800|Term for what suffixes & prefixes are attached to|the root word
+1000|Of the 5 vowels, the ones always capitalized when standing alone in a sentence|I and O

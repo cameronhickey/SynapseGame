@@ -1,0 +1,6 @@
+MISSING MOVIE NAMES
+200|A totally righteous time-travel movie: "____ & ____'s Excellent Adventure\"|Bill & Ted
+400|Vince Vaughn is Santa's brother: "____ Claus\"|Fred
+600|Applause for Bette Davis: "All About ____\"|Eve
+800|A post-apocalyptic tale starring Denzel: "The Book of ____\"|Eli
+1000|A comedic marriage of Adam Sandler & Kevin James: "I Now Pronounce You ____ & ____\"|Chuck & Larry

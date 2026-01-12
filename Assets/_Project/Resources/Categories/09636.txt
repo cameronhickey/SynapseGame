@@ -1,0 +1,6 @@
+NOBEL, PULITZER OR BOTH
+200|Ernest Hemingway|both
+400|Norman Mailer|Pulitzer
+600|Robert Frost|Pulitzer
+800|Saul Bellow|both
+1000|Isaac Bashevis Singer|Nobel

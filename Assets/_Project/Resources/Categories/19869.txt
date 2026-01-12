@@ -1,0 +1,6 @@
+WHAT COUNTRY ARE YOU FROM?
+200|A Muscovite|Russia
+400|A Cornishman|England
+600|A Medinan or a Khobari|Saudi Arabia
+800|A Carioca|Brazil
+1000|A Pinoy|the Philippines

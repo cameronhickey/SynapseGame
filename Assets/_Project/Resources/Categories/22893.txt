@@ -1,0 +1,6 @@
+GLOVE
+200|This type of theater has its own long-length glove|opera
+400|The name of this boxing tournament comes from a small metallic charm in the shape of a boxing glove awarded to winners|the Golden Gloves
+600|To prevent allergic reactions, in 2008 the Johns Hopkins Hospital banned the use of gloves made of this rubber product|latex
+800|Right-handed participants in this hunting sport wear a leather glove on the left hand for the hawk to land on|falconry
+1000|It's the 8-letter word for the steel-covered glove in a suit of armor|a gauntlet

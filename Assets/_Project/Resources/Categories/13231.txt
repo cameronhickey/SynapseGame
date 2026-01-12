@@ -1,0 +1,6 @@
+DOCTOR, NO
+200|...those aren't freckles, it's this disease; see Koplik's spots inside the cheeks? A rash will appear in a few days|the measles
+400|...it's rhinoplasty, surgery to change the structure of this, but the patient doesn't want a horn|the nose
+600|...his arm doesn't have to come off; he just has lateral humeral epicondylitis, this "sporty" affliction|tennis elbow
+800|...that's not Bart Simpson; the yellowed skin, enlarged liver & loss of appetite indicate this 9-letter disease|hepatitis
+1000|...parietal bones aren't in the leg, they're at the top of this 5-letter bony structure; you did finish med school, right?|the skull

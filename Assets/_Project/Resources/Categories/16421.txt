@@ -1,0 +1,6 @@
+COMPLETES THE BOOK TITLE
+200|Khaled Hosseini: "The ____ Runner\"|The Kite Runner
+400|Lois Lowry: "Number the ____\"|Stars
+600|Kurt Vonnegut: "The Sirens of ____\"|Titan
+800|Jean Rhys: "Wide Sargasso ____\"|Sea
+1000|Douglas Adams: "The ____ at the End of the Universe\"|Restaurant

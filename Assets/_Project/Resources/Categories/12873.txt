@@ -1,0 +1,6 @@
+SHOWS BY SHOW TUNES
+200|\"I Dreamed A Dream", "Master Of The House\"|Les Miserables
+400|\"Almost Like Being In Love", "I'll Go Home With Bonnie Jean\"|Brigadoon
+600|\"Opening Night", "Where Did We Go Right?\"|The Producers
+800|\"Mix Tape", "School For Monsters\"|Avenue Q
+1000|\"Cinderella At The Grave", "Giants In The Sky\"|Into the Woods

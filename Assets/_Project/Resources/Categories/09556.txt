@@ -1,0 +1,6 @@
+TIME TO GET A HEAD
+200|Guillotine victim, 1793|Marie Antoinette
+400|A president, 1861-1865|Jefferson Davis
+600|A Victorian novelist|Dickens
+800|Long-serving French solar monarch|Louis XIV
+1000|Colorful 19th-century member of nobili-"tea\"|Earl Grey

@@ -1,0 +1,6 @@
+WORLD "K"APITALS
+200|It succeeded Spanish town as Jamaica's capital in 1872|Kingston
+400|This Arab capital was devastated by the Iraqi army during the Persian Gulf War|Kuwait City
+600|This 3000-year-old Afghan capital was called Kabura by Ptolemy|Kabul
+800|This capital is located on a high plain sometimes called the Valley of Nepal|Kathmandu
+1000|This Sudanese capital's name is Arabic for "elephant's trunk" due to its site on a narrow peninsula|Khartoum

@@ -1,0 +1,6 @@
+COLLEGES, HITHER & YON
+200|You'll find the main campus of the University of Puerto Rico in this city's Rio Piedras district|San Juan
+400|This state university of New Jersey has campuses in New Brunswick, Newark & Camden|Rutgers
+600|Lawrence of Arabia earned first-class honors in history at this university's Jesus College|Oxford
+800|Of the schools known as the Seven Sisters, this one in Massachusetts is alphabetically last|Wellesley
+1000|Queen Elizabeth I founded this city's Trinity College in 1591|Dublin

@@ -1,0 +1,6 @@
+GEOGRAPHIC FOOD & DRINK
+200|You might find bubbly people in this region|Champagne
+400|Maybe you've been to this city|Lima
+600|We have some meaty matters to discuss here|Bologna
+800|It's the favorite county of some of our writers|Bourbon County
+1000|A pungent pepper bears the name of this port|Cayenne

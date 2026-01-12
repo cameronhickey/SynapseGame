@@ -1,0 +1,6 @@
+YOU DA BOMB!
+200|Detonated by contact, it can be an explosive buried underground or floated at sea|a mine
+400|2-word name for an explosive charge detonated underwater against submarines|a depth charge
+600|It's a homemade bomb consisting of a gasoline-filled bottle ignited by a rag stuck in the bottle's neck|a Molotov cocktail
+800|4-letter name for a medium-range Soviet-era missile originally designed to carry a nuclear warhead|Scud
+1000|SAM stands for this type of missile|a surface-to-air missile

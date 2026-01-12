@@ -1,0 +1,6 @@
+ABBREVIATED STATES
+200|This state that acts as a conjunction between Nevada & Washington has an abbreviation that is a conjunction|Oregon
+400|The abbreviation of this state is also an abbreviation for the largest city in California|Louisiana
+600|Show me that the abbreviation for this state means the habits of a predictable criminal|Missouri
+800|When abbreviated before the number 47, this state becomes an assault weapon|Alaska
+1000|State whose abbreviation is also a cabinet department that was formed in 1989|Virginia

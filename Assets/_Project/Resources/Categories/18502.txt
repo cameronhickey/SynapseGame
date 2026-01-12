@@ -1,0 +1,6 @@
+STATES RHYME TIME
+200|Life story of Cleveland|Ohio bio
+400|A Boise non-amateur|an Idaho pro
+600|A Wilmington seat|a Delaware chair
+800|A Casper wedding band|a Wyoming ring
+1000|A Chattanooga monetary charge|a Tennessee fee

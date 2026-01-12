@@ -1,0 +1,6 @@
+FOREIGN COUNTRIES
+200|In its own language, its capital, Bangkok, is called Krung Thep|Thailand
+400|Once part of Yugoslavia, its capital is Sarajevo|Bosnia
+600|The 2 countries on the South American mainland named for famous people|Bolivia & Colombia
+800|The Tamil rebels are fighting to separate from this island nation|Sri Lanka
+1000|One of its earlier names was White Russia|Belarus

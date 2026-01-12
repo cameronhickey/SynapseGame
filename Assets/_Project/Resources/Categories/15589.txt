@@ -1,0 +1,6 @@
+NAME THE NETWORK
+200|\"Monday Night Football\"|ESPN (or ABC)
+400|\"16 and Pregnant\"|MTV
+600|\"Whitney\"|NBC
+800|\"Tosh.0\"|Comedy Central
+1000|\"Storage Wars\"|A&E

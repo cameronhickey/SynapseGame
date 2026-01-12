@@ -1,0 +1,6 @@
+SMALL MAMMALS
+200|Named for another creature, this bitter, complaining type of mole is the world's smallest, at less than 1/2 an ounce|the shrew mole
+400|With a wingspan of more than 5 feet & a pigeon-sized body, the flying fox is the largest of these mammals|a bat
+600|They dine on roots while digging a burrow system of up to 2,000 square feet in your yard|gophers
+800|The short-tailed species of this smallest land mammal produces a poison to kill mice|shrew
+1000|Also known as the scaly anteater, this mammal gets its name from Malay for rolling up—what it does when threatened|a pangolin

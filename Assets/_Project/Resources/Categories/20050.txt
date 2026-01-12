@@ -1,0 +1,6 @@
+BLACK
+200|If your black piano keys are shiny, they're probably plastic; if they dull with age, probably this wood|ebony
+400|This company cleaned up when it introduced the Dustbuster in 1979|Black & Decker
+600|A black monolith mysteriously appears at different times in human history in this classic sci-fi film|2001: A Space Odyssey
+800|The Black Death that killed many in Europe in the 1300s is believed to have been caused by this type of organism, Yersinia pestis|a bacterium
+1000|Their home ice is located at 1901 West Madison Street|the Blackhawks

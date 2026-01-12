@@ -1,0 +1,6 @@
+NAME IN COMMON
+200|Artist Klimt, different kind of artist Mahler, a few kings of Sweden|Gustav
+400|Name in common to a mother of a 20th century U.S. president & a WWII propaganda broadcaster|Rose (Rose Kennedy & Tokyo Rose)
+600|Musician Blind Lemon, non-U.S.-president Davis|Jefferson
+800|...to the big screen's "Scorpion King" & the little screen's "McMillan\"|Rock (the Rock & Rock Hudson)
+1000|The movies' Trumbo, English chemist John, politics' Fred Thompson|Dalton

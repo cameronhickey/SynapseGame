@@ -1,0 +1,6 @@
+ON THE RISK BOARD
+200|Quebec & this adjacent province are both on the board|Ontario
+400|Found on the board, it's the 2-word term for the region which includes Morocco & Algeria|North Africa
+600|This old name of a southeast Asian kingdom lives on in the game|Siam (for Thailand)
+800|If you go north from the Risk territory of Northern Europe, you get to this peninsular territory|Scandinavia
+1000|In the atlas, this country that gets its own territory is between Pakistan & Turkmenistan|Afghanistan

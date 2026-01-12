@@ -1,0 +1,6 @@
+THE SHORTIE IN THE GROUP
+200|Of planets in our solar system|Mars
+400|Of the 7 Dwarfs|Doc
+600|Of signs of the astrological zodiac|Leo
+800|Of the Great Lakes|Erie
+1000|Of Old Testament books|Job

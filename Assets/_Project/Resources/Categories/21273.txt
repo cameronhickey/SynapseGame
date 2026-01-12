@@ -1,0 +1,6 @@
+ONE I IS ENOUGH
+200|A medieval rank, sir|a knight
+400|If a woman is "with" this, she's eating for 2|child
+600|A precipice or ledge|a cliff
+800|To pledge one's troth to marry, or an unfavorable situation, hopefully not over the troth pledging|plight
+1000|A shelter used by hunters to conceal themselves|a blind

@@ -1,0 +1,6 @@
+STATES THAT FLOW TOGETHER
+200|One has St. Louis, the other has East St. Louis|Missouri & Illinois
+400|Hoover Dam is on their border|Nevada & Arizona
+600|The state where Martin Luther King was born & the state where he married Coretta Scott|Alabama & Georgia
+800|The big land buy named for one also got us the other|Louisiana & Arkansas
+1000|One has Rocky Mountain National Park, one has Cherokee State Park|Colorado & Oklahoma

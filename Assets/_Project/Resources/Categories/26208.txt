@@ -1,0 +1,6 @@
+2-WORD CITIES
+200|Czar Peter I intended to make this city his "window to Europe\"|St. Petersburg
+400|The U.S. Air Force Academy is found north of this city that includes its state in its name|Colorado Springs
+600|There are some big buildings in this Asian metropolis that just put a "Lump" in your throat|Kuala Lumpur
+800|This Israeli metropolis was founded as a suburb of the ancient port of Yafo, or Jaffa|Tel Aviv
+1000|This Chilean city, the largest on the Strait of Magellan, has been enriched by nearby oil fields|Punta Arenas

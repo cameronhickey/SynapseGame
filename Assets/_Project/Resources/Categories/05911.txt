@@ -1,0 +1,6 @@
+AFTER "ALL\"
+200|This reptile's jaws can crack cattle bones|Alligator
+400|\"The Pilgrim's Progress" is an example of this symbolic literary form|Allegory
+600|This indirect reference|allusion
+800|Back when I was your age I got a quarter a week (Canadian!) as this payment & was happy to get it|allowance
+1000|This small metal item essential for assembling Ikea products|an Allen wrench

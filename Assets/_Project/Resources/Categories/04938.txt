@@ -1,0 +1,6 @@
+FORE!
+200|Except during WWII, this golf tournament has been played at the Augusta National Golf Club every year since 1934|The Masters
+400|This hazard is simply a depression in the ground; if it contains sand it's called a sand trap|Bunker
+600|His record 20 wins in the 6 major golf tournaments include 6 Masters titles|Jack Nicklaus
+800|A ladies' golf tourney named for this entertainer is played at the Mission Hills Country Club in Rancho Mirage, CA.|Dinah Shore
+1000|In 1994 this Australian set a scoring record by averaging 68.81 per round for the year|Greg Norman

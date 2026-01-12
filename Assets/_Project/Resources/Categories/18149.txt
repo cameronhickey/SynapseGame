@@ -1,0 +1,6 @@
+NAME THAT FOOD
+200|Chorba & borscht: this food that has its own course|soup
+400|Bechamel: a basic white one of these|sauce
+600|Genoise: this type of dessert|sponge cake
+800|Beefsteak & champion: this member of the nightshade family|tomato
+1000|Scotch bonnet: a very hot one of these|chili pepper

@@ -1,0 +1,6 @@
+FROM BOOK TO TV
+200|Christopher Plummer narrated a 1993 Family Channel series about this Paris schoolgirl|Madeline
+400|In 1979 this James Jones novel was a miniseries with Steve Railsback in Montgomery Clift's movie role|From Here to Eternity
+600|\"Bastogne" was an episode of this war-set miniseries based on Stephen Ambrose's book|Band of Brothers
+800|Works by this author recently made into series include "Mr. Mercedes", "The Mist" & "11.22.63\"|Stephen King
+1000|Jennifer Connelly stars in this TV series based on a graphic novel & set aboard a train that perpetually circles a frozen world|Snowpiercer

@@ -1,0 +1,6 @@
+WHERE'S WALDO
+200|In a crowd with their eyes to the skies, Waldo's in this U.S. state|Florida
+400|Waldo would look good in the headgear on display at this Buckingham Palace event|changing of the guard
+600|Waldo joins other Americans in pondering beside this body of water in Washington, D.C.|the Reflecting Pool
+800|It's May 21, 1927, & Waldo has to fight the crowd to pick up a friend at this city's airfield|Paris
+1000|Wait your turn, Waldo, in the crowd of pilgrims who've come to bathe in this river|the Ganges (in India)

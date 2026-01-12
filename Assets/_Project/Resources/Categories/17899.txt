@@ -1,0 +1,6 @@
+CAIRO
+200|A centuries-old column on Roda Island in Cairo measured the height of this river's annual floods|the Nile
+400|Daily, an estimated 3 million Cairo commuters use the Metro, Africa's first one of these transportation systems|a subway
+600|Tahrir is the title Cairo place in this Oscar-nominated documentary about the recent upheavals in Egypt|The Square
+800|At a research institute in Giza, tourists can learn how the ancient Egyptians made paper from this plant|papyrus
+1000|The Citadel, one of Cairo's top landmarks, is a 12th century fortress built by this Muslim warrior|Saladin (Salah al-Din)

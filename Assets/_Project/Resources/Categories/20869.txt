@@ -1,0 +1,6 @@
+VIRUSES
+200|To hackers, this way into a house also means a security bypass that can let a virus infect a computer|a backdoor
+400|The first example of this -ware that extorts money to unlock your files was sent on disks to HIV researchers in 1989|ransomware
+600|The St. Louis encephalitis virus is transmitted in a cycle of bird to this insect to bird|mosquito
+800|This virus that sometimes breaks out on cruise ships is named for Norwalk, Ohio|norovirus
+1000|Stuxnet was created to damage this country's nuclear weapons program by making its centrifuges self-destruct|Iran

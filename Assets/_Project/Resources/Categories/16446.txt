@@ -1,0 +1,6 @@
+PLANE SPEAKING
+200|Small planes have 2- or 3-bladed these, but others have some with 8 blades|propellers
+400|Gyroscopes help maintain course as part of this airplane feature; in the feature "Airplane!", it was inflatable|the autopilot
+600|Top floor, please, Otis! It's a hinged surface on a plane's rear stabilizer that controls pitch|an elevator
+800|This alert! Ground & flight are types of this flap on top of the wing that rises to reduce lift & increase drag|the spoiler
+1000|You get an "A" for IDing this movable surface near the trailing edge of a wing used in maneuvers like banking|an aileron

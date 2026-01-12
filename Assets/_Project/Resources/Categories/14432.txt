@@ -1,0 +1,6 @@
+PALINDROMIC NAMES
+200|Supermodel Macpherson|Elle
+400|A man's name, or a float on a fishing line|Bob
+600|Mrs. Leonowens, a governess to the Siamese court in the 1860s|Anna
+800|First name of the actress who married Mickey Rooney, Artie Shaw & Frank Sinatra|Ava
+1000|In the 10th century 3 Holy Roman Emperors sported this palindromic name|Otto

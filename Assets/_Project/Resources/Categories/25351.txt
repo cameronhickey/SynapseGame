@@ -1,0 +1,6 @@
+START TALKING, SHAKESPEARE CHARACTER
+200|Her first line in "Othello" is "My noble father, I do perceive here a divided duty\"|Desdemona
+400|Falstaff's first line in this non-history play is "Now, Master Shallow, you'll complain of me to the king?\"|The Merry Wives of Windsor
+600|Her first speech is "What, jealous Oberon? Fairies, skip hence. I have forsworn his bed and company\"|Titania
+800|The opening line of this play is Orsino's "If music be the food of love, play on\"|Twelfth Night
+1000|Title character Antonio begins this play saying, "In sooth I know not why I am so sad\"|The Merchant of Venice

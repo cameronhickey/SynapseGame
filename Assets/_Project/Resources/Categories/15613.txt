@@ -1,0 +1,6 @@
+LITERARY BIOGRAPHIES
+200|You can read about the life & works of this author in a book subtitled "The Man Behind Winnie-the-Pooh\"|A. A. Milne
+400|This author of "Uncle Tom's Cabin" was the subject of a 1941 biography "Crusader in Crinoline\"|(Harriet Beecher) Stowe
+600|He's been the subject of several bios, including "The Big Swingers" & "The Man Who Created Tarzan\"|Burroughs
+800|Max Brod was responsible for the publication of this author's "The Trial" & also wrote a biography of him|Kafka
+1000|Quentin Bell wasn't "afraid of" this author, his aunt; he published a biography of her in 1972|Virginia Woolf

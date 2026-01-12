@@ -1,0 +1,6 @@
+HYBRID POODLES
+200|A goldendoodle|a golden retriever
+400|A poogle|a beagle
+600|A shih-poo|a shih tzu
+800|A schnoodle|a schnauzer
+1000|A pomapoo|a Pomeranian

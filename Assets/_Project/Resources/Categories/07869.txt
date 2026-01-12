@@ -1,0 +1,6 @@
+THAT'S MY ATTORNEY GENERAL
+200|John Ashcroft|George W. Bush
+400|Janet Reno|Bill Clinton
+600|Robert Kennedy (2 presidents, please)|John F. Kennedy & Lyndon B. Johnson
+800|Edwin Meese III|Ronald Reagan
+1000|Elliot Richardson|Richard Nixon

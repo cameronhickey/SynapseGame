@@ -1,0 +1,6 @@
+FRUITS & VEGGIES
+200|Broccoflower is a cross between these 2 veggies|broccoli & cauliflower
+400|The Concord type of this is used to make jam & juice|grapes
+600|Casaba & cantaloupe are types of this fruit|melon
+800|This unloved cabbage family member is named for the capital of Belgium|Brussels sprouts
+1000|In Latin a pirum is one of these fruits, not two|a pear

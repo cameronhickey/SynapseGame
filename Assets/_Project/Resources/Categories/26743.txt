@@ -1,0 +1,6 @@
+DICTIONARY ABBREVIATIONS
+200|It's the standard abbreviation for "miscellaneous\"|misc.
+400|\"intrans." isn't the abbreviation for intransigent but for this verb form|intransitive
+600|\"sing." isn't a command to vocalize, it's an abbreviation for this grammatical term|singular
+800|A "conj." isn't a conjurer. it's one of these|a conjunction
+1000|Etymologically speaking, "Skt." isn't short for skirt or Skittles but this|Sanskrit

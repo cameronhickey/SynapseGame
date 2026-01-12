@@ -1,0 +1,6 @@
+CURRENT GOVERNORS
+200|George Pataki|New York
+400|Christine Todd Whitman|New Jersey
+600|Frank Keating|Oklahoma
+800|Tommy Thompson|Wisconsin
+1000|John Engler|Michigan

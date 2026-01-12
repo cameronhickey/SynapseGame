@@ -1,0 +1,6 @@
+FOREIGN LEGISLATURE
+200|Bundestag & Bundesrat|Germany
+400|The Knesset|Israel
+600|The Cortes|Spain
+800|Dail Eireann & Seanad Eireann|Ireland
+1000|The Storting|Norway

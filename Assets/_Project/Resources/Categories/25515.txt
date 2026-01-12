@@ -1,0 +1,6 @@
+BUS. ABBREV.
+200|EOD: 5:00 PM, say, not December 31st|end of day
+400|MoM: Growth analysis|month-over-month
+600|To improve online visibility: SEO|search engine optimization
+800|JIT: The tournament? No! The inventory system!|just-in-time
+1000|LWOP: Luckily something that won't happen to you contestants|leave without pay(ment)

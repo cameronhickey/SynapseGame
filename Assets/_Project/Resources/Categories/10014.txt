@@ -1,0 +1,6 @@
+ESPAÑOL
+200|In Spanish, oro is gold & plata is this metal|silver
+400|This day of the week is domingo|Sunday
+600|This pet is un perro|a dog
+800|Before you turn in a paper, you should check this, la ortografia|the spelling
+1000|You'll find these, los escritorios, in the classroom|a desk

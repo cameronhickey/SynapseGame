@@ -1,0 +1,6 @@
+BEGINS & ENDS IN "K\"
+200|Lucy wouldn't let Charlie Brown do this to the football|Kick
+400|The British say "Touch wood"; we say this "wood\"|Knock
+600|This TV cop wasn't played by a Teletubby, but by a Telly Savalas|Kojak
+800|Mark Twain once worked as a printer in this Iowa town|Keokuk
+1000|Noted Czech astronomer...okay, we'll give you more; the comet named for him was sort of visible in 1973|Lubos Kohoutek

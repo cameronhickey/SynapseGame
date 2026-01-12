@@ -1,0 +1,6 @@
+LOGICAL GEOGRAPHIC NAMES
+200|This "sea" has heavy mineral deposits which make it saltier than the oceans & almost uninhabitable|the Dead Sea
+400|This Chinese river, Huang He, carries tons of colorful silt|the Yellow River
+600|This island was named for its location between the U.S. west coast & Japan|Midway
+800|Captain Cook stayed on this island, later used for nuclear testing, December 25, 1777|Christmas Island
+1000|What's now this African country was once the center of trade for elephant merchandise|Ivory Coast

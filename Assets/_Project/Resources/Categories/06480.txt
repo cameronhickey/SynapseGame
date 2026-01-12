@@ -1,0 +1,6 @@
+NAME THE SPORT
+200|11 teammates, a center circle, a penalty area, a goal|soccer
+400|4 teammates, a safety zone, a 40 yard mark, goal posts|polo
+600|As Landon Donovan knows, using hands is a no-no for the majority of the players|soccer
+800|Depending on the distance, field goals can be worth 2 or 3 points|basketball
+1000|Teams of 6 each hit the ball back & forth over a high net|volleyball

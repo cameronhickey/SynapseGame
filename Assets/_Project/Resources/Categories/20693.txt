@@ -1,0 +1,6 @@
+NAME THAT POET!
+200|\"Scots, wha hae wi' Wallace bled, Scots, wham Bruce has aften led\"|(Rabbie) Burns
+400|\"'Restore the lock!' she cries; and all around 'Restore the lock!' the vaulted roofs rebound\"|(Alexander) Pope
+600|\"If you can dream—and not make dreams your master; if you can think—and not make thoughts your aim\"|Rudyard Kipling
+800|\"The stockings were hung by the chimney with care, in hopes that St. Nicholas soon would be there\"|Clement Clark Moore
+1000|\"I love thee freely, as men strive for right; I love thee purely, as they turn from praise\"|Elizabeth Barrett Browning

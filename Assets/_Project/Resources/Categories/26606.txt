@@ -1,0 +1,6 @@
+HOW NOW, DOW JONES 30 SYMBOL
+200|BA isn't Bank of America, but speaking plane-ly, is this company|Boeing
+400|SHW is this brand that paints the town red (or another color of your choice)|Sherwin-Williams
+600|KO is a knockout of a symbol for this brand that stays liquid|Coca-Cola
+800|TRV means this company with assurances of insurance|Travelers
+1000|HON is this company that's into aerospace & also industrial automation, which doesn't sound like a scary pairing at all|Honeywell

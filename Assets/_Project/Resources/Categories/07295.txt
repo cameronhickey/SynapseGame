@@ -1,0 +1,6 @@
+HAVE A WHISKEY
+200|The Maker's Mark bourbon distillery in Loretto in this state is a national historic landmark|Kentucky
+400|Whiskey is usually about 40% alcohol, which is equal to this number in proof|80
+600|The world's most popular whiskey is this color Johnnie Walker|Red
+800|In the 1880s Ontario-brewed Club whiskey got this new national name|Canadian Club
+1000|This "Regal" brand assures us it's "Without Question the Best of the Scottish Blends\"|Chivas Regal

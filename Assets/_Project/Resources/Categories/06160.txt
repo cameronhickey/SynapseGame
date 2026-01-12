@@ -1,0 +1,6 @@
+VICE PRESIDENT & SENATOR
+200|This longtime senator who became VP in 1965 went back to the Senate in 1970 after losing a presidential bid|Hubert Humphrey
+400|A senator during most of the 1790s, he came out of the election of 1800 as vice president|Aaron Burr
+600|He resigned as vice president in 1832 (a first!) & was named a senator by South Carolina|John C. Calhoun
+800|As of 2000 he was the oldest senator turned vice president still alive|Walter Mondale
+1000|Years after Charles Fairbanks in 1905, he was the next Indianan to go from the Senate to the vice presidency|Dan Quayle

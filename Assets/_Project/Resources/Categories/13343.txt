@@ -1,0 +1,6 @@
+STAR-SPANGLED BANNER WORDS
+200|Sequential standing & sitting by sports spectators to give the impression of undulation|the wave
+400|The early evening when the sun is below the horizon|twilight
+600|Fortification with a parapet on top|a rampart
+800|It describes sound or video played in real time over the Internet|streaming
+1000|Bravely, like a knight errant|gallantly

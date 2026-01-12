@@ -1,0 +1,6 @@
+BODY PARTS' BETTER KNOWN NAMES
+200|Umbilicus|your belly button
+400|Braincase|the skull
+600|Scapula|the shoulder blade
+800|The trachea|the windpipe
+1000|Pollex|your thumb

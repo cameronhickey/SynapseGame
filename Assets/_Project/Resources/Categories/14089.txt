@@ -1,0 +1,6 @@
+FOOD EN ESPAÑOL
+200|Smile! Queso is this|cheese
+400|Arroz is this side dish|rice
+600|This breakfast pairing is tocino y huevos|eggs & bacon
+800|Papas fritas are these favorites|french fries
+1000|How cool! This dessert is helado|ice cream

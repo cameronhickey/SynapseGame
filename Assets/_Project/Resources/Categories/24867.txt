@@ -1,0 +1,6 @@
+VOWEL, VOWEL, CONSONANT, CONSONANT
+200|Sow sound|oink
+400|It's 2 ranks below duke & they're not making many new ones these days|earl
+600|Shakespeare's Caesar would not have made this cry, as in English it dates only to the 1830s|ouch
+800|duh-DUH, in poetry|iamb
+1000|To push someone out of a position, perhaps a dictator|oust

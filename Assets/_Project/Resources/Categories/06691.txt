@@ -1,0 +1,6 @@
+PLUS TAX
+200|On Feb. 15, 2000 McCain & Bush debated taxes on this emerging type of "commerce\"|e-commerce
+400|This type of tax is the main source of income for most U.S. local governments|property tax
+600|I dub thee this, an additional tax on top of one already being collected|surtax
+800|It's a synonym for "tariff" as well as for obligation|duty
+1000|Cigarette taxes are this type, from the Latin for "return", because lower-income people pay a higher percentage|regressive taxes

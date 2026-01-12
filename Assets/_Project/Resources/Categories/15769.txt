@@ -1,0 +1,6 @@
+ORE
+200|Processing 10 tons of ore yields one troy ounce of this, atomic number 79; no wonder it's so darned valuable|gold
+400|Add a letter to "melting" to get this method by which a metal is taken from its original ore|smelting
+600|You'll earn more than 5 cents if you know that when it comes to ores of this, it's millerite time|nickel
+800|This metal says Cu later to its chief ores, including chalcopyrite & chalcocite|copper
+1000|When pitchblende, an ore of this element, goes to a mill, sulfuric acid is used to produce yellowcake|uranium

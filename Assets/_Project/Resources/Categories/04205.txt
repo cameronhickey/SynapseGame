@@ -1,0 +1,6 @@
+BATTERIES
+200|It's the brand of Eveready battery that keeps the little pink bunny going & going & going...|Energizer
+400|NiCad batteries are so named because their electrodes are made using these 2 elements|nickel & cadmium
+600|Whether it's "C", "D" or "AA", an alkaline battery supplies this many volts|1.5
+800|If a light bulb shines after you wire it to a switch & battery, you've made a closed one of these|circuit
+1000|In a battery, an oxidation reaction occurs at the anode, & this type of reaction occurs at the cathode|a reduction reaction

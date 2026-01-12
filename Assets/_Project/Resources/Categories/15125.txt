@@ -1,0 +1,6 @@
+WORDS FROM PLANETS
+200|A song from the eighth planet|a tune
+400|French "sea" on the innermost planet|a mer
+600|To move around the axis of the second-biggest planet|turn
+800|The area for the orchestra on the biggest planet|a pit
+1000|Culture from the "third rock\"|art

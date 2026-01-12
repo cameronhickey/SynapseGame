@@ -1,0 +1,6 @@
+SYMPTOMS
+200|This pain that radiates from the lower back to the foot is named for the longest nerve in the body|sciatica nerve
+400|Speech difficulty & double vision are symptoms of a transient ischemic attack, considered a "mini" one of these|a stroke
+600|Numb fingers are a symptom of this syndrome caused by the ligaments of the wrist pressing against the median nerve|carpal tunnel syndrome
+800|Vague pain around the navel that intensifies can be a symptom of this; apply pressure to McBurney's point to diagnose|appendicitis
+1000|Chronic fatigue & sensitivity to cold are symptoms that this endocrine gland in the neck is underactive|the thyroid gland

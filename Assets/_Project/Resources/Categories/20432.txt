@@ -1,0 +1,6 @@
+TYPES OF MOVIES
+200|In his review of "Legendary", Roger Ebert called it a "wrestling" version of one of these lacrimation-inducing movies|a tearjerker
+400|\"Le Pistole Non Discutono", AKA "Bullets Don't Argue", is this type of low-budget western|a spaghetti western
+600|This movie technique got its own feature film category at the Oscars in 2002|animation
+800|This alliterative term can refer to any type of olden furniture as well as a movie set in olden times|a period piece
+1000|French name for a documentary style with handheld camera work & candid, authentic subject matter|cinéma vérité

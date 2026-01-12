@@ -1,0 +1,6 @@
+PHYSIOLOGY
+200|Your head line is found not on a newspaper but here, near the phalanges|(the palm of) your hand
+400|The oculomotor nerve controls 4 of the 6 muscles of this organ|the eye
+600|Of the ear bones called "hammer", "anvil" & "stirrup", the one that looks most like its namesake|stirrup
+800|The lumbar spine is composed of 5 of these, L1 to L5|vertebrae
+1000|The heaviest human organ, it gets its blood from both an artery & a vein|liver

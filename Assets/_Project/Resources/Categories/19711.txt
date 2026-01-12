@@ -1,0 +1,6 @@
+\"PEANUT", "BUTTER", "JELLY", "TIME\"
+200|The sea nettle is one of these blobby creatures with stinging tentacles|a jellyfish
+400|A schedule of events|a timetable
+600|In a table setting, it's placed on its own small plate above the forks|a butter knife
+800|This candy made of caramelized sugar & a legume is easily broken— but that's the point!|peanut brittle
+1000|Alliterative name for chunks of Styrofoam that spill all over the floor when unpacking a box you've received|packing peanuts

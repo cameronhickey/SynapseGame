@@ -1,0 +1,6 @@
+COME TOGETHER
+200|It's a meeting with the pope, or a group of people attending a TV show taping|audience
+400|From the French for "sitting", it's a "medium-sized" gathering for communicating with the dead|seance
+600|It's the famous presidential retreat where Carter, Begin & Sadat got together in 1978|Camp David
+800|It's the small hammer used to quiet disturbances at parliamentary functions|gavel
+1000|A gathering of famous historical people, "Meeting of Minds" was an Emmy-winning creation of this comedian|Steve Allen

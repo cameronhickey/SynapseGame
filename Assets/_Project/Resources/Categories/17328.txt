@@ -1,0 +1,6 @@
+GEOGRAPHY CLASS
+200|This river ends its 2,300-mile course just above St. Louis|the Missouri
+400|This Scandinavian city built on 14 islands is nicknamed the "Venice of the North\"|Stockholm
+600|The smallest & shallowest of the world's 5 oceans is this one|the Arctic
+800|This 1,200-mile-long system of mountain ranges is home to the Barbary ground squirrel|the Atlas Mountains
+1000|The city of Chiang Mai in this country is home to Baan Chang Elephant Park|Thailand

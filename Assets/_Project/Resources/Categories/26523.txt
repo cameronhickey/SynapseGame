@@ -1,0 +1,6 @@
+YOUR BODY, IN LATIN
+200|Caput|head
+400|Pulmo|lung
+600|Carpus|wrist
+800|Talus|your ankle
+1000|Pectus|chest

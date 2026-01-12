@@ -1,0 +1,6 @@
+SOUNDS, INTERESTING
+200|These mammals always seem eager to chat with us|dolphins
+400|The noise level of this type of cold-weather recreational item has been reduced by over 90% since the 1960s|a Ski-Doo (or a snowmobile or skimobile)
+600|In the 1970s this metal brought a new sound to the national pastime|aluminum
+800|There's a cooking implement in the name of these dramatic noisemakers|a kettledrum
+1000|If you hear this cathedral's bells, installed in 1878, it's Sunday, or maybe there's news out of Buckingham Palace|St. Paul's Cathedral

@@ -1,0 +1,6 @@
+CATS IN PROVERBS
+200|\"____ killed the cat\"|Curiousity
+400|\"When the cat's away, the mice will ____\"|play
+600|\"There's more than one way to ____ a cat\"|skin
+800|\"In the dark all cats are ____\"|grey
+1000|\"A cat in ____ catches no mice\"|gloves

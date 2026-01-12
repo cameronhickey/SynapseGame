@@ -1,0 +1,6 @@
+FISHING FOR VOCABULARY
+200|Tell the theater troupe it's a single toss of a fisherman's line & bait|a cast
+400|You might be enticed by this general name for any artificial bait used to attract fish|a lure
+600|By gum, it's a fishing spear with a 3-pronged point|a trident
+800|Hey, good buddy, it's ground-up bits of bait discarded into the water to attract game fish|chum
+1000|It might be a social blunder to use one of these long poles with a hook on the end to land a large fish|a gaff

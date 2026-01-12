@@ -1,0 +1,6 @@
+NICKNAMES
+200|The Cooperative for American Relief Everywhere is better known by this name|CARE
+400|Janis Joplin's nickname & her #1 posthumous album|Pearl
+600|\"The Little Giant\"|Stephen Douglas
+800|\"Little Sure Shot\"|Annie Oakley
+1000|\"The Great Dissenter\"|Oliver Wendell Holmes

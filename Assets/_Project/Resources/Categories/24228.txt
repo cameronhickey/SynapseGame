@@ -1,0 +1,6 @@
+HOME COMPUTING
+200|Your laptop's displayport or HDMI port can be hooked up to one of these just like the nice big one you had at the office|a computer monitor
+400|Cat 6 is one type of this cable to connect a computer to the Internet; flat ones are easier than round ones to run under the rug|ethernet
+600|A good webcam is vital both for work meetings & for when you become King Bozomeme on this gamer livestreaming service from Amazon|Twitch
+800|Impact & thermal are types of these peripherals|printers
+1000|You can get an encrypted connection to the Internet with a VPN, short for this|a virtual private network

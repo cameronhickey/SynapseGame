@@ -1,0 +1,6 @@
+COLLEGE TOWNS
+200|It's home to Concordia College as well as the University of Michigan|Ann Arbor
+400|In 1942 the University of this city was the site of the first controlled nuclear chain reaction|Chicago
+600|Brown University|Providence, Rhode Island
+800|Carnegie Mellon University|Pittsburgh
+1000|Duke University|Durham, North Carolina

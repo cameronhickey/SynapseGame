@@ -1,0 +1,6 @@
+MILITARY MATTERS
+200|It's what the abbreviation POW/MIA stands for|Prisoner of War/Missing in Action
+400|The Air Force's basic unit, it's subordinate to a group & consists of 2 or more flights|Squadron
+600|There are Chinese & Russian versions of this rifle that's also known as Kalashnikov Model 1947|AK-47
+800|(Hi, I'm David James Elliott of "JAG") Abbreviated UCMJ, this "uniform" standard covers the law in the armed forces|Uniform Code of Military Justice
+1000|Major Esterhazy was probably the real spy for the Germans in this French "affair" that began in 1894|Dreyfus Affair

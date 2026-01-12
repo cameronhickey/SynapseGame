@@ -1,0 +1,6 @@
+WHAT CITY ARE WE IN?
+200|Regent's Park, St. James's Park, Hyde Park|London
+400|The Hofborg, Freud's Apartment, St. Stephen's Cathedral|Vienna
+600|The Mauritshuis, The International Institute for Social Studies, The International Court of Justice|The Hague
+800|Lake Gardens, The Rubber Research Institute, The National Museum of Malaysia|Kuala Lumpur
+1000|Place Ville-Marie, Place Jacques Cartier, Beaver Lake|Montreal

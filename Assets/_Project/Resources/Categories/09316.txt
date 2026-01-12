@@ -1,0 +1,6 @@
+SOCIAL TYPES
+200|A "man on the street" is an ordinary Joe; a bon vivant is a "man about" this|town
+400|A boomer was born in the '50s; a flapper was popular mainly during this decade|the '20s
+600|This 7-letter neologism describes someone who desires to emulate Madonna's or Britney's success|wannabe
+800|One who wields his power unofficially is this color eminence|gray
+1000|After literati, men of letters become famous & wealthy, they get a couple letters more & become part of this group|glitterati

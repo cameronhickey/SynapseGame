@@ -1,0 +1,6 @@
+BE SPECIFIC
+200|Just "Rockefeller" isn't enough; we need the first name of Ford's veep|Nelson
+400|Pappy van Winkle's Family Reserve isn't just "whisky"; it's Kentucky straight this|bourbon
+600|Pick a Baldwin, any Baldwin! Actually, pick this star of "The Usual Suspects" & "Celebrity Big Brother\"|Stephen Baldwin
+800|You just said "uranium"— we need this number isotope, the only naturally occurring fissile material|235
+1000|\"The Russo-Turkish War" won't do it; there have been a dozen—give us this 1853-1856 one|the Crimean War

@@ -1,0 +1,6 @@
+BEGINS & ENDS WITH "O\"
+200|The website for this snack features the Double Stuf Racing League|Oreo
+400|Herr Bismarck knows this given name comes from a Germanic word meaning "rich\"|Otto
+600|It's another word for margarine|oleo
+800|This term for an extended musical composition comes from the Italian for "small chapel\"|oratorio
+1000|L.A. restaurant Locanda Veneta serves this veal dish con risotto|osso bucco

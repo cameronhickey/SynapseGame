@@ -1,0 +1,6 @@
+PARTS OF THE HOLE
+200|Golfers start a hole from this "box\"|the tee (box)
+400|5-letter word for the long grass bordering the fairway|the rough
+600|A type of bunker, what it's filled with or the type of wedge you use to escape it|sand
+800|Canine term for the sharp turn where the trees eat your drive|a dogleg
+1000|It's the out-there word for the short grass around the green|fringe

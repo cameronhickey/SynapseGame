@@ -1,0 +1,6 @@
+METRO STATIONS
+200|The Wakefield 241st Street subway station, the northernmost station in the New York City Subway System, is in this borough|the Bronx
+400|Bank & Brixton are stops on London's Metro, better known as the Tube or by this subterranean name|the Underground
+600|In Chicago the Blue Line takes you to O'Hare, while the Orange Line takes you to the station for this other airport|Midway
+800|The artwork on the walls of this Paris Metro station named for a demolished edifice includes key moments of the French Revolution|Bastille
+1000|A Metro stop that serves George Washington University has this 2-word name that includes a murky adjective|Foggy Bottom

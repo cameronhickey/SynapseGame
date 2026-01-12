@@ -1,0 +1,6 @@
+ALTERNATIVE MEDICINE
+200|In this practice, heat or electricity may be applied to the skin in addition to needles|Acupuncture
+400|In 1975 Herbert Benson described the "relaxation response" evoked by TM, which stands for this|Transcendental Meditation
+600|D.D. Palmer, the inventor of this therapy, performed his first adjustment in 1895|Chiropractic
+800|Panax, the genus name of this Chinese root, is derived from the word "panacea\"|Ginseng
+1000|This holistic approach to stress reduction involves monitoring involuntary body functions|Biofeedback

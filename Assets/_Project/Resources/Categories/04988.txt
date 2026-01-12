@@ -1,0 +1,6 @@
+BERRIES
+200|The berry of this unassuming shrub produces the oil commonly used to flavor gin|Juniper/sloe
+400|A judge crossed California & Texas blackberries & created these which bear his name|Loganberries
+600|The huckleberry is often confused with this North American berry to which it is closely related|the blueberry
+800|This fruit was not named for a Hanna-Barbera pooch but is probably an alteration of "hurtleberry\"|a huckleberry
+1000|This small berry that flavors gin is sometimes found in Alsatian sauerkraut|juniper

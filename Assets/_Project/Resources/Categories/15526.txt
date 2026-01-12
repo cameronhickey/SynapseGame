@@ -1,0 +1,6 @@
+SPORTS BY MOVIE
+200|\"Mr. 3000\"|baseball
+400|\"Like Mike\"|basketball
+600|\"Days of Thunder\"|NASCAR auto racing
+800|\"Remember the Titans\"|high school football
+1000|\"Miracle\"|ice hockey

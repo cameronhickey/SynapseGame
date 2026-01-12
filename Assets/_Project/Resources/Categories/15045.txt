@@ -1,0 +1,6 @@
+PICKUP ARTISTS
+200|Hopefully, you won't ram this brand's Ram 1500 into anything|Dodge
+400|This 3-letter auto brand's Sierra pickup has some people saying "hello Denali\"|GMC
+600|Drive its Tacoma all the way to Yakima, if you want|Toyota
+800|A new F-150 from this company starts at around $22,000|Ford
+1000|Do your civic duty & know this company makes the Ridgeline|Honda

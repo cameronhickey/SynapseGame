@@ -1,0 +1,6 @@
+WHAT GRADE DID YOU GET?
+200|Anthracite, the highest grade of this, is made almost entirely of carbon|coal
+400|Grades of this potable range from doux to brut|champagne
+600|A "less than investment grade" bond is usually referred to as this 4-letter term|junk
+800|Bond & book are grades of this product made from compressed cellulose|paper
+1000|Excelso is a grade of coffee from this country, perhaps from Medellin|Colombia

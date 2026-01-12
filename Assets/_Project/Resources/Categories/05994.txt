@@ -1,0 +1,6 @@
+WE'RE WORLD CHAMPS
+200|Felix Trinidad, Lennox Lewis, Oscar De La Hoya|boxing
+400|Alexander Khalifman, Anatoly Karpov, Garry Kasparov|chess
+600|Svetlana Chorkina, Shannon Miller, Kim Zmeskal|gymnastics
+800|Alexei Yagudin, Todd Eldredge, Elvis Stojko|figure skating
+1000|Lasse Kjus, Hermann Maier, Alberto Tomba|skiing

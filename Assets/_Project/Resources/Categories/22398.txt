@@ -1,0 +1,6 @@
+SIMILAR BRAND NAMES
+200|Singular, it's a Burger King staple; plural, it's a brand of malted milk balls|Whopper
+400|Possessive, it's a pizza brand; not possessive, it's a sugar brand|Domino's
+600|This Greek letter is an airline, faucet maker & dental insurance company|delta
+800|This Greek woman is a "charm"-ing jewelry company, or a streaming music app|Pandora
+1000|When you eat this brand's bars, make sure they're the chocolate ones., not the moisturizing ones|Dove

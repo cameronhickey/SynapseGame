@@ -1,0 +1,6 @@
+TV & MOVIE COMMON BONDS
+200|Jack Paar, Johnny Carson, Jay Leno|The Tonight Show
+400|Aurora, Ariel, Merida|Disney princesses
+600|Berta, Alice Nelson, Rosie the Robot|maids (or housekeepers)
+800|Carmilla, Damon Salvatore, Barnabas Collins|vampires
+1000|Herbie, General Lee, Black Beauty|cars

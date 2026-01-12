@@ -1,0 +1,6 @@
+WHOSE MOVIE TITLE?
+200|From Tyler Perry: her "Big Happy Family\"|Madea
+400|A weepy classic TV movie with James Caan: his "Song\"|Brian
+600|A dark fairy tale: his "Labyrinth\"|Pan
+800|Starring Al Pacino as a Puerto Rican ex-con: his "Way\"|Carlito
+1000|An Oscar-winning foreign film: her "Feast\"|Babette

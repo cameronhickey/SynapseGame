@@ -1,0 +1,6 @@
+I "PASS"ED!
+200|A travel document for identification|Passport
+400|Perhaps a much-sought northwest one, it's a corridor or pathway enclosed on both sides|Passage
+600|It means "unresisting", but it often precedes "resistance\"|Passive
+800|This word borrowed from French means "outmoded\"|Passe
+1000|A bunch, often "of brats\"|Passel

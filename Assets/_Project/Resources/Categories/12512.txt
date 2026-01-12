@@ -1,0 +1,6 @@
+HEAD TRAUMA
+200|This hemorrhage of a blood vessel leading to the brain is also known as an apoplexy|a stroke
+400|Also known as dens sapientiae, these can be a pain if they have to come out|the wisdom teeth (or third molars)
+600|The NFL recently set a policy for these injuries, from the Latin for "shaking\"|concussions
+800|Vegetable term for an ear that's misshapen from repeated blows|a cauliflower ear
+1000|Antonio Egas Moniz won a 1949 Nobel Prize for introducing this procedure that affects the prefrontal lobes|a lobotomy

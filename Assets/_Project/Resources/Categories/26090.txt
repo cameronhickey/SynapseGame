@@ -1,0 +1,6 @@
+FOOT BALL
+200|Defenders can't approach a kicker taking this soccer penalty, whether the direct or indirect type|a free kick
+400|In this sport, it's a 5-run penalty if a fielder deliberately kicks a ball hit by a batsman over the boundary rope|cricket
+600|In kickball the pitching strip is 42 feet, 5 1/8 inches from this|the (home) plate
+800|It's extremely rare now, but this play in which the ball is kicked after it hits the ground is still legal in the NFL|a drop kick
+1000|The AFGL is the American Foot this League, which plays the sport with kicks & soccer balls on courses across the country|Golf

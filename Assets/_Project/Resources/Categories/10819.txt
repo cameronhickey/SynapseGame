@@ -1,0 +1,6 @@
+IT BORDERS ONLY ONE OTHER COUNTRY
+200|This Asian country borders only one country, across a demilitarized zone|South Korea
+400|This Western hemisphere country is the world's largest nation to border only one other|Canada
+600|One of the 2 countries that border only Italy, due to being completely surrounded by it|Vatican City or San Marino
+800|This nation borders only the United Kingdom|Ireland
+1000|The 2 countries in the Caribbean that border only one other nation, each other|Dominican Republic and Haiti

@@ -1,0 +1,6 @@
+PICK THE OSCAR WINNER
+200|\"The Godfather": Marlon Brando, Robert Duvall, Al Pacino|Brando
+400|\"The Goodbye Girl": Quinn Cummings, Richard Dreyfuss, Marsha Mason|Richard Dreyfuss
+600|\"The English Patient": Ralph Fiennes, Kristin Scott Thomas, Juliette Binoche|Juliette Binoche
+800|\"Judgment at Nuremberg": Spencer Tracy, Maximilian Schell, Judy Garland|Maximilian Schell
+1000|\"Bonnie and Clyde": Warren Beatty, Faye Dunaway, Estelle Parsons|Estelle Parsons

@@ -1,0 +1,6 @@
+RAGING HORMONES
+200|Hypoglycemia can be caused by excess production of this hormone in the pancreas|Insulin
+400|Also called epinephrine, this hormone that's released in emergencies has been used to treat asthma|Adrenaline
+600|Parathormone keeps up the level of this mineral in blood by stimulating its release from bone|Calcium
+800|It's the organ that produces gastrin|the stomach
+1000|Some athletes have taken androstenedione to boost levels of this male hormone|Testosterone

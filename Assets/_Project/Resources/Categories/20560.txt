@@ -1,0 +1,6 @@
+WHAT "A" COUNTRY?
+200|It's subject to violent windstorms called pamperos|Argentina
+400|It became independent of France in 1962|Algeria
+600|It borders Macedonia & Montenegro|Albania
+800|Its capital is Luanda, formerly São Paulo de Luanda|Angola
+1000|Its provinces include Aragatsotn & Ararat|Armenia

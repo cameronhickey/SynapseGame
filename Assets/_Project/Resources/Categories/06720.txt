@@ -1,0 +1,6 @@
+THE NEAREST U.S. EMBASSY
+200|If you're in Abrantes, Portugal|Lisbon
+400|If you're on Crete|Athens
+600|If you're in Christchurch|Wellington (or London)
+800|If you're in Johannesburg|Pretoria
+1000|If you're in Medellin|Bogotá

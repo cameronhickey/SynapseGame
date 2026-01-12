@@ -1,0 +1,6 @@
+RADIO
+200|ABC talk radio host, his program is a real "Thriller\"|Michael Jackson
+400|Term for bribes some late '50s DJ's took to promote certain records|payola
+600|Maximum power wattage at which an am station can broadcast legally in the U.S.|50,000 watts
+800|Radio station operated by the U.S. Information Agency|Voice of America
+1000|First station to ever broadcast election returns, KDKA, still operates in this city|Pittsburgh

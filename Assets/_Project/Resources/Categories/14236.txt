@@ -1,0 +1,6 @@
+THE COMMISH
+200|Roger Goodell|the NFL
+400|Bud Selig|Major League Baseball
+600|David Stern|the NBA
+800|Gary Bettman|the NHL
+1000|Bart Giamatti (once)|Major League Baseball

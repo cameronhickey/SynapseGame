@@ -1,0 +1,6 @@
+METALLICA
+200|In 1987 the album "Ride the Lightning" by Metallica achieved this status of 500,000 copies sold|gold
+400|To buy this precious metal, visit Taxco, Mexico; it's the city's best-known product|silver
+600|This metal was discovered in 1789; it took until 1896 to find out that it was radioactive|uranium
+800|In 1984 the album "Ride the Lightning" by Metallica achieved this status of 500,000 copies sold|gold
+1000|A policeman could tell you the U.S. half dollar today is about 92% this metal|copper

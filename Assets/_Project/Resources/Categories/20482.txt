@@ -1,0 +1,6 @@
+ELECTRIC
+200|In addition to moving earth, Caterpillar is a major supplier of these units to supply backup power to hospitals|generators
+400|An oscilloscope displays wave forms to show voltage and this electric flow measured in amperes|currents
+600|Around 1908 William Coolidge improved upon this tungsten wire thread, making it bendable & the modern light bulb was born|the filament
+800|The common duplex receptacle that you plug your blow dryer into has 2 outlets, each of this many volts|120
+1000|This phenomenon of zero resistance occurs in certain metals cooled to near absolute zero|superconductivity

@@ -1,0 +1,6 @@
+REGIONAL WINDS
+200|A purga is a wind that's common in this season in Siberia|winter
+400|Moving north from the equator, the wind belts run: the Trades, the Westerlies & these|the easterlies
+600|The Williwaw blows straight through this South American strait|the Magellan Strait
+800|It's Southern California's famous hot, dry wind|the Santa Ana
+1000|This hot, dust-laden wind blows from the Libyan desert into Italy|the Sirocco

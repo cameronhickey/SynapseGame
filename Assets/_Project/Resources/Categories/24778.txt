@@ -1,0 +1,6 @@
+ARMY "ANT"s
+200|This branch of the U.S. Army is its principal land combat force|infantry
+400|AAA is this type of artillery used to defend against attack from above|anti-aircraft
+600|A 3-star general is also known as this type & somewhat surprisingly, outranks a major one|lieutenant (lieutenant general)
+800|The Army of the Potomac turned back the Army of Northern Virginia at this famously bloody 1862 battle|Antietam
+1000|In the U.S. Army, a WO1 is this type of officer, the army's tactical & technical experts|a warrant officer

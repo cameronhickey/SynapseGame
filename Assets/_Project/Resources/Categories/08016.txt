@@ -1,0 +1,6 @@
+HAVE A BEER!
+200|The "King of Beers\"|Budweiser
+400|\"It's Australian for beer\"|Fosters
+600|\"La cerveza mas fina\"|Corona
+800|\"The beer that made Milwaukee famous\"|Schlitz
+1000|\"From master brewers a master brew\"|Meister Brau

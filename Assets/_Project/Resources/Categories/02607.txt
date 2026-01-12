@@ -1,0 +1,6 @@
+COLORFUL FOOD
+200|Rices are divided into white or this color|brown
+400|Sockeye is the red variety of this; humpback is pink|salmon
+600|Scrumptious-sounding name for a popular yellow apple|golden delicious
+800|Gorgonzola & Stilton are classified as these|blue cheeses
+1000|This popular salad dressing was named for a 1920s play|green goddess

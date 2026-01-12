@@ -1,0 +1,6 @@
+\"AA", "BB" OR "CC\"
+200|To shrtn. a wd. or phrs. by omtng. ltrs.|abbreviate
+400|A spasm of the diaphragm, or a minor setback|a hiccup
+600|A reel or spool upon which yarn is wound, as used in spinning|a bobbin
+800|This African mammal may dig burrows 43 feet long; some "earth pig"!|an aardvark
+1000|It's the land promised by God to Abraham|Canaan

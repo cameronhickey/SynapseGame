@@ -1,0 +1,6 @@
+FOOD
+200|America's largest crop, more accurately called maize|corn
+400|Widely considered a vegetable tho botanists call it a fruit, it was once thought to be poisonous|a tomato
+600|Named for French village, sheep milk cheese injected with penicillin mold|Roquefort
+800|This puffy pudding is often served with roast beef in Britain|Yorkshire pudding
+1000|This dish consists of poached peaches filled with ice cream & topped with raspberry sauce|Peach Melba

@@ -1,0 +1,6 @@
+STATE NICKNAMES
+200|\"The Quaker State\"|Pennsylvania
+400|\"The Highest State\"|Colorado
+600|It was once known as the "Hog and Hominy State"—perhaps you'll "Volunteer" a response|Tennessee
+800|Since its the "Tree Planters State" you might want to plant one near the Platte|Nebraska
+1000|This "Granite State" is the "Mother of Rivers" because several of them originate in its mountains|New Hampshire

@@ -1,0 +1,6 @@
+PRIME
+200|In football a field goal is worth this many points|3
+400|Most human cells contain this many pairs of chromosomes|23
+600|Batch number of a bestselling grease-cutting "Formula" created by Detroit scientists years ago|409
+800|There are this many cards of each suit in a traditional deck of playing cards|13
+1000|Recent British prime ministers have resided at this number Downing Street, as the flat is larger than the traditional lodging|11

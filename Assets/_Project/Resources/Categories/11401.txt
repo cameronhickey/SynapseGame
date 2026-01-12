@@ -1,0 +1,6 @@
+TIME IS "SHORT\"
+200|One of the railroads in the board game Monopoly|Short Line
+400|Assume this baseball position|shortstop
+600|To the IRS, the 1040EZ is one of these|a short form
+800|Briefly, it's butter or lard used to make pastry|shortening
+1000|Pitman & Gregg developed modern versions of this technique used in dictation|shorthand

@@ -1,0 +1,6 @@
+\"I" OF THE TIBER
+200|The Tiber is one of the longest rivers in this country|Italy
+400|The Roman Ponte Cestio leads to Isola Tiberina, one of these in the Tiber|an island
+600|Water intakes on the Tiber are chiefly used for this, from the Latin for "watering\"|irrigation
+800|In this book, the title guy says I'm "usually called Tiberius... inappropriate because the Tiber runs very fast\"|I, Claudius
+1000|Much of the course of the Tiber traverses this type of layer, defined as that through which fluids won't pass|impermeable

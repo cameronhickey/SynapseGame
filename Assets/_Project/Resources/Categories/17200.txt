@@ -1,0 +1,6 @@
+A FEW CHOICE WORDS
+200|Of rain, hail or sleet, the one that has a homophone meaning "healthy\"|hail
+400|Of scuba, maser or razor, the one that's not an acronym|a razor
+600|Of anachronism, masochism or bolshevism, the one that gets its name from a person|masochism
+800|Of boisterous, articulate or opaque, the one that's an antonym of pellucid|opaque
+1000|Of conjugate, abrogate or fustigate, the one that's a synonym for repeal|abrogate

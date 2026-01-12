@@ -1,0 +1,6 @@
+CAT SCAN
+200|Persian, Uzbeki, Afghani|Persian
+400|Jinx, Dix, Manx|Manx
+600|Turkish Coupe, Turkish Sedan, Turkish Van|Turkish Van
+800|Ethiopian, Abyssinian, Nubian|Abyssinian
+1000|Ragamuffin, Hobo, Urchin|Ragamuffin

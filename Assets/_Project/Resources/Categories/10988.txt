@@ -1,0 +1,6 @@
+DEAD, CONSCIOUS OR IN BETWEEN
+200|\"Braveheart": William Wallace|dead
+400|\"Casablanca": Victor Laszlo|conscious
+600|\"The Empire Strikes Back": Han Solo|in between
+800|\"The Matrix Reloaded": Neo|in between
+1000|\"American Beauty": Lester Burnham|dead

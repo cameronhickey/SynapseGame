@@ -1,0 +1,6 @@
+\"O" NOUNS
+200|A competitor, like the 2 other contestants|opponent
+400|It's the branch of medicine that deals with pregnancy & childbirth|obstetrics
+600|A building that houses a telescope|observatory
+800|An 8-piece musical group|octet
+1000|Government by a wealthy elite|oligarchy

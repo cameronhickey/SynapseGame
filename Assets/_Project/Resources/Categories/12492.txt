@@ -1,0 +1,6 @@
+MORSE CODE
+200|Dot-dash is "A"; a dot then a dash is these 2 letters, also a Spielberg movie title|\"E-T\"
+400|5 dashes means nothing—more precisely, this numeral|0
+600|The famous message sent in Morse code May 24, 1844; we guess it started dot-dash-dash|\"What hath God wrought\"
+800|This precursor to the CIA would be dash-dash-dash dot-dot-dot dot-dot-dot|the OSS
+1000|(Kelly of the Clue Crew shows an animation on the monitor combining two Morse code letters.) In the 21st century, international Morse code fought its slide into obsolescence with its first new character in decades—it combined A & C to symbolize this sign|@

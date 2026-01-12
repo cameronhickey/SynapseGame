@@ -1,0 +1,6 @@
+INVENTED FIRST
+200|Stereoscope, bifocal lens, x-ray tube|bifocal lens
+400|Microwave oven, fiberglass, frozen food|frozen food
+600|Gyroscope, stethoscope, telescope|telescope
+800|Linoleum, bakelite, aspartame|linoleum (around 1860)
+1000|Bunsen burner, Geiger counter, Leyden jar|Leyden jar (1745)

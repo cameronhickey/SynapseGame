@@ -1,0 +1,6 @@
+STREETS
+200|This NYC street is nicknamed the "Great White Way\"|Broadway
+400|An avenue in Bardstown, Kentucky is named for this "My Old Kentucky Home" composer|Stephen Foster
+600|This street is directly before the river in Texas Hold 'Em|fourth street
+800|Kenyatta Avenue is this capital's main drag|Nairobi
+1000|In this city Forbes Street leads to Woolloomooloo Wharf|Sydney

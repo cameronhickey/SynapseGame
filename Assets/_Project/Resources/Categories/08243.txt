@@ -1,0 +1,6 @@
+ACIDS
+200|Salicylic acid is used in making perfumes, fungicides, & this most common fever reducing drug|aspirin
+400|Generic name for a plain carbonic acid drink|soda (soda water)
+600|1st prepared in 1400s, this poisonous & highly corrosive acid is found naturally in your stomach|hydrochloric acid
+800|This acid found in the bark of oak trees gives tea its astringency, color & taste|tannic acid
+1000|This acid also known as vitamin C can be found in tomatoes & potatoes as well as citrus fruit|ascorbic acid

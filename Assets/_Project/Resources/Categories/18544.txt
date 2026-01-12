@@ -1,0 +1,6 @@
+COUNTRIES IN 3 WORDS
+200|South America's largest|Brazil
+400|Capital at Kingston|Jamaica
+600|Also called Burma|Myanmar
+800|Western Tunisia adjacent|Algeria
+1000|Formerly Gilbert Islands|Kiribati

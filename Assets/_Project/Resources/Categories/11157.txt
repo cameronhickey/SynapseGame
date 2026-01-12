@@ -1,0 +1,6 @@
+NEWSPAPER SECTIONS
+200|Section where Troy Polamalu & Shawn Green make headlines|Sports
+400|The New York Times runs bestseller lists in this Sunday section|the Book Review section
+600|It doesn't contain secret data but ads divided into categories|the Classifieds
+800|Wow! This L.A. Times section says ALCAN is up 5 cents! Sell!!|Business
+1000|The Washington Post section on city life; it's also the city's subway|Metro

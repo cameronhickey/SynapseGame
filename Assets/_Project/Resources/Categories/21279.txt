@@ -1,0 +1,6 @@
+GLOBAL MONSTERS
+200|Typhon, a mythical beast with serpents for fingers, could only be defeated by this top Greek god|Zeus
+400|The dullahan is a scary Irish horse-riding demon with this quality, like a spectral rider of Sleepy Hollow|he's headless
+600|Indonesia's pontianak monster, a ghost of a woman who died in this condition, will try to eat your guts|pregnancy
+800|South Africa's grootslang is a horrific cave beast that's part serpent, part this giant trumpeter|an elephant
+1000|The kamaitachi of Japan is a weasel armed with these curve-bladed grain cutters shorter than scythes|a sickle

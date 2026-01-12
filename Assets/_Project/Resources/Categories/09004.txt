@@ -1,0 +1,6 @@
+LOST IN TRANSLATION
+200|Bai zhang|Chinese
+400|Perdido|Spanish
+600|Perdu|French
+800|Verloren|German
+1000|Rosuto|Japanese

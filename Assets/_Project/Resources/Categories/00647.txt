@@ -1,0 +1,6 @@
+THE ELEMENTS
+200|Steps to extract this element, Co, from copper ore include roasting, leaching & electrolysis|cobalt
+400|You can find this element symbolized Bi in the Andes, so it's really "none of yours\"|bismuth
+600|Marguerite Perey named this radioactive element, symbol Fr, after her country|Francium
+800|The lightest of the halogens, its name is from the Latin for "to flow\"|fluorine
+1000|The Germans call this element Wasserstoff|Hydrogen

@@ -1,0 +1,6 @@
+ROLE IN COMMON
+200|Sean Connery, George Lazenby, Timothy Dalton|(James) Bond
+400|Keaton, Kilmer & Clooney conquered crooks as this caped crusader|Batman
+600|Sean Connery, Clive Owen, Graham Chapman|King Arthur
+800|Laurence Olivier & Mel Gibson both played this great Dane on film, though 42 years apart|Hamlet
+1000|Sean Connery, Richard Chamberlain, Patrick Swayze|Allan Quatermain

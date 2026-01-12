@@ -1,0 +1,6 @@
+THE "FAC"s OF LIFE
+200|Send a fax & tell me it's short for this word|facsimile
+400|A mental ability, perhaps to help one join a university teaching staff|a faculty
+600|A dissenting minority within a larger group|a faction
+800|7-letter term for a small & often unimportant bit of information|a factoid
+1000|From the Latin for "do everything", it's somebody employed to do a variety of jobs for someone else|a factotum

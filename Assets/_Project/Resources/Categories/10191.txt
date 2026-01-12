@@ -1,0 +1,6 @@
+CELL
+200|You can shoot videos & play music with a Walkman phone from Ericsson in partnership with this company|Sony
+400|Nextel's merger with this company should give the competition a run for their money|Sprint
+600|Started by SBC & Bellsouth, it's now a "one of a kind" company with its purchase of AT&T Wireless|Cingular
+800|This cellphone maker has jumped back to the No. 2 spot worldwide by a Razr's edge|Motorola
+1000|This company beat out Qwest to buy MCI & become a telecom colossus|Verizon

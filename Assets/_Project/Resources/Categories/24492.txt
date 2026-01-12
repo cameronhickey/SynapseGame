@@ -1,0 +1,6 @@
+THE STATE'S OTHER SENATOR
+200|In Vermont newly elected Peter Welch serves with him|Bernie Sanders
+400|In Pennsylvania, he's newly elected to serve with Bob Casey|Fetterman
+600|In Florida with Rick Scott|Marco Rubio
+800|With Rand Paul|Mitch McConnell
+1000|With Kirsten Gillibrand|Chuck Schumer

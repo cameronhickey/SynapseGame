@@ -1,0 +1,6 @@
+COURSES AT CALTECH
+200|\"Human" this process covers natural selection & genetics|evolution
+400|4 letters preceding "technology" in a course that explores "miniaturization of devices to the smallest scale\"|nano
+600|The techies take a humanities break in "From Van Eyck to" this master painter of the Dutch golden age|Rembrandt
+800|\"Engineering" this -ology examines earthquakes from the engineering perspective|seismology
+1000|Master the introduction "to guidance, navigation, and control" & you'll get an "A" in this "engineering\"|aerospace

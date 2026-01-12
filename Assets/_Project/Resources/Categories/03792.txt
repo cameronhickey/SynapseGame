@@ -1,0 +1,6 @@
+GEOGRAPHER'S DICTIONARY
+200|These administrative subdivisions of Louisiana correspond to counties in other states|Parishes
+400|It's an old name for a Chinese seaport, or what the Swiss call their states|Canton
+600|A coral reef roughly parallel to a shore & separated from it by a lagoon; it may be a "Great" one|Barrier reef
+800|Also called pergelisol, it's the perennially frozen subsoil of Arctic & subarctic regions|permafrost
+1000|It's not the building where I keep my Perrier, it's the elevated tract of ground between 2 drainage areas|Watershed

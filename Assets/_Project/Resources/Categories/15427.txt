@@ -1,0 +1,6 @@
+GIVE 'EM A "HAND\"
+200|They're manacles, man!|handcuffs
+400|Pessimistic people see things "going to hell in" one of these woven containers|a handbasket
+600|This hyphenated term refers to the ability to use dexterity & vision together|hand-eye coordination
+800|If there's an emergency on your ship, you'll hear this 4-word command, so head up the companionway|\"all hands on deck\"
+1000|In cyberconvo, OTOH is short for this, when you don't want to commit to an opinion|on the other hand

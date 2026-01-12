@@ -1,0 +1,6 @@
+4-LETTER WORDS, SAME FIRST & LAST LETTER
+200|Midday|noon
+400|Soothe to sleep|lull
+600|Elegant or stylish|chic
+800|To mutilate or wound seriously|maim
+1000|What a daffodil grows from|bulb

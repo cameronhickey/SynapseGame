@@ -1,0 +1,6 @@
+JOHN MARSHALL
+200|Marshall entered Virginia politics & in 1787 was a delegate to the convention to ratify this|the Constitution
+400|In 1807 Marshall presided over the treason trial of this man|Aaron Burr
+600|Marshall was a cousin, friend & finally adversary of this president who raged at his pro-Federalist rulings|Jefferson
+800|As minister to this nation, Marshall became an American hero for refusing the demands made in the XYZ Affair|France
+1000|Marshall's first major case, Marbury v. him, established the court's right to review federal laws|Madison

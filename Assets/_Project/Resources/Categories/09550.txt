@@ -1,0 +1,6 @@
+MLB TEAMS BY STADIUM
+200|Shea Stadium|the Mets
+400|Busch Stadium|the Cardinals
+600|Coors Field|the Rockies
+800|The Hubert H. Humphrey Metrodome|the Twins
+1000|Tropicana Field|the Tampa Bay Devil Rays

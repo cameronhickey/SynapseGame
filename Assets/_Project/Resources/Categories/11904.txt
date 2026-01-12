@@ -1,0 +1,6 @@
+IT BORDERS FRANCE
+200|It's the only grand duchy that borders France|Luxembourg
+400|The country with which France shares its northernmost border|Belgium
+600|The largest country in area that borders France|Spain
+800|The Alps straddle the border between France & these 2 countries|Italy & Switzerland
+1000|The 2 tiniest countries that border France (& we do mean tiny!)|Monaco & Andorra

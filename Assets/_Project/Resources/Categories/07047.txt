@@ -1,0 +1,6 @@
+BEAT IT
+200|A gnat can beat these over 500 times a second|their wings
+400|Invented by Dietrich Winkel, this musical device can sound a steady beat at various speeds|a metronome
+600|This battery-operated device is implanted to stimulate the heart to beat in a normal rhythm|a pacemaker
+800|(Sarah of the Clue Crew dances in costume while clicking with hand-held wooden instruments.) From the Spanish for "chestnuts", these instruments put the beat in flamenco dancing|castanets
+1000|A common effect of lightning injury is this, defined as a heartbeat of over 100 beats per minute|tachycardia

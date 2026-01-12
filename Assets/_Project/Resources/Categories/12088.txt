@@ -1,0 +1,6 @@
+WEAPONRY
+200|Standard-issue weapons for stormtroopers in "Star Wars" included energy-bolt-firing pistols called these|blasters
+400|In the 1960s Nelson Mandela led the military group "Umkhonto we Sizwe", or this weapon "of the Nation\"|Spear
+600|The first 2 weapons Hamlet mentions in his "To be or not to be" soliloquy|slings & arrows
+800|In the missile called a "SAM", it's what the "A" stands for|air
+1000|The weapons that are "bursting" in line 5 of "The Star-Spangled Banner\"|bombs

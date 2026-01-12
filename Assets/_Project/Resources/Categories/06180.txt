@@ -1,0 +1,6 @@
+CHARACTER REFERENCE
+200|Peter Quint is a ghost in "The Turn of the Screw" & Quint is an Amity Island fisherman in this 1974 novel|Jaws
+400|Beatty is the captain of the firemen in this futuristic novel that's been inflaming readers since June 1953|Fahrenheit 451
+600|He created William Budd, a sailor on the Indomitable|Herman Melville
+800|John Grimes is a Harlem youth who has a tough time finding his black identity in this James Baldwin work|Go Tell It on the Mountain
+1000|Vera Chipmunk-5 Zappa & Wilbur Swain are friends in his "Slapstick\"|Kurt Vonnegut, Jr.

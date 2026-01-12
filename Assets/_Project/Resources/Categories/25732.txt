@@ -1,0 +1,6 @@
+POETRY TEST
+200|Maya Angelou rhymed this title word with "eyes" & "lies\"|Rise
+400|Guests at many a wedding don't hear the lowercase in E.E. Cummings' "i carry your" this "with me\"|heart
+600|In an obvious yet deep thought, Dickinson began a poem this "is counted sweetest by those who ne'er succeed\"|success
+800|\"So vast was the struggle to found the Roman state" is a line from this epic by Virgil|the Aeneid
+1000|\"There's a stake in your fat black heart", she wrote in "Daddy", a searing poem from her posthumous 1965 collection "Ariel\"|Plath

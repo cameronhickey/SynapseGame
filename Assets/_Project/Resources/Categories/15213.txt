@@ -1,0 +1,6 @@
+DISNEYLAND SONGS
+200|\"Yo ho, yo ho...\"|Pirates of the Caribbean
+400|\"It's a world of laughter, a world of tears...\"|It's a Small World
+600|\"Grim, grinning ghosts come out to socialize...\"|The Haunted Mansion
+800|\"A Heffalump & Woozle is very confusel..."\'|Winnie the Pooh
+1000|\"Never smile at a crocodile\"|Peter Pan

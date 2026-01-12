@@ -1,0 +1,6 @@
+HERE'S THE FIRST LETTER
+200|I: a list of places to visit on a journey|itinerary
+400|K: legendary sea monster causing large whirlpools off Norway's coast—release it!|the Kraken
+600|J: to cut veggies into thin strips|julienne
+800|Q: an adjective meaning square; it often precedes "equation\"|quadratic
+1000|X: Coleridge's luxurious place|Xanadu

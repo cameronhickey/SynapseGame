@@ -1,0 +1,6 @@
+HOME ICE
+200|Madison Square Garden|the (New York) Rangers
+400|Mellon Arena|the Pittsburgh Penguins
+600|Joe Louis Arena|the Detroit Red Wings
+800|Scotiabank Saddledome|the Calgary Flames
+1000|TD Banknorth Garden|the Boston Bruins

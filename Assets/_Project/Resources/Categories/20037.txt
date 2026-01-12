@@ -1,0 +1,6 @@
+BODY PART TITLES
+200|\"The Moving Finger" was Agatha Christie's fourth mystery featuring this elderly amateur sleuth|Miss Marple
+400|\"How I Got My Shrunken Head" & "The Headless Ghost" are 2 of the scary titles in this R.L. Stine series|Goosebumps
+600|Poe played an organ of a different sort—under the floorboards— in this tense short story|\"The Tell-Tale Heart\"
+800|In "Broca's Brain" this astrophysicist explored the romance of science & the amazing future to come|Carl Sagan
+1000|\"There was only a flat patch on his face" is the alarming discovery of a major in the Gogol story named for this|\"The Nose\"

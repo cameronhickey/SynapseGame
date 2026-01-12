@@ -1,0 +1,6 @@
+COUNTIES BY STATE
+200|Accomack, Albemarle, Appomattox|Virginia
+400|Camden, Cumberland, Cape May|New Jersey
+600|Lea, Luna, Los Alamos|New Mexico
+800|Saluda, Spartanburg, Sumter|South Carolina
+1000|Seneca, Summit, Sandusky|Ohio

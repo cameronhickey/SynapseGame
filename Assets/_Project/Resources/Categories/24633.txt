@@ -1,0 +1,6 @@
+U.S. METROPOLITAN PARTNERS
+200|This city-Cambridge-Newton|Boston
+400|This city-Naperville-Elgin|Chicago
+600|This city-Henderson-Paradise|Las Vegas
+800|This city-Davidson-Murfreesboro-Franklin|Nashville
+1000|This city-Sandy Springs-Alpharetta|Atlanta

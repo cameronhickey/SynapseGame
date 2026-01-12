@@ -1,0 +1,6 @@
+RANDOM HOUSE DEFINITIONS
+200|\"The body of a dead person given the semblance of life\"|zombie
+400|In 13 letters, "a freshman or sophomore\"|underclassman
+600|\"A male given name: from an Arabic word meaning 'generous'" (& not "skyhook master")|Kareem
+800|Under "T", "a bunch of threads, small cords, or other strands hanging from a roundish knob or head\"|tassel
+1000|\"Latin. In the same book, chapter\"|ibid

@@ -1,0 +1,6 @@
+DEM BONES
+200|The "middle" part of this organ is an air cavity in the temporal bone|the ear
+400|Popularly called the shinbone, it's the larger of the 2 bones in the lower leg|the tibia
+600|While humans have 2 of these collarbones, dogs don't have any|clavicles
+800|Resting on the maxilla, the zygomatic is this bone in the face|the cheekbone
+1000|It's the collective name for the bones that form the fingers & toes|the phalanges

@@ -1,0 +1,6 @@
+LAST LINES
+200|Film in which Edward G. Robinson's dying words are "Mother of mercy, is this the end of Rico?\"|Little Caesar
+400|In a 1914 book he says, "My mother was an ape...she couldn't tell me much about it. I never knew who my father was\"|Tarzan
+600|Beatles song which ends, "Yeah, yeah, yeah; yeah, yeah, yeah; yeah, yeah, yeah, yeah\"|\"She Loves You\"
+800|Thomas Mann work that ends, "A shocked and respectful world received the news of his decease\"|Death in Venice
+1000|Song which concludes, "3 cheers for the red, white & blue\"|\"Columbia, The Gem Of The Ocean\"

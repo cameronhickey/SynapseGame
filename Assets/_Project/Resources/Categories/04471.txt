@@ -1,0 +1,6 @@
+FROM RUSSIA
+200|The second M in MGM, this Russian immigrant created the star system as one of the heads of that company|Louis B. Mayer
+400|This immigrant was a longtime president of RCA & rose to brigadier general during WWII|David Sarnoff
+600|In the 1940s he & Lincoln Kirstein founded the New York City Ballet|George Balanchine
+800|Familial titles from Chekhov include "The Three Sisters" & this one subtitled "Scenes from Country Life in Four Acts\"|Uncle Vanya
+1000|The story of this woman who wrote "The Story of Civilization" with husband Will began in Russia in 1898|Ariel Durant

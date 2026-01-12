@@ -1,0 +1,6 @@
+MOVIE COMEDIES
+200|Jack Nicholson teamed up with Adam Sandler for this 2003 film|Anger Management
+400|Mel Gibson got in touch with his feminine side in this 2000 comedy|What Women Want
+600|She returned as Elle Woods in "Legally Blonde 2: Red, White & Blonde\"|Reese Witherspoon
+800|Sandra Bullock calls it quits as Hugh Grant's attorney in this 2002 romantic comedy|Two Weeks Notice
+1000|In this 1979 comedy Bill Murray says, "It just doesn't matter if we win or if we lose. It just doesn't matter\"|Meatballs

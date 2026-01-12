@@ -1,0 +1,6 @@
+BOOK NAMES
+200|Charles Dickens: "Little ____\"|Dorrit
+400|Theodore Dreiser: "Sister ____\"|Carrie
+600|George Bernard Shaw: "Major ____\"|Barbara
+800|Nietzsche: "Thus Spoke ____\"|Zarathustra
+1000|Alexander Solzhenitsyn: "One Day in the Life of ____ ____\"|Ivan Denisovich

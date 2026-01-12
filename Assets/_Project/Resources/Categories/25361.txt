@@ -1,0 +1,6 @@
+THE COUNTRY THAT BORDERS BOTH
+200|Israel & Sudan|Egypt
+400|Turkey & Bulgaria|Greece
+600|Finland & Russia|Norway
+800|Oman & Jordan|Saudi Arabia
+1000|Costa Rica & Honduras|Nicaragua

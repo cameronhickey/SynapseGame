@@ -1,0 +1,6 @@
+HUMMINGBIRDS
+200|Of 50, 100 or 200, the number of wingbeats per second for the smallest hummingbirds during courtship|200
+400|Although it's true that hummingbirds prefer flowers of this color, the shape of the flower is equally important|red
+600|At night hummingbirds enter torpor, a short version of this, in which temp. lowers & metabolism slows|hibernation
+800|The largest hummingbird is the 8 1/2-inch Patagona gigas, native to this mountain range|the Andes
+1000|This species, which shares its name with a steam organ, is North America's smallest bird at around 2 3/4" in length|the Calliope hummingbird

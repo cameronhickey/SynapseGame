@@ -1,0 +1,6 @@
+ENDS IN "X\"
+200|It's the 4-letter term for the highest point of a mountain|apex
+400|It's the river in which Achilles' mother dipped him to make him invulnerable|the Styx
+600|A 3-letter word for "to veto", or a German water sprite|nix
+800|During an 1878 epidemic of this disease, Calamity Jane helped care for the victims|smallpox
+1000|A whirling mass of air or water|vortex

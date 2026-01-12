@@ -1,0 +1,6 @@
+U.S. PORT CITIES
+200|Pull into this port city & you'll find Fort Sumter guarding its harbor|Charleston
+400|Among the busiest ports with "port" in their names are Port Everglades in Florida & Port Arthur in this state|Texas
+600|(Kelly of the Clue Crew gives the clue from a port city in Georgia.) This mother city of Georgia was known as the "pretty woman with a dirty face" until a preservation effort began in the 1950s|Savannah
+800|By containers handled, Los Angeles is the busiest U.S. port; the second-busiest is in this city just a few miles south|Long Beach
+1000|Among the top 40 busiest ports in the U.S. are these Northeast & Northwest cities with the same name|Portland

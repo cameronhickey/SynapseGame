@@ -1,0 +1,6 @@
+CAR REPAIR
+200|Appropriate for this American brand: CHEER VOLT|Chevrolet
+400|Not so appropriate for this fancy schmancy car: CLOSE LORRY|Rolls Royce
+600|It made the Cutlass Ciera: LIMO BE SOLD|Oldsmobile
+800|Revolutionary brand launched in 1975: LO, ERA END|the DeLorean
+1000|An Italian job: I EAT ARMS|Maserati

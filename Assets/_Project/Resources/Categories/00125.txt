@@ -1,0 +1,6 @@
+TRAVEL
+200|This necessary document cost $10 in 1980, but is now $35|a passport
+400|Non-sexist name for a stewardess|a flight attendant
+600|A vaccination is no longer required since this disease is eradicated|smallpox
+800|Tags for luggage headed for this airport appropriately read "LAX\"|Los Angeles (International)
+1000|Ship passengers are greeted & dunked by King Neptune 1st time they cross this|the Equator

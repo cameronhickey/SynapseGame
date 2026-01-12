@@ -1,0 +1,6 @@
+RED, WHITE OR BLUE
+200|It's a synonym for Bolshevik|Red
+400|The largest living animal on earth has this color in its name|a blue whale
+600|The one that's not a label of Johnnie Walker|White
+800|It's the color of the flag that stops an auto race before the finish|red
+1000|It's the only one in the title of an Oscar-winning song|\"White Christmas\"

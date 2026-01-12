@@ -1,0 +1,6 @@
+DOGS
+200|A purebred dog has this to prove it|a pedigree
+400|This wolfhound's name comes from Russian for "swift\"|borzoi
+600|This Chinese dog was introduced to the West after the British seized the Imperial Palace in 1860|the Pekingese
+800|Some say this breed named for a Canadian province was developed from dogs imported by Basque fishermen|the Newfoundland
+1000|In 1931 this dog was declared a national monument of Japan|the Akita

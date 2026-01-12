@@ -1,0 +1,6 @@
+CALL ME W
+200|In 1940 he was "The Bank Dick\"|W.C. Fields
+400|The 1941 book "Father Of The Blues" was about him|W.C. Handy
+600|This Anglo-American poet picked up a Pulitzer in 1948|W.H. Auden
+800|\"Perfection...it is apt to be dull", wrote this author of "Of Human Bondage\"|W. Somerset Maugham
+1000|His foundation has given money to colleges & also to public TV to broadcast "Sesame Street\"|W.M. Keck Foundation

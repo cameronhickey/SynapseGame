@@ -1,0 +1,6 @@
+ANIMAL TYPES
+200|Belted Galloway & Polled Hereford|a cow (cattle)
+400|Sumatran & greater one-horned|a rhinoceros
+600|Hoffmann's two-toed & brown-throated three-toed|a sloth
+800|Mourning & Seychelles turtle|doves
+1000|Parnassian & Gossamer-winged|butterflies

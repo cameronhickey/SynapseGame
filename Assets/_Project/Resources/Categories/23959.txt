@@ -1,0 +1,6 @@
+SETTING, THE BROADWAY STAGE
+200|This show is set in & around Rydell High School|Grease
+400|This show's "Cell Block Tango" is danced in Cook County Jail|Chicago
+600|This musical gets its dance on in 1962 Baltimore|Hairspray
+800|This favorite is right here in River City, Iowa|The Music Man
+1000|As of 2022, it's the longest-running current show with Northern Uganda as a setting|The Book of Mormon

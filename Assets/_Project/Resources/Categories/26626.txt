@@ -1,0 +1,6 @@
+MOVIE TITLES IN ITALIANO
+200|2010: "Mangia prega ama\"|Eat Pray Love
+400|1972: "Il padrino\"|The Godfather
+600|2003: "Sotto il sole Della Toscana\"|Under the Tuscan Sun
+800|1969: "Un colpo all'italiana" (the 2003 remake used the English title)|The Italian Job
+1000|2017: "Chiamami col tuo nome\"|Call Me by Your Name

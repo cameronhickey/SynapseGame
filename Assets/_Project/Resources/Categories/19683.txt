@@ -1,0 +1,6 @@
+GEO-GLOSSARY
+200|It's the fertile upper layer of the Earth's crust, or what it does to dirty your clothes|soil
+400|Halite is the naturally occurring form of this mineral|sodium chloride (or salt)
+600|It'll be a feather in your cap if you can give us this term for a column of magma rising from the mantle|a plume
+800|Oblique slip is one type of this, which can be measured in inches or miles|a fault
+1000|(Jimmy of the Clue Crew shows an image on the monitor.) The edge of plateau where multiple streams drop to a plain below is called this 4-letter line, for the cataracts that form there|a fall line

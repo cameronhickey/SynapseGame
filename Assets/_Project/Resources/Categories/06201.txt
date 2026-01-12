@@ -1,0 +1,6 @@
+LIBROS EN ESPANOL
+200|Wells: "La Maquina del Tiempo\"|\"The Time Machine\"
+400|Alcott: "Hombrecitos\"|\"Little Men\"
+600|Stephen King: "Corazones en la Atlantida\"|\"Hearts in Atlantis\"
+800|Vonnegut: "Matadero Cinco\"|\"Slaughterhouse Five\"
+1000|Saint-Exupery: "El Principito\"|\"The Little Prince\"

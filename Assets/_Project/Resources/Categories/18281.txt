@@ -1,0 +1,6 @@
+PLACES THAT END IN "IA\"
+200|This country is bordered by Turkey to the north & Iraq to the east|Syria
+400|This capital of British Columbia has a regal name|Victoria
+600|One of the 2 U.S. state capitals that fit the category|Olympia (or Columbia)
+800|Hungary regained about 2/5 of this region in WWII, but the entirety was ceded to Romania in 1947|Transylvania
+1000|This Virginia city is politically not part of a county but is within the boundaries of Arlington & Fairfax|Alexandria

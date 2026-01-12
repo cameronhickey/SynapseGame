@@ -1,0 +1,6 @@
+BEVERAGE BRANDS
+200|It's the official sports drink of the NFL|Gatorade
+400|Developed at the University of Florida in the 1960s, this sports drink's ingredients include glucose and water|Gatorade
+600|Brisk is a line of iced teas from this brand|Lipton
+800|This bottled beverage brand claims its products are "Made from the best stuff on earth\"|Snapple
+1000|This alliterative brand of French vodka features flying birdies on its bottles|Grey Goose

@@ -1,0 +1,6 @@
+STATE LANDMARKS
+200|The Ethan Allen Homestead Museum|Vermont
+400|The Jack Daniel Distillery|Tennessee
+600|Fort Sumter National Monument|South Carolina
+800|Faulkner's home Rowan Oak|Mississippi
+1000|Check out its Shoshone Falls|Idaho

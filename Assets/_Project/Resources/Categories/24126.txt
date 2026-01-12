@@ -1,0 +1,6 @@
+ACCEPTABLE 2-LETTER SCRABBLE WORDS
+200|Big bovine|ox
+400|An aboveground railway|el
+600|George Takei's 2-word catchphrase|oh my
+800|\"Special" is one type of this short form|ed
+1000|COVID variant names skipped nu & this 14th Greek letter|xi

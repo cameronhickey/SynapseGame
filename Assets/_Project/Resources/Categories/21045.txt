@@ -1,0 +1,6 @@
+A STREETCAR
+200|This city isn't just about cable cars; its classic Muni streetcars run past the historic piers|San Francisco
+400|The Sun Link streetcars that take you to the U. of Arizona in this city are among the first U.S.-made ones in 60 years|Tucson
+600|If you are from west this city, born & raised, you've seen its restored SEPTA streetcar on Route 15|Philadelphia
+800|In 2001 this City of Roses got the USA's first new streetcar line since WWII & it'll take you to the Rose Quarter|Portland
+1000|A vintage trolley in Denver travels a short distance along this river to Mile High Stadium|the South Platte River

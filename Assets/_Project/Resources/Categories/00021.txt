@@ -1,0 +1,6 @@
+THE CALENDAR
+200|The feast of Saint Nicholas falls on the 6th of this month|December
+400|In the Northern Hemisphere this month begins approximately 10 days after the winter solstice|January
+600|A magazine issued every fortnight would usually have this many issues a year|26
+800|These 2 consecutive months have a fly & bug named for them|May & June
+1000|If you were to change today from this calendar to the Gregorian, you'd have to add 13 days|Julian

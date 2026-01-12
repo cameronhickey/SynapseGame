@@ -1,0 +1,6 @@
+A DATE WITH DENSITY
+200|This planet has a greater mean density than any of the others in our solar system|Earth
+400|With more than 1,000 people per square mile, this East Coast state has the highest population density in the U.S.|New Jersey
+600|(Cheryl of the Clue Crew demonstrates a scientific instrument.) This device\ for measuring the density of liquids takes its name from the Greek for "water measure\"|hydrometer
+800|It's what the M & the V stand for in the equation to calculate density, d=m/v|mass & volume
+1000|HDLs, considered a good form of cholesterol, are short for high-density these|lipoproteins

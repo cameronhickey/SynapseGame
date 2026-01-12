@@ -1,0 +1,6 @@
+\"B"s ON BOTH ENDS
+200|Title of Newhart's third sitcom|Bob
+400|Tell all|Blab
+600|A tell-all book might have this kind of short publicity notice on its cover|Blurb
+800|A cutting remark, or a part of a feather|Barb
+1000|\"Overall", it's on top|Bib

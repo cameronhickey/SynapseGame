@@ -1,0 +1,6 @@
+NATIONAL NAMES
+200|Ukrayina|Ukraine
+400|Eire|Ireland
+600|Osterreich|Austria
+800|Magyar Koztarsasag|Hungary
+1000|Sverige|Sweden

@@ -1,0 +1,6 @@
+PLAY "BALL\"
+200|Gaylord Perry was a master of this illegal pitch, using many different lubricants|Spitball
+400|In basketball it's a shot that doesn't touch the backboard, net or rim|Airball
+600|A "prescription" for exercise is to toss this large, weighty, solid object from person to person|Medicine ball
+800|It's also called "Table Soccer" & "That game in bars where you spin the rods\"|Foosball
+1000|Willie Mays was famous for playing this in the streets even as a Major League Baseball player|Stickball

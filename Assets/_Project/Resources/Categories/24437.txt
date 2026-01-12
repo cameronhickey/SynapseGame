@@ -1,0 +1,6 @@
+THE MOVIE ATHLETE'S SPORT
+200|Robert Redford, "The Natural\"|baseball
+400|Hilary Swank, "Million Dollar Baby\"|boxing
+600|Ray Allen, "He Got Game\"|basketball
+800|Dennis Quaid, "Breaking Away\"|bicycle racing
+1000|Sylvester Stallone, "Over the Top\"|arm wrestling

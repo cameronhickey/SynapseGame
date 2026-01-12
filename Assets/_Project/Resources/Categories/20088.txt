@@ -1,0 +1,6 @@
+FOREIGN GEOGRAPHIC TERMS
+200|In French: ile|an island
+400|In German: Vulkan|a volcano
+600|In Dutch: Berg|mountain
+800|In Spanish: playa|a beach
+1000|In Italian: fiume|a river

@@ -1,0 +1,6 @@
+MAY "B\"
+200|Give me a nice French "good day\"|bonjour
+400|Oh, Jeeves! It's the job title of a household's chief male servant|a butler
+600|A European brown bear (who dreams of going to UCLA?)|a bruin
+800|5-letter word for supreme happiness, be it wedded or eternal|bliss
+1000|A body-covering garment having a veiled opening for the eyes, worn by Muslim women|a burqa

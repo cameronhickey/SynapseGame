@@ -1,0 +1,6 @@
+YOU GET AN "A\"
+200|...in Drama, if you can name this city that hosted the ancient drama festival called the City Dionysia|Athens
+400|...in American History, if you know that this man was the only U.S. president named Chester|Arthur
+600|...in French, if you remember this French word for "friend\"|ami
+800|...in Biology, if you recall that millipedes belong to this phylum of animals|arthropods
+1000|...in Geography, if you know that this country calls itself Republik Oesterreich|Austria

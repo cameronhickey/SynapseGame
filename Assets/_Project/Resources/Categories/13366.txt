@@ -1,0 +1,6 @@
+INFLATABLE
+200|In the event of a car crash, the rapid expansion of nitrogen gas is used to inflate these emergency devices|air bags
+400|In an angioplasty, a balloon is inflated to clear a blocked one of these|an artery
+600|Usually attached to an inflatable cuff, a sphygmomanometer measures this|blood pressure
+800|This term for a small, inflatable boat dragged behind a yacht comes from the Hindi for "small boat\"|dinghy
+1000|Also called puffers, these fish are known for their ability to inflate themselves for defensive purposes|blowfish

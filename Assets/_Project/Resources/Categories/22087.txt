@@ -1,0 +1,6 @@
+WHAT DO "I" STAND FOR
+200|In IRS, an agency of the Treasury Department|Internal
+400|In IBS, a disorder of the intestines|irritable
+600|In DPI, a measure of printing resolution|inch
+800|In F.I., a feature of some car engines|injection
+1000|In AFIS, a system law enforcement uses to compare fingerprints|Identification

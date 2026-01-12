@@ -1,0 +1,6 @@
+POTABLE WORDS
+200|A cotton-cleaning device, or a cry in a card game saying you've completed your hand|gin
+400|It's the opposite of starboard|port
+600|The band Looking Glass found her "a fine girl\"|\"Brandy\"
+800|To strike with a fist or make a hole in a ticket|punch
+1000|It's the residue coal leaves after destructive distillation|coke

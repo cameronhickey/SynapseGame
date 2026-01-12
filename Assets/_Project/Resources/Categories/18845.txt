@@ -1,0 +1,6 @@
+FROM PAGE TO MUSICAL
+200|It was a 75-year journey, but "The Wonderful Wizard of Oz" stepped out as this musical with an all-black cast|The Wiz
+400|The Tony-winning musical "Big River" was based on this Mark Twain classic|The Adventures of Huckleberry Finn
+600|Damon Runyon's story "The Idyll of Miss Sarah Brown" rolled the dice as this musical|Guys and Dolls
+800|Welcome, old chum, to this musical based on Christopher Isherwood's "Berlin Stories\"|Cabaret
+1000|Lerner & Loewe adapted this musical from T.H. White's "The Once & Future King\"|Camelot

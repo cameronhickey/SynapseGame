@@ -1,0 +1,6 @@
+GET YOUR SOMETHINGS IN A ROW
+200|East to west by birthplace: Holliday, Rivers, Severinsen|Docs
+400|By era of popularity: rolltop, tanker, standing|desks
+600|Biggest to smallest: Uno, tarot, pinochle|decks
+800|In royal succession: Cambridge, Sussex, York|Dukes
+1000|In construction order: Afsluit, NIeuwebildt, Omring|dikes

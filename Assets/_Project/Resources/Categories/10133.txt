@@ -1,0 +1,6 @@
+ENDS IN "G\"
+200|A small snail-like mollusk that has no shell, or a metal disk often used illegally in vending machines|a slug
+400|The Gate of Heavenly Peace lies at the southern edge of this capital's Imperial City|Beijing
+600|An earthenware drink cup, or your face|a mug
+800|From the Welsh for "rock", it's the broken projecting part of a rock|a crag
+1000|It's the abbreviated form of the Russian for "Chief Administration of Corrective Labor Camps\"|gulag

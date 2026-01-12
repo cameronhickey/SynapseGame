@@ -1,0 +1,6 @@
+CHESS ME, YOU FOOL!
+200|It's the number of white squares on a standard chessboard|32
+400|If you place this piece in the center of the board, it can control a maximum of 27 squares (hint: that's a lot)|the queen
+600|To give unwanted advice about another player's game is to do this, a Yiddish term for offering intrusive commentary|kibbitz
+800|It's the only move in which 2 pieces, the king & the rook, are moved simultaneously|castling
+1000|It's an opening strategy in which one player sacrifices a pawn or piece in order to gain a positional advantage|the opening gambit

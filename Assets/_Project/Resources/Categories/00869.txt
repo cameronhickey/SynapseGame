@@ -1,0 +1,6 @@
+WORLD LIT
+200|\"War and Peace" was originally written in French & this language|Russian
+400|To support his family in the 1850s, he farmed & wrote magazine stories; his whale tale didn't sell well|Herman Melville
+600|Title adjective used to describe Dickens' "Dorrit" or Alcott's "Women\"|Little
+800|Hemingway's "A Farewell to Arms" is set during this war|the First World War
+1000|You can't say this Norwegian is without peer; he wrote "Peer Gynt\"|Ibsen

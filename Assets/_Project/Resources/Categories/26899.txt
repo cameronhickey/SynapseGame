@@ -1,0 +1,6 @@
+COMETS & ASTEROIDS
+200|Like atoms, comets also have this distinct inner core|nucleus
+400|Mainly composed of dust & ice, comets have been called "dirty" ones of these|snowball
+600|Most asteroids are found between the orbits of these two planets|Mars & Jupiter
+800|Large comets often travel through space within a cloud of this gas|hydrogen
+1000|In 1973 Skylab astronauts had a chance to study this comet, which appears every 75,000 years|Kohoutek

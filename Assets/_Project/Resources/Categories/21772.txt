@@ -1,0 +1,6 @@
+PRONOUN LOSS
+200|Take "us" away from a movie theater job & you end up with this, another pronoun|her
+400|Take "me" away from an old honeyed liquor & you get this, found in the pages of a magazine|ad
+600|Take "I" from a term for any revered person in a particular field & you get this flimflam game|con
+800|This adjective for crop-friendly soil is what's left when you drop "we" from the front of an adjective about clothes|arable
+1000|Take "she" away from a law enforcement job & you get this snappy sequence on a guitar|a riff

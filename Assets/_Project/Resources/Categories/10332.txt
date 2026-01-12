@@ -1,0 +1,6 @@
+THE LARGEST U.S. STATE
+200|New Mexico, New Jersey, New Hampshire|New Mexico
+400|Florida, Idaho, Montana|Montana
+600|Ohio, Oklahoma, Oregon|Oregon
+800|Massachusetts, Maine, Maryland|Maine
+1000|Michigan, Minnesota, Mississippi|Michigan

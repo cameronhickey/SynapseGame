@@ -1,0 +1,6 @@
+THREE ON A MATCH
+200|Names of the Three Stooges at the time of the 1946 film "Beer Barrel Polecats\"|Moe, Curly & Larry
+400|The foolhardy trio that went to sea in a tub in a classic nursery rhyme|the butcher, the baker & the candlestick maker
+600|The 3 members of pop music's Bee Gees|Barry, Robin & Maurice
+800|The 3 B's of classical music|Bach, Brahms & Beethoven
+1000|The 3-word motto of the French Revolution|\"Liberty, equality, fraternity\"

@@ -1,0 +1,6 @@
+SINGING
+200|An ariette is a short one of these|an aria
+400|This term for a sailor song can be spelled with a C or an S|a shanty
+600|The primo uomo is the lead male singer in an opera; this is the lead female singer|prima donna
+800|Enunciation is key in singing the words this man wrote, like "I am the very model of a modern major-general\"|(W.S.) Gilbert
+1000|A "sea" one is sung by sailors to the rhythm of their movements while working aboard ship|a shanty

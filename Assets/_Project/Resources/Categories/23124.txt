@@ -1,0 +1,6 @@
+5-LETTER 3-SYLLABLE WORDS
+200|An expression peculiar to a language or culture, like "a different kettle of fish\"|idiom
+400|An assumed persona, perhaps when undercover|alias
+600|Quotient is a synonym for this, a proportional relationship between 2 quantities|ratio
+800|A brown pigment associated with old photos|sepia
+1000|The central administration of the Catholic church in Rome|a curia

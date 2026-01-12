@@ -1,0 +1,6 @@
+ROCK & ROLL FRONTMEN
+200|David Lee Roth, Sammy Hagar, David Lee Roth|Van Halen
+400|Roger Daltrey|The Who
+600|Anthony Kiedis|Red Hot Chili Peppers
+800|Trent Reznor|Nine Inch Nails
+1000|Adam Levine|Maroon 5

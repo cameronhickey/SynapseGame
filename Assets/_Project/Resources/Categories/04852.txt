@@ -1,0 +1,6 @@
+LET'S GET GRAPHIC
+200|In Gutenberg's time, each printer had his own lampblack & linseed oil formula for this|ink
+400|In dithering, shades of this are created by using different densities of black & white dots|gray
+600|This software company makes the Photoshop & Illustrator graphic programs|Adobe
+800|A print made to test the accuracy of the press, it's also "in the pudding\"|proof
+1000|In 1987 this online company came up with the GIF, a graphics interchange format|CompuServe

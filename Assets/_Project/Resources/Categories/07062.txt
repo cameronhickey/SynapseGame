@@ -1,0 +1,6 @@
+MAN "D\"
+200|He gave up a career as a military engineer to write novels like "The Brothers Karamazov\"|Dostoyevsky
+400|A fascination with brine led this man to found his own chemical company in the 1890s|Dow
+600|Bet you a decimal point that you'll know he founded the American Library Association|(Melvil) Dewey
+800|Yes, sir, in 1586 this British sea dog picked up some disgruntled settlers from the soon-to-be-"lost colony\"|Sir Francis Drake
+1000|As a runaway slave, Frederick Augustus Washington Bailey changed his name to this to avoid capture|Douglass

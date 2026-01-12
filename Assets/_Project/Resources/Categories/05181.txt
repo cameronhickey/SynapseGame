@@ -1,0 +1,6 @@
+SPEECH! SPEECH!
+200|In a 1991 speech this ex-president endorsed the Brady gun-control bill|Reagan
+400|Subject of Daniel Webster's March 7, 1850 & Frederick Douglass' July 5, 1852 speeches|slavery
+600|Speech on ending his fast, March 10, 1961, Delano, California|Cesar Chavez
+800|Farewell address to Congress, April 19, 1951|Douglas MacArthur
+1000|\"A Vast Wasteland", May 9, 1961, Washington, D.C.|Newton Minow

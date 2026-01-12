@@ -1,0 +1,6 @@
+CHOOSE A PROTEIN
+200|This cone-shaped body organ produces blood proteins & stores glycogen for you, so easy on the Lagavulin|the liver
+400|The Murchison meteorite that hit Earth in 1969 was found to contain organic compounds like these building blocks of proteins|amino acids
+600|Rhinos don't have true horns; they're primarily composed of this fibrous protein found in hair|keratin
+800|In 1921 Banting & Best first isolated this hormone, a protein composed of 2 chains linked by sulfur atoms|insulin
+1000|It's high in proline so we're giving this most abundant protein in the body that's in tendons, bones & skin some lip service|collagen

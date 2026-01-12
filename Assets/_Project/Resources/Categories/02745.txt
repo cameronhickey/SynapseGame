@@ -1,0 +1,6 @@
+OXYGEN
+200|In addition to carrying nutrients, this fluid transports oxygen to your body's cells|blood
+400|Running, cycling & swimming are examples of this type of exercise that improves the body's use of oxygen|aerobic exercise
+600|Henry Cavendish said it's made of dephlogisticated air (oxygen) united with phlogiston (hydrogen)|water
+800|Name given the triatomic form of oxygen|ozone
+1000|This British chemist discovered oxygen in 1774, years after Carl Wilhelm Scheele, a Swedish chemist|Joseph Priestley

@@ -1,0 +1,6 @@
+PRINTING
+200|A halftone print is really an optical illusion; it's actually lots & lots of these that seem to form an image|dots
+400|XBLD, short for this, designates a very heavy typeface|extra bold
+600|The group of songs a singer performs, or a set of available characters in a font|a repertoire
+800|A trademark of the A.B. Dick Co., this largely obsolete duplicator uses a stencil fitted on a cylinder|a Mimeograph
+1000|These marks around the Jeopardy! logo are the crosses or angles printed to line up 2 or more colors in process printing|register (or registration) marks

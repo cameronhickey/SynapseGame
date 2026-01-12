@@ -1,0 +1,6 @@
+SCIENCE TERMS
+200|Atomic weight is one stat for each of these, a substance that can't be decomposed to a simpler substance|an element
+400|Heavier objects have more this, the tendency of an object to resist a change in its state of motion|inertia
+600|Rhyming term for the response by animals when they encounter a threat|fight or flight
+800|Alkalis are strong these, which turn litmus paper from red to blue|bases
+1000|If it's not transparent, or even translucent, but quite impenetrable to light, it's this|opaque

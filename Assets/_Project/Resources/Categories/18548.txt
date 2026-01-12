@@ -1,0 +1,6 @@
+BOTTLES OF BEER
+200|It's a value brand as well as the name that follows "Anheuser\"|Busch
+400|Tecate Light is the best selling light beer in this country where it's brewed|Mexico
+600|Michelob has 4 ingredients: water, barley malt, yeast & these blossoms that flavor the beer|hops
+800|This Miller brand whose name implies a swell time has been around since 1903|Miller High Life
+1000|The best selling Irish lager is the beer with this musical name|Harp

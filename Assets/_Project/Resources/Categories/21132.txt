@@ -1,0 +1,6 @@
+PUB GRUB
+200|As their name implies, these mini-burgers go down quite easily, especially with a couple of beers|sliders
+400|A specialty around St. Louis are toasted or fried these|ravioli
+600|At The Walrus and the Carpenter in Seattle, you can slurp down at least 6 varieties of these on the half shell|oysters
+800|In New Orleans, enjoy local grub like this signature Creole dish full of rice & everything nice|jambalaya
+1000|How about some fries with this French-named garlic-flavored mayonnaise|aioli

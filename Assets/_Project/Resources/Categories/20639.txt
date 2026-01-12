@@ -1,0 +1,6 @@
+FIRST NAME VERBS
+200|To honor, as with one's presence|grace
+400|To make a symbol on something|Mark
+600|To pry open|jimmy
+800|To move up & down as if in a boxing ring|Bob
+1000|To give, like a wish|grant

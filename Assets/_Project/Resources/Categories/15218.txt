@@ -1,0 +1,6 @@
+YOU SEE 'EM AT THE MUSEUM
+200|Botticelli's 1481 fresco of St. Sixtus II is at this landmark, part of the Vatican Museums|the Sistine Chapel
+400|You can view Veronese's "The Wedding Feast at Cana" (& the French crown diamonds, too) at this museum|the Louvre
+600|Manet's "Before the Mirror" & Monet's "Palazzo Ducale" are in this unique NYC circular building|the Guggenheim
+800|This Madrid museum has Van Dyck's "Beatrice, Countess of Oxford" & "The Executions" by Goya|the Prado
+1000|Titian's "St. Sebastian" & "Danae" are at this St. Petersburg museum known for its arsenal|the Hermitage

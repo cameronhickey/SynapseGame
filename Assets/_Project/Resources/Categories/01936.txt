@@ -1,0 +1,6 @@
+1800
+200|In 1800 Congress moved to Washington, D.C. from this city|Philadelphia
+400|In 1800 Massachusetts became the first state to require voters to this before voting|register
+600|Gustav IV Adolph was crowned king of this country in 1800|Sweden
+800|The Act of Union in 1800 combined Great Britain with this country|Ireland
+1000|By 1800 this Italian count had developed his forerunner of the electric battery|Volta

@@ -1,0 +1,6 @@
+MIRRORS
+200|Minimum number of mirrors needed to make a kaleidoscope|2
+400|In 1668 Newton placed a mirror in one of these devices to create a much better image|a telescope
+600|Before the advent of this device in the 1911 Indy 500, passengers called riding mechanics watched for cars coming up behind|a rear-view mirror
+800|There is evidence that Precolumbian Mesoamericans used this black volcanic rock with a Roman name to make mirrors|obsidian
+1000|On June 28, 1919, this was signed in the Hall of Mirrors|the Treaty of Versailles

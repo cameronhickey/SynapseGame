@@ -1,0 +1,6 @@
+\"LAT"-ERAL
+200|Distance from the equator measured in degrees|latitude
+400|A "kid" who lets himself in after school because his parents are working|latchkey
+600|Applesauce & sour cream are 2 traditional accompaniments to these potato pancakes|latkes
+800|This open framework of metal or wood is usually overlapped in a crisscross pattern|lattice
+1000|A center of artistic & student life, this quarter is on the south bank of the Seine|the Latin Quarter

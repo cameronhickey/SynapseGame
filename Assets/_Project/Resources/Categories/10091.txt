@@ -1,0 +1,6 @@
+GO "STATE"!
+200|Philander C. Knox, Daniel Webster & John Foster Dulles have all held this federal post|Secretary of State
+400|President Clinton recognized Hank Aaron's achievements in this January 27, 2000 speech|the State of the Union address
+600|From the Latin for "laid waste", it means to destroy|devastate
+800|Numerical term used to describe the press|the Fourth Estate
+1000|This term means not having made a will|intestate

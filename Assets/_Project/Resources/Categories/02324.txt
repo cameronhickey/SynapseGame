@@ -1,0 +1,6 @@
+ANIMAL VERBS
+200|To trick by using sly ingenuity or cunning|to outfox
+400|This simian word means to play with or tamper with something|monkey
+600|Nag or pester persistently|Badger
+800|Gloat, boast or exult|Crow
+1000|Support or carry, as weight or responsibility|Bear

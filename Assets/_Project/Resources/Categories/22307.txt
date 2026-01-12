@@ -1,0 +1,6 @@
+5 OF A KIND
+200|In basketball the number 5 is used to represent this one of the 5 positions on a team|center
+400|Of the 5 largest Caribbean islands, it's the only one that's a U.S. territory|Puerto Rico
+600|Of the 5 current movie ratings put out by the MPAA, this one has the strictest admissions requirement|NC-17
+800|At myplate.gov, learn about the 5 food groups: fruits, vegetables, grains, protein & this one (no, not dessert)|dairy
+1000|["Flight Of The Bumblebee" plays] That music was by one of "The Five" mighty Russian composers of the 19th century—this man with a hyphenated name|Rimsky-Korsakov

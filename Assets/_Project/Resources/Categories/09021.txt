@@ -1,0 +1,6 @@
+WHAT'S THE NEXT LINE?
+200|\"Oh my darling, oh my darling...\"|\"...oh my darling Clementine\"
+400|\"Pack up your troubles in your old kit bag...\"|\"...and smile, smile, smile\"
+600|\"Roll out the barrel...\"|\"...and we'll have a barrel of fun\"
+800|\"Yes we have no bananas...\"|\"...We have no bananas today\"
+1000|\"Go tell it on the mountain...\"|\"...over the hills and everywhere\"

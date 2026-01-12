@@ -1,0 +1,6 @@
+COMMUNICATIONS
+200|You may catch a smokey report on your CB, which stands for this|citizens band
+400|CNN's Gulf War coverage won a Cable Ace Award & this channel won a Golden Ace for its coverage of Hurricane Hugo|the Weather Channel
+600|After an earlier one was severed by a fisherman, a cable to transmit these was laid under the English Channel in 1851|telegrams
+800|This medium was originally called "wireless telegraohy\"|radio
+1000|The C band for communication via these uplinks to them at 6 gigahertz & downlinks from them at 4|satellites

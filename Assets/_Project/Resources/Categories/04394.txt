@@ -1,0 +1,6 @@
+THEORIES
+200|The theory that led to Reaganomics got this name by opposing the traditional focus on demand|supply-side
+400|In sociology theory, deviant & delinquent are two of these, also found on shirts|labels
+600|In 1905 he came up with a "special" theory; his "general" theory took until 1916|Albert Einstein
+800|Opposed to the Big Bang Theory, Sir Fred Hoyle developed this theory of a consistent universe|steady-state
+1000|Thorsten Veblen coined "conspicuous consumption" in "the theory of" this "class\"|leisure class

@@ -1,0 +1,6 @@
+PRIME RHYME
+200|A white-faced silent performer|a mime
+400|A cooking herb in the mint family|thyme
+600|The peal of a small bell|a chime
+800|Citrus aurantifolia|a lime
+1000|A geographic location with a particular meteorological environment|a clime

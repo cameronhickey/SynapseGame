@@ -1,0 +1,6 @@
+TELEPHONES
+200|The "Trimline" telephone of 1968 was 1st model to feature push buttons here|the headset (the handset)
+400|\"Echo", "Relay" & "Early Bird\"|telephone satellites
+600|The word telephone comes from 2 Greek words, "phone", meaning sound & "tele" meaning this|far
+800|Since 1983, the FCC has granted licenses for car phones based on this type of radio technology|cellular
+1000|World's longest telephone cable, the Commonwealth Pacific, runs 9000 miles from Australia to this country|Canada

@@ -1,0 +1,6 @@
+ESSAY TEST
+200|\"Two essays written in 1842 and 1844" by this man laid "the foundations of the origin of species\"|Darwin
+400|In this essay, Virginia Woolf said that a woman must have money & the title place "if she is to write fiction\"|A Room of One's Own
+600|In the 12th of these essays, Alexander Hamilton argued for "The Utility of the Union In Respect to Revenue\"|the Federalist Papers
+800|This transcendentalist preached the ethics of "Self-Reliance" in an essay with that title|(Ralph Waldo) Emerson
+1000|Camus wrote the philosophical essay "The Myth of" him, punished to roll a stone uphill only to have it roll down again|Sisyphus

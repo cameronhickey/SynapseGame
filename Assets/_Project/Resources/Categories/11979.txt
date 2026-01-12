@@ -1,0 +1,6 @@
+EVERYTHING FROM C TO D
+200|This game equipment has 64 squares of 2 alternating colors, in 8 horizontal & 8 vertical rows|a checkerboard
+400|Old Mother Hubbard knows it's a closet with shelves for dishes|a cupboard
+600|One who lacks courage, or last name of a certain British playwright|coward
+800|To communicate by exchange of letters|correspond
+1000|In math: raised to the third power|cubed

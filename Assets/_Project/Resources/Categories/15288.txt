@@ -1,0 +1,6 @@
+BIBLICAL RELATIONS
+200|Seth, to Cain|brother
+400|Isaac, to Rebekah|husband
+600|Japheth, to Noah|son
+800|Methuselah, to Noah|grandfather
+1000|Rachel, to Leah|sister

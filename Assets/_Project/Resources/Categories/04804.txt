@@ -1,0 +1,6 @@
+SPORTSTALK
+200|\"Super Sunday\"|Football
+400|\"The Boys of Summer\"|Baseball
+600|Rubber, rundown, slider|baseball
+800|Red light, mucking, penalty killer|ice hockey
+1000|Striker, throw-in, marking|soccer

@@ -1,0 +1,6 @@
+NOT-SO-SERIOUS LAWS
+200|Betteridge's law states that any headline ending in a question mark can be answered safely by this word|no
+400|According to Muphry's law, any written criticism of proofreading will contain these|errors (or mistakes, typos)
+600|Hanlon's (not Occam's) this: "Never attribute to malice that which can be adequately explained by stupidity\"|razor
+800|This alliterative principle says, "In a hierarchy, every employee tends to rise to his level of incompetence\"|the Peter principle
+1000|His law tells us work always expands to fill the available time|Parkinson

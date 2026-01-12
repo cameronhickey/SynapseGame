@@ -1,0 +1,6 @@
+STOCKS
+200|Wanna buy some HOG, the ticker for this 2-wheeled company? Climb on board, chum|Harley-Davidson
+400|Commodities are traded in a "pit"; stocks, on one of these structural elements|a floor
+600|In 2022 Twitter had this happen to it in regard to the NYSE, which made Twitter a private company|delisting (delisted)
+800|In part an homage to its HQ in Dallas, LUV is the stock ticker symbol for this company|Southwest Airlines
+1000|In 2023 a stalled IPO & co-founder Jack Ma's selling of shares led to this Chinese tech co. losing $21 billion in market value|Alibaba

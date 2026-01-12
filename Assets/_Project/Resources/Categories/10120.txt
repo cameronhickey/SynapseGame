@@ -1,0 +1,6 @@
+SAY "BON\"
+200|Hello, it means hello or good day|bonjour
+400|Hope you're hungry for this 2-word term traditionally said at the start of a meal|bon appetit
+600|Literally, it means "good journey\"|bon voyage
+800|One who lives luxuriously & enjoys good food & drink|a bon vivant
+1000|8-letter synonym for frank & simple good-heartedness or geniality|bonhomie

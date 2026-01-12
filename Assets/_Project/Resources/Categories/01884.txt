@@ -1,0 +1,6 @@
+SOUNDS
+200|This sound extends about 80 miles from Admiralty Inlet to Olympia, Washington|Puget Sound
+400|Viscount Melville Sound, part of the Northwest Passage, is an arm of this ocean|the Arctic Ocean
+600|A baserunner reacting quickly is said to be "off with" this "of the bat\"|the crack
+800|A feud ensued in the 1840s when Edwin Forrest made this sibilant sound watching rival actor William Macready|hissing
+1000|Some dictionaries give "thump" as a synonym of this dull sound that's often on the same page|thud (thunk accepted)

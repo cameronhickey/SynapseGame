@@ -1,0 +1,6 @@
+WHIPS & CHAINS
+200|Used for flogging, it's a whip with 9 knotted cords fastened to a handle|Cat o' Nine Tails
+400|House leadership position held by Republican congressman Tom DeLay at the start of 1997|majority whip
+600|With pathologist Howard Florey, biochemist Ernst Chain isolated & purified this antibiotic for general clinical use|penicillin
+800|Whip & hip whip are maneuvers in this sport portrayed in the movie "Whip It\"|roller derby
+1000|Bitcoin uses this technology as its transaction record|blockchain

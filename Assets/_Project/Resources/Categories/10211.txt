@@ -1,0 +1,6 @@
+SEE "EO"s
+200|A single brief appearance by a famous actor in a movie|cameo
+400|A large Spanish sailing ship of the 17th & 18th centuries|galleon
+600|A dark underground prison cell in a castle|dungeon
+800|A Louisianan descended from the early French settlers, or the language he speaks|Creole
+1000|A big blowhard who was the ancient Greek god of winds|Aeolus

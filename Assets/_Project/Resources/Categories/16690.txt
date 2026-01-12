@@ -1,0 +1,6 @@
+CENTURY OF THE MAN
+200|Emperor Hirohito|the 20th century
+400|Millard Fillmore|19th
+600|Sir Francis Drake|the 16th century
+800|England's Richard III|the 15th century
+1000|Baruch Spinoza|the 17th century

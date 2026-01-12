@@ -1,0 +1,6 @@
+NUTS
+200|America's most popular "nut", it's really not a nut at all but a legume|a peanut
+400|Native to the Amazon jungle, these triangular nuts are rich in selenium, an antioxidant|Brazil nuts
+600|This variety of nut is grown only in the country it's named for & adjacent lands|Brazil nut
+800|In order to produce this green-kerneled nut, male & female trees must be near each other|pistachio
+1000|In the musical "South Pacific", Bloody Mary was said to chew these nuts which blacken the teeth|betel nuts

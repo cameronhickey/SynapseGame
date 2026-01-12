@@ -1,0 +1,6 @@
+PARLIAMENTARY PROCEDURE
+200|This officer takes the minutes of a meeting & reads them at the Following meeting|the (recording) secretary
+400|The presiding officer of an organization uses this small hammer to quiet disturbances at meetings|a gavel
+600|Of 3/4, 2/3 or a simple majority, the vote required to amend a motion under Robert's Rules of Order|a (simple) majority
+800|Term for the minimum number of members who must be present to conduct business|a quorum
+1000|This procedure ends debate & an immediate vote is taken on the matter under discussion|cloture (or closure)

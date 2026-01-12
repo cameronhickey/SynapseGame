@@ -1,0 +1,6 @@
+ROYAL NICKNAMES
+200|Michael Jackson bestowed this royal nickname upon himself, but many agree it is accurate|\"King of Pop\"
+400|Aretha Franklin is the Queen of Soul, Donna Summer is this|\"Queen of Disco\"
+600|\"The Navigator\"|Prince Henry (of Portugal)
+800|\"The Confessor\"|Edward (of England)
+1000|\"The Short\"|Pepin (III of France)

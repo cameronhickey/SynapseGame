@@ -1,0 +1,6 @@
+STEINBECK
+200|John Steinbeck was born February 27, 1902 in this state, the setting of many of his tales|California
+400|It's not about Ms. Bailey or Ms. Buck, it's a tale of Kino the fisherman|\"The Pearl\"
+600|In creating Ethan for this book, Steinbeck was thinking of "Richard III\"|\"The Winter of Our Discontent\"
+800|For the dramatic version of "Of Mice and Men", Steinbeck worked with this Hart-less playwright|George S. Kaufman
+1000|When John wrote the screenplay for this tale, he moved the dead horse scene to the end|\"The Red Pony\"

@@ -1,0 +1,6 @@
+COMPANY COLORS
+200|Home Depot is known as "Big" this|Orange
+400|The A&W browns remind us of the color of this A&W product which predates the restaurant|root beer
+600|This company that grew out of one called Zimride has used pink to convey that it's female friendly|Lyft
+800|Green is good for this e-commerce platform represented here|Shopify
+1000|The purple feather means premium content on this streaming service|the Peacock

@@ -1,0 +1,6 @@
+HYBRID ANIMAL PARENTS
+200|Among birds, the swoose|a swan & goose
+400|Yattle, Asian beasts of burden|yak & cattle
+600|The humpless cama|a camel & a llama
+800|The ferocious pizzly|a polar bear & a grizzly
+1000|A marine mammal called the narluga|the narwhal & the beluga

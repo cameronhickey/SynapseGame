@@ -1,0 +1,6 @@
+MOVIE NAME DROPPERS
+200|\"There's Something About ____\"|Mary
+400|\"A Fish Called ____\"|Wanda
+600|\"My Cousin ____\"|Vinny
+800|\"____ Getting Married\"|Rachel
+1000|\"Deconstructing ____\"|Harry

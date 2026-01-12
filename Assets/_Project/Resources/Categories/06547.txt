@@ -1,0 +1,6 @@
+UNIVERSITY STATE
+200|Providence College & Roger Williams University|Rhode Island
+400|Harvey Mudd College & Golden Gate University|California
+600|Sweet Briar College & Washington and Lee University|Virginia
+800|Dana College & Platte Valley Bible College|Nebraska
+1000|Madonna University & Wayne State University|Michigan

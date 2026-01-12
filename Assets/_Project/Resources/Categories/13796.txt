@@ -1,0 +1,6 @@
+FILLING FOODS
+200|Hard-boiled ____ foo yong|egg
+400|Jerk ____-fried steak|chicken
+600|Navel ____ roughy|orange
+800|Dijon ____ greens|mustard
+1000|Mint ____ roll|jelly

@@ -1,0 +1,6 @@
+IN THAT BIBLE BOOK
+200|The burning bush appears to Moses|Exodus
+400|Jesus gives the Sermon on the Mount|Matthew
+600|Paul preaches in Rome|Acts
+800|Haman plots to wipe out the Jews|Esther
+1000|Jericho falls to the Israelites|Joshua

@@ -1,0 +1,6 @@
+INTERNATIONAL AIRPORT
+200|Charles de Gaulle|Paris
+400|Heathrow|London
+600|McCarran|Las Vegas
+800|Ben-Gurion|Jerusalem or Tel Aviv
+1000|Trudeau|Montreal

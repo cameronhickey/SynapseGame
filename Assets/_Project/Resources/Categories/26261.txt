@@ -1,0 +1,6 @@
+SIZING UP SIZES
+200|Upright, spinet, ballroom grand|piano
+400|CR2, D, AAA|batteries
+600|Octavo, quarto, folio|pages (book sizes)
+800|Corona, Panatela, Presidente|cigars
+1000|Stellar, intermediate, supermassive|black hole

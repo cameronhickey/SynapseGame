@@ -1,0 +1,6 @@
+FEMALE FILM ROLES
+200|\"Victor/Victoria" (1982)|Julie Andrews
+400|\"Roxanne" (1987)|Daryl Hannah
+600|\"Gloria" (1999)|Sharon Stone
+800|\"Gloria" (1980)|Gena Rowlands
+1000|\"Tess" (1979)|Nastassja Kinski

@@ -1,0 +1,6 @@
+SHAKESPEARE QUOTES
+200|\"In truth, fair Montague, I am too fond\"|Romeo and Juliet
+400|\"Kiss me, Kate, we will be married o' Sunday\"|The Taming of the Shrew
+600|\"If you prick us, do we not bleed? If you tickle us, do we not laugh?\"|The Merchant of Venice
+800|\"Cowards die many times before their deaths; the valiant never taste of death but once\"|Julius Caesar
+1000|\"I am that merry wanderer of the night, I jest to Oberon, and make him smile\"|A Midsummer Night's Dream

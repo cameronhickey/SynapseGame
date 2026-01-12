@@ -1,0 +1,6 @@
+MEDICAL "T" TIME
+200|Attention, fashion victims: shoes that are too tight may lead to ingrown these|toenails
+400|Golfer's elbow is similar to this other "sporty" affliction, but golfer's elbow occurs on the inside of the joint|tennis elbow
+600|If you have a deep cut or dirty wound, get a booster shot for this if you haven't had one in the last 5 yrs.|tetanus
+800|Mozart wrote about eating pork cutlets before his final illness, which led to a 2001 theory that he died of this|trichinosis
+1000|Swelling of the ankles may be an indication of DVT, or deep-vein this|thrombosis

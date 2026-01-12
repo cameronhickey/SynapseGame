@@ -1,0 +1,6 @@
+HYBRIDS
+200|Grapple|a grape & an apple
+400|Daedalus built the labyrinth in which this half-man, half-bull monster was kept|the Minotaur
+600|Pixel|picture element
+800|These lascivious woodland deities, a goat-man hybrid, were followers of both Pan & Dionysus|satyrs
+1000|Cyborg|cybernetic organism

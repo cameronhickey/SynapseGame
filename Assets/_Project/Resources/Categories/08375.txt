@@ -1,0 +1,6 @@
+PSYCHED
+200|From the Greek for "split mind", this mental disorder is not, as many believe, the same as a split personality|schizophrenia
+400|In Freudian theory, it's the part of the personality that's responsible for primitive instinctual drives|the id
+600|Bipolar disorder is also called this|manic depressive disorder
+800|This disorder is characterized by persistent ideas that result in ritualized acts, such as repetitive handwashing|obsessive compulsive disorder
+1000|Elizabeth Wurtzel's psycho-memoir is titled this "Nation\"|Prozac Nation

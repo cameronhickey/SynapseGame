@@ -1,0 +1,6 @@
+ART WORKS
+200|\"Three Musicians", "Guitar, Sheet Music & Wine Glass", "Les Demoiselles d'Avignon\"|(Pablo) Picasso
+400|\"Portrait of Pere Tanguy", "Potato Eaters", "Night Cafe\"|(Vincent) van Gogh
+600|\"Danae", "The Anatomy Lesson of Dr. Nicolaes Tulp", "The Night Watch\"|Rembrandt (van Rijn)
+800|\"Bicycle Wheel", "Fountain", "Nude Descending a Staircase\"|Marcel Duchamp
+1000|\"Family of Charles IV", "Saturn Devouring One of His Children", "The Naked Maja\"|(Francisco) Goya

@@ -1,0 +1,6 @@
+MIDDLE "C\"
+200|In blackjack, it can be worth 1 or 11|Ace
+400|It's the "Heart of Georgia" & the home of Mercer University|Macon
+600|In 1923, John Deere launched it's Model D, the first of these to bear the Deere name|a tractor
+800|If you're eating bagels & drinking mimosas late on a weekend morning, you're doing this|Brunching
+1000|For a nice chianti, visit this wine-making region of Italy that's famous for it|Tuscany

@@ -1,0 +1,6 @@
+PLANETARY FACTS
+200|This planet's rings are arranged into 7 main groups, A-G|Saturn
+400|Its polar caps, which are believed to be carbon dioxide ice & water ice, grow in the winter & shrink in the summer|Mars
+600|Its magnetic field has been called the biggest thing in the solar system|Jupiter
+800|Partly due to its having the most elliptical orbit, it varies from -300 to 845 degrees at the surface|Mercury
+1000|It was the first one identified as a planet by mathematical calculations, not by observation|Neptune

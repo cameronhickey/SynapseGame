@@ -1,0 +1,6 @@
+EQUIVALENCIES
+200|Canadian equivalent of our states|provinces
+400|British equivalent of the Girl Scouts|the Girl Guides
+600|Jewish equivalent of crepes|blintzes
+800|In 5 states, Calif., Nev., NY, NJ & Wisc., the state House of Representatives is called this|the State Assembly
+1000|Naval equivalent of a 2nd lieutenant|an ensign

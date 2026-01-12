@@ -1,0 +1,6 @@
+SLOWPOKE
+200|Swimmers do it fast, but traffic may "slow to" one|crawl
+400|You're delinquent & have been declared this kind of late for school again; one more & it's detention|tardy
+600|Its "pace" tops out at 50 yards per hour for the garden type|snail
+800|This 3-letter word can refer to your slow pace in a race or to your computer's slow response|lag
+1000|This 10-letter word for slow contains one of the 4 humors once thought to determine temperament|phlegmatic

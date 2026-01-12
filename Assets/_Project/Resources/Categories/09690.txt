@@ -1,0 +1,6 @@
+\"NYM" DROPPER
+200|They're words with opposite meanings|antonyms
+400|John le Carre is one, for David Cornwell|pseudonym
+600|An abbreviation formed from the initial letters of a series of words|acronym
+800|Guillotine & sandwich are examples of these|eponyms
+1000|Words that have the same spelling but different pronunciations & meanings|heteronyms

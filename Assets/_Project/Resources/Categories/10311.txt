@@ -1,0 +1,6 @@
+FLAG 'EM DOWN
+200|The Alamo is located in this city & is depicted on its flag|San Antonio
+400|This descriptive nickname of the U.S. flag was coined by Francis Scott Key|the Star-Spangled Banner
+600|The 2 colors found on all 3 national flags of the U.S., Mexico & Canada|red & white
+800|The flag of this U.S. possession is almost the same as the flag of Cuba|Puerto Rico
+1000|The first 50-star U.S. flag was officially raised on July 4 of this year|1960

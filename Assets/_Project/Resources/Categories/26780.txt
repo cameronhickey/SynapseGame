@@ -1,0 +1,6 @@
+RECORD ALBUMS
+200|\"You Belong to the City" was part of this television show's No. 1 album|\"Miami Vice\"
+400|This group's name was also the name of its 1st No. 1 album; the 2nd was "Rumours\"|Fleetwood Mac
+600|The 2 Madonna albums whose titles begin with "Like A...\"|\"Like A Prayer" & "Like A Virgin\"
+800|Controversial TV personality heard singing here his 1989 album: "Mother-in-law says you're a no-good bum / God I wish that woman would shut her trap / But there's a sure-fire cure called the 'Loudmouth Method' / I think you'd better give it a try!\"|Morton Downey Jr. ("Zip It Up")
+1000|Her "21 Hit Singles" album includes "Ave Maria", "Fire Down Below" &, of course, "Goldfinger\"|Shirley Bassey

@@ -1,0 +1,6 @@
+small state capitals
+200|It's the only state capital that's home to a U.S. military service academy|Annapolis
+400|This capital was once known as Frank's Ford after Stephen Ford who was killed by Indians nearby in 1780|Frankfort
+600|Its Buffalo Trace bourbon distillery claims to be the USA's oldest distillery in continuous operation|Frankfort
+800|The Johnson Victrola Museum in this Delaware capital tells the history of the Victor Talking Machine Company|Dover
+1000|This capital on the Kennebec River traces its founding to 1628|Augusta (Maine)

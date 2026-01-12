@@ -1,0 +1,6 @@
+PREZ DISPENSERS
+200|Bill Clinton unseated this U.S. president|George H. W. Bush (George Herbert Walker Bush)
+400|In 1965 he defeated Philippine President Macapagal|Marcos
+600|Valery Giscard d'Estaing was beaten by him in a 1981 election|François Mitterrand
+800|In 1995 Aleksander Kwasniewski defeated this incumbent|Lech Walesa
+1000|Leonid Kuchma ousted Leonid Kravchuk in this country|the Ukraine

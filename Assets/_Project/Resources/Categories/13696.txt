@@ -1,0 +1,6 @@
+AUTHOR, AUTHOR!
+200|\"Billy Budd, Foretopman\"|Melville
+400|\"To the Lighthouse\"|Virginia Woolf
+600|\"Absalom, Absalom!\"|Faulkner
+800|\"Songs of Experience\"|(William) Blake
+1000|\"Their Eyes Were Watching God\"|Zora Neale Hurston

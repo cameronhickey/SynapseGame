@@ -1,0 +1,6 @@
+FIX THE MALAPROPISM
+200|\"Salmon swim upstream to spoon\"|spawn
+400|\"The doctor used biceps to deliver the baby\"|forceps
+600|\"Certain areas of the desert are cultivated by irritation\"|irrigation
+800|\"At ancient banquets, guests wore garlics in their hair\"|garlands
+1000|\"He only dates one woman — he's in a monotonous relationship\"|monogamous

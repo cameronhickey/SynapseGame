@@ -1,0 +1,6 @@
+THE TYPE OF TRANSPORT
+200|The $1.7 billion Endeavour|Space Shuttle
+400|The LZ 129, doomed in 1937|a Zeppelin
+600|The Southwest Chief & the Ethan Allen Express|trains
+800|The Kursk, doomed in 2000|submarine
+1000|Named for a New York City borough president, the Guy V. Molinari|a ferry boat

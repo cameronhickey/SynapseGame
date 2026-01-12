@@ -1,0 +1,6 @@
+DOUBLE "H\"
+200|To catch a bass, you'll need some sort of bait on one of these dangling from the end of the line on your pole|fishhook
+400|In "It Happened One Night", Clark Gable used his thumb to do this; Claudette Colbert bared her leg|hitchhike
+600|To engage in rowdy behaviour, usually in fun|roughhouse
+800|This tax is removed from the paychecks of salaried workers; how much depends on the number of W-4 exemptions|withholding
+1000|This position on an enemy shoreline is captured by troops prior to landing an invading force|beachhead

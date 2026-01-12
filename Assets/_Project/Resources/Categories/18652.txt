@@ -1,0 +1,6 @@
+WORLD CAPITAL"IA\"
+200|In 447 the Huns destroyed this city, now the capital of Bulgaria|Sofia
+400|Designed & built in the '50s, it is located in the "Distrito Federal\"|Brasilia
+600|It's named for a U.S. president|Monrovia
+800|Today one of its country's 3, it was once the capital of the Transvaal|Pretoria
+1000|You'll find it on an eastern Mediterranean isle|Nicosia

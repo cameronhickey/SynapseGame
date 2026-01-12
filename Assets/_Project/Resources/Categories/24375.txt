@@ -1,0 +1,6 @@
+SPORTS FRANCHISES' PREVIOUS HOMES
+200|The Los Angeles Dodgers|Brooklyn
+400|The Indianapolis Colts|Baltimore
+600|The Los Angeles Rams|St. Louis
+800|The Colorado Avalanche, oui, oui!|Quebec City
+1000|The Atlanta Braves|Milwaukee

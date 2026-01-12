@@ -1,0 +1,6 @@
+PEOPLE OF THE BOOK
+200|Dorothy, Aunt Em|The Wizard of Oz
+400|Stephen Dedalus, Molly Bloom|Ulysses
+600|John Yossarian & Milo Minderbinder|Catch-22
+800|Ponyboy Curtis, Johnny Cade, Cherry Valance|The Outsiders
+1000|Lucie Manette, Madame Defarge|A Tale of Two Cities

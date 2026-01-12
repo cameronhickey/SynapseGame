@@ -1,0 +1,6 @@
+OUTER SPACE
+200|Type of tailed object that hit Jupiter in 1994 & perhaps hit Earth in 65 million B.C., dooming the dinosaurs|Comet
+400|In 1997 this planet, a morning star until May, will be an evening star for the rest of the year|Venus
+600|The light & radio energy emitted by quasars may come from gases being sucked into these|Black holes
+800|Galactic light's "shift" toward this color of the visible spectrum shows that the universe is expanding|Red
+1000|In the stellar type of this celestial event, one star in a binary system obscures the other|Eclipse

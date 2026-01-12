@@ -1,0 +1,6 @@
+SONG IN COMMON
+200|Don McLean & Madonna|\"American Pie\"
+400|Creedence Clearwater Revival & Ike & Tina Turner|\"Proud Mary\"
+600|Dolly Parton & Whitney Houston|\"I Will Always Love You\"
+800|George Benson & Whitney Houston|\"The Greatest Love of All\"
+1000|Dionne Warwick & Aretha Franklin|\"Say A Little Prayer\"

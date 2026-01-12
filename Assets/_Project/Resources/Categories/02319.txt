@@ -1,0 +1,6 @@
+SPANISH CITIES
+200|Over 2,100 feet above sea level, this city is one of Europe's highest capitals|Madrid
+400|A famous painting by El Greco shows a "View of" this city, but you have to go to New York, not Ohio, to see it|Toledo
+600|Though born in Linares, guitarist Andres shared his name with this Spanish city|Segovia
+800|This city whose name reflects its founding by the Carthaginians is home to one of Spain's chief naval bases|Cartagena
+1000|This city where St. Teresa was born is one of Spain's great religious centers|Avila

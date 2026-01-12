@@ -1,0 +1,6 @@
+PRESIDENTS
+200|In '24, we "kept cool" with him|Calvin Coolidge
+400|Alaska & Hawaii became states under this president|Eisenhower
+600|His 12-year term was the longest ever|Franklin Delano Roosevelt
+800|He's considered both our 22nd & 24th president|Grover Cleveland
+1000|Only impeached President, he kept his office by 1 vote|Andrew Johnson

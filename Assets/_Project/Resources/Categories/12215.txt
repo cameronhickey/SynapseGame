@@ -1,0 +1,6 @@
+AT THE HOSPITAL
+200|Smile! A photograph was taken of you with one of these photon streams that's also known as a Roentgen ray|an x-ray
+400|You might be needled by this 4,000-year-old technique in widespread use in Chinese hospitals|acupuncture
+600|Intensive care is also called this "care", like the condition patients may be in|critical
+800|It's this person's job to knock you out in the O.R. (without using a hammer)|an anesthesiologist
+1000|A neonatal ICU may contain several isolettes, a type of this chamber, from the Latin for "to lie down\"|an incubation chamber

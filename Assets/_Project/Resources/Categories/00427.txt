@@ -1,0 +1,6 @@
+FOREIGN EXCHANGE
+200|This neighboring country's franc is worth more than France's|Switzerland
+400|The U.S. greenback is official tender in this African country|Liberia
+600|Sweden's 200-kronor note honors this director with a depiction of him on the set of "The Seventh Seal\"|(Ingmar) Bergman
+800|Both Palau & the Marshall Islands use this as their basic monetary unit|the U.S. dollar
+1000|These 2 countries have units called the won|North & South Korea

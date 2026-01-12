@@ -1,0 +1,6 @@
+11-LETTER WORDS
+200|Algebra, calculus, or trigonometry|mathematics
+400|Commencement speech usually given by top student|the valedictory
+600|Wild uproar or total tumult|pandemonium
+800|Not open, but secret, like Romeo & Juliet's love affair|clandestine
+1000|From Ceylon's former name, it's gift for finding valuable things unexpectedly|serendipity

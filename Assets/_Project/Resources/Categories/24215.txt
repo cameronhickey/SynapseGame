@@ -1,0 +1,6 @@
+THAT'S THEIR SPORT
+200|Briana Scurry, Megan Rapinoe|soccer
+400|Naomi Osaka, Martina Hingis|tennis
+600|Se Ri Pak, Annika Sörenstam|golf
+800|Mikaela Shiffrin, Picabo Street|skiing
+1000|Diana Taurasi, Tamika Catchings|basketball

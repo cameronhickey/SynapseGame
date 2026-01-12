@@ -1,0 +1,6 @@
+IN WHICH MONTH?
+200|Kwanzaa begins|December
+400|The 1944 invasion of Normandy|June
+600|The Indianapolis 500 roars to life|May
+800|The Bastille Day military parade marches on|July
+1000|Guy Fawkes Day lights up|November

@@ -1,0 +1,6 @@
+SCRAMBLED FRUITS
+200|MILE|lime
+400|AN OGRE|orange
+600|STARRY BREW|strawberry
+800|PLANE PIPE|pineapple
+1000|ACE INTERN|nectarine

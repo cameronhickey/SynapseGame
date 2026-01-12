@@ -1,0 +1,6 @@
+STOCK & TRADE
+200|For everything else, there's MA, this company|MasterCard
+400|If you want to snowboard or ski, go freestyle with KTO, this sporty company|K2
+600|You can really clean up with this company, WHR|Whirlpool
+800|This company, RTN, believes in a strong defense|Raytheon
+1000|This company, TM, is a hybrid, as it also runs a financial services division|Toyota

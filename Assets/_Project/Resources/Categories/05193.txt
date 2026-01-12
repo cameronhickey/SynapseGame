@@ -1,0 +1,6 @@
+INDUSTRY
+200|It was the first car off a moving assembly line|Model T
+400|This butter substitute was first made of beef suet, cow's udder & skim milk|Margarine
+600|Patented in 1855, the Bessemer process drastically lowered the cost of making this|Steel
+800|After the 1930s this replaced coal tar as the major source for aromatic compounds|Petroleum
+1000|Today jets of air or water zoom the weft through the shed on these machines|Looms

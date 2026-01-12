@@ -1,0 +1,6 @@
+STARTS WITH "D\"
+200|This book by L. Ron Hubbard is considered the Bible of Scientology|Dianetics
+400|From Greek meaning "the second law", it's the 5th book of the Bible|Deuteronomy
+600|In 32 ÷ 8 = 4, what 32 is|the dividend
+800|The circumflex, the umlaut & the tilde are these kinds of marks|diacritical marks
+1000|A texture so fine, it's transparent|diaphanous

@@ -1,0 +1,6 @@
+HASH TAGS
+200|The name of a lunch staple honors John Montagu, the fourth earl of this|Sandwich
+400|This creamy fettucine sauce is named for Signor di Lelio, the Roman chef said to have created it|Alfredo
+600|This "steak", really a ground beef patty, is named for the doctor who thought Americans should eat it 3 times a day|Salisbury steak
+800|One story says the name of this brunch dish that now features an English muffin & Hollandaise sauce honors a broker|eggs Benedict
+1000|This dessert, a crisp meringue topped with fruit & whipped cream, was named for a Russian ballerina|a pavlova

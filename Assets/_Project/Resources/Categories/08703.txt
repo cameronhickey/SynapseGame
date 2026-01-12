@@ -1,0 +1,6 @@
+GO ____
+200|2-word response to an opponent who asks for cards you don't have|Go fish
+400|In a rhyming phrase, it means to move with the prevailing trend|\"go with the flow\"
+600|Make more effort than required, like by walking 1,760 more yards|to go the extra mile
+800|Make more effort than required, like by walking 1,760 more yards|\"go the extra mile\"
+1000|A synonym for "get lost"; you might tell Ben Franklin to do it|go fly a kite

@@ -1,0 +1,6 @@
+WHAT'S UP, PEDIATRICIAN?
+200|Ah yes, impetigo, an infection affecting this, common in kids in summer; we can treat it with antibiotics|skin
+400|Teething (& accompanying crankiness) usually starts with the 2 bottom front teeth, or "central" these|incisors
+600|Lots of parents with feverish kids alternate ibuprofen & this, from which Tylenol is made|acetaminophen
+800|Timmy's scary cough is just from this common 5-letter inflammation of the larynx|croup
+1000|Thimerosal, a preservative that's 50% this element, has been almost eliminated from vaccines for little ones|mercury

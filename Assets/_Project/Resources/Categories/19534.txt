@@ -1,0 +1,6 @@
+OPERATIC ADJECTIVES
+200|By Wagner: "The ____ Dutchman\"|Flying
+400|With Papageno: "The ____ Flute\"|Magic
+600|A comic opera by Smetana: "The ____ Bride\"|Bartered
+800|Lehar's title refers to Hanna: "The ____ Widow\"|Merry
+1000|Set in California: "The Girl of the ____ West\"|Golden

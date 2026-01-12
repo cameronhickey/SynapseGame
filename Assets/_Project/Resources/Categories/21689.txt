@@ -1,0 +1,6 @@
+TEXT
+200|Sent in December 1992, the first text message was just these 2 seasonally appropriate words|merry Christmas
+400|In 2019 Massachusetts introduced a new service allowing those in need of help to text, not call, this number|911
+600|Under sharia law, a man can do this to his wife by notifying her 3 times; in 2009 a Saudi man made news by doing so via text|divorce
+800|In 2018 agent Peter Strzok was fired from this organization for sending politically charged texts|the FBI
+1000|In 2008 a surgeon in Africa with Medecins Sans Frontieres, this organization, saved a life using instructions texted from Britain|Doctors Without Borders

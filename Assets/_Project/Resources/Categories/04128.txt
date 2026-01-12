@@ -1,0 +1,6 @@
+COUNTRIES IN FRENCH
+200|Les Etats-Unis|The United States
+400|Afrique du Sud|South Africa
+600|La Coree du Nord|North Korea
+800|Le Royaume-Uni|the United Kingdom
+1000|Les Pays-Bas|The Netherlands

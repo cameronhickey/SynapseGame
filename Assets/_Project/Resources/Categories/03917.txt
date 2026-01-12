@@ -1,0 +1,6 @@
+WHAT'S THE CURRENCY?
+200|This is worth 100 pence|British pound
+400|This is equal to 100 pfennigs|Deutsch mark
+600|This equals 100 sen|Japanese yen
+800|100 kopecks make up this|Russian ruble
+1000|This is equal to 100 centessimi|Italian lira

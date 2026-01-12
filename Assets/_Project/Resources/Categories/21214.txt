@@ -1,0 +1,6 @@
+A SKELETON
+200|Bones making up your thorax include the sternum & 12 pairs of these|ribs
+400|This lower jawbone is the strongest & largest bone of the face|the mandible
+600|This arm bone was named for its supposed resemblance to the spoke of a wheel|the radius
+800|Sharing its name with St. Paul's birthplace, it's the collective name for 7 bones in the foot|tarsus
+1000|This part of the skull that protects the brain is made up of 8 bones including the occipital & temporal bones|the cranium

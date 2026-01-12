@@ -1,0 +1,6 @@
+2 "U\"
+200|Amount produced in a given time, or stuff that comes from a computer|output
+400|To roll out, like a flag|unfurl
+600|Colorful, rhyming 2-word term for a sickout by police officers|a blue flu
+800|Lotsa pasta flour comes from this type of wheat|durum
+1000|A type of ancient soothsayer; add a "Y", you get an omen|an augur

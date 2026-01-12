@@ -1,0 +1,6 @@
+MOVIES BY ONE-WORD QUOTE
+200|1992: "Schwing!\"|Wayne's World
+400|1980: "Redrum!\"|The Shining
+600|1962: "Aqaba!\"|Lawrence of Arabia
+800|1987: "Inconceivable!\"|The Princess Bride
+1000|1948: "Badges?\"|The Treasure of the Sierra Madre

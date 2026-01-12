@@ -1,0 +1,6 @@
+GRISHAM, CRICHTON OR CLANCY
+200|\"The Appeal\"|(John) Grisham
+400|\"Threat Vector\"|Clancy
+600|\"Rising Sun\"|Crichton
+800|\"Debt of Honor\"|Clancy
+1000|\"Prey\"|Crichton

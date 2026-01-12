@@ -1,0 +1,6 @@
+COMPLETE THE MOVIE QUOTE
+200|\"Sudden Impact": "Go ahead, ____ ____ ____\"|make my day
+400|\"To Have and Have Not": "You know how to ____, don't you, Steve?\"|whistle
+600|\"When Harry Met Sally": "I'll have ____ ____ ____\"|what she's having
+800|\"All the President's Men": "Follow the ____\"|money
+1000|\"All About Eve": "Fasten your seat belts. It's going to be a ____ ____\"|bumpy night

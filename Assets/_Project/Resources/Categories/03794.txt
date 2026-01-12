@@ -1,0 +1,6 @@
+BIG RIVERS
+200|On its trip through Egypt, this river has no tributaries|Nile
+400|While rowing down this river, you'll pass Oxford University & Windsor Castle|Thames
+600|Lake St. Francis on the border of Ontario & Quebec is actually just a wide spot in this river|St. Lawrence
+800|In 1960 India & Pakistan signed a treaty to deal with control of the waters of this river|Indus
+1000|The main drain of northern Italy, its delta at the Adriatic Sea has numerous mouths|the Po

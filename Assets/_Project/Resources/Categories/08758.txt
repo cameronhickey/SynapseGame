@@ -1,0 +1,6 @@
+PLEASE TAKE DIRECTION
+200|The university of this state has campuses at Asheville, Wilmington & Chapel Hill|North Carolina
+400|Region of the world to which the Eisenhower Doctrine was applied in 1957 & 1958; it's still a hot spot|the Middle East
+600|Established in 1802, it was the first school of engineering in the U.S. & women weren't admitted until 1976|West Point
+800|The president of this Asian country won the 2000 Nobel Peace Prize|South Korea
+1000|The treaty that ended the 30 Years' War in 1648 was the Peace of this Prussian province|Westphalia

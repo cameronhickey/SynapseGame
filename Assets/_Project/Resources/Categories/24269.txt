@@ -1,0 +1,6 @@
+CHESS FOR CHAMPS
+200|It's the only chess piece that can hop over an opposing piece when it moves|a knight
+400|In 2016 Timur Gareyev played a record 48 simultaneous games wearing one of these; he won 35, lost 6 & drew 7|a blindfold
+600|The Ruy Lopez is also known as the Spanish opening; the Giuoco Piano, as this one (not to be confused with the Sicilian defense)|the Italian opening
+800|In an anticlimax, a 1978 World Championship game was this kind of draw on the 124th move|stalemate
+1000|In 1997 the chess world was shocked when world champ Garry Kasparov lost a match to this IBM computer program|Deep Blue

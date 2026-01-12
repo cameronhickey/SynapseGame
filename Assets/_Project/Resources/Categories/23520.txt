@@ -1,0 +1,6 @@
+BOOK TITLES EN FRANCAIS
+200|Wreaking havoc: "Le chat chapeauté\"|The Cat in the Hat
+400|A classic: "Le vieil homme et la mer\"|The Old Man and the Sea
+600|It's murder! "Minuit dans le jardin du bien et du mal\"|Midnight in the Garden of Good and Evil
+800|Science fiction for all ages: "Un raccourci dans le temps\"|A Wrinkle in Time
+1000|A book for the entire galaxy: "Salut, et encore merci pour le poisson\"|So Long, and Thanks for All the Fish

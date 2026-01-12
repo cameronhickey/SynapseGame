@@ -1,0 +1,6 @@
+THE NO-S PLURAL OF...
+200|Louse|lice
+400|Cactus|cacti
+600|Formula|formulae
+800|Emporium|emporia
+1000|Opus|opera

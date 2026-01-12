@@ -1,0 +1,6 @@
+BEFORE THE EURO
+200|The lira|Italy
+400|The drachma|Greece
+600|The Schilling|Austria
+800|The franc (2 of 3 countries)|France and Belgium
+1000|The punt|Ireland

@@ -1,0 +1,6 @@
+BUGS
+200|These red or black bugs lay down a trail that others can follow from the hill to the food supply|ants
+400|A ground-level nest of these "colorful" wasps may hold several thousand of them, so be careful|yellowjackets
+600|Common name for a bug, like the harlequin bug, that emits a foul odor from glands in its thorax|stinkbugs
+800|The luminescent larvae of these bugs are called glowworms|fireflies
+1000|Something ephemeral lasts for a very short time, like these insects of the order Ephemeroptera|mayflies

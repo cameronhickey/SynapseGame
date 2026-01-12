@@ -1,0 +1,6 @@
+FLIES
+200|The largest land animal native to this continent is a small wingless fly|Antarctica
+400|A pest of wheat, the Hessian fly is so named because it's believed Hessian soldiers brought it here during this war|the Revolutionary War
+600|Wake up & tell us the name of this deadly disease, aka trypanosomiasis, spread by the Tsetse fly|sleeping sickness
+800|It's the common name for the fly known scientifically as musca domestica|the housefly
+1000|Examples of these flies popular with geneticists include the apple maggot & the cherry|fruit flies

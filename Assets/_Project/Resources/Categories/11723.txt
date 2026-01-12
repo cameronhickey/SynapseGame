@@ -1,0 +1,6 @@
+PRIME TIME SPIN-OFFS
+200|\"Tabitha\"|Bewitched
+400|\"Rhoda\"|The Mary Tyler Moore Show
+600|\"Knots Landing\"|Dallas
+800|\"Flo\"|Alice
+1000|\"Good Times\"|Maude

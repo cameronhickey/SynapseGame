@@ -1,0 +1,6 @@
+POTENT PORTABLES
+200|The VII was the first of this brand's handheld devices with built-in Internet connectivity|PalmPilot
+400|Surfers & slackers rejoice! Reef Sportswear's "Dram" line holds secret shots in the heels of these beach items|sandals
+600|Nintendo's 1998 version of this toy can transform your black & white games to color|Game Boy
+800|The Osborne, the first portable one of these, weighed 24 pounds but could fit under an airline seat|a portable computer
+1000|The Bellboy, one of these introduced at the 1962 World's Fair, was the size of a brick & weighed almost as much|a pager

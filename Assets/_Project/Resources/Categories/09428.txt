@@ -1,0 +1,6 @@
+\"A" IN SHAKESPEARE
+200|In the play named for him, Timon takes leave of this Mediterranean city|Athens
+400|In "The Tempest" he's invisible to everyone but Prospero|Ariel
+600|In "Henry V", the English army defeats the French in a battle at this site|Agincourt
+800|The main plot of this comedy comes from Boccaccio's "Decameron"; its title ensures a happy ending|All's Well That Ends Well
+1000|He's the merchant of Venice in "The Merchant of Venice\"|Antonio

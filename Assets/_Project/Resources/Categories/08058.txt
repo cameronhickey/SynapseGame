@@ -1,0 +1,6 @@
+UTILITIES
+200|If you're burning LPG, you're burning this|liquefied petroleum gas
+400|Natural gas consists mainly of this, CH4|methane
+600|This Ala. city has 2 separate water supply systems, 1 for residential & 1 for industrial use|Birmingham
+800|While Consolidated Edison serves New York, Commonwealth Edison serves this Midwest city|Chicago
+1000|7 of the scientists who have worked in the labs of this utility company have been Nobel laureates|AT&T

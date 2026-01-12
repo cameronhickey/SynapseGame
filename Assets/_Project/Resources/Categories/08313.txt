@@ -1,0 +1,6 @@
+PILOT TALK
+200|When the plane's on its glide path it's about to do this|land
+400|A dive is a steep, sudden descent; this is an ascent to cruising altitude|climb
+600|It's the movement of an aircraft under its own power on the ground|taxi
+800|It's not frosting on the cake, it's a bad wing condition you experience in cold weather|icing
+1000|From the Latin for "stormy", it's the rough air that shakes things up a bit during a flight|turbulence

@@ -1,0 +1,6 @@
+FRANCO-AMERICAN CITIES
+200|End of the Lake, Wisconsin|Fond du Lac
+400|Wooded Place, Idaho|Boise
+600|Clear Water, Wisconsin|Eau Claire
+800|Beautiful Mountain, Texas|Beaumont
+1000|High Land, Indiana|Terre Haute

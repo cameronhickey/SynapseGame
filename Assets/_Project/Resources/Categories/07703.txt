@@ -1,0 +1,6 @@
+ROBOTICS
+200|Isaac Asimov's first law of robotics says that a robot may not allow one of these to come to harm|humans
+400|(Jimmy of the Clue Crew reports from Carnegie Mellon University in Pittsburgh.) With its ability to enter tight spaces, like collapsed buildings, the snake robot is used in US&R, or urban this|search-and-rescue
+600|iRobot Corporation, founded by a group from MIT, introduced this vacuuming wonder device in 2002|Roomba
+800|It's estimated that in the 1990s about 700,000 robots were in use, over 400,000 of them in this Asian country|Japan
+1000|This 5-letter prefix comes before "mechanism" to refer to the feedback device that lets robots self-correct|servo

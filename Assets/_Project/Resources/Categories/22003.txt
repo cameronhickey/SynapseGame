@@ -1,0 +1,6 @@
+WHAT'S YOUR ADDRESS?
+200|11 Wall Street, New York, New York|the New York Stock Exchange
+400|It rises above the Champ de Mars, 5 Avenue Anatole France, Paris|the Eiffel Tower
+600|His presidential library, museum & boyhood home: 200 SE 4th Street, Abilene, Kansas|Eisenhower
+800|All 12 columns of it are found at Pariser Platz, 10117 Berlin|the Brandenburg Gate
+1000|A famous estate: 1 Lodge Street, Asheville, North Carolina|the Biltmore house

@@ -1,0 +1,6 @@
+STATES BY COLORFUL LOCALES
+200|Greenbelt & Silver Spring|Maryland
+400|Brownsville & White Settlement|Texas
+600|Red Hook & White Plains|New York
+800|Brownsboro Village & Bowling Green but not Yellow Springs|Kentucky
+1000|Black Oak & Blue Eye|Arkansas

@@ -1,0 +1,6 @@
+BASKETBALL
+200|Height of the basket|10 feet
+400|Making it is called a "conversion\"|a foul shot (free throw)
+600|(Sofia goes head-to-head with Bradley.) It's a musical artist who broadens his appeal or the type of dribble Shawn Bradley is using to beat me|crossover
+800|The underhand free throw technique is associated with this Golden State Warriors hall of famer|Rick Barry
+1000|(Cheryl is attempting a rebound from Bradley.) Shawn's doing this to me; it sounds like fighting, but he's actually in position for the rebound|boxing out

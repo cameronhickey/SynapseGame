@@ -1,0 +1,6 @@
+ALLOYS
+200|An alloy called babbitt metal is used to line bearings & bushings to reduce this|friction
+400|Simple carbon steels are just a little carbon & manganese & a lot of this|iron
+600|For this alloy, mix your zinc & copper in a crucible & work with your ingots after they cool|brass
+800|Adding platinum to gold turns it from yellow gold to this|white gold
+1000|Osmiridium is, you guessed it, an alloy of this & iridium|osmium

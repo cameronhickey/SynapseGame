@@ -1,0 +1,6 @@
+CHARACTER MASHUPS
+200|Huckleberry Finch (1884 & 1960)|Huckleberry Finn and Scout Finch
+400|Fredo Baggins (1969 & 1954)|Fredo Corleone and Bilbo Baggins
+600|Holden Copperfield (1951 & 1850)|Holden Caulfield and David Copperfield
+800|Rhett Smiley (1936 & 1961, '62, etc.)|Rhett Butler and George Smiley
+1000|Sansa Panza (1996 & 1605)|Sansa Stark and Sancho Panza

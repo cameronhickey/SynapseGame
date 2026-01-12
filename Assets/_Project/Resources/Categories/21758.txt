@@ -1,0 +1,6 @@
+ORDER IN THE FOOD COURT
+200|Do you plead the fifth on ordering a side of chips & this mashed avocado dip from Chipotle?|guacamole
+400|Your request for French fries has been overruled; I'm ordering you a Greek salad with kalamata these|olives
+600|I concur with Justices Ginsburg & Sotomayor, who ruled that this, Nathan's specialty, can be considered a sandwich|a hot dog
+800|We are about to hear testimony from Rick Wetzel, co-founder of a bakery that hand-rolls & bakes these in flavors like Sinful Cinnamon|pretzels
+1000|As it's cheat day, I'll allow testimony regarding a trip to this "shack" for its namesake drink—or we can make it a malt|Shake (Shack)

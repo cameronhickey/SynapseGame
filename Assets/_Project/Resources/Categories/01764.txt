@@ -1,0 +1,6 @@
+GERMAN WORDS & PHRASES
+200|If you want to go to this type of store, ask for the antiquitatenladen|an antique shop
+400|This battery-powered device is eine taschenlampe|a flashlight
+600|If you don't know what a worterbuch is, you might look it up in das worterbuch|a dictionary
+800|If you're strapped for cash, ask, "Nehmen sie kreditkarten?" which means this|Do you take credit cards?
+1000|Die bademutze is this type of cap|bathing

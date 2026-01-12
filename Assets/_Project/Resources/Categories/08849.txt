@@ -1,0 +1,6 @@
+FROM WHAT LANGUAGE
+200|Judo|Japanese
+400|Machismo|Spanish
+600|Praline|French
+800|To kvell|Yiddish
+1000|Maelstrom|Dutch

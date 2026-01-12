@@ -1,0 +1,6 @@
+I NEED A FLAVOR
+200|This spice precedes "ale" in the name of a beverage & "snap" in the name of a cookie|ginger
+400|The name of this spice used in Indian cooking comes from the Tamil for "sauce\"|curry
+600|Allium sativum, its pungent odor was said to give strength; Egyptians fed it to the slaves who built the pyramids|garlic
+800|In Italy the stalk of the Neapolitan type of this garnishing herb is eaten like celery|parsley
+1000|There are summer & winter varieties of this herb whose name means "piquant" or "aromatic\"|savory

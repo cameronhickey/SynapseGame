@@ -1,0 +1,6 @@
+WINE A LITTLE
+200|This wine-growing region in eastern France shares its name with a deep reddish-purplish color|Burgundy
+400|In the world of wine, this word refers to the year the grapes were harvested|vintage
+600|Sauternes & ice wine are 2 of the wines named for this dinner course|dessert
+800|You might enjoy a glass of this Sicilian fortified wine while cooking up the veal dish of the same name|Marsala
+1000|This Italian word for "foaming" is used of sparkling wines; the Asti one is quite famous|spumante

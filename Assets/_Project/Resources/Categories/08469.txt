@@ -1,0 +1,6 @@
+NAME THAT CENTURY
+200|President McKinley is assassinated|the 20th century
+400|The first ship passes through the Panama Canal|20th century
+600|Gutenberg invents his printing press|the 15th century
+800|Ben Franklin dies|18th century (1790)
+1000|The black death kills one-third of Europe|the 14th century

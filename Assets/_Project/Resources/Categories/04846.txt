@@ -1,0 +1,6 @@
+MOVIE TAGLINES
+200|1993: "A murdered wife. A one-armed man. An obsessed detective. The chase begins.\"|The Fugitive
+400|1995: "A little pig goes a long way\"|Babe
+600|1993: "An adventure 65 million years in the making\"|Jurassic Park
+800|1973: "Where were you in '62?\"|American Graffiti
+1000|1990: "You will believe\"|Ghost

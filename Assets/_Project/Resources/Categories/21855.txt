@@ -1,0 +1,6 @@
+3-WORD LITERARY TITLES
+200|In this novel by Jack Kerouac, Sal Paradise says he'd "often dreamed of going west to see the country\"|On the Road
+400|A student murders a St. Petersburg pawnbroker in this masterpiece by Dostoyevsky|Crime and Punishment
+600|Estragon suggests that he & Vladimir hang themselves in this absurdist play|Waiting for Godot
+800|Isak Dinesen mentions that the Masai are her neighbors in this memoir|Out of Africa
+1000|Young Cedric charms his grandfather, the Earl of Dorincourt, in this novel by Frances Hodgson Burnett|Little Lord Fauntleroy

@@ -1,0 +1,6 @@
+COINS
+200|This Japanese coin equal to 100 sen is made of aluminum|a yen
+400|To commemorate the murder of Julius Caesar, a silver denarius coin depicting this assassin was issued|Brutus
+600|This country's post- World War I coins featured such heroes as Jozef Pilsudski & John III Sobieski|Poland
+800|This Russian alloy coin, one-hundredth of a ruble, was once made of silver|a kopeck
+1000|In 1933 New Zealand began minting coins featuring designs of this native people|the Maori

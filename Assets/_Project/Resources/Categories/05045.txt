@@ -1,0 +1,6 @@
+PRE-MED
+200|Comparative Anatomy: The male fiddler crab's small one is used for feeding; the large for signaling|Claw
+400|Latin: If your Latin class seems to go on ad infinitum, it goes on this way|Infinity/forever
+600|General Chemistry: It's the main branch of chemistry that deals with carbon compounds|Organic chemistry
+800|Basket Weaving: Materials used include reed & rush, which is used to make these Japanese mats|Tatami
+1000|Physics: Helmholtz formulated the first law of this, a statement on the conservation of energy|Thermodynamics

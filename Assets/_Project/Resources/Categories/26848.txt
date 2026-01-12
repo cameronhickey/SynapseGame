@@ -1,0 +1,6 @@
+\"A" IN PSYCHOLOGY
+200|This condition is not medically diagnosed until at least 10% of body weight has been lost due to food abuse|anorexia
+400|Dustin Hoffman won an Oscar in 1989 for playing a man fighting this alienating condition|autism
+600|The kind of counter-conditioning used to stop maladaptive behavior, like smoking|averse conditioning
+800|In contrast to claustrophobia, it's the fear of open spaces|agoraphobia
+1000|Jung's term for the inner part of the personality, as opposed to the "persona\"|the anima

@@ -1,0 +1,6 @@
+PRESIDENTIAL PARTY POLITICS
+200|Grant, Garfield & McKinley were 3 presidents belonging to this party|the Republican Party
+400|Andrew Jackson was the first winner of the presidency for the modern version of this party|the Democratic Party
+600|In the 1840s Abraham Lincoln was a member of this "hair-raising" party|the Whigs
+800|In 2008 ex-Rep. Cynthia McKinney, not Ralph Nader, was this party's presidential choice|the Green Party
+1000|John Adams was elected president as a member of this party|the Federalist Party

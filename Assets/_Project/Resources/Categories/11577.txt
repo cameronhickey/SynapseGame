@@ -1,0 +1,6 @@
+BE A SPORT
+200|Perform a hat trick by body-checking your way to a breakaway during a power play in this sport|hockey
+400|An early version of this water sport had players riding on barrels painted to look like horses|water polo
+600|You don't want to travel when you're double-teamed in the backcourt in this sport|basketball
+800|This 5-sport Olympic event had its origins in the activities of a military dispatch rider in enemy territory|pentathlon
+1000|After a visit to the maul, drop kick your way to a scrum in this sport developed in England|rugby

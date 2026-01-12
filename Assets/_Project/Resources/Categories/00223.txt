@@ -1,0 +1,6 @@
+U.S. GOVERNMENT
+200|The upper house of Congress|the Senate
+400|Founded in 1800, copies of each copyrighted document are stored here|the Library of Congress
+600|Federal agency which protects the holdings of your savings account|the FDIC (the Federal Deposit Insurance Corporation)
+800|The National Weather Service is a part of this federal department|the Department of Commerce
+1000|Title later given to 85 essays written by Hamilton, Madison & Jay to clarify Constitution|the Federalist Papers

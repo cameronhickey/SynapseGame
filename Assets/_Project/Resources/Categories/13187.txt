@@ -1,0 +1,6 @@
+AS QUICK AS YOU CAN SAY...
+200|This word is paired with "lickety" to mean "quickly\"|split
+400|Speedy plural term for a quickly-moving section of a river|rapids
+600|In a TV cartoon Spritle & Chim Chim often stowed away in the trunk of this title thrill-seeker's car, the Mach 5|Speed Racer
+800|From the Latin for "prompt", it's the Spanish word for "soon\"|pronto
+1000|In Newton's equation F=ma, it's what "a" stands for|acceleration

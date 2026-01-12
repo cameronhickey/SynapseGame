@@ -1,0 +1,6 @@
+FRANCHISES
+200|For a $10.000 license fee, you can put your foot in the door of this foot-long- -sandwich shop|Subway
+400|Pip & Sir Speedy specialize in this service|copies (printing)
+600|New Orleans Magazine has voted this chicken chain's red beans & rice best 11 years running|Popeye's
+800|Auntie Anne's Inc., a fast-growing franchise, sells the hand-rolled soft type of these treats|pretzels
+1000|Food that fills in the blank in "The Great Steak & ____ Company\"|Potato

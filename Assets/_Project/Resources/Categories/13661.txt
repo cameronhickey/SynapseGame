@@ -1,0 +1,6 @@
+ABBREVIATED MAGAZINES
+200|Tennis, anyone? How about golf, football, baseball...: SI|Sports Illustrated
+400|It's been around since 1883: LHJ|Ladies' Home Journal
+600|Covering movies, TV, books...: EW|Entertainment Weekly
+800|For science, technology, automotive & more: PM|Popular Mechanics
+1000|You could profit from this magazine: BW|BusinessWeek

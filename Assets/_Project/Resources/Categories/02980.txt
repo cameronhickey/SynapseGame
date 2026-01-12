@@ -1,0 +1,6 @@
+BODY PARTS
+200|The superior vena cava transports blood from the head, neck, chest & arms to this organ|the heart
+400|The liver is located directly below this dome-shaped muscle that separates the chest & abdomen|the diaphragm
+600|The visible outer portion of this organ is called the pinna or auricle|the ear
+800|These chisel-shaped front teeth are the first primary teeth to erupt|incisors
+1000|As opposed to the iris or colored part, it's the white portion of your eye|the sclera

@@ -1,0 +1,6 @@
+YOU GET A P+
+200|Gym class|PE
+400|It signifies that "some material may not be suitable for children\"|PG
+600|Headquartered in London, this firm became one of the world's largest oil companies in 1998 when it merged with Amoco|BP
+800|In 2001 Microsoft introduced this new version of Windows that was popular for well over a decade|XP
+1000|This army duty has been used as a form of punishment for some infractions|KP

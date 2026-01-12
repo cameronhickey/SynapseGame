@@ -1,0 +1,6 @@
+SPORTS TEAM HOMES
+200|The NFL's Titans tower over this town|Nashville
+400|College football's Cornhuskers battle in this burg|Lincoln
+600|MLB's Rays shine over this place (St. Petersburg, specifically)|Tampa (Bay)
+800|The NHL's Coyotes have a howling good time here (well, Glendale, actually)|Phoenix
+1000|The MLS' Earthquakes shake things up for this city (they play in Santa Clara & Oakland, really)|San Jose

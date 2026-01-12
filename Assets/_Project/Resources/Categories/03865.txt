@@ -1,0 +1,6 @@
+PIANO KEYS
+200|It's the only letter in "piano" that corresponds to a piano key|A
+400|Of the 2 types of piano keys in a Paul McCartney-Stevie Wonder hit, it's what G-flat is|ebony
+600|A 6-string guitar has 2 strings tuned to this note, each corresponding to a piano key|E
+800|They're adjacent on the keyboard as well as in an abbreviation for a popular format of recorded music|C & D
+1000|It's the key the French call "Le do du milieu du piano\"|middle C

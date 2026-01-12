@@ -1,0 +1,6 @@
+STATE INTELLIGENCE
+200|Office of Strategic Services|the United States
+400|Komitet Gosudarstvennoy Bezopasnosti|Russia
+600|MI6|Britain
+800|Mossad|Israel
+1000|Within the Oglaigh na h-Eireann: G2|Ireland

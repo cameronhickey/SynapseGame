@@ -1,0 +1,6 @@
+SUITE TALK
+200|This master of Baroque music composed his 6 "French Suites" for clavichord in the 1720s|Johann Sebastian Bach
+400|This famous 1892 Tchaikovsky suite features the "Miniature Overture\"|the Nutcracker Suite
+600|This 2-named NYC hotel that dates to 1893 offers 900-square-foot luxury suites that overlook Park Avenue|the Waldorf Astoria
+800|This 2-named NYC hotel offers a 1,900-square-foot Central Park Suite, overlooking Central Park, natch|the Ritz-Carlton
+1000|Queen Elizabeth II stayed in the Ahwahnee's Mary Curry Tresider Suite when she visited this Calif. national park|Yosemite

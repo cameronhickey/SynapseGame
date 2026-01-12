@@ -1,0 +1,6 @@
+COUNTRIES' MEDALS & DECORATIONS
+200|Order of the Nile|Egypt
+400|Order of the Aztec Eagle|Mexico
+600|Order of the Rising Sun|Japan
+800|Order of Oranje-Nassau|the Netherlands
+1000|Order of the Hashemite Star|Jordan

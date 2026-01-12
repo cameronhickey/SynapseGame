@@ -1,0 +1,6 @@
+CONTROL
+200|The agents of CONTROL managed to defeat the agents of KAOS on this '60s sitcom|Get Smart
+400|This patriotic song says, "Confirm thy soul in self-control, thy liberty in law\"|\"America The Beautiful\"
+600|This therapy gets its name because data on your body are "returned" to you via sensors so you can control your functions|biofeedback
+800|In terms of arms-control negotiations between the U.S. & the USSR, SALT was succeeded by this 5-letter acronym|START
+1000|In 1916 she opened the first birth-control clinic in the United States|Margaret Sanger

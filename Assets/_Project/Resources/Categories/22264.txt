@@ -1,0 +1,6 @@
+GIVE US ONE LETTER
+200|Type of shirt that proverbially suits you to this letter|T
+400|Let's pull this unit of acceleration equal to the acceleration of gravity at the earth's surface|G
+600|Chess notation for the piece that can move exactly one square in any direction|K
+800|It begins 2 Mexican states but is the only letter not present in the names of the 50 U.S. states|Q
+1000|In 1927 Ford introduced its next generation of cars, the model this|A

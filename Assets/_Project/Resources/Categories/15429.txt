@@ -1,0 +1,6 @@
+5 DEGREES
+200|MS, from Cal Tech|master of science
+400|BPhil, from Oxford|bachelor of philosophy
+600|MAg, from Texas A&M|master of agriculture
+800|M.Div., from Yale|master of divinity
+1000|JD, from Duke Law (the Latin, please)|juris doctor

@@ -1,0 +1,6 @@
+I KNOW "UR\"
+200|Adjective meaning calling for prompt action|urgent
+400|Bearlike|ursine
+600|It's a heavy grayish element|uranium
+800|Shorthand for an Internet address|URL
+1000|A chemical compound of the group NH-CO-O; you're probably familiar with the "poly" form|urethane

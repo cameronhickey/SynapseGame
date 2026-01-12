@@ -1,0 +1,6 @@
+ELECTION '92
+200|This man defeated President Bush by about 5% of the popular vote|Bill Clinton
+400|This first American to orbit the Earth was elected to a 4th term as senator from Ohio|John Glenn
+600|This third party presidential candidate got over 19 million votes but no electoral votes|Ross Perot
+800|Carol Moseley Braun of this state became the first African-American woman elected to the Senate|Illinois
+1000|Ben Nighthorse Campbell, a Native American, won election to the Senate from this state|Colorado

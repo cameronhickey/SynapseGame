@@ -1,0 +1,6 @@
+LITERARY FORMS
+200|Term for a mystery novel that's already in the form of a question|Whodunit
+400|This term for a work of morbid or absurd humor is the title of a Peter Shaffer play set in the dark|Black comedy
+600|The creatures mentioned in this term for a fantastic story may be joined by elves & goblins|Fairy tale
+800|Oringinally an inscription like an epitaph, it now means a brief, striking observation|Epigram
+1000|Robert Frost compared writing this unstructured verse to playing tennis without a net|Free verse

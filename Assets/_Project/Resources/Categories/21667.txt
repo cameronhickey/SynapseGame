@@ -1,0 +1,6 @@
+THAT'S THE TICKET!
+200|Tim Kaine|Hillary Clinton
+400|Geraldine Ferraro|Walter Mondale
+600|Paul Ryan|Mitt Romney
+800|Hubert Humphrey|Lyndon Johnson
+1000|Lloyd Bentsen|Michael Dukakis

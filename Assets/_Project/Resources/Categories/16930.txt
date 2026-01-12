@@ -1,0 +1,6 @@
+BOOKS' MISSING ADJECTIVES
+200|\"____ House on the Prairie\"|Little
+400|Chris Van Allsburg's "The ____ Express\"|Polar
+600|By Natalie Babbitt, "Tuck ____\"|Everlasting
+800|\"Sarah, ____ and ____\"|Plain & Tall
+1000|The second to last book in Lemony Snicket's "A Series of Unfortunate Events": "The ____ Peril\"|Penultimate

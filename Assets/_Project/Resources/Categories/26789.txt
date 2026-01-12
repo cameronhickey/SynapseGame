@@ -1,0 +1,6 @@
+CURRENT U.S. COINS
+200|The word "dollar" appears on these 2 coins|the quarter dollar & the half dollar
+400|They're the only 2 coins with buildings on the back|the penny & the nickel
+600|They're the presidents on the front of the smallest & largest coins in size|FDR & Kennedy
+800|The 2 presidents shown with bows in their hair|Jefferson & Washington
+1000|The back of a dime shows sprigs of both an olive & this tree|an oak

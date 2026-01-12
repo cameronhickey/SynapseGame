@@ -1,0 +1,6 @@
+CABINET DEPARTMENTS IN OTHER WORDS
+200|Vigor|Energy
+400|Conveyance|Transportation
+600|Due process|Justice
+800|Tutelage|Education
+1000|Childbirth|Labor

@@ -1,0 +1,6 @@
+MEN OF LETTERS
+200|Edward Estlin|Cummings
+400|Wystan Hugh|Auden
+600|Edgar Laurence...|E.L. Doctorow
+800|Edward Morgan...|E.M. Forster
+1000|Vidiadhar Surajprasad...|V.S. Naipaul

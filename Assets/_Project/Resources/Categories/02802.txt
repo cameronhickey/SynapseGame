@@ -1,0 +1,6 @@
+ELECTRICITY
+200|Walking across a carpet can build up this type of charge caused by stationary electrons|Static electricity
+400|In an incandescent light bulb this wire, usually tungsten, provides the light|Filament
+600|Luigi Galvani got a dead frog to twitch by touching metal to these during an electrical storm|nerves
+800|Copper & silver are good ones: so are Esa-Pekka Salonen & Zubin Mehta|conductors
+1000|In honor of its inventor, a Galvanometer measures current in these units|amperes

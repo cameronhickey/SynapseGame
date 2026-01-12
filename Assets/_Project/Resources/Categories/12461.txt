@@ -1,0 +1,6 @@
+GET THE POINT
+200|This senator|John Kerry
+400|This Supreme Court justice|Ruth Bader Ginsburg
+600|This edifice|the Chrysler Building
+800|This assassin|John Wilkes Booth
+1000|This ship's memorial|the Arizona

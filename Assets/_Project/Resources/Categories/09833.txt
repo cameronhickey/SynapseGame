@@ -1,0 +1,6 @@
+TRIPLE "A\"
+200|When in a Hefner-ian mood, I wear these silk nightclothes|pajamas
+400|The "World" one claims to be the all-time bestselling American reference book|almanac
+600|You have this kind of a look when dreamy or preoccupied|faraway
+800|Most of these natural disasters occur on slopes of 30-45 degrees|avalanches
+1000|On the feast of the Pentecost, this knight saw a vision of the Holy Grail|Galahad

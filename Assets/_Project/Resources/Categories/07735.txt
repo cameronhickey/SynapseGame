@@ -1,0 +1,6 @@
+GET REAL
+200|From a character in an 18th century play, to be genuine you're not Alvin-pure or Theodore-pure, but this|Simon-pure
+400|From the Latin for "in good faith", it's used to indicate authenticity|bona fide
+600|This phrase previously came from those referring to the true chief of a Scottish clan|real McCoy
+800|Aussie slang for genuine, it's "fair" this, mate|dinkum
+1000|From the followers of Jesus comes this adjective for authoritative|apostolic

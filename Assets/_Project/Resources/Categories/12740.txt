@@ -1,0 +1,6 @@
+THE PLAYER'S PRO TEAM
+200|Magic Johnson|the Lakers
+400|John Elway|the Broncos
+600|Ted Williams|the Red Sox
+800|Isiah Thomas|the Pistons
+1000|Kirby Puckett|the Minnesota Twins

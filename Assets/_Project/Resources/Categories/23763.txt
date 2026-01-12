@@ -1,0 +1,6 @@
+THERE'S AN ANIMAL IN THAT TITLE
+200|By Hans Christian Andersen: "The Ugly ____ \"|Duckling
+400|A thriller about an assassin: "The Day of the ____\"|Jackal
+600|By Steinbeck: "The Red ____ \"|Pony
+800|Set in India & the basis for a 2021 film: "The White ____\"|Tiger
+1000|A 1971 sequel: "____ Redux\"|Rabbit

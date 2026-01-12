@@ -1,0 +1,6 @@
+SIMILARLY NAMED SCHOOLS
+200|Lake Forest College is near Chicago; change one letter to get this North Carolina university|Wake Forest
+400|Northwestern University is in Evanston, Illinois; this private school was founded in Boston in 1898|Northeastern
+600|It's about a 2-hour drive northeast from Wesleyan in Connecticut to this Seven Sisters college in Massachusetts|Wellesley
+800|It's back to Chicago for DePaul, a Catholic university; DePauw is in Greencastle in this Midwestern state|Indiana
+1000|This Boston college of music sounds like a university town just north of Oakland|Berklee

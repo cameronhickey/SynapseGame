@@ -1,0 +1,6 @@
+NETWORK
+200|\"The Puzzle Place", "This Old House", "Frontline\"|PBS
+400|\"Real World", "House of Style", "FANatic\"|MTV
+600|\"7 Days", "WWF Smackdown", "Moesha\"|UPN
+800|\"Emergency Vets", "Wild Rescues", "Breed All About It\"|Animal Planet
+1000|\"Pros & Cons", "Crime Stories", "DC Insider\"|Court TV

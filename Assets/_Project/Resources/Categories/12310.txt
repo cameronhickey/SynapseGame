@@ -1,0 +1,6 @@
+JAPAN'S NEXT TOP MODEL
+200|The MX-5|Mazda
+400|The Sienna|Toyota
+600|The Ridgeline|Honda
+800|The Murano|Nissan
+1000|The Grand Vitara|Suzuki

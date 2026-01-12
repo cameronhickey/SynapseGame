@@ -1,0 +1,6 @@
+IN THE KITCHEN
+200|The brand name Cuisinart has become synonymous with this appliance|a food processor
+400|A butcher's steel will keep a sharp knife sharp, but for dull ones this "stone" is recommended|a whetstone
+600|Different types of this kitchen gadget are used for meat, nuts & pepper|a grinder
+800|Traditionally, pompano en papillote is baked in this kind of paper|parchment
+1000|Often used to make cheesecake, this round pan with a removable rim is always "in season\"|a springform pan

@@ -1,0 +1,6 @@
+CHESS NUTS
+200|The only chess move in which a player may move 2 of his own pieces at the same time|Castling
+400|A special way a pawn may capture, it's French for "in passing\"|En passant
+600|The 17th letter of the English alphabet, in chess notation it stands for the most powerful piece on the board|Q (for queen)
+800|If you pawn your chess set, the shop will check to make sure there are this many pawns in it|16
+1000|In 1985 he became the youngest world chess champion when he defeated another Soviet player, Anatoly Karpov|Garry Kasparov

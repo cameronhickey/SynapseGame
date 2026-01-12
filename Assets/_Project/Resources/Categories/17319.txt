@@ -1,0 +1,6 @@
+MOVIES WITH STRUCTURE
+200|\"Harold & Kumar Go to White ____\"|Castle
+400|\"Elvis Has Left the ____\"|Building
+600|2003's "The Haunted ____\"|Mansion
+800|2012's "____ in the Woods\"|Cabin
+1000|1999's "Brokedown ____\"|Palace

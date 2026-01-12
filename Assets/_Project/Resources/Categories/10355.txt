@@ -1,0 +1,6 @@
+SHAKESPEARE TITLES IN OTHER WORDS
+200|\"One Severe Storm\"|The Tempest
+400|\"Small Village\"|Hamlet
+600|\"Lots o' Bustle Concerning Zilch\"|Much Ado About Nothing
+800|\"A Subjugation for One Small Burrowing Mammal\"|The Taming of the Shrew
+1000|\"Rialto Retailer\"|The Merchant of Venice

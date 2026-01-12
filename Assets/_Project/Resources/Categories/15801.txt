@@ -1,0 +1,6 @@
+START IT "UP\"
+200|To pull an entire plant out of the ground|uproot
+400|The stuffing & covering of furniture|upholstery
+600|The parts of a football goal post: 1 post, 1 crossbar, 2 of these|an upright
+800|Someone who instantly gets what you're saying is "quick on" this|the uptake
+1000|For example, when the candy counter guy asks if you want to make that medium Coke a large|upselling (upsize accepted, upgrade later accepted)

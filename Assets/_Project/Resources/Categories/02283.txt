@@ -1,0 +1,6 @@
+STRINGED INSTRUMENTS
+200|When Stu Sutcliffe left the Beatles, Paul took over playing this instrument|the bass
+400|A flat, wooden soundbox with up to 45 strings; usually it's listed last alphabetically|a zither
+600|He made his last violin in 1737 at the age of 93 in Cremona, Italy|Stradivarius
+800|The modern harp has 47 strings & 7 of these to raise the strings' pitch|pedals
+1000|Jacqueline du Pre made an acclaimed Carnegie Hall debut May 14, 1965 playing Elgar's concerto for this instrument|cello

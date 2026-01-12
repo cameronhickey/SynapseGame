@@ -1,0 +1,6 @@
+BANKS & BANKING
+200|It's the original city in Citibank, part of Citicorp|New York
+400|Security for a loan, it can be paper, trade goods, intangibles or business proceeds|collateral
+600|In the 18th century, brothers in this family ran banks in London, Vienna, Frankfurt & Naples|the Rothschilds
+800|A demand deposit account is more commonly known as this|a checking account
+1000|Between 1982 & 1990 there were about 1100 bank failures in the U.S. & over 1/3 were in this state|Texas

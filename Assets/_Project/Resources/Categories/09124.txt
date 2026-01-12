@@ -1,0 +1,6 @@
+COUNTRIES THAT END IN "IA\"
+200|At 1.7 people per square kilometer, this Central Asian nation is the world's most sparsely populated country|Mongolia
+400|President Robert Kocharian is its head of state, Primer Minister Andranik Markarian its head of government|Armenia
+600|This Baltic republic is bordered on the north by the Gulf of Finland|Estonia
+800|At the end of World War I, this country received the provinces of Bukovina, Banat & Transylvania from Austria-Hungary|Romania
+1000|This country's tallest peak, Mount Tahat, rises 9,850 feet in the Ahaggar Mountains in the Sahara Desert|Algeria

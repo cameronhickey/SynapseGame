@@ -1,0 +1,6 @@
+DICE ROLL NICKNAMES
+200|Snake Eyes|2
+400|Boxcars, or Hobo's Delight on a Rainy Night|Sixes
+600|Acey-Deucy|1 & 2
+800|Ada from Decatur, or Square Pair|pair of 4's
+1000|Texas Sunflowers|two 5's

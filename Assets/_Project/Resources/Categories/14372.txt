@@ -1,0 +1,6 @@
+TITLES CONTAINING TITLES
+200|Hans Christian Anderson: "The ____ and the Pea\"|Princess
+400|Sophocles: "Oedipus ____\"|Rex
+600|Machiavelli: "The ____\"|Prince
+800|Spenser: "The Faerie ____\"|Queene
+1000|Oscar Wilde: "____ Windermere's Fan\"|Lady

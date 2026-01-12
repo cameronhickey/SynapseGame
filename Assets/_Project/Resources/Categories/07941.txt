@@ -1,0 +1,6 @@
+WINE TASTING
+200|This wine sometimes called "Cab" is known for its cherry & raspberry flavors|Cabernet
+400|Limberger, an acidy Austrian red, might go well with the strong Limburger type of this|cheese
+600|The honeyed quality of Sauternes makes it this type of wine named for a course|dessert wine
+800|Generally, Bardolino is light-bodied, but Barolo is this, the opposite|full-bodied
+1000|Johannisberg is a popular type of this white wine known for its fruity flavor & crisp finish|Riesling

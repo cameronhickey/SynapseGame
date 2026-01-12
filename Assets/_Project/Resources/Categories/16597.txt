@@ -1,0 +1,6 @@
+DATA STRATA
+200|States spend more on this general expenditure than any other—class is in session!|education
+400|There are more visitors annually from this country to the U.S. than any other, about 20 million|Canada
+600|This eastern state has the highest population density; must all be at the shore|New Jersey
+800|This U.K. legislative body consists of 646 life peers & fewer than 100 hereditary peers|the House of Lords
+1000|These 2 positions, in the army & navy, are both rated O-10 & both top out in pay at more than $19,000 a month|general and admiral

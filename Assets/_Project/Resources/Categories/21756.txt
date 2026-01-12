@@ -1,0 +1,6 @@
+FOREIGN RELATIONS
+200|In French a frere is this, whether in the monastery or the family|brother
+400|Depending on where you are speaking Spanish, this relative could be a nana or an abuela|grandmother
+600|In Swedish a brorsdotter is this|niece
+800|This older relative is a grosstante in German|great-aunt
+1000|In Portuguese irma means this & cidade irma is this kind of city|sister

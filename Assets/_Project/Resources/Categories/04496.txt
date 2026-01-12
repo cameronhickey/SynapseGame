@@ -1,0 +1,6 @@
+AUSTEN-TATIOUS
+200|Jane Austen said Elizabeth Bennet, the hero of this novel, was "as delightful a creature as ever appeared in print\"|\"Pride and Prejudice\"
+400|After her unsuccessful & meddlesome matchmaking, this title character realizes she loves Mr. Knightley|Emma Woodhouse
+600|This author of "Orlando" said, "Of all the great writers" Jane "is the most difficult to catch in the act of greatness\"|Virginia Woolf
+800|While prince regent during his father's madness, this king had a set of Austen's novels in each of his residences|George IV
+1000|This title abbey is the home of clergyman Henry Tilney|\"Northanger Abbey\"

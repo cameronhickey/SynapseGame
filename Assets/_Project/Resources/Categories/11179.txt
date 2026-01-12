@@ -1,0 +1,6 @@
+YOU'RE IN THIS COUNTRY IF...
+200|You're buying ankle bracelets in Ankara|Turkey
+400|You're cruising around Kiev|Ukraine
+600|You're bicycling in Bucharest|Romania
+800|You're banging a drum in Bangalore|India
+1000|You're undulating in Ulaanbaatar|Mongolia

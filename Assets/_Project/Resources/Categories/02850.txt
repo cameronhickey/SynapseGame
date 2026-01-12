@@ -1,0 +1,6 @@
+SHELL GAMES
+200|Of giant clam, giant crab or giant cockroach, it's the one with the largest shell|a giant clam
+400|Of chestnuts, peanuts or walnuts, the one whose shell is actually a pod|peanuts
+600|Of an oyster, a cockle or a snail, the one that sports a univalve shell|a snail
+800|Of ladybugs, house flies or yellow jackets, they're the ones with a shell covering their wings|Ladybugs
+1000|Of cetology, conchology or cacology, it's the study of shells|conchology

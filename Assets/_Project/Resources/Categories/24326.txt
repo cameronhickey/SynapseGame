@@ -1,0 +1,6 @@
+NFL TEAMS BY HOME STADIUM
+200|Acrisure Stadium (formerly Heinz Field)|the Steelers
+400|The frozen tundra of Lambeau Field|the Green Bay Packers
+600|Opened in 2020, SoFi Stadium: 2 teams, please|the Rams & the Chargers
+800|Empower Field at Mile High|the Broncos
+1000|Soldier Field|the Bears

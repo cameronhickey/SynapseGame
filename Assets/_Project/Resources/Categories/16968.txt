@@ -1,0 +1,6 @@
+POST OFFICE
+200|Its 1st digit identifies geographical area, & the 4th & 5th identify the post office|the zip code
+400|4th class mail, including merchandise, printed matter, & mailable live animals, is better known as this|parcel post
+600|(Jimmy of the Clue Crew presents from the U.S. Post Office in Chicago, IL.) The United States Post Office operates one of the largest civilian fleets in the world, & is going greener with many vehicles powered by alternative fuels like propane, ethanol & CNG, the compressed type of this fuel|natural gas
+800|(Sarah of the Clue Crew presents from the U.S. Post Office in Chicago, IL.) Collectors know there are three main types of stamps: definitives, printed in large quantities; specials, used for holidays; & these, which honor a person, subject or event important to American life|commemorative
+1000|(Jimmy of the Clue Crew presents from the U.S. Post Office in Chicago, IL.) The United States postal service's processing of almost 160 billion pieces of mail annually begins with giant sorting machines; mail is first separated by shape & size, a process called this, like winnowing animals from a herd|culling

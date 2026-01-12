@@ -1,0 +1,6 @@
+BROADWAY TITLE NOUNS
+200|\"Annie Get Your ____\"|Gun
+400|\"Paint Your ____\"|Wagon
+600|\"Kinky ____\"|Boots
+800|\"Once Upon a ____\"|Mattress
+1000|\"Into the ____\"|Woods

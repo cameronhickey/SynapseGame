@@ -1,0 +1,6 @@
+MATH 4U
+200|It's the distance from a circle's center to its perimeter|a radius
+400|The three sides of this kind of triangle are all of different lengths|scalene
+600|It's the "useful" term for a relation that pairs members of one set with unique members of another set|a function
+800|AKA Napier's constant, this lowercase vowel is used to represent the base of a natural logarithm|e
+1000|(Jimmy of the Clue Crew shows a conic section on the monitor.) The intersection of two equal & opposite cones with a plane generates this 2-part curve, from Greek for "extravagance" or "excess\"|hyperbola

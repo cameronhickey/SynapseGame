@@ -1,0 +1,6 @@
+BEATLES HITS IN OTHER WORDS
+200|\"Cent Street\"|\"Penny Lane\"
+400|\"Rotate, Then Yell\"|\"Twist and Shout\"
+600|\"Coupon for Travel\"|\"Ticket to Ride\"
+800|\"One Difficult 24-Hour Period's Evening\"|\"A Hard Day's Night\"
+1000|\"Mistress Ciccone\"|\"Lady Madonna\"

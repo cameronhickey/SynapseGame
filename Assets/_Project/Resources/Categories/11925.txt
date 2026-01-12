@@ -1,0 +1,6 @@
+WHERE IN THE WORLD IS SAN DIEGO?
+200|San Diego stays classy with its Old Globe Theatre, built in 1935 to present abridged versions of his plays|William Shakespeare
+400|Check out the "Dolphin Discovery" & "Sea Lions Tonite" shows at this San Diego attraction|Sea World
+600|The San Diego stadium now named for this telecom company is known as "The Q\"|Qualcomm
+800|This venue opened in 1989 crawls with sandmen & Doctor Whos as the home of the annual Comic-Con|the convention center
+1000|In Presidio Park, a museum named for this Franciscan missionary has exhibits on early San Diego history|Junípero Serra

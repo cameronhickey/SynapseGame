@@ -1,0 +1,6 @@
+WRONG ACCENTS FOR LITERARY CHARACTERS
+200|\"I won't think of it now... I'll go home to Tara tomorrow\"|Scarlett O'Hara
+400|\"We are in Transylvania; and Transylvania is not England. Our ways are not your ways\"|Count Dracula
+600|\"Tom... that Injun devil wouldn't make any more of drownding us than a couple of cats\"|Huckleberry Finn
+800|\"Towards thee I roll, thou all-destroying bu unconquering whale; to the last I grapple with thee\"|Captain Ahab
+1000|\"Thou must know Pearl! Our little Pearl! Thou hast seen her,—Yes, I know it!—but thou wilt see her now with other eyes\"|Hester Prynne

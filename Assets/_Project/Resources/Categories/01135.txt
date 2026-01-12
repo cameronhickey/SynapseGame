@@ -1,0 +1,6 @@
+CRIME TIME
+200|Type of criminal called a "dip\"|a pickpocket
+400|This term for the Mafia means "our affair\"|La Cosa Nostra
+600|On May 31, 1994 this Congressman was charged with 17 felonies, including fraud & embezzlement|Rostenkowski
+800|On March 23, 1994, in Tijuana, this party's candidate for president, Luis Donaldo Colosio, was assassinated|the PRI
+1000|The 1906 case of Chester Gillette drowning his girlfriend inspired this Theodore Dreiser book|An American Tragedy

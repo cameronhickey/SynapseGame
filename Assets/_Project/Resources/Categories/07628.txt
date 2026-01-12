@@ -1,0 +1,6 @@
+NURSING
+200|Nurses should never use Wite-Out on this, the usual 5-letter word for a record of a patient's care|chart
+400|Tell a patient using this metal frame to advance it at intervals of around 6 inches — & don't forget the tennis balls|walker
+600|3 of the 4 vital signs to be monitored, according to the "Illustrated Manual of Nursing Practice\"|(3 of) temperature, pulse, blood pressure & respiration
+800|The U.S. has about 7,200 nurse-these, helping women through pregnancy & delivery|nurse-midwives
+1000|Intermittent infusion is a common type of this procedure also called a drip|IV

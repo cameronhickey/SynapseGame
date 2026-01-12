@@ -1,0 +1,6 @@
+\"C-U\"
+200|It's a person in charge of a museum collection; Margaret Mead was one at the American Museum of Natural History|a curator
+400|He's the Stooge in the middle|Curly
+600|The name of this movement came from a derisive 1908 review about Georges Braque|Cubism
+800|(Hi, I'm Al Roker.) You can expect heavy rain, lightning & thunder from this type of cloud that's recognized by its anvil-shaped top|cumulonimbus
+1000|The name of this resort city about 40 miles south of Mexico city translates to "horn of the cow\"|Cuernavaca

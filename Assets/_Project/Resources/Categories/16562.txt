@@ -1,0 +1,6 @@
+STATES THAT BORDER CANADA
+200|At 1,538 miles, it has the longest border with Canada of any U.S. state|Alaska
+400|This state's Erie county has a 42-mile border with Canada; don't try to drive across it|Pennsylvania (New York also accepted)
+600|All of Washington's 427-mile border with Canada is with this province|British Columbia
+800|Presque Isle in this eastern state is less than 10 miles from our neighbors|Maine
+1000|The geographic center of North America is in this state bordering Saskatchewan & Manitoba|North Dakota

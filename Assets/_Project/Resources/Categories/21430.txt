@@ -1,0 +1,6 @@
+LYING IN STATES
+200|Aretha Franklin|Michigan
+400|Patrick Henry|Virginia
+600|Al Capone|Illinois
+800|Andy Warhol|Pennsylvania
+1000|Ralph Waldo Emerson|Massachusetts

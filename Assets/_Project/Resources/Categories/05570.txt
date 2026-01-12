@@ -1,0 +1,6 @@
+ROLES
+200|Claudia Draper, Dolly Levi, Fanny Brice|Barbra Streisand
+400|Tom Horn, Thomas Crown, Junior Bonner|Steve McQueen
+600|Noxeema, Willie Mays Hayes, Blade|Wesley Snipes
+800|Clarissa Vaughan, Francesca Johnson, Miranda Priestly|Meryl Streep
+1000|J.D. Cahill, Davy Crockett, Hondo Lane|John Wayne

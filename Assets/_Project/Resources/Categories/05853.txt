@@ -1,0 +1,6 @@
+BEGINS & ENDS WITH "N\"
+200|On TV Sally Field played a flying one|Nun
+400|This automaker has asked you to "Enjoy the Ride" in its models that include the Sentra, Altima & Maxima|Nissan
+600|It's usually used to describe a treaty calling for the cessation of the spread of nuclear weapons|Non-proliferation
+800|A slang term for the head, it can also be a small mug or cup|Noggin
+1000|A 9-sided closed plane figure|Nonagon

@@ -1,0 +1,6 @@
+\"PORT"s ON THE MAP
+200|In 1770 it replaced Cap-Haitien as the capital of Saint-Domingue, which is now Haiti|Port-au-Prince
+400|European country whose lavish 16th century style of architecture was known as "Manueline\"|Portugal
+600|West Coast city called America's "City of Roses\"|Portland, Oregon
+800|The construction of the Suez Canal resulted in the founding of this city|Port Said
+1000|This capital of Trinidad & Tobago was founded by Spanish settlers in the 1500s|Port of Spain

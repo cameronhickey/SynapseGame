@@ -1,0 +1,6 @@
+GEOGRAPHICALLY IN BETWEEN
+200|China & South Korea|North Korea
+400|Spain & Italy|France
+600|Estonia & Lithuania|Latvia
+800|Afghanistan & India|Pakistan
+1000|Colombia & Costa Rica|Panama

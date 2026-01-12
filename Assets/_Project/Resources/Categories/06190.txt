@@ -1,0 +1,6 @@
+CONVERSIONS
+200|When the temperature is 1 degree Celsius, it's 33.8 degrees this|Fahrenheit
+400|1 byte usually equals 8 of these|bits
+600|A 4th c. statue of him & a cross read, "By this saving sign I have... restored liberty to the Senate and people of Rome\"|Constantine
+800|In this novel subtitled "A Tale of the Christ", the title man's mom & sis are converted & cured of leprosy|Ben-Hur
+1000|Stephen I, king & st. of this Central European country, converted its people to Christianity in the 11th century|Hungary

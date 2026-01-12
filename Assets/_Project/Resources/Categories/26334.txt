@@ -1,0 +1,6 @@
+LET'S GET PACT
+200|The Allies used the Kellogg-Briand Pact as part of the legal basis for the 1945-46 war crimes trials in this German city|Nuremberg
+400|As a rival of NATO it preceded Pact (more formally, Treaty of Friendship, Cooperation & Mutual Assistance)|Warsaw
+600|On New Year's Day in 1994, this Western Hemisphere trade pact came into effect|NAFTA
+800|Gandhi's fast until near death won rights in 1932's Poona Pact for this low-caste Hindu group|the untouchables (the dalit)
+1000|In the 1878 Pact of Halepa, Turks gave Greeks some self-rule of this island to stop a rebellion, but it's Greece's largest island now|Crete

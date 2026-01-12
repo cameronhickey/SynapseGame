@@ -1,0 +1,6 @@
+HORSE RACING
+200|This racetrack is home to the Kentucky Derby|Churchill Downs
+400|The bettor selects the first 3 finishers in the correct sequence in this type of bet also called a triple|a trifecta
+600|The name of this champion of the 1930s is a synonym for Hard Tack, his sire's name|Seabiscuit
+800|In 1977 this horse "killed" the competition by winning 6 straight races, including the Triple Crown|Seattle Slew
+1000|In 1711 Queen Anne saw the potential for this racecourse; its royal enclosure still has a formal dress code|Ascot

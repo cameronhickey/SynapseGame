@@ -1,0 +1,6 @@
+THE LANGUAGE OF BEER
+200|Cerveza, por favor|Spanish
+400|Bier, bitte|German
+600|Biru, kudasai|Japanese
+800|Pijiu, qing|Mandarin Chinese
+1000|Bira, parakalo|Greek

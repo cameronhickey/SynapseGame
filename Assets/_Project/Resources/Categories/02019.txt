@@ -1,0 +1,6 @@
+AIRPORTS
+200|To use the vending machines in this Spanish capital's Barajas Airport, you'll need pesetas|Madrid
+400|Car rental agencies in this island country's Keflavik Airport include Avis & Flugleidir|Iceland
+600|It sounds appropriate to land at this Dallas airport on Valentine's Day|Love (Field)
+800|Country in which you'd find Jan Smuts Airport|South Africa
+1000|Aruba's international airport is named for this current queen|Beatrix

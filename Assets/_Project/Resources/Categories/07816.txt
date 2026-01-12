@@ -1,0 +1,6 @@
+DOLPHINS
+200|The distinct nose of the bottle-nosed dolphin is also called this, like part of a bird|beak
+400|Since 1990, new practices have cut by 90% the number of dolphins caught in nets intended for these|tuna
+600|It protrudes upward from the hump of the humpbacked whale|dorsal fin
+800|The largest members of the dolphin family are the creatures with this homicidal name|killer whales
+1000|Term for a group of dolphins, they sometimes join up to form herds or aggregations|pod

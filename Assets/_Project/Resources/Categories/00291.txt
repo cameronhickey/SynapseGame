@@ -1,0 +1,6 @@
+GLASS
+200|This "glass yarn" serves as insulation & the Corvette's body|fiberglass
+400|The glass curtain at Mexico City's Palace of Fine Arts was made by this company|Tiffany
+600|This black glass named for its discoverer is formed by the high heat of a volcanic eruption|Obsidian
+800|This glassmaker & artist called his iridescent glass "Favrile Glass\"|Louis Tiffany
+1000|This glass making city on New York's Chemung River is often called the "Crystal City\"|Corning

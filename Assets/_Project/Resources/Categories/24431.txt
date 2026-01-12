@@ -1,0 +1,6 @@
+DELEGATES
+200|This delegate to the Constitutional Convention in 1787 voted against a Bill of Rights, but later drafted the one we know|Madison
+400|Apostolic delegates are representatives from this country to church officials in other nations|Vatican City
+600|Maryland & these 2 states that split in 1863 don't have a House of Representatives but a House of Delegates|Virginia & West Virginia
+800|Delegates to the 1919 Congress of the Communist International included Stalin & this rival born Lev Bronstein|Trotsky
+1000|The Duke of Wellington & a Prussian prince were among the delegates to this 1814-15 congress in this capital|Vienna

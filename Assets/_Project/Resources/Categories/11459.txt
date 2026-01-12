@@ -1,0 +1,6 @@
+LOOK WHO'S TOLKIEN
+200|\"What has it got in its pocketses? Tell us that\"|the Gollum
+400|\"I'm a Took, Peregrin Took, but I'm generally called...\"|Pippin
+600|\"A nice pickle we have landed ourselves in, Mr. Frodo!\"|Sam
+800|\"Don't shudder! If you will meddle in the affairs of wizards, you must be prepared to think of such things\"|Gandalf
+1000|\"I would have the ring-bearer bring the crown to me, and let Mithrandir set it upon my head\"|Aragorn

@@ -1,0 +1,6 @@
+YES, AND?
+200|It's Latin for "and the rest"; we often use it as a single word|etcetera
+400|3-syllable "and"s include "furthermore" & this word with the "more" at the start|moreover
+600|A way to say "and" is "in" this, an operation so simple that kids learn to do it|addition
+800|In French this word signifies "and more"; it's found before "ça change...\"|plus
+1000|Add an "S" to a word meaning "next to" to get this word that can mean "and" in starting a sentence|besides

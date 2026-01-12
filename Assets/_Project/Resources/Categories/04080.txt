@@ -1,0 +1,6 @@
+FROM BOOK TO SCREEN
+200|Based on a novel by Anna Quindlen, "One True Thing" stars this actress as a cancer-stricken mother|Meryl Streep
+400|This 1998 Robin Williams tearjerker is based on a 1978 novel by Richard Matheson|What Dreams May Come
+600|(Hi, I'm Jane Leeves.) I provided the voice of a ladybug in the movie "James and the Giant Peach", based on a book by this author|Roald Dahl
+800|In a 1998 adaptation of "Les Miserables", Geoffrey Rush's Javert pursues this man, played by Liam Neeson|Jean Valjean
+1000|1998's "Simon Birch" was a loose adaptation of this author's "A Prayer for Owen Meany\"|John Irving

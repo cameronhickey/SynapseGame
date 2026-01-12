@@ -1,0 +1,6 @@
+DON'T SAY UM
+200|At 3 letters, it has the shortest element name|tin
+400|Atomic number 10, this gas emits light if electricity is passed through it|neon
+600|The Latin for this element gave us the word plumbing|lead
+800|The EPA says this gas seeping into homes causes 21,000 lung cancer deaths a year|radon
+1000|It reflects 95% of the light that strikes it, making it the most lustrous (shiny) of the metals|silver

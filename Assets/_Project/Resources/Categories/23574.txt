@@ -1,0 +1,6 @@
+POST DOCTORAL
+200|A make of car, or an attempt to evade|Dodge
+400|Policy-wise, a famous one was named for James Monroe|a doctrine
+600|To remove one's hat as a greeting|doff
+800|A position of utmost leadership in old-time Venice & Genoa|a doge
+1000|In the 1960s Jim Buck, half a dozen or more leashes in hand, started NYC's first of these businesses|dog walking

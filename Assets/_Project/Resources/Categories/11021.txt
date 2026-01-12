@@ -1,0 +1,6 @@
+LET IT SNOW, LET IT SNOW, LET IT SNOW
+200|Flat snow crystals generally have this many sides or arms|six
+400|The National Weather Service defines this as snowy winds of 35 mph with 1/4 mile visibility lasting for 3 hours|a blizzard
+600|Buffalo, New York is familiar with the snowstorm-causing effect named for this type of body of water|a lake effect
+800|When air becomes "super" this adjective, relative humidity is above 100% & snow can form|supersaturated
+1000|Poli'ahu, the goddess of snow, lives on this highest Hawaiian mountain|Mauna Kea

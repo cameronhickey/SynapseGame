@@ -1,0 +1,6 @@
+LAWN CARE
+200|Fungicide may be needed when the "powdery" type of this appears in late summer|Mildew
+400|Hunter Industries claims its PGP Rotor, this type of product, revolutionized the lawn irrigation industry|Sprinkler
+600|Henbit & Florida Pusley are among plants controlled by Ortho's product this type of plant "B-Gon\"|a weed
+800|For healthy plant growth, consider an NPK fertilizer, standing for nitrogen, phosphorus & this element|potassium
+1000|When planting a new lawn, it's a good idea to add compost & this 4-letter combination of sand, silt & clay|loam

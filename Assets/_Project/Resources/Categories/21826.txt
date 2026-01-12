@@ -1,0 +1,6 @@
+SINGULAR SPORTS TEAMS
+200|NBA: Utah|Jazz
+400|NBA: Oklahoma City|Thunder
+600|NHL: Minnesota|Wild
+800|MLS: Chicago|Fire
+1000|AAC football: This colorful Tulane squad|Green Wave

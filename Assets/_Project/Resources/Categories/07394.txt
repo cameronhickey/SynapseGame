@@ -1,0 +1,6 @@
+COMPUTER HISTORY
+200|This removable item used for data storage was introduced in 1971; the first one was 8 inches square|floppy disk
+400|This computer was introduced in 1984 & came with a MacWrite text program & a MacPaint program for graphics|Apple Macintosh
+600|This company whose name is synonymous with copying introduced the first hand-held mouse in 1973|Xerox
+800|Even before all the polls closed, CBS used this huge computer to predict the result of the 1952 presidential election|UNIVAC
+1000|In 1993 Intel introduced this new chip, which had 3.1 million transistors|Pentium

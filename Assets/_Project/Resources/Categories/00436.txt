@@ -1,0 +1,6 @@
+NATURAL DISASTERS
+200|Intense small cyclone that blew Dorothy to the Land of Oz|a tornado
+400|Volcanoes were named for this Roman god of fire|Vulcan
+600|The point of origin of an earthquake|the epicenter
+800|Phenomenon known as "the white death\"|an avalanche
+1000|The tallest, New Zealand's "Waimanga", killed 4 when it last erupted in 1917|a geyser

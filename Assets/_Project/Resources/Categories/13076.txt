@@ -1,0 +1,6 @@
+RESTAURANT LINGO
+200|French for "soup of the day\"|soup du jour
+400|This French word that means a main course on American menus can refer to an appetizer in France|entrée
+600|You can order items this way, "by the menu", the opposite of a combo meal|à la carte
+800|An appetizer, literally "apart from the main\"|hors d'œuvre
+1000|This term for a headwaiter means "master of" (short for its full name meaning "master of the house")|maître d\'

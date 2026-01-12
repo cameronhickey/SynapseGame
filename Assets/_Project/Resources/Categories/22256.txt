@@ -1,0 +1,6 @@
+TRAIN OF THOUGHT
+200|Taking over operation of intercity trains in 1971, it's also known as The National Railroad Passenger Corp.|Amtrak
+400|2.8 million cubic yards were excavated to build this New York City train station opened in 1913|Grand Central
+600|In 1977, after decades of dwindling ridership, this luxury train was discontinued, or was it... murdered?!|the Orient Express
+800|In 1904 this route was finished but ran through Manchuria; a new route through Russian territory alone was completed 12 years later|Trans-Siberian
+1000|Trouble ahead, trouble behind, this Cannonball Express engineer & folk hero sacrificed himself in a crash in 1900 to save many lives|Casey Jones

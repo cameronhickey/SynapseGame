@@ -1,0 +1,6 @@
+THIS IS MY COUNTRY
+200|President & Prime Minister Saddam Hussein|Iraq
+400|Prime Minister Benjamin Netanyahu|Israel
+600|President Costis Stefanopoulos|Greece
+800|President Emil Constantinescu|Romania
+1000|President Alberto Fujimori|Peru

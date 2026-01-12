@@ -1,0 +1,6 @@
+HEADGEAR
+200|This type of cap is part of a Brownie Girl Scout Uniform|a beanie
+400|Sikh & you shall find the name of this headcovering|Turban
+600|This hat shares its name with U.S. Forest Service personnel|Ranger hat
+800|They're the friendly religious group this hat is named for|Quakers (Society of Friends)
+1000|This fur hat's name may come from a strict headmaster at England's Westminster School|Busby

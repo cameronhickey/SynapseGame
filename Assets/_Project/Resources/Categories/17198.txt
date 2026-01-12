@@ -1,0 +1,6 @@
+TYPES OF RESTAURANTS
+200|This word can mean a small restaurant for soldiers or a small container for a soldier's water|canteen
+400|This type of ristorante gets its name from your favorite Italian pie|pizzeria
+600|Places classified as "fast casual" include this burrito-building chain named for a chili, with over 1,500 locations|Chipotle
+800|1982 film that gets its title from the type of restaurant where Steve Guttenberg, Mickey Rourke & pals hang out|Diner
+1000|This type of "bar" might serve the wellfleet & gigamoto types of its briny specialty|oyster bar

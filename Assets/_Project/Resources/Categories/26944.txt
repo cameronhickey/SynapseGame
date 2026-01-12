@@ -1,0 +1,6 @@
+PLAYING POST OFFICE
+200|Since the U.S. Postal Service became semi-independent in 1971, this is no longer a Cabinet position|the Postmaster General
+400|These were 1st issued in the U.S. in 1873 & sold for the price of the 1¢ stamp printed on them|postcards
+600|In 1911 the 1st sack of mail to be sent this way was delivered from one part of Long Island to another|air mail
+800|Lincoln's 1861 inaugural address went 1,966 miles in a record 7 days, 17 hours via this|the Pony Express
+1000|This service, providing mail to outlying areas, began in 1876 & now serves 20 million families|RFD (Rural Free Delivery)

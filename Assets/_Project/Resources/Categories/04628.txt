@@ -1,0 +1,6 @@
+CEREALS
+200|Scientifically Zea mays, this cereal grain originated in the Americas but is today cultivated worldwide|corn
+400|Rye is high in carbohydrates & this substance that is only partially digested|fiber
+600|The goodness of barley includes being the source of this partly fermented product used in the brewing of beer|malt (or wort)
+800|In their youth some sow these grains, such as Avena fatua|wild oats
+1000|In China, the red variety of this cereal grain is called kaoliang, and can grow up to 8 feet high|sorghum

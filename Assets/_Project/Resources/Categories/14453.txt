@@ -1,0 +1,6 @@
+REGION-ISMS
+200|An African proverb says, "it takes" one of these "to raise a child\"|a village
+400|Monopoly has cards called this "chest\"|community
+600|It's a city in Ohio or any of the states of the Swiss confederation|Canton (or canton)
+800|There's a Lake one in Cumbria, England: the federal one in Mexico is the seat of the national government|district
+1000|It can be a division of a hospital or a town; it's also a political subdivision of a parish in Louisiana|a ward

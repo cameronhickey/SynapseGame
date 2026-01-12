@@ -1,0 +1,6 @@
+MOUNTAIN STATES
+200|13,100-foot Truchas Peak in the Santa Fe Mountains|New Mexico
+400|Grand Teton, towering over Jackson Hole|Wyoming
+600|Mount Lassen, at the southern end of the Cascades|California
+800|Mount Elbert, highest of the American Rockies|Colorado
+1000|5,344-foot Mount Marcy, highest of the Adirondacks|New York

@@ -1,0 +1,6 @@
+\"EPI"SODES
+200|A fast-spreading outbreak of a disease|an epidemic
+400|A short section at the end of a book|an epilogue
+600|From the Greek for "seizure", it's a medical condition involving abnormal electrical brain activity|epilepsy
+800|A witty saying or expression|an epigram
+1000|The best example of something|the epitome

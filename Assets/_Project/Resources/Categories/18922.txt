@@ -1,0 +1,6 @@
+SPEAK "UP"!
+200|The dealer shows it to the rest of the table|the upcard
+400|A slope, or an improvement|an upgrade
+600|To transfer data from a smaller device to a larger one|upload
+800|More common in women? it's using a rising inflection even on non-questions?|upspeak (or uptalk)
+1000|With or without a prefatory "one", it's the art of gaining an advantage|upsmanship

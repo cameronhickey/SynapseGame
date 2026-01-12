@@ -1,0 +1,6 @@
+BIRTH, SCHOOL, WORK, DEATH
+200|1904, studied art in Madrid, got surreal, 1989|Salvador Dali
+400|1642, Trinity College, did some astronomy & math, 1727|Newton
+600|1961, Rutgers, dazzled us as Tony Soprano, 2013|James Gandolfini
+800|A hotel room in 1888, a year at Princeton, some "Electra"-fying playwriting, a hotel room in 1953|Eugene O'Neill
+1000|1756, home schooled by his father Leopold, musician/composer, 1791|Mozart

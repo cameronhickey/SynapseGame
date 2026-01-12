@@ -1,0 +1,6 @@
+FOREIGN TRAVEL
+200|This Bedouin transport also provides food, milk, clothing & fuel|Camel
+400|From March to May Arctic Odysseys leads expeditions on these vehicles in the Baffin area|Dogsleds
+600|It's the traditional color of London's double-decker buses|Red
+800|This capital's U-Bahn is a subway system with over 150 stations, including Friedrichstrasse & Alexanderplatz|Berlin
+1000|To get around Amsterdam you can rent one of these at the Centraal Station for about 7 guilders a day|Bicycles

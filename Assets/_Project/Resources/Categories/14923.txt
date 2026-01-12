@@ -1,0 +1,6 @@
+IN COUNTRY
+200|Tampico, Oaxaca, Mazatlan|Mexico
+400|Kakata, Buchanan, Monrovia|Liberia
+600|Zakinthos, Andros, Pappades|Greece
+800|Uranium City, Inuvik, Yellowknife|Canada
+1000|Sao Luis, Manaus, Rio Verde|Brazil

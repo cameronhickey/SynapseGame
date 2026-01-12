@@ -1,0 +1,6 @@
+TV TITLE ROLE PLAYING
+200|\"Hannah Montana\"|Miley Cyrus
+400|(Adrian) "Monk\"|Tony Shalhoub
+600|\"The Good Wife\"|Julianna Margulies
+800|\"Barney Miller\"|Hal Linden
+1000|\"Chuck" (Bartowski)|Zachary Levi

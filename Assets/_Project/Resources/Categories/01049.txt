@@ -1,0 +1,6 @@
+STARTS & ENDS WITH "K\"
+200|This Eskimo canoe is completely covered with skins except for an opening in the center|a kayak
+400|The name of this bag carried on the back comes from the Low German Knappen, meaning "to bite\"|a knapsack
+600|It's 1% of a ruble|a kopeck
+800|It's a small structure open on one or more sides, used as a newspaper stand or booth|a kiosk
+1000|A Scottish word for a church|kirk

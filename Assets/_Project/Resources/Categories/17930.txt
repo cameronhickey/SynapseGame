@@ -1,0 +1,6 @@
+SOMETHING'S WRONG WITH THIS GUY
+200|There's an automated external defibrillator on the wall; use it to get this organ back in rhythm|the heart
+400|Mouth to mouth may help, but he is having an "attack" of this 6-letter condition, meaning his airways have narrowed|asthma
+600|He was eating something he shouldn't have & has gone into the anaphylactic type of this reaction|shock
+800|So he can breathe, we're making a small hole in his windpipe, this process|a tracheotomy
+1000|Actually, don't worry about CPR; a note on him says DNR, "do not" do this|resuscitate

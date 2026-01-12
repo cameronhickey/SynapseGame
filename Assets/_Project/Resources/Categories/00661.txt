@@ -1,0 +1,6 @@
+SCIENTISTS
+200|In 1883 this telephone inventor founded the magazine Science|(Alexander Graham) Bell
+400|From 1592 to 1610, he served as professor of mathematics at the University of Padua|Galileo
+600|He discovered that harmful bacteria in wine could be destroyed by heating it to high temperatures|(Louis) Pasteur
+800|To map the world, this Flemish geographer devised the projection that's named for him|Mercator
+1000|In 1847 she became the first person to discover a comet by telescope|Maria Mitchell

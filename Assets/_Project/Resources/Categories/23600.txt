@@ -1,0 +1,6 @@
+STARTS WITH "W\"
+200|To wrench painfully, like your mom might threaten to do to your neck|wring
+400|The identity of the murderer typically isn't revealed until the end in this type of story|a whodunit
+600|The cicada killer is a large predatory variety of this insect|a wasp
+800|This insect is also known as a snout beetle|a weevil
+1000|The eve of May Day, on which witches were believed to rendezvous|Walpurgisnacht

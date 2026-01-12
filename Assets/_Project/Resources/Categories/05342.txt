@@ -1,0 +1,6 @@
+FROM PAGE TO SCREEN
+200|In the 1999 movie version of this Shakespeare play, Rupert Everett & Michelle Pfeiffer are the king & queen of fairies|A Midsummer Night's Dream
+400|John Irving adapted his own novel into this 1999 film in which orphan Tobey Maguire works in an apple orchard|The Cider House Rules
+600|She starred as Augusten Burroughs' unstable mom in "Running With Scissors\"|Annette Bening
+800|He took over the role of Jack Ryan in 2002's "The Sum of All Fears\"|Ben Affleck
+1000|2 flims with this title got Oscar nominations, one based on a Dreiser novel, the other on a Stephen King book|Carrie

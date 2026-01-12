@@ -1,0 +1,6 @@
+HEINZ SITE
+200|The Heinz website has multiple offerings for this French fry condiment, including jalapeno & sriracha styles|ketchup
+400|Of course, there are yellow, spicy brown & honey varieties of this to peruse|mustard
+600|Heinz notes that this product is made from 100% cage-free eggs, lemon juice, oil & vinegar|mayonnaise
+800|Heinz offers cocktail sauce with a shrimp on the label & this type of sauce with a bit of fried fish on the label|tartar sauce
+1000|Heinz offers a type of gravy made from "savory beef stock" with this 2-word French designation|au jus

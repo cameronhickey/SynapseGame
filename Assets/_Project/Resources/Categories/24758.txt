@@ -1,0 +1,6 @@
+QUICK PLANETS
+200|About half the size of Earth, it has a 24.6-hour day|Mars
+400|For 20 years in every 248, it's further from the Sun than Pluto|Neptune
+600|It was the first planet explored by a spacecraft, 1962's Mariner 2|Venus
+800|Leda is one of its more than 50 named moons|Jupiter
+1000|It's surrounded by phenomena named A, B, C, D, E, F & G|Saturn

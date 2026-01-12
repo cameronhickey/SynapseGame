@@ -1,0 +1,6 @@
+\"DEF" JAM
+200|The amount by which budget expenditures exceed income|a deficit
+400|An attack on someone's good name, character or reputation|defamation
+600|Chemicals used in warfare to strip trees & plants of their leaves|defoliants
+800|A machine that delivers a controlled electric shock to the heart|a defibrillator
+1000|Fidei Defensor in Latin, this title was first bestowed on British monarchs in 1521|Defender of the Faith

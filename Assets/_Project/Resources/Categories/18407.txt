@@ -1,0 +1,6 @@
+NATIONAL NARRATIVES
+200|\"And Quiet Flows The Don" & "The Gulag Archipelago\"|Russia
+400|\"The Man Who Planted Trees" & "The Man In The Iron Mask\"|France
+600|\"The Tale Of Genji" & "The Temple Of The Golden Pavilion\"|Japan
+800|\"The Settlers" & "Exodus\"|Israel
+1000|\"Snow Flower And The Secret Fan" & "The Sand Pebbles\"|China

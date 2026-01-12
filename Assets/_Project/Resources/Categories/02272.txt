@@ -1,0 +1,6 @@
+AQUATIC ANIMALS
+200|The loggerhead, this type of animal, comes ashore to lay its eggs|turtle
+400|The clown fish lives inside these sea anemone extremities & seems immune to their stings|tentacles
+600|Often called an eel because its legs are almost invisible, the Amphiuma is actually a species of this amphibian|a salamander
+800|Cirripedes, which cement themselves to rocks, ships, pilings & even sea turtles, are better known as these|a barnacle
+1000|Clownfish belong to genus Amphiprion consisting of fishes that live unharmed among the stinging tentacles of these invertebrates|(sea) anemones

@@ -1,0 +1,6 @@
+CHOCOLATE
+200|Chocolate Town, U.S.A.|Hershey, Pennsylvania
+400|In 1600s, brick dust was sometimes used to improve color of this chocolate powder|cocoa
+600|Emeril's recipe for chocolate-covered turtles doesn't actually call for turtles but for these nuts|pecans
+800|With a little luck or fate, you might find yourself at this New York City restaurant famous for its Frrrozen Hot Chocolate|Serendipity
+1000|White chocolate is actually not chocolate—it is milk & sugar mixed with this, the edible fat of the cocoa bean|cocoa butter

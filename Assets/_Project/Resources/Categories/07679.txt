@@ -1,0 +1,6 @@
+STATE SONGS?
+200|In 1985 Carl Wilson provided backing vocals when David Lee Roth covered this Beach Boys tune|\"California Girls\"
+400|Gladys Knight & the Pips hit No. 1 for the first time with this song in 1973|\"Midnight Train to Georgia\"
+600|Neil Young is mentioned in this song by Lynyrd Skynyrd|\"Sweet Home Alabama\"
+800|Neil Young wrote this song after 4 people were killed by National Guardsmen at Kent State University in 1970|\"Ohio\"
+1000|According to a George Strait song, it's "why I hang my hat in Tennessee\"|\"All My Ex's Live in Texas\"

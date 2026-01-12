@@ -1,0 +1,6 @@
+BIRD SOUNDS
+200|This soft, murmuring sound of a dove rhymes with a bovine sound|coo
+400|The cry of an owl; it's also an extremely funny person like moi|a hoot
+600|Despite its name, the mute swan, when angry, makes this noise, like a snake|a hiss
+800|It's the harsh, 3-letter call of a crow or raven|a caw
+1000|A shrill laugh, or the shrill cry of a hen, especially after she lays an egg|a cackle

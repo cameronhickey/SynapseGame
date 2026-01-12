@@ -1,0 +1,6 @@
+ANIMAL HOMES
+200|It's any place swarming with activity, not just a bee's home|a hive
+400|A form is a resting place for one of these animals & it may come in handy after it races a tortoise|a hare
+600|The name of this horse house is from the Latin for "standing place\"|a stable
+800|After soaring an eagle comes home to roost in this nest|an aerie
+1000|This term for the breeding ground of penguins is named for another bird|a rookery

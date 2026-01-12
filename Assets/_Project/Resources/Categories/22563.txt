@@ -1,0 +1,6 @@
+NAME THAT PART OF SPEECH
+200|Remember|a verb
+400|Thou|pronoun
+600|Splendiferous|an adjective
+800|Already|adverb
+1000|Although|conjunction

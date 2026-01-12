@@ -1,0 +1,6 @@
+PRO SPORTS HALL OF FAME CITIES
+200|Cooperstown, New York|baseball
+400|Springfield, Massachusetts|basketball
+600|Toronto, Ontario|hockey
+800|Canton, Ohio|football
+1000|St. Augustine, Florida|professional golf

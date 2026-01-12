@@ -1,0 +1,6 @@
+AIRCRAFT
+200|During WWI Anthony Fokker developed a gear to synchronize a machine gun with this|the propeller
+400|Man who created the following flying design|Leonardo da Vinci
+600|This joint product of British Aerospace & Aerospatiale has a cruise speed of Mach 2|the Concorde
+800|This manufacturer's 1938 307 Stratoliner was the first pressurized airliner|Boeing
+1000|This company manufactured the L-1011 Tristar passenger plane|Lockheed

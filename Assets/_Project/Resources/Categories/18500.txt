@@ -1,0 +1,6 @@
+WEIGHT, WEIGHT
+200|Tritium is the heaviest naturally occurring isotope in this element|hydrogen
+400|Guinness says the heaviest commercial one of these (including propellant) was Terrestar-1|a satellite
+600|One of the heaviest reptiles is the saltwater species of this creature; it can drown water buffalo|a crocodile
+800|Weight of the heaviest standard bowling ball|16 lbs.
+1000|This 80-ton plant-eating "arm lizard" was a heavyweight; even among dinosaurs|the Brachiosaurus

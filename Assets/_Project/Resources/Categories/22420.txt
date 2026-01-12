@@ -1,0 +1,6 @@
+WHAT"EV"ER
+200|In court, it's information including testimony & documents that helps prove or disprove a case|evidence
+400|According to its website, this water brand "starts as rain and snow in the peaks of the French Alps\"|Evian
+600|This type of plant is mentioned in a nickname for Washington State|evergreen
+800|Charles Darwin is often called the "Father of" this|Evolution
+1000|Longfellow's poem about this Acadian heroine begins, "This is the forest primeval\"|Evangeline

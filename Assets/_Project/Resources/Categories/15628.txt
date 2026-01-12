@@ -1,0 +1,6 @@
+SCIENCE "L"AB
+200|Milk production in mammals is called this|lactation
+400|The anopleura, or "sucking" these, are insects that feed only on blood|lice
+600|Whether spelled with an "er" or an "re", it refers to a mineral's ability to reflect light|luster/lustre
+800|This tincture of opium was wildly popular during the Victorian era|laudanum
+1000|2-word time frame for a craft to get spaceborne so it can achieve a desired orbit|launch window

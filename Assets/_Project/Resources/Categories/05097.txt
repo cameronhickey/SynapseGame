@@ -1,0 +1,6 @@
+SHAKESPEAREAN DYING WORDS
+200|\"O Antony! Nay, I will take thee too...what, should I stay—\"|Cleopatra
+400|\"Lay on Macduff, and damned be him that first cries, 'Hold, enough!'\"|Macbeth
+600|\"A horse! A horse! My kingdom for a horse!\"|Richard III
+800|\"Farewell, good strato. Caesar, now be still; I killed not thee with half so good a will\"|Brutus
+1000|\"Yea, noise? Then I'll be brief. O happy dagger, this is thy sheath. There rest, and let me die\"|Juliet

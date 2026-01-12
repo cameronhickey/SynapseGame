@@ -1,0 +1,6 @@
+SINGULARIZE IT!
+200|Minima|minimum
+400|Fungi|fungus
+600|Dice|die
+800|Genera|genus
+1000|Sphinges|sphinx

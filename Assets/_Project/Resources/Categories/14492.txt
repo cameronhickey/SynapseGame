@@ -1,0 +1,6 @@
+THE WEATHER
+200|Expressed as a percentage, it's all "relative" this, the water vapor in the air at any given time & temp|humidity
+400|It's the 5-letter term for the advancing edge of an air mass|a front
+600|In April 2017 the governor of this large state declared an end to the drought emergency... for now|California
+800|Gulf of Mexico moisture meets dry wind from the rockies to form twisters in this dangerous U.S. "Alley\"|Tornado Alley
+1000|It's the term for a warm layer above a cool one when going higher in the atmosphere; the reverse is what's normal|an inversion layer

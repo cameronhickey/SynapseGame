@@ -1,0 +1,6 @@
+HE'S MY VICE PRESIDENT!
+200|Spiro T. Agnew|Richard M. Nixon
+400|Harry Truman|Franklin D. Roosevelt
+600|Henry A. Wallace|Franklin D. Roosevelt
+800|John Nance Garner|Franklin D. Roosevelt
+1000|Alben W. Barkley|Harry Truman

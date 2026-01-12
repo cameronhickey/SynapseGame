@@ -1,0 +1,6 @@
+ARMY, NAVY, AIR FORCE, MARINES
+200|Elvis Presley|the Army
+400|Oliver North|the Marines
+600|John McCain|the Navy
+800|Lee Harvey Oswald|the Marines
+1000|Scott O'Grady|the Air Force

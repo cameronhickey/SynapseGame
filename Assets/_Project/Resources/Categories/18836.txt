@@ -1,0 +1,6 @@
+I'M GOIN' TO JACKSON
+200|The City of Jackson, Michigan was where this political party was formally organized on July 6, 1854|the Republican Party
+400|The City of Jackson is a state capital & home to the Medical Center at the University of this|Mississippi
+600|Jackson, Tennessee is the biggest city on the I-40 corridor between these two|Memphis & Nashville
+800|Jackson, Alabama is on the Tombigbee River, 50 miles north of this bay|Mobile Bay
+1000|The City of Jackson in this state was burned on Nov. 17, 1864; Gen. Sherman was said to have ridden along third street|Georgia

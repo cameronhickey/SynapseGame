@@ -1,0 +1,6 @@
+WORLD POLITICS
+200|Country officially called the German Democratic Republic|East Germany
+400|Headquarters city of European common market|Brussels
+600|It's the legislature of Japan|the Diet
+800|Soviet ally in East Africa that has formally turned Communist|Ethiopia
+1000|Name of "ANZUS" treaty is an acronym for these three signatory countries|the United States, Australia, and New Zealand

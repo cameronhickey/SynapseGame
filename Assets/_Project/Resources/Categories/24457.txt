@@ -1,0 +1,6 @@
+LETTERS OF THE LAW
+200|F: A serious crime, like murder or kidnapping|felony
+400|H: Evidence presented by a witness who came by it secondhand|hearsay
+600|L: The unlawful taking of personal property with the intent of keeping it|larceny
+800|M: The unlawful killing of another person without malice or premeditation|manslaughter
+1000|C: A supplementary document that modifies or amends a will|a codicil

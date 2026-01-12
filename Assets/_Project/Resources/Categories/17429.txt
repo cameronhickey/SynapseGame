@@ -1,0 +1,6 @@
+DYLAN SONGS IN OTHER WORDS
+200|\"Borne Along By Gusts\"|\"Blowin' In The Wind\"
+400|\"In The Manner Of A Moving Mineral Aggregate\"|\"Like A Rolling Stone\"
+600|\"Get Prone, Noblewoman, Get Prone\"|\"Lay Lady Lay\"
+800|\"Pounding At The Gates Of Paradise\"|\"Knockin' On Heaven's Door\"
+1000|\"Honorific Hand Percussion Guy\"|\"Mr. Tambourine Man\"

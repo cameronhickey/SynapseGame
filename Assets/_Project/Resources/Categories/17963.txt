@@ -1,0 +1,6 @@
+STATELY LITERATURE
+200|\"A ____ Yankee In King Arthur's Court\"|Connecticut
+400|\"The Hotel ____ ____\"|New Hampshire
+600|The play "Abe Lincoln in ____\"|Illinois
+800|\"____ville\"|Texasville
+1000|\"Winesburg, ____\"|Ohio

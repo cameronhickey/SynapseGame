@@ -1,0 +1,6 @@
+STATES BY CITY TRASH-TALKING
+200|\"Truth or Consequences isn't a choice! & Los Alamos may be the bomb, but it's Roswell that ends well!\"|New Mexico
+400|\"Sure, Ogden & Orem are nice, but I prefer Brigham City— gee, I've really got to work on my trash-talking\"|Utah
+600|\"I get no kick from Champaign! I'm not Havana a good time! I only play in Peoria!\"|Illinois
+800|\"I'm not Spokane for, & I ain't putting on the Ritzville! Everybody loves Raymond!\"|Washington
+1000|\"Stick Three Forks in it, it's done! & kiss our Butte, Bozeman!\"|Montana

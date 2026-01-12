@@ -1,0 +1,6 @@
+CAMBODIA, CAMEROON OR CANADA
+200|It's made up of 3 territories and 10 provinces|Canada
+400|The one ruled by a king|Cambodia
+600|The smallest in area|Cambodia
+800|Its national flag contains only 2 colors|Canada
+1000|Uses the franc as its currency|Cameroon

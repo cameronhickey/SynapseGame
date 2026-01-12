@@ -1,0 +1,6 @@
+COLLEGE MATH
+200|If it takes 120 credits to graduate & you've got 96, number of 3-credit courses you'll need for that sheepskin|8 (24 ÷ 3)
+400|Number of "Sisters" you'd have if Mount Holyoke left the group|6
+600|Number in the name of UCLA's sports conference minus the number in the name of Nebraska's|2 (Pac 12 - Big 10)
+800|Number of points you racked up if you got "extremely well qualified" on one AP test & "well qualified" on another|9 (5 + 4)
+1000|As of 2015, a perfect ACT score + a perfect SAT score|2,436

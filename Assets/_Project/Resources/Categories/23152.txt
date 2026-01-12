@@ -1,0 +1,6 @@
+ANIMAL EXPRESSION FILL-IN
+200|\"The best laid schemes of ____ & men\"|mice
+400|\"A ____ in a poke\"|pig
+600|\"A sacred ____\"|cow
+800|\"As fine as ____'s hair\"|frog
+1000|\"One ____ does not make a summer\"|swallow

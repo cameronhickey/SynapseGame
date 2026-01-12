@@ -1,0 +1,6 @@
+JACKSON
+200|Andrew Jackson appears on the bill of this denomination|$20
+400|Titles in the book series featuring this protagonist include "The Titan's Curse" & "The Battle of the Labyrinth\"|Percy Jackson
+600|Economists get a taste of the outdoors at the Central Banking annual conferences in Jackson Hole in this state|Wyoming
+800|Randy Rhoads helped create the Jackson brand of these, now owned by Fender|a guitar
+1000|New Orleans-born Mahalia Jackson, "The Queen of" this music style, sang at JFK's inauguration|gospel

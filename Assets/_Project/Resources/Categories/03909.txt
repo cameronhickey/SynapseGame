@@ -1,0 +1,6 @@
+10-LETTER COUNTRIES
+200|This nation was created in 1971 out of the former Pakistani province of East Pakistan|Bangladesh
+400|This African nation is the largest island in the Indian Ocean|Madagascar
+600|In April 1992 this reconfigured republic was declared by Serbia & Montenegro|Yugoslavia
+800|This grand duchy is actually smaller than the same-named Belgian province it borders|Luxembourg
+1000|From the early 1500s to 1975 this country on Africa's southeast coast was at least partly occupied by Portugal|Mozambique

@@ -1,0 +1,6 @@
+EAT IT, SPEND IT, OR WEAR IT
+200|Dashiki|wear it
+400|Kashi|eat it
+600|Jerkin|wear it
+800|Birr|spend it
+1000|Schnecken|eat it

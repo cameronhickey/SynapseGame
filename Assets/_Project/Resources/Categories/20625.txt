@@ -1,0 +1,6 @@
+WORLD CAPITALS ALPHABETICALLY
+200|This city Down Under is the filling between Cairo & Capetown|Canberra
+400|What comes between Dushanbe & Freetown? This U.K. city|Edinburgh
+600|Right before Bern on the list is this city, just 600 miles away|Berlin
+800|This South American capital is alphabetically between Astana & Athens|Asunción
+1000|Rounding out the list are Yerevan & this city on the lower slopes of Medvednica Hill|Zagreb

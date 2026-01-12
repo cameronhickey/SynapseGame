@@ -1,0 +1,6 @@
+LET'S GO TO THE AUTO SHOP
+200|If your car's engine uses this type of fuel, don't look for the spark plugs; it uses glow plugs|diesel
+400|This numeric term refers to a system that can provide simultaneous power to a car's front & back tires|four-wheel drive
+600|The springs, dampers & other shock-absorbing parts in your car make up this system|the suspension system
+800|These 2 "D"s are the basic types of automotive brakes|disc brakes & drum brakes
+1000|Fuel injection has largely replaced this device that prepares fuel for combustion in an engine|the carburetor

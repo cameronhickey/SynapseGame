@@ -1,0 +1,6 @@
+PORT LAND
+200|Haiphong|Vietnam
+400|Piraeus|Greece
+600|Incheon, also home to this country's busiest airport|South Korea
+800|Port Said East|Egypt
+1000|Colón, founded in 1850|Panama

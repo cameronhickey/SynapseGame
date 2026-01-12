@@ -1,0 +1,6 @@
+\"THE\"
+200|In our solar system, it's the only planet whose name can be preceded by "The\"|The Earth
+400|The only New York City borough to have "The" in its name|The Bronx
+600|More popular name of the 1968 Beatles album "The Beatles\"|the White Album
+800|Matt Johnson's British band, its name's a dual definite article|The The
+1000|European country & its seat of gov't, both of which begin with "The", in their language "Der" & "Den\"|The Netherlands & The Hague

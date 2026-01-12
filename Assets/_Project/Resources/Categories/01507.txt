@@ -1,0 +1,6 @@
+PREFIXES
+200|Oto- pertains to the ear, sono- pertains to sound & this pertains to hearing & sound|audio-
+400|Meaning ancient and often involving fossils, it precedes -lithic, -zoic & zoology|paleo-
+600|Before -biography or -graph, it means self|auto-
+800|Di- as in dicephalous|two
+1000|This prefix turns 1 byte of data into about a billion|giga-

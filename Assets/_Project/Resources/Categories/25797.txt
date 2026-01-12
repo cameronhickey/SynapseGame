@@ -1,0 +1,6 @@
+RATED "PG\"
+200|An improvement in a hotel room or airline seat|upgrade
+400|A good place to pitch a tent|a campground
+600|This cork-firing child's toy makes a particular sound|a pop gun
+800|Many a Victorian tale featured one of these young women employed in a retail store|a shop girl
+1000|Ahoy, mateys! Scurry aloft & haul in these sails high, high up on the masts|the topgallants

@@ -1,0 +1,6 @@
+IBSEN
+200|Though he wrote for the legitimate theatre, Ibsen had at least one of these illegitimately|children
+400|Ibsen wrote all of his plays in this century|the 19th century
+600|This haunting play aroused a storm of protest because it dealt with venereal disease|Ghosts
+800|Son of a British consul, he wrote the music for a production of Ibsen's "Peer Gynt"|Edward Grieg
+1000|To avoid the amorous clutches of Judge Braque, this title heroine shoots herself|Hedda Gabler

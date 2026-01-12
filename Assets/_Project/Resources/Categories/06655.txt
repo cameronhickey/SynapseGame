@@ -1,0 +1,6 @@
+MOVIE TITLE ROLES
+200|\"Barbarella\"|Jane Fonda
+400|\"Coal Miner's Daughter" (1980)|Sissy Spacek
+600|Kirsten Dunst played this title iconic & ill-fated queen from her marriage at 14 through her capture & imprisonment by revolutionaries|Marie Antoinette
+800|\"The French Lieutenant's Woman" (1981)|Meryl Streep
+1000|A renowned New York playwright travels to California to write for the movies in this Coen brothers dark comedy|Barton Fink

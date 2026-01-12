@@ -1,0 +1,6 @@
+REBELLIONS: SHAYS' & WHISKEY
+200|Both Shays' Rebellion & the Whiskey Rebellion were protests against these|taxes
+400|Shays' Rebellion in this state in 1786-87 included an attack on the Springfield armory|Massachusetts
+600|This Treasury Sec. helped form, & then tagged along with, the army sent to suppress the Whiskey Rebellion|Hamilton
+800|Though put down swiftly, Shays' Rebellion exposed the military weakness of this 1781 document|the Articles of Confederation
+1000|Thousands of Whiskey Rebels marched to "The Point" in this Penn. city, but were persuaded not to burn the town|Pittsburgh

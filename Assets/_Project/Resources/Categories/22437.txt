@@ -1,0 +1,6 @@
+PLURALIZE IT
+200|Datum (4 letters)|data
+400|Sister-in-law (the preferred way)|sisters-in-law
+600|Radius (5 letters)|radii
+800|Cherub (8 letters)|cherubim
+1000|Codex (7 letters—as per the Encyclopedia Britannica entry)|codices

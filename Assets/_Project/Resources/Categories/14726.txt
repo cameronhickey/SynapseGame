@@ -1,0 +1,6 @@
+OF ORDER
+200|Islands, from smallest in area to largest: Greenland, Cuba, Madagascar|Cuba, Madagascar, Greenland
+400|Animals, from slowest to fastest: cheetah, donkey, peregrine falcon|donkey, cheetah, peregrine falcon
+600|U.S. cities, from west to east: Newport News, Milwaukee, New Orleans|New Orleans, Milwaukee, Newport News
+800|Writers, from earliest to latest: C.S. Lewis, Sir Walter Scott, Christopher Marlowe|Christopher Marlowe, Sir Walter Scott, C.S. Lewis
+1000|National leaders from north to south: Hugo Chavez, Julia Gillard, Barack Obama|Barack Obama, Hugo Chavez, Julia Gillard

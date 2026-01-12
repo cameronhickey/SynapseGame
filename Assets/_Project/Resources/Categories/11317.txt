@@ -1,0 +1,6 @@
+MSSNG VWLS
+200|One of the planets: "RNS\"|Uranus
+400|A U.S. state: "TH\"|Utah
+600|It's a gas! (& an element): "NN\"|neon
+800|A Native American people: "PCH\"|Apache
+1000|A country in Africa: "THP\"|Ethiopia

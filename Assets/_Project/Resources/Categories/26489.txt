@@ -1,0 +1,6 @@
+FROM OTHER LANGUAGES
+200|From Italian for "little house", we use the word to mean a gambling establishment|a casino
+400|From the French for "spinning top", it's a full turn of the body as in ballet|a pirouette
+600|Afrikaans not meaning "going without underwear" gives us this word for a squad that carries out raids|commando
+800|Need a place to stay out on the Great Plains? Check out one of these, from the Siouan for "dwelling\"|a tipi
+1000|Partly from Russian, it's a person like a witch doctor believed to have access to the spirit world|a shaman

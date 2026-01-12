@@ -1,0 +1,6 @@
+A STATE OF COLLEGE-NESS
+200|Baylor, Stephen F. Austin, Rice|Texas
+400|Antioch, Bowling Green, Kent State|Ohio
+600|DePaul, Wheaton, Northwestern|Illinois
+800|Wayne State, Kalamazoo College, Madonna University (it's Franciscan Catholic, not Material Girl)|Michigan
+1000|Grambling, McNeese State, Southern|Louisiana

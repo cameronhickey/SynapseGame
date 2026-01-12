@@ -1,0 +1,6 @@
+ROMANCE LANGUAGES
+200|The romance languages all developed directly from this ancient tongue|Latin
+400|A sign in a store window in Spain may say "Ici On Parle Francais" meaning this|Here we speak French
+600|It's the official language of South America's largest country|Portuguese (Brazil)
+800|Romance languages are rich in diphthongs, combinations of these sounds, as in "sounds\"|Vowel sounds
+1000|Works like "Sad Turtledove" made Ienachita Vacarescu a major poet in this eastern European language|Romanian

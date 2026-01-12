@@ -1,0 +1,6 @@
+COLLEGE LAW
+200|It's the P in FERPA, a 1974 law that says your parents need your consent to get your grades from your college|privacy
+400|More than 40 states have laws against this fraternity initiation practice|hazing
+600|Georgia State says it follows state law in banning hard liquor at these pre-game parking lot parties|tailgate parties
+800|A 1940 statement on this status says it gives professors "freedom & economic security", but it doesn't mean they can never be fired|tenure
+1000|The plaintiffs in Students for Fair Admissions v. Harvard say the school violates this amendment's Equal Protection Clause|the 14th Amendment

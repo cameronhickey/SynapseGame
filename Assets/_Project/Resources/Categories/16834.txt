@@ -1,0 +1,6 @@
+VERTICAL LANDMARKS
+200|This 605-foot Seattle landmark opened on the first day of the 1962 World's Fair|the Space Needle
+400|In 2001 it reopened after its foundation was stabilized & straightened about 15 inches to prevent collapse|the Leaning Tower of Pisa
+600|In 2009 this city's 60-story John Hancock Tower sold for $660 million in a foreclosure auction|Boston
+800|His London "column", including his statue by E.H. Baily, was completed in 1843|Nelson
+1000|The 2 towers of this bridge completed in 1937 are 746 feet high & 4,200 feet apart: that's about 4/5 of a mile|the Golden Gate Bridge

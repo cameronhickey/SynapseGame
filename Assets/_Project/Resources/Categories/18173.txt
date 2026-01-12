@@ -1,0 +1,6 @@
+DOUBLE "D" WORDS
+200|A football get-together|huddle
+400|As a verb it means to cook on a flat metal surface; as a noun, it is the flat metal surface|griddle
+600|This type of circular ocean current moves in a direction contrary to the main current|an eddy
+800|Also called an offshore hake, this cod relative is often used in British fish & chips|haddock
+1000|Rennet & ferrous lactate are on the FDA's list of these substances|food additives

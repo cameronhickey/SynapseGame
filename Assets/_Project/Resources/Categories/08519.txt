@@ -1,0 +1,6 @@
+THE HIGHEST-SCORING SCRABBLE WORD
+200|Zoom, quiz or heaven|quiz
+400|Mix, fix or nix|fix
+600|Jaguar, waves or kilts|jaguar
+800|Butter, milk or cheese|cheese
+1000|Poof, quest or wax|quest

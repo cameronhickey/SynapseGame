@@ -1,0 +1,6 @@
+HEADS OF STATE
+200|King Fahd ibn Abd al-Aziz as-Saud|Saudi Arabia
+400|President Oscar Luigi Scalfaro|Italy
+600|President Fidel V. Ramos|the Philippines
+800|President Ion Iliescu|Romania
+1000|Emir Shaikh Jabir al-Ahmad as-Sabah|Kuwait

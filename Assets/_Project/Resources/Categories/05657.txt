@@ -1,0 +1,6 @@
+SHAKESPEARE'S OPENING LINES
+200|Chorus: "Two households both alike in dignity, in fair Verona, where we lay our scene\"|Romeo & Juliet
+400|The Duke of Gloucester: "Now is the winter of our discontent\"|Richard III
+600|Theseus: "Now, fair Hippolyta, our nuptial hour draws on apace\"|A Midsummer Night's Dream
+800|Flavius: "Hence! Home, you idle creatures, get you home\"|Julius Caesar
+1000|The Earl of Kent: "I thought the king had more affected the Duke of Albany than Cornwall\"|King Lear

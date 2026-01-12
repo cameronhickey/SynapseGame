@@ -1,0 +1,6 @@
+NAME THE TV SHOW
+200|(ticking stopwatch)|60 Minutes
+400|\"Na Nu, Na Nu\"|Mork And Mindy
+600|\"Ugly Naked Guy's laying kitchen tile, eww!\"|Friends
+800|\"No soup for you!\"|Seinfeld
+1000|\"I'm coming, Elizabeth, I'm coming!\"|Sanford And Son

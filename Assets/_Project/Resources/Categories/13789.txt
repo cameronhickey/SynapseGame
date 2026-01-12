@@ -1,0 +1,6 @@
+WHERE'S RALPH WALDO?
+200|As we all should, Ralph Waldo Emerson remembers this U.S. landmark|the Alamo
+400|Emerson feels transcendent when he learns parts of this landmark are 35 feet high|the Great Wall of China
+600|Ralph reminisces at the state reservation at this landmark, where a pal of his lived from 1845 to 1847|Walden Pond
+800|Emerson is in this city during the festival of San Fermin—man, you better get moving, Ralph|Pamplona
+1000|Emerson is mystically in four states at once at this 2-word location|Four Corners

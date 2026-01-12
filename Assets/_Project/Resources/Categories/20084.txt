@@ -1,0 +1,6 @@
+HALL OF FAMERS BY SPORT
+200|Jerome Bettis|football
+400|Hank Greenberg|baseball
+600|Chris Mullin|basketball
+800|Jennifer Capriati|tennis
+1000|Dick Weber|bowlers

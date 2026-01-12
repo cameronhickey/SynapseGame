@@ -1,0 +1,6 @@
+THE METER IS RUNNING
+200|To measure temperature, you can put one of these under your arm or under your tongue|a thermometer
+400|A spirometer isn't a drawing toy; it measures the capacity of these body organs that expand & contract|the lungs
+600|It's the line that divides a circle into 2 equal parts|the diameter
+800|Musicians know a rhythmometer is another name for this device|a metronome
+1000|From the Latin for "foot measure", it's a device that measures how far you've walked|a pedometer

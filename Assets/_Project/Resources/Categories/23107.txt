@@ -1,0 +1,6 @@
+FROM TV SHOW TO FILM
+200|Not Jim Phelps but Ethan Hunt is the team leader played by this actor in the big screen versions of "Mission Impossible\"|Tom Cruise
+400|On both TV & film Eliot Ness & "The Untouchables" battled ruthless mobsters in this city|Chicago
+600|In the movie "The A-Team", Quinton "Rampage" Jackson took on the role played by this actor on TV|Mr. T
+800|When this TV show magically came to the big screen, Nicole Kidman played Samantha Stephens|Bewitched
+1000|Will Smith took over Robert Conrad's role in this 1999 adaptation of a 1960s series|the Wild Wild West

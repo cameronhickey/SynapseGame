@@ -1,0 +1,6 @@
+SPORTS VENUES
+200|A stadium with the world's largest roof was built in 1972 for the Olympic games in this city|Munich
+400|(Hi, I'm Wesley Walls of the Carolina Panthers) I played in this building for the 49ers in the Super Bowl; later, I played there for the Saints|Louisiana Superdome
+600|For first-class Thai kick-boxing action, head for Rajadamnoen Stadium in this city|Bangkok
+800|This Big 12 school plays its home basketball games at the Bob Devaney Sports Center|the University of Nebraska
+1000|Remember this arena — the 1999 NBA champions play there|Alamodome (San Antonio Spurs)

@@ -1,0 +1,6 @@
+OCEANS & SEAS
+200|You cross this sea sailing from Tripoli to Napoli|the Mediterranean
+400|The Bay of Bengal lies on the east side of India; this sea lies on the west side|the Arabian Sea
+600|The Huang Ho empties into the Huang Hai; ho is river, hai is sea & huang is this color|yellow
+800|Among the rivers that feed this ocean are the Zambezi & the Shatt Al-Arab|Indian Ocean
+1000|Sea in which you'd see the Great Barrier Reef|Coral Sea

@@ -1,0 +1,6 @@
+\"SPACE" MOVIES
+200|This TV show made it to the big screen in 1998 with William Hurt as John Robinson|Lost in Space
+400|Characters in this 1987 movie parody include Lord Dark Helmet & Pizza the Hutt|Spaceballs
+600|Charles Barkley, Patrick Ewing & Larry Bird are also in this 1996 sports film|Space Jam (with Michael Jordan)
+800|Bela Lugosi makes a short appearance in this Ed Wood film, hailed as the worst ever made|Plan 9 from Outer Space
+1000|A small town is invaded by blood-drinking aliens that look like clowns in this 1988 cult movie|Killer Klowns from Outer Space

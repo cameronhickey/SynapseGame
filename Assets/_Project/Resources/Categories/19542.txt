@@ -1,0 +1,6 @@
+FRUIT STAND
+200|Golden pippin & Ambrosia are types of this|an apple
+400|Texas developed the Ruby type of this citrus fruit|a grapefruit
+600|Get anatomical with a cluster navel or Moro blood one|an orange
+800|There's a giant type of this lime named for islands|the key lime
+1000|The halawy is a sweet type of this palm fruit|a date

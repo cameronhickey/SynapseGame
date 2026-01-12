@@ -1,0 +1,6 @@
+SECTIONS
+200|The cheapest seats in a stadium are usually in this uncovered section beyond the outfield|the bleachers
+400|Section of an orchestra in which the tuba player sits|the brass section
+600|The ordinary conic sections are the hyperbola, the parabola, the ellipse & this|Circle
+800|The banana section rooted for its own celebrity couple on this Bert Convy show|Tattletales
+1000|Gandy dancer is a slang term for a gang laborer who maintains sections of this|Railroad track

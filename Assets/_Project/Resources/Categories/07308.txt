@@ -1,0 +1,6 @@
+ARACHNIDS
+200|Insects have compound ones; arachnids have simple ones|eyes
+400|This arachnid with a "paternal" name emits a bad odor when disturbed|daddy long-legs
+600|As a group, spiders have 7 different types of glands to produce this fiber|silk
+800|This stinging arachnid has 6 pairs of jointed appendages: 1 pair of pincers, 1 pair of large claws & 4 pairs of legs|scorpion
+1000|This parasite is a major transmitter of rabbit fever & some forms of encephalitis|tick

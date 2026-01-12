@@ -1,0 +1,6 @@
+HAZARDS
+200|Now considered an environmental hazard, this refrigerant gas was discovered in the 1930s by Dr. Thomas Midgley|freon
+400|This state's many hazardous waste sites include Chemsol in Piscataway & Crompton in Perth Amboy|New Jersey
+600|Cancel the picnic—the international symbol for this is up ahead|biohazard
+800|The scuba diving hazard known as the bends results from this gas being released into the blood during a too rapid ascent|nitrogen
+1000|Hazard was the middle name of this Battle of Lake Erie hero; yellow fever was his fatal hazard 6 years later|Oliver Hazard Perry

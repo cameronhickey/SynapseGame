@@ -1,0 +1,6 @@
+\"NAP" TIME
+200|After a meal, don't fold this again; a waiter might mistake it for clean|Napkin
+400|This California valley is known for its table wines|Napa Valley
+600|To snooze, like a Siamese|Catnap
+800|Naptown is a nickname of this Indiana city|Indianapolis
+1000|This 1886 novel recounts the abduction of David Balfour|\"Kidnapped\"

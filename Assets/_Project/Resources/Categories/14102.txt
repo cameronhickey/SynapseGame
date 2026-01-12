@@ -1,0 +1,6 @@
+NAME THAT SPORTS CONFERENCE
+200|Michigan, Ohio State|the Big Ten
+400|Oregon, Oregon State|the Pac-10
+600|Baylor, Oklahoma|the Big 12
+800|Alabama, Georgia|the SEC
+1000|Boise State, Fresno State|the Western Athletic Conference

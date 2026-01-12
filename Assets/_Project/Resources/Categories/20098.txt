@@ -1,0 +1,6 @@
+TITLE ANIMALS
+200|Title type of animal in a 2005 "Chronicles of Narnia" movie|a lion
+400|2008 animated film about a portly black & white hero who becomes the Dragon Warrior|Kung Fu Panda
+600|(Hi, I'm Neil Flynn.) On "The Middle", my character Mike Heck loves this Quentin Tarantino movie about Mr. White, Mr. Orange, Mr. Pink & a diamond heist gone bad|Reservoir Dogs
+800|With 5 Oscars including Christopher Walken's, this 1978 Michael Cimino film shot to the top|Deer Hunter
+1000|As Rufus T. Firefly in 1933, Groucho doled out this avian potage|duck soup

@@ -1,0 +1,6 @@
+\"TRAC" MEET
+200|A farming vehicle with large, heavily-treaded tires|Tractor
+400|It's a commercially released album of music used in a film|Soundtrack
+600|Oops! It's a newspaper's printed correction|Retraction
+800|It can mean a passage from a book or a concentrated food flavoring like vanilla|Extract
+1000|It can be a type of non-representational art or a printed summary of a longer text|Abstract

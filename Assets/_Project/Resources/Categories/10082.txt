@@ -1,0 +1,6 @@
+PITHY QUOTES
+200|Scrooge's 2-word response to "A merry Christmas, Uncle!\"|\"Bah! Humbug!\"
+400|Scrooge's 2-word response to "A merry Christmas, Uncle!\"|\"Bah, Humbug\"
+600|It's said William Booth sent his troops in this charitable "Army" a 1-word telegram: "Others\"|the Salvation Army
+800|After recanting is belief that the Earth orbits the sun, he's said to have muttered, "But it does move\"|Galileo
+1000|The King James Bible's shortest verse, "Jesus wept", refers to the death of this man|Lazarus

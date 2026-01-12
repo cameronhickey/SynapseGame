@@ -1,0 +1,6 @@
+DANCE
+200|Slang for shoeless teen dance held in the gym|a sock hop
+400|Title dance done to this catchy tune: [Instrumental music plays]|a Charleston
+600|These married ballroom dancers popularized the tango in the United States|the (Irene & Vernon) Castles
+800|In the 18th century, this whirling ballroom dance evolved from the Deutscher Tanz & the Landler|the waltz
+1000|John Cranko's ballet "Brandenburg Nos. 2 and 4" is danced to this composer's music|(Johann Sebastian) Bach

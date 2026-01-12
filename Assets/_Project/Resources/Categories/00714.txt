@@ -1,0 +1,6 @@
+ORGANIZATIONS
+200|In 1910 this organization began instruction in first aid & in 1937 it created a blood-donor service|Red Cross
+400|In 1992 this organization registered over 1.4 million pedigreed dogs|American Kennel Club
+600|The nat'l assoc. for this board game organizes tournaments & reviews the Official Players Dictionary|Scrabble
+800|In 1917 various factions of this religious group joined together to form the American Friends Service Committee|Quakers
+1000|When the American Philosophical Soc. was formed in 1769, this man served as its 1st president|Ben Franklin

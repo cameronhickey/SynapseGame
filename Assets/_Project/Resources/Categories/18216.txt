@@ -1,0 +1,6 @@
+SHAKESPEAREAN WHO SAID IT?
+200|\"I, the son of a dear father murdered, prompted to my revenge by Heaven and Hell\"|Hamlet
+400|\"Shall we their fond pageant see? Lord, what fools these mortals be!\"|Puck
+600|\"The Thane of Fife had a wife; where is she now? What, will these hands ne'er be clean?\"|Lady MacBeth
+800|\"Sure, I shall never marry like my sisters, to love my father all\"|Cordelia
+1000|\"Here in this island we arrived, and have I, thy schoolmaster, made thee more profit than any princesses can\"|Prospero

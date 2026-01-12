@@ -1,0 +1,6 @@
+YOU GET THE POWER...
+200|...with this energy source that can be lignite, bituminous or anthracite|coal
+400|...with this energy source using roof shingles with PV cells made of amorphous silicon|the sun (or solar energy)
+600|...with this energy source using darrieus or savonius turbine types|wind
+800|...with this energy source, a colorless hydrocarbon consisting primarily of methane & ethane|natural gas
+1000|...with this kind of energy from the light-water, high-temperature gas-cooled, liquid metal or candu types|nuclear energy

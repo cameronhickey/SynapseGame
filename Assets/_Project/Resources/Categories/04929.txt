@@ -1,0 +1,6 @@
+SPEAK IN HAWAIIAN
+200|You say goodbye & I say hello, but we can both use this word|Aloha
+400|Perhaps Yoko could tell you this word means delicious|Ono
+600|This term for a priest or teacher often follows "Big\"|Kahuna
+800|Fast on the buzzer now: it means "hurry hurry\"|Wiki wiki
+1000|\"Oh we're going to" join the villagers in this form of net-fishing where "all the ama-ama come a-swimming to me\"|Hukilau

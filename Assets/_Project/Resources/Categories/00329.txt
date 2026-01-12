@@ -1,0 +1,6 @@
+MAGAZINES
+200|Staid New York newspaper that first launched "Us" magazine|New York Times
+400|Wm. Gaines can spoof WB films without fear of lawsuit in this Warner-owned magazine|MAD magazine
+600|A man named Malcolm was its editor-in-chief from 1954-1990|Forbes
+800|This Cosmopolitan editor-in-chief calls her monthly column "Step Into My Parlor\"|Helen Gurley Brown
+1000|This host of TV's "Wild Kingdom" is on the editorial advisory board of ZooLife|Jim Fowler

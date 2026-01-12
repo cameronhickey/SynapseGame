@@ -1,0 +1,6 @@
+NBA TEAMS
+200|It's the only team with an out-of-the-U.S. address|the Toronto Raptors
+400|It's the southernmost team in the NBA|the Miami Heat
+600|Once a head coach at Louisiana Tech, Teresa Weatherspoon became an assistant coach for this New Orleans team in 2020|the Pelicans
+800|In the 1990s they were the NBA champs 6 times, twice winning back-to-back-to-back|the Chicago Bulls
+1000|This alliterative team is last alphabetically|the Washington Wizards

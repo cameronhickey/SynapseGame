@@ -1,0 +1,6 @@
+HOTELS
+200|(Hi, I'm Brad Garrett of "Everybody Loves Raymond") I opened for Frank Sinatra at this Vegas hotel, now closed, where the Rat Pack held a "summit" in 1960|Sands
+400|FDR wrote, "The only thing we have to fear is fear itself" while staying at this city's Mayflower Hotel|Washington, DC (before moving into the White House)
+600|California's famous Ahwahnee Hotel is in the heart of this national park|Yosemite
+800|This payment plan includes both lodging and meals|American plan
+1000|In 1954 Conrad Hilton wrote checks for $97 million to purchase this entire hotel chain|Statlers

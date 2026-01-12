@@ -1,0 +1,6 @@
+HIGH COUP
+200|This man took the title first consul after a coup d'etat in Paris in 1799|Napoleon
+400|The last president of the Soviet Union, he was nearly overthrown in a 1991 coup attempted by his Communist rivals|Mikhail Gorbachev
+600|A coup led by Colonel George Papadopoulos overthrew this country's government in 1967|Greece
+800|Count Grigory Orlov led the palace coup that placed this "Great" empress on the Russian throne in 1762|Catherine the Great
+1000|The 1st commoner to rule England, he became lord protector following the overthrow of King Charles I|Oliver Cromwell

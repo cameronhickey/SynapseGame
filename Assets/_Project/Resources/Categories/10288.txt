@@ -1,0 +1,6 @@
+WALK INTO A "BAR\"
+200|A villainous type of mustache, a la Snidely Whiplash|a handlebar
+400|It's been said life is this, old chum, a restaurant with music & often a floor show|a cabaret
+600|An 11-letter acid derivative used in medicine as a sedative|a barbiturate
+800|A line drawn on a weather map that connects points at which the barometric pressure is the same|an isobar
+1000|It's a verb meaning to get off a plane or ship|debark (or disembark)

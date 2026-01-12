@@ -1,0 +1,6 @@
+\"I\"
+200|Blow up a balloon or a beach ball|inflate
+400|In geometry, it's the term for a triangle with 2 equal sides|isosceles
+600|These lizards are the largest in the Americas|iguanas
+800|It's the scientific study of fish|ichthyology
+1000|Once the capital of the Picts, today it's the capital of the Scottish Highlands|Inverness

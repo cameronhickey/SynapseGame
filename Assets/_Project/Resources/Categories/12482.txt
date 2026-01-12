@@ -1,0 +1,6 @@
+ROBBERS
+200|A noble who stole from those passing through his lands, or a U.S. capitalist who became rich unethically|a robber baron
+400|Skip to this baseball player who, from 1966 to 1974, led the NL in stolen bases in every season but one|Lou Brock
+600|A relative of the hermit, the coconut type of this crustacean is also called a robber|a crab
+800|In the novel "Les Miserables", Jean Valjean spends 19 years in prison after stealing this|a loaf of bread
+1000|Members of this Kansas gang tried one raid too many; Emmett lived & was sentenced to prison|the Daltons

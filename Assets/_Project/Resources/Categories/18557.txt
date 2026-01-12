@@ -1,0 +1,6 @@
+FACT: -OID
+200|Flavonoids are antioxidants that are plentiful in the red type of this, so pass the claret|wine
+400|The Festa della Sensa celebrates this city's "marriage to the sea\"|Venice
+600|Pon Farr is the mating time of this "Star Trek" humanoid race|Vulcan
+800|In a Herman Wouk novel, this captain of the USS Caine is paranoid|(Captain) Queeg
+1000|A haploid cell, such as a sperm or egg, is defined as having only one copy of each of these genetic units|a chromosome

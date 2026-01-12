@@ -1,0 +1,6 @@
+MATH TERMS
+200|You'll find the word "infinite" within the calculus term for infinitely small, but not quite zero|Infinitesimal
+400|A perfect number is the sum of all of these except itself; for example, 28 is the sum of 1, 2, 4, 7 & 14|Its factors
+600|It describes the shortest line between 2 points on a surface, or a dome made with the least possible material|Geodesic
+800|This term for complex shapes or the geometry that deals with them comes from the word "fractional\"|Fractals
+1000|Represented by an arrow, it's a quantity, like velocity, with both direction & magnitude|Vector

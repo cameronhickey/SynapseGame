@@ -1,0 +1,6 @@
+BANKRUPTCY
+200|In a corporate failure, holders of the preferred type of this get paid before holders of the common type|Stock
+400|Alimony & this payment for offspring are among debts not discharged by personal bankruptcy|Child support
+600|Filing for bankruptcy will stop this agency's collections, but it can still audit you|IRS (Internal Revenue Service)
+800|Term for a section of the U.S. Bankruptcy Code; No. 11 deals with business reorganization|Chapter
+1000|This "wet" term means selling off a bankrupt person's assets to pay creditors|Liquidation

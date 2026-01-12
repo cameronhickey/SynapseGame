@@ -1,0 +1,6 @@
+SPORTS RULES FILL IN THE BLANK
+200|NBA: "An offensive ____ is illegal contact, committed by an offensive player, after the ball is live\"|foul
+400|MLB: "The ____ shall not... expectorate on the ball, either hand or his glove\"|pitcher
+600|NFL: "Any forward pass (legal or illegal) is ____ and the ball is dead immediately if the pass strikes the ground\"|incomplete
+800|MLB: "The second game of a ____ shall start twenty minutes after the first game is completed\"|doubleheader
+1000|NBA: "A team must attempt a field goal within ____ seconds after gaining possession of the ball\"|24

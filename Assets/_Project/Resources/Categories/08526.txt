@@ -1,0 +1,6 @@
+SHELLFISH
+200|2 edible types of this shellfish found on the Pacific coast of North America are the Red King & Dungeness|crabs
+400|It's marketed according to size, from Colossal (10 or less to a pound) to miniature (about 100 to a pound)|shrimp
+600|To keep these stalk-eyed beasts from harming each other, rubber bands are put around their claws|lobsters
+800|It's really an old wives' tale that it's unsafe to eat this bivalve in months without an "R" in their name|oysters
+1000|The shell of this mollusk gave its name to a method of cooking & to a curved edge, on cloth, for example|the scallop

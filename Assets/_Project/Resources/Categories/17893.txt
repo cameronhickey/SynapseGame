@@ -1,0 +1,6 @@
+MOVIES' 2 MALE LEADS
+200|\"Grumpy Old Men\"|(Walter) Matthau & (Jack) Lemmon
+400|\"Wedding Crashers\"|Owen Wilson & Vince Vaughn
+600|\"Brokeback Mountain\"|Heath Ledger & Jake Gyllenhaal
+800|\"White House Down\"|Channing Tatum & Jamie Foxx
+1000|\"Dirty Rotten Scoundrels\"|Steve Martin & Michael Caine

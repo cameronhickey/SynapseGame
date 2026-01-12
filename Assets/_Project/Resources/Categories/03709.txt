@@ -1,0 +1,6 @@
+ANIMAL ANAGRAMS
+200|Kay got to ride this animal when she visited Tibet|a yak (Kay)
+400|A wee female sheep can grow up to be a great big one|a ewe (wee)
+600|Verna has a pet one perching just above her chamber door|a raven (Verna)
+800|An astronaut drinking Tang doesn't want to find this insect in it|a gnat (Tang)
+1000|Some folks love this ratlike rodent related to the lemming|a vole (love)

@@ -1,0 +1,6 @@
+BIBLES
+200|The Geneva Bible of 1560 was the first English Bible in which the chapters were divided into these|Verses
+400|London printers of a 1631 Bible were fined 300 pounds for leaving the word "not" out of this fidelity commandment|Seventh ("Thou shalt not commit adultery")
+600|The Septuagint is the oldest translation of the Old Testament from Hebrew to this language|Greek
+800|The Cranmer Bible of 1540 featured a Holbein woodcut of this king watching copies being passed out|Henry VIII
+1000|It's the name given to the Latin version of the Bible authorized by the Roman Catholic Church|Vulgate

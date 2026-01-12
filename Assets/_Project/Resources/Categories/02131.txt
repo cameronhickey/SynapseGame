@@ -1,0 +1,6 @@
+U.S. MONEY
+200|This present U.S. coin has a torch on its reverse|Dime
+400|All U.S. dollar coins issued since 1794, except one, featured this animal|Eagle
+600|Most U.S. paper currency consists of 7 denominations issued in this type of note|Federal Reserve Note
+800|U.S. paper currency is made of 25% linen & 75% this fiber|Cotton
+1000|A commemorative half dollar was issued in 1937 to honor this bloodiest one-day Civil War battle|Antietam

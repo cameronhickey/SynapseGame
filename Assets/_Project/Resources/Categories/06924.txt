@@ -1,0 +1,6 @@
+VISIBLE BODY PARTS
+200|The name of this tree or car part also refers to your body minus the head & limbs|trunk
+400|On a man whose shirt size is 16-34, this part of his body is 16 inches around|the neck
+600|If you can move the muscles called auriculares, you can move these|your ears
+800|Medically speaking, the thumb is the pollex & this big digit is the hallux|the big toe
+1000|This outer layer of skin is anchored to the inner layer by tissue called the basement membrane|the epidermis

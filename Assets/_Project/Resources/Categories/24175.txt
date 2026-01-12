@@ -1,0 +1,6 @@
+LITERARY PROFESSIONS
+200|Atticus Finch; he's on your side!|a defense attorney
+400|Wang Lung, when we meet him in "The Good Earth\"|a farmer
+600|Mr. Chipping, but you can call him Mr. Chips|teacher
+800|V.I. Warshawski & Lew Archer|detectives
+1000|Mikael Blomkvist in "The Girl with the Dragon Tattoo\"|a journalist

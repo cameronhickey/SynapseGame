@@ -1,0 +1,6 @@
+\"V" CITIES
+200|Italian city built on over 120 islands|Venice
+400|Spanish city that lent its name to a variety of oranges|Valencia
+600|Beethoven, Brahms, but not Bach, made music here|Vienna
+800|Nevada's lively ghost town near the mythical Ponderosa|Virginia City
+1000|North America's 2nd-largest Chinatown is in this Canadian city|Vancouver

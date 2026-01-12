@@ -1,0 +1,6 @@
+FOOD SPECIFICS
+200|Bouillon is a thin, clear this|broth (or soup)
+400|Polenta is a dish of cooked, ground this|corn
+600|En croute means wrapped in this & baked|pastry
+800|Pumpernickel refers to a dark type of this bread|rye
+1000|Mascarpone is a soft Italian this|cheese

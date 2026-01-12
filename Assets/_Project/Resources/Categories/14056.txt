@@ -1,0 +1,6 @@
+COOKING VERBS
+200|To heat water to 212 degrees|boil
+400|2-word term meaning to cook by submerging in hot fat|deep fry
+600|From the French, it means to remove bones, especially the backbones, from fish|filet
+800|From the Greek for "to roast", it's to cook with dry oven heat|bake
+1000|To cook sugar until it forms a brown syrup|to caramelize

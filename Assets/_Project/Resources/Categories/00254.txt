@@ -1,0 +1,6 @@
+PSYCHOLOGY
+200|A bad one is biting your fingernails, a good one is calling mom once a week|a habit
+400|The opposite of a dominant trait|recessive
+600|1 who suffers from periods of depression alternating with periods of excitement|manic depression
+800|The common name for somnambulism|sleepwalking
+1000|The ego resolves conflicts between this & the superego|the id

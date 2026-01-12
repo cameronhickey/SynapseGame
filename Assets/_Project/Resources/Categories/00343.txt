@@ -1,0 +1,6 @@
+LANGUAGES
+200|Canada's 2 official languages|French & English
+400|The world's largest trees are named for this inventor of the Cherokee alphabet|Sequoyah
+600|International Jewish language derived from High German|Yiddish
+800|Only French-speaking independent nation in Latin America|Haiti
+1000|American Indian language never cracked when used by the U.S. as a WWII code|Navajo

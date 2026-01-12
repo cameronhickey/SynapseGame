@@ -1,0 +1,6 @@
+NAME THE SHAKESPEARE PLAY
+200|\"Good-night, good-night! Parting is such sweet sorrow that I shall say good-night till it be morrow\"|Romeo and Juliet
+400|\"Neither a borrower nor a lender be\"|Hamlet (Polonius)
+600|\"Though this be madness, yet there is method in 't\"|Hamlet
+800|\"He shall have every day a several greeting, or I'll unpeople Egypt\"|Antony & Cleopatra
+1000|\"We few, we happy few, we band of brothers; for he to-day that sheds his blood with me shall be my brother\"|Henry V

@@ -1,0 +1,6 @@
+AIRLINES
+200|This airline's AAdvantage program is the oldest frequent flyer program|American Airlines
+400|Pierre Balmain designed the Malay sarongs worn by this airline's flight attendants|Singapore Airlines
+600|In July 1992 this bankrupt airline was found guilty of willful misconduct in the Lockerbie disaster|Pan Am
+800|This airline was named for its Chicago airport hub|Midway Airlines
+1000|This airline acquired both Piedmont & PSA in the 1980s|USAir

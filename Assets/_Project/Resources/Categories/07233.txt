@@ -1,0 +1,6 @@
+RELIGIOUS FESTIVALS
+200|Purim, Sukkot|Judaism
+400|Assumption, Ascension|Roman Catholicism
+600|Eid al-Fitr, Laylat al-Qadr|Islam
+800|Diwali, Holi|Hinduism
+1000|Wesak, Navam|Buddhism

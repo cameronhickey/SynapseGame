@@ -1,0 +1,6 @@
+HYPHENATED ADJECTIVES
+200|Adjective for a job of less than a standard number of hours a week|part-time
+400|It describes a man's smooth face with all its whiskers removed|clean-shaven
+600|There's no "-proof" in this adjective often seen on kids' PJs & meaning designed to fend off flames|fire-resistant
+800|Hyphenated adjective for "gains" made criminally or unfairly|ill-gotten
+1000|Adjective for one who always seems to have a greater than average number of mishaps|accident-prone

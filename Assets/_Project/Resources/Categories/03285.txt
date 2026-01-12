@@ -1,0 +1,6 @@
+AN "I\"
+200|Tiger has woods & these in his golf bag|irons
+400|Stemming from the Latin for "journey", it lists all the stopping points on your journey|Itinerary
+600|It's a Kansas City suburb that's home to a presidential library|Independence
+800|A wild goat often found in the Himalayas & in crossword puzzles|an ibex
+1000|Latin for "swaddling clothes", they're books printed before 1501, in the infancy of typography|incunabula

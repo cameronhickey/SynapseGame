@@ -1,0 +1,6 @@
+SCRIPT TEASE
+200|1946: "Every time you hear a bell ring, it means some angel's just got his wings\"|It's A Wonderful Life
+400|1939: "You should be kissed — and often — and by someone who knows how\"|Gone with the Wind
+600|1962: "Bond. James Bond\"|Dr. No
+800|1964: "Mein Fuhrer, I can walk!\"|Dr. Strangelove
+1000|1969: "I call that bold talk for a one-eyed fat man\"|True Grit

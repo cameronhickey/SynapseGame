@@ -1,0 +1,6 @@
+STOCK MARKET INDEXES
+200|This company puts out an industrial average & also publishes the Wall Street Journal|Dow Jones
+400|From Chinese for "ever growing", the Hang Seng compiles an index of stocks on this region's exchange|Hong Kong
+600|This word for "stylish" rhymes with "fifty" in the name of a top stock index in India|nifty
+800|The SOFIX tracks the 15 biggest stocks on this Eastern European country's exchange|Bulgaria
+1000|This British newspaper is the "FT" in the FTSE, or "footsie" index|the Financial Times

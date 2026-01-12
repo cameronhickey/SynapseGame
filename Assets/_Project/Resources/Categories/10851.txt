@@ -1,0 +1,6 @@
+ENDS IN "TION\"
+200|The height to which something is raised above a point of reference such as the ground|elevation
+400|The act of cutting the head off something, perhaps a member of French royalty in the 1790s|decapitation
+600|The formal remission of sin by a priest|absolution
+800|Movement of the blood through the body as a result of the heart's pumping action|circulation
+1000|In psychology, a strong attachment to a person or thing that often persists throughout life|a fixation

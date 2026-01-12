@@ -1,0 +1,6 @@
+MNOW YOUR MNEMONICS
+200|\"Roy G. Biv" is a mnemonic for the 7 colors of this|the rainbow (or spectrum)
+400|\"India's big, but Africa's bigger, the same as their" these animals, "easy to figure\"|elephants
+600|\"R'n'B" will help you remember how to set up these pieces from left to right on a chessboard|rooks, bishops & knights
+800|\"MMVENUSJ" is a mnemonic for the size of these, from smallest to largest (it recently lost its "P")|the planets
+1000|\"The squaw on the hippopotamus is equal to the sum of the squaws on the other 2 sides" is for this guy's theorem|Pythagoras

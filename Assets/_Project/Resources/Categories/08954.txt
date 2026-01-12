@@ -1,0 +1,6 @@
+CELEBRITY AILMENTS
+200|In the 1960s Stephen Hawking was diagnosed with a disease named for this famous athlete|Lou Gehrig
+400|(I'm Jerome Bettis of the NFL.) As a sufferer from this condition, I've testified on Capitol Hill about the need to keep inhalers on the market|asthma
+600|Hepatitis C is not named for this sufferer, the C in the singing group CSN|David Crosby
+800|Musician Michael Wolff suffers from this, inspiring his wife Polly Draper to write the film "The Tic Code\"|Tourette's syndrome
+1000|Kathleen Turner is a sufferer of & spokesperson about R.A., short for this|rheumatoid arthritis

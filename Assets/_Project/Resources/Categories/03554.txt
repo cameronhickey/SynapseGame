@@ -1,0 +1,6 @@
+GREEK LETTERS
+200|Greek letter you need to know to figure out the area of a circle|pi
+400|This fourth Greek letter is in the title of Helen Reddy's second No. 1 hit|delta ("Delta Dawn")
+600|It's the final name in watch brands|Omega
+800|Explore American Samoa & you'll come across this island that'll suit you to a "T\"|Tau
+1000|Computer games & programs undergo this test period to work out bugs before their final retail release|beta testing

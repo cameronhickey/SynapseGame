@@ -1,0 +1,6 @@
+SHAKESPEAREAN ALPHABET
+200|\"C" is for this dramatic device of the Greeks, employed to speak the prologue in "Henry V\"|a chorus
+400|\"A" is for this "Romeo & Juliet" tradesman, a druggist from whom Romeo buys poison|apothecary
+600|Used in "Othello": "Z" is for this interjection, a corruption of "God's wounds\"|zounds
+800|\"O" is for this lover of Rosalind in "As You Like It\"|Orlando
+1000|\"F" is for this character in "Hamlet"; his father, the king of Norway, was killed by Hamlet's dad|Fortinbras

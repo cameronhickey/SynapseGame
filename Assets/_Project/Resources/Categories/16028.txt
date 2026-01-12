@@ -1,0 +1,6 @@
+WHAT KIND OF MOVIE?
+200|\"Mary Poppins": It comes before "chairs" in the name of a game|a musical
+400|\"The Last Song": Author Anna Dewdney rhymes it with "llama\"|drama
+600|\"Zookeeper"; Shakespeare wrote one "of Errors\"|a comedy
+800|The "Spy Kids" movies: A synonym for "movement\"|action
+1000|\"The Nightmare Before Christmas": it means a wild daydream|fantasy

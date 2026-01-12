@@ -1,0 +1,6 @@
+COLLEGES BY TEAM NAMES
+200|Crimson Tide|Alabama
+400|The Hoyas|Georgetown
+600|The Commodores|Vanderbilt
+800|The Yellow Jackets (of Division I)|Georgia Tech
+1000|The Terrapins|Maryland

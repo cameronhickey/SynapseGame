@@ -1,0 +1,6 @@
+LITERARY ADJECTIVES
+200|Things are this if they are like Sir Thomas More's perfect island|utopian
+400|Resembling the totalitarian future described in "1984\"|orwellian
+600|\"Like the impractical idealist in a Cervantes satire" reduces to this adjective|quixotic
+800|Also used of some "bargains", this adjective means "similar to Goethe's soul seller\"|faustian
+1000|In a word, "Like Pantagruel's father\"|gargantuan

@@ -1,0 +1,6 @@
+SPACE FLIGHT
+200|The U.S. launched its first satellite in 1958, while the second in this Soviet program was orbiting|Sputnik
+400|This country has a launch site in the Negev Desert|Israel
+600|In 1986 it replaced the Salyut 7 space station|Mir
+800|This German developed the Saturn V rocket used on most of the Apollo missions|Wernher Von Braun
+1000|In 1919 the Smithsonian published his paper "A Method of Reaching Extreme Altitudes\"|Robert Goddard

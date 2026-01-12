@@ -1,0 +1,6 @@
+GOVERNMENTAL
+200|The Cabinet department that operates 140 embassies|the State Department
+400|The Coast Guard is part of this federal department|the Department of Transportation
+600|This Cabinet department has spent $600 for a toilet seat & $7,000 for a coffeemaker|the Department of Defense
+800|Since 1975, this powerful federal body has replaced only 1 member|the Supreme Court
+1000|Pres. Reagan has proposed fostering econ. development by designating inner city areas as these|enterprise zones

@@ -1,0 +1,6 @@
+BOOKS INTO MOVIES
+200|\"The Bible", with George C. Scott as Abraham, restricts itself to this Biblical book|Genesis
+400|Book 9, chapter 5 of this Fielding novel became a famous erotic eating scene in the movie|Tom Jones
+600|This Lorenzo Carcaterra book that became a 1996 movie was published as a true story; some doubted it|Sleepers
+800|Cameron Crowe returned to high school to research the book that became this 1982 Sean Penn film|Fast Times at Ridgemont High
+1000|Francois Truffaut based 2 films on Henri-Pierre Roche love triangle tales: "Two English Girls" & this one|Jules et Jim

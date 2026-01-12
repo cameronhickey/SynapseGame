@@ -1,0 +1,6 @@
+\"A" IN GEOGRAPHY
+200|There's a Liberty cap on the coat of arms of this South American country|Argentina
+400|It was once known as Portuguese West Africa|Angola
+600|Name shared by a former capital of Guatemala & a Caribbean island near Barbuda|Antigua
+800|The Museum of Anatolian Civilizations in this capital is renowned for its Hittite collection|Ankara
+1000|The Kura, this former Soviet republic's main river, flows into the Caspian Sea|Azerbaijan

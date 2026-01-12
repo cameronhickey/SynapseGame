@@ -1,0 +1,6 @@
+CLASSIC ROCK OPENING LINES
+200|CCR: "Left a good job in the city...\"|\"Proud Mary\"
+400|Pink Floyd (Part 2): "We don't need no education..." (5 words)|\"Another Brick In The Wall\"
+600|Nancy Sinatra: "You keep sayin' you've got something for me...\"|\"These Boots Are Made For Walkin'\"
+800|The Beatles: "Jojo was a man who thought he was a loner...\"|\"Get Back\"
+1000|Elvis: "We're caught in a trap...\"|\"Suspicious Minds\"

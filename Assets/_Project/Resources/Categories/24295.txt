@@ -1,0 +1,6 @@
+ARRONDISSEMENTS OF PARIS
+200|You'll find this museum, the world's most visited, in the First arrondissement|the Louvre
+400|Named for an orphanage's red-clad kids, the Marché des Enfants Rouges is one of these in the 3rd arrondissement|a farmer's market
+600|Located on 2 the Île de la Cité, this holy structure in the Fourth arrondissement is being restored, probably until 2024|Notre Dame
+800|In the 14th you can go underground & explore this part of Paris & the 6 million or so at rest there|the Catacombs
+1000|The Arc de Triomphe sits on this hyphenated street in the 8th arrondissement|the Champs-Élysées

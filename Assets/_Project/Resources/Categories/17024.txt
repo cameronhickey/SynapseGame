@@ -1,0 +1,6 @@
+POLI SCI
+200|The term for the official residence of an ambassador|embassy
+400|In the U.S. the Constitution gives the holder of this office the power to pardon|President
+600|The high seas territorial limit for U.S. was originally set at this, their range of cannons at the time|3 (nautical) miles
+800|Nickname for appropriation bills that are "pieces of bacon" for a congressman's "folks back home\"|pork barrel
+1000|Russian term for a council or deliberative body|Duma or Soviet

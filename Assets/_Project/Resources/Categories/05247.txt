@@ -1,0 +1,6 @@
+TITLE FILM FOLK
+200|\"The Talented Mr. Ripley" (1999)|Matt Damon
+400|\"Emma" (1996)|Gwyneth Paltrow
+600|\"Selena" (1997)|Jennifer Lopez
+800|\"Shaft" (1971)|Richard Roundtree
+1000|\"Pat and Mike" (1952)|Spencer Tracy & Katharine Hepburn

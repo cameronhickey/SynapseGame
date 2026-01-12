@@ -1,0 +1,6 @@
+CANADIAN POSTAL ABBREVIATIONS
+200|BC|British Columbia
+400|AB|Alberta
+600|NS|Nova Scotia
+800|YT|the Yukon Territory
+1000|PE|Prince Edward Island

@@ -1,0 +1,6 @@
+SIMPLY GEOGRAPHIC
+200|It's the smallest continent|Australia
+400|It's the continent where you'll find the countries of Mauritania, Equatorial Guinea & Zambia|Africa
+600|Lebanon, Italy & Spain all border this large sea|the Mediterranean Sea
+800|Covering almost 30,000 square miles, this country consists of the northern third of the Island of Great Britain|Scotland
+1000|Named for a former U.S. president, this mountain peak in Denali N.P. is the highest point in the United States|Mount McKinley

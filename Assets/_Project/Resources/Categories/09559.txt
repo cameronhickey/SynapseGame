@@ -1,0 +1,6 @@
+AMERICAN PLACE NAMES
+200|This state name originally honored the queen whom sir Walter Raleigh served|Virginia
+400|Immigrants from this country named a South Dakota county Haakon, in honor of King Haakon VII|Norway
+600|This state's Motley County was named for a physician killed in the Battle of San Jacinto|Texas
+800|This Los Angeles suburb was named for a New Hampshire-born dentist, not the potato guy|Burbank
+1000|This Ohio city is named for the Prussian who trained soldiers during the Revolutionary War|Steubenville

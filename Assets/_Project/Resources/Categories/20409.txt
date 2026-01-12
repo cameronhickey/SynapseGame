@@ -1,0 +1,6 @@
+TINDER
+200|Tinder is small pieces of wood; firewood is much larger; in between is this 8-letter word|kindling
+400|Compressed firelogs are usually this substance, still found on the floors of some saloons|sawdust
+600|Firewood can be dried in one of these furnaces|a kiln
+800|Our campfire's not going to be that big, so only order 64 cubic feet, half of this measurement of wood|a cord
+1000|An axe head can get stuck; instead, use this 4-letter heavy hammer to split firewood|a maul

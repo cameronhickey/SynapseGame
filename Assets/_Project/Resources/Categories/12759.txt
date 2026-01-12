@@ -1,0 +1,6 @@
+FUNDRAISING
+200|Keep a big donor's gifts flowing: put him on this "of directors" or "of governors\"|board
+400|This service's code says donors to a 501 (c)(3) organization can generally take a tax deduction|the IRS
+600|Chilly alliterative term for phoning someone to ask for money without any prior notice|cold call
+800|Donations in the form of equipment or time instead of money are called "in" this 4-letter word|in kind
+1000|In fundraising DM stands for this mail, which aims to scare up new donors|direct mail

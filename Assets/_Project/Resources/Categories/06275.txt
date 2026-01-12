@@ -1,0 +1,6 @@
+WILDLIFE
+200|Most adult butterflies feed on this which provides plenty of quick energy but little protein|nectar
+400|As well as in cod, an oil extracted from this organ in sharks is a source of vitamin A|liver
+600|As in reindeer, both the male & female have antlers in this North American deer, the "nomad of the north\"|a caribou
+800|This hairy family contains the world's largest spider, a South American species that has a 10-inch leg span|tarantula
+1000|The unau is the 2-toed species of this South American animal; the ai is the 3-toed species|a sloth

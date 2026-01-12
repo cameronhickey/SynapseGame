@@ -1,0 +1,6 @@
+I MARRIED A BEATLE
+200|Yoko Ono|John Lennon
+400|Linda Eastman|Paul McCartney
+600|Barbara Bach|Ringo Starr
+800|Pattie Boyd|George Harrison
+1000|Cynthia Powell|John Lennon

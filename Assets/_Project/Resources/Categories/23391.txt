@@ -1,0 +1,6 @@
+PUT IT IN THE PROVINCE
+200|The CN Tower|Ontario
+400|The cities of Gaspé & Rivière-du-Loup|Quebec
+600|The Halifax Waterfront Boardwalk|Nova Scotia
+800|Whistler Blackcomb Ski Resort|British Columbia
+1000|Casino Moose Jaw|Saskatchewan

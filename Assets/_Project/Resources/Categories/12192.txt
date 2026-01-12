@@ -1,0 +1,6 @@
+STATE THE TV STATE
+200|\"Grey's Anatomy\"|Washington
+400|\"Laverne & Shirley", originally|Wisconsin
+600|\"Friday Night Lights\"|Texas
+800|\"Jericho\"|Kansas
+1000|\"The Wire\"|Maryland

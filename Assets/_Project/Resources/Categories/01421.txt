@@ -1,0 +1,6 @@
+FORESTS
+200|Tuskegee National Forest lies just east of Montgomery in this state|Alabama
+400|This English forest in Nottinghamshire was once a royal hunting ground|Sherwood Forest
+600|At 4,898 feet, Feldberg is the highest peak in this German forest noted for its mineral springs|the Black Forest
+800|A forest in northern Oregon shares its name with this mountain located within its borders|Mount Hood
+1000|Mississippi has a national forest named for this first European to reach the Mississippi River|de Soto

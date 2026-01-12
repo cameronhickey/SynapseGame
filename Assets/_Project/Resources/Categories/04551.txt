@@ -1,0 +1,6 @@
+\"C" WHO SALUTES
+200|If there's a silver eagle on your uniform, you hold this rank|colonel
+400|A clergyman attached to a military unit, even without a bowler hat, mustache & cane|chaplain
+600|Term for a military force that serves on horseback|cavalry
+800|In 1841 Matthew Perry attained this rank, a flag officer just below rear admiral|commodore
+1000|In the Navy this "man" is an enlisted person trained in combat first aid|corpsman

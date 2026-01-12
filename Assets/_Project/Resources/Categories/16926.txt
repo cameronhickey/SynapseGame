@@ -1,0 +1,6 @@
+CAPITAL MAP IT ALL
+200|No roads lead into this state capital|Juneau
+400|It was first settled in 1624|Albany
+600|It became the state capital in 1854|Sacramento
+800|It lies on both sides of the Kennebec River|Augusta
+1000|On November 25, 1861, it became a territorial capital|Carson City

@@ -1,0 +1,6 @@
+CASTLE LIFE
+200|It's usually a body of protective water spanned by the drawbridge|Moat
+400|Under feudal law this 4-letter word was the general title for the owner of a manor or castle|Lord
+600|Term for the trainer of a predatory bird used for hunting|Falconer
+800|2-word term for the big chamber that was the main meeting & dining area|Great hall
+1000|Crossbows were stored in the balistraria & these were stored in the chandlery|Candles

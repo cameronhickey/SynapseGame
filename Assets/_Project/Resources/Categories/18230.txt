@@ -1,0 +1,6 @@
+A GAME OF IDIOMS
+200|Step up to the plate|baseball
+400|Saved by the bell|boxing
+600|Down to the wire|horse racing
+800|Do an end run|football
+1000|Drop the gloves|hockey

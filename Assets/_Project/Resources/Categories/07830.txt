@@ -1,0 +1,6 @@
+GOVERNMENT AGENCIES
+200|U.S. Citizenship & Immigration Services is part of this Cabinet dept., the subject of a big funding fight in 2015|the Department of Homeland Security
+400|This cabinet department oversees the grain inspection, packers & stockyards administration|the Department of Agriculture
+600|Teddy Roosevelt got the Bureau of Corporations started; under Wilson, it evolved into this, the FTC|the Federal Trade Commission
+800|This agency also regulates medical devices, cosmetics & animal feed|the FDA (Food & Drug Administration)
+1000|The address atf.gov would be atfe.gov if it accounted for this word found in the full name of the bureau|explosives

@@ -1,0 +1,6 @@
+AND FOOD
+200|Popular soul food side dishes are mustard, collard & turnip these, a word for leaves|greens
+400|This minced meat-filled Chinese dumpling is simmered & served in the soup named for it|wontons
+600|This Italian name for squid is a reference to its ink|calamari
+800|Types of this fruit include the French nicoise & the Greek kalamata|olives
+1000|It's Middle Eastern dip made from chickpeas, often flavored with sesame|hummus

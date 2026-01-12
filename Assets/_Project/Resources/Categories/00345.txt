@@ -1,0 +1,6 @@
+GYMNASTICS
+200|Term for proper way to end routine|dismount
+400|Only international gymnastic event which doesn't use any apparatus|floor exercise
+600|In this event performed on a mat 40' square, men's routines must be 50-70 seconds long, women's 70-90|Floor exercise
+800|This type of gymnastics became an Olympic event in 1984|rhythmic gymnastics
+1000|Name for the wooden handles on a side horse|Pommels

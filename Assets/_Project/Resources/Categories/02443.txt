@@ -1,0 +1,6 @@
+ENDS IN "FF\"
+200|The horizontal lines on which notes of music are written|a staff
+400|In a lawsuit it's the person who filed the charges|the plaintiff
+600|This Welsh capital was once the world's greatest coal-exporting port, a veritable "giant\"|Cardiff
+800|This word meaning to heartily drink a beer, or any beverage, dates back almost 500 years|quaff
+1000|It's a tax placed by a government on exports or imports|Tariff

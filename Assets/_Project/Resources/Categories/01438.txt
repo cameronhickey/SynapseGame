@@ -1,0 +1,6 @@
+THIRD PARTIES
+200|John Anderson & Ross Perot didn't represent political parties per se; they were listed as these|independents
+400|Third party Wallaces include Henry Wallace in 1948 & this man in 1968|George Wallace
+600|This was a third party when it won the presidency in 1860 with Abraham Lincoln as its candidate|the Republican Party
+800|Among parties wanting "cheap money" were the Populists in 1892 & this party in 1876|the Greenbacks
+1000|This party for which Norman Thomas ran 1928-1948 was looking for liberal reforms|the Socialist Party

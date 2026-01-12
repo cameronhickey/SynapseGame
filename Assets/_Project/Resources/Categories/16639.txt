@@ -1,0 +1,6 @@
+SHARED COLLEGE SPORTS NICKNAMES
+200|Troy & USC|the Trojans
+400|Missouri & Clemson|the Tigers
+600|Western Michigan & Boise State|the Broncos
+800|Bowling Green & Air Force|the Falcons
+1000|McNeese & Wyoming|the Cowboys

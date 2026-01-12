@@ -1,0 +1,6 @@
+TOWERS
+200|It's actually a group of towers including the White, Wakefield & Bloody towers|the Tower of London
+400|Construction of this was halted when it was found the soil was too soft; it was finished in the 14th c.|the Leaning Tower of Pisa
+600|At 1,815 feet, it gives Toronto some of the clearest TV reception in North America|the CN Tower
+800|This Chicago media company's Gothic tower doesn't quite put the Sears Tower in the shade|the Tribune Company
+1000|The White Tower, a remnant of Ottoman rule, is a highlight of this second-largest Greek city|Thessalonika

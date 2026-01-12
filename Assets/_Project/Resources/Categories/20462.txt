@@ -1,0 +1,6 @@
+3 CONSECUTIVE VOWELS
+200|A pig's typical exclamation|squeal
+400|A division of a government department or a chest of drawers|a bureau
+600|This word for impulsive behavior also begins with "imp\"|impetuous
+800|Completely devoted, religiously|pious
+1000|French term for a licentious man; 3 of its 4 letters are vowels|a roué

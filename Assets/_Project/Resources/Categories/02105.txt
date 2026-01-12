@@ -1,0 +1,6 @@
+ANIMAL GROUPS
+200|\"Nevermore" will we mention that a group of these birds is an unkindness|Ravens
+400|When someone wishes you "good" these at Christmas, they may be referring to a group of magpies|Tidings
+600|A group of these birds is a mustering; we guess they muster up courage for some deliveries|Storks
+800|Ask your nanny & she'll tell you a group of these is a trip|Goats
+1000|We're not splitting these, we're collecting them into a group — a husk|Hares

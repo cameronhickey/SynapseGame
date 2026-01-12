@@ -1,0 +1,6 @@
+MAPS
+200|It's a book of maps, even if it doesn't hold up heaven or earth|atlas
+400|In about 150 A.D. this Greek astronomer in Egypt published "Geography", an 8-volume guide to mapmaking|Ptolemy
+600|This word for mapmaker comes from Old French for "card\"|cartographer
+800|On topographic maps, contour lines are used to show this|elevation
+1000|Photogammetry is the science of making maps from photos taken from this perspective|sky (air)

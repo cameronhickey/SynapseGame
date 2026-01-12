@@ -1,0 +1,6 @@
+ASTRONAUTS
+200|In 1946 Challenger astronaut Ellison Onizuka was born in Kealakekua in this state|Hawaii
+400|William Anders later served as the first chairman of this government body, the NRC|the Nuclear Regulatory Commission
+600|In 1971 this first American in space served as a delegate to the 26th U.N. General Assembly|Alan Shepard
+800|He was capsule communicator for Gemini 5 & 10 before becoming the second to walk on the moon|Aldrin
+1000|Florida congressman Bill Nelson was the second politician in space; the first was this Utah senator|("Jake") Garn

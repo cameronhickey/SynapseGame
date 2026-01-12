@@ -1,0 +1,6 @@
+DOC TREBEK'S DIAGNOSIS
+200|You've got allergic rhinitis, this ailment that can increase with the advent of spring|hay fever
+400|This flaking scalp condition is not life-threatening & a good topical steroid will help|dandruff
+600|Don't worry, it's just an ephelis, one of these—a buildup of melanin common in fair-skinned folks|a freckle
+800|These deposits of hardened bile can certainly be painful, in which case you're probably headed for surgery|gallstones
+1000|Too much pie? Could be indigestion, AKA this medical term from the Greek for "difficult to digest\"|dyspepsia

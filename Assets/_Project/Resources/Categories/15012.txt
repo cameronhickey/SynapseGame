@@ -1,0 +1,6 @@
+NATIONAL PARKS A-Z
+200|A: This Utah park that has the natural sandstone formations in its name, plus the Fiery Furnace|Arches
+400|B: This national park in South Dakota whose name refers to the difficulty of traveling through its rugged terrain|Badlands
+600|G: This Arizona national park that's also a UNESCO World Heritage Site|Grand Canyon
+800|S: What is now this California national park was established in 1890 to protect a grove of big trees|Sequoia
+1000|Z: It's the only national park that fits the bill|Zion

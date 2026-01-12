@@ -1,0 +1,6 @@
+DEPENDENCIES
+200|Wake Island|United States
+400|Greenland|Denmark
+600|Cayman Islands|Great Britain
+800|Christmas Island|Australia
+1000|Aruba|The Netherlands/Holland

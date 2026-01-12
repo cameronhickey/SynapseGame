@@ -1,0 +1,6 @@
+MAKE
+200|The Golf, the Jetta|Volkswagen
+400|The Bonneville, the GTO|Pontiac
+600|The Cordoba, the LeBaron|Chrysler
+800|The Monza, the Vega|Chevy
+1000|The Gremlin, the Pacer|AMC (American Motor Corp.)

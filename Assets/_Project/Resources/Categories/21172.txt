@@ -1,0 +1,6 @@
+WHICH STAR WARS?
+200|Obi-Wan sacrifices himself in a duel|A New Hope
+400|Kylo Ren commits patricide|The Force Awakens
+600|Chewie roasts some porg|The Last Jedi
+800|Qui-Gon makes the mistake of saving Jar Jar|The Phantom Menace
+1000|Young Anakin is assigned to protect Padme|Attack of the Clones

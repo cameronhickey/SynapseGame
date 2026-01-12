@@ -1,0 +1,6 @@
+MAGAZINE COLLECTION
+200|This colorful women's magazine once had sister magazines Blue Book & Green Book|Redbook
+400|Sports Illustrated has a yearly swimsuit edition; this competing mag is going online-only but will still print its Body Issue|ESPN The Magazine
+600|This 66-year-old magazine offers a section for shows on Netflix, Hulu & Amazon called "Stream It!\"|TV Guide
+800|Founded in 1922, this magazine sold longer versions of its condensed articles to other magazines|Reader's Digest
+1000|Founded in 1885, this magazine established an institute to test consumer goods, which might get its seal of approval|Good Housekeeping

@@ -1,0 +1,6 @@
+THAT'S A CAR MODEL
+200|A Volkswagen hatchback: a sport you can literally take a whack at|a Golf
+400|A Chevy SUV: it can be vernal or autumnal|Equinox
+600|A classic Lincoln: relating to U.S. states or Euro cuisine|Continental
+800|A Toyota truck: a level, treeless Arctic plain|a Tundra
+1000|A Hyundai sedan: a flavor enhancer that's basically MSG|Accent

@@ -1,0 +1,6 @@
+OTHER COUNTRIES SEPARATED BY A COMMON LANGUAGE
+200|In Brazil, you have a carteira de motorista; in Portugal, its a carta de condução; in America, it's this|a driver's license
+400|French Canadians use "on" for this pronoun instead of "nous", more commonly used in France|we
+600|In the Middle East they speak the Levantine type of this language, while Mauritania speaks the Hassaniya type|Arabic
+800|In Mexico this is what holds a burrito, but in Spain, it means a potato omelet|tortilla
+1000|For "good day", Austrians use "gruss gott" instead of this literal translation used in most of Germany|guten tag

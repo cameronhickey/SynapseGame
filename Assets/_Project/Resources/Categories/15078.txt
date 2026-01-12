@@ -1,0 +1,6 @@
+3-LETTER VERBS
+200|To solemnly pledge to undertake an action|vow
+400|Tell a little lie|fib
+600|To clear a pool table by hitting all the balls in the pockets in a row|run
+800|Write something down quickly, like an address|jot
+1000|To add additional unjustified expenses to an account|pad

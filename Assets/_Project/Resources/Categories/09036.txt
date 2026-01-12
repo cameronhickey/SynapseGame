@@ -1,0 +1,6 @@
+FOREIGN ANIMALS
+200|This, an orzel in Poland, is seen on some of our coins|an eagle
+400|In Swahili, this familiar sight in the Sahara is a ngamia|a camel
+600|In Dijon a homard is a lobster & a canard is one of these (if someone throws a homard at you, canard)|a duck
+800|As Lowe is German for this animal, it sounds like Loews cinemas should only show MGM movies|a lion
+1000|You'll find atum, this fish, sandwiched inside Portuguese dictionaries|tuna

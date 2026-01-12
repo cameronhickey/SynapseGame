@@ -1,0 +1,6 @@
+SUBURBS
+200|Newcastle upon Tyne is a British city; a posh suburb of Paris is called Neuilly-sur-this river|the Seine
+400|Many John Hughes movies are set in the fictional Shermer, perhaps from Shermerville, now this city's suburb Northbrook|Chicago
+600|Stewart Hartshorn made a fortune in window shade rollers & gave his S.H. initials to this wealthy New Jersey suburb|Short Hills, New Jersey
+800|Dum Dum, a weapons-making suburb of Kolkata, gave its name to an expanding type of this, banned by international law|an expanding bullet
+1000|Shostakovich titled an opera "Moscow, Cheryomushki", a suburb where in 1958 this leader began an experiment in prefab apartments|Khrushchev

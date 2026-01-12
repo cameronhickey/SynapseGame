@@ -1,0 +1,6 @@
+GRANDCHILD CARE
+200|Most infants do this about 16 hours out of 24|sleep
+400|To avoid this problem, apply a water-repellent emollient after each change|diaper rash
+600|Until liver function increases, many newborns suffer from this condition where skin is yellowish|jaundice
+800|From Middle French for "box", it's the term for clothing and other equipment for a newborn|layette
+1000|Usually first given at 2 months, triple vaccine is also known by these 3 letters|DPT

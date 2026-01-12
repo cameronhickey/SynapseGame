@@ -1,0 +1,6 @@
+EUROPE IN LATIN
+200|A river: Rhenus|the Rhine
+400|An island: Melita|Malta
+600|Part of the United Kingdom: Cambria|Wales
+800|A country: Helvetia|Switzerland
+1000|A country: Lusitania|Portugal

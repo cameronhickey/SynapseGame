@@ -1,0 +1,6 @@
+THAT WORD NEEDS PLURALIZATION
+200|Phenomenon (9 letters)|phenomena
+400|Nucleus (6 letters)|nuclei
+600|Brother (8 letters & don't say, "brothers")|brethren
+800|Passerby (9 letters)|passersby
+1000|Seraph (8 letters)|seraphim

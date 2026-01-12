@@ -1,0 +1,6 @@
+STATUARY HALL
+200|Huey P. Long|Louisiana
+400|Father Junipero Serra|California
+600|Ethan Allen|Vermont
+800|Robert La Follette|Wisconsin
+1000|William Jennings Bryan|Nebraska

@@ -1,0 +1,6 @@
+FURNITURE
+200|It's what a convertible sofa converts into|a bed
+400|Equipped with a mirror & several small drawers that hold makeup, one for men was called the Beau Brummel|vanity (dressing table)
+600|For furniture with French names, it precedes Volante, Percee & Longue|chaise
+800|British rococo furniture is also called this "style", after a famous furniture maker of the time|Chippendale
+1000|Mies van der Rohe said it's almost harder to design a good one of these than a good building|a chair

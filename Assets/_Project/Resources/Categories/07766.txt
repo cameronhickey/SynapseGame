@@ -1,0 +1,6 @@
+YOU EITHER KNOW IT OR YOU DON'T
+200|The diameter of a circle times pi|circumference
+400|\"The Grey" wizard of Middle-earth|Gandalf
+600|2 words that commonly follow "knit one\"|purl two
+800|Country whose oldest university is in Lahore|Pakistan
+1000|Ty Cobb's middle name|(Tyrus) Raymond (Cobb)

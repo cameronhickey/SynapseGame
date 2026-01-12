@@ -1,0 +1,6 @@
+HYDROLOGY
+200|This term for the surface flow of excess rainwater sounds like an additional contest after a tie|runoff
+400|A structure such as the Pont du Gard, designed to transport water from a remote source, usually by gravity|aqueduct
+600|The gradual movement of water through porous openings in rock or soil, it's also a way to make coffee|percolation
+800|Effluent is wastewater that flows from one of these facilities, like NYC's Bowery Bay|a water treatment facility
+1000|In the Americas this hydrological line stretches from Cape Prince of Wales in Alaska down to Southern Patagonia|the Continental Divide

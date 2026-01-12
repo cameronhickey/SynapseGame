@@ -1,0 +1,6 @@
+FROM THEIR INAUGURAL ADDRESSES
+200|\"In your hands, my dissatisfied countrymen, and not in mine, is the momentous issue of civil war\"|Lincoln
+400|\"Government is not the solution to our problem; government is the problem\"|Reagan
+600|From his second inaugural address: "I see one-third of a nation ill-housed, ill-clad, ill-nourished\"|Franklin Roosevelt
+800|\"My fellow citizens: the world and we have passed the midway point of a century of continuing challenge\"|Eisenhower
+1000|\"I have just taken the oath of office on the Bible my mother gave me just a few years ago\"|(Jimmy) Carter

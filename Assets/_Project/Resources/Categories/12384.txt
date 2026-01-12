@@ -1,0 +1,6 @@
+A LINE
+200|This 18th c. line & its extensions westward became the boundary between Northern & Southern states|the Mason-Dixon line
+400|The Yamanote Line, this city's busiest train line, carries more than 3.5 million people a day|Tokyo
+600|In the 1930s Germany built fortifications called the Siegfried Line on the west side of this river|Rhine
+800|The Curzon Line, proposed in 1919, became essentially the boundary between Poland & this country in 1945|Russia (the Soviet Union)
+1000|In 1949 Israel & Jordan created the Green Line between them, determining the boundary of this troubled area|the West Bank

@@ -1,0 +1,6 @@
+TRANSFORMED FOOD
+200|Dry a grape & it becomes this|a raisin
+400|A prune is this fruit before it becomes shriveled|a plum
+600|A cucumber that's put in a solution called brine becomes this|a pickle
+800|Warm some milk & add specialized bacteria, separate out the curd clumps, then shape & age the curd to make this|cheese
+1000|Take a legume whose pod develops underground, roast it, then grind it into a paste to make this|peanut butter

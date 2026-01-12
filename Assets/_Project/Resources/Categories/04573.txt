@@ -1,0 +1,6 @@
+THREE OF A KIND
+200|The butcher, the baker & the candlestick-maker|\"Three Men in a Tub\"
+400|Adam, Hoss, Little Joe|Sons on Bonanza
+600|Dredd, Judy, Mike|judges
+800|Shintoism, Zoroastrianism, Jainism|religions
+1000|The Seychelles, a literary "Gulag", the Aleutians|archipelagoes

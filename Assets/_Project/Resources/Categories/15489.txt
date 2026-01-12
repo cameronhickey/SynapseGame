@@ -1,0 +1,6 @@
+GLUTEN-FREE FOODS
+200|There's an octet of veggies in this alphanumeric brand's vegetable juice, but no gluten|V-8
+400|This classic canned meat from Hormel that debuted in 1937 has no gluten|Spam
+600|In the U.S., this soda is gluten free, as its Vanilla Zero version|Coca-Cola
+800|Don't despair: gluten-free candies from Nestle include the Butterfinger bar & these chocolate-covered peanuts|Goobers
+1000|This yogurt brand, known in France as "The Little Flower" has many gluten-free flavors, including strawberry kiwi|Yoplait

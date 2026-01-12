@@ -1,0 +1,6 @@
+\"DROP" IT, BUSTER!
+200|Refer to other people in conversation in order to impress those you're talking to|name-drop
+400|Firm candy made of gelatin & covered with sugar|a gumdrop
+600|Painted cloth hanging at the rear of a stage|backdrop
+800|Perhaps a slippery sombrero inspired this phrase meaning "on a moment's notice\"|at the drop of a hat
+1000|It's an old medical term for edema, the abnormal swelling of body tissue|dropsy

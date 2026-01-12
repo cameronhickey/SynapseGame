@@ -1,0 +1,6 @@
+STATE CAPITALS BY COUNTY
+200|Fulton County|Atlanta
+400|Maricopa County|Phoenix
+600|Anne Arundel County|Annapolis
+800|Laramie County|Cheyenne
+1000|Kennebec County|Augusta

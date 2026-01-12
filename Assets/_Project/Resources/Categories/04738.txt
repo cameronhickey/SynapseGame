@@ -1,0 +1,6 @@
+LET'S PUT ON A PLAY
+200|A book is the example of the "hand" type of these; a bookcase is an example of the "set" type|Props
+400|\"Edible" name for a common type of water-soluble stage makeup|Pancake
+600|From Greek for "entrance to a tent", it's the arch that separates the stage from the auditorium|the proscenium
+800|Founded in 1913, this stage actors' union represents about 40,000 members in the U.S.|Equity
+1000|Your cousin might know a friend of the roommate of a nephew of the lawyer of John Guare, who wrote this 1990 play|Six Degrees of Separation

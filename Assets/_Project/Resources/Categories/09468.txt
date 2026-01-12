@@ -1,0 +1,6 @@
+GOOD CONDUCTORS
+200|Copper's conductivity & cost make it the most common metal for the rod that guides this to the ground|lightning
+400|Not as good a conductor as copper but a lot cheaper, it's the default metal for U.S. high-voltage power lines|aluminum
+600|This metal is the gold standard of electrical conductivity among metals|silver
+800|This form of carbon used in fishing rods is a good conductor—so cast with care around power lines|graphite
+1000|Water's conductivity comes from these particles, like positive sodium ones & negative chlorine ones|ions

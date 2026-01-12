@@ -1,0 +1,6 @@
+CRAFTS
+200|Morocco is one type of this material used in bookbinding|Leather
+400|This material used for making baskets comes from the core of the rattan palm|cane
+600|Tesserae is the term for the bits of colored glass or marble used in this type of artwork|mosaic
+800|The name of this craft comes from 2 Japanese words meaning "to fold paper\"|origami
+1000|It's the art of cutting & polishing gems, or the person who does it|lapidary

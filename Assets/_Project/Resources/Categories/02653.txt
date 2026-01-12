@@ -1,0 +1,6 @@
+REDUNDANCY & REPETITION
+200|The phrase "ATM machine" is redundant because ATM stands for this|Automated/Automatic Teller Machine
+400|The name of this site includes the Spanish word for tar, so L.A. tourists are visiting the the tar tar pits|La Brea Tar Pits
+600|A Toronto institution is somewhat redundantly named this "for Sick Children\"|Hospital
+800|It's redundant to refer to this "system of measurement", since the word means "relating to measurement\"|metric
+1000|This common legal order to terminate an activity includes 2 synonyms for "stop\"|cease & desist

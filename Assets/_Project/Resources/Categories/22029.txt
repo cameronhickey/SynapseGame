@@ -1,0 +1,6 @@
+SAY YES TO THE CHESS
+200|In standard western chess sets, this piece is topped with a cross|a king
+400|Chess games are typically divided into the opening, the middle game & this terminal phase|the endgame
+600|It's the number of white squares on a standard chessboard|32
+800|The queen's gambit is marked by white's second-move offer to sacrifice one of these, temporarily|a pawn
+1000|The "hypermodern" Reti opening begins with a move of this piece|the white knight

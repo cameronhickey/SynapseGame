@@ -1,0 +1,6 @@
+COMMON COMPUTER ABBREV.
+200|Windows is one: OS|operating system
+400|Hello: IM|instant message
+600|It's the brains of the operation: CPU|central processing unit
+800|It's a measure of speed: BPS|bytes per second
+1000|A regional computer linker: LAN|local area network

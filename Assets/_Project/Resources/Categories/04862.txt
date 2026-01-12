@@ -1,0 +1,6 @@
+GUINNESS
+200|The company began in 1759 when Arthur Guinness established a brewery in this capital city|Dublin
+400|At the pub, ask for Guinness in this standard measure, not the equivalent .568 liters|Pint
+600|A black velvet is equal parts Guinness & this bubbly beverage|Champagne
+800|In the '60s Guinness began marketing this lager named for the musical instrument on its label|Harp
+1000|This dark, hoppy type of beer has been the classic Guinness product for more than 2 centuries|Stout

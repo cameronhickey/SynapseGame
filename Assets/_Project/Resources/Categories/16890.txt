@@ -1,0 +1,6 @@
+WORDS IN WORLD CAPITALS
+200|Poultry in Greece|hens
+400|A prohibition in Thailand|ban
+600|A container in Australia|can
+800|A journey in Libya|trip
+1000|A bad kid in Slovakia|brat

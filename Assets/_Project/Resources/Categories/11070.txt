@@ -1,0 +1,6 @@
+BEAN
+200|This bean that shares the name of a South American capital is a great source of protein|lima
+400|This bean takes its name from the internal organ whose shape it resembles|kidney
+600|In the Aztec empire, you had some buying power with a handful of these beans used to make chocolate|cocoa bean
+800|A moth larva is responsible for the activity of this bean from south of the border|Mexican jumping bean
+1000|They're also called broad beans, & we've heard they go well with a nice chianti|fava bean

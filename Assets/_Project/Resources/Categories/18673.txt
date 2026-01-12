@@ -1,0 +1,6 @@
+HEALTH-RELATED ORGANIZATIONS
+200|Go Red for Women is a campaign created by this organization to encourage women to take charge of their cardio health|the American Heart Association
+400|It was named for coins sent to the White House during FDR's presidency for an annual fundraising drive|the March of Dimes
+600|Helen Keller bequeathed more than 80,000 items to the AFB, the American Foundation for them|the blind
+800|The American Lung Association was founded in 1904 to combat this infectious disease|tuberculosis
+1000|This organization, the NKF for short, asks that you consider being a living donor|the National Kidney Foundation

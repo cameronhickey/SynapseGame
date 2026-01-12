@@ -1,0 +1,6 @@
+CHESS TERMS
+200|A person used by others as part of a scheme|a pawn
+400|The first night of a play at a theater|an opening
+600|A gregarious crow of Europe with black plumage|a rook
+800|A title in kung fu, or a famous nickname in '70s hip-hop|grandmaster
+1000|Genesis 31 says, "Then Jacob offered" this "upon the mount\"|a sacrifice

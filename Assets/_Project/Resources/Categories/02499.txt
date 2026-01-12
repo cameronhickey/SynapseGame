@@ -1,0 +1,6 @@
+FROM THE PORTUGUESE
+200|The Portuguese once used this name for a wild ass; now it applies to a striped equine|Zebra
+400|Natal, South Africa was named for the Portuguese word for this holiday|Christmas
+600|From the Portuguese for white, it describes a person who lacks normal pigmentation|Albino
+800|Meaning "new trend", this Brazilian music style & dance of the 1960s combined samba & cool jazz|Bossa Nova
+1000|From a word meaning "small vessel", it was a small sailing ship once used by the Portuguese & Spanish|Caravel

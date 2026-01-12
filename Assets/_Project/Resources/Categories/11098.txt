@@ -1,0 +1,6 @@
+LITERARY TITLES
+200|1957 novel about a strong female executive|Atlas Shrugged
+400|A repetitive Bard title|Measure for Measure
+600|Absurdist novel about a bombardier|Catch-22
+800|Prose from Papa|A Farewell to Arms
+1000|A George Eliot classic|Mill on the Floss

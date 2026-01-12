@@ -1,0 +1,6 @@
+BATTERY LIFE
+200|In 2004 Sony produced the first silver oxide battery that was free of this element, & it's going down in thermometer use, too|mercury
+400|Also known as penlight, this 2-letter type of battery has the magical ability to fail in my TV remote after about 3 weeks|AA
+600|Ni-Cad is short for these 2 elements in a rechargeable battery invented back in 1899|nickel & cadmium
+800|In 1956 Eveready made the first of this type of battery used in smoke detectors|a 9-volt
+1000|A Nobel Prize went to 3 scientists for the invention of this hyphenated battery that "enabled the mobile revolution\"|lithium-ion

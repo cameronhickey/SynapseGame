@@ -1,0 +1,6 @@
+AUSTRALIAN STATES
+200|You'll find Newcastle in this "New" state|New South Wales
+400|Port Phillip got a sex change & became her|Victoria
+600|Queensland has this nickname, like Florida|\"The Sunshine State\"
+800|A state & a sea are both named for this man|Abel Tasman
+1000|Northern Territory is directly above this state|South Australia

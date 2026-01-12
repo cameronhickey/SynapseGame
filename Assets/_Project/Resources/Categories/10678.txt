@@ -1,0 +1,6 @@
+FIRST BORN
+200|Shakespeare, Milton, Tennyson|Shakespeare
+400|Giuseppe Verdi, Wolfgang Mozart, Nikolai Rimsky-Korsakov|Wolfgang Mozart
+600|John F. Kennedy, Gerald Ford, George H.W. Bush|Gerald Ford
+800|Pablo Picasso, Salvador Dali, Grandma Moses|Grandma Moses
+1000|Marco Polo, Henry the Navigator, Christopher Columbus|Marco Polo

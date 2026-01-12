@@ -1,0 +1,6 @@
+IN MY CABINET
+200|Earl Butz, John Mitchell, Henry Kissinger|Richard Nixon
+400|Abraham Ribicoff, Dean Rusk, Robert McNamara|John F. Kennedy
+600|Salmon Chase, Edwin Stanton, William Seward|Abraham Lincoln
+800|Raymond Donovan, James Watt, Caspar Weinberger|Ronald Reagan
+1000|Joseph Califano Jr., Griffin Bell, Cyrus Vance|Jimmy Carter

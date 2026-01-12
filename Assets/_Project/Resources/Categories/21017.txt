@@ -1,0 +1,6 @@
+STATE CAPITAL COLLEGES & UNIVERSITIES
+200|Grand Canyon University|Phoenix
+400|Lincoln Land Community College|Springfield
+600|Thomas Edison State College|Trenton
+800|Oglethorpe University|Atlanta
+1000|Willamette University|Salem

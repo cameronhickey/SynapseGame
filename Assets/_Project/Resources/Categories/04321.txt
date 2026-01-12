@@ -1,0 +1,6 @@
+DESCARTES
+200|Descartes believed "Cogito ergo sum", "I" do this, "therefore I am\"|I think
+400|Descartes devised the analytic or coordinate type of this|geometry
+600|Like Locke & Voltaire, Descartes was a major figure of the era known as the "Age of " this|Reason
+800|In 1649 he accepted an invitation from Queen Christina to visit this country; he died there in 1650|Sweden
+1000|Descartes was one of these, not for fighting rivals, but for saying the world had 2 basic substances|a dualist

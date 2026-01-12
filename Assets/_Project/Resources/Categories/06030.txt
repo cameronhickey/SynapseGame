@@ -1,0 +1,6 @@
+GOVERNORS AT STATEHOOD
+200|John Hancock|Massachusetts
+400|Edmund Randolph|Virginia
+600|George Clinton|New York
+800|Peter Burnett (1850)|California
+1000|Thomas Pinckney|South Carolina

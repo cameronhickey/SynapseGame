@@ -1,0 +1,6 @@
+REALM OF THE SENSES
+200|Sounds can cause discomfort above about 100 of these units|decibels
+400|The lingual papillae are the main locale for this sense|taste
+600|In the brain, the smell of perfume goes to this "bulb\"|the olfactory bulb
+800|If yours is "absolute", you know your ABCs (& DEFGs) by ear|pitch
+1000|Planning prudently, or hyperopic|farsighted

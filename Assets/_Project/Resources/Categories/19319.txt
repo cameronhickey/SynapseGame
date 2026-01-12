@@ -1,0 +1,6 @@
+SHORT "E\"
+200|It's the symbol over the one on your computer keyboard|an exclamation point
+400|This type of "calorie" has no real nutritional value|an empty calorie
+600|Fit to be chosen, like the bachelors on that show|eligible
+800|Storywise, TV dramas are usually dubbed either "serial" or this kind|episodic
+1000|From Latin for "to instruct", it means "learned" or "scholarly\"|erudite

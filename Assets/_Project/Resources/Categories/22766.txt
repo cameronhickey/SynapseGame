@@ -1,0 +1,6 @@
+MY "SHOT\"
+200|The front passenger seat—did you call it?|shotgun
+400|Unaided, your voice can be heard from this distance|earshot
+600|A clever last word as you are leaving|a parting shot
+800|Also the title of a 1964 Pink Panther film, this phrase refers to an uneducated guess|A Shot in the Dark
+1000|Also called a gravity assist, this maneuver uses the gravity of a celestial body to accelerate a spacecraft|a slingshot

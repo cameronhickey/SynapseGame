@@ -1,0 +1,6 @@
+DOLL COLLECTING
+200|2-word term for a jointed, posable male or female character|an action figure
+400|To be called this term, a doll must have been made before 1930|an antique
+600|Name of the line from Funko with dolls from Belle to Aquaman, or the kind of culture it represents|Pop!
+800|For a collectible doll, "NM" stands for this almost perfect condition|near mint
+1000|19th c. Kammer & Reinhardt dolls often have wood bodies but heads of bisque, a type of this material|porcelain

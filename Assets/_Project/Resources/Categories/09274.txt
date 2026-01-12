@@ -1,0 +1,6 @@
+BEWITCHED
+200|In a Grimm fairy tale, a witch entices this brother & sister into a gingerbread house|Hansel & Gretel
+400|It's the town where 20 people were executed for being witches in 1692|Salem
+600|As a witch's familiar, Pywacket is one of these animals in the play "Bell, Book and Candle\"|cat
+800|This term for a group of witches is from an Anglo-Norman word meaning "assembly\"|coven
+1000|In this Hawthorne tale, a "young" man discovers his neighbors practicing witchcraft|Young Goodman Brown

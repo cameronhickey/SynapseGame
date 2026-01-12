@@ -1,0 +1,6 @@
+YOU'RE UNDER A "REST\"
+200|Eastern European capital city of more than 2.2 million|Bucharest
+400|Any mountain's summit|crest
+600|A braced framework for carrying a railroad over a chasm|a trestle
+800|Quickly! (to an Italian)|Presto
+1000|The son of Agamemnon, he avenged his father's death by killing his mother Clytemnestra|Orestes

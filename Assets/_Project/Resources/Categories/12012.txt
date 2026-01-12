@@ -1,0 +1,6 @@
+COURT-LY
+200|In 1867 Congress temporarily reduced the number of justices to 7 so this pres. couldn't appoint new ones|Andrew Johnson
+400|While working for the ACLU, this jurist won 5 of the 6 landmark cases she argued before the Supreme Court|Ginsburg
+600|As a Supreme Court law clerk, this future Chief Justice wrote a 1952 memo arguing the "separate but equal" position|Rehnquist
+800|Under this Chief Justice, the court found in Griswold v. Connecticut a right to privacy in the penumbra of the Bill of Rights|Earl Warren
+1000|This Chief Justice affirmed the government to be more than a weak confederation in McCulloch v. Maryland|(John) Marshall

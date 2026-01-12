@@ -1,0 +1,6 @@
+SPORTS NET
+200|In tournament play, the birdie used in this sport must be made of duck or goose feathers|badminton
+400|Karch Kiraly is the only person to win Olympic gold medals in both the indoor & beach versions of this sport|volleyball
+600|This sport's official rules state that the top of its net must be 15.25 cm (about 6 inches) above the playing surface|table tennis
+800|This sport originated in the lakes & rivers of mid-19th century England & used an inflated rubber ball called a pulu|water polo
+1000|The nets used in this sport are 18 inches in diameter with a sleeve 15-18 inches long|basketball

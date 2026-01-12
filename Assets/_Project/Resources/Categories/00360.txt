@@ -1,0 +1,6 @@
+PRISONS
+200|The chief administrator of a prison|warden
+400|Term for prison from word meaning "sorrow for wrongdoing\"|penitentiary
+600|It hasn't been a prison or even a building since 1789, but its "Place" is still a landmark|the Bastille
+800|Like his character Raskolnikov, he had a stay in a prison in Siberia|Fyodor Dostoevsky
+1000|This Lord Mayor of London, known for his cat, helped rebuild Newgate Prison, later home to William Penn|Dick Whittington

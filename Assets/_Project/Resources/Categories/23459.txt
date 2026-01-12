@@ -1,0 +1,6 @@
+CELLO
+200|This cellist founded a music collective called the Silkroad Ensemble, with whom he plays cello|Yo-Yo Ma
+400|When you think of a cello solo, you're probably thinking of this Baroque composer's cello prelude from around 1720|Bach
+600|The uncrowned king of the cello, David Popper has a work titled this, what you'd sing under the window of your beloved|a "Serenade\"
+800|An excellent piece for the cello is "The Swan", from this work by Camille Saint-Saens|The Carnival of the Animals
+1000|Portrayed on film in "Hilary & Jackie", the life of this British cellist was cut short by MS at age 42|Jacqueline du Pré

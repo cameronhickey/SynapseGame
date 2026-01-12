@@ -1,0 +1,6 @@
+ORDINAL MOVIES
+200|Richard Dreyfuss meets aliens in this 1977 classic|Close Encounters of the Third Kind
+400|The saga of Vietnam vet John Rambo began with this 1982 film|First Blood
+600|Tom Cruise comes home from Vietnam in a wheelchair & becomes an anti-war activist in this 1989 film|Born on the Fourth of July
+800|Ad exec Jack Lemmon is fired & has a nervous breakdown in this film based on Neil Simon's play|The Prisoner of Second Avenue
+1000|Beau Bridges was the king & Lloyd Bridges was Aramis in this late '70s remake of "The Man in the Iron Mask\"|The Fifth Musketeer

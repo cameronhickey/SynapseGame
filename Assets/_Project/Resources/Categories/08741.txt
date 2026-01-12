@@ -1,0 +1,6 @@
+ARNOLD MOVIES
+200|1984: Robot Arnold tries to change the future|The Terminator
+400|1990: Policeman Arnold goes undercover at an Oregon school|Kindergarten Cop
+600|1994: Secret agent Arnold fibs to his wife about his day job|True Lies
+800|1987: Army man Arnold fights an extraterrestrial|Predator
+1000|1999: Ex-cop Arnold fights Satan's efforts to find a bride|End of Days

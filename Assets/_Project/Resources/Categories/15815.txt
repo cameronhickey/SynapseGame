@@ -1,0 +1,6 @@
+\"B" WHERE?
+200|This city is about 80 miles from New Orleans|Baton Rouge
+400|We've come to Western Europe to see this country|Belgium
+600|Several national capitals are found along the Danube, which flows for 1770 miles before emptying into this body of water|the Black Sea
+800|This densely-populated republic borders India|Bangladesh
+1000|This country links Niger to the Gulf of Guinea|Benin

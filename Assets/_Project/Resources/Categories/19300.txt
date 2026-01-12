@@ -1,0 +1,6 @@
+\"E-T-C\"
+200|A flower arrangement or other display placed at the middle of a table|a centerpiece
+400|The process of making a wild animal tame|domestication
+600|Perceived path of the planets around the sun according to Kepler|elliptical
+800|(Kelly of the Clue Crew shows an anatomical animation on the monitor.) This adjective refers to the five bones of the hand between the wrist & the fingers|metacarpal
+1000|A type of drywall or plasterboard made of gypsum layered between heavy paper|Sheetrock

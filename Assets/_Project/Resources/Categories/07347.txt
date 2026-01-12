@@ -1,0 +1,6 @@
+FACE TALK
+200|The rim or edge of a crater, cup or golf hole|lip
+400|If you don't finish all the assignments due in a course, you might see this letter on your transcript|I (incomplete)
+600|Name of the dynasty that ruled China from 265 to 420 A.D.|Chin
+800|It precedes "beat" in a word meaning to bully or intimidate|brow
+1000|The ancient city of Paestum has a well-preserved one dedicated to Poseidon|temple

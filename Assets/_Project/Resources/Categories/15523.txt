@@ -1,0 +1,6 @@
+BIRD BOOKS
+200|This book says, "I thought Jem and I would get grown but there wasn't much else left for us to learn, except possibly algebra\"|To Kill a Mockingbird
+400|Larry McMurtry won a Pulitzer for this Western|Lonesome Dove
+600|A 1993 raid in Mogadishu that left 18 American soldiers dead is chronicled in this book by journalist Mark Bowden|Black Hawk Down
+800|Maya Angelou dedicated this book to "all the strong black birds of promise who defy the odds... and sing their songs\"|I Know Why the Caged Bird Sings
+1000|Some took flight with this 1970 allegory by Richard Bach; others felt it was bird-brained|Jonathan Livingston Seagull

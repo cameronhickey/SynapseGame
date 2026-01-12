@@ -1,0 +1,6 @@
+SILENT G
+200|To formally quit or give up one's job or office|Resign
+400|A gold coin once used in Great Britain, or the chief of state in a monarchy|Sovereign
+600|If you have a tumor, you want it to be this; it also means pleasant|benign
+800|This creature of European folklore is often represented as a misshapen dwarf with a long beard|gnome
+1000|You may sell goods "on" this, also a type of store selling secondhand clothes|consignment

@@ -1,0 +1,6 @@
+\"SAND\"
+200|Where children play or cats do their business|a sandbox
+400|A man might find this in his toolbox or, around 5 p.m., on his face|sandpaper
+600|103|a thousand
+800|Any of various thin circular echinoderms of the order Clypeasteroidea|sand dollars
+1000|Winston Churchill attended the Royal Military Academy here|Sandhurst

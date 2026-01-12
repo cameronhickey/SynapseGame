@@ -1,0 +1,6 @@
+TRANSLATED CITIES
+200|The Meadows, Nevada|Las Vegas
+400|Red Stick, Louisiana|Baton Rouge
+600|River of January, Brazil|Rio de Janeiro
+800|Eat, Germany|Essen
+1000|Of the Monks, Iowa|Des Moines

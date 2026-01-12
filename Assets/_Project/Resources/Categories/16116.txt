@@ -1,0 +1,6 @@
+WHAT'S THE SPORT?
+200|Touchback, forward progress|football
+400|Chip out, Nassau|golf
+600|Chukker, tail shot|polo
+800|Backcheck, delayed whistle|hockey
+1000|Memphis attack, high post|basketball

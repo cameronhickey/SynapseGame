@@ -1,0 +1,6 @@
+MUSICAL FACTS
+200|An interval of 8 notes|an octave
+400|Most instruments played with a bow have this many strings|4
+600|The treble clef is also known by this letter|G
+800|A dot to the right of a note does this to its time value|add half the value again (increase by half)
+1000|From Latin for "measuring", this shifting of keys has been a Barry Manilow trademark|modulation

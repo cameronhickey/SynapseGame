@@ -1,0 +1,6 @@
+FILM EPICS
+200|Warren Beatty portrayed John Reed, author of "Ten Days That Shook the World" in this 1981 epic|\"Reds\"
+400|Mel Gibson charges into battle as Scottish avenger William Wallace in this 1995 epic|Braveheart
+600|Cecil B. De Mille directed this biblical epic twice, once as a silent, the other in 1956 as a talkie|\"The Ten Commandments\"
+800|James Stewart, Debbie Reynolds, & Henry Fonda were among the stars of this 1962 epic about a pioneer family|\"How the West Was Won\"
+1000|In a 1961 film, Charlton Heston portrayed this legendary Spanish hero|El Cid

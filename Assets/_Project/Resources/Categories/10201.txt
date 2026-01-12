@@ -1,0 +1,6 @@
+COFFEE TIME
+200|The name of this drink is from Italian for "coffee with milk\"|caffe latte
+400|This company is named for a character in "Moby-Dick\"|Starbucks
+600|The 2 main coffee species are arabica and this hearty one that is grown mostly in Africa & thrives at lower altitudes|robusta
+800|Found in coffee, it's C8H10N4O2|caffeine
+1000|T.S. Eliot wrote, "I have measured out my life with" these|coffee spoons

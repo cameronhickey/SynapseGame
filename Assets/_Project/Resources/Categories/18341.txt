@@ -1,0 +1,6 @@
+DISNEY'S 7 DWARFS
+200|Timidly reticent|Bashful
+400|Nasally irritated|Sneezy
+600|Byname of sometime dentist John Henry Holliday|Doc
+800|Cantankerously sullen|Grumpy
+1000|Jovially exultant|Happy

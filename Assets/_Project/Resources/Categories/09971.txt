@@ -1,0 +1,6 @@
+THE "FILE" FILE
+200|Shapely slang term for a wastebasket|a circular file
+400|To make foul, dirty or unclean|to defile
+600|3-word term for the members of a group apart from its leaders or officers|rank and file
+800|When exhibiting a deliberately inconspicuous or anonymous manner, you're "keeping" this|a low profile
+1000|A device for holding bills & memos having a projecting metal spike on which to stick papers|a spindle file

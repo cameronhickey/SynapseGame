@@ -1,0 +1,6 @@
+LARGE EQUIPMENT
+200|A hoisting machine, or a somewhat similar-looking wading bird|a crane
+400|It's the most popular type of Tonka truck|a dump truck
+600|For smooth travel, ballast tampers & ballast regulators keep the gravel at the right level among these|railroad tracks
+800|To a farmer, it's a reaper that gathers crops; in forestry, it's a machine that turns a tree into a pile of logs|a harvester
+1000|A Middle English word for "pulley" gave us this term for a hoisting machine with a rope around a drum|a winch

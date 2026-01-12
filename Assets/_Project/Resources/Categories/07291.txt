@@ -1,0 +1,6 @@
+PORTS
+200|Much of Australia's foreign trade is handled by this city's Port Jackson or neighboring Botany Bay|Sydney
+400|This state has 5 of the top 15 U.S. ports, including Plaquemines & Lake Charles|Louisiana
+600|Until Haiti became independent, this "Port" served as the capital of the colony of Saint-Domingue from 1770 to 1804|Port-au-Prince
+800|It's the only one of South Africa's 3 capitals that is also a seaport|Cape Town
+1000|This Egyptian port on the Mediterranean was founded in 1859 when the building of the Suez Canal began|Port Said

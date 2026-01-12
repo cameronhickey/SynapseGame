@@ -1,0 +1,6 @@
+& FINALLY
+200|You'll find the French word for "day" in this word that signifies the end of a court session|adjournment
+400|The C&D in a C&D order stand for these 2 words, though either one would make the point|cease & desist
+600|It can refer to the preparatory motion of a baseball pitcher or the final action of any event|the wind-up
+800|\"Yours faithfully" at the end of a letter is an example of a "complimentary" one of these|close
+1000|There's nothing lower case about this 2-word term for the death penalty|capital punishment

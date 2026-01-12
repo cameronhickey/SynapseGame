@@ -1,0 +1,6 @@
+COLORS
+200|Conjunctivitis|pink eye
+400|Kind of oyster, or a Siamese cat|blue point
+600|A shade of brown used to be made from these preserved bodies of ancient Egyptians|mummies
+800|What the Hardy-Rand-Rittler test tests|(red-green) color-blindness
+1000|His calculations led to discovery of the spectrum|Sir Isaac Newton

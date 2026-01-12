@@ -1,0 +1,6 @@
+NATIONAL ANIMALS
+200|The name of this creature is a nickname for a citizen of New Zealand|a kiwi
+400|This national animal of Spain doesn't get much love at the corrida|a bull
+600|Canada's national animals are a horse & this one whose pelt played an important part in its history|a beaver
+800|Bolivia uses this animal for wool, to carry loads &, going back to 1827, on coins|a llama
+1000|There are no photographs, only illustrations of this symbol of Mauritius|a dodo (bird)

@@ -1,0 +1,6 @@
+HIPPOCRATES' MEDICAL GUIDE
+200|According to Hippocrates, it's the most healthy & least mortal of the 4 seasons|spring
+400|Hippocrates said sneezing cures these; medical science today advises that you breathe in a bag|Hiccups
+600|A restricted one of these is bad, so don't eat just grapefruit or rutabagas|Diet
+800|Good old Hippocrates believed that a woman cannot become this, able to use both hands equally|Ambidextrous
+1000|Hippocrates taught that cold sweats occuring with an acute one of these indicates death|Fever

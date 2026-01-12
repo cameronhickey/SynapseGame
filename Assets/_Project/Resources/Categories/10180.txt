@@ -1,0 +1,6 @@
+ABBOTT & COSTELLO'S BASEBALL TEAM
+200|He's the first baseman|Who
+400|It's understood that he's the third baseman|I Don't Know
+600|Don't question me, this is the left fielder|Why
+800|I'm sure you'll tell me this pitcher's name soon|Tomorrow
+1000|Tell me that the name of this shortstop matters to you|I Don't Care

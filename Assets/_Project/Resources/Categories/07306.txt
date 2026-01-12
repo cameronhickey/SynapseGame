@@ -1,0 +1,6 @@
+AUTO RACING
+200|Designating you as the winner, it's the flag each driver wants to see first at the end of an auto race|checkered flag
+400|It's the "aquatic" term for the rapid side to side movement a car's rear end can make while racing|fishing
+600|As the lead qualifier for an auto racing event, you'll occupy this "position" in the front row at the start of the race|pole position
+800|This type of auto racing start bears the name of a French town famous for a 24-hour race|Le Mans
+1000|Also a term for architectural drawing, it's the fuel-saving practice of one car closely following another|drafting

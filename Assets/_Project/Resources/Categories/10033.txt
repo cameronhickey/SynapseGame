@@ -1,0 +1,6 @@
+NAME THAT AUTOCRAT
+200|Spain 1939-1975|Franco
+400|Argentina 1946-1955|(Juan) Perón
+600|Norway 1942-1945|Vidkun Quisling
+800|Nicaragua 1967-1972 & 1974-1979|Somoza
+1000|The Soviet Union 1964-1982|Brezhnev

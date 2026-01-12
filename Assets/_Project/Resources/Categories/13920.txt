@@ -1,0 +1,6 @@
+NUCLEAR WEAPONS 101
+200|The only wartime use of nuclear weapons occurred in this year|1945
+400|The Manhattan project to develop nuclear weapons first tested them at Alamogordo in this state|New Mexico
+600|You might seek "shelter" from this, radioactive particles that descend through the atmosphere|fallout
+800|(Kelly of the Clue Crew shows an atomic animation on the monitor.) A neutron is used to split the nucleus of an atom, releasing energy in this type of nuclear bomb process|fission
+1000|Abbreviated B.R., it's the distance from the point of impact that will be affected when a nuclear explosion occurs|blast radius

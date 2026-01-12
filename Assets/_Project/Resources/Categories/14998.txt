@@ -1,0 +1,6 @@
+SPECIAL "T"s
+200|Patron silver is a premium type of this potent potable|tequila
+400|Hershey's Skor bar is this type of candy enrobed in chocolate|toffee
+600|These Spanish appetizers run the gamut from simple items like olives to more elaborate things like cold omelets|tapas
+800|The name of this Italian dessert means "carry me up" & many assume the unspoken continuation must be "to heaven\"|tiramisu
+1000|The Minneola is a common variety of this hybrid citrus fruit|a tangelo

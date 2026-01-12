@@ -1,0 +1,6 @@
+HAIR DO
+200|The king of beasts has one around its neck|a mane
+400|It can be a single hair, or a string of pearls|a strand
+600|\"Fruity" 2-word term for fine hair that's growing for the first time|peach fuzz
+800|This hairstyle named for another native people was popular among the Ottawa, who were known as the "raised hair\"|a mohawk
+1000|French gives us the name of this "chi"-chi hairstyle, a large coil of hair worn at the nape of the neck|a chignon

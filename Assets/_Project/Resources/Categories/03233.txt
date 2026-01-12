@@ -1,0 +1,6 @@
+MAN IN SPACE
+200|Country which had the 1st woman to walk in space|Soviet Union
+400|(Sofia of the Clue Crew reports from the Johnson Space Center in Houston.) The Apollo 17 command module jettisoned this on Dec 15, 1972; hey, they were done with it|lunar module
+600|Apollo 11 astronauts Armstrong, Collins & Aldrin each also flew in this program|Gemini
+800|His doctoral thesis was on the rendezvous of piloted spacecraft & he had his own rendezvous with Armstrong|Buzz Aldrin
+1000|In February, 1984, the Soviets reactivated this space station|Salyut 7

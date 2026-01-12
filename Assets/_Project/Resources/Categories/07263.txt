@@ -1,0 +1,6 @@
+PICK YOUR POISON
+200|First Alert's CO600 detects it: ammonia, carbon monoxide, radon|carbon monoxide
+400|The death cup & destroying angels are poisonous ones of these|mushrooms
+600|My philosophy is avoid this herb, Conium maculatum: belladonna, hemlock, wolfsbane|hemlock
+800|Fatal to Socrates, this foul-smelling plant now grows in the U.S. & can be seen along roadsides|hemlock
+1000|Used to murder ex-KGB man Alexander Litvinenko: plutonium, polonium, potassium|polonium

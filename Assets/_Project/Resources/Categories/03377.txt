@@ -1,0 +1,6 @@
+CITY FOLK
+200|Hamburgers|residents of Hamburg
+400|Palermitans|Palermo residents
+600|Madrilenos|residents of Madrid
+800|Damascenes|Damascus residents
+1000|Varsovians|residents of Warsaw

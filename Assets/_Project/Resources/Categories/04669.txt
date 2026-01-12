@@ -1,0 +1,6 @@
+NEW DEAL ALPHABET
+200|TVA|Tennessee Valley Authority
+400|FHA|Federal Housing Authority (or Federal Housing Administration)
+600|SEC|Securities and Exchange Commission
+800|NLRB|National Labor Relations Board
+1000|CCC|Civilian Conservation Corps

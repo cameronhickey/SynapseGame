@@ -1,0 +1,6 @@
+FRENCH ANATOMY QUIZ
+200|Le nez|the nose
+400|Le pied|a foot
+600|Les dents|teeth
+800|La langue|the tongue
+1000|Le foie|liver

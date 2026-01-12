@@ -1,0 +1,6 @@
+NAME THAT COUNTRY
+200|Cooked sheep's head is eaten there; it gets really cold; Reykjavik is the capital|Iceland
+400|It produces a lot of steel; it's only 998 square miles in area; it's the "lux" of the Benelux countries|Luxembourg
+600|It's in north Africa; it's hot & dry in the summer; its largest city is Tunis|Tunisia
+800|Soccer is really popular there; almost everyone speaks Spanish; the capital building is in Caracas|Venezuela
+1000|Sisal is grown there; its monetary unit is called a gourde; voodoo is really big there|Haiti

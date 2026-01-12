@@ -1,0 +1,6 @@
+SECOND-LARGEST U.S. CITIES
+200|The Penguins, the Pirates & the Steelers represent this city, Pennsylvania's second-largest|Pittsburgh
+400|This second-largest city of Minnesota is the twin of the largest|St. Paul
+600|The "Oil Capital of the World", it's also Oklahoma's second-largest city|Tulsa
+800|This city is home to the University of Oregon|Eugene
+1000|The natural features that gave this Montana city its name now provide hydroelectric power|Great Falls

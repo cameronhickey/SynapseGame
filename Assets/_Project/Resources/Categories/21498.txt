@@ -1,0 +1,6 @@
+FROM THE "PEN" OF WEBSTER'S THIRD
+200|\"Next to the last" (this "chapter of a book")|penultimate
+400|\"A dwelling built on a roof", fancy or not|a penthouse
+600|Type of "scale of five tones in which the octave is reached at the sixth tone\"|pentatonic
+800|\"Prudent only in small matters\"|pennywise
+1000|\"The shaded region surrounding the dark central portion of a sunspot\"|penumbra

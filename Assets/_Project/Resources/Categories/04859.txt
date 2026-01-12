@@ -1,0 +1,6 @@
+THE PERIODIC TABLE
+200|It's the lightest of the noble gases|Helium
+400|Element No. 61, it's named for a mythical stealer of fire|Prometheum
+600|Don't take this the wrong way: it's the most used & cheapest metal|iron
+800|Decompression sickness, aka the bends, is characterized by the formation of bubbles of this gas in the blood|nitrogen
+1000|The last element in the table that occurs widely in nature, it was named for a planet discovered 8 years before|uranium

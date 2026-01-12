@@ -1,0 +1,6 @@
+TITLE FILM ANIMALS
+200|1974: "Benji\"|a dog
+400|1949: "Francis\"|a mule
+600|1943: "My Friend Flicka\"|a horse
+800|1977: Bernard & Bianca, "The Rescuers\"|mice
+1000|1978: "Matilda\"|a kangaroo

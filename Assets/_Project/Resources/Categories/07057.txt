@@ -1,0 +1,6 @@
+MEDICAL TALK
+200|In cases of meningitis, Kernig's sign is hamstring pain when trying to extend this joint|the knee
+400|Don't worry if the doc says you have an aortic sinus of Valsalva; it's a normal part of this organ|the heart
+600|If your doctor says your condition is idiopathic or cryptogenic, he's telling you this about its cause|they don't know the cause
+800|Laryngoxerosis is this problem in the throat, sometimes medicated at a nearby bar|a dry throat
+1000|A patient labeled NPO, "non per os", cannot be nourished this way|through the mouth

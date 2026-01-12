@@ -1,0 +1,6 @@
+FOREIGN PHRASEBOOK
+200|Excel in Spanish & you get not just bien but this, "very good\"|muy bien
+400|Alliterative translation of the Arabic "Allahu akbar\"|God is great
+600|Puzzled Germans say, "Ich verstehe nur Bahnhof", "All I understand is" this transit place|the train station
+800|The 4 words of this "so-so" French phrase all start with "C\"|comme ci, comme ça
+1000|We "make mincemeat" of someone, Italians "fare polpette"—make these of him|meatballs

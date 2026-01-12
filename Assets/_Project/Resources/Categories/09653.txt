@@ -1,0 +1,6 @@
+OHIO BIO
+200|Born in Cambridge in 1921, he went on to be a senator & an astronaut|(John) Glenn
+400|Born in Darke County in 1860, she developed her amazing proficiency with firearms at an early age|Annie Oakley
+600|Appropriately enough, this writer of Westerns was born in Zanesville in 1872|Zane Grey
+800|Born in Columbus in 1890, he was a car-racing champion & a WWI flying ace|Eddie Rickenbacker
+1000|This late jazz pianist, famous for his trio, was born blind in Toledo, Ohio in 1910|Art Tatum

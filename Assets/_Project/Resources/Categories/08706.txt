@@ -1,0 +1,6 @@
+POSTAL ABBREVIATION SPELLING
+200|Colorado, Oklahoma|cook
+400|Virginia, Nebraska|vane
+600|Michigan, Maine|mime
+800|Pennsylvania, Connecticut|pact
+1000|California, North Dakota, Oregon|candor

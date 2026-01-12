@@ -1,0 +1,6 @@
+SCI. ABBREV.
+200|In chemistry, B.P. stands for this; water's is 212 degrees Fahrenheit|the boiling point
+400|On a prescription the abbreviation b.i.d. indicates you should take your medicine this often|twice a day
+600|Scanning & transmission are just 2 types of this instrument abbreviated E.M.|electron microscope
+800|Vitamin E can be measured in milligrams or in these, IU for short|international units
+1000|The oersted is a unit of strength to measure one of these, M.F. for short|magnetic field

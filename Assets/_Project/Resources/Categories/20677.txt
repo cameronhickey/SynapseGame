@@ -1,0 +1,6 @@
+TOLERANCE
+200|In 1649 this colony led by Cecilius, Lord Baron of Baltimore, passed a law of religious toleration|Maryland
+400|\"Let there be no compulsion in religion", says this book's second surah|the Quran
+600|Karl Popper's paradox of tolerance says the tolerant should claim the right not to tolerate these people|the intolerant
+800|\"Never in our full life could we hope to do such work for tolerance... as now we do by accident," said this partner of Sacco|Vanzetti
+1000|This Frenchman's 1734 "Lettres Philosophiques" argues in favor of religious tolerance|Voltaire

@@ -1,0 +1,6 @@
+THE EYE
+200|Rod-shaped eye cells help you to see forms, & cells of this shape help you see colors|cones
+400|Redness, excessive tearing & itching may be signs of pinkeye, known medically by this name|conjunctivitis
+600|In surgery for this condition, an artificial lens replaces your own clouded one|cataracts
+800|(Sarah of the Clue Crew shows a scan of an eye part on the monitor.) Unlike retinal scans, biometrics using this eye part take 2 seconds and show more than 200 unique characteristics, about 6 times more than fingerprints|the iris
+1000|Sometimes when we get older, this part of the retina "degenerates" & causes blurriness in our field of vision|the macula

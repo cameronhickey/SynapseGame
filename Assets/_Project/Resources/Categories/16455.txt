@@ -1,0 +1,6 @@
+NATIONALITIES?
+200|In this game played with marbles, the board is a 6-pointed star|Chinese checkers
+400|In the movie "The Deer Hunter", the Vietcong force 3 American POWs to play this high-risk game|Russian roulette
+600|The original one of these had a blade, a reamer, a screwdriver & a can opener|a Swiss Army knife
+800|Despite its name, the heritage of this cake with coconut in its frosting isn't Bavarian|German chocolate cake
+1000|The White Witch gives Edmund this sweet, the title of chapter 4 of "The Lion, the Witch and the Wardrobe\"|Turkish delight

@@ -1,0 +1,6 @@
+SE HABLA ESPANOL
+200|It's the Spanish equivalent of mrs.|señora
+400|A tortilla with chili sauce & a meat filling; you may eat the whole one|an enchilada
+600|A Spanish house's inner court open to the sky; in the U.S. there's furniture for it|the patio
+800|It's a military faction that takes power after a coup d'etat|a junta
+1000|It's a devotee of bullfighting or any other sport|an aficionado

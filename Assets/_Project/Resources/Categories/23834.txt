@@ -1,0 +1,6 @@
+STEELS
+200|Relatively cheap ferritic steel has the added advantage of having this "attractive" & useful quality|magnetic
+400|For centuries, using Damascus steel to make these like El Cid's "Tizona" was a prized skill & then was lost|swords
+600|Both hands & both feet are used in playing this musical instrument; masters of it include Jimmy Day & Greg Leisz|the steel guitar
+800|Weathering steels are intentionally designed to do this, the oxide coating providing protection without a need for further care|rust
+1000|To improve shine & corrosion resistance, stainless steel is 10-30% this element, symbol Cr|chromium

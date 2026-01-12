@@ -1,0 +1,6 @@
+4, 4
+200|It's 202 for Washington, D.C.|the area code
+400|Complimentary synonym for the Bible|the Good Book
+600|To college students, it's what you call the pamphlet you write test answers in; to car shoppers, it follows "Kelley\"|blue book
+800|In an old joke a horse is asked, "Why" this sign of sadness?|a long face
+1000|In 1848 Martin Van Buren was the presidential candidate of this party that opposed slavery in western territories|the Free Soil party

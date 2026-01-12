@@ -1,0 +1,6 @@
+OF MOVIES
+200|\"Quantum of Solace" finds this hero battling corporate environmental plundering around the world & in the Bolivian desert|(James) Bond
+400|1940's "The Grapes of Wrath" starred this actor as Tom Joad|Henry Fonda
+600|This movie introduced the world to Indiana Jones|Raiders of the Lost Ark
+800|In this classic film police detective Sidney Poitier investigates a murder in the racist town of Sparta, Mississippi|In the Heat of the Night
+1000|It's Emma vs. Steve as Billie Jean vs. Bobby on the big screen in this title tennis clash|Battle of the Sexes

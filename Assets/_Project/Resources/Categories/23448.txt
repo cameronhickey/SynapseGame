@@ -1,0 +1,6 @@
+THE STATE OF THE TV SHOW
+200|\"Magnum, P.I.\"|Hawaii
+400|\"Breaking Bad\"|New Mexico
+600|\"King of the Hill", I tell you what|Texas
+800|\"The Golden Girls\"|Florida
+1000|\"black-ish\"|California

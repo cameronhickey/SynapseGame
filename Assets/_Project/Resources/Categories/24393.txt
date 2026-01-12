@@ -1,0 +1,6 @@
+CAR COLLISIONS
+200|The maker of the Navigator collides with the maker of the Sentra|LincolNissan
+400|Over in Britain, the maker of the sporty XK-E runs into the maker of the luxury Phantom|JaguaRolls Royce
+600|The company founded by Henry in 1903 heads down a Michigan road & hits the company founded by brothers John & Horace in 1914|ForDodge
+800|The maker of the Escalade bumps into the maker of the Pacifica minivan|CadillaChrysler
+1000|A former Swedish rivaal of Volvo bumps into Daimler's competitor Karl|SaaBenz

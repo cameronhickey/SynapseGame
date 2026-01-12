@@ -1,0 +1,6 @@
+SHAKESPEARE'S TRAGIC CAST
+200|Duncan, Banquo, Macduff|Macbeth
+400|Bianca, Iago, Desdemona|Othello
+600|Cinna, Cassius, Cicero|Julius Caesar
+800|Goneril, Regan, Cordelia|King Lear
+1000|Mercutio, Benvolio, Tybalt|Romeo and Juliet

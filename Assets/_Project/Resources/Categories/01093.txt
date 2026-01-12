@@ -1,0 +1,6 @@
+HOTELS BY CITY
+200|Meridien Montparnasse, Balzac, George V|Paris
+400|Brunelleschi, Monna Lisa, Villa Medici|Florence
+600|Ritz-Carlton, Copley Plaza, Back Bay Hilton|Boston
+800|Santa Lucia, Mediterraneo, Vesuvio|Naples
+1000|Sacher, Imperial, Pension Wiener|Vienna

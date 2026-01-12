@@ -1,0 +1,6 @@
+THE POST OFFICE
+200|When unloaded & disassembled, this firearm is mailable, though pistols & revolvers usually are not|a rifle
+400|Though it's sent by Western Union, it's delivered by the post office, usually the next day|mailgram
+600|VI is the authorized 2-letter postal abbreviation for this locale|the Virgin Islands
+800|An envelope with a stamp indicating it was mailed from the place & on the day it was originally issued|a first-day cover
+1000|It is the safest way the U.S. Postal Service offers for sending valuables|registered mail

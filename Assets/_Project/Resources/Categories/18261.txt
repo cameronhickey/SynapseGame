@@ -1,0 +1,6 @@
+OFFICIAL NATIONAL NAMES
+200|Liechtenstein is a principality; Luxembourg is a "Grand" one of these|duchy
+400|Jordan describes itself as the "Hashemite" one of these|a kingdom
+600|The states of the Pacific nation of Micronesia are officially this adjective, meaning joined together|federated
+800|You'll find the "Sultanate of" this nation in the Middle East|Oman
+1000|The "Oriental Republic of" this small South American country borders Brazil|Uruguay

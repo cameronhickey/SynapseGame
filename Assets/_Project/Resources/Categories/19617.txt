@@ -1,0 +1,6 @@
+WORLD AIRPORTS
+200|Long layover? No problem at this Finnish capital's airport, which offers sleep pods, a spa & more|Helsinki
+400|The Tenzing-Hillary airport in this country is 9,200 feet above sea level|Nepal
+600|A British airport renamed for him in 2001 also adopted the slogan "Above us only sky\"|John Lennon
+800|Resembling a bird about to take off, the terminal at Bilbao airport is nicknamed "La Paloma", Spanish for this|a dove
+1000|You can still see one of Air France's Concorde jets outside the Paris airport named for him|Charles de Gaulle

@@ -1,0 +1,6 @@
+MAP HAPPY
+200|Its name says where it's at|South Africa
+400|\"Zone" in on this country important to world commerce|Panama
+600|A bit of serendipity will lead you to this country's name|Sri Lanka
+800|Nation where Bolivar's buried|Venezuela
+1000|Modern country that's Hannibal's historic home|Tunisia

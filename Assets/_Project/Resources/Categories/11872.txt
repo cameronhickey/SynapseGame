@@ -1,0 +1,6 @@
+THEY OWN THAT?
+200|Cheer is owned by Procter & Gamble; Cheerios is owned by this company|General Mills
+400|Like Banana Republic, Old Navy is owned by this company|the Gap
+600|This company is king of Fisher-Price|Mattel
+800|Ore-Ida is one of its many varieties|Heinz
+1000|Prego pasta sauce is some of the "good food" made by this company|Campbell's

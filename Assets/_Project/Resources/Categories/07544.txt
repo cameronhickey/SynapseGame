@@ -1,0 +1,6 @@
+VOCABULARY TEST
+200|Term for a female goat or for someone who takes care of kids|nanny
+400|Originally a farmer who lived nearby, now it's any nearby resident, especially one right next door|neighbor
+600|In math the radius of a circle is half of the line called this|diameter
+800|It's what we call the northern or southern half of the Earth, as divided by the equator|hemisphere
+1000|While a synonym has the same meaning as another word, this is a word that means just the opposite|antonym

@@ -1,0 +1,6 @@
+FROM SCREEN TO STAGE
+200|A handful of actors play more than 100 roles in "The 39 Steps", based on this director's 1935 suspense classic|Hitchcock
+400|In the musical "Legally Blonde", blonde ambition takes Elle Woods all the way to this university's law school|Harvard
+600|The musical "Here's Love" was based on this 1947 film in which the real Kris Kringle is hired to work at Macy's|Miracle on 34th Street
+800|\"A Wonderful Life" is a charming musical adaption of this director's classic film "It's A Wonderful Life\"|(Frank) Capra
+1000|X marks the spot where the musical inspired by this Olivia Newton-John film about a roller disco rolled onto B'way|Xanadu

@@ -1,0 +1,6 @@
+SOY
+200|Soy un bombero, one of these emergency responders; call me if things get hot|a fireman
+400|Soy un enfermero; may I take your temperature?|a nurse
+600|Soy un perdedor, this person, as Beck sang|a loser
+800|Soy una monja, one of these women, & don't ask me anything else; I'm vowed to silence|a nun
+1000|Yo no soy marinero, one of these; soy capitan|a sailor

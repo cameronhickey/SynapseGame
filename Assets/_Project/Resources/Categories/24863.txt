@@ -1,0 +1,6 @@
+FINISH LAST
+200|Last-place competitors in this bicycle race are known as the "lanterne rouge", like the red light on the back of a vehicle|the Tour de France
+400|Fenwick & Pretension are horses that finished last in this annual Triple Crown race in Maryland|the Preakness
+600|With apologies to our good fans in Ohio, this NFL team is the most recent to finish a season with 0 wins|the (Cleveland) Browns
+800|After a 10-72 last-place finish in the 2015-16 season, this team got the first overall draft pick & chose Ben Simmons|the Philadelphia 76ers
+1000|Known as "Mr. Cub" & a player on more than one last-place team, he said, "The only way to prove that you're a good sport is to lose\"|Ernie Banks

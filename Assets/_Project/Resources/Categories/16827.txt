@@ -1,0 +1,6 @@
+SHAKESPEARE—ACT II, SCENE 1
+200|\"Is not tomorrow, boy, the Ides of March?\"|Julius Caesar
+400|\"Prospero my lord shall know what I have done... so king, go safely on to seek thy son\"|The Tempest
+600|\"You lie, in faith, for you are called plain Kate, and bonny Kate, and sometimes Kate the curst\"|The Taming of the Shrew
+800|\"He's coming hither; now i' the night, i' the haste, and Regan with him\"|King Lear
+1000|\"...at least into a jealousy so strong that judgment cannot cure\"|Othello

@@ -1,0 +1,6 @@
+FOREIGN EYE
+200|\"The Adventure of the Lion's Mane" is 1 of 2 stories he narrates; Watson relates the rest|Sherlock Holmes
+400|He created jockey-turned-private eye Sid Halley|Dick Francis
+600|The New York Times gave a front-page obituary to this fictional Belgian detective|Hercule Poirot
+800|This G.K. Chesterton cleric solved his first case in "The Blue Cross\"|Father Brown
+1000|Inspector Charles Parker of Scotland Yard is the police contact of this Dorothy Sayers lord|Lord Peter Wimsey

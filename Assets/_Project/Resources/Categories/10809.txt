@@ -1,0 +1,6 @@
+LUNAR LOCALES
+200|The Mare Frigoris is the Sea of this|Cold
+400|The Palus Somnii is the Marsh of Sleep & the Lacus Somnorium is the Lake of these|Dreams
+600|Not on my list of vacation spots is the Lacus Mortis, the Lake of this|Death
+800|The Sinus Iridum is the Bay of these, so start searching for those pots of gold|Rainbows
+1000|The Mare Australe is the Southern Sea & the Mare Orientale is this|the Eastern Sea

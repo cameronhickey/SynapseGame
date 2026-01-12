@@ -1,0 +1,6 @@
+TRUCKIN\'
+200|The Pierce Initial Attack Pumper is a fast-response type of this truck|Fire truck
+400|This company's F-Series pickup, the USA's bestselling car or truck since 1981, turned 50 in 1998|Ford
+600|This company gives its trucks an "F": 150, 250 & 350|Ford
+800|When you hit the tundra, take this truck maker's Tacoma|Toyota
+1000|Take this company's Titan to a new frontier|Nissan

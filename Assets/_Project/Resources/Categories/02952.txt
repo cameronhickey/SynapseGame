@@ -1,0 +1,6 @@
+DWELLINGS
+200|From Swiss French for "shelter", it's a wooden cottage or lodge with overhanging eaves|Chalet
+400|Though born to wealth, William Henry Harrison used this humble dwelling as a campaign symbol|a log cabin (even though he wasn't born in one)
+600|According to Guinness, with 1,788 rooms, the largest residential one belongs to the Sultan of Brunei|a palace
+800|It's a building or group of buildings on an army base for housing soldiers|barracks
+1000|This traditional Navajo home usually had 8 sides & a domed roof|a hogan

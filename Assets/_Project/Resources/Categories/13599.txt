@@ -1,0 +1,6 @@
+SOUNDS LIKE FOOD
+200|Not "con carne", this 6-letter word can mean unfriendly|chilly
+400|Wooden bane of a vampire|stake
+600|To cut off superfluous twigs or branches|to prune
+800|In the national pastime, the leadoff man is the first this|the batter
+1000|Put this spicy verb before "favor" to get on someone's good side|curry

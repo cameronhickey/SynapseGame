@@ -1,0 +1,6 @@
+LITERARY TERMS
+200|A literary memorial that honors a deceased person, or the inscription on a tomb|an epitaph
+400|This term can refer to short poems that have a songlike style, or the words to a song|lyric
+600|Alexander Pope called it "My Weapon"; George S. Kaufman said it's what closes on Saturday night|satire
+800|This term for epics written in medieval Iceland often refers to modern adventure stories, too|a saga
+1000|A Petrarchan sonnet consists of an octave followed by a stanza with this many lines|6

@@ -1,0 +1,6 @@
+LITERARY LOCALES
+200|The fiesta at the heart of Hemingway's "The Sun Also Rises" takes place in this bull-running city|Pamplona
+400|In "Moby Dick", the Pequod sails from this "New" Massachusetts seaport|New Bedford
+600|Dashiell Hammett's "The Maltese Falcon" plays out darkly in this California city|San Francisco
+800|It's the fictional county where 14 Faulkner novels are set|Yoknapatawpha County
+1000|Much of "Othello", including Desdemona's murder, takes place on this large island|Cyprus

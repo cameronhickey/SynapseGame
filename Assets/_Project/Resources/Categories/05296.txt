@@ -1,0 +1,6 @@
+STATE BORDERS
+200|The Wabash River provides part of Illinois' border with this neighbor, also its neighbor alphabetically|Indiana
+400|If you go directly east from the Four Corners, you'll be on Colorado's border with this state|New Mexico
+600|If you cross the St. Croix River from Wisconsin, you'll be in this state to the west|Minnesota
+800|The communities of Morrowville & Fairbury lie on either side of this border, also the name of an 1854 act|Kansas & Nebraska
+1000|The Connecticut River forms the border of these 2 New England states north of Connecticut|New Hampshire & Vermont

@@ -1,0 +1,6 @@
+BLANK VERSE
+200|John Keats: "Beauty is ____, ____ beauty,—that is all / Ye know on earth, and all ye need to know\"|truth
+400|Ogden Nash "The cow is of the bovine ilk; one end is moo, the other, ____\"|milk
+600|Robert Frost: "Two roads diverged in a yellow ____\"|wood
+800|Alexander Pope: "Fools rush in where angels ____ ____ ____\"|fear to tread
+1000|Thomas Gray: "The paths of glory lead but to the ____\"|grave

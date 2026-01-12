@@ -1,0 +1,6 @@
+THE CONTINENT WHERE YOU'LL FIND...
+200|The Sonoran Desert|North America
+400|Ankara|Asia
+600|The Atlas Mountains|Africa
+800|Patagonia|South America
+1000|Ellsworth Land|Antarctica

@@ -1,0 +1,6 @@
+ALIASES
+200|Bruce Banner, who learned it's not easy being green|The Hulk
+400|Diedrich Knickerbocker, a "sleepy" novelist|Washington Irving
+600|\"Lady Day", a nickname originated by sax man Lester Young|Billie Holiday
+800|Harry Longabaugh, whose nickname came from the Wyoming town in which he was imprisoned|The Sundance Kid
+1000|Sir Percy Blakeney, a "colorful" fop with a sword|The Scarlet Pimpernel

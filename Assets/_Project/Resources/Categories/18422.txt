@@ -1,0 +1,6 @@
+OF THE GAME
+200|In roulette you can bet "dozens", "columns" or these 2 main colors|black and red
+400|The only move in chess in which 2 pieces can move on the same turn, it moves the prize out of danger|castling
+600|Yakutsk & Irkutsk are 2 territories to conquer & control in this game of attrition|Risk
+800|A little-known rule in Monopoly is that this "Chance" card usually kept until needed may be sold to another player|get-out-of-jail-free card
+1000|(Sarah of the Clue Crew demonstrates a game.) This stacking game, similar to Jenga, uses bidding and odd-shaped pieces, to build increasingly precarious towers|Bandu

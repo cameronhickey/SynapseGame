@@ -1,0 +1,6 @@
+UP & ATOM
+200|An atom consists of 3 basic types of particles called protons, neutrons & these|electrons
+400|An honorary "Atoms for Peace" award went to this ex-U.S. president in 1969, the year of his death|Eisenhower
+600|Contrary to popular belief, the 28-year length of this for strontium 90 is not shared by a Twinkie|the half-life
+800|Theoretical temperature at which atoms & molecules of a substance have the least possible energy|absolute zero
+1000|In 1913, this Danish physicist made the 1st model that incorporated the field of quantum mechanics|Niels Bohr

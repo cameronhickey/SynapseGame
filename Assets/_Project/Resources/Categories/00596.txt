@@ -1,0 +1,6 @@
+FRENCH FOOD
+200|What the potage du jour is|the soup of the day
+400|A la the city of Nice, it's a salad of tomatoes, green beans, potatoes, ripe olives and anchovies|a salad niçoise
+600|Je suis le fromage, this|cheese
+800|This French sauce made with butter, egg yolks & lemon juice is named for another country|Hollandaise sauce
+1000|Riz (rice) is often paired with haricots (these)|beans

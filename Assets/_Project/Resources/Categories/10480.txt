@@ -1,0 +1,6 @@
+PREFIX
+200|\"Toward"; or, one point up in a tennis game|ad
+400|\"After"; or, to station, as a sentry|post
+600|\"One"; or, the pre-1958 way to listen to recorded music|mono
+800|\"Different"; or, someone who's not gay|hetero
+1000|\"Against"; specifically, one fighting against Nicaragua's Sandinistas|contra

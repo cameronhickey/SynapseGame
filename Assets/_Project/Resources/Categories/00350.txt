@@ -1,0 +1,6 @@
+ARCHAEOLOGY
+200|An archaeological excavation, or most common activity there|a dig
+400|In D.C., exhibit of this king's "Treasures" drew 835,000, more than city's population|King Tutankhamun
+600|Archaeologist Schliemann excavated ruins of ancient Troy in this country|Turkey
+800|Scholars say Hissarlik, a mount near the mouth of the Dardanelles in this country, is the site of Troy|Turkey
+1000|These Inca ruins near Cusco, Peru weren't discovered until 1911|Machu Picchu

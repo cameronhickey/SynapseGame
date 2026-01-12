@@ -1,0 +1,6 @@
+ANAGRAMMED EUROPE
+200|I'd like to visit this national capital, solo|Oslo
+400|I've visited this capital more than once|Rome
+600|I saw a heron wading in this river|the Rhone
+800|Do cooks broil meat or braise it in this country?|Serbia
+1000|I wish someone would erect a statue of me on this island|Crete

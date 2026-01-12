@@ -1,0 +1,6 @@
+COUNTRIES WITH ONLY A's AS VOWELS
+200|It's also one of only 4 countries with a "Q" in its name|Qatar
+400|From 1994 to 2015 the U.N. operated an international criminal tribunal for this country's genocide|Rwanda
+600|It's a multi-island nation off the Florida coast (OK, we're ignoring the "The")|the Bahamas
+800|The 2 that touch both the Atlantic Ocean & the Pacific Ocean|Panama and Canada
+1000|The ninth-largest nation in area, historically, it's been part of different empires|Kazakhstan

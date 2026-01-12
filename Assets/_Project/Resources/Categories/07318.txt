@@ -1,0 +1,6 @@
+BREWERS
+200|Introduced in 1986, this Miller brand is something of a misnomer, since it comes in bottles & cans|Miller Genuine Draft
+400|The Spoetzl brewery uses krausening, a secondary version of this sugar-converting process|fermentation
+600|Naval name of the San Francisco brand that's the USA's best-known steam beer|Anchor Steam
+800|Although most of the ingredients come from old England, Tremont Ale is brewed in this New England city|Boston
+1000|Budweiser's label says it's brewed "using the choicest" these, "rice and best barley malt\"|hops

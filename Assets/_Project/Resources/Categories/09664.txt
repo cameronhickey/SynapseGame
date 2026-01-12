@@ -1,0 +1,6 @@
+THERE'S NO BUSINESS
+200|The power went out on this Houston company when it declared bankruptcy in December 2001|Enron
+400|This airline's "Friendly Skies" were darkened by its Dec. 2002 bankruptcy|United Airlines
+600|In Jan. 2002 this undersea fiber optic telecom co. founded by Gary Winnick sank beneath the bankruptcy waves|Global Crossing
+800|$11 billion in alleged fraud might've played a tiny part in this long-distance co.'s July 2002 bankruptcy|WorldCom
+1000|Conspiracy & fraud led to a June 2002 "reorganization" of this cable co. led by the Rigas family|Adelphia

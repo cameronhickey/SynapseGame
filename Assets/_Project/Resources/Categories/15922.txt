@@ -1,0 +1,6 @@
+QUEUES
+200|Get ready, get set, wait! Lines at this Anaheim theme park are known to be long, especially for rides like Peter Pan's Flight|Disneyland
+400|In 2009 people lined up for free vaccinations in an effort to fight off the H1N1 type of this|the flu
+600|Lines at U.S. gas pumps resulted from a 1973 oil embargo by OAPEC, OPEC with this 4-letter word added|Arab
+800|Long lines are the norm on the day after Thanksgiving, which has this colorful name referring to profit|Black Friday
+1000|He abdicated shortly after Petrograd police opened fire on a group lined up for bread|Nicholas II

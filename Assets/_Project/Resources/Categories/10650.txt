@@ -1,0 +1,6 @@
+LITERARY WHICH CAME FIRST
+200|\"Uncle Tom's Cabin", "Paradise Lost", "Romeo and Juliet\"|Romeo and Juliet
+400|\"The Green Mile", "Carrie", "Needful Things\"|Carrie
+600|\"The Hunger Games", "Harry Potter and the Sorcerer's Stone", "Life of Pi\"|Harry Potter and the Sorcerer's Stone
+800|\"The Pelican Brief", "The Firm", "The Client\"|The Firm
+1000|\"The Portrait of a Lady", "The Picture of Dorian Gray", "Wuthering Heights\"|Wuthering Heights

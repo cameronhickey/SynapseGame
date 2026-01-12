@@ -1,0 +1,6 @@
+FLIGHT
+200|Accessories of the dashing WWII Spitfire pilot included a leather helmet & a white silk one of these|a scarf
+400|The name of Vostok, the Soviets' first manned space flight program, means this direction|east
+600|The Red Baron commanded a unit called the "flying" this, for its brightly colored planes|the Flying Circus
+800|The hero of the first book by "Little Prince" author St.-Exupery is a pilot who delivers this|the mail
+1000|This Mach 3 plane was called the RS-71 until LBJ misread it in public & the name was changed|the Blackbird (or the SR-71)

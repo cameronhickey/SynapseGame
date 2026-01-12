@@ -1,0 +1,6 @@
+MOOD MUSIC
+200|One-word title of a 2014 Pharrell Williams No. 1 hit|\"Happy\"
+400|Kind of "Symphony" in the title of a 1998 hit by The Verve|bittersweet
+600|In 1982 The Pointer Sisters were fired up: "I'm So ____\"|excited
+800|The Clash were full of ennui: "I'm So ____ With The U.S.A.\"|bored
+1000|In 2013 Lana Del Rey suffered from seasonal affective disorder with "Summertime" this feeling|sadness

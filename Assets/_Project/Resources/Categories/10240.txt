@@ -1,0 +1,6 @@
+A STATE OF DELAWARE-NESS
+200|Delaware is the second-smallest state; only this state has a smaller area|Rhode Island
+400|Founded in 1683 by William Penn, this city was officially laid out in 1717 over an area of 125 acres|Dover
+600|Barratt's Chapel in Delaware is the USA's oldest surviving church of this denomination founded by Wesley|Methodism
+800|An IRA named for this longtime Delaware senator was created in 1998|(William) Roth
+1000|In 1609 he became the first European to explore the Delaware area|Hudson

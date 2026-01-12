@@ -1,0 +1,6 @@
+POETIC TERMS
+200|Tennyson's "In Memoriam" is this 5-letter type of poem lamenting the death of a person|an elegy
+400|A pastoral is an idealized poem about country life, originally about those in this occupation|(shep)herding
+600|Term for any poem or stanza containing 4 lines|a quatrain
+800|16th century poet who perfected in "The Faerie Queene" the stanza named for him|Edmund Spenser
+1000|From the Latin sonare, "sound", it's the repetition of similar vowel sounds, especially in stressed syllables|assonance

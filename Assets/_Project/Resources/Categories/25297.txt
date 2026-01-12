@@ -1,0 +1,6 @@
+LANGUAGES & THEIR FORMS
+200|This language of Belgium is more or less a softer-sounding Dutch|Flemish
+400|Standard Italian is based on the variant of Tuscan spoken in this city on the Arno River|Florence
+600|More than 20 languages spoken by indigenous people in Guatemala originated from this language|Mayan
+800|In this British dependency, Llanito, a mix of Spanish & English, is spoken in addition to English|Gibraltar
+1000|The Zealandic dialect is spoken in this country's capital, while Jutlandic is spoken in the continental part of the nation|Denmark

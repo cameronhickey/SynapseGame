@@ -1,0 +1,6 @@
+WHAT FOOD IS THAT?
+200|T-bone or porterhouse|steak
+400|California roll|sushi
+600|Acorn or butternut|squash
+800|Naan|bread
+1000|Havarti|cheese

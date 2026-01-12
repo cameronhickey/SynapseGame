@@ -1,0 +1,6 @@
+ALPHABET CITY
+200|A: It's considered the birthplace of democracy|Athens
+400|I: It's the only major city that straddles 2 continents—Asia & Europe|Istanbul
+600|S: It's the gateway to the Yangtze Valley|Shanghai
+800|E: This Mexican city south of San Diego is a regular port-of-call for short cruises out of Long Beach, Ca.|Ensenada
+1000|Q: This capital sits at an elevation of 9,350 feet|Quito

@@ -1,0 +1,6 @@
+MOUNTAIN + RIVER = STATE
+200|Mount Shasta, Salinas River|California
+400|Mount Hood, Willamette River|Oregon
+600|Ethan Allen Mountain, White River|Vermont
+800|Alta, Provo River|Utah
+1000|Vail, South Platte River|Colorado

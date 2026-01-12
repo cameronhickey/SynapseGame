@@ -1,0 +1,6 @@
+POETS' COUNTRY OF BIRTH
+200|Alexander Pushkin|Russia
+400|Arthur Rimbaud|France
+600|Gunnar Ekelof|Sweden
+800|Matsuo Basho|Japan
+1000|Odysseus Elytis|Greece

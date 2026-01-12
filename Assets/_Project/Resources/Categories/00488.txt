@@ -1,0 +1,6 @@
+STAR TREK
+200|Highest rank achieved by James T. Kirk|admiral
+400|One of the two most-used phrases to activate the transporter|\"Beam us up, Scotty" (or "Energize")
+600|Nickname of Dr. Leonard McCoy|Bones
+800|Title of address for either female Saavik or male Spock|Mr.
+1000|Title of the 3rd TV episode or the last line of the opening narration|\"where no man has gone before\"

@@ -1,0 +1,6 @@
+CONGRESSIONAL DISTRICTS
+200|This state's 3rd district is a major shopping district; the Mall of America is there|Minnesota
+400|Limiting immigration is one of the main causes of Rep. Lamar Smith, from this state's 21st district|Texas
+600|Represented by John Mica, the 7th district in this state is home to St. Augustine, the USA's oldest city|Florida
+800|Charlie Melancon represents Houma, New Iberia & Chalmette for this state's 3rd, y'all|Louisiana
+1000|Woonsocket & Pawtucket are served by Patrick Kennedy of this state's 1st district|Rhode Island

@@ -1,0 +1,6 @@
+THAT'S OUR ISLAND
+200|Capri & Sicily|Italy
+400|Honshu|Japan
+600|Crete|Greece
+800|Baffin Island|Canada
+1000|The Isle of Wight|England

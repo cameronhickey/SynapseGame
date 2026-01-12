@@ -1,0 +1,6 @@
+SCIENCE CRITTERS
+200|It's the animal in the name of the unit equivalent to 33,000 foot-pounds of work per minute|a horse
+400|In an Oscar-winning 2020 documentary, this sea creature was a "Teacher\"|an octopus
+600|If you've taken biology, you've probably studied Drosophila, these alliterative winged insects|fruit flies
+800|This Russian physiologist trained many breeds of dogs to reflexively salivate at the sound of noises they associated with food|Pavlov
+1000|This Nobel-winning physicist came up with a thought experiment involving a cat & whether or not it's alive|Schrödinger

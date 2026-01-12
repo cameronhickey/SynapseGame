@@ -1,0 +1,6 @@
+RODENT, MARSUPIAL OR REPTILE
+200|The wallaby|marsupial
+400|The hamster|rodent
+600|The gecko|reptile
+800|The beaver|rodent
+1000|The caiman|reptile

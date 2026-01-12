@@ -1,0 +1,6 @@
+A LITTLE MISTAKE
+200|An owie, or double talk for a little mistake|a boo-boo
+400|4-letter result of hitting the "Q" on the keyboard instead of the "W\"|a typo
+600|It rhymes with "hitch" & once meant a hitch caused by a small spike in voltage|glitch
+800|You may have one "of judgment"; it can also mean the passage of a period of time|a lapse
+1000|I used 30 instead of 29.87 in my calculations, leading to this kind of minor error|a rounding error

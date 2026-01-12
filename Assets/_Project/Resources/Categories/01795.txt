@@ -1,0 +1,6 @@
+THE ATOM
+200|World Book says that in an atom 4 miles in diameter, this center part would be the size of a tennis ball|the nucleus
+400|Of indivisible, unseen or unnatural, the meaning of atomos, the word that "atom" came from|indivisible
+600|When 2 atoms join in compounds, they form units called these|molecules
+800|The chemical behavior of an atom is mainly determined by the number of these in its outer shell|electrons
+1000|Of the 3 basic subatomic particles, it has the greatest mass & has no charge|the neutron

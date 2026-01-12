@@ -1,0 +1,6 @@
+MISSING U
+200|Ballerina attire: TT|tutu
+400|It was discovered in 1781: RANS|Uranus
+600|He guarded a harem: ENCH|a eunuch
+800|It's the official language of Pakistan: RD|Urdu
+1000|It hangs from the back of your throat: VLA|uvula

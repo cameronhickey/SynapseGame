@@ -1,0 +1,6 @@
+NAME THEIR SPORT
+200|Abby Wambach|women's soccer
+400|Julian Edelman|football
+600|Michelle Kwan|figure skating
+800|Jason Day|golfing
+1000|Missy Franklin|swimming

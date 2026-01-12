@@ -1,0 +1,6 @@
+MOVIE ADJECTIVES
+200|1989: "The ___ Baker Boys\"|Fabulous
+400|1960: "The ___ Seven\"|Magnificent
+600|2000: "The ___ Storm\"|Perfect
+800|1969: "The ___ Bunch\"|Wild
+1000|2005: "The ___ Gardener\"|Constant

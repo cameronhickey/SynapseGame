@@ -1,0 +1,6 @@
+THAT'S MY DEPARTMENT!
+200|Cordell Hull, John Kerry, George P. Shultz|State
+400|Andrew W. Mellon, Henry M. Paulson, George P. Shultz|Treasury
+600|Robert Reich, Elaine Chao, George P. Shultz|Labor
+800|Shirley Hufstedler, William Bennett, Margaret Spellings|Education
+1000|J. Sterling Morton, Earl Butz, Mike Espy|Agriculture

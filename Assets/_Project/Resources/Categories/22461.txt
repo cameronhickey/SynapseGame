@@ -1,0 +1,6 @@
+WORLD CAPITAL RIVERS
+200|The Amstel|Amsterdam
+400|The Tigris River flows through this capital|Baghdad
+600|The Vistula|Warsaw
+800|In troubled Venezuela, many have scoured the polluted waters of the Quaire River in this capital in search of anything of value|Caracas
+1000|The Congo (either of 2 cities)|(1 of) Kinshasa (or Brazzaville)

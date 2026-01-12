@@ -1,0 +1,6 @@
+PLURALS THAT DON'T END IN S
+200|Radius|radii
+400|Moose|moose
+600|Curriculum|curricula
+800|Focus|foci
+1000|Schema|schemata

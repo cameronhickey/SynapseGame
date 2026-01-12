@@ -1,0 +1,6 @@
+CHANGE ONE LETTER WORD PAIRS
+200|Enjoyment for an ardent sports follower|fun & fan (fan fun)
+400|A jacket for a young male horse|coat & colt (a colt coat)
+600|Misplaced plunder|lost loot
+800|A distant paddle|far & oar (a far oar)
+1000|A structure to store grain covered in fabric made by larvae|silo & silk (silk silo)

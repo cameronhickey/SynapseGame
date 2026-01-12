@@ -1,0 +1,6 @@
+EMAIL ETIQUETTE
+200|Don't type in all these—the reader might think you're yelling|capitals
+400|Ask before sending a big attachment; big or small, this office product usually represents it|a paper clip
+600|If you email in this "directional" fashion to group recipients, don't disclose everyone's email addresses|forward
+800|Let people know their message was received; sometimes email falls prey to an overeager filter for this|spam
+1000|If not all the recipients know each other, don't give out their addresses—use bcc, short for this|blind carbon copy

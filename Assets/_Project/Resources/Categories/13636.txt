@@ -1,0 +1,6 @@
+\"G"-5
+200|It's the third letter of the Greek alphabet|gamma
+400|A small valley or ravine|a gully (gorge accepted)
+600|The name of this tropical lizard is imitative of its call|a gecko
+800|The bulk of a person, especially around the middle|girth
+1000|A clumsy social error|a gaffe

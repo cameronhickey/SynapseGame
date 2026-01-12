@@ -1,0 +1,6 @@
+WORLD UNIVERSITIES
+200|For several decades the University of Leipzig was named for this founder of communism|Karl Marx
+400|The university of this capital city is the largest university in Algeria|Algiers
+600|The most recent British prime minister who studied at Oxford|Margaret Thatcher
+800|The National Autonomous University of Honduras was founded in this city in 1847|Tegucigalpa
+1000|Laval University is named for the first Roman Catholic bishop of this Canadian city|Quebec

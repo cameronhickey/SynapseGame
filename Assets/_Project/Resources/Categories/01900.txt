@@ -1,0 +1,6 @@
+SAY CHEESE
+200|To give it this flavor, American cheese may be hung in a special house along with hams|smoke
+400|Camembert is classified as a cheese that's served at this part of the meal|dessert
+600|Cojack is a blend of Jack cheese & this one|Colby
+800|Term for holes formed by gas trapped in cheese while it's ripening|eyes
+1000|Made from stomach linings of calves, kids, or lambs, it coagulates milk|rennin

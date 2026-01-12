@@ -1,0 +1,6 @@
+COLLEGE LIFE
+200|To be "official", this detailed academic record should be sent from the school in a sealed envelope|a transcript
+400|This 2-word Latin phrase means you graduated with distinction|cum laude
+600|Classes in the semester system last 15 to 18 weeks; in this other system, they run about 10 weeks|the quarter system
+800|grammarly.com has a program that can compare an essay against academic databases to detect this dishonest act|plagiarism
+1000|The 2 major learning management systems for American colleges are canvas & this, another name for a slate|blackboard

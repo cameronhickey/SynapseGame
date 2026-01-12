@@ -1,0 +1,6 @@
+THE HIGHEST CAPITAL CITY
+200|Canberra, Kathmandu, Kingston|Kathmandu
+400|Washington, D.C., Ottawa, Mexico City|Mexico City
+600|Brasilia, Quito, Santiago|Quito
+800|Athens, Amsterdam, Addis Ababa|Addis Ababa
+1000|Kabul, Baghdad, Beirut|Kabul

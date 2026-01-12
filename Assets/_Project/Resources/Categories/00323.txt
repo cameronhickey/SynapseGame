@@ -1,0 +1,6 @@
+NEWSPAPERS
+200|Major New York daily that runs no comic strips|The New York Times
+400|Wash., D.C.'s 2nd largest paper, The Times, is published by members of this church|the Moonies (or the Unification Church)
+600|He now owns the New York Post, Village Voice, Boston Herald, Chicago Sun-Times & San Antonio Express|Rupert Murdoch
+800|Roaring '20s president who was a journalist by profession|Harding
+1000|West Coast newspaper that owns Long Island's "Newsday\"|The Los Angeles Times

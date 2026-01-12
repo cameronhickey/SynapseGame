@@ -1,0 +1,6 @@
+COUNTRIES BY NEWSPAPERS
+200|The Daily Yomiuri & The Fukui Shimbun|Japan
+400|Zlinske Noviny & The Prague Business Journal|the Czech Republic
+600|The Medicine Hat News & The Labradorian|Canada
+800|The Cebu Daily News & The Mindanao Times|The Philippines
+1000|Correio da Bahia & Diario da Amazonia|Brazil

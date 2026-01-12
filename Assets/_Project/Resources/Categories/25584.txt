@@ -1,0 +1,6 @@
+STATE MAMMALS
+200|Oklahoma has an official flying mammal, one of these—the Mexican free-tailed|a bat
+400|The antlers on this deer, Alaska's state land mammal, can grow up to an inch a day|a moose
+600|If you think the rare Northern Atlantic species of this cetacean is Massachusetts' state marine mammal, you're "correct\"|the right whale
+800|The Olympic marmot became this state's official endemic mammal in 2009 due to the efforts of 4th & 5th graders|Washington
+1000|The resolution making this breed Texas' official large mammal stated it was "once the cornerstone of" its cattle industry|a longhorn

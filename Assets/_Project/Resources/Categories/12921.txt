@@ -1,0 +1,6 @@
+GEEK CHIC
+200|This smartphone brand is gunning for the iPhone with the "Storm" touchscreen phone|the BlackBerry
+400|If you want a bracelet Bravia, this company has developed the world's first flexible OLED screen|Sony
+600|Plastics are being experimented on to make solar cells, as this 2nd-most abundant element in Earth's crust is costly|silicon
+800|The Felica card, a standard in Japan for ID cards, train passes & shopping, uses RFID, this type of frequency ID|radio
+1000|New super-thin laptops like the Toshiba Portege R500 use this type of hard drive|flash

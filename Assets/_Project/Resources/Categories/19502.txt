@@ -1,0 +1,6 @@
+GET INTO SHAPES
+200|Part of the White House's West Wing is this unique room|the Oval Office
+400|A good source of B vitamins & iron, these kidney-shaped nuts are lower in total fat than most others|cashews
+600|This triangular Swiss chocolate bar features the Matterhorn on its label|Toblerone
+800|The 5 impressive towers of Cambodia's Angkor Wat temple are shaped like the buds of this sacred water lily|a lotus
+1000|(Sarah of the Clue Crew shows an anatomical animation on the monitor.) Hearing, which can be described as nerves responding to sound waves, takes place in this spiral-shaped structure of the inner ear|the cochlea

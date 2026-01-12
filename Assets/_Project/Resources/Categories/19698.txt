@@ -1,0 +1,6 @@
+WHICH CONTINENT?
+200|Is the birthplace of Western civilization|Europe
+400|Is home to the country that produces the most coffee|South America
+600|Is the birthplace of most of the world's major religions|Asia
+800|Is where you'd find the Adelie Coast|Antarctica
+1000|Is the second-largest in area & population|Africa

@@ -1,0 +1,6 @@
+DUDE, WHERE'S MY CARB?
+200|This hormone secreted by the pancreas controls your carbohydrate metabolism|insulin
+400|A carbohydrate contains 4 of these energy units per gram, as opposed to 9 for a gram of fat|a calorie
+600|The main component of the cell walls of plants, this complex carbohydrate is what termites eat|cellulose
+800|The name of this variety of complex carbohydrate comes from an Old German word meaning "to be rigid\"|starch
+1000|Carbohydrates are predominantly made up of these three elements|carbon, hydrogen & oxygen

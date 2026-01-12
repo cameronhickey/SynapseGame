@@ -1,0 +1,6 @@
+MOVIE TITLE FILL IN THE BLANK
+200|1968: "The ____ Berets" & 2021: "The ____ Knight\"|Green
+400|\"The _____ Bride" & "The _____ and the Frog\"|Princess
+600|\"____ Can Wait" & "My Blue ____\"|Heaven
+800|\" _____ " & " ____ in the Air\"|Up
+1000|\"Antwone ____" & "The ____ King \"|Fisher

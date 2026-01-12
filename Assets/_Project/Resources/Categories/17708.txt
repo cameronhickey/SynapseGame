@@ -1,0 +1,6 @@
+KNOW YOUR CAR
+200|You start your car with the help of a lead-acid reaction inside this auto part|the battery
+400|Your heart has these; your car has intake & exhaust types that regulate the flow of vapor & gases in an engine|valves
+600|Changing out this gasket that's used to seal an engine block can improve overall engine performance|the head gasket
+800|Igniting the fuel mixture, these electrode-laden devices must be able to withstand very high temperatures|spark plugs
+1000|In this device that sits above the engine's combustion chambers, fuel is vaporized and mixed with air|carburetor

@@ -1,0 +1,6 @@
+COLORFUL IDIOMS
+200|Elephant or lie|white
+400|Elephants or slip|pink
+600|Humor or market|black
+800|Blood or streak|blue
+1000|Light or thumb|green

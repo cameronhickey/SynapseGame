@@ -1,0 +1,6 @@
+AIRLINES CODES
+200|AA|American Airlines
+400|DL|Delta
+600|CO|Continental
+800|QF|Qantas
+1000|LH|Lufthansa

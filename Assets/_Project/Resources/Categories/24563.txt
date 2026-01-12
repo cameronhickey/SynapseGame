@@ -1,0 +1,6 @@
+HAVE A NOSH
+200|I know I want the Flamin' Hot kind of these snacks; the question is: Crunchy or puffs?|Cheetos
+400|I might be in the mood for a Fuji or a Gala one of these|apples
+600|Noshing at AMC Theatres can include this appetizer, tortilla chips & melted cheese|nachos
+800|Rold Gold & Snyder's of Hanover both make these snacks|pretzels
+1000|How about a handful of these Hawaiian nuts, commonly paired with white chocolate in cookies|macadamia nuts

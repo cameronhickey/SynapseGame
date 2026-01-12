@@ -1,0 +1,6 @@
+COLORFUL FILMS
+200|A classic from the '80s: "Pretty in ____\"|Pink
+400|A documentary about Texas justice: "The Thin ____ Line\"|Blue
+600|A 1998 WWII flim: "The Thin ____ Line\"|Red
+800|A classic from the '40s: "She Wore a ____ Ribbon\"|Yellow
+1000|A 2004 comedy: "Harold & Kumar Go to ____ Castle\"|White

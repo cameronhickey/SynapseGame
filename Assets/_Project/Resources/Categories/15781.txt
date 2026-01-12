@@ -1,0 +1,6 @@
+PRESIDENT OF THE YEAR
+200|1863|Lincoln
+400|1868|Andrew Johnson
+600|1946|Harry Truman
+800|1798|John Adams
+1000|1930|Hoover

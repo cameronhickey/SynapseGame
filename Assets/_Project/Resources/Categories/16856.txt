@@ -1,0 +1,6 @@
+DOD ABCS
+200|AAA can stand for this kind of artillery|anti-aircraft
+400|The "R" in D&R is reintegrate; the "D" is this, to interrogate a soldier who's back from a mission|debrief
+600|SACEUR leads all NATO operations & is this Commander, Europe|Supreme Allied Commander
+800|Second to the CO on a ship is the XO, short for this|executive officer
+1000|Marines can conduct recon in LAVs, light these|light armored vehicles

@@ -1,0 +1,6 @@
+\"BOO"!
+200|It's a follow-up dose of a vaccine; one should be given at age 2 & another before entering school|a booster
+400|He's Count Chocula's ghostly companion in the cereal world|Boo Berry
+600|Jem & Scout's creepy by helpful neighbor in "To Kill a Mockingbird\"|Boo Radley
+800|This type of algebra uses "AND", "OR", & "NOT" as operators that restrict searches on the internet|boolean
+1000|Well I'll be a monkey's uncle! — the Hamadryas species of this was revered by the ancient Egyptians|a baboon

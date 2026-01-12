@@ -1,0 +1,6 @@
+SHEEP
+200|(Kelly of the Clue Crew reads from the Tobruk Sheep Station in Australia.) Sheep are usually shorn once a year in this season, before the new lambs are born; in Australia, the new season officially begins September 1st|spring
+400|(Sarah of the Clue Crew reads from the Tobruk Sheep Station in Australia.) A human & dogs gathering a group of sheep together are said to be doing this, also a verb used for gathering military personnel together for duty|mustering
+600|(Sarah of the Clue Crew reads from the Tobruk Sheep Station in Australia.) A mythic figure in Australia is the person with this job of driving animals across vast distances; he was expected to move sheep 6 miles a day, which may not seem like much, until you try it|drover
+800|(Kelly of the Clue Crew reads from the Tobruk Sheep Station in Australia.) Australia's wool industry, producing one-fourth of the world's supply, began about 200 years ago with the importing of this breed of sheep originally from Spain|Merino
+1000|Philip K. Dick wondered, "Do Androids Dream of" this type of "Sheep\"|electric sheep

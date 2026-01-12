@@ -1,0 +1,6 @@
+THE WEATHER CHANNEL
+200|When it's muggy, "it's not the heat, it's" this, the amount of water vapor in the atmosphere|humidity
+400|Each second about 100 of these natural electrical discharges occur somewhere on Earth|lightning strikes
+600|A "little" one of these "ages" ran between the 14th and 19th Centuries|ice age
+800|In terms of rainfall, it's the driest continent after Antarctica|Australia
+1000|When the folks at the National Weather Service are feeling a bit "DZ," "DZ" stands for this weather condition|drizzle

@@ -1,0 +1,6 @@
+CONNECT 4
+200|Elaine, George, Kramer, Newman|Seinfeld
+400|\"Blowin' In The Wind", "I Want You", "Jokerman", "Not Dark Yet\"|Bob Dylan (songs)
+600|\"The Big Bang Theory", "2 Broke Girls", "NCIS", "60 Minutes\"|CBS
+800|Adam Clayton, David Evans, Paul Hewson, Larry Mullen Jr.|U2
+1000|\"Duel", "Jaws", "Hook", "Munich\"|Spielberg

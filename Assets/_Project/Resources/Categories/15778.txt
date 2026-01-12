@@ -1,0 +1,6 @@
+WORLD CAPITAL ATTRACTIONS
+200|The Parthenon|Athens
+400|Gorki Park, The Revolution Museum|Moscow
+600|Museum Van Loon & the Heineken Experience|Amsterdam (the Netherlands)
+800|Alameda Park along Avenida Juarez|Mexico City
+1000|Zealandia Wildlife Sanctuary|Wellington

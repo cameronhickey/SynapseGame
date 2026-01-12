@@ -1,0 +1,6 @@
+SILENT "C\"
+200|An elephant's trunk contains roughly 40,000 of these, more than you have in your whole body|muscles
+400|A song from "Annie Get Your Gun" says, "Got no mansion, got no" this boat, "still I'm happy with what I've got\"|yacht
+600|Title for a Russian empress, like Nicholas II's Alexandra|czarina
+800|A moral compass|a conscience
+1000|The Latin for "to declare" is the origin of this legal term for a formal accusation|indict(ment)

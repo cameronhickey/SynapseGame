@@ -1,0 +1,6 @@
+SHE CREATED HIM
+200|Rhett Butler|Margaret Mitchell
+400|Severus Snape|J.K. Rowling
+600|Mr. Fitzwilliam Darcy|Jane Austen
+800|Simon Legree|Harriet Beecher Stowe
+1000|Hercule Poirot|Agatha Christie

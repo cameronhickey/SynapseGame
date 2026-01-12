@@ -1,0 +1,6 @@
+ROYAL LONDON
+200|The only part of this royal residence usually open to the public is the Queen's Gallery|Buckingham Palace
+400|Crown jewels to decorate the queen's head or an axe to behead one are on display here|the Tower of London
+600|The Prince & Princess of Wales were married in this cathedral|St. Paul's
+800|An equestrian statue of this king looks toward Whitehall, where he was executed in 1649|Charles I
+1000|Londoners refer to this as the V & A|the Victoria & Albert Museum

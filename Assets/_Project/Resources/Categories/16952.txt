@@ -1,0 +1,6 @@
+\"POISON\"
+200|Statement that might draw response "I'll have a scotch & water\"|\"What's your poison?" ("Name your poison")
+400|Type of epistle that could begin "I'll get you, you contemptible piece of slime\"|poison pen letter
+600|The Geneva protocol of 1925, restricting the use of this, was not ratified until the U.S. until 1974|poison gas
+800|The krait, the boomslang, & the taipan|poisonous snakes
+1000|Rootie Kazootie's arch-enemy|Poison Zumac

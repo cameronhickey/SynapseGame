@@ -1,0 +1,6 @@
+STATES' FIRST NEWSPAPERS
+200|Knoxville Gazette (1791)|Tennessee
+400|Du Buque Visitor (1836)|Iowa
+600|Rocky Mountain News (1859)|Colorado
+800|Sitka Times (1868)|Alaska
+1000|Deseret News (1850)|Utah

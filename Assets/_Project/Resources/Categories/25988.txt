@@ -1,0 +1,6 @@
+LAWN & GARDEN
+200|It sounds like a grassy roof covering, but this rooty lawn layer should be kept relatively thin|thatch
+400|A fairy ring is a naturally occurring circle of these fungi on a lawn|mushrooms
+600|Miracle-Gro suggests surrounding your plants with 2 to 3 inches of this 5-letter weed-inhibiting substance|mulch
+800|This alliterative type of vegetation is named for how it protects & fortifies soil when your garden would otherwise be bare|a cover crop
+1000|Ladybugs are beneficial garden insects; they can consume dozens per day of these, also known as plant lice|aphids

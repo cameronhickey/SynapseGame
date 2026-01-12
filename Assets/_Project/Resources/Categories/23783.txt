@@ -1,0 +1,6 @@
+COMPLETE THE OPERA TITLE
+200|Mozart: "The ____ Flute\"|Magic
+400|Wagner: "____ und Isolde\"|Tristan
+600|Gluck: "Orfeo ed ____\"|Euridice
+800|Offenbach: "The Tales of ____\"|Hoffmann
+1000|Donizetti: "Lucia di ____\"|Lammermoor

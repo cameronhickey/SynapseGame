@@ -1,0 +1,6 @@
+4-LETTER BIRDS
+200|This bird isn't attached to a string, like a high-flying apparatus of the same name|a kite
+400|The Arctic variety of this gull relative is famous for migrating over 25,000 miles each year|a tern
+600|Pronounced one way, it's a bird; pronounced another way it means "jumped in head first\"|dove
+800|It's sometimes referred to as the South American ostrich|the rhea
+1000|Once considered sacred in Ancient Egypt, this wading bird is no longer found along the Nile|the ibis

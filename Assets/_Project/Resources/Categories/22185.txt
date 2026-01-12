@@ -1,0 +1,6 @@
+\"C_MENT\"
+200|Jesus said the first one is "Thou shalt love the Lord thy God with all thy heart\"|commandment
+400|The Dalai Lama has tweeted "a sense of" this "is crucial to being happy\"|contentment
+600|After we get our hot dogs, time to slather on the mustard at this station|condiment
+800|A retailer who buys goods from a wholesaler "on" this pays only for what he in turn can sell, returning the unsold items|consignment
+1000|A window that swings out on hinges|a casement

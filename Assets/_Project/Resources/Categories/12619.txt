@@ -1,0 +1,6 @@
+PAINT YOUR WAGON
+200|If it's a circus wagon, paint it this traditional color|red
+400|The Subaru Forester comes in colors like spark silver & sage this|green
+600|Battle wagon is another name for a battleship, so paint it the color called battleship this|grey
+800|The body of a Conestoga wagon was the Prussian shade of this|blue
+1000|A Ross Macdonald detective novel is titled "The Zebra-Striped" this vehicle that's been called the dead wagon|a hearse

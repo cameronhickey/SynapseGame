@@ -1,0 +1,6 @@
+4 Ls
+200|Go pick up those tickets left in your name at this stadium arena|will call
+400|Hey, Spike! Don't let this sports object touch the ground on your side while in play|a volleyball
+600|Colorful body part slang for a coward|a yellow belly
+800|An idea becoming real due to someone simply believing in it is this kind of "prophecy\"|self-fulfilling
+1000|Not-as-popular name for October 31|All Hallows' Eve

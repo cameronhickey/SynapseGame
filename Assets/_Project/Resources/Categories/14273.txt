@@ -1,0 +1,6 @@
+ALL HAIL
+200|Tiger Woods, George Patton, Shirley Temple Black|California
+400|Aaron Burr, Jack Nicholson, Frank Sinatra|New Jersey
+600|Edna St. Vincent Millay, Henry Wadsworth Longfellow, Margaret Chase Smith|Maine
+800|Wynton Marsalis, Cokie Roberts, Truman Capote|Louisiana
+1000|Hoagy Carmichael, Michael Jackson, Cole Porter|Indiana

@@ -1,0 +1,6 @@
+TYPOGRAPHY
+200|The word "typo" is short for this longer term|typographical error
+400|To a typesetter, what "upper case" means|capital
+600|In official corporate logo, the symbol between "Gulf" and "Western\"|a plus
+800|Named for its Swiss origin, this is the most used typeface family in the world|Helvetica
+1000|Name for the extensions at the top & bottom of letters in some typefaces|serif

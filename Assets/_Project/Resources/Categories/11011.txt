@@ -1,0 +1,6 @@
+STARTS & ENDS WITH W
+200|Gliding, bay or picture is a type of this|a window
+400|Bring those bricks over to me using this conveyance with 2 handles|a wheelbarrow
+600|In 1968 Albania withdrew from this "pact\"|The Warsaw Pact
+800|To lie in the mud for refreshment; "no time to" do this "in the mire\"|to wallow
+1000|In nature, this word can follow "black"; on fall Sundays, it can follow "football\"|widow

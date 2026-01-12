@@ -1,0 +1,6 @@
+WORLD CAPITALS
+200|It's divided into the Kanda, Marunoucki, Asakusa & Ginza districts|Tokyo
+400|This capital's street signs are in English, Arabic & Hebrew|Jerusalem
+600|Thought to be world's oldest existing city, it's the capital of Syria|Damascus
+800|Reykjavik, the world's northernmost capital, is in this country|Iceland
+1000|One of South Africa's 3 capitals|(One of) Pretoria, Cape Town, or Bloemfontein

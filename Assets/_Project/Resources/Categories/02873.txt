@@ -1,0 +1,6 @@
+GONE FISHING
+200|In catching trout, these insects have largely given way to decanter hooks with the same name|flies
+400|It's the type of fishing in which bait or lines are towed behind a boat|trawling
+600|Term for a person who fishes with a hook & line; you may be a "compleat" one|Angler
+800|Yes, pal, it's ground up bits of bait or food spread out over the water to attract game fish|Chum
+1000|On a slow boat to somewhere? Try this method of fishing by towing a baited hook|Trawling

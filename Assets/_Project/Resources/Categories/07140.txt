@@ -1,0 +1,6 @@
+FEELING A BIT "ILL\"
+200|A photograph made from a single frame of film|a still photograph
+400|A watery feed for hogs containing food byproducts|swill
+600|A flavorful gherkin|dill (pickle)
+800|A fleet of small sailing vessels|a flotilla
+1000|A formal ball for debutantes|a cotillion

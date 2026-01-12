@@ -1,0 +1,6 @@
+FILM FIGHT MARQUEE
+200|1999: Jared Leto vs. Ed Norton|Fight Club
+400|1996: Adam Sandler vs. Bob Barker|Happy Gilmore
+600|1987: Gary Busey vs. Mel Gibson|Lethal Weapon
+800|1978: Bruce Lee vs. Kareem Abdul-Jabbar|Game of Death
+1000|1990: Sharon Stone vs. Arnold Schwarzenegger|Total Recall

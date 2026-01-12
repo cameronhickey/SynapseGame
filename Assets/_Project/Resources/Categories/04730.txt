@@ -1,0 +1,6 @@
+THE NUMBER OF...
+200|Playing squares on a standard chessboard|64
+400|Face cards in a standard deck of playing cards|12
+600|Sides on a U.S. stop sign|8
+800|Holes in the PGA Championship golf tournament without sudden death|72
+1000|Letters in the Greek alphabet|24

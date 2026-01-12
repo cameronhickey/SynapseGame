@@ -1,0 +1,6 @@
+PRESIDENTIAL SOLDIERS
+200|WWI, WWII|Eisenhower
+400|The Spanish-American War|Teddy Roosevelt
+600|The Mexican War, The Civil War|Grant
+800|Revolutionary War, Creek War, War of 1812, First Seminole War|Andrew Jackson
+1000|War of 1812, Second Seminole War, Black Hawk War, Mexican War|(Zachary) Taylor

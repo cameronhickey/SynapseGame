@@ -1,0 +1,6 @@
+LIKE A G-6
+200|It's a flat, padded stretcher with legs & wheels for transporting patients|a gurney
+400|An evil, greedy type of creature in folklore, he also appears in "Dungeons & Dragons\"|a goblin
+600|A diver can perform a full or half this|a gainer
+800|To move in a circle, or around a fixed point|gyrate
+1000|Crudely showy or tastelessly colorful|garish

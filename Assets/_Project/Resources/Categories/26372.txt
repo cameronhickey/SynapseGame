@@ -1,0 +1,6 @@
+WORDS ENDING IN "B\"
+200|A pithy truth such as "actions speak louder than words\"|a proverb
+400|The name of this plant can also mean a heated discussion|rhubarb
+600|Exceptionally fantastic, from the Latin for "arrogant\"|superb
+800|A symbol of rebirth, this variety of beetle was sacred to the ancient Egyptians|the scarab
+1000|It can be a low kickoff on a football field, or a short, humorous piece used as a filler in a newspaper|squib

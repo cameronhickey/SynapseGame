@@ -1,0 +1,6 @@
+CAPITALS AT STATEHOOD
+200|Augusta|Georgia
+400|Portland|Maine
+600|Huntsville|Alabama
+800|Guthrie|Oklahoma
+1000|Wheeling|West Virginia

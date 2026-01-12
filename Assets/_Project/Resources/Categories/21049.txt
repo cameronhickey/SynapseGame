@@ -1,0 +1,6 @@
+CITING PRECEDENT
+200|As a result of the 1966 case of this man v. Arizona, suspects in custody must be told of their right to remain silent|(Ernesto) Miranda
+400|A 1962 case said a nonsectarian prayer read in school violated the Establishment Clause of this amendment|the First Amendment
+600|Justice Robert Jackson left his hospital bed to be present for the decision of him v. Board of Education of Topeka|Brown
+800|Roper v. Simmons said that for minors, this was cruel & unusual punishment, prohibited by the 8th Amendment|capital punishment or the death penalty
+1000|Dissenting in Kelo v. New London, Clarence Thomas objected to "boundless use of" this, government taking of property|eminent domain

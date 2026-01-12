@@ -1,0 +1,6 @@
+HITCHCOCK MOVIES IN OTHER WORDS
+200|\"Maniac\"|Psycho
+400|\"Taxonomic Class Aves\"|The Birds
+600|\"Rotarize No. 6 to Get Homicide\"|Dial M for Murder
+800|\"Rescue Pod\"|Lifeboat
+1000|\"A Woman Disappears\"|The Lady Vanishes

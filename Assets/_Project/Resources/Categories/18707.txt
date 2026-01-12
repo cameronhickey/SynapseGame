@@ -1,0 +1,6 @@
+MOVIE ROLE, TV ROLE
+200|Lester Burnham in "American Beauty"; Francis Underwood on "House of Cards\"|Kevin Spacey
+400|Brick Tamland in "Anchorman"; Michael Scott on "The Office\"|Steve Carell
+600|Maggie in "St. Vincent"; Molly Flynn on "Mike & Molly\"|Melissa McCarthy
+800|Salieri in "Amadeus"; Dar Adal on "Homeland\"|F. Murray Abraham
+1000|Aibileen in "The Help"; Annalise Keating on "How to Get Away with Murder\"|Viola Davis

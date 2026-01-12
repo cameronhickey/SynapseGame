@@ -1,0 +1,6 @@
+LED ZEPPELIN
+200|A member of The Yardbirds, this guitarist formed Led Zeppelin under the name The New Yardbirds|Jimmy Page
+400|It's said that the band's name was coined by Keith Moon, the drummer of this band|The Who
+600|Led Zeppelin called it quits in 1980 after the death of this drummer|John Bonham
+800|Considered the band's masterpiece, this song was never released as a single; "Ooh, it makes me wonder\"|\"Stairway to Heaven\"
+1000|Led Zeppelin's only Top 10 single, it was reportedly based on Willie Dixon's "You Need Love\"|\"Whole Lotta Love\"

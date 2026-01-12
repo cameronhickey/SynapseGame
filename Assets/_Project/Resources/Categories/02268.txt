@@ -1,0 +1,6 @@
+MEDICATIONS
+200|Bronchodilators open or widen the bronchioles, small passages in these|the lungs
+400|Dextromethorphan is an antitussive, a drug taken to suppress this|coughing
+600|Also called sulfonamides, these were the first systemic drugs used to combat bacterial infection|sulfa drugs
+800|Some organisms that cause this disease have developed resistance to chloroquine|malaria
+1000|This drug marketed as Tylenol relieves pain by inhibiting the synthesis of prostaglandins|Acetaminophen

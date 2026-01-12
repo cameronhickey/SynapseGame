@@ -1,0 +1,6 @@
+WHERE ARE YOU FROM?
+200|If you're from the capital of Pennsylvania, you're called this, which sounds a bit like a food item|a Harrisburger
+400|1 of the 2 countries you might hail from if you're Hispaniolan|Haiti (or the Dominican Republic)
+600|A Neorican is someone originally from this place who has lived in the United States|Puerto Rico
+800|This term for someone from the "Wolverine State" ends with the name of a male bird|a Michigander
+1000|If you're a Crucian, you're from this U.S. Virgin Island|St. Croix

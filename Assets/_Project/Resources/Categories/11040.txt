@@ -1,0 +1,6 @@
+THEN HIT "PRINT\"
+200|Architectural aid often drawn to scale|blueprints
+400|Loops, arches & whorls make up these|fingerprints
+600|Linford Christie, who ran 100 meters in 9.87 seconds in 1993, was this kind of athlete|a sprinter
+800|2-word term for the detailed, often smaller wording on a contract that, if overlooked, could be troublesome|the fine print
+1000|Machine-finished paper for the Herald or the Times|newsprint

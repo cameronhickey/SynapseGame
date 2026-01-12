@@ -1,0 +1,6 @@
+STAR SEARCH
+200|Most stars are made of the same stuff when they form, about 74% hydrogen & 25% this gas|helium
+400|The beehive cluster, a group of stars visible to the naked eye, is on the shell of this crabby constellation|Cancer
+600|This word for what we know to be a very old star is Latin for "new"—silly ancient astronomers!|nova
+800|Most stars are red these, with less than 50% the mass of the Sun|dwarfs
+1000|We are serious that Sirius is the brightest star in the night sky, with a -1.46 measure of apparent this|magnitude

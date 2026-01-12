@@ -1,0 +1,6 @@
+WEBSITE NAME ABBREVIATIONS
+200|Booksellers: bn.com|Barnes & Noble
+400|A provider of service for millions: aol.com|America Online
+600|Wolf & Coop give us the scoop: cnn.com|Cable News Network
+800|For celluloid lovers: imdb.com|the Internet Movie Database
+1000|Take stock of your stocks: wsj.com|Wall Street Journal

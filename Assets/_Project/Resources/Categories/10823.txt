@@ -1,0 +1,6 @@
+DISNEY MOVIE TAGLINES
+200|\"Still the fairest of them all\"|Snow White and the Seven Dwarfs
+400|\"The toys are back in town\"|Toy Story 2
+600|\"She's high-society...he's back-alley...and it's a doggone wonderful world!\"|Lady and the Tramp
+800|\"Pure enjoyment...with no strings attached\"|Pinocchio
+1000|\"Awaken to a world of wonders\"|Sleeping Beauty

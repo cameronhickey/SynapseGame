@@ -1,0 +1,6 @@
+BOOKS BY CHAPTER TITLES
+200|\"Another View of Hester\"|The Scarlet Letter
+400|\"Javert Off the Track\"|Les Misérables
+600|\"The Deadly Poppy Field\"|The Wizard of Oz
+800|\"Aunt March Settles the Question\"|Little Women
+1000|\"I Strike the Jolly Roger\"|Treasure Island

@@ -1,0 +1,6 @@
+\"UGA\"
+200|A miser would claim this adjective with pride|frugal
+400|The Carnival cruise with this name, for older women & younger men, only sailed once|the Cougar Cruise
+600|This country had an Armada too, but an English fleet defeated it in 1615|Portugal
+800|9-letter word meaning to present a pill or bad news so it's easier to swallow|sugarcoat
+1000|It's known as a fictitious force, meaning it's only apparent within a specific frame of reference, like a spinning carousel|centrifugal

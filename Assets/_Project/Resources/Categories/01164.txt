@@ -1,0 +1,6 @@
+SPANISH CLASS
+200|It's Spanish for mister|señor
+400|Topaz is topacio, while this gem is zafiro|sapphire
+600|This season of the year is la primavera|spring
+800|Gracias means "thank you", & this means "thank you very much\"|muchas gracias
+1000|This liquid is known as agua caliente; if you get in trouble, you're in it|hot water

@@ -1,0 +1,6 @@
+NOMS DE PLUME
+200|In French this graceful swimmer is un cygne|a swan
+400|This peaceful bird is une colombe|a dove
+600|Ask your "mother"— this "silly" bird is une oie|a goose
+800|This nocturnal bird of prey is un hibou|an owl
+1000|This small game bird is une caille|a quail

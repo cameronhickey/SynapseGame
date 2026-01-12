@@ -1,0 +1,6 @@
+ALL YOU NEED IS GOV.
+200|Former presidential candidate Bill Richardson|New Mexico
+400|Jeb Bush successor Charlie Crist|Florida
+600|Jon Corzine|New Jersey
+800|Bobby Jindal, who replaced Kathleen Blanco|Louisiana
+1000|Rick Perry|Texas

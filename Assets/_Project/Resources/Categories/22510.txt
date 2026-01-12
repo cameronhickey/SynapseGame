@@ -1,0 +1,6 @@
+BIRDS OF PREY
+200|These birds of prey are largely nocturnal, but the snowy type often hunts by day|an owl
+400|Found in South America, the harpy is a crested variety of this bird of prey with a wingspan that can reach seven feet|an eagle
+600|The largest bird of prey is this Western Hemisphere vulture that can fly 18,000 feet high & weigh 30 pounds|the condor
+800|One of the only terrestrial birds of prey is this species whose name seems more suited for an office than its home in Africa|the secretary bird
+1000|Reaching speeds of 200 miles per hour, this bird of prey is not only the world's fastest bird, it's also the world's fastest animal|the peregrine falcon

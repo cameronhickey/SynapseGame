@@ -1,0 +1,6 @@
+ROAD MOVIES
+200|Freddy Krueger was introduced in this 1984 scarefest|A Nightmare on Elm Street
+400|Classic 1950 film that includes the line "All right, Mr. De Mille, I'm ready for my close-up\"|Sunset Boulevard
+600|Michael Douglas won an Oscar for assuring us that "Greed... is good" in this 1987 film|Wall Street
+800|Naomi Watts & Laura Elena Harring starred in this 2001 Hollywood noir film directed by David Lynch|Mulholland Drive
+1000|College professor Jeff Bridges begins to suspect that his neighbor Tim Robbins is a terrorist in this 1999 thriller|Arlington Road

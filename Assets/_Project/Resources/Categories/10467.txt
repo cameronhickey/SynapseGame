@@ -1,0 +1,6 @@
+SESAME STREET EATS
+200|(Alex chats with Elmo on Sesame Street.) "Elmo, did you know that kiwis are an excellent source of vitamin C, which is also known as this acid?" "Well, Elmo love kiwis!" "Good!\"|ascorbic acid
+400|(Alex visits Oscar the Grouch's aluminum abode on Sesame Street.) "You know what, Oscar? On my pizza, I'm one of those people who really likes this calcium-rich herring relative. What about you?" "Well, I like 'em in my milkshakes." "What? You're not serious." "Heh heh.\"|anchovies
+600|(Alex habla con Rosita en Sesame Street.) "Rosita is very familiar with this word, naranja." "And Alex knows that naranja means this.\"|orange
+800|(This next clue is brought to you by the letter P.) "Hey, Big Bird, isn't it true that good nutrition is one of the special themes on 'Sesame Street' this year?" "Oh, yes, it is, & did you know that eggs are incredibly rich in this?" [Alex opens the egg carton, to the eggs' delight.] "Yayyy! Yayyy!" "Quiet, you guys, quiet!\"|protein
+1000|(Alex visits Oscar once more.) "You know, Trebek, I don't know why people throw away perfectly good apple peels." "I don't either, Oscar, because they're a great source of this material, also called bulk, which is really needed for digestion." "Hmm.\"|fiber

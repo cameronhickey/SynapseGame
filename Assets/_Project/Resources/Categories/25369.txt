@@ -1,0 +1,6 @@
+SILENT H
+200|The host of a nightly news telecast, or the last runner in a relay race|anchor
+400|This exclamation of frustration by Homer Simpson was inspired by utterances of actor James Finlayson in Laurel & Hardy films|D'oh!
+600|It can be submission to one of superior rank or a song written in imitation of an admired artist|homage
+800|From the Dutch for "permission", it's a leave of absence granted to a member of the military|a furlough
+1000|From the name of a town in County Wicklow, it's an Irish walking stick or cudgel|a shillelagh

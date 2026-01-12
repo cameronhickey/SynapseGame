@@ -1,0 +1,6 @@
+ANATOMICAL SPELLING
+200|The thigh bone|F-E-M-U-R
+400|What the Rh stands for in Rh factor|R-H-E-S-U-S
+600|The tube leading from the middle ear to the throat|E-U-S-T-A-C-H-I-A-N
+800|The lower jaw|M-A-N-D-I-B-L-E
+1000|It prevents food from entering the windpipe during the act of swallowing|E-P-I-G-L-O-T-T-I-S

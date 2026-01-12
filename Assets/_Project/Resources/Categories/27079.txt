@@ -1,0 +1,6 @@
+-NYMS
+200|Words with similar meanings, they're listed in a thesaurus|synonyms
+400|It describes pairs of words like hot & cold, long & short, & easy & hard|antonyms
+600|Words with the same sound & spelling but different meanings|homonyms
+800|Meaning "false name", it's a pen name used by an author|a pseudonym
+1000|A word formed by the initial letters of a set group of words, like NOW for National Organization of Women|an acronym

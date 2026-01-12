@@ -1,0 +1,6 @@
+SAUCE
+200|This small pitcher with a nautical name is used to pour sauces over your food|Gravy boat
+400|The name of this wine sauce served on meats betrays its point of origin, Bordeaux|bordelaise sauce
+600|Also called rooster sauce, this hot sauce is named for a town on the Gulf of Thailand|sriracha
+800|A steward for Louis XIV invented this one of the "mother sauces" by stirring milk into a roux|Béchamel
+1000|This thick herb sauce, excellent with grilled meat, originated in Argentina|chimichurri

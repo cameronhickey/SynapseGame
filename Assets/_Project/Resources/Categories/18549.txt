@@ -1,0 +1,6 @@
+WHICH BODY PART?
+200|Asthma|the lungs
+400|Hepatitis: This organ|the liver
+600|Glioblastoma|the brain
+800|The anterior cruciate ligament: This joint|the knee
+1000|Adhesive capsulitis, AKA frozen this|frozen shoulder

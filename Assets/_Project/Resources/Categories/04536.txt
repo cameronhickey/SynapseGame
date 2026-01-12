@@ -1,0 +1,6 @@
+FOREIGN GEOGRAPHICAL TERMS
+200|In Spanish: lago|Lake
+400|In Italian: penisola|Peninsula
+600|In German: stadt|City
+800|In French: plage|Beach
+1000|In Chinese: jiang|River

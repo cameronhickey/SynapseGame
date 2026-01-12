@@ -1,0 +1,6 @@
+VWLLSS NTNS
+200|An archipelago: FJ|Fiji
+400|In the North Atlantic: CLND|Iceland
+600|Off the coast of Africa: CP VRD|Cape Verde
+800|In Africa: THP|Ethiopia
+1000|In South America: CDR|Ecuador

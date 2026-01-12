@@ -1,0 +1,6 @@
+GEO-POLITICIANS
+200|This first signer of the Declaration of Independence has his name on several towns & a Boston Univ. student village|John Hancock
+400|J. Strom Thurmond lake lies on the border of Georgia & this state represented by Senator Thurmond for 48 years|South Carolina
+600|Alamo is the seat of the Tennessee county named for this frontiersman and Congressman|Davy Crockett
+800|The last U.S. president to have a county named for him (in N.M.), he may be best known for the Teapot Dome scandal|(Warren G.) Harding
+1000|This 5'4" "Little Giant" who debated Abraham Lincoln has an 11,300' mountain named for him in Montana|Stephen Douglas

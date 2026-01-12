@@ -1,0 +1,6 @@
+FROM BEOWULF TO VIRGINIA WOOLF
+200|To avenge this monster's death, his mother slays a soldier but is later killed by Beowulf|Grendel
+400|This author planned to have each pilgrim tell 2 tales on the way to Canterbury & 2 on the way back|Geoffrey Chaucer
+600|John Milton's 1671 sequel never gained the reputation of this 1667 epic|\"Paradise Lost\"
+800|\"All you need to know", according to this Keats ode is "Beauty is truth, truth beauty\"|\"Ode on A Grecian Urn\"
+1000|In this essay Virginia Woolf said women need money & privacy to develop as writers|\"A Room of One's Own\"

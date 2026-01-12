@@ -1,0 +1,6 @@
+MLB TEAM NAMES, DEFINED
+200|A nod to Catholic missionaries once prevalent in the area|the Padres
+400|In 1890 they stole a player from Philadelphia's team & got this nickname|the Pirates
+600|For a viper with a rattle at the end of its tail|the Diamondbacks
+800|Named after a law enforcement agency that dates back to the 1820s|the Rangers
+1000|For those who had to get out of the way of NYC trolleys back in the day|the Dodgers

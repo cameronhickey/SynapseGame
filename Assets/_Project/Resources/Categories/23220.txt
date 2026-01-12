@@ -1,0 +1,6 @@
+\'TIS THE SEASONAL BOOK TITLE
+200|P.G. Wodehouse's "____ Fever\"|Spring
+400|Jim Harrison's "Legends of the ____\"|Fall
+600|Daniel Woodrell's "____'s Bone\"|Winter
+800|Herman Raucher's "____ of '42\"|Summer
+1000|Laura Ingalls Wilder's "The Long ____\"|Winter

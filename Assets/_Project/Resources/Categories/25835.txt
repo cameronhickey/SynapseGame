@@ -1,0 +1,6 @@
+FAMILIAR FURNITURE
+200|A chesser is a portmanteau of these 2 storage units|a chest & a dresser
+400|This type of sofa is named for its individual pieces that can be rearranged in whatever wacky way you please|a sectional
+600|Quite comfy, these overstuffed chairs share a name with a suit in a deck of cards|a club
+800|It can be a meal where you pick what you want or a sideboard table to store your china|buffet
+1000|A diminutive word, this type of long bench is commonly found in restaurants|banquette

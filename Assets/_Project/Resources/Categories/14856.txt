@@ -1,0 +1,6 @@
+FRUIT TYPES
+200|Cortland, Golden Delicious|apple
+400|Red Globe, Champagne|grapes
+600|Bearss, Key|lime
+800|Cavendish, Manzano|bananas
+1000|Crenshaw, Santa Claus|melon

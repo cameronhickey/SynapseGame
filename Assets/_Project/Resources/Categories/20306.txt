@@ -1,0 +1,6 @@
+THE COLORS OF MUSIC
+200|Van Morrison: "____ Eyed Girl\"|\"Brown Eyed Girl\"
+400|John Mellencamp: "____ Houses\"|\"Pink Houses\"
+600|Chris de Burgh: "The Lady In ____\"|red
+800|R.E.M.: "____ Crush\"|\"Orange Crush\"
+1000|Sting: "Fields of ____\"|gold

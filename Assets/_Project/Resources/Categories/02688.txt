@@ -1,0 +1,6 @@
+AUTHORS' NICKNAMES
+200|\"The Pilgrim From Hannibal\"|Mark Twain
+400|\"The Fourth Musketeer\"|Alexandre Dumas (pere)
+600|\"The Chronicler of Main Street\"|Sinclair Lewis
+800|\"The Father of English Poetry\"|Geoffrey Chaucer
+1000|Italy's "Poet of the Damned\"|Dante Alighieri

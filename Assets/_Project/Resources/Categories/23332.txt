@@ -1,0 +1,6 @@
+CURRENT TV
+200|This NBC show is about a master criminal who helps the FBI capture others of his ilk|The Blacklist
+400|If you've filled up on Chip, turn to this half of a famous couple & her cooking show "Magnolia Table\"|Joanna Gaines
+600|The April 7, 2021 episode of "The Goldbergs" included a tribute to this late actor who played Pops|George Segal
+800|Hospital patients on "The Resident" can take comfort in familiar faces like this actor who once played young Theo Huxtable|(Malcolm-Jamal) Warner
+1000|Charm, scenery & cow anatomy are features of this adaptation of James Herriot's veterinary memoir seen on PBS|All Creatures Great and Small

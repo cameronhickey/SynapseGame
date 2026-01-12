@@ -1,0 +1,6 @@
+PUFFIN
+200|The puffin's number one enemy is the great black-backed variety of this "sea" bird|seagulls
+400|This easternmost U.S. state is home to puffin breeding grounds that were once almost wiped out|Maine
+600|Usually boiled & served with a variety of sauces, puffins are eaten in this northernmost U.K. country|Scotland
+800|Of the 15 million puffins in the world, about 8 million can be found on or near this island nation of the N. Atlantic|Iceland
+1000|From the puffin's black-&-white look, its scientific name, Fratercula arctica, means "little" this "of the north\"|brother (friar)

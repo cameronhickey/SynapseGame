@@ -1,0 +1,6 @@
+WISCONSIN CITIES
+200|Known as the Beer Capital of the U.S., this largest Wisconsin city is home to several major breweries|Milwaukee
+400|This city has Wisconsin's only National Football League franchise|Green Bay
+600|The name of this city, an early logging center, is French for "clear water\"|Eau Claire
+800|In 1836 Judge James Doty persuaded the legislature to move the capital from Belmont to this city|Madison
+1000|Industry in this seat of Winnebago County produces transportation equipment, corrugated boxes & overalls|Oshkosh

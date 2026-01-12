@@ -1,0 +1,6 @@
+LETTER TO ADD
+200|Add this letter to make ink red, or at least a shade of it|P (Pink)
+400|Add this letter to turn ire into something else that burns|F (Fire)
+600|Add this letter to lack to get what a taut rope lacks|S (Slack)
+800|Add this letter to turn all into a place to buy all things|M (Mall)
+1000|Add this letter to rook to get someone who might rook you|C (Crook)

@@ -1,0 +1,6 @@
+WHERE DID YOU GO TO SCHOOL?
+200|To this university adjacent to Exposition Park in Los Angeles; go, Trojans!|USC
+400|I just finished my studies at this school nicknamed "Old Eli\"|Yale
+600|To the University of this state at Chapel Hill|North Carolina
+800|To this college for women, same as Hillary Clinton|Wellesley
+1000|I went to this college, the one in Hartford, not Dublin, Ireland|Trinity

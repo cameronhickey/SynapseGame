@@ -1,0 +1,6 @@
+ENDS IN "B\"
+200|A large branch of a tree|limb
+400|A celestial being, or a tot with a sweet, innocent face|a cherub
+600|2-syllable word for a good-looking actor who's the object of romantic infatuation|a heartthrob
+800|Verb meaning to examine thoroughly, or to connect a building's water pipes|plumb
+1000|The red crest on the head of certain domestic fowl|a coxcomb

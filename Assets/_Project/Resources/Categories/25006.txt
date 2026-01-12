@@ -1,0 +1,6 @@
+SHOW BIZ MARRIAGES
+200|He directed Judy Garland in "Meet Me in St. Louis" & married her the next year|Vincente Minnelli
+400|Eddie Fisher's ex-wife Mary Frances Reynolds|Debbie
+600|Eddie Fisher's ex-wife Concetta Ann Ingolia|Connie Stevens
+800|She was 16 years older than her 2nd husband Garson Kanin|Ruth Gordon
+1000|Born Ivo Livi, this husband of the late Simone Signoret is Italian, not French|Yves Montand

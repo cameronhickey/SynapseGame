@@ -1,0 +1,6 @@
+\"IT\"
+200|Something that provokes a desire to scratch the skin|an itch
+400|Worldwide it's the native language of about 66,000,000 people|Italian
+600|Used for emphasis, they're printed letters that usually slant to the right|italics
+800|A list of places to be visited|itinerary
+1000|First name of violin virtuoso Perlman|Itzhak

@@ -1,0 +1,6 @@
+HOLD THE MAYO CLINIC
+200|The Mayo Clinic was started in Rochester in this state|Minnesota
+400|In 1914 Mayo isolated the pure hormone thyroxin, made by this gland|the thyroid gland
+600|In 1950 Mayo doctors Edward Kendall & Philip Hench won the Nobel Prize for their work with this steroid|cortisone
+800|The Mayo-Gibbon bypass machine assumes the functions of these 2 different organs|heart & lung
+1000|In 1973 Mayo introduced to North America this scanner that uses a computer & X-rays|a CT scanner

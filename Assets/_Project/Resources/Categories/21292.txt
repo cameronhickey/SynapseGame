@@ -1,0 +1,6 @@
+FLAVORS
+200|For decades Pop-Tarts' No. 1 bestselling flavor has been frosted this fruit|strawberry
+400|Pungent cheese can be described with this word, a goal when whetting|sharp
+600|Calbee makes Japanese snacks, including Kappa Ebisen crackers, flavored with this shellfish, the ebi|shrimp
+800|It's an okay name for a small fruit pastry, but not for a girl at the bar|tart
+1000|Used in a variety of confections, these seeds are usually described as having a licorice flavor|anise

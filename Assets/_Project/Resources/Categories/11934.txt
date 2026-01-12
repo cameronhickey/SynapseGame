@@ -1,0 +1,6 @@
+HAVE SOME "FUN\"
+200|7-letter word meaning extinct or no longer in use|defunct
+400|Ow, we need this word / Give up this word that can mean "stench" / Ow, we need this word / We gotta have that word|funk
+600|A type of cake, or a cone-shaped utensil|funnel
+800|It means serving as a foundation or basis; reading is said to be this, too|fundamental
+1000|A singer with a bass voice of the lowest range is a basso this|profundo

@@ -1,0 +1,6 @@
+CHIEF JUSTICES
+200|He presided over Bill Clinton's impeachment trial|Rehnquist
+400|This Ohioan was the president of the ABA (& something else as well) before becoming Chief|(William) Taft
+600|This Chief led a commission before which 552 witnesses testified|Earl Warren
+800|Dred Scott's nemesis, he was rejected as an associate in 1835 but a new Senate confirmed him as chief the next year|Roger B. Taney
+1000|Assistant U.S. Attorney General from 1953 to 1956, he later won the Medal of Freedom; how delicious!|Warren Burger

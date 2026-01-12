@@ -1,0 +1,6 @@
+ESPERANTO
+200|In Esperanto, this form of address is frauleino|Miss
+400|Arbo is tree & this tree material is ligno|Wood
+600|Pluvemantello is this item of foul-weather apparel|Raincoat
+800|This sport is aquaskiado|Water Skiing
+1000|Formico is this small insect|Ant

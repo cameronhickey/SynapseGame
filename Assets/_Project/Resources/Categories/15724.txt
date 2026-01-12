@@ -1,0 +1,6 @@
+\"J" FOOD & DRINK
+200|This mint drink is traditional at the Kentucky Derby|mint julep
+400|There are Monterey & Sonoma types of this cheese|Jack
+600|Some say the name of this Creole dish comes from the French word for "ham\"|jambalaya
+800|This Norwegian cheese similar to Swiss has undertones of nuts|Jarlsberg
+1000|This 70-proof liqueur, a blend of 56 different herbs, has an umlaut over the second letter in its name|Jägermeister

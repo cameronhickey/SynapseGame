@@ -1,0 +1,6 @@
+NFL TEAMS IN SPANISH
+200|Los Gigantes|the Giants
+400|Los Osos|the Bears
+600|Los Cuarenta y Nueve|the 49ers
+800|Los Águilas|the Eagles
+1000|Los Cuervos|the Ravens

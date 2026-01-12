@@ -1,0 +1,6 @@
+\"SETT"ING
+200|A VHS or beta tape container|a cassette
+400|The only U.S. state that fits the bill|Massachusetts
+600|Yet to be populated, or ill at ease|unsettled
+800|At Belmont, the horse running in the front|the pacesetter
+1000|A liqueur that tastes like licorice|anisette

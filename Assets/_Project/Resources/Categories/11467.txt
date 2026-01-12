@@ -1,0 +1,6 @@
+HYPO-POURRI
+200|One who fears that he is suffering from a major undetected disease, despite medical evidence to the contrary|a hypochondriac
+400|Prolonged exposure to the cold causes this condition in which the body's temperature drops below 95 degrees|hypothermia
+600|The FDA does not require testing to back up claims that cosmetics are this, meaning causing fewer reactions|hypoallergenic
+800|Low blood sugar|hypoglycemia
+1000|This structure of the brain directs the workings of the autonomic nervous system|the hypothalamus

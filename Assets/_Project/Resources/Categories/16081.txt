@@ -1,0 +1,6 @@
+TOON TOWN
+200|\"The Simpsons\"|Springfield
+400|\"The Flintstones\"|Bedrock
+600|\"SpongeBob SquarePants\"|Bikini Bottom
+800|\"Family Guy\"|Quahog
+1000|\"King of the Hill\"|Arlen, Texas

@@ -1,0 +1,6 @@
+CAPITAL CITY UNIVERSITIES
+200|University of Westminster|London
+400|Keio University|Tokyo
+600|D.I. Mendeleyev University of Chemical Technology|Moscow
+800|Gallaudet University|Washington, D.C.
+1000|Kyung Hee University|Seoul

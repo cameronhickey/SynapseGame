@@ -1,0 +1,6 @@
+NAME THE INSTRUMENT
+200|In Billy Joel's "___ Man\"|Piano
+400|In Wynonna's "Girls With ___\"|Guitars
+600|In Bruce Hornsby's "___ Rain\"|Mandolin
+800|In Linda Ronstadt's "Different ___\"|Drum
+1000|In The Byrds' "Mr. ___ Man\"|Tambourine

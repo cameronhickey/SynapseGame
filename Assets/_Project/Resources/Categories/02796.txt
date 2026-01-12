@@ -1,0 +1,6 @@
+STARTS & ENDS WITH "O\"
+200|Shakespeare's moor|Othello
+400|The first 3 Holy Roman emperors, father, son & grandson, shared this name|Otto
+600|It's a long, dramatic musical piece, usually on a religious theme|Oratorio
+800|This river that flows through Venezuela is South America's northernmost major river|Orinoco
+1000|Similar to Turkish raki, it's perhaps Greece's best-known aperitif|Ouzo

@@ -1,0 +1,6 @@
+SPORTS BY CHAMPIONS
+200|Shane Mosley, Sonny Liston|boxing
+400|Jim Courier, Maria Sharapova|tennis
+600|Eric Heiden, Bonnie Blair|speed-skating
+800|Nick Faldo, Angel Cabrera|golf
+1000|Alberto Contador, Jan Ullrich|biking

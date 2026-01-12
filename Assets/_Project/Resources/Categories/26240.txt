@@ -1,0 +1,6 @@
+CITIES ON THE LAKE
+200|Montreux & Lausanne|Lake Geneva
+400|Mwanza & Kampala|Lake Victoria
+600|Rochester & Mississauga|Lake Ontario
+800|Slidell & Kenner|Lake Pontchartrain
+1000|Neenah & Oshkosh|Lake Winnebago

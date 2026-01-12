@@ -1,0 +1,6 @@
+BOOKS IN GERMAN
+200|Mark Twain: "Der Arme Prinz und der Reiche Bettler\"|The Prince and the Pauper
+400|John Grisham: "Der Regenmacher\"|The Rainmaker
+600|Edith Wharton: "Zeit der Unschuld\"|The Age of Innocence
+800|William Faulkner: "Als ich im Sterben lag\"|As I Lay Dying
+1000|Charles Dickens: "Eine Weihnachts-Geschichte\"|A Christmas Carol

@@ -1,0 +1,6 @@
+IT'S A SCIENCE
+200|Atmospheric sciences include climatology & this, the study & forecasting of the weather|meteorology
+400|Marie Curie won Nobel prizes in these 2 categories|physics & chemistry
+600|Thomas Carlyle called this study of the production, consumption & distribution of wealth "the dismal science\"|economics
+800|Petrology, the science of rocks, studies the 3 main classes: metamorphic, sedimentary & this one|igneous
+1000|A German zoologist coined the name of this branch of biology that studies the relationship between organisms & their environments|ecology

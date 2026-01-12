@@ -1,0 +1,6 @@
+\"C" FOOD
+200|This delicacy is much less expensive when lumpfish eggs are used instead of sturgeon eggs|caviar
+400|1 of the 2 alternate names for garbanzos that fit the category|chickpeas (or ceci)
+600|Head south of the border or to any good Mexican restaurant for one of these deep-fried burritos|chimichangas
+800|Originally from Naples, it's a single serving stuffed pizza in the shape of a turnover|a calzone
+1000|This French grilled ham & cheese sandwich also comes in a version pour "madame\"|croque-monsieur

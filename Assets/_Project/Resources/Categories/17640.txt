@@ -1,0 +1,6 @@
+\"-ARY\"
+200|Given free as a gift, or describing a remark like, "You look good!\"|complimentary
+400|A minute blood vessel|a capillary
+600|A pro soldier hired to serve in a foreign army|a mercenary
+800|A trustee of property has this type of "responsibility", the duty of acting in good faith|fiduciary
+1000|If you wonder what kind of man is up for this insurance job that computes premiums based on probabilities, here's one|an actuary

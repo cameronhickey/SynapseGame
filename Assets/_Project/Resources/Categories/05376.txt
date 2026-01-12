@@ -1,0 +1,6 @@
+MOVIE TAG LINES
+200|1992: "You'll laugh, you'll cry, you'll hurl.\"|Wayne's World
+400|1994: "Drink from me and live forever\"|Interview with the Vampire
+600|1997: "Collide with destiny\"|Titanic
+800|1999: "Every saga has a beginning\"|Star Wars: The Phantom Menace
+1000|1999: "Catch her if you can\"|Runaway Bride

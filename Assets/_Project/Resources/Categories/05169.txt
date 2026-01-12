@@ -1,0 +1,6 @@
+THAT'S REVOLTING!
+200|The Zapatistas|Mexico
+400|The Tamil Tigers|Sri Lanka
+600|The Shining Path|Peru
+800|The FARC|Colombia
+1000|The Moro National Liberation Front|Philippines

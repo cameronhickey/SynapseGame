@@ -1,0 +1,6 @@
+GUAM
+200|This country that occupied Guam 1941-44 sends the most tourists there today|Japan
+400|Except for WWII, this U.S. armed service administered the island from 1898 to 1950|the U.S. Navy
+600|This European country annexed Guam in 1565|Spain
+800|Over 80% of Guamanians are followers of this religion|Roman Catholicism
+1000|In 1975 over 100,000 refugees from this country stopped in Guam on their way to the U.S.|Vietnam

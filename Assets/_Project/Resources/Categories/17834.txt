@@ -1,0 +1,6 @@
+HAVE A COUNTY SEAT
+200|Take a load off in White Plains, the county seat of Westchester in this state|New York
+400|Washtenaw's county seat is Ann Arbor in this state; go Blue!|Michigan
+600|Check out some bridges of Madison County near its county seat of Winterset in this state|Iowa
+800|Muskogee is both a county & county seat in this state|Oklahoma
+1000|No one takes a back county seat to Jackson in this state's Teton County|Wyoming

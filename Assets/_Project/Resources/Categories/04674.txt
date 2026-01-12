@@ -1,0 +1,6 @@
+CHINESE LEADERS
+200|Party chairman from 1949-1976|Mao Tse-tung
+400|President in China, 1948-1949; President in exile on Taiwan, 1949-1975|Chiang Kai-shek
+600|The last emperor, 1908-1912|Pu Yi
+800|President, 1993-today|Jiang Zemin
+1000|Vice Premier & most powerful member of Chinese Communist Party from 1980-1989|Teng Hsiao-ping

@@ -1,0 +1,6 @@
+ONE OF THESE THINGS IS NOT LIKE THE OTHERS
+200|The one that's a vegetable|broccoli
+400|The one that is a state east of the Mississippi river|Michigan
+600|The one who is an American-born U.S. governor but has not appeared on "The Dating Game\"|Sarah Palin
+800|The one that's not a letter in Einstein's famous relativity equation|X
+1000|The one whose headquarters are in the United States|Dodge

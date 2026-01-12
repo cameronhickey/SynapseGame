@@ -1,0 +1,6 @@
+LONDON LANDMARKS
+200|St. Helen's Bishopsgate is one of the few churches that survived this 1666 event|the Great Fire of London
+400|Opened in 1897, this gallery of modern British art was named for a sugar merchant|Tate Gallery
+600|It was originally the garden of a convent in Westminster|Covent Garden
+800|The marble arch was to be its entrance way, but was too narrow for the state coach to pass through|Buckingham Palace
+1000|Nickname "The Old Lady of Threadneedle Street", its worth is measured in pounds|the Bank of England

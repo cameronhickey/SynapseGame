@@ -1,0 +1,6 @@
+\'ALLO, GOVERNOR!
+200|Al Smith, Mario Cuomo|New York
+400|Calvin Coolidge, Michael Dukakis|Massachusetts
+600|Beauford Jester, John B. Connally, Jr.|Texas
+800|Henry S. Thibodaux, P.B.S. Pinchback|Louisiana
+1000|Karl F. Rulvagg, Floyd Bjornsterne Olson, Jacob Aall Ottesen Preus|Minnesota

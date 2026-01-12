@@ -1,0 +1,6 @@
+KITCHEN TERMS DEFINED
+200|It's the nucleus of a grain kernel; wheat's is widely available|the germ
+400|It's the only tuna that can be called white|albacore
+600|The name of these fatty acids means they have a double bond at the 3rd carbon atom from the end|omega-3
+800|This "sc"ale measures the heat of chili peppers|the Scoville scale
+1000|The name of this chopping blade means "half moon" in Italian|mezzaluna

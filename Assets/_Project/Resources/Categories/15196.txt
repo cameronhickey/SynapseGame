@@ -1,0 +1,6 @@
+RIGHT "E\"
+200|A person fond of booze is known to "bend" this body part|their elbow
+400|Tripod for a painter|an easel
+600|Alphabetically, it's the first book of the Bible that starts with the letter "E\"|Ecclesiastes
+800|To unceremoniously expel from a baseball game or an airplane|eject
+1000|A broadcasting chamber with resonating walls that make hollow sound effects|an echo chamber

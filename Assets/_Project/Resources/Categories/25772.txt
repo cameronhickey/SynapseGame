@@ -1,0 +1,6 @@
+TSA YEA OR NAY
+200|Nay! Under no circumstances may you bring sticks of this Nobel explosive on a plane|dynamite
+400|Yea! You can carry on your ball for this sport, but the pins have to go in your checked bag|bowling
+600|Carry Nation carried these short-handled axes, but you can't, at least not in your carry-on|a hatchet
+800|Nay to this inflatable safety device, so you might as well leave yours in your car|an air bag
+1000|Warning! While you may check firearms & ammo, certain places, like these islands, TCI for short, prohibit them from coming in|Turks and Caicos

@@ -1,0 +1,6 @@
+TRADE & COMMERCE
+200|Repo is short for this|repossession
+400|Familial adjective used to describe a small family-run business|a mom-and-pop stire
+600|A load of freight; a "bill of" it tells you what was shipped & how|a bill of lading
+800|These 2 publishers of corporate credit ratings merged in 1933 & still lead the field|Dun & Bradstreet
+1000|This transportation term refers to the wealthy or elite clientele of a business|the carriage trade

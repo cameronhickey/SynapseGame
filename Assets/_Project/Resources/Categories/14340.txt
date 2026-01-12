@@ -1,0 +1,6 @@
+SUV NAMES
+200|A Subaru, or a remote inland area of Australia|Outback
+400|Ford models have included the Excursion & this, a type of excursion, perhaps for exploration|Expedition
+600|This tree can be 350 feet tall: that's 344 feet taller than the Toyota SUV of the same name|a Sequoia
+800|Chevrolet named an SUV for this, one of 2 times of year when the sun is directly above the equator|Equinox
+1000|A Nissan SUV shares the name of this robotic spacecraft that landed on Mars July 4, 1997|Pathfinder

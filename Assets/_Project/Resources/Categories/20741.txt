@@ -1,0 +1,6 @@
+NOVELS WITH CONFLICT
+200|\"M*A*S*H" by Richard Hooker|the Korean War
+400|\"The Last Full Measure" by Jeff Shaara|the Civil War
+600|Tim O'Brien's "Going After Cacciato\"|the Vietnam War
+800|\"The Naked & the Dead" by Norman Mailer|World War II
+1000|\"Rabble in Arms" by Kenneth Roberts|the American Revolution

@@ -1,0 +1,6 @@
+ANCHORS AWEIGH
+200|This 4-letter traditional greeting for hailing other vessels may be from the name of a type of boat|ahoy
+400|These wide pants were made to roll up above the knee when swabbing the decks & to remove easily when you fall overboard|bell-bottoms
+600|This name for a heavy garment worn by sailors in cold weather comes from a word for cloth, not a vegetable|a peacoat
+800|This punishment involved dragging a person under a ship from one side to the other|keelhauling
+1000|Now a term for small high-tech devices, it was originally a sailors' equivalent of "doohickey\"|gadget

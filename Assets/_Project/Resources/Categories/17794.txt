@@ -1,0 +1,6 @@
+BOOKS OF THE LATIN VULGATE BIBLE
+200|\"Judicum\"|Judges
+400|\"Canticum Canticorum\"|Song of Songs
+600|A New Testament guy: "Jacobi\"|James
+800|An Old Testament guy: "Abdias\"|Obadiah
+1000|There's "I Regum", First Kings, "I Samuelis", First Samuel, & "I Paralipomenon", this|Chronicles

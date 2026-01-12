@@ -1,0 +1,6 @@
+SCRIPT DOCTORS
+200|1965: Omar Sharif as this sensitive-yet-philandering Russian doctor|Doctor Zhivago
+400|2004: Alfred Molina as this heavily armed enemy of Spider-Man|Doctor Octopus
+600|1964: Peter Sellers as this German scientist who helped us love the bomb|Dr. Strangelove
+800|1974: Gene Wilder as this doctor trying to live down the family name|Dr. Frankenstein
+1000|2005 & 2007: Julian McMahon as this comic book doctor who was struck by cosmic waves|Doctor Doom

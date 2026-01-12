@@ -1,0 +1,6 @@
+TRAGEDIES
+200|This playwright's "Hamlet" is considered the highest expression of the revenge tragedy|Shakespeare
+400|This "Candide" author wrote his first tragedy, "Oedipe", while still a teenager|Voltaire
+600|The 100 tales in this Boccaccio work alternated between tragedy & earthy humor|Decameron
+800|He wrote that Willy Loman's tragedy is "that he gave his life, or sold it, in order to justify the waste of it\"|Arthur Miller
+1000|This Swede's play "The Father" is a domestic tragedy detailing the inherent cruelty of marriage|Strindberg

@@ -1,0 +1,6 @@
+BRIGHT LIGHTS, BIG CITY
+200|This city is the brightest area along the East Coast|New York
+400|You can see the shore of this Asian capital's bay has orange sodium lamps, while the city uses green mercury lamps|Tokyo
+600|This Great Lakes city has 3 million people, but the surrounding suburbs increase the population to almost 10 million|Chicago
+800|The amazing variety of light colors must belong to this U.S. desert city|Las Vegas
+1000|This Capital gleams on the southern shore of the Rio de la Plata|Buenos Aires

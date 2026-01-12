@@ -1,0 +1,6 @@
+PHARMACOLOGY
+200|2 basic drug categories are depressants & these, which include caffeine|Stimulants
+400|The art & science of preparing & dispensing drugs, or a store where it's practiced|Pharmacy
+600|This annual pharmaceutical guide for doctors is abbreviated PDR|Physician's Desk Reference
+800|Among pharmacology's sub-fields, this -ology deals with the effects & treatment of poisons|Toxicology
+1000|Claude Bernard pioneered the field with his 19th C. study of this poison used by Amazon natives|Curare

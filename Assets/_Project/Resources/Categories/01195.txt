@@ -1,0 +1,6 @@
+THE FEDERAL GOVERNMENT
+200|This tax is the largest single source of federal revenue|the income tax
+400|This branch checks the other 2 with the power of impeachment|the legislative branch
+600|If, after one of these, a state gains or loses a House member, it has to redistrict|a census
+800|The Senate of the 103rd Congress has 16 standing ones of these|committees
+1000|A little horse sense may tell you this is the common name for non-germane amendments|riders

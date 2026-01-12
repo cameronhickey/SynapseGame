@@ -1,0 +1,6 @@
+STATES' SECOND-LARGEST CITIES
+200|Wyoming: it's named for a military hero, not a "friendly ghost\"|Casper
+400|Florida: more than 1/3 of its population is of Cuban origin|Miami
+600|Virginia: home to a naval shipyard|Norfolk
+800|South Dakota: it's a "quick town\"|Rapid City
+1000|Kentucky: named for a Revolutionary War battle|Lexington

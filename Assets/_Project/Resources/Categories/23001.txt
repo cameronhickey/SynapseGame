@@ -1,0 +1,6 @@
+PARTS OF THE BODY
+200|This organ has a mitral valve & semilunar valves|the heart
+400|Condyles are the rounded ends of bones that meet up at joints—the femur has one where it meets up with the tibia in this joint|the knee
+600|The brain region known as the parietal this 4-letter area contains the sensory cortex|lobe
+800|The Palatine type of these masses in your throat are the ones often removed—the pharyngeal types are called adenoids|tonsils
+1000|The gallbladder stores this greenish fluid that aids in the digestion of fats|bile

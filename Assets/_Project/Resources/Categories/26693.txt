@@ -1,0 +1,6 @@
+\"SOUTH"ERN GEOGRAPHY
+200|Country whose flag features the British flag & the flags of the 2 former Boer republics|South Africa
+400|Both Florida & this other state are known as the "Sunshine State\"|South Dakota
+600|Singapore, Manila & Hong Kong are all located along this sea's coasts|the South China Sea
+800|California is our most populous state & this one is Australia's|New South Wales
+1000|The Mayflower set sail from this seaport, then stopped at Plymouth to take on more passengers|Southampton

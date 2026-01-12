@@ -1,0 +1,6 @@
+MANGIA!
+200|The name of this familiar Italian vegetable soup means "thick soup", referring to its broth|minestrone
+400|This Italian specialty is made by constantly stirring hot stock into rice|risotto
+600|This course of appetizers, an assortment of foods, has a 9-letter Italian name|antipasto
+800|This rich sauce for fettuccine was named for signore di Lelio, its creator|Alfredo
+1000|Unlike wheat pasta, these dumplings are often made from potatoes; their textured surface helps hold sauce|gnocchi

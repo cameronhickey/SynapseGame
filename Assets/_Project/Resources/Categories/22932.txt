@@ -1,0 +1,6 @@
+TEXT MESSAGE ABBREV.
+200|Stay out of my affairs: MYOB|mind your own business
+400|Hold on now: JAS|just a second
+600|Occurring away from the Internet: IRL|in real life
+800|A bit similar to IMHO: FWIW|for what it's worth
+1000|I know NSFW as National Schools Film Week, not as this more lurid warning|not safe for work

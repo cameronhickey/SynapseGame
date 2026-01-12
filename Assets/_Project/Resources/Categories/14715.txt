@@ -1,0 +1,6 @@
+A REPORTER'S BASIC QUESTIONS
+200|In a Dr. Seuss title, Horton hears him|a Who
+400|This word found on most lightbulbs is the unit of power equivalent to one joule per second|a watt
+600|This word precedes "in the course of human events\"|when
+800|The first word that's missing from the song title "Have All The Flowers Gone\"|where
+1000|It's what the doctor was asked during the illness of sewing machine inventor Elias|how (or, really, "How is Howe?")

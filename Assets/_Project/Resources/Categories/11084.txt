@@ -1,0 +1,6 @@
+AUTHORS' WORKS
+200|\"Green Hills of Africa", "A Moveable Feast", "The Nick Adams Stories\"|Hemingway
+400|\"Dombey and Son", "Hard Times", "Our Mutual Friend\"|Charles Dickens
+600|\"The Dark Half", "The Tommyknockers", "The Dark Tower\"|(Stephen) King
+800|\"The Sebastopol Sketches", "The Cossacks", "The Death of Ivan Ilyich\"|Tolstoy
+1000|\"God Bless You, Mr. Rosewater", "Timequake", "Mother Night\"|Kurt Vonnegut

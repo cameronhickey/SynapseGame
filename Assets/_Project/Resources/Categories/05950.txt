@@ -1,0 +1,6 @@
+SCRAMBLED OPERAS
+200|Rossini: "It'll Aim Well\"|\"William Tell\"
+400|Verdi: "Trite Logo\"|\"Rigoletto\"
+600|Puccini: "Oh Be Lame\"|La bohème
+800|Gounod: "Us Fat\"|\"Faust\"
+1000|Wagner: "Frail Sap\"|\"Parsifal\"

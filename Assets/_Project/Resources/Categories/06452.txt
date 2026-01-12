@@ -1,0 +1,6 @@
+I'M IN CHARGE!
+200|In Asia: Prime Minister Junichiro Koizumi|Japan
+400|In southern Europe: Prime Minister Silvio Berlusconi|Italy
+600|In central Europe: President Aleksander Kwasniewski|Poland
+800|In western Europe: Prime Minister Jose Maria Aznar|Spain
+1000|In southeast Asia: President Gloria Macapagal-Arroyo|the Philippines

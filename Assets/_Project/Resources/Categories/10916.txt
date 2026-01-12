@@ -1,0 +1,6 @@
+SCIENC"E\"
+200|An underwater one of these can cause a tsunami|an earthquake
+400|This group of female sex hormones is used in certain cancer treatments|estrogen
+600|The only known filoviruses are Marburg, which causes green monkey fever, & this one|Ebola
+800|Made of stratified squamous epithelium, it's your outer layer of protection|the epidermis
+1000|In thermodynamics, a closed system slowly evolves towards a state of maximum this, inactivity|entropy

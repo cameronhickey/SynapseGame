@@ -1,0 +1,6 @@
+GRAZE ANATOMY
+200|Sheep don't have any upper front these, using a dental pad instead|teeth
+400|The rumen, the omasum & the reticulum are parts of this organ for a cow|the stomach
+600|Llamas are sure-footed grazers because of their padded feet, which have these on their toes instead of hooves|nails
+800|Camels' humps store nutrients from grazing as this substance, also called adipose tissue|fat
+1000|This manatee relative grazes on the sea floor with its tough lips|a dugong

@@ -1,0 +1,6 @@
+BEAUTIFUL BUILDINGS
+200|Many consider it the most beautiful monument in the world|the Taj Mahal
+400|You ought to recognize this iconic art deco skyscraper|the Chrysler Building
+600|The stunning Baha'i Temple in New Delhi is built in the shape of this sacred flower|the lotus
+800|In 2015, this museum, named for the former Gertrude Vanderbilt, moved to a new building with a cantilevered entrance|the Whitney Museum of American Art
+1000|Legend says the architects of this cathedral were blinded so they could never again create anything as beautiful|St. Basil's

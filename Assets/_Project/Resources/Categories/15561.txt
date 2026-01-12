@@ -1,0 +1,6 @@
+COLLEGE "M\"
+200|This university is in "The Buckeye State"; the university of this is in "The Sunshine State\"|Miami
+400|\"We are" this West Virginia university, home to the Byrd Biotechnology Science Center|Marshall
+600|Using the colors of its state flag, this ACC university made a bold 2-sided fashion choice for its football team in 2011|the University of Maryland
+800|Emily Dickinson & Wendy Wasserstein were alums of this "Seven Sisters" school in South Hadley, Massachusetts|Mount Holyoke
+1000|Founded in 1800, this liberal arts college has the Adirondacks to the west & the Green Mountains to the east|Middlebury

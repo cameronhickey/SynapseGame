@@ -1,0 +1,6 @@
+BLENDER SETTINGS
+200|Pork or karate|chop
+400|A cat-o'-nine-tails, for example|whip
+600|To keep the band in time, it's what a good drummer tries to "keep\"|the beat
+800|To get on another's nerves persistently|grate
+1000|To be "in" here means to be in prison|stir

@@ -1,0 +1,6 @@
+HANDWRITING
+200|This word refers to anything that's handwritten, not just a celebrity's signature|an autograph
+400|This style of letters that slant to the right goes back to handwriting used in the Vatican chancery|italics
+600|This 10-letter word for the art of attractive writing has the name of a writing implement in it|penmanship
+800|In this area of study, handwriting is analyzed to determine personality traits|graphology
+1000|It's a professional copyist, like Bartleby in the title of a Melville work|the scrivener

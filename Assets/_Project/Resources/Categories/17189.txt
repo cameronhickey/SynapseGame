@@ -1,0 +1,6 @@
+IN CARS
+200|Types of these used in electric cars include lead-acid, nickel metal hydride, & lithium-ion|batteries
+400|This metal rod moves up & down inside a cylinder; it's also known to move up and down NBA courts|piston
+600|Sodium azide reacts with potassium nitrate to (quickly!) produce nitrogen gas in this safety feature|air bag
+800|ACDelco says this item "is what started it all for us" & it has "the kind of firepower you expect\"|spark plugs
+1000|The kinetic energy of suspension movement is turned into heat energy that's dissipated through hydraulic fluid by this part|shock absorber

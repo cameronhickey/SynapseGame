@@ -1,0 +1,6 @@
+SOMETIMES CAPITALIZED
+200|Capitalized, it's a 40-day period; lowercase, it's the counterpart of borrowed|Lent/lent
+400|Lowercase, it's an official decree; capitalized, it's an Italian carmaker that merged with Chrysler|fiat/Fiat
+600|Lowercase, this adjective describes universal interests; capitalized, it's a religion|catholic/Catholic
+800|Capitalized, it's a magazine; lowercase, it's a cranberry cocktail its readers might sip|Cosmopolitan/cosmopolitan (or Metropolitan/metropolitan)
+1000|Capitalized, it's a historical South African province; lowercase, it means relating to birth|Natal/natal

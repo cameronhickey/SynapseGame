@@ -1,0 +1,6 @@
+ANIMALIA
+200|Dr. Seuss' Yertle was one|turtle
+400|In Ray Stevens' "Ahab the Arab", Clyde was one of these|camel
+600|Scatter was the name of Elvis' chimp; this is Michael Jackson's|Bubbles
+800|The Bionic Woman's Max was this breed of dog|German Shepherd
+1000|Shari Lewis' puppets included Lamb Chop & Charlie this|Charlie Horse

@@ -1,0 +1,6 @@
+INTELLIGENCE
+200|John Le Carre popularized the name of this burrowing mammal to mean a spy in enemy ranks|Mole
+400|Knowing he'd need more than a slingshot, he spied on King Saul in the wilderness of Ziph|David
+600|German military communications of WWII were a riddle wrapped in a mystery inside this coding machine|Enigma
+800|It was during her reign that Her Majesty's Secret Service was 1st organized|Elizabeth I
+1000|In the 1960s the FBI targeted radical groups with COINTELPRO, which was short for this|Counter Intelligence Program

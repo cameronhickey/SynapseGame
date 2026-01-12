@@ -1,0 +1,6 @@
+PRESIDENTS' MIDDLE NAMES
+200|Hussein|Obama
+400|Gamaliel|(Warren) Harding
+600|Abram|James Garfield
+800|Earl|(Jimmy) Carter
+1000|Alan|(Chester) Arthur

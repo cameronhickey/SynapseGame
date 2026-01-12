@@ -1,0 +1,6 @@
+LET'S HEAR THE COMPOSER'S FIRST (NAME)
+200|Mahler's first|Gustav
+400|Elgar's first|Edward
+600|Rachmaninoff's first|Sergei
+800|Paganini's first|Niccolò
+1000|Menotti's first (& second)|Gian Carlo

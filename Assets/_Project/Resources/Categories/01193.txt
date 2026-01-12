@@ -1,0 +1,6 @@
+\"IN" WORDS
+200|It's what you often do to the first line of a paragraph|indent
+400|Jean Anouilh called this "a force that poets have invented to give themselves importance\"|inspiration
+600|It's the branch of an army made up of foot soldiers|infantry
+800|A soft white candy usually containing nuts, or a word for a deity|divinity
+1000|In area, it's the Mediterranean's second-largest island|Sardinia

@@ -1,0 +1,6 @@
+CONTAINERS
+200|This basket with a lid may contain food or dirty laundry|a hamper
+400|Oil & vinegar are kept in these small bottles for easy serving|cruets
+600|Oh, Archie! It's a large bin for coal or an underground chamber for gunners|a bunker
+800|The container called a "vial" can also contain this pair of letters instead of the "v\"|ph
+1000|(Jimmy holds the clue.) It's the container I'm holding. Ah, there's my Renoir!|a portfolio

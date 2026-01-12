@@ -1,0 +1,6 @@
+STATE
+200|Wisconsin named this type of cow such as Holstein its state domestic animal & milks it for all it's worth|a dairy cow
+400|The back of Virginia's state quarter shows 3 ships landing at this spot in 1607|Jamestown
+600|Though today we think of it as Midwestern, Ohio was the first state carved out of this territory|the Northwest Territory
+800|Bradford, Brevard & Broward are all counties in this state|Florida
+1000|New York's 445-mile border with Canada includes all 36 miles of this river|the Niagara River

@@ -1,0 +1,6 @@
+ALSO A FISHING TERM
+200|Just scoop ice cream on root beer for this type of beverage|float
+400|Serling or Steiger|Rod
+600|Per the OED, "a well-known conjecture is that" this friendly word "was a familiar abbreviation of chamber-fellow\"|chum
+800|This baseball pitch gets batters to hit a lot of ground balls|a sinker
+1000|In computing, it's an acronym for a transfer of data to a temporary storage area|a spool(ing)

@@ -1,0 +1,6 @@
+CARDS
+200|With no wild cards in use, the best hand you can get in poker|a royal flush
+400|Variations of this game include Canfield, Klondike, & Spider|solitaire
+600|\"Going out" after you've "melded" is part of this game whose name means "basket" in Spanish|canasta
+800|It's believed 17th century poet John Suckling invented this card game|cribbage
+1000|D.L. Coburn's Pulitzer Prize-winning play, based on 2 old people & a deck of cards|The Gin Game

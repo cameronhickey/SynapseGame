@@ -1,0 +1,6 @@
+NEWSPAPER TERMS
+200|It's a short explanation beneath a picture or other graphic|a caption
+400|A bad location for your ball in bowling, or the white space between facing newspaper pages|the gutter
+600|In October 2024 the publisher of The Washington Post wrote that the paper "will not be making" one of these in the presidential race|an endorsement
+800|A mock-up page indicating story, picture & headline position, it's also a ventriloquist's pal|a dummy
+1000|The place where back issues & clippings are stored, it sounds like a spot where cadavers are kept|the morgue

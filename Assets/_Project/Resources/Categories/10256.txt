@@ -1,0 +1,6 @@
+SCI-FI MOVIES BY CHARACTER
+200|1999: Agent Smith, Morpheus, Cypher|The Matrix
+400|1968: Taylor, Cornelius, Dr. Zaius|Planet of the Apes
+600|1984: Kyle Reese, Sarah Connor, Dr. Peter Silberman|The Terminator
+800|1968: Astronauts Frank Poole, Heywood Floyd & Dave Bowman|2001: A Space Odyssey
+1000|1951: Professor Jacob Barnhardt, Gort, Klaatu|The Day the Earth Stood Still

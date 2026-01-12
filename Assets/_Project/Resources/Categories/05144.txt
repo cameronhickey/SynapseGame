@@ -1,0 +1,6 @@
+BIRD VERBS
+200|Normally paired with "out", this "fowl" verb means to lose one's nerve|chicken
+400|A long-necked wading bird gave us this verb meaning to stretch one's neck for a better view|crane
+600|Mindlessly repeat the words of others|parrot
+800|Figuratively, to prod someone into action|goose
+1000|Flutter, as in a candle|flicker

@@ -1,0 +1,6 @@
+\"DOLLAR"S & "CENT"S
+200|Term for the highest amount paid for a commodity or service|top dollar
+400|Celsius|centigrade
+600|World Book says that this round animal found in shallow coastal waters resembles a fuzzy brown cookie|sand dollar
+800|From the Latin for "to teach", it's a lecturer or tour guide in a museum|docent
+1000|Having a common center, such as a series of circles|concentric

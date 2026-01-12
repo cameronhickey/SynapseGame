@@ -1,0 +1,6 @@
+IS THERE A DOCTOR IN THE BOOK?
+200|Dr. Jeremy Stone tries to contain an out-of-this-world biological agent in this Michael Crichton novel|The Andromeda Strain
+400|You wouldn't want to be operated on by Dr. Gonzo in Hunter S. Thompson's "Fear and Loathing" here|Las Vegas
+600|\"The Island of" this doctor by H.G. Wells concerns a man trying to turn animals into men|Dr. Moreau
+800|Dr. Constantine is the coroner on the train who helps Poirot gather evidence in this novel|Murder on the Orient Express
+1000|\"All is for the best in this best of all possible worlds", claims Dr. Pangloss in this French novel|Candide

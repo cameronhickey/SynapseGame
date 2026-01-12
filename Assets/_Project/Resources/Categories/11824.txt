@@ -1,0 +1,6 @@
+COUNTRIES' LARGEST ISLANDS
+200|Sicily|Italy
+400|Marajo in the Amazon River|Brazil
+600|Spitsbergen|Norway
+800|Baffin Island|Canada
+1000|Zanzibar|Tanzania

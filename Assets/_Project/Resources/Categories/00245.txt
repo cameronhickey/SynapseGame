@@ -1,0 +1,6 @@
+U.S. CITIES
+200|The home of TV's Ewings|Dallas
+400|It's at the other end of the Bay Bridge from San Francisco|Oakland
+600|Iowa city with 3 U's in its name|Dubuque
+800|Not surprisingly, this Connecticut city is at the mouth of the Thames River|New London
+1000|Indiana city which means "high ground" in French|Terre Haute

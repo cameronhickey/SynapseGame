@@ -1,0 +1,6 @@
+A SHAKESPEARE"M" CATEGORY
+200|Title adjective describing the wives of Windsor|merry
+400|A ghost tells Hamlet it is "most foul\"|murder
+600|Romeo is Mr. this to you|Montague
+800|\"If" it "be the food of love, play on\"|music
+1000|3-letter fairy queen described by Mercutio as a bringer of dreams|Mab

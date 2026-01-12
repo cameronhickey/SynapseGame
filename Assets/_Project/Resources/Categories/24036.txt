@@ -1,0 +1,6 @@
+MASHED UP TV SHOWS
+200|\"Better Call Nine-Nine\"|Better Call Saul & Brooklyn Nine-Nine
+400|\"Touched by Improvement\"|Touched by an Angel & Home Improvement
+600|\"I Dream of Anarchy\"|I Dream of Jeannie & Sons of Anarchy
+800|\"What We Do in the Building\"|What We Do in the Shadows & Only Murders in the Building
+1000|\"Emily in Blinders\"|Emily in Paris & Peaky Blinders

@@ -1,0 +1,6 @@
+PICTURESQUE EXPRESSIONS
+200|Something is suspicious if you smell one of these rodents|rat
+400|People who've got these in their bonnets should be avoided, they're mad|bees
+600|You've spoiled someone's plans if you've done this to his goose|cooked
+800|To accomplish something unexpected is to pull one of these out of your hat|rabbit
+1000|The Emperor Nero could tell you that to do this is to be callous in the face of calamity|fiddling while Rome burns

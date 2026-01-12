@@ -1,0 +1,6 @@
+ABBREVIATED K
+200|As a unit of computer memory|a kilobyte
+400|In the NFL, K is a position; in MLB, it's this stat|a strikeout
+600|On the periodic table, it's elementary, my dear chemist|potassium
+800|A Michigan food company on the New York Stock Exchange|Kellogg's
+1000|In a catalog of Mozart's works|Kochel

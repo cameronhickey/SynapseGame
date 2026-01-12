@@ -1,0 +1,6 @@
+STATE MOTTO TRANSLATIONS
+200|In Arkansas, regnat populus, this group "rule\"|the people
+400|Kansans go ad astra per aspera, "to" these "through difficulties\"|stars
+600|The motto of Montana is oro y plata, these 2 desirables|gold & silver
+800|Fatti maschii parole femine is literally "manly deeds, womanly" these but Maryland now prefers "strong deeds, gentle" these|words
+1000|Massachusetts has ense petit placidam sub libertate quietem, "by" this weapon "we seek peace, but only peace under liberty\"|the sword

@@ -1,0 +1,6 @@
+POPE-EYE
+200|When a new pope has been elected, this color smoke billows from the Vatican's chimney|white
+400|As pope, Benedict XVI holds the title "Successor of St. Peter, Prince of" this historic 12|the Apostles
+600|In 1992 the Pope publicly announced that the Church had made a mistake condemning this man in 1633|Galileo
+800|The 13th century's Pope Adrian V died about 5 weeks into his reign, just like this 20th century pope|John Paul I
+1000|In 1389 Pope Urban VI declared the Holy Year would be every 33 years—the 33 signifying this|the years of Jesus's life (the age of Jesus accepted)

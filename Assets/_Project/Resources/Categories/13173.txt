@@ -1,0 +1,6 @@
+GOING "PRO\"
+200|10-letter word for the owner of an establishment|proprietor
+400|Profusely productive, like some authors|prolific
+600|This gas used primarily as a fuel is also called dimethylmethane|propane
+800|This Titan was the father of Deucalion|Prometheus
+1000|(Sarah of the Clue Crew shows a diagram of three footprints on the monitor.) An imprint of your foot can determine if you have a normal, high or low arch; a low arch causes the foot to roll inward too much when running, called over- this|pronating

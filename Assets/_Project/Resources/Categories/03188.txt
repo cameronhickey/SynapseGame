@@ -1,0 +1,6 @@
+TIME ZONE PROBLEMS
+200|If Cinderella's having a ball at 11 P.M. in Bangkok, she may not want to know it's this hour in Beijing|Midnight
+400|If you board a 1-hour flight from Detroit to Chicago at 3 P.M., you'll land at about this hour|3 P.M. (Detroit is one hour ahead)
+600|If you're treading water just east of the Int'l Date Line at 4 A.M., it's this time in Greenwich, England|4 P.M.
+800|Indianapolis ignores Daylight Saving Time, so it's 3 hours ahead of L.A. in March but this many ahead in May|2
+1000|A 7-hour time difference means 10 A.M. in the halls of Montezuma is this hour on the shores of Tripoli|5 P.M.

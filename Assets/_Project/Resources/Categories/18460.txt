@@ -1,0 +1,6 @@
+COMPUTER ACTIONS
+200|Giving a play-by-play of an event while on Twitter is called doing this|live tweeting
+400|This 4-letter word is "warm" when the computer's power is already on, "cold" when it's off|boot
+600|In Windows hitting Ctrl-C & Ctrl-V performs these 2 artsy & crafty actions|copy & paste
+800|This process that maximizes disk space is so named because it joins up pieces of files that were stored separately|defrag (or defragmenting)
+1000|Releasing someone's personal info on the Internet is this word that can have 1 or 2 "X"s in the middle|doxing (or doxxing)

@@ -1,0 +1,6 @@
+FUNGI
+200|A downy mildew wiped out these in Ireland beginning in 1845|potatoes
+400|\"Unearthed" is a Discovery Channel show in which foragers dig up these valuable black fungi in the forests of Oregon|truffles
+600|Dogs & hogs root out these delicacies in the forests of Perigord, France|truffles
+800|Fungi requiring a host to live are called these; some chitonomyces fungi depend on just one species of water beetle|parasites
+1000|It's the study of fungi|mycology

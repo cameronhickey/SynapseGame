@@ -1,0 +1,6 @@
+PARTY GEOMETRY
+200|It's a figure defined by a closed plane curve & a vertex, or what you can fill with a scoop of ice cream|Cone
+400|In the game room, the flight paths of well-thrown darts form these parts of circles|Arcs
+600|Jill & her boyfriend form these 2 coplanar lines & Jill's dad is relieved they have no point in common|Parallel lines
+800|2/3 pi r cubed will give us this measure for our hemispherical punch bowl|Volume
+1000|2 angles with a common vertex & a common side, or the position of the house next door that called the cops|Adjacent

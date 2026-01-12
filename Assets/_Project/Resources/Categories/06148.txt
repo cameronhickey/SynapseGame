@@ -1,0 +1,6 @@
+JEAN-WHAT?
+200|Actor Van Damme|Jean-Claude
+400|20th century thinker Sartre|Jean-Paul
+600|Film director Godard|Jean-Luc
+800|18th century thinker Rousseau|Jean-Jacques
+1000|Hatian leader Aristide|Jean-Bertrand

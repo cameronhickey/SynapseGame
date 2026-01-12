@@ -1,0 +1,6 @@
+CLASSIC MOVIES
+200|(Hi, I'm Tara Lipinski) In "Gone with the Wind", Tara is the name of the plantation owned by this family|O'Hara
+400|Traxler, Kyle Reese & Sarah Connor are characters in this 1984 sci-fi classic|The Terminator
+600|Organized crime is the real Corleone family business in this 1972 classic|The Godfather
+800|Margaret Hamilton played Miss Gulch & the Wicked Witch in this film|The Wizard of Oz
+1000|This 1975 comedy includes the line "We are the knights who say Ni!\"|Monty Python and the Holy Grail

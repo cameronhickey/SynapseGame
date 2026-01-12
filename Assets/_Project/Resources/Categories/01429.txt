@@ -1,0 +1,6 @@
+STARTS WITH "M\"
+200|An illusion that appears in the desert, or a hotel in which Illusionists Siegfried & Roy appear|a mirage
+400|A Native American shaman|a medicine man
+600|(Jimmy demonstrates the clue on a display): A word or phrase that qualifies the sense of another is referred to by this grammatical term: "scary", one for "books".|a modifier
+800|\"Wuthering Heights" is set on these open tracts of Yorkshire|the moors
+1000|Since his father was killed there & made into a pie, Peter Rabbit was forbidden to go there|McGregor's garden

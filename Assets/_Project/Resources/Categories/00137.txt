@@ -1,0 +1,6 @@
+WORLD CITIES
+200|It incorporated with largely Arab Jaffa in 1950 to form one Israeli city|Tel Aviv
+400|Mexican coastal town which named a playground for its late resident Richard Burton|Puerto Vallarta
+600|It was designed by British architects to replace Calcutta as capital|New Delhi
+800|Real Massachusetts city that was home port to fictional ship the "Pequod\"|New Bedford
+1000|Tradition says Columbus announced his discovery of the New World in this Spanish town|Barcelona

@@ -1,0 +1,6 @@
+BOOK KNOWLEDGE
+200|A book's backstrip covers the part that has this anatomical name|the spine
+400|Shakespeare wrote, "What's past is" this introductory part of a book|prologue
+600|Mulvany, Nancy, 177; birth of, 28; education of, 213; as expert in creating these, 326-331|an index
+800|A colophon is a section at the end of a book that often names this, like 10-point Baskerville|the font
+1000|Entomological name for a blank page at the start of a book, suitable for inscriptions|the fly (or the fly leaf)

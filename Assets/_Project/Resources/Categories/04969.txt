@@ -1,0 +1,6 @@
+THE INSTRUMENT PLAYED
+200|Keith Moon|Drums
+400|Yo-Yo Ma|Cello
+600|Van Cliburn|Piano
+800|Andres Segovia|Classical guitar
+1000|Zamfir|Pan flute

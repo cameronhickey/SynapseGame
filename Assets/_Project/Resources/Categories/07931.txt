@@ -1,0 +1,6 @@
+CLOTHING WORDS
+200|A score of 22-22, for instance|tie
+400|To lose footing on icy ground|slip
+600|Breathes heavily, like a dog or a tired jogger|pants
+800|A layer of paint|coat
+1000|Hits hard|socks (or belts)

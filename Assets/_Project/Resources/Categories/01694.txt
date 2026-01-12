@@ -1,0 +1,6 @@
+THE INSECT WORLD
+200|These insect parts are divided into 5 main segments: the coxa, trochanter, femur, tibia & tarsus|the legs
+400|Many insects have 3 ocelli, a simple type of this organ, set in a triangular formation|an eye
+600|Some aphids secrete this sweet substance that has the same name as a greenish melon|honeydew
+800|In male moths these appendages are covered with organs of smell that help them find mates|antennae
+1000|These "ladylike" flies belong to the same order as dragonflies; we hope you never find one "in distress\"|a damselfly

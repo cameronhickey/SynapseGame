@@ -1,0 +1,6 @@
+SCHOOL SUPPLIES
+200|The yellow No. 2 Ticonderoga is a popular one of these|pencil
+400|Sanford's Pink Pearl is one of these|eraser
+600|(Cheryl of the Clue Crew drawing on the chalkboard) I can draw rings around you with this instrument|compass
+800|\"School" term for lined notebook paper, narrower than wide ruled|college ruled
+1000|You can draw & measure angles with this, often a semicircular piece of transparent plastic|protractor

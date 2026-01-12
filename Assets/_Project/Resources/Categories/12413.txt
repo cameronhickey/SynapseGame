@@ -1,0 +1,6 @@
+THIRD ROCK FROM THE SUN
+200|The coldest area of the troposphere occurs over this line; makes sense, since the line's at 0 degrees|the equator
+400|When the Earth's atmosphere traps solar radiation, it's called this effect|the greenhouse effect
+600|Of about 1/4, 2/3 or 3/4, Earth's orbital period is 365 & this fraction of a day|1/4
+800|Earth's liquid iron core is instrumental in creating this field that protects the Earth from cosmic rays|geomagnetic field (electromagnetic field accepted)
+1000|An equatorial diameter greater than the polar diameter makes the Earth this type of spheroid|oblate

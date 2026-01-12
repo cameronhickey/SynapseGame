@@ -1,0 +1,6 @@
+BODY PART PREFIXES
+200|Derma-|skin
+400|Glosso-|tongue
+600|Cephalo-|head
+800|Hystero-|uterus
+1000|Blepharo-|eyelid

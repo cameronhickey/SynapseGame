@@ -1,0 +1,6 @@
+HEALTH MATTERS
+200|Before the use of insulin as a treatment, the Type 1 form of this disease was usually fatal|diabetes
+400|Got milk? You probably shouldn't if you've got an intolerance to this milk sugar|lactose
+600|Characterized by chills & swollen lymph glands, this illness earned Ted Nugent his only Top 40 hit|\"Cat Scratch Fever\"
+800|Most commonly caused by the Epstein-Barr virus, it's also called the "kissing disease\"|mononucleosis
+1000|The FDA advises pregnant women not to eat shark & swordfish; they contain high levels of this element|mercury

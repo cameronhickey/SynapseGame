@@ -1,0 +1,6 @@
+ARCHITECTURAL STYLES
+200|This vertical, pointy-arched style of 12th-15th century Europe was revived in the late 18th century|Gothic
+400|The simple 18th century British style named for this queen features red brick, not her lace|Queen Anne
+600|A little house in this early 20th century American "school" has a low-pitched roof & long horizontal lines|Prairie school
+800|The Byzantine style, mixing east & west, featured domes & these tall towers attached to mosques|minarets
+1000|Colonial was the American version of this style named for 4 British kings|Georgian

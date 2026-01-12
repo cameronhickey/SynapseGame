@@ -1,0 +1,6 @@
+SAFE WORDS
+200|Alexander Pope wrote about "The Rape of" one|lock
+400|Jab-jab-cross in boxing|combination
+600|Gymnasts spring off a Reuther board in this event|vault
+800|A fissure, or to tell a joke|crack
+1000|Somersaulting circus performers|tumblers

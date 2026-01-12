@@ -1,0 +1,6 @@
+CANADIAN CAPITALS
+200|This Alberta capital is called the Gateway to the North|Edmonton
+400|A ferry & 2 suspension bridges connect Dartmouth, Nova Scotia with this capital|Halifax
+600|Commercial cod fishing, long a mainstay of this Newfoundland capital, declined to almost nothing by 1990|St. John's
+800|This Manitoba capital annexed the adjacent community of Saint Boniface in 1972|Winnipeg
+1000|This British Columbia capital was the capital of the colony of Vancouver Island 1848-1866|Victoria

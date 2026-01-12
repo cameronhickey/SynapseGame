@@ -1,0 +1,6 @@
+ARGUMENT
+200|According to Plutarch, an argument over who had seen more vultures led Romulus to kill him|Remus
+400|Thomas Paine wrote, "I offer nothing more than simple facts, plain arguments, and" this title|Common Sense
+600|An 1860 debate at Oxford between Bishop Samuel Wilberforce & biologist Thomas Huxley centered on this book|The Origin of Species
+800|An argument for the separation of political powers was put forth by this future president in The Federalist No. 51|Madison
+1000|In 1713 the fight over who invented calculus was submitted to this society; unluckily for Leibniz, Newton was its president|the Royal Society

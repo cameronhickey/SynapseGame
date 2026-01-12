@@ -1,0 +1,6 @@
+EXTRAORDINARY MEASURES
+200|It's the value of the playing card just below a knave|10
+400|Term for the time between the laying of an egg & its hatching, or for an infection & the showing of symptoms|incubation
+600|Of a haiku, a sonnet, or an ode, the one without a set length|an ode
+800|O gauge is a term in the hobby dealing with these|model trains
+1000|A quindecagon is a polygon with this many sides|15

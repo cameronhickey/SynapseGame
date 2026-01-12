@@ -1,0 +1,6 @@
+\"C"OUNTRIES
+200|In October 1970 this country proclaimed itself the Khmer Republic|Cambodia
+400|It declared independence from Yugoslavia on June 25, 1991|Croatia
+600|The rainy season in this Central American country can last from May to November|Costa Rica
+800|On November 11 it celebrates the independence of Cartagena|Colombia
+1000|Cameroon, Congo & this country all border the Central African Republic|Chad

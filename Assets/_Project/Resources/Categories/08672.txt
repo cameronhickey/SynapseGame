@@ -1,0 +1,6 @@
+RIVER COUNTRY
+200|The Thames, The Avon, The Tweed|England
+400|The Ganges, The Brahmaputra, The Godavari|India
+600|The Loire, The Seine, The Marne|France
+800|The Weser, The Rhine, The Rhur|Germany
+1000|The Tiber, The Arno, The Po|Italy

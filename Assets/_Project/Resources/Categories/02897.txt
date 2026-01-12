@@ -1,0 +1,6 @@
+\"D" IN SCIENCE
+200|How loud you're playing your Aerosmith album is indicated by this number|decibel
+400|Sailing ships may experience days of calm in this ocean region near the equator|the doldrums
+600|Knowing what the D in DNA stands for should tell you this noun, the sugar found in DNA|deoxyribose
+800|A direct current generator, or a person with lots of energy|a dynamo
+1000|Embryonic stem cells divide & give rise to more specialized ones, like neurons for the brain, this process|differentiation

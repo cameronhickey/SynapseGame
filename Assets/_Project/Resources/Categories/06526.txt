@@ -1,0 +1,6 @@
+POETRY FILL IN THE BLANK
+200|\"In a kingdom by the sea, that a maiden there lived whom you may know by the name of ____ ____\"|Annabel Lee
+400|\"Do I dare to eat a ____? I shall wear white flannel trousers, and walk upon the beach\"|peach
+600|Sandburg: "The fog comes on little ____ feet\"|cat
+800|\"What happens to a dream ____? Does it dry up like a raisin in the sun?\"|deferred
+1000|Frost: "Two roads diverged in a wood, and I— / I took the one less ____ ____\"|traveled by

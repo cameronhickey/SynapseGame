@@ -1,0 +1,6 @@
+ALEX MEETS AUTO-TUNE
+200|\"And the child takes the nurse, the child takes the nurse, hi-ho, the derry-o, the child takes the nurse\"|\"The Farmer In The Dell\"
+400|\"I come from Alabama with my banjo on my knee / I'm going to Louisiana, my true love for to see\"|\"Oh! Susanna\"
+600|\"In the beauty of the lilies Christ was born across the sea, with a glory in his bosom that transfigures you and me\"|\"The Battle Hymn Of The Republic\"
+800|\"When Israel was in Egypt land / Let my people go / Oppressed so hard they could not stand / Let my people go\"|\"Go Down Moses\"
+1000|\"...The pipes, the pipes are calling from glen to glen, & down the mountain side\"|\"Danny Boy\"

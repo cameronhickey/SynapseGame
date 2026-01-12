@@ -1,0 +1,6 @@
+FOOD LABELING
+200|To be given this eco-friendly label, products must come from a farm that's passed a special USDA inspection|organic
+400|The "% daily value" label for this element is based on a recommended maximum of 2,400 milligrams a day|sodium
+600|Often seen on food labels, riboflavin, thiamin & biotin are members of this vitamin complex|vitamin B
+800|2-word food labeling term applied to poultry that's been allowed access to the outside|free range
+1000|If food is labeled "kosher", it means it's been prepared under the supervision of this person|a rabbi

@@ -1,0 +1,6 @@
+IT'S A PLANET
+200|Our closest neighbor, it has a surface temperature hot enough to melt lead|Venus
+400|Its most prominent feature, the Great Red Spot, is more than twice as wide as the Earth|Jupiter
+600|Its frozen dry ice polar caps recede & advance with the planet's seasons|Mars
+800|Named for the first ruler of the universe in Greek mythology, it was the first to be discovered by telescope|Uranus
+1000|Methane clouds in its atmosphere give it a distinctive look|Neptune

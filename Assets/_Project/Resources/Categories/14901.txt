@@ -1,0 +1,6 @@
+BONE UP FOR THE TEST
+200|This small, flat, triangular bone in the knee is not directly connected with any other bone|the patella
+400|The number of pairs of these in mammals varies from 9 in whales to 24 in sloths; humans normally have 12|ribs
+600|Finger tendons run through a "tunnel" almost completely surrounded by these bones of the same name|the carpal
+800|\"U" know it's the inner of 2 bones in the forearm when viewed with the palm facing forward|the ulna
+1000|This bone is attached to the fibula throughout its length by an interosseous membrane|the tibia

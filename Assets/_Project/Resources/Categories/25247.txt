@@ -1,0 +1,6 @@
+MAMMALS IN LATIN
+200|Porcus|a pig
+400|Ursus|a bear
+600|Cetus|a whale
+800|Vacca|a cow
+1000|Cervus|a deer

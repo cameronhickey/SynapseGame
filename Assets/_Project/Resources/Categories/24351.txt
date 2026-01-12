@@ -1,0 +1,6 @@
+PLACE"O\"
+200|You gotta pay your bills in this port city about 20 miles southeast of Niagara Falls|Buffalo
+400|The seat of Lucas County in Ohio, this city lies along the southwestern tip of Lake Erie|Toledo
+600|Only Greenland & New Guinea are larger islands in size than this one in the Pacific|Borneo
+800|In 1876 it was a frontier town of 600 people; today this North Dakota city has around 125,000|Fargo
+1000|This country highlighted here formerly declared its independence in 2008 but some EU members did not recognize it|Kosovo

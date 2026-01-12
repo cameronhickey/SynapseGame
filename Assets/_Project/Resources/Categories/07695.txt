@@ -1,0 +1,6 @@
+ROCK NICKNAMES
+200|\"Piano Man\"|Billy Joel
+400|\"The Cute Beatle\"|Paul McCartney
+600|\"Pearl\"|Janis Joplin
+800|\"Slowhand\"|Eric Clapton
+1000|\"The Motor City Madman\"|Ted Nugent

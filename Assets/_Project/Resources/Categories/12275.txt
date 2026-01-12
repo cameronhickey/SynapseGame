@@ -1,0 +1,6 @@
+FAILURE TO COMMUNICATE
+200|\"Hamlet" uses this verb meaning to talk nonsense; adding -ish to it makes it a nonsense language|gibber
+400|An undeliverable email may come back with the notation "mailer" this, a spirit of Greek myth|daemon
+600|This rhyming phrase for meaningless ritual ends with the name of an elephant owned by P.T. Barnum|mumbo-jumbo
+800|(Sarah of the Clue Crew points to an anatomical animation on the monitor.) Making it hard to communicate, inflammation of the structure above the trachea is known as this|laryngitis
+1000|Change the first 3 letters in "jumbled" to get this word for a message that's so jumbled its meaning is lost|garbled

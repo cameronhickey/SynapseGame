@@ -1,0 +1,6 @@
+STATE'S LEFTS
+200|To the left of Indiana|Illinois
+400|To the left of Maine|New Hampshire
+600|To the left of Montana|Idaho
+800|To the left of Rhode Island|Connecticut
+1000|To the left of Kansas|Colorado

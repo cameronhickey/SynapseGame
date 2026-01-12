@@ -1,0 +1,6 @@
+IT'S CAPITALIZED
+200|This pronoun, always (unless you're e.e. cummings)|I
+400|This word when it precedes "of Buena Vista" (in 1847) or "of Lake Erie" (in 1813)|Battle
+600|Yes when it refers to the language, but not always when it refers to spin put on a ball|english
+800|A registered one of these; Spam is one of Hormel Foods Corporation|trademarks
+1000|In standard style, number of capitalized words in the title of Hemingway's tale about a fisherman battling a marlin|four

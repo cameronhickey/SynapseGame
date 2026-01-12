@@ -1,0 +1,6 @@
+ALL ARE INVITED
+200|All ages are allowed at movies rated G— the G is short for this|general
+400|Any citizen can sit in this part of the Senate & watch the action; you need to get passes from your senator's office|the gallery
+600|Got $10,000? You can compete in the main event of this card competition in Las Vegas|the World Series of Poker
+800|You are too popular! You can only invite 750 people at a time for this web-based RSVP service|Evite
+1000|Any member of the World Science Fiction Society can vote for this literary award, which has led to some drama|the Hugo Awards

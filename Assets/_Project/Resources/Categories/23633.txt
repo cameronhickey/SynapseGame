@@ -1,0 +1,6 @@
+WORLD ISLANDS
+200|Corfu has some of the loveliest scenery of this country's islands|Greece
+400|The tea for which Taiwan is famous isn't known as Taiwan oolong but as this oolong|Formosa
+600|To party on Ibiza you must go to this country|Spain
+800|Santa Cruz Island, home to Charles Darwin Research Station, belongs to this country|Ecuador
+1000|A type of tweed owes its name to the Scottish isles called Lewis & this|Harris

@@ -1,0 +1,6 @@
+\"MAN\"
+200|A shackle for the hands|manacle
+400|It's aka the sea cow|manatee
+600|Musical instrument of the lute family|the mandolin
+800|Compulsory|mandatory
+1000|In medieval times, it was thought that this human-looking plant uttered a deadly shriek when uprooted|the mandrake

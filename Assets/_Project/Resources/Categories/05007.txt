@@ -1,0 +1,6 @@
+NAME THE NARRATOR
+200|\"The Hound of the Baskervilles\"|Dr. Watson
+400|\"Moby Dick\"|Ishmael
+600|\"To Kill a Mockingbird\"|Scout
+800|\"Heart of Darkness\"|Marlow
+1000|\"A Clockwork Orange\"|Alex

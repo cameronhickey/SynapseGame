@@ -1,0 +1,6 @@
+FINANCIAL GOBBLEDYGOOK
+200|The most widely used interest rate in the world, LIBOR is this city's "interbank offered rate\"|London
+400|Don't get them mixed up: ETF means "exchange-traded" these; EFT means "electronic" these "transfer\"|funds
+600|An unregulated statement of profit, EBITDA stands for these before interest, tax, depreciation & amortization|earnings
+800|CAGR, short for an investment's compound annual this rate, basically just averages what it did over time|growth
+1000|In the VIX index, "V" is for this measure of how much an investment's value fluctuates|volatility

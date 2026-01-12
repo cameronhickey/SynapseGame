@@ -1,0 +1,6 @@
+LITERARY NUMBER, PLEASE
+200|Garcia Marquez' "____ Years of Solitude\"|100
+400|Conan Doyle's "The Sign of ____\"|four
+600|Seuss' "The ____ Hats of Bartholomew Cubbins\"|500
+800|Daniel Pyne's "____ Palms\"|Twentynine
+1000|Leon Uris' "Mila ____\"|18

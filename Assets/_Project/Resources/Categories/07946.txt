@@ -1,0 +1,6 @@
+FOLLOW "DE" LEADER
+200|A playing card that has 2 spots|deuce
+400|Without funds or means of subsistence|destitute
+600|Among its 10 events are the 100-meter dash & the pole vault|decathlon
+800|To make into a god|deify
+1000|Originally, this term for a tyrant or absolute ruler referred to an honorary title applied to a Byzantine emperor|despot

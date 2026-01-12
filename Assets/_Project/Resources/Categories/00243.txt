@@ -1,0 +1,6 @@
+FOOTBALL
+200|Nickname for field from early rules requiring waffle-like markings|the gridiron
+400|What PAT stands for|point after touchdown
+600|First used in 1966, this green synthetic playing surface has been widely used in sports stadiums|Astroturf
+800|This NFL bowl game was played for the first time Jan. 14, 1951 in Los Angeles|the Pro Bowl
+1000|Leading the Redskins in 1988, he became the first black quarterback to win the Super Bowl|Doug Williams

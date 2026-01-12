@@ -1,0 +1,6 @@
+MATH PROBLEMS
+200|60 nickels equals this many dollars|3
+400|Area of a rectangle 6 feet by 9 feet|54 feet
+600|At 50 miles per hour, length of time it takes to go 225 miles|4 1/2 hours
+800|The smaller of a 5 gallon water bottle or a 20 liter gas tank|the 5 gallon water bottle
+1000|The length of the hypotenuse of a right triangle whose other 2 sides are 6 inches & 8 inches|10 inches

@@ -1,0 +1,6 @@
+THEIR MAIN MUSICAL INSTRUMENT
+200|Billy Joel|the piano
+400|Van Cliburn|piano
+600|Yo-Yo Ma|the cello
+800|Dizzy Gillespie|trumpet
+1000|Steven Van Zandt|the guitar

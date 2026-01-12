@@ -1,0 +1,6 @@
+BEGINS & ENDS WITH "T\"
+200|A male feline|Tomcat
+400|The name of this device used to stop bleeding may come from a French word for "turn\"|Tourniquet
+600|One who plays hooky from school might find himself pursued by this type of officer|Truant officer
+800|It's the period between sunset & dark when the sun is just below the horizon|Twilight
+1000|The Roman god Jupiter used this weather phenomenon as a weapon, by jove|Thunderbolt

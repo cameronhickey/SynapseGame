@@ -1,0 +1,6 @@
+KAFKA
+200|When Kafka was born in this city in 1883, it was the capital of Bohemia|Prague
+400|After discovering his religious roots, Kafka began studying this language in 1917|Hebrew
+600|Kafka called those who inspired him, like this "Karamazov" author, his "blood relatives\"|Dostoevsky
+800|In "Wedding Preparations in the Country", Raban turns into one of these insects, yeah, yeah, yeah ...|a beetle
+1000|Kafka used this special initial for the land surveyor in "The Castle" & the last name of Joseph in "The Trial\"|K

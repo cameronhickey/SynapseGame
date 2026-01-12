@@ -1,0 +1,6 @@
+PRESIDENTS BY FIRST NAME
+200|The one & only Zachary|Taylor
+400|The 2 Andrews|Jackson and Johnson
+600|3 of the 4 Williams|Taft, William Henry Harrison, and Clinton (and McKinley)
+800|The last John alphabetically by last name|Tyler
+1000|The 2 Thomases (one went by his middle name)|Jefferson and Wilson

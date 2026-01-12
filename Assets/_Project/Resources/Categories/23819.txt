@@ -1,0 +1,6 @@
+BOATING GLOSSARY
+200|A windlass is a rotating device that houses the chain used to raise or lower this|the anchor
+400|To take a sounding is to measure this, often important in unfamiliar seas|depth
+600|It's a rope attached to the lower corner of a sail to control it; if you're 3 of them "to the wind", you're drunk|sheet
+800|It sounds like scissors are required to do this, change the angle of a sail to take advantage of the wind|to trim
+1000|This uppermost edge of the side of a boat gets its name because it was once used to support cannons|the gunwale

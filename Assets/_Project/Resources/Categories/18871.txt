@@ -1,0 +1,6 @@
+THE HAWAIIAN ISLANDS
+200|It's home to the state capital|Oahu
+400|Wowie! This second-biggest island is named for a Polynesian demigod|Maui
+600|It's the northernmost & most verdant of the major islands|Kauai
+800|Take a seat on the porch & see if you can decide which island's name is Hawaiian for "conquest day\"|Lanai
+1000|In the 1860s residents were moved from its Kalaupapa Peninsula & people with a certain disease moved in|Molokai

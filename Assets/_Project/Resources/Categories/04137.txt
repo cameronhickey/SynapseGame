@@ -1,0 +1,6 @@
+DAD TV
+200|Jed Clampett|The Beverly Hillbillies
+400|Ben Cartwright|Bonanza
+600|Charles Ingalls|Little House on the Prairie
+800|Ponderosa rancher Ben Cartwright|Bonanza
+1000|Tim Taylor|Home Improvement

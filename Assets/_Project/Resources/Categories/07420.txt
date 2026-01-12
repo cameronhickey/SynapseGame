@@ -1,0 +1,6 @@
+HURRY "UP"!
+200|The latest info on a story in a newscast|update
+400|(Cheryl & Sarah of the Clue Crew demonstrate.) This term for diverting attention from someone else comes from the theater faux pas I've just committed|upstage
+600|The financial cost of maintaining something in proper condition|upkeep
+800|The 20th letter of the alphabet used by Sophocles|upsilon
+1000|Geographically, Michiganders know it's the U.P.|Upper Peninsula

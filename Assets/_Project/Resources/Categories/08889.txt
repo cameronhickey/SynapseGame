@@ -1,0 +1,6 @@
+THE U.S. SENATE
+200|This Connecticut senator lost the 2006 Democratic primary but later won reelection as an independent|Joe Lieberman
+400|This North Carolina Republican is the wife of a former U.S. senator from Kansas|Elizabeth Dole
+600|A senator must be a U.S. citizen for 9 years & be at least this age|30
+800|While serving in Vietnam in the 1960s, this Republican senator from Nebraska received 2 Purple Hearts|Chuck Hagel
+1000|This senator was admitted to the New York bar in 1975 but has never practiced law|Chuck Schumer

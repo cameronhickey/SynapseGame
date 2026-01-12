@@ -1,0 +1,6 @@
+SOUNDS FRUITY
+200|In a 1950s hit song, it's where "I found my thrill\"|Blueberry Hill
+400|Garden Grove & Costa Mesa are in this West Coast county formally organized in 1889|Orange County
+600|It's a hydraulic crane with bucket attachment for fixing telephone lines or pruning trees|cherry picker
+800|In 1949's "The Third Man", Orson Welles played this character, an evil black marketeer|Harry Lime
+1000|In 1995 it was moved to avoid Kiribati|International Date Line

@@ -1,0 +1,6 @@
+FLOORING
+200|Grout & a special saw are tools for installing this type of floor|tile
+400|Also the surface of bulletin boards, this material makes warm, sound-insulating flooring|cork
+600|This durable material almost synonymous with mid-20th c. flooring was patented in 1863|linoleum
+800|In forestry, it's a synonym for "dicot"; in real estate ads, it makes mouths water when seen before "floors\"|hardwood
+1000|1 letter off from "flat stones", they make good flooring for your castle|flagstones

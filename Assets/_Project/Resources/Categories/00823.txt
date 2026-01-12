@@ -1,0 +1,6 @@
+ANTHROPOLOGY
+200|It's a 3-letter word for an excavation|a dig
+400|A petroglyph is a drawing on this, not paper|a rock (a piece of stone)
+600|The Peking Man found in China was real; the Piltdown Man found in this country was a hoax|England
+800|Polygamy is divided into polygyny, having many wives, and this, having many husbands|polyandry
+1000|It's the belief that natural objects & phenomena have souls|animism

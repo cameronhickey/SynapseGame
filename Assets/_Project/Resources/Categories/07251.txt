@@ -1,0 +1,6 @@
+POPULATIONS
+200|This tiny principality has the highest population density|Monaco
+400|Of 2 million, 20 million or 200 million, the number closest to the population of Native Americans in the U.S.A.|2 million
+600|From 1970 to 1990 the population center shifted west from southern Illinois to near Steelville in this state|Missouri
+800|With about 8 million, this East Coast city is the most populous U.S. city|New York City
+1000|With more than 10% of the population, they form Turkey's largest minority ethnic group|the Kurds

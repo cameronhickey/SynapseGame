@@ -1,0 +1,6 @@
+ALSO A CAR RENTAL COMPANY
+200|Unit of frequency|Hertz
+400|Owned, preserved or maintained by the federal government|National
+600|An itemized allotment of funds for a given period|Budget
+800|The first nuclear-powered U.S. aircraft carrier|Enterprise
+1000|Latin for "bird\"|Avis

@@ -1,0 +1,6 @@
+VOWELS
+200|With a plus, it's the highest grade possible on a standard report card|an A
+400|Me or myself|I
+600|On the national anthem, it precedes "Canada\"|O
+800|An abbreviation for a compass direction|E
+1000|In non-traditional usage, like in text messages, it's also a pronoun|u

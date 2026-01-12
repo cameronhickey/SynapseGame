@@ -1,0 +1,6 @@
+COUNTRIES BY CITIES
+200|Netanya, Beersheba, Haifa|Israel
+400|Moose Jaw, Sudbury, Portage La Prairie|Canada
+600|Bialystok, Slupsk, Ostrowiec Swietokrzyski|Poland
+800|Nakuru, Kisumu, Nairobi|Kenya
+1000|Hoorn, Haarlem, Arnhem|the Netherlands

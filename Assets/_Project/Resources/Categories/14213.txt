@@ -1,0 +1,6 @@
+EQUALS ONE
+200|2.54 centimeters|one inch
+400|4 cups|a quart
+600|1,024 megabytes|a gigabyte
+800|100 ares|a hectare
+1000|453.59 grams|a pound

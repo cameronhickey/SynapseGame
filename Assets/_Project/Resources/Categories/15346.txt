@@ -1,0 +1,6 @@
+COLLEGES' HOME FOOTBALL STADIUMS
+200|The Rose Bowl|UCLA
+400|Husky Stadium|University of Washington
+600|Sun Devil Stadium|Arizona State
+800|Tiger Stadium|LSU
+1000|Boone Pickens Stadium|Oklahoma State University

@@ -1,0 +1,6 @@
+AIRPORT I.D. CODES
+200|Reserved for Navy airfields, "N" can't begin an identifier for a commercial airport, so this N.J. airport is EWR|Newark
+400|You can understand why some residents of this Iowa city want to change their airport's designation, SUX|Sioux City
+600|The Dade-Collier Training & Transition Airport, with the code TNT, is dynamite for this Southern city|Miami
+800|Indianola, Miss. has an airport designated IDL; until 1963, IDL stood for the NYC airport then called this|Idlewild
+1000|Reserved for commercial radio stations, K & W can't begin IDs, so "EYW" serves this southernmost city in the cont. U.S.|Key West

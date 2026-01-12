@@ -1,0 +1,6 @@
+FROM "C" TO SHINING "C\"
+200|This word for stylish or elegant can describe an outfit or a restaurant|chic
+400|In addition to co-anchoring "Today", she's also a contributing anchor for "Dateline NBC\"|Katie Couric
+600|You probably avoid elevators if you're this type of person who fears being in a closed place|claustrophobic
+800|This geologic "era" is sometimes called the age of mammals|the Cenozoic
+1000|He was twice prime minister of France before he was elected president in 1995|Jacques Chirac

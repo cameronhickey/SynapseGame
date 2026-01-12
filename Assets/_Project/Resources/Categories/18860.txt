@@ -1,0 +1,6 @@
+NAME THAT BASEBALL STAT, STAT!
+200|Babe Ruth, 1921: 59 these|home runs
+400|Rickey Henderson, career: 1,406 these|stolen bases
+600|New York Mets, 1962: 120 these|losses
+800|Cal Ripken Jr., 1982-1998: 2,632 these|consecutive games played
+1000|Sandy Koufax, 1965: 382 these|strikeouts

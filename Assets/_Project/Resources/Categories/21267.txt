@@ -1,0 +1,6 @@
+AGATHA CHRISTIE BOOK TITLES
+200|\"____ on the Nile\"|death
+400|\"And Then There Were ____\"|none
+600|\"The ____ of Roger Ackroyd\"|murder
+800|\"____ Under the Sun\"|evil
+1000|\"The ____ in the Library\"|The Body in the Library

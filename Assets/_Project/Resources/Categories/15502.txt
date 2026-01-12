@@ -1,0 +1,6 @@
+& HONEY
+200|& Honey, could you pick up some of the Huggies brand of these on the way home?|diapers
+400|& Honey, if you get a chance, could you wash my favorite pants? You know, the ones named for that 19th century woman|bloomers
+600|& Honey, it's May—we gotta call your mom in London for Mother's Day; don't forget it's this many hours ahead of N.Y. time|five
+800|& Honey, could you take the minivan to the mechanic? It's still making noise here, also called the gearbox|the transmission
+1000|& Honey, while you're up, can you grab my copy of "Caligula" by this French-Algerian author? He's so existential|(Albert) Camus

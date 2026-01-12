@@ -1,0 +1,6 @@
+NAME THAT LANGUAGE
+200|¿Donde esta el baño?|Spanish
+400|Ich möchte etwas aus Leder|German
+600|Questa camera non mi piace molto|Italian
+800|Kawa ga made toi desu ka|Japanese
+1000|Veni, vidi, vici|Latin

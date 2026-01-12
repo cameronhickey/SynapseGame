@@ -1,0 +1,6 @@
+MY "BAD\"
+200|Proverbially, one of these malicious fruits "spoils the whole barrel\"|Bad apple
+400|1979 No. 1 for Donna Summer|\"Bad Girls\"
+600|Joan Jett didn't give a damn that she had this, the title of her signature song|\"Bad Reputation\"
+800|This Robert Palmer hit is subtitled "Doctor, Doctor\"|\"Bad Case Of Loving You\"
+1000|One of you from Jersey? Give the title that finishes the lyric "Shot through the heart, and you're to blame...\"|\"You Give Love A Bad Name\"

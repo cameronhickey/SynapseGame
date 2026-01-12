@@ -1,0 +1,6 @@
+HOSPITALS
+200|Recent star attractions at her Palm Springs center include Johnny Cash & Liza Minnelli|the Betty Ford center
+400|At first only a surgical clinic, this Rochester, Minn. facility became a full medical center around 1915|the Mayo Clinic
+600|In 1978 Louise Brown, the first of these, was born in the UK's Oldham General Hospital|Test-tube baby
+800|In 1967 the first human heart transplant was performed at Groote Schuur Hospital in this city|Cape Town
+1000|The Army Medical Center in Washington, D.C. was named for this bacteriologist|Walter Reed

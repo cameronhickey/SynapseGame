@@ -1,0 +1,6 @@
+BETWEEN
+200|Presidents: Richard Nixon, _____, Jimmy Carter|Gerald Ford
+400|\"Star Wars" films: "A New Hope", ____, "Return of the Jedi\"|The Empire Strikes Back
+600|Bible book between John & Romans in the King James Version|Acts (of the Apostles)
+800|Country completely between Russia & China|Mongolia
+1000|Geologic era between the Paleozoic & the Cenozoic|the Mesozoic

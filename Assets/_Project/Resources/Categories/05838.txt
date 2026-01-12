@@ -1,0 +1,6 @@
+THE REAL FIRST NAME
+200|\"Black Jack" Pershing|John
+400|\"Babe" Ruth|George (Herman Ruth)
+600|\"Tip" O'Neill|Thomas
+800|\"Refrigerator" Perry|William
+1000|\"Baby Doc" Duvalier|Jean-Claude

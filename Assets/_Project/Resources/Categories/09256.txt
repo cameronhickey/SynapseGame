@@ -1,0 +1,6 @@
+GET A DEGREE
+200|If you want a life in the theatre, perhaps you should get a B.F.A. degree, B.F.A. standing for this|Bachelor's of Fine Arts
+400|If you have an M.Ed. degree you're a master of this|education
+600|It's the degree you hold if your mom introduces you as "my son, the M.B.A.\"|a Masters of Business Administration
+800|You go to the DMV to get your driver's license; you go to a D.V.M. because she's a licensed doctor of this|veterinary medicine
+1000|Check it out! B.L.S. is a bachelor of this|library science

@@ -1,0 +1,6 @@
+CITY PARKS
+200|The Carillon Historical Park in Dayton, Ohio has their 1905 Flyer III on display|the Wright brothers
+400|New York City's Ralph Bunche Park is just across the street from the HQ of this organization that Bunche helped plan|the United Nations
+600|Chicago's largest park, it was once known as Cemetery Park, but got its current name in 1865|Lincoln Park
+800|A 1905 statue in Portland, Oregon's Washington Park was the USA's first of this Shoshone woman|Sacajawea
+1000|The Minnehaha Regional Park in Minneapolis features a replica of this author's home in Cambridge, Massachusetts|Longfellow

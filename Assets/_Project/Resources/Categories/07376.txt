@@ -1,0 +1,6 @@
+\"H" CITIES
+200|This city's Atomic Bomb Dome, a structure left unrebuilt after WWII, has become a symbol of the peace movement|Hiroshima
+400|The racing schooner Bluenose, depicted on Canada's 10-cent coin, has a replica in this Nova Scotian port|Halifax
+600|Crossed by numerous canals, it's said that this German port has more bridges than Amsterdam & Venice combined|Hamburg
+800|This capital was founded by Sweden's King Gustav I Vasa in 1550|Helsinki, Finland
+1000|It served as a dynastic capital in the 1800s & continued as the royal capital of Vietnam until 1945|Hue

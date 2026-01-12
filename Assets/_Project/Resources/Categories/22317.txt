@@ -1,0 +1,6 @@
+\"INCH" WORD, "INCH" WORD...
+200|This kitchen measurement should come out to about 1/16 of a teaspoon|a pinch
+400|It follows "lead-pipe" in an idiom for something that is a certainty|a cinch
+600|Boris Karloff voiced this animated character in 1966|the Grinch
+800|The thick fur of this rodent helps it survive the cold temperatures that occur way up high in the Andes|the chinchilla
+1000|(Jimmy of the Clue Crew presents by a display monitor.) The wheel of a chariot was secured by this ancient item, which in modern usage can refer to any integral part used to hold something together|a linchpin

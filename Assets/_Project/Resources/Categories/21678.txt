@@ -1,0 +1,6 @@
+TELL
+200|Although he may be legendary, William Tell is one of the best-known heroes of this nation|Switzerland
+400|This form of "William" is in the German title of Friedrich Schiller's play about Tell|Wilhelm
+600|In the traditional William Tell story, this is the cause of death of the cruel governor Gessler|shot with an arrow
+800|The overture to this Italian composer's opera about William Tell is used to speed things up|Rossini
+1000|The bad guys in the William Tell story work for this Austrian dynasty|Habsburgs

@@ -1,0 +1,6 @@
+SAY IT IN FRENCH
+200|Coffee with milk|cafe au lait
+400|My God!|mon dieu
+600|Great prize|grand prix
+800|Literally, white card|carte blanche
+1000|That's life|c'est la vie

@@ -1,0 +1,6 @@
+RENTING A CAR
+200|How about this company that shares its name with Captain Kirk's craft?|Enterprise
+400|Get a car from this company whose use of yellow comes from its founder's cab company|Hertz
+600|If you're watching what you spend, try this company whose name is also found between "Congressional" & "Office\"|Budget
+800|In terms of currency, there's always this company that allows you to "lock low and go\"|Dollar
+1000|Bird lovers will love this car rental company whose name is also the Latin for "bird\"|Avis

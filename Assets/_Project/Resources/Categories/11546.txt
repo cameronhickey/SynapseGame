@@ -1,0 +1,6 @@
+CARTOON CRITTERS
+200|Uncle Scrooge|duck
+400|Chip & Dale|chipmunks
+600|Magilla|gorilla
+800|Simba|lion
+1000|Heckle & Jeckle|magpies

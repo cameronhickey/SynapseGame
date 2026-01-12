@@ -1,0 +1,6 @@
+BIBLE BOOK 'EM
+200|\"Therefore the Lord God sent him forth from the garden of Eden, to till the ground from whence he was taken\"|Genesis
+400|\"And the seven angels which had the seven trumpets prepared themselves to sound\"|Revelation
+600|\"A wise son maketh a glad father: but a foolish son is the heaviness of his mother\"|Proverbs
+800|\"My flesh is clothed with worms and clods of dust; my skin is broken, and become loathsome\"|Job
+1000|\"So Moses the servant of the Lord died there in the land of Moab\"|Deuteronomy

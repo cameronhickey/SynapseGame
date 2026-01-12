@@ -1,0 +1,6 @@
+\"V" SHALL SEE
+200|Mr. Spock's home planet|Vulcan
+400|From the French for "to see", it's a Peeping Tom|Voyeur
+600|Meaning word-for-word, it's also a brand of computer disk|Verbatim
+800|Destructive animals or insects|Vermin
+1000|In mathematics it's a quantity involving both direction & magnitude|Vector

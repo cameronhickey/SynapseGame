@@ -1,0 +1,6 @@
+ENDS WITH "W\"
+200|Lacking intellectual depth, or one end of a pool|shallow
+400|An area of grazable grassland; it's found before "lark\"|a meadow
+600|Rendered fat used in making soap or candles|tallow
+800|Adjective for an unhealthy yellow complexion|sallow
+1000|A large sea wave|billow

@@ -1,0 +1,6 @@
+\"Q"-PID
+200|The skills or experience proving someone is ready for a particular job|qualification
+400|Adjective meaning gallant but ultimately futile or unrealistic|quixotic
+600|The metal mercury, to an old English mind|quicksilver
+800|To put down or suppress forcibly, such as a rebellion|quell (or quash)
+1000|I don't want to argue, but it's a minor argument over something small|a quibble

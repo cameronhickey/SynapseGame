@@ -1,0 +1,6 @@
+VEHICLES
+200|You can pilot its CR-V or its Pilot|Honda
+400|20 years after it was formed, this Korean company became a success in the U.S. with the 1986 Excel|Hyundai
+600|This Tesla load-hauling vehicle has invited DeLorean comparisons with its angular, stainless steel body|a Cybertruck
+800|The Boxster and the 911 are popular models from this automaker|Porsche
+1000|The Diablo succeeded this Italian carmaker's Countach|Lamborghini

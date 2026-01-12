@@ -1,0 +1,6 @@
+WHERE'S THAT STATE SCHOOL?
+200|This University of California city declared itself nuke-free in 1986|Berkeley
+400|The main campus of the University of Oklahoma is in this city, also a first name|Norman
+600|They're Russian around & having a capital time at the University of Idaho in this city|Moscow
+800|Read up on your Faulkner on the main campus of the University of Mississippi in this city|Oxford
+1000|Home base of the University of Georgia, it's also produced some famous bands|Athens

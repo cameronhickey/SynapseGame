@@ -1,0 +1,6 @@
+TIME FOR "T\"
+200|These small pincers are used to remove splinters or hair|tweezers
+400|It's a newspaper concentrating on lurid news or whose pages are about half the standard size|a tabloid
+600|It's a set of kettledrums that's used in an orchestra|a timpani
+800|This plant belongs to the genus Nicotiana|tobacco
+1000|It's the 11-letter word for an excessively fast heartbeat|tachycardia

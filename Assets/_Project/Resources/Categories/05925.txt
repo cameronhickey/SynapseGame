@@ -1,0 +1,6 @@
+BLACKJACK
+200|Gambling guru Edwin Silberstang calls it "The most powerful of all cards at blackjack\"|ace
+400|Under Vegas Strip rules, a dealer must stand with this minimum, soft or hard|17
+600|Sure you can buy insurance if the dealer shows an ace on top, or you can do this & lose half your bet, no white flag needed|surrender
+800|The movie "21" told of students at this university who were trained to count cards & took Vegas for millions|MIT
+1000|Aces can be used as one or an 11, but when you're using an ace as an 11, your total is deemed this "comfy" adjective|soft

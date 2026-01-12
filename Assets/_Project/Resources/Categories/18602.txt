@@ -1,0 +1,6 @@
+STARTS WITH A MONTH ABBREV.
+200|You may see this word meaning "infected" in front of "tank\"|septic
+400|Also something seen in a kitchen, it's the border around a golf course green|apron
+600|This number is a designation of antiknock quality in gasoline|octane
+800|Stores use this term to classify girls' clothing sizes such as 1, 7 & 13|juniors
+1000|As a noun, it refers to a soothsayer; as a verb, it means to predict or divine|augur

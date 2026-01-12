@@ -1,0 +1,6 @@
+\"OPEN" & "SHUT\"
+200|A public showing of a residence that's for sale|an open house
+400|Someone who's stuck indoors|a shut-in
+600|9 innings, 6 hits, no runs|a shutout
+800|A test where you're allowed to use notes|an open book test
+1000|Public domain land in the 1800s where the buffalo & cattle roamed before the homesteaders fenced them in|open range

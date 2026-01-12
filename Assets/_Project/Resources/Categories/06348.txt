@@ -1,0 +1,6 @@
+LONG GERMAN WORDS
+200|The Reinheitsgebot is the law of 1516 governing the purity of this 4-letter drink|beer
+400|Freude is this to which Beethoven composed an ode; Schadenfreude is this at someone else's misfortune|joy
+600|A bildungsroman is this type of work covering a young hero's development|novel
+800|Sauerbraten is literally "sour roast"; this is literally "roast sausage\"|Bratwurst
+1000|Bismarck & Kissinger are among masters of this, politics based on pragmatic concerns|Realpolitik

@@ -1,0 +1,6 @@
+THE NORTHERNMOST SPORTS FRANCHISE
+200|Pro baseball: the Giants, the Mariners, the Cardinals|the Mariners
+400|Pro football: the Rams, the Colts, the Titans|the Colts
+600|Pro hockey: the Ducks, the Capitals, the Senators|the (Ottawa) Senators
+800|Pro basketball: the Warriors, the Magic, the Suns|the Warriors
+1000|Pro Soccer: the Fire, the Galaxy, the Rapids|the (Chicago) Fire

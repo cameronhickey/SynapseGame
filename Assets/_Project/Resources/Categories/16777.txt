@@ -1,0 +1,6 @@
+A BUNCH OF BOOKS
+200|John Steinbeck, 1937: "Of ___ and ___\"|Of Mice and Men
+400|Umberto Eco, 1980: "The ___ of the ___\"|The Name of the Rose
+600|First book in a George R.R. Martin series: "A ___ of ___s\"|A Game of Thrones
+800|Joseph Conrad, 1902: "___ of ___\"|Heart of Darkness
+1000|Tom Wolfe, 1987: "The ___ of the ___s\"|The Bonfire of the Vanities

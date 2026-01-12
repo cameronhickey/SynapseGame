@@ -1,0 +1,6 @@
+MOVIE BIOGRAPHIES
+200|In 1994's "Tom & Viv", Willem Dafoe played this poet|T.S. Eliot
+400|He was nominated for a 1974 Oscar for playing Lenny Bruce|Dustin Hoffman
+600|Composer played by Cornel Wilde in "A Song to Remember" & by Hugh Grant in "Impromptu\"|Frederic Chopin
+800|Errol Flynn played this other dissipated matinee idol in 1958's "Too Much, Too Soon\"|John Barrymore
+1000|Director known for his free interpretations of the lives of Tchaikovsky, Liszt & Valentino|Ken Russell

@@ -1,0 +1,6 @@
+COUNTRIES BY CAPITAL
+200|In the Americas: Caracas|Venezuela
+400|In Europe: Sarajevo|Bosnia
+600|In east Africa: Mogadishu|Somalia
+800|In the Middle East: Manama|Bahrain
+1000|A south Pacific kingdom: Nuku'alofa|Tonga

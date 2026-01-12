@@ -1,0 +1,6 @@
+PARTS OF SPEECH... IN SONG!
+200|\"I believe in miracles, where you from? You sexy thing": believe|verb
+400|\"Drop kick me, Jesus, through the goalposts of life, end over end, neither left nor to right": through|a preposition
+600|\"Baby baby baby oh, like baby baby baby no, like baby baby baby oh, thought you'd always be mine": mine|a pronoun
+800|\"Hi! My name is (what?), my name is (who?), my name is Slim Shady": hi|an interjection
+1000|\"If you really need me, just reach out & touch me, come on sugar, let me know": just|an adverb

@@ -1,0 +1,6 @@
+ARTISTS
+200|Although he died in France, his "Last Supper" was in Milan|Leonardo da Vinci
+400|Tahiti's resident "artiste\"|Gauguin
+600|Post-impressionist celebrated in this '72 Don McLean hit: "Starry, starry night / Flaming flowers that brightly blaze / Swirling clouds in violet haze\"|Van Gogh
+800|Psychedelic poster king of the '60s, he's now into "ladies of the '80s\"|Peter Max
+1000|This German painter & printmaker was 1st to publish scientific lit. in German|Albrecht Dürer

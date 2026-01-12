@@ -1,0 +1,6 @@
+POULTRY
+200|Besides the breast, only part of chicken or turkey that is all white meat|wing
+400|Some farmers specialize in raising pullets which are these|young hens
+600|Pea, rose, & cushion are 3 types of this feature found mainly on chickens|their combs (or their crests)
+800|From Greek, its name means "bird of the Phasis", a river in the Caucasus region of the U.S.S.R.|the pheasant
+1000|This quail, the only one native to Eastern U.S., gets its name from its whistle, not its color|bobwhite

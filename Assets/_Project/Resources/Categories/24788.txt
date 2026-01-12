@@ -1,0 +1,6 @@
+COLLEGE: THE DROP/ADD PERIOD
+200|Dropping "-Green Bay" or "-Superior" leaves this state school|the University of Wisconsin
+400|In Colorado, add this armed service to "Academy\"|Air Force
+600|Add this name after "Washington and" but before "University\"|Lee
+800|Add the name of this group of California colleges before "McKenna\"|Claremont
+1000|Drop "for Social Research" from this NYC institution, like it did in the 1990s|the New School

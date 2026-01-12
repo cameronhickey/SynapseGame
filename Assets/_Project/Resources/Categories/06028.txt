@@ -1,0 +1,6 @@
+HEADQUARTER CITIES
+200|Dow Jones & Company|New York City
+400|Minnesota Mining & Manufacturing|St. Paul
+600|Aetna U.S. Healthcare|Hartford
+800|Aluminum Company of America|Pittsburgh
+1000|Eastman Kodak Company|Rochester, New York

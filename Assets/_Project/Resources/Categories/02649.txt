@@ -1,0 +1,6 @@
+BEER
+200|Cutter, O'Douls & Sharp's are this type of beer|Non-alcoholic beers
+400|These small, specialized beer producers, like Sierra Nevada, became popular in the 1980s|Microbrewers/craftbrewers
+600|This popular Irish beer bears the name of a classic Irish stringed musical instrument|Harp
+800|Heineken markets Buckler, this type of beer for the designated driver|non-alcoholic
+1000|The 2 words that precede "Less Filling" in slogans for Miller lite|\"Tastes Great" ("Great Taste" accepted)

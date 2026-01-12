@@ -1,0 +1,6 @@
+JEWELRY
+200|These "buttons" button up your tuxedo shirt|studs
+400|A gem carved in relief, or the kind of appearance Alfred Hitchcock made in his movies|a cameo
+600|A simple strand of these mollusk gems has been a classic fashion accessory for hundreds of years|pearls
+800|Many diamonds are cut in a shape named for this green gem|an emerald
+1000|This kind of pendant is a gold or silver case that opens to reveal a picture of a loved one|a locket

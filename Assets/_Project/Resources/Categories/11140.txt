@@ -1,0 +1,6 @@
+GOING AROUND IN CIRCLES
+200|It's the instrument you can use to draw a circle (not to be confused with the one you use when lost in the woods)|a compass
+400|Pi times a circle's diameter gives the measure of this|the circumference
+600|(Cheryl of the Clue Crew shows a diagram of a circle on the monitor with arc AB, angle a between them, and the formula l(A, B)=ra.) In the formula here, the length of arc (A, B) equals the angle a times r, which stands for this measurement|radius
+800|A wheel that rotates 360 degrees makes a complete one of these; it's also an historical term|a revolution
+1000|(Jimmy of the Clue Crew shows on the monitor a diagram of a clock face with hands at 12 and 4.) If we imagine a circle as a clock face, the 4 would be this many degrees clockwise from high noon|120

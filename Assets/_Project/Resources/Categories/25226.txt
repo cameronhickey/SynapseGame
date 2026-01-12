@@ -1,0 +1,6 @@
+\"POUND" KEY
+200|This word can come before microscope or fracture; the first is definitely better|compound
+400|Traditionally, one of these requires 16 ounces each of butter, sugar & flour|a pound cake
+600|Where you go to retrieve your car after it gets towed for being parked in front of a fire hydrant|the impound lot
+800|2-word official name for the standard monetary unit of the United Kingdom|pound sterling
+1000|A harsh debt payment insisted upon, it was Antonio's obligation to Shylock in "The Merchant of Venice\"|a pound of flesh

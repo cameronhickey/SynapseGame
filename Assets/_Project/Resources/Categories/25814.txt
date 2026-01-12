@@ -1,0 +1,6 @@
+A WORD FROM YOUR DOCTOR
+200|When I ask if you have this kind of pain, I mean is it sharp or sudden, not from an angle of less than 90 degrees|acute
+400|I'm afraid you've broken a brachial bone, brachial meaning a part of this body part|your arm
+600|I've got one of these forecasts for you, from Greek for "prediction\"|prognosis
+800|When I say this is "thready", I mean it's barely perceptible & feels kind of like a thin fiber moving under my finger|a pulse
+1000|I need to examine your ear—hold on while I grab this doohickey with a handle & a light that lets me look inside|an otoscope

@@ -1,0 +1,6 @@
+WHICH DOCTOR...
+200|Puts you to sleep (by administering drugs during an operation)|anesthesiologist
+400|Uses X-rays, ultrasound & MRI to check out your insides|radiologist
+600|Treats bunions & hammer toes|podiatrist
+800|Is a specialist in otorhinolaryngology, a fancy way of saying these 3 body parts|ear, nose & throat
+1000|Is a pediatric specialist who takes care of newborn babies during the first 4 weeks of life|neonatologist

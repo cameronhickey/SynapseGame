@@ -1,0 +1,6 @@
+STATE UNIVERSITY ALUMNI
+200|Clarence Darrow, Tom Brady, Gerald Ford|the University of Michigan
+400|Bob Kerrey, Johnny Carson, Warren Buffett|the University of Nebraska
+600|Michael Jordan, Andy Griffith, John Edwards|the University of North Carolina
+800|Hubert Humphrey, Loni Anderson, Walter Mondale|the University of Minnesota
+1000|William Inge, Wilt Chamberlain, Bob Dole|the University of Kansas

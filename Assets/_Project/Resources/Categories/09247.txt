@@ -1,0 +1,6 @@
+IT'S A MONARCHY
+200|China, Japan, South Korea|Japan
+400|Iran, Iraq, Saudi Arabia|Saudi Arabia
+600|Vietnam, Laos, Cambodia|Cambodia
+800|France, Italy, Belgium|Belgium
+1000|Malaysia, Singapore, The Philippines|Malaysia

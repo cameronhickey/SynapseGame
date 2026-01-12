@@ -1,0 +1,6 @@
+STATES BY STATE PARKS
+200|Ahupua'a O Kahana State Park|Hawaii
+400|Stone Mountain State Park|Georgia
+600|Lake Havasu State Park|Arizona
+800|Fall River Heritage State Park|Massachusetts
+1000|Fort Frederick State Park|Maryland

@@ -1,0 +1,6 @@
+PRESIDENTIAL LIBRARY ADDRESSES
+200|4079 Albany Post Road, Hyde Park, New York|Franklin D. Roosevelt
+400|1000 Beal Avenue, Ann Arbor, Michigan|Gerald Ford
+600|Columbia Point, Boston, Massachusetts|John F. Kennedy
+800|2313 Red River Street, Austin, Texas|Lyndon B. Johnson
+1000|210 Parkside Drive, West Branch, Iowa|Herbert Hoover

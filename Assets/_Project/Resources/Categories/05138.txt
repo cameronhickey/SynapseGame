@@ -1,0 +1,6 @@
+POETIC FEET
+200|This word for an unstressed syllable followed by a stressed one actually has the reverse pattern|Iamb
+400|This word for a type of spoken stress pattern is from Greek for "finger"; it's also found after "ptero\"|Dactyl
+600|A foot of 2 unstressed syllables or a costly type of "victory\"|pyrrhic
+800|This word for the poetic movement including Keats & Byron is an example of an amphibrach|Romantic poets
+1000|A fine example of verse written in anapests is this first line of "That's Amore\"|\"When the moon hits your eye like a big pizza pie\"

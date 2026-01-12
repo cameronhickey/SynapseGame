@@ -1,0 +1,6 @@
+BEATLES "LOVE" SONGS
+200|\"You think you've lost your love, well, I saw her yesterday-yi-yay\"|\"She Loves You\"
+400|\"Nowhere you can be that isn't where you're meant to be\"|\"All You Need Is Love\"
+600|\"I'll always be true, so please...\"|\"Love Me Do\"
+800|\"A love like ours could never die as long as I have you near me\"|\"And I Love Her\"
+1000|\"I can see them laugh at me & I hear them say, hey...\"|\"You've Got To Hide Your Love Away\"

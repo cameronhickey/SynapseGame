@@ -1,0 +1,6 @@
+AS THE STOMACH TURNS
+200|A gnawing pain in the abdomen is a symptom of the peptic type of this chronic ailment|Ulcer
+400|One of the regions of the stomach is the cardia, named for this nearby organ|Heart
+600|This "fake fat" reportedly causes abdominal cramps & inhibits the absorption of some vitamins & nutrients|Olestra
+800|One common shape of the stomach is like this tenth letter of the alphabet|J
+1000|Over-the-counter treatments for heartburn include Pepcid AC & this, from Smithkline Beecham|Tagamet

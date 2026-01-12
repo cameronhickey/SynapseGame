@@ -1,0 +1,6 @@
+THE RIVER'S TRIBUTARIES
+200|Tocantins, Madeira, Rio Negro|the Amazon
+400|River Leach, River Churn, River Cherwell|the Thames
+600|Parma, Trebbia, Ticino|the Po
+800|Moselle, Main, Neckar|the Rhine
+1000|Big Salmon, Pelly, Klondike|the Yukon

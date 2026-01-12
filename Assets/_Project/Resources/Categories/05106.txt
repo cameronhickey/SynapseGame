@@ -1,0 +1,6 @@
+CLOTH & FABRICS
+200|It's a sheer, fluffy silk fabric for blouses, or a fluffy type of pie|Chiffon
+400|Open mesh fabric used in stockings & on trawlers|Fishnet
+600|This soft, slightly napped cotton fabric is popular in snuggly PJs & gray suits of the '50s|Flannel
+800|Now made of hemp or jute, when worn with ashes it's tops in mourning attire|Sackcloth
+1000|To get actual Harris tweed from where it's made, go to this group of islands west of the Scottish mainland|Hebrides

@@ -1,0 +1,6 @@
+A BOOKISH CATEGORY
+200|\"1Q84" by Haruki Murakami is set in 1984 in this city|Tokyo
+400|\"If you please, draw me a sheep" requests the title kid in this 1943 Saint-Exupery fable|The Little Prince
+600|This book by Malcolm Gladwell is subtitled "How Little Things Can Make a Big Difference\"|The Tipping Point
+800|This 1982 novel by Alice Walker traces Celie's growth from self-hatred to independence|The Color Purple
+1000|It begins, "It was love at first sight. The first time Yossarian saw the chaplain he fell madly in love with him\"|Catch-22

@@ -1,0 +1,6 @@
+FOREIGN FOOD
+200|Don't wonder, naan, roti & puri are types of this in India|bread
+400|Meal at which you'd normally serve muesli|breakfast
+600|If you make it right, your salsa verde should be this color|green
+800|A meat-filled tortilla in a chili sauce, its name is from the Spanish for "to season with chili\"|enchilada
+1000|This style of topping may sound good, but its name is from the French for "with the burnt scrapings\"|au gratin

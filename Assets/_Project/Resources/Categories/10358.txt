@@ -1,0 +1,6 @@
+\"TRANS" MISSION
+200|The Merchant Marine Academy is part of this government department|Transportation
+400|This device can increase or reduce power so your blow dryer doesn't get extra volts on your trip to Europe|a transformer
+600|Based on Hindu practices, it uses mantras & is abbreviated TM|transcendental meditation
+800|This highway extends almost 5,000 miles from St. John's, Newfoundland to Victoria, British Columbia, eh|Trans-Canada Highway
+1000|It rises over 800 feet in San Francisco|the Transamerica Pyramid (the Transamerica Building accepted)

@@ -1,0 +1,6 @@
+QUOTH THE AMENDMENT
+200|\"A well regulated militia, being necessary to the security of a free state...\"|the Second Amendment
+400|\"Congress shall make no law...\"|the First Amendment
+600|\"No person shall... be subject for the same offence to be twice put in jeopardy of life or limb\"|the Fifth Amendment
+800|\"The right of the people to be secure in their persons... shall not be violated\"|the Fourth
+1000|\"The powers not delegated to the United States... are reserved to the states respectively, or to the people\"|the Tenth

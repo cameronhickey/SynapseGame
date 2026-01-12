@@ -1,0 +1,6 @@
+TUBES
+200|Submarines have fixed tubes in the bow to shoot these underwater weapons|torpedoes
+400|If a surfer rides the tube in London, he's on this|the subway
+600|Every little breeze seems to whisper the name of this first test tube baby|Louise (Brown)
+800|The gas-filled Geissler tube of the late 1850s was adapted for use in these advertising signs|neon signs
+1000|Like you, a frog has this tube connecting the middle ear & the throat|the Eustachian tube

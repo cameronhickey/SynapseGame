@@ -1,0 +1,6 @@
+AFTER MATH
+200|An afternoon entertainment at the theater|a matinée
+400|A community's female leader|a matron (matriarch)
+600|Ripeness|maturity
+800|To enroll in a university|matriculate
+1000|A rectangular numeric array in math|a matrix

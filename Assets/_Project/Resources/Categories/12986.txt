@@ -1,0 +1,6 @@
+TEXAS HOLD'EM HANDS
+200|You've been dealt a "speed limit" if you hold a pair of these|fives
+400|There are "snowmen" in your mitts when holding a pair of these|eights
+600|A pair of these face cards is referred to as "fishhooks\"|jacks
+800|A hand consisting of a 5 & 10 is nicknamed this, like a famous chain of stores|Woolworth
+1000|If you're holding a "magnum", you've got a pocket pair of these|fours

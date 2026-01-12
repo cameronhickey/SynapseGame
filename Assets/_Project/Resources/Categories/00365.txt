@@ -1,0 +1,6 @@
+CARDS & DICE
+200|\"Anatomical" card game where it's tough to "shoot the moon\"|hearts
+400|Card game invented in 1909 & named for alcoholic drink|gin rummy
+600|In craps, double sixes on dice are called this|box cars
+800|Number of pieces an backgammon player starts with|15
+1000|Its World Championship is "The Bermuda Bowl\"|bridge

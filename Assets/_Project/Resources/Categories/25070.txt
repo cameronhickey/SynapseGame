@@ -1,0 +1,6 @@
+STATE POSTAL ABBREVIATIONS
+200|It's the "friendly" postal abbreviation for the Aloha State|HI
+400|This state's postal abbreviation is alphabetically last|Wyoming (WY)
+600|This state's postal abbreviation is alphabetically first|Alaska (AK)
+800|They're the two states whose postal abbreviations end with the letter "C\"|North & South Carolina (NC & SC)
+1000|It's the only state whose postal abbreviation is a pronoun|Maine (ME)

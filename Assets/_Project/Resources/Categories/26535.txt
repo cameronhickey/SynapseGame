@@ -1,0 +1,6 @@
+3-LETTER BODY PARTS?
+200|To equip with weaponry|arm
+400|To tease or make fun of|rib
+600|The distance traveled by a sailing vessel on a single tack|leg
+800|The seed-bearing part of a cereal plant|ear
+1000|A tree of the genus Eucalyptus|gum

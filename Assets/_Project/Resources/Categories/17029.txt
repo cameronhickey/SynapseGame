@@ -1,0 +1,6 @@
+\"NEW" CITIES
+200|Like its Old World counterpart, this Connecticut city is on the Thames River|New London
+400|Since few there eat beef, you might go broke opening one of these in this capital city of India|New Delhi (new deli)
+600|There's no point in bringing coal to this English city, since it has plenty to export|Newcastle
+800|In revenue, this Massachusetts city is the USA's leading fishing port|New Bedford
+1000|Buildings of Robert Owen's cooperative 19th c. community have been restored in this Indiana town|New Harmony

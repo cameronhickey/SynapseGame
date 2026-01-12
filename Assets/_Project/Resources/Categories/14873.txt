@@ -1,0 +1,6 @@
+COUNTRIES ALPHABETICALLY
+200|Your Poppy knows this "A" country is first alphabetically|Afghanistan
+400|You'll find this country between Cambodia & Canada|Cameroon
+600|In the "Z"s you'll find this country before Zimbabwe|Zambia
+800|Uruguay was supplanted by this country as the last "U" alphabetically|Uzbekistan
+1000|This European country is in last place in the "L"s|Luxembourg

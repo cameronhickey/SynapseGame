@@ -1,0 +1,6 @@
+TAKE "OUT\"
+200|It's police surveillance outside a building to observe or catch criminals|a stakeout
+400|For the kids, this restaurant chain offers a joey menu|Outback
+600|A boat made from a hollowed-out log, or where baseball players sit|a dugout
+800|Medical procedures without overnight hospitalization are considered this type|outpatient
+1000|The term this type of "art" by self-taught non-mainstream artists was coined by Roger Cardinal in 1972|outsider art

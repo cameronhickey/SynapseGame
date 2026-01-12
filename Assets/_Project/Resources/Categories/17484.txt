@@ -1,0 +1,6 @@
+DESCRIBING THE ANIMAL
+200|Leonine|a lion
+400|Piscine|a fish
+600|Vulpine|a fox
+800|Cancroid|a crab
+1000|Caballine|a horse

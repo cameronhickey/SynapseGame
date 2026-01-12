@@ -1,0 +1,6 @@
+SPURS
+200|Something done impulsively is done on this|the spur of the moment
+400|In the NBA, the Spurs play for this city|San Antonio
+600|Some people suffer from these in their heel, finger or knee|bone spurs
+800|A Western Writers' of America Spur Award went to the screenplay of this Best Picture of 1992|Unforgiven
+1000|Edward III said of his son the Black Prince, "Let the boy win his spurs" at this battle|the Battle of Crecy

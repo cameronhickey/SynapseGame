@@ -1,0 +1,6 @@
+ON ITS WESTERN BORDER
+200|Spain|Portugal
+400|Dominican Republic|Haiti
+600|Egypt|Libya
+800|Papua New Guinea|Irian Jaya
+1000|Bosnia-Herzegovina|Croatia

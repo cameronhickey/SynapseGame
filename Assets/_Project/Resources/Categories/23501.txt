@@ -1,0 +1,6 @@
+LEGAL "EE\"
+200|A reliable person who holds or administers the possessions of another, like a minor|a trustee
+400|An assurance that a contract will be executed or something given as security that it will be done|a guarantee
+600|It's defined by the U.N. as one who can't return to their home country due "to a well-founded fear of being persecuted\"|a refugee
+800|A conditionally released prisoner|parolee
+1000|This 6-letter word is a court's final judgment or decision|decree

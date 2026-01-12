@@ -1,0 +1,6 @@
+BEATRIX POTTER TITLE ANIMALS
+200|\"The Tale of Peter ___\"|Rabbit
+400|\"The Tale of ____ Nutkin\"|Squirrel
+600|\"The Tale of Benjamin ___\"|Bunny
+800|\"The Tale of Jemima Puddle-___\"|Duck
+1000|\"The Tale of Johnny Town-___\"|Mouse

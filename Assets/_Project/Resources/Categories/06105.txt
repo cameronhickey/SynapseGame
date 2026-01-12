@@ -1,0 +1,6 @@
+DA BOMB
+200|This branch of the military was put in charge of the Manhattan Project|the Army
+400|Using Pu-239, an isotope of this element, the atomic bomb was tested at Alamogordo in the summer of 1945|plutonium
+600|The Enola Gay dropped the bomb on Hiroshima; Bockscar dropped the bomb on this city|Nagasaki
+800|The A-bomb test site was named this, after the John Donne poem "Batter My Heart, Three-Personed God\"|Trinity
+1000|This Los Alamos director recalled the words "Now I am become death...destroyer of worlds" during the first test|J. Robert Oppenheimer

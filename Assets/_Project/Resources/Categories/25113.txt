@@ -1,0 +1,6 @@
+MICRO-ORGANISMS
+200|It's what the long, thread-like structures called flagella are used for|locomotion (movement)
+400|Some cause disease; others aid chemical processes such as changing nitrites into nitrates|bacteria
+600|Considered both plant & animal, the euglena is this color when living in the sunlight|green
+800|This class of single cell fungus multiplies asexually by budding|yeast
+1000|Meaning "false foot", an amoeba uses one or more to encircle & ingest food|pseudopod

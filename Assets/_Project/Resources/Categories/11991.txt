@@ -1,0 +1,6 @@
+\"AFTER" CLASS
+200|A small earthquake or tremor that occurs following a major one|an aftershock
+400|In the familiar spelling rule, "I" comes before "E" except in this case|after "C\"
+600|To increase a jet plane's thrust, turn on these that feed fuel into the hot exhaust gases|afterburners
+800|An epilogue|an afterword
+1000|Reconsideration upon an act's completion, or something added that wasn't in the original plan|an afterthought

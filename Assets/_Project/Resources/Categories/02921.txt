@@ -1,0 +1,6 @@
+WINGS
+200|The Wright Brothers connected these to the engine with bicycle chains|propellers
+400|Some say he was inspired by Paul Cini, who hijacked a plane & tried to escape by parachute 2 weeks earlier|D.B. Cooper
+600|These hinged flaps on the trailing edges of wings are used to make an airplane bank to the right or to the left|Ailerons
+800|A winged god named Ahura Mazda is the symbol of this ancient Persian religion|Zoroastrianism
+1000|The prophet Isaiah describes these angels as having 6 wings: 2 to cover their faces, 2 to cover their feet & 2 to fly|Seraphim

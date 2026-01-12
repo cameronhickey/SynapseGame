@@ -1,0 +1,6 @@
+THEY LIVE THERE
+200|The city of the Muscovites|Moscow
+400|The city of the Liverpudlians|Liverpool
+600|The country of the Nipponese|Japan
+800|The city of the Neopolitans|Naples
+1000|The city of the Glaswegians|Glasgow

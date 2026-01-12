@@ -1,0 +1,6 @@
+SICKNESS & HEALTH
+200|Emotional instability & irritability are symptoms of this condition abbreviated PMS|Pre-Menstrual Syndrome
+400|From the Greek for "beautiful strong", it's an exercise program that will shape you up|calisthenics
+600|To avoid this disease, visitors to African safari parks should protect against tsetse fly bites|sleeping sickness
+800|About 85% of children infected with this disease, once called infantile paralysis, have no symptoms|polio
+1000|The Duchenne type of this disorder usually appears between the ages of 3 & 5|muscular dystrophy

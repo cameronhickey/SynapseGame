@@ -1,0 +1,6 @@
+HOME EC
+200|According to World Book, rank of homemaker among all occupations|first
+400|Home Ec course in which a student learns zigzag has more give than straight|sewing
+600|In table settings, these are the only utensils placed on the left side of the plate|forks
+800|The overuse of this laundry product will cause towels to lose their absorbency|fabric softener
+1000|From the Greek for "regimen", it's the person in a school who sets up the cafeteria's regimen|the dietician

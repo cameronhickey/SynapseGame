@@ -1,0 +1,6 @@
+SPEED OF SOUND
+200|In dry air, the speed of sound is 1,086 FPS, short for this|feet per second
+400|2-word name for the loud crack when a plane exceeds the speed of sound|sonic boom
+600|Scientific American said of this, familiar to ark raiders, that it was the loop, not the tip, that broke the sound barrier|a whip
+800|A tachometer measures RPM; this, named for scientist Ernst, measures speed in relation to the speed of sound|a machometer
+1000|In 1947 this 24-year-old became the first human to go faster than sound|Chuck Yeager

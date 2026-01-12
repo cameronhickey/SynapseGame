@@ -1,0 +1,6 @@
+PLEAS
+200|In criminal law, if a defendant refuses to enter a plea or does not appear, the court enters this plea on his behalf|not guilty
+400|In an attempt to plead this, 2 brothers who robbed a payroll truck in NYC in 1941 barked like dogs & drooled in court|insanity
+600|\"Stand your ground" laws have increased the possible situations for this hyphenated plea|self-defense
+800|2-word Latin phrase for a plea in which the defendant does not dispute the charges|nolo contendere
+1000|This word comes before "pleading" to mean an argument that blatantly favors only one side of a case|special pleading

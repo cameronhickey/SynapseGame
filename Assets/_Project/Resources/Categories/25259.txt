@@ -1,0 +1,6 @@
+SAY, "BUSTER\"
+200|Harry Houdini was called one of these in 1930, half a century before Bill Murray|a ghostbuster
+400|Originally meaning a very big bomb, now it's a movie that's a very big not bomb|a blockbuster
+600|To "come on like" these law enforcers means to do something with great force or speed|gangbusters
+800|In the 1850s, it meant an American who caused conflict in Latin America; a bit later, it came to mean a tactic in a legislature|a Filibuster
+1000|A 1906 newspaper article examined Teddy Roosevelt's record as one of these, based on enforcement of the Sherman Act|trust buster

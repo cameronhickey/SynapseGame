@@ -1,0 +1,6 @@
+STOCKS & INVESTMENTS
+200|Munis are one type of these debt securities issued by many governments|(municipal) bonds
+400|Also used in a different type of gambling, this colorful term describes a stock with a history of paying out|a blue chip stock
+600|This alliterative event occurs when a company repurchases its own stock, increasing the value of the remaining shares|a buyback
+800|A rule that halts trading in the case of a sudden decline is called this, like a switch that trips to stop an electric overload|a circuit breaker
+1000|Basic goods like grains, beef & oil are traded as these & usually sold as derivative contracts called futures|commodities

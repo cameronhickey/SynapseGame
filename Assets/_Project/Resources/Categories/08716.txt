@@ -1,0 +1,6 @@
+DOUBLE "L" WORDS
+200|At the gym, this machine lets you walk or run in place by means of a moving belt|treadmill
+400|It can be a husk or a ship part|hull
+600|In Greek myth, Paris killed this hero by shooting him with an arrow; what a heel!|Achilles
+800|John Brown died on one in 1859|the gallows
+1000|This adjective is used of land that is plowed but left unseeded for a season or more|fallow

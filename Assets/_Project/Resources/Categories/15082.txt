@@ -1,0 +1,6 @@
+NATIONAL FOREST STATES
+200|Hoosier National Forest|Indiana
+400|Tuskegee National Forest|Alabama
+600|Pike National Forest|Colorado
+800|Prescott National Forest|Arizona
+1000|Olympic National Forest|Washington

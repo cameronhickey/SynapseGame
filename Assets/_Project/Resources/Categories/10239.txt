@@ -1,0 +1,6 @@
+NAME THAT MAJOR NEWSPAPER
+200|Los Angeles, London, Seattle, St. Petersburg|Times
+400|Washington, Palm Beach, Jerusalem|Post
+600|Denver Rocky Mountain, San Antonio Express-, Dallas Morning|News
+800|Chicago, Tampa, San Diego Union-|Tribune
+1000|Miami, Boston, Sydney Morning|Herald

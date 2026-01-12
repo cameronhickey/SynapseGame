@@ -1,0 +1,6 @@
+THE PART OF SPEECH IN THE BOOK TITLE
+200|Pronoun in the title of a 1940 Hemingway classic whose title "rings" out|Whom
+400|A novel about Daisy Buchanan, among others: Adjective|Great
+600|A 1937 Tolkien tale: Article|The
+800|A 1937 short novel by Steinbeck: Preposition|Of
+1000|Budd Schulberg's Hollywood novel about Sammy Glick: Verb (1 of 2)|Makes (or Run)

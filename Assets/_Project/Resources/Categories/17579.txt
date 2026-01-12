@@ -1,0 +1,6 @@
+GLOBAL STUDIES
+200|The largest delta in the world is the one of this river that reaches the sea in Bangladesh & India|the Ganges
+400|This country's 250 million people spread out across a vast archipelago of more than 18,000 islands|Indonesia
+600|Maghrib means "west" in this, the main language in the Maghrib|Arabic
+800|For 70 million travelers flying to more than 90 countries a year, this U.K. airport is one of the world's busiest|Heathrow
+1000|The Hermitage Museum in this city houses a collection of more than 3 million works of art & artifacts|St. Petersburg

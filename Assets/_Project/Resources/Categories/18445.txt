@@ -1,0 +1,6 @@
+OPERA COUNTRY SETTINGS
+200|Carl Heinrich Graun's "Montezuma\"|Mexico
+400|Verdi's "Aida\"|Egypt
+600|Giacomo Meyerbeer's "The Huguenots\"|France
+800|Jacques Offenbach's "Die Rheinnixen\"|Germany
+1000|Puccini's "Turandot\"|China

@@ -1,0 +1,6 @@
+TOOL TIME
+200|When your wine bottle doesn't have a twist-off cap, you need one of these|corkscrew
+400|A rubber blade on a handle, it's used to remove a liquid from a surface|a squeegee
+600|(Jimmy gives the clue.) When Alex needs to hold something down to weld, he puts one of these on it|a (vice) clamp
+800|(Here we go! Back to the garage.) It's the machine that powers Alex's nail gun|a compressor
+1000|(Last one.) Alex is gonna square up an old screwdriver using this tabletop device|a grindstone

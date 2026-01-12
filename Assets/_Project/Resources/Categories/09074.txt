@@ -1,0 +1,6 @@
+GROCERY SHOPPING
+200|If in a hurry, grab a prewashed salad mix, perhaps with the red leaf & green leaf types of this|lettuce
+400|If you're buying a whole fish, these (on the fish) should be clear & not sunken|eyes
+600|Mom, not shredded wheat! Please can we get Tony's Cinnamon Krunchers from this company, can we please?|Kellogg's
+800|You'll get fresher milk from the bottom of your market's display case for this reason|because it's colder at the bottom
+1000|Choose one of these with evenly distributed netting|cantaloupe

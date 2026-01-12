@@ -1,0 +1,6 @@
+ECON 101
+200|Ursine term for an investor who expects share prices to fall|bear
+400|Rhyming with but less severe than a depression, it's 2 consecutive quarters of negative economic growth|a recession
+600|It's the 4-letter word for the degree of hazard involved in making a loan or investment|risk
+800|Alliterative term for what you've got when spending equals income|a balanced budget
+1000|This 3-word concept describes the relationship between buyers, sellers & producers|supply and demand

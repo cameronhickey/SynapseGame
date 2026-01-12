@@ -1,0 +1,6 @@
+DOG BREED NAMES
+200|This sporting dog of Germany was selectively bred by Grand Duke Karl August of Weimar, thus its name|Weimaraner
+400|The border type of this dog takes its name from its origin near the English-Scottish border|a (border) collie
+600|Some say the name of this dog from Africa is the plural of mosenji, Lingala for "native\"|basenji
+800|This breed's name tells us that it's the bearded dog from the Tibetan capital|a Lhasa apso
+1000|This "royal dog of Egypt" was named for an ancient city in Arabia|the Saluki

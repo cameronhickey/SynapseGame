@@ -1,0 +1,6 @@
+HABITATS
+200|This, the world's largest rainforest, is home to several million species, including the jaguar & the capybara|the Amazon
+400|These insects make up the animal kingdom's largest order; over 600 species may be found in 1 rainforest tree|beetles
+600|The state animal of Kansas is the American type of this that roamed the Great Plains|bison (or buffalo)
+800|Divers seek the butterfly fish and other colorful creatures in this type of habitat, like Australia's "Great" one|a reef
+1000|In the African savanna, dried grass & dead wood are decomposed by these insects to make mounds way taller than anthills|termites

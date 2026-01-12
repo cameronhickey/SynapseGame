@@ -1,0 +1,6 @@
+TV WORKPLACE SETTINGS
+200|\"Mad Men\"|an advertising office
+400|\"The Larry Sanders Show" & "Nightcap" starring Ali Wentworth|a late-night talk show
+600|\"The Flintstones", where Fred operated a bronto-crane|a quarry
+800|\"Ugly Betty" & "Just Shoot Me!\"|a (fashion) magazine
+1000|\"Lou Grant\"|a newsroom (or newspaper)

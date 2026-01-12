@@ -1,0 +1,6 @@
+VALUES
+200|13 loaves or buns|Baker's dozen
+400|For 8 it's 2; for 27 it's 3|Cube root
+600|In Greece this many lepta equal 1 drachma|100
+800|In printing, 12 points|Pica
+1000|A millionth of a meter|Micron/micrometer

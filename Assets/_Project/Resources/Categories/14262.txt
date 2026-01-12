@@ -1,0 +1,6 @@
+TABLE OF CONTINENTS
+200|Greenland is considered a part of it|North America
+400|The continental one off Newfoundland extends about 200 miles; the one off California, only 2 or 3 miles|shelf
+600|It's the continent with the second-largest population|Africa
+800|(Sarah stands in front of a map) To display the globe without distorting the shapes and sizes of the continents, the Dymaxion map was created by this mathematician and geodesic dome designer.|Buckminster Fuller
+1000|With its multiple peninsulas & islands, it has the highest ratio of coastline to total area|Europe

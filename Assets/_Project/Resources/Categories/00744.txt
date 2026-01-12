@@ -1,0 +1,6 @@
+\"X", "Y", "Z\"
+200|A type of toy terrier, or a pudding|Yorkshire
+400|He's the most famous man we know named Pinchas|Zukerman
+600|In the Samuel Taylor Coleridge poem, it's the site of Kubla Khan's stately pleasure dome|Xanadu
+800|It can refer to a point directly overhead in the sky, or to any high point|the zenith
+1000|It's defined as an irrational fear of strangers or foreigners|xenophobia

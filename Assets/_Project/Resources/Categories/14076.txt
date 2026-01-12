@@ -1,0 +1,6 @@
+SAY "HEY", KID
+200|1968 Beatles No. 1 hit|\"Hey Jude\"
+400|In a nursery rhyme it precedes "the cat and the fiddle\"|\"Hey Diddle Diddle\"
+600|It's a stage of youth, vigor & prosperity|heyday
+800|1951 Hank Williams classic with a culinary query in the chorus|\"Hey, Good Lookin'\"
+1000|Precedes Broun in the name of a pioneering journalist & Hale Broun in the name of his sportswriter son|Heywood

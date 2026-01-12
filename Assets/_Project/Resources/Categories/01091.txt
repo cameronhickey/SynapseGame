@@ -1,0 +1,6 @@
+MATH
+200|It's the formula for the area of a circle|πr2
+400|If 2 of the interior angles of a triangle are 90o & 60o, the third one will measure this|30o
+600|The perimeter of a circle also has this other name|the circumference
+800|25 has 2 square roots: 5 & this|-5
+1000|A location in space or in a coordinate system, one of these has no dimensions|a point

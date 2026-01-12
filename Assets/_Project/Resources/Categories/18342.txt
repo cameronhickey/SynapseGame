@@ -1,0 +1,6 @@
+DISCOVERIES IN THE SCIENCES
+200|A small rug inside the study of the skin|mat (in dermatology)
+400|A companion animal inside the study of reptiles & amphibians|pet (in herpetology)
+600|A dress bottom inside the study of the elements|hem (in chemistry)
+800|An elemental unit inside the study of the physical structure of the human body|atom (in anatomy)
+1000|An involuntary movement inside the science of data collection & analysis|tic (in statistics)

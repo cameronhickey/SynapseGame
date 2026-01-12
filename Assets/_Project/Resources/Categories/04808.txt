@@ -1,0 +1,6 @@
+CRIMINAL NICKNAMES
+200|Syndicate leader Charles Luciano|\"Lucky\"
+400|1930s bank robber George Kelly|\"Machine Gun\"
+600|Public enemy Charles Floyd|\"Pretty Boy\"
+800|1920s racketeer Jack Diamond|\"Legs\"
+1000|Underworld boss Arthur Flegenheimer (aka Schultz)|Dutch

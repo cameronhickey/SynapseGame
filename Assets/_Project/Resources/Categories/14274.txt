@@ -1,0 +1,6 @@
+THE MAIN ORGAN AFFECTED
+200|Eczema|skin
+400|Ophthalmitis|the eyes
+600|Cardiomegaly|the heart
+800|Nephromalacia|the kidneys
+1000|Pleurisy|the lungs

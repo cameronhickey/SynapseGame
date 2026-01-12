@@ -1,0 +1,6 @@
+WHICH RELIGION'S HOLIDAY?
+200|Shrove Tuesday|Christianity
+400|Nirvana Day|Buddhism
+600|Ganesh Chaturthi|Hinduism
+800|Purim|Judaism
+1000|Pioneer Day|Mormonism (Church of Latter Day Saints)

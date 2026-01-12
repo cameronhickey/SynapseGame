@@ -1,0 +1,6 @@
+LOUISIANA PARISH NAMES
+200|This region of Canada where the Cajuns originated & got their name|Acadia
+400|This French aristocrat who heroically aided the American Revolution|Lafayette
+600|This title of a French duke; note there's no "New" in the parish name|Orleans
+800|This 230,000-square-mile peninsula of southwestern Europe|Iberia
+1000|Last name of this "beautiful looking" general who commanded the attack on Fort Sumter in 1861|Beauregard

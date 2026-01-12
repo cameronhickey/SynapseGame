@@ -1,0 +1,6 @@
+HEADWEAR
+200|Fezzes & mortarboards both have one of these decorations|tassels
+400|One may be sun or war|a bonnet
+600|A large one decorates doors at Christmas; a small one decorates the heads of honorees|wreath
+800|De rigueur wear for schussers & bank robbers|ski masks
+1000|When Lulu graduated from stripper school, her mortarboard had 2 of these|tassels

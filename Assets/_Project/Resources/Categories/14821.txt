@@ -1,0 +1,6 @@
+EASY MOLECULAR BIOLOGY
+200|The presence of this letter chromosome determines that a zygote will develop into a male|Y
+400|Early studies focused on finding the structure not of carbs & fat but of this compound, collagen being one example|protein
+600|These one-celled organisms that may cause disease also produce the "snipping" enzymes that create recombinant DNA|bacteria
+800|This process is benign when it replicates DNA segments, but makes people nervous when it replicates mammals|cloning
+1000|Linus Pauling used X-ray crystallography to study the patterns of keratin in this body part|hair

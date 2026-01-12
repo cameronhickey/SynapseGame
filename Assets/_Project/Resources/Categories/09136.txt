@@ -1,0 +1,6 @@
+PROVERBIOS EN ESPAÑOL
+200|\"El silencio es oro\"|silence is golden
+400|\"El fin justifica los medios\"|the end justifies the means
+600|\"El amor es ciego\"|love is blind
+800|\"La pluma es mas poderosa que la espada\"|the pen is mightier than the sword
+1000|\"Las malas noticias viajan rapido\"|bad news travels fast

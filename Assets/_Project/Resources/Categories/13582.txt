@@ -1,0 +1,6 @@
+\"B" FORE "N" AFTER
+200|A legume, maybe a green one|a bean
+400|A prohibition|ban
+600|Ship's officer who summons the crew with a whistle|a boatswain
+800|Maine college that was Nat Hawthorne's alma mater|Bowdoin
+1000|Seaside Sussex town where the pinball wizard played|Brighton (England)

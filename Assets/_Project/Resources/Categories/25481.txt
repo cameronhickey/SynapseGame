@@ -1,0 +1,6 @@
+NEWER MACHINES & INVENTIONS
+200|3D printers aren't great for mass production but excel with these models, whose name is partly from the Greek for "first\"|a prototype
+400|A major advantage of using hydrogen fuel cells to generate electricity is that their only byproducts are heat & this|water (water vapor)
+600|The IoT is short for this, which connects commonplace items to the web & collects data|the Internet of Things
+800|With a name like another musical instrument, the "O-" this uses an optical sensor & keyboard to make violin music|the O-bow (an optical bow)
+1000|It's the alliterative term for a computer system based on the brain|a neural network

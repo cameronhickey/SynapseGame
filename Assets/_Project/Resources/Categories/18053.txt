@@ -1,0 +1,6 @@
+PLANETS OF THE SOLAR SYSTEM
+200|There are now 8 planets, including this many "inner" ones whose orbits lie inside the asteroid belt|four
+400|It's the only planet not named for a Greek or Roman god|Earth
+600|It always rises or sets within 2 hours of its buddy the Sun, so it's never observable in full darkness|Mercury
+800|The second-largest, it's also the least dense & would float in water|Saturn
+1000|John Herschel, son of William, contributed to the discovery of this planet decades after his father's death|Neptune

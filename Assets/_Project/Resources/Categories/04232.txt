@@ -1,0 +1,6 @@
+IN A STORM MOVIE
+200|The twister in this 1939 film was so severe it threw the film into color|The Wizard of Oz
+400|During an electrical storm in this 1931 horror film, a monster comes "alive\"|Frankenstein
+600|In this Scorsese film, Nick Nolte struggles with Robert De Niro aboard a storm-tossed boat|Cape Fear
+800|In this film, Bogie & Bacall wait out a tropical storm with Edward G. Robinson|Key Largo
+1000|In this Chaplin film, a snowstorm blows a prospector's cabin to the edge of a cliff|The Gold Rush

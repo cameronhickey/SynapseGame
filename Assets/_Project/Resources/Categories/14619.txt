@@ -1,0 +1,6 @@
+ISLAND NICKNAMES
+200|\"The Land of the Shamrock\"|Ireland
+400|\"The Emerald Isle\"|Ireland
+600|\"Islands of the Tortoises\"|Galápagos
+800|\"The Home of the Dragon Lizard\"|Komodo
+1000|Hawaiian island known as "The Island of Lepers\"|Molokai

@@ -1,0 +1,6 @@
+PALINDROMES
+200|High time of day for Gary Cooper|noon
+400|Gary Burghoff's role in "M*A*S*H\"|Radar
+600|A scout performs a good one every day|deed
+800|Palindromic nickname for parents|mom and pop/dad
+1000|3-word greeting in the Garden of Eden|\"Madam, I'm Adam\"

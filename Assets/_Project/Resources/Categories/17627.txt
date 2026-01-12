@@ -1,0 +1,6 @@
+TV CHARACTER ALIASES
+200|He impersonated Mr. Burns, but when asked for Mr. Burns' first name, he replied, "I don't know\"|Homer Simpson
+400|He posed as importer (& exporter!) Art Vandelay, of Vandelay Industries|George Costanza
+600|This detective became Sonny Burnett to deal with vice in Miami|Sonny Crockett
+800|This serial killer of serial killers also goes by Patrick Bateman, a movie character with similar issues|Dexter
+1000|On "Mad Men", the name of this Jon Hamm character was actually an alias used by Dick Whitman|Don Draper

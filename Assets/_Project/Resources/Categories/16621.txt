@@ -1,0 +1,6 @@
+\"M.C.\"
+200|Movie whose theme song is the following: "Everybody's talking at me / I don't hear a word they're saying...\"|Midnight Cowboy
+400|Usually a den with a TV & not a hollow in the earth, it's a place where a guy can get away from it all|a man cave
+600|In "The Italian Job" Mark Wahlberg drove this little car as part of a crime caper|a Mini Cooper
+800|A mix of batters gives this dessert its characteristic look|a marble cake
+1000|George V established this decoration for acts of gallantry against the enemy|Military Cross

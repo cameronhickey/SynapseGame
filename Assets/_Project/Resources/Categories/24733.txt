@@ -1,0 +1,6 @@
+TAKE A TOUR
+200|An architecture tour of this city includes the Tribune Tower & the Wrigley Building|Chicago
+400|A real quack-up, a fun way to tour Boston is on one of these amphibious vehicles that ends with a ride on the Charles River|a duck boat
+600|From the comfort of your home, you can virtually tour some of the art exhibits of this museum in both New York & Bilbao, Spain|the Guggenheim
+800|In Kentucky, "swing" by the museum & factory for this sporting product, see how it's made & score one for yourself|Louisville Slugger
+1000|Fashion fit for royalty is one of the specialty tours offered at this palace in Honolulu, once home to Hawaii's monarchs|Iolani Palace

@@ -1,0 +1,6 @@
+THE MUSICAL FRUIT
+200|The Beatles: "___ Fields Forever\"|Strawberry
+400|Fats Domino: "____ Hill\"|Blueberry
+600|Harry Belafonte: "____ Boat Song (Day-O)\"|Banana
+800|Elton John: "____ Wine\"|Elderberry
+1000|Jimmy Buffett: "Last ____ In Paris\"|Mango

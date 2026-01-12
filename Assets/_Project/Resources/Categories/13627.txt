@@ -1,0 +1,6 @@
+AROUND THE COURTROOM
+200|(Jimmy of the Clue Crew reports from a courtroom.) The judge might not literally sit on one, but his predecessors did, as in the Shakespeare line, "To pluck down justice from your awful" this|the bench
+400|(Jimmy of the Clue Crew reports from a courtroom.) To plead a case before the court, attorneys must literally do this 3-word phrase; many just out of law school struggle to do it|pass the bar
+600|(Jimmy of the Clue Crew reports from a courtroom.) Rather than have the jurors choose this person, some states automatically appoint the juror who's in the seat I'm in|the foreman
+800|(Jimmy of the Clue Crew reports from a courtroom.) The officer of the court is responsible for maintaining security, guarding juries &, in most courts, giving this 2-word order when the judge enters|all rise
+1000|(Jimmy of the Clue Crew reports from a courtroom.) The court reporter who sits here must record up to 250 words per minute for CVR certification, the "V" standing for this exact adjective|verbatim

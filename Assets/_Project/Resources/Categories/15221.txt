@@ -1,0 +1,6 @@
+CAPTAIN COOK
+200|Captain Cook's first name|James
+400|Cook was 26 when he joined the navy; he'd spent the previous years mainly ferrying this fuel around the North Sea|coal
+600|He won the Copley Medal for preventing this disease by giving his crew sauerkraut|scurvy
+800|Young Cook's charts of this river's estuary were vital to the British victory at Quebec in 1759|the St. Lawrence
+1000|The new U.S. space shuttle is named after this ship Cook took on an astronomy mission in 1768|the Endeavour

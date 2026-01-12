@@ -1,0 +1,6 @@
+NAME THAT CARMAKER
+200|Let's agree it makes the Accord Coupe|Honda
+400|The 4Runner runs off its assembly line|Toyota
+600|Zoom-zoom around in its CX-9|Mazda
+800|You can't pass up its Passat|Volkswagen
+1000|This company makes the Fiesta|Ford

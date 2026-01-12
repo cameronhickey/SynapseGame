@@ -1,0 +1,6 @@
+GET "OUT" OF THE CLUE
+200|Don't ask the private eye what the empty bottle is for during this, a type of surveillance outside a suspect's house|a stakeout
+400|This box directs data between all of your devices & the wider internet|a router
+600|It's an individual who receives care at a hospital but doesn't stay overnight|outpatient
+800|This TV show warned, "There is nothing wrong with your television set. Do not attempt to adjust the picture...\"|The Outer Limits
+1000|A circus employee who handles the tents & equipment|a roustabout

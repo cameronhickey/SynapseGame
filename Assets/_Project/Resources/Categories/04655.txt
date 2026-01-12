@@ -1,0 +1,6 @@
+HOW OFTEN DOES IT HAPPEN?
+200|Fortnightly|Every 2 weeks
+400|Biennially|Every 2 years
+600|Semidiurnally|twice a day
+800|Semimillennially|every 500 years (or twice every 1,000 years)
+1000|Sesquicentennially|Every 150 years

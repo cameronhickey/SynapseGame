@@ -1,0 +1,6 @@
+SKY HIGH
+200|First Interstate Tower at 707 Wilshire Boulevard: 858 feet|Los Angeles
+400|Bank of America Plaza at 600 Peachtree: 1,023 feet|Atlanta
+600|Water Tower Place at 835 N. Michigan Ave.|Chicago
+800|The Sheraton Hotel at 500 Canal Street|New Orleans
+1000|50 Biscayne Blvd. (54 stories)|Miami

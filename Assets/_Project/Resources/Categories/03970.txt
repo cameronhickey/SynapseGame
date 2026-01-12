@@ -1,0 +1,6 @@
+CAR TALK
+200|It's the "A" in ABS, which is designed to keep you from hitting the skids|Anti(-lock Brake System)
+400|Your Porsche 914 should do it at about 900 rpm; your mechanic shouldn't do it at all|idle
+600|Dust & metal shavings can damage the engine; that's why you need to regularly replace this cleaning device|oil filter
+800|For your safety, check this regularly; one of the first ones on the market was called the Sireno|a car horn
+1000|Inspect the master cylinder, part of the hydraulics sending fluid through the lines for this drum or disc system|the brakes

@@ -1,0 +1,6 @@
+INSECT, ARACHNID OR GASTROPOD
+200|The scorpion|arachnid
+400|The daddy longlegs|arachnid
+600|The aphid|insect
+800|The earwig|insect
+1000|The limpet|gastropod

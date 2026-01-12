@@ -1,0 +1,6 @@
+MIDWESTERN CITIES
+200|Bay City in this state is named for its location near Saginaw Bay|Michigan
+400|Parma, Euclid & Shaker Heights are communities in its metropolitan area|Cleveland
+600|In this big city the Midway Plaisance ("Pleasure Place") connects Jackson & Washington Parks|Chicago
+800|A family arriving in this seat of Tippecanoe County, Indiana might say, "We are here\"|Lafayette
+1000|Of the Quad Cities, this Iowa one is where you'd most likely want to sit down & put your feet up|Davenport

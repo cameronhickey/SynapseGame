@@ -1,0 +1,6 @@
+INITIALITERATURE
+200|\"L.C.L." by D.H. Lawrence|Lady Chatterley's Lover
+400|\"T.P.A.T.P." by Mark Twain|The Prince and the Pauper
+600|\"B.D." by Stephenie Meyer|Breaking Dawn
+800|\"T.S.A.R." by Ernest Hemingway|The Sun Also Rises
+1000|\"T.P.P." by Charles Dickens|The Pickwick Papers

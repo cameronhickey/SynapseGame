@@ -1,0 +1,6 @@
+WHERE YOU GO FROM HERE
+200|You are going to Disney World! Well, at least a stopover at MCO airport in this city|Orlando
+400|This largest Turkish city is the last stop on the Orient Express|Istanbul
+600|Taking the Oregon Trail from its start has you heading out of Independence in this state|Missouri
+800|If you take a shortcut south through the Suez Canal, you end up in this sea|the Red Sea
+1000|You get a free trip to this large island, but I'm not sure if it's the Indonesia side or the Papua side|New Guinea

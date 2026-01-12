@@ -1,0 +1,6 @@
+AROUND THE CASTLE WITH LANCE
+200|Once Lance sees from the gatehouse that you're not hostile, he might lower this method of entry|Drawbridge
+400|Since Lance's castle dates from before the Gothic period, it lacks the "flying" type of these supports|Buttresses
+600|The ever-cautious Lance might refuse to raise this iron grating, named from French for "sliding door\"|a portcullis
+800|Lance uses this structure, named from Old Norse for "small hut", for the castle's domesticated pigeons|Dovecote
+1000|With taxes rising, Lance hopes he'll be able to "hold onto" this central tower, his real home|Keep

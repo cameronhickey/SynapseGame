@@ -1,0 +1,6 @@
+HATS
+200|Slang for a construction worker|a hardhat
+400|Graduate's cap, it sounds like a plasterer's tool|a mortarboard
+600|In the 19th century this man's hat was known as the "hat that crowned the west\"|(John) Stetson
+800|This term for a woman's hat tied under the chin with a ribbon can also be used for men's hats|bonnet
+1000|The distinctive hat worn by this group that guards the Tower of London has a narrow brim & a pleated crown|Beefeaters (yeomen of the guard)

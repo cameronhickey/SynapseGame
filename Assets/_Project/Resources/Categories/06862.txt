@@ -1,0 +1,6 @@
+ISLAND HOPPING
+200|The largest of the Society Islands, this French island in the Pacific has over 120,000 people|Tahiti
+400|The name of this English-speaking Caribbean island comes from an Arawak word meaning "land of wood & water\"|Jamaica
+600|It's the island where you'll find Auckland, New Zealand, mate|North Island
+800|In 1769 Napoleon Bonaparte was born on this Mediterranean isle|Corsica
+1000|Unimak, Adak & Unalaska are islands in this Alaskan chain|the Aleutians

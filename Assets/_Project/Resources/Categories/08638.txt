@@ -1,0 +1,6 @@
+COUNTRY TIME
+200|It's the country where you'll find a theatre, library & rose garden all named for Grace Kelly|Monaco
+400|On May 14, 1948 Rachel Cohen & David Ben-Gurion signed this country's Declaration of Independence|Israel
+600|In 2002 this country shifted out of neutral & finally joined the U.N.|Switzerland
+800|This former Soviet republic is less than half the size of the U.S. state of the same name|Georgia
+1000|Sadly, it was the site of the Jonestown mass suicide in 1978|Guyana

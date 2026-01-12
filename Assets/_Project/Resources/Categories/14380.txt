@@ -1,0 +1,6 @@
+VETERANS DAY
+200|Veterans Day is celebrated on November 11, the anniversary of the day this war ended|World War I
+400|Don't forget—in Canada, Veterans Day is known as this|Remembrance Day
+600|Each November 11 a color guard executes "present arms" at 11:00 A.M. at this Arlington National Cemetery location|the Tomb of the Unknown Soldier
+800|In 1954 this man signed legislation officially establishing the name Veterans Day|President Eisenhower
+1000|The tradition of wearing poppies on Veterans Day comes from this poem about an area in Belgium & France|\"In Flanders Fields\"

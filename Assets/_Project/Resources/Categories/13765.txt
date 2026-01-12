@@ -1,0 +1,6 @@
+ATTACK OF THE TAX
+200|Providing most of government revenues, it's the tax on individual & business earnings|the income tax
+400|In 1978 California's Proposition 13 lowered the rates of this tax by 57%|property
+600|It's the tax on earnings from the disposition of securities & investment|capital gains
+800|When this is levied on the purchase or consumption of a specific commodity, it's called an excise tax|a sales tax
+1000|Also called a capitation tax, it's an illegal tax levied for the right to vote|a poll tax

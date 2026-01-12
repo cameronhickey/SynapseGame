@@ -1,0 +1,6 @@
+ONE-VOWEL WORDS
+200|A saber or a scimitar|a sword
+400|One variety of these pincers is used to grasp ice|tongs
+600|5-letter spot where the scaphoid meets the radius|the wrist
+800|Named for a British dentist, it's an artificial tube implanted in a blood vessel to keep it open|a stent
+1000|Sir Toby Belch is a character in this Shakespeare comedy with a 2-word, 2-vowel title|Twelfth Night

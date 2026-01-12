@@ -1,0 +1,6 @@
+IN DESCRIBABLE
+200|This grain|rice
+400|This confusing biblical place|Babel
+600|To let a secret out|blab
+800|This firearm measurement|caliber
+1000|This word meaning a fiasco|debacle

@@ -1,0 +1,6 @@
+FROM OUTER SPACE
+200|A crab & a scorpion are part of this familiar circle of constellations|the zodiac
+400|It's the smallest of the 8 planets in the solar system|Mercury
+600|Scientifically Alpha Canis Majoris, it is a mere 8.6 light years away & the brightest star in the night sky|Sirius
+800|(Jimmy of the Clue Crew shows an animation of an expanding Sun obliterating planets on the monitor.) Today our Sun is a main sequence yellow dwarf, but in about 5 billion years when it uses up all its core hydrogen, it will become one of these massive objects, expanding past the orbits of some of the inner planets—maybe even Earth|a red giant
+1000|Collective 2-word name for the 4 natural satellites orbiting Jupiter that were discovered in 1610|the Galilean moons

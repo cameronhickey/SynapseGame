@@ -1,0 +1,6 @@
+NAME THE AUTHOR
+200|\"The Andromeda Strain", "Jurassic Park\"|Michael Crichton
+400|\"The Tin Drum", "Dog Years\"|Gunter Grass
+600|\"It is said by some to be the ghost of a Hessian trooper, whose head had been carried away by a cannon ball\"|Washington Irving
+800|\"'All for one and one for all!' 'Excellent!' cried D'Artagnan\"|(Alexandre) Dumas
+1000|\"Reel'd from the sabre-stroke shatter'd and sunder'd. Then they rode back, but not, not the six hundred\"|(Alfred Lord) Tennyson

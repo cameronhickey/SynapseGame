@@ -1,0 +1,6 @@
+WORLDWIDE WEAPONRY
+200|The Panzer|Germany
+400|The MiG|Russia
+600|The Beretta|Italy
+800|The Long March Missile|China
+1000|The Uzi|Israel

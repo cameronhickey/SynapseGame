@@ -1,0 +1,6 @@
+ACTORS AS DIRECTORS
+200|He directed himself as a cavalryman-turned-Sioux who's given the name Dances with Wolves|Kevin Costner
+400|He worked at directing himself & his brother Charlie Sheen in the title roles in "Men at Work\"|Emilio Estevez
+600|This actor took over as director of "One-Eyed Jacks" when Stanley Kubrick left to make "Spartacus\"|Marlon Brando
+800|After wrestling with "Gator", his directorial debut, he got good reviews for "Sharky's Machine\"|Burt Reynolds
+1000|He directed himself playing a director in "White Hunter, Black Heart\"|Clint Eastwood

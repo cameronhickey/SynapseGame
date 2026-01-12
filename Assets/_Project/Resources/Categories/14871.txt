@@ -1,0 +1,6 @@
+\"V" 8-LETTER WORDS
+200|It's a synonym for speed|velocity
+400|Prohibited, German style|verboten
+600|Word for word|verbatim
+800|Revenge, Italian style, especially between families|vendetta
+1000|When you make an active decision, you do it of your own this|volition

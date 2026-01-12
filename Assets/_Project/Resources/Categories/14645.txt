@@ -1,0 +1,6 @@
+GEOGRAPHIC TITLES
+200|\"Death in ____" & "The Merchant of ___\"|Venice
+400|\"Shogun: A Novel of ____\"|Japan
+600|JFK's thesis, the bestseller: "Why ____ Slept\"|England
+800|\"Karma's Embrace: A Novel of ____" & "A Passage to ____\"|India
+1000|Taken from a question Hitler asked: "Is ____ Burning?\"|Paris

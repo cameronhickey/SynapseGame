@@ -1,0 +1,6 @@
+A NUMBER LESS THAN 10
+200|Word that begins the Gettysburg Address|4
+400|In cricket scoring, it's a duck's egg|0
+600|Points in a perfect aircraft landing|3
+800|The number of legs on a daddy longlegs, aka the harvestman|8
+1000|Nations in the Iroquois Confederacy, after the Tuscarora tribe joined|6

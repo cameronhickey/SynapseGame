@@ -1,0 +1,6 @@
+RUNNING
+200|An Ironman Triathlon is a 2.4-mile swim, a 112-mile bike ride & this run|a marathon
+400|Jogging is this type of exercise that increases the efficiency of the body's oxygen intake|aerobic
+600|Currently, it's the shortest sprint distance in the Summer Olympics|the 100-meter dash
+800|Usual 4-letter term for the rate at which a group runs; you "set" it if you're in the front|the pace
+1000|A 2010 study suggests 40 mph might be possible for humans—the key is increasing the muscle fibers called "fast" this|twitch

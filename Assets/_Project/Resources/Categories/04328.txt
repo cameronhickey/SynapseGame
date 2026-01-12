@@ -1,0 +1,6 @@
+ANAGRAMMED STATE CAPITALS
+200|Selma|Salem
+400|Torn net|Trenton
+600|DOMAINS|Madison
+800|TORN NET|Trenton
+1000|I NEED MOSS|Des Moines

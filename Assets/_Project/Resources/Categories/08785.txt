@@ -1,0 +1,6 @@
+PROVINCE TOWNS
+200|Cap-de-la-Madeleine, Sept-Iles, Trois-Rivieres|Quebec
+400|Prince George, Prince Rupert, Victoria|British Columbia
+600|Sydney, Dartmouth, New Glasgow|Nova Scotia
+800|Big Beaver House, Sault St. Marie, London|Ontario
+1000|Vulcan, Medicine Hat, Red Deer|Alberta

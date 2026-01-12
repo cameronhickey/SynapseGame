@@ -1,0 +1,6 @@
+REGIONS OF THE WORLD
+200|It's the Mideastern river whose west bank is the famous West Bank region|Jordan River
+400|The region once known as Alsace-Lorraine is part of these 2 countries|France & Germany
+600|Mexicali & La Paz are capitals of states on this peninsula|Baja California
+800|Liguria is a resort area on this country's Riviera|Italy
+1000|The Qing dynasty which ruled China until the late 19th century forbade development of this region|Manchuria

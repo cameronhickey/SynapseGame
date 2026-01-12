@@ -1,0 +1,6 @@
+LARRY, MOE OR CURLY
+200|He's one of the Pep Boys|Moe
+400|In "City Slickers II" Jack Palance played Duke, the twin brother of this character|Curly
+600|Need some lignite? Head to this mining town in Gippsland, Australia|Moe
+800|Leisure-suited lounge lizard who's starred in a series of video games|Larry
+1000|This Missoula, Montana-born skier's career went downhill at Lillehammer & he won the gold|(Tommy) Moe

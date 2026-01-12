@@ -1,0 +1,6 @@
+FROM S TO T
+200|Taking this is one way to move up the standings in a marathon, but not for long|a shortcut
+400|Similar to caulk, this type of product that fills cracks is usually made of silicone|a sealant
+600|From the French for "to know", it's a scholarly person|a savant
+800|A key to the early success of Apple was VisiCalc, the first electronic this|a spreadsheet
+1000|Medieval knights wore this outer tunic over their metal armor|a surcoat

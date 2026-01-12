@@ -1,0 +1,6 @@
+THE SPORT PLAYED
+200|Barry Sanders, Jim McMahon, Eric Dickerson|football
+400|Cecil Fielder, Roger Clemens, Dennis Eckersley|baseball
+600|Lisa Leslie & Sheryl Swoopes|basketball
+800|Todd Woodbridge & Mark Woodforde|tennis
+1000|Sergei Fedorov & Pavel Bure|hockey

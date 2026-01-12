@@ -1,0 +1,6 @@
+ENDS IN "ITE\"
+200|Light my fire, literally|ignite
+400|Barringer Crater in Arizona was formed by the impact of one of these|a meteorite
+600|It occurs when overexposure to low temperatures damages the skin & underlying tissues|frostbite
+800|In math, when the number of elements in a set is countable, it's this type of set|finite
+1000|Ruth, of the Old Testament, is this type of woman, after the land from which she came|a Moabite

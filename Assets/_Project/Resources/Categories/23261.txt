@@ -1,0 +1,6 @@
+LAND OF NICKNAMES
+200|The "Land of the Pharaohs\"|Egypt
+400|The "Land of the Inca\"|Peru
+600|Translated from a Maori name, the "Land of the Long White Cloud\"|New Zealand
+800|The "Land of Genghis Khan\"|Mongolia
+1000|The "Land of the Khmer\"|Cambodia

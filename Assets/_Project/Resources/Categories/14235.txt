@@ -1,0 +1,6 @@
+WIDE WORLD OF SPORES
+200|Spores are often scattered by these windblown plants: as the song says, they're "drifting along with the tumbling"...|tumbleweeds
+400|Spores are produced by green plants, bacteria & these, including yeasts, smuts & molds|fungi
+600|Unlike gametes, spores can do this all by themselves". Hubba hubba!|reproduce
+800|In trees of this cone-bearing order such as the Douglas fir, males carry micro-spores: females, megaspores|conifers
+1000|In this type of nonflowering plant, such as the staghorn, spores function much like seeds|ferns

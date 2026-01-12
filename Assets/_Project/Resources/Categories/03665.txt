@@ -1,0 +1,6 @@
+TAXES
+200|This numerical IRS form is the U.S. individual return for filing income tax; hand me the "EZ" one|1040
+400|An internal levy on the manufacture, sale, or use of goods within a country|an excise tax
+600|Don't cheat the taxman; this "Jungle Fever" actor didn't file from 1997 to 2004 & was sentenced to 3 years in jail|Wesley Snipes
+800|Informal 3-letter name for a tax on alcohol, tobacco & other activities considered not beneficial to users or society|a sin tax
+1000|It ensures that those who get tax breaks pay at least a certain amount; Kiplinger's called it "the tax we love to hate\"|the alternative minimum tax

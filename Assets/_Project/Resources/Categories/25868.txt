@@ -1,0 +1,6 @@
+ALL BETS
+200|Latin for "before" gives us this poker word for the initial wager all players must make|an ante
+400|It's the 4-letter bet where you get paid if your horse comes in 1st, 2nd or even 3rd|show
+600|This type of parlay that combines multiple bets in one wager shares its name with an all-play-all tournament|a round robin
+800|Guess the color of Gatorade dumped on the coach's head to win this 4-letter kind of side bet|prop
+1000|The Martingale betting system suggests: at least do this after every loss to recoup the initial stake|double your wager

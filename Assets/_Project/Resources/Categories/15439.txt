@@ -1,0 +1,6 @@
+SOUP ALPHABET
+200|\"B" is for this thin soup; Swanson's makes beef, chicken & vegetable varieties|broth
+400|\"S" is for this soup base made by boiling meat or vegetables|stock
+600|\"P" is for this label founded in 1927 that makes beef barley & Italian-style wedding soup|Progresso
+800|\"T" is for this classic; Martha Stewart says to make it with the whole plum variety|tomato (soup)
+1000|\"M" is for this Japanese soup made from a paste & often served with rice at breakfast|miso soup

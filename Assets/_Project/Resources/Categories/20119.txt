@@ -1,0 +1,6 @@
+BEERS BY STATE
+200|Samuel Adams|Massachusetts
+400|Sierra Nevada Pale Ale|California
+600|Jai Alai IPA|Florida
+800|Yuengling|Pennsylvania
+1000|Shiner Bock|Texas

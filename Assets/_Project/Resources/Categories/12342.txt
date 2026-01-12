@@ -1,0 +1,6 @@
+BREED 'EM
+200|The basset hound is second only to this dog breed in having the keenest sense of smell|a bloodhound
+400|Famed for its exceptional wool, the Merino sheep was originally developed in this country|Spain
+600|Species of this creature include the chinstrap & the adelie|penguins
+800|Also known as a cattalo, it's the hybrid bovine that results when you breed an American bison & a regular cow|the beefalo
+1000|The criollo & the hackney are breeds of these|horses

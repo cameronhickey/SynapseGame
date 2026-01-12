@@ -1,0 +1,6 @@
+CONSTRUCTION
+200|Hey, "Mickey", it's the beam that supports the masonry above a fireplace|Mantle
+400|Class A doors have a 3-hour rating for enduring this|Fire
+600|From Greek for "to hear", it's the branch of physics that includes how sounds bounce around in a hall|Acoustics
+800|On blueprints DD refers to this kind of split portal|Dutch doors
+1000|A spandrel is the triangular area between 2 horizontally adjoining ones of these|Arches

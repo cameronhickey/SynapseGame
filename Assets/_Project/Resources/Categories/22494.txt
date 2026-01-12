@@ -1,0 +1,6 @@
+FORM "E\"
+200|A triangle with sides A, B & C all equal in length is in this form|equilateral
+400|The parts of a roof that stick out over the edge of a building form these|eaves
+600|Take a look from above & you'll see why an area just south of the White House has this geometric name|the Ellipse
+800|It's the protective housing of a crustacean|an exoskeleton
+1000|This young form of an eel sounds like it might have pointed ears|elver

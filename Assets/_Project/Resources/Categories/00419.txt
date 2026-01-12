@@ -1,0 +1,6 @@
+HORSES
+200|A foal's mother, or a beaver's handiwork|a dam
+400|Most males have 40, females 36|teeth
+600|Where on a horse you find the frog, bar & wall|on his hoof
+800|From French to "train", it's the series of maneuvers using passage, piaffer & pirouette|dressage
+1000|It's the leading horse-raising country in the world|China

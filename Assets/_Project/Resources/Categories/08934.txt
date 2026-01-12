@@ -1,0 +1,6 @@
+KING, QUEEN OR JACK
+200|In checkers, the dark squares farthest from a player form this row|king
+400|In its first Top 20 hit, Queen sang about a "Killer" one|Queen
+600|The one not mentioned in the title of the TV series starring Kevin James|jack
+800|You don't have to call that salmon a Chinook, you can call it this|king
+1000|The one flown on the bow of a British ship|jack

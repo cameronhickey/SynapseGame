@@ -1,0 +1,6 @@
+LET'S PLAY CHESS
+200|It's the only piece that can be promoted to one of greater value|a pawn
+400|If an identical position occurs 3 times in a game, a player may claim this result, then go kiss his sister|a draw
+600|A tactic via which one piece attacks 2 opposing ones is called this, like a common dining utensil|a fork
+800|Trading a knight or bishop for one of these more valuable pieces is known as winning the exchange|a rook
+1000|Descriptive notation like P-Q4 has been largely replaced by this "mathematical" kind, which would say simply d4|an algebraic term

@@ -1,0 +1,6 @@
+WE'RE IN THIS LEAGUE
+200|Arizona Diamondbacks|the National League
+400|Jacksonville Jaguars|the NFL
+600|New York Red Bulls|the MLS (or Major League Soccer)
+800|Vegas Golden Knights|the NHL
+1000|Hamilton Tiger-Cats|the CFL (or Canadian Football League)

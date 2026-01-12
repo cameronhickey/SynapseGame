@@ -1,0 +1,6 @@
+WHAT'S YOUR MEDICAL BAG?
+200|The administration of general & local drugs to produce insensibility|Anesthesiology
+400|The functions & diseases of the blood|Hematology
+600|The diagnosis, treatment & prevention of tumors|Oncology
+800|The correction or prevention of skeletal deformities, sometimes by surgery|Orthopedics
+1000|The study of the kidney & its diseases|Nephrology

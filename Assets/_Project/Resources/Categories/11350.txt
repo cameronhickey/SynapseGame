@@ -1,0 +1,6 @@
+HARVARD, YALE, OR PRINCETON
+200|It has the largest private endowment of any university in the world|Harvard
+400|Oh, joy! The Whiffenpoofs is one of its glee clubs|Yale
+600|The one that was not involved in the USA's first intercollegiate sporting contest, an 1852 rowing race|Princeton
+800|It shares facilities with Radcliffe College for Women|Harvard
+1000|In 1783 its Nassau Hall was the temporary Capitol of the U.S.|Princeton

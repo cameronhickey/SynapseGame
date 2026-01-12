@@ -1,0 +1,6 @@
+PUMPING "IRON\"
+200|An airtight metallic cylinder enclosing a patient up to the neck|iron lung
+400|A Dumas novel & a DiCaprio role|\"The Man in the Iron Mask\"
+600|One of Germany's highest military decorations, it was instituted in Prussia in 1813|Iron Cross
+800|Mettle-tested nickname of Margaret Thatcher|\"The Iron Lady\"
+1000|Rust|iron oxide

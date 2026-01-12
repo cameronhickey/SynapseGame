@@ -1,0 +1,6 @@
+SUBS
+200|This instrument, in its simplest form a tube with mirrors, enables the sub crew to see above the surface of the water|a periscope
+400|U1, this country's first naval submarine, entered service in 1906|Germany
+600|\"Under Pressure", the first novel by this "Dune" author, details the dangerous mission of a 4-man sub crew in the 2000s|Frank Herbert
+800|In 1800, this inventor let off some steam building a copper-covered sub called the Nautilus|Robert Fulton
+1000|This Confederate sub that sank in 1864 was raised from the sea bottom off Charleston in 2000|the Hunley

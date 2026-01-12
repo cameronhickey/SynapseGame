@@ -1,0 +1,6 @@
+A SHAPELY CATEGORY
+200|Often stuffed & baked, conchiglioni is jumbo pasta shaped like these|shells
+400|In the White House, the Blue Room & the President's Office are this shape|oval
+600|It's the more common 4-letter name for a regular hexahedron|a cube
+800|It can be a utensil useful in pouring liquids or the shape of a forming tornado|a funnel
+1000|(Kelly of the Clue Crew points out a four-sided shape on the monitor.) In geometry, I'm sure you've come across this shape: it's a plane figure with 2 parallel & 2 non-parallel sides|a trapezoid

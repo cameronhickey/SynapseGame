@@ -1,0 +1,6 @@
+THE BOOK'S TITLE IN GERMAN
+200|The 1936 bestseller "Vom Winde Verweht\"|Gone With the Wind
+400|A novel you can't refuse, "Der Pate\"|The Godfather
+600|John Steinbeck's "Von Mausen und Menschen\"|Of Mice and Men
+800|The Russian classic "Krieg und Frieden\"|War and Peace
+1000|The island tale "Herr der Fliegen\"|Lord of the Flies

@@ -1,0 +1,6 @@
+SOUNDS THAT KITTIES MAKE
+200|This sound made by lions can carry 5 miles|a roar
+400|This sound of aggression from a domestic cat is also produced by vipers|a hiss
+600|In "The Maltese Falcon", Dashiell Hammett wrote, "'That will be excellent,' Gutman" did this|purred
+800|This threatening sound can also mean "to become tangled\"|snarled
+1000|Starting around 1922, this phrase meant something excellent or desirable|the cat's meow

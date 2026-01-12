@@ -1,0 +1,6 @@
+FAST FOOD SLOGANS
+200|\"Eat mor chikin\"|Chick-fil-A
+400|\"We have the meats\"|Arby's
+600|\"Louisiana fast\"|Popeyes
+800|\"Better ingredients. Better pizza\"|Papa John's
+1000|\"Think outside the bun\"|Taco Bell

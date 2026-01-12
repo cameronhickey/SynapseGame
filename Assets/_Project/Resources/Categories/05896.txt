@@ -1,0 +1,6 @@
+LITERARY NARRATORS
+200|\"The Big Sleep\"|Philip Marlowe
+400|\"The Catcher in the Rye\"|Holden Caulfield
+600|\"Treasure Island\"|Young Jim Hawkins
+800|\"Born on the Fourth of July\"|Ron Kovic
+1000|\"The Glass Menagerie\"|Tom Wingfield

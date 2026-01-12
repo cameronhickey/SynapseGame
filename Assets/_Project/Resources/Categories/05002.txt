@@ -1,0 +1,6 @@
+RANK
+200|On the ocean, an "ordinary" one isn't quite as able as an "able" one|Seaman
+400|In the Royal Navy, this important job is just below the rank of commodore|Captain
+600|Clue suspect Mustard|colonel
+800|David Bowie's Tom|major
+1000|Musical innovator Beefheart|captain

@@ -1,0 +1,6 @@
+AROUND THE ROOM
+200|In a ballroom it's the platform for the musicians or for Dick Clark|the bandstand
+400|A minbar is part of a room in a mosque; add a letter & you get this part of a hotel room|a minibar
+600|A long horizontal piece of wood attached to the wall for storage; people talk about a product's "life" on it|a shelf
+800|These decorative items may be cafe, Priscilla or tieback|drapes (curtains)
+1000|A flokati is a handwoven one of these from Greece; a flossa is from Scandinavia|rugs

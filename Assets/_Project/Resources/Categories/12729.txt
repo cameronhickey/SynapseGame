@@ -1,0 +1,6 @@
+FICTION SCIENCE
+200|2-word literary term for when a character gets his just deserts in an especially appropriate way|poetic justice
+400|Chekhov said a story shouldn't include unnecessary stuff—if one of these appears, it better go off|a gun
+600|It's the fancy Frenchified name for the resolution of a story's plot following the climax|the denouement
+800|When the audience knows something that one of the characters doesn't, it's dramatic this, isn't it?|irony
+1000|It was Hitchcock's term for a plot element (like stolen microfilm) whose sole purpose is to advance the story|a MacGuffin

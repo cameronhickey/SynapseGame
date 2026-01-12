@@ -1,0 +1,6 @@
+PLAY STATION
+200|This Peter Shaffer tragedy focuses on the life of a great composer, as seen by his rival in the Austrian court|Amadeus
+400|Stephen Flaherty, not Scott Joplin, wrote the music for this show that's based on a novel by E.L. Doctorow|Ragtime
+600|Olga, Masha & Irina Prozorov are the title characters in this play|Three Sisters
+800|He wrote, "Was this the face that launched a thousand ships, and burnt the topless towers of Ilium?\"|Christopher Marlowe
+1000|Christopher Isherwood & Sally Bowles are characters in this 1951 play on which a 1966 musical was partly based|I Am A Camera (The musical was Cabaret)

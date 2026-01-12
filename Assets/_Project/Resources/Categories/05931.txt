@@ -1,0 +1,6 @@
+WHAT CABINET DEPARTMENT?
+200|The Federal Highway Administration|Transportation
+400|The Secret Service|Treasury
+600|The Diplomatic Security Service|State
+800|The office of the Surgeon General|Health & Human Services
+1000|The Drug Enforcement Administration|Justice

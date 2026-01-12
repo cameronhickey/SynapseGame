@@ -1,0 +1,6 @@
+CITY NAME ORIGINS
+200|This Dutch city's name means "dam on the Rotte River\"|Rotterdam
+400|German city whose name is derived from the Latin for "colony"; it was once the colony of Agrippina|Cologne
+600|This Italian city's name comes from the Greek Neapolis, which means "new city\"|Naples
+800|This Indonesian capital's name dates back to 1527 & signifies victory|Jakarta
+1000|One explanation for the name of this Belgian port city is that it means "at the wharf\"|Antwerp

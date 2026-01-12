@@ -1,0 +1,6 @@
+-SCOPES
+200|A type of this was named for Johannes Kepler|a telescope
+400|The U.S. Navy uses the Type 18 one of these, named for its 18-times magnification|a periscope
+600|Collectors prize these cylindrical toys made by the Steven Manufacturing Company|a kaleidoscope
+800|\"Caprice", with Doris Day & Richard Harris, was one of the last films shot in this process|CinemaScope
+1000|A snooperscope lets you see in the dark; change a vowel sound to get this version of it that goes on a rifle|a sniperscope

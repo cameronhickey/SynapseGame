@@ -1,0 +1,6 @@
+MOVIE TALK
+200|Nonspeaking actor in background role, or paperboy's cry|extra
+400|Director's order to actors to begin playing a scene|\"Action!\"
+600|French Riviera's film festival "capital\"|Cannes
+800|As newest movie rating, it cautions "Special guidance for attendance of children under 13\"|the PG-13 rating
+1000|Previews of coming attractions, they used to follow the main feature|trailers

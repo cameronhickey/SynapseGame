@@ -1,0 +1,6 @@
+THE DEWEY DECIMAL SYSTEM
+200|This branch of philosophy is found under 160: Mr. Spock would approve|logic
+400|The 800s are literature, with 810 being lit in English from this nation|the United States (or Canada)
+600|020 is for this "science" of which the numbers themselves are an important part|Library Science
+800|The 220s cover the entire Bible, with 227 covering just the New Testament letters known by this name|Epistles
+1000|The 370s cover books on education, including LouAnne Johnson's "My Posse Don't Do" this|Homework

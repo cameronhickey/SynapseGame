@@ -1,0 +1,6 @@
+DOUBLE A
+200|Quirks of this Eurocar include the ignition lock in the center console|Saab
+400|It's how you properly address the Queen of England|Maam
+600|Biblical man with a talking ass|Balaam
+800|Architect Eero|Saarinen
+1000|This river "trans"its South Africa & flows into the Orange|Vaal River

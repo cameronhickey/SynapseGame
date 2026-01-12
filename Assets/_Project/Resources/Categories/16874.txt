@@ -1,0 +1,6 @@
+HIGH
+200|In this sport, the bucket is 10 feet off the ground|basketball
+400|Way to go—you graduated this way, Latin for "with highest praise\"|summa cum laude
+600|Constructed in only 2 years, it towers 984 feet over the Parc du Champ de Mars|the Eiffel Tower
+800|In 2012 this measure of our import/export difference with China reached $315 billion, an all-time high|the trade deficit
+1000|The Gross-Glocknerstrasse highway rises to about 8,000 feet when passing through this mountain range|the Alps

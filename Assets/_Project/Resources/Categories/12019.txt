@@ -1,0 +1,6 @@
+COOL CARS
+200|In 2003 Toyota unveiled vehicles with "IPA", a system that allows a car to do this "P" by itself|park
+400|Mercedes-Benz' "smart" cruise control uses this detecting & ranging system to sense vehicles ahead of you|radar
+600|(Sarah of the Clue Crew reads the clue from inside a car.) This vehicle is the only still-existing 1970 Boss 429 Lawman type of this "pony" car|a Mustang
+800|Henry Ford planned for this biofuel made from grain to be the principal fuel for the Model T|ethanol
+1000|Powered by both a gasoline engine & an electric motor, this company's Insight was the first hybrid car sold in the U.S.|Honda

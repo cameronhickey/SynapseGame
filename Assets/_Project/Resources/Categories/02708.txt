@@ -1,0 +1,6 @@
+DISCOVERIES
+200|\"Sir Humphry Davy/ Abominated gravy/ He lived in the odium/ of having discovered" this rhyming element|Sodium
+400|It was the first subatomic particle discovered 100 years ago by J.J. Thomson|Electron
+600|Accidentally discovered in 1879, it made sweet history till the FDA called it a health hazard 99 years later|saccharin
+800|He discovered temp. at which ferromagnetic substances lose magnetism but found fame with wife Marie|(Pierre) Curie
+1000|The 2 planets "discovered" 1st by mathematical computations, not telescopes|Pluto & Neptune

@@ -1,0 +1,6 @@
+COMPUTER ON!
+200|Often used with ctrl & alt, this computer key will remove the letter to the right of the cursor|delete
+400|In 2006 Apple started using this company's microprocessors in its Macintosh computers|Intel
+600|Robert Metcalfe was inducted into the Inventors' Hall of Fame for this computer network that sounds like an anesthetic|Ethernet
+800|To copy video from your camcorder to a computer, use this "blazing" fast connection some call i.Link|FireWire
+1000|It's what the "ML" stands for in HTML, used for creating Internet documents|Markup Language

@@ -1,0 +1,6 @@
+FISH, BIRD OR MAMMAL
+200|The bearded tit|a bird
+400|The tapir|a mammal
+600|The skipjack|a fish
+800|The lamprey|a fish
+1000|The margay|a mammal

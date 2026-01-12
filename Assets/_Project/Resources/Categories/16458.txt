@@ -1,0 +1,6 @@
+SAY "LA-V\"
+200|Extravagantly luxurious, or to bestow profusely|lavish
+400|Shrub with pale lilac-colored flowers|lavender
+600|Frenchman known as the "father of modern chemistry\"|(Antoine) Lavoisier
+800|A basin used for ceremonial washing, or an Australian tennis great|Laver
+1000|It's a type of Middle Eastern flatbread|lavash

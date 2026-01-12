@@ -1,0 +1,6 @@
+STATELY RIVERS
+200|Bogue Falaya, Bayou Lafourche|Louisiana
+400|Clearwater River, Snake River|Idaho
+600|Rahway River, Passaic River|New Jersey
+800|Manatee River, Kissimmee river|Florida
+1000|Kennebunk River, Penobscot River|Maine

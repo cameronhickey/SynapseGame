@@ -1,0 +1,6 @@
+\"U.S.", EH
+200|He's a symbol of the U.S.A. or its government|Uncle Sam
+400|The 2012 film in this franchise has Dolph Lundgren, Jean-Claude Van Damme & an army of genetically enhanced warriors|Universal Soldier
+600|It's the "U.S." in a USB, a socket used to attach a device to a computer|universal serial (universal service accepted)
+800|2-word term for the uncontrolled spreading out of metropolitan communities into surrounding areas|urban sprawl
+1000|This author whose early 20th century novels argued for social reform ran unsuccessfully for Californla governor|Upton Sinclair

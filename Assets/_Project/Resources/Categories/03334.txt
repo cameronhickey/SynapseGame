@@ -1,0 +1,6 @@
+AIR
+200|About 14.5 pounds per square inch at sea level, it decreases with altitude & has to be increased in airplanes|air pressure
+400|This process that originally formed the oceans also forms dew|Condensation
+600|Oxygen toxicity & nitrogen narcosis are among the hazards of this sport|deep sea diving (scuba diving)
+800|The Wright Bros. used 1 to test their plane at 27 mph; today these can simulate mach 1 speeds|wind machines (or wind tunnels)
+1000|Shielding the Earth from ultraviolet rays is this, 15 miles up, the "ozone zone\"|the stratosphere

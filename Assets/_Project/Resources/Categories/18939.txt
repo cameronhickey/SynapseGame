@@ -1,0 +1,6 @@
+TECHNOLOGY MILESTONES
+200|Dutch lens maker Zacharias Janssen is credited with inventing the compound type of this device around 1590|a microscope
+400|(Hi, I'm Ken Burns.) In 2003 this man introduced iMovie 3, which included a pan & scan feature known as the "Ken Burns effect\"|Steve Jobs
+600|In the 1940s this company introduced its Land camera, which produced a finished print 60 seconds after exposure|Polaroid
+800|(Sarah of the Clue Crew reports from the Historical Scientific Instruments at Harvard University.) During World War II, computer pioneer Grace Hopper helped maintain the Harvard Mark I & its successor, the Mark II; one day, she removed a moth from the circuits, making her the first to literally do this to a computer|debug
+1000|In 2004 Morse code added a new character, a combination of the letters A & C, to denote this symbol|@

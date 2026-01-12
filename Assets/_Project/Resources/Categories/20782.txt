@@ -1,0 +1,6 @@
+SHOT FIRST
+200|\"'Red Sonja", "White Christmas", "Blue Jasmine\"|White Christmas
+400|\"La La Land", "Zombieland", "Tomorrowland\"|Zombieland
+600|\"Mrs. Brown", "Mrs. Doubtfire", "Mrs. Miniver\"|Mrs. Miniver
+800|\"Encino Man", "Rain Man", "Repo Man\"|Repo Man
+1000|\"You've Got Mail", "In the Good Old Summertime", "The Shop Around the Corner\"|The Shop Around the Corner

@@ -1,0 +1,6 @@
+AMERICA
+200|Among state capitals, it's first alphabetically|Albany, New York
+400|It's the U.S. state that reaches the farthest south|Hawaii
+600|Of the U.S. states with active volcanoes, this state is the largest in area|Alaska
+800|A city named Beach is found in this landlocked U.S. state wedged between Montana & Minnesota|North Dakota
+1000|This state's 6,680-foot Mount Mitchell is the highest point east of the Mississippi River|North Carolina

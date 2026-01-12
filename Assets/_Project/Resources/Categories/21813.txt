@@ -1,0 +1,6 @@
+TAKING THE DRIVING TEST
+200|This state agency, the DMV for short, administers the test|the Department of Motor Vehicles
+400|This alliterative method to get your car alongside the curb just might be on the test|parallel parking
+600|To take the test in most states, you'll need this proof of financial responsibility in case anything goes wrong|insurance
+800|Mirrors aren't enough—look over your shoulder to check these areas before changing lanes|blind spots
+1000|Failing to give this 3-word clearance to pedestrians can be an automatic failure|right of way

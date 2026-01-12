@@ -1,0 +1,6 @@
+WORD & PHRASE DECADES
+200|Punk rock|the '70s
+400|Hooverville|the '30s
+600|Bummer, as in "Bummer, man\"|the '60s
+800|Air Force|the 1910s
+1000|Weirdo|the '50s

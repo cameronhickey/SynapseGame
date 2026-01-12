@@ -1,0 +1,6 @@
+2-TIMING STATES
+200|In this state when it's noon in Poseyville, it's 1 p.m. in Muncie, which is on Eastern Time|Indiana
+400|It's 10:00 in most of Arizona, which doesn't use daylight saving time, but 11 in this "nation", which does|Navajo
+600|If it's happy hour in Corvallis, it's dinner time in Ontario in this state|Oregon
+800|If it's midnight in Scottsbluff in this state, it's 1 a.m. in Kearney|Nebraska
+1000|In Michigan they're still asleep in Ironwood but getting up in this rock-hard seat of Genesee County|Flint

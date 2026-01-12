@@ -1,0 +1,6 @@
+CITY PLANNING
+200|For a former industrial site to go from being a "brownfield" to this "field", pollution must be remediated & removed|green
+400|Breaking an area into districts each with different regulations is this 6-letter end-of-the-alphabet word|zoning
+600|For Buffalo, N.Y., Frederick Law Olmsted planned these "ways" he described as "broad thoroughfares planted with trees\"|parkways
+800|A plan by Le Corbusier wanted to replace homes on the right bank of this river with towering skyscrapers|the Seine
+1000|A futuristic forest city is being built in this country, on its islands next to Singapore|Malaysia

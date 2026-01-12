@@ -1,0 +1,6 @@
+IT'S RAINING "MEN\"
+200|Give me these measurements: length, width & height|dimensions
+400|A regulated course of action, like that of a diet|a regimen
+600|A medical sample taken for study; it has a special "bottle\"|a specimen
+800|A mob informant who gets found out is said to wear this non-buoyant footwear|cement shoes
+1000|This synonym for persuadable gets an "A" for effort|amenable

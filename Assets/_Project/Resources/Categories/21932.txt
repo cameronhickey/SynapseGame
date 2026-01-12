@@ -1,0 +1,6 @@
+STATE OF THE STATE FOREST
+200|Mackinac State Forest|Michigan
+400|Tillamook State Forest|Oregon
+600|Lowell-Dracut-Tyngsboro State Forest|Massachusetts
+800|Mississippi Headwaters State Forest|Minnesota
+1000|Mohegan State Forest|Connecticut

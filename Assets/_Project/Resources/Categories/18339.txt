@@ -1,0 +1,6 @@
+THE CITY OF...
+200|Angels|Los Angeles
+400|The Big Shoulders|Chicago
+600|Seven Hills, in Europe|Rome
+800|Gaudi|Barcelona
+1000|White Nights, in Russia|St. Petersburg

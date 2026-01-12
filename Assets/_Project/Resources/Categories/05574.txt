@@ -1,0 +1,6 @@
+STATES BY CITIES
+200|Warwick, Cranston, Pawtucket|Rhode Island
+400|Rock Springs, Casper, Gillette|Wyoming
+600|Duncan, Lawton, Muskogee|Oklahoma
+800|Burlington, St. Albans, Rutland|Vermont
+1000|Boulder City, Winnemucca, Henderson|Nevada

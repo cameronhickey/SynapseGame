@@ -1,0 +1,6 @@
+FOR YOUR REFERENCE
+200|It's a 5-letter word for a book of maps|an atlas
+400|In 1855 John Bartlett first published a collection of these|quotations
+600|Every year our writers get excited by new editions of these books that originally carried astronomical data|almanacs
+800|This word for a geographic dictionary once meant someone who writes for a newspaper|a gazetteer
+1000|An Internet publisher of great works is named for this Melville scrivener & of course has his tale online|Bartleby

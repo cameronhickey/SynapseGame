@@ -1,0 +1,6 @@
+SCANDINAVIAN FIRST NAMES
+200|\"Gaslight" actress Bergman|Ingrid
+400|Football coach Rockne|Knute
+600|Explorer Amundsen|Roald
+800|\"Pippi Longstocking" author Lindgren|Astrid
+1000|Scientists Angstrom & Celsius|Anders

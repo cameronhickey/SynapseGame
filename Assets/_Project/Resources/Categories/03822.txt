@@ -1,0 +1,6 @@
+\"ERE"Y WORDS
+200|King Arthur's wife, she was known as Guanhumara in "Historia Regum Britanniae\"|Guinevere
+400|In 1808 & 1809 this silversmith made copper plates for Robert Fulton's steamship boilers|Paul Revere
+600|Its surface area can be determined by using 4 pi r2|a sphere
+800|Cape Columbia on this large island is Canada's northernmost point|Ellesmere Island
+1000|French physicist who first showed that current in 2 parallel wires causes magnetic forces between the wires|Andre-Marie Ampere

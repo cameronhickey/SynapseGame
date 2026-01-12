@@ -1,0 +1,6 @@
+BOOK TITLE REFERENCES
+200|Per an Alice Walker novel, God will be mad if you don't notice it in a field|the color purple
+400|Luke Castellan (not Percy Jackson), who stole Zeus' master bolt|a lightning thief
+600|The murder of Linnet Doyle aboard the Karnak, a steamer|Death on the Nile
+800|In a novel by Khaled Hosseini, a boy named Hassan|The Kite Runner
+1000|In a Paulo Coelho novel, a 200-year-old who can transform base metals into gold|The Alchemist

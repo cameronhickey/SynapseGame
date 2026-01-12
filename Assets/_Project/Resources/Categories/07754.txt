@@ -1,0 +1,6 @@
+BEGINS & ENDS IN "N\"
+200|This word for a bedtime garment worn by women dates back to the 14th century|nightgown
+400|From the Middle English for name, it's a part of speech that can be a name, place or thing|noun
+600|Last name of "Boy Genius" Jimmy who starred in his own animated feature film in 2001|Neutron
+800|In the early 20th century, this kind of theatre charged 5 cents admission|nickelodeon
+1000|This legal process by which one becomes a citizen of his adopted nation grants him the rights of a native-born citizen|naturalization

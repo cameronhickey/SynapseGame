@@ -1,0 +1,6 @@
+LOANWORDS
+200|This word for a small charcoal grill is from the Japanese|Hibachi
+400|Body part terms schnozzle & tuchis come from the body of words in this language|Yiddish
+600|As Dorothy might tell you, this 2-word Latin phrase means "entirely\"|In toto
+800|Italian meaning "to the tooth", it's used to describe firm pasta|Al dente
+1000|German for "substitute", like cubic zirconia for diamond|Ersatz

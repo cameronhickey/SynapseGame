@@ -1,0 +1,6 @@
+NUMBER "ONE" MOVIE
+200|\"A Star Wars Story" is the subtitle of this 2016 release|Rogue One
+400|This animated Disney "tail" was first released in 1961|One Hundred and One Dalmatians
+600|\"Get off my plane", says an irate Harrison Ford to a soon-to-be-ejected hijacker in this 1997 thriller|Air Force One
+800|Steven Spielberg directed this 2018 movie about the hunt for an "Easter egg" in a virtual reality called OASIS|Ready Player One
+1000|Clark Gable won his only Oscar for this 1934 comedy|It Happened One Night

@@ -1,0 +1,6 @@
+TRUSTY SIDEKICKS
+200|Cheetah, a chimp|Tarzan
+400|John Watson, a medical doctor|Sherlock Holmes
+600|Sancho Panza, a rustic squire|Don Quixote
+800|Ariel, a sprite|Prospero (from The Tempest)
+1000|Beatrice, a "heavenly" tour guide|Dante Aligheri (The Divine Comedy)

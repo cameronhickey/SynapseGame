@@ -1,0 +1,6 @@
+GERUNDS
+200|Julia Child called the book titled "Joy of" this "a fundamental resource\"|Cooking
+400|Of all sad words of tongue or sign, the saddest are "We no longer validate" this|parking
+600|A recital of a literary work, or a service performed by a psychic|a reading
+800|Freefalling & the canopy ride are segments of this activity|skydiving
+1000|Involving papers to be kept as a record, it's the process of delivering claims to a court|a filing

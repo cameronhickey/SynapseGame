@@ -1,0 +1,6 @@
+YOU'LL NEED INSURANCE
+200|It's the term for the person entitled to get the proceeds of a policy upon the death of the insured|the beneficiary
+400|Medical liability insurance is better known as this type of insurance|malpractice insurance
+600|These "tables" that take their name from the Latin for "record keeper" are used to evaluate life expectancies|actuarial tables
+800|A film noir classic, or a clause providing for payment of twice the face value of a policy|Double Indemnity
+1000|Franz Kafka's day job was as a bureaucrat administering this type of compensation, like for accidents|workmen's compensation

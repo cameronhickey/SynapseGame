@@ -1,0 +1,6 @@
+A MATTER OF LAW
+200|From Latin for "to let in", it describes evidence that may be considered by a judge or jury|admissible
+400|It's the kinetic term for a litigant's request to a judge for a decision on an issue|a motion
+600|Chapter 12 of this federal code covers its application to family farmers & family fishermen|the Bankruptcy Code
+800|A lawsuit that's dismissed "without" this can be refiled; "with" this means it can't|prejudice
+1000|A 1968 ruling said this amendment's unreasonable search & seizure clause doesn't prohibit frisking of suspected criminals|the Fourth Amendment

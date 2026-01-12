@@ -1,0 +1,6 @@
+B SILENT
+200|Mary had a little one|a lamb
+400|A klutz or bungler is said to be "all" these|thumbs
+600|He'll fix your pipes or stop a news leak|a plumber
+800|In a Tennessee cemetery, one of these is inscribed, "He was a simple man who died of complications\"|a tombstone
+1000|It's a small elevator used to move items between floors of an apartment building|dumbwaiter

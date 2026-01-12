@@ -1,0 +1,6 @@
+NATIONAL STATUARY HALL
+200|Jefferson Davis represents this state in the hall|Mississippi
+400|This military officer & author of "Ben-Hur" represents Indiana|Lew Wallace
+600|A statue of this governor & assassination victim stands solid for Louisiana|Huey Long
+800|One a priest & one a monarch, they're the 2 men whose statues represent Hawaii in the Hall|Father Damien and King Kamehameha
+1000|One of the statues representing California is of this mission builder canonized in 2015|(Father Junipero) Serra

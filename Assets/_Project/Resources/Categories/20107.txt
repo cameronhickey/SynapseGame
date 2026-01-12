@@ -1,0 +1,6 @@
+INFRASTRUCTURE
+200|The 600,000 of these that Americans travel over average 40+ years old & 1 in 9 is structurally deficient|bridges
+400|The FAA lists airports as small, medium or large within this 3-letter designation that means you change planes there|hub
+600|Traffic & business can come to a halt when this pipeline with a primary name bursts beneath the road|the water main
+800|Solid waste is part of infrastructure; some is composted & some recycled, but most ends up in these places|landfills
+1000|Similar to dikes, these structures from the French for "raise" protect dry land from flooding|levees

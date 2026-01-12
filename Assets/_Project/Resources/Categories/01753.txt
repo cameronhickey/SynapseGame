@@ -1,0 +1,6 @@
+DESERTS
+200|These have been artificially created in the Sahara by drilling over 1000' down for water|oases
+400|Fossilized dinosaur eggs have been found in this desert the Chinese also call Shamo|the Gobi
+600|In 1974 this country detonated its first nuclear device in its Thar Desert|India
+800|This desert covers the southern half of Israel|the Negev
+1000|In the 19th century Bolivia, Peru & Chile fought over this desert for its sodium nitrate deposits|the Atacama

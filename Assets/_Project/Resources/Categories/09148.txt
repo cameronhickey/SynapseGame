@@ -1,0 +1,6 @@
+CALCULUS
+200|Legend says Newton's Law of Gravity & his invention of calc. came from watching one of these fruits fall|apples
+400|\"Vive la" this, for which Augustin Cauchy introduced the delta symbol in the 19th century|difference
+600|You need calc. to take this earth measurement because it isn't a perfect sphere; if it were, you'd use (4/3) pi r3|volume
+800|(Cheryl of the Clue Crew points to a blackboard.) By finding the value of the right side of the equation, we'll do this to the function|integrate it
+1000|This German calculus founder was considered a universal genius by his friends & thief by Newtonians|Leibniz

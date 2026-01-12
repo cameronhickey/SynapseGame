@@ -1,0 +1,6 @@
+FUN WITH THE DEWEY DECIMAL SYSTEM
+200|You may find "Nietzsche is Peachy" graffiti in the 100s section, shared by psychology & this field|philosophy
+400|In the 200s, devoted to this, you'd find books about the Satmar Hasidim & the Old Order River Brethren|religion
+600|Covering the 800s, it's the only main Dewey classification that's also a Nobel Prize category|literature
+800|Of 2 areas of the Dewey 900s, E.C. Bentley wrote that this "is about maps, but biography is about chaps\"|geography
+1000|The 500s cover science; the 600s cover this, defined as the application of science|technology (or engineering)

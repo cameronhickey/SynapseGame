@@ -1,0 +1,6 @@
+THE PLAYWRIGHT WRITES
+200|\"I don't say he's a great man. Willy Loman never made a lot of money\"|Arthur Miller (Death of a Salesman)
+400|\"WEAF presents Dinner at Brighton Beach starring the Jacob Jerome family...\"|Neil Simon (Brighton Beach Memoirs)
+600|\"I think you ought to know, Doolittle, that Mr. Higgins's intentions are entirely honorable\"|George Bernard Shaw (Pygmalion)
+800|\"Good-by, good-by world. Good-by Grover's Corners... Mama and Papa. Good-by to clocks ticking...\"|Thornton Wilder (Our Town)
+1000|\"Gimme a whiskey—ginger ale on the side. And don't be stingy, baby\"|Eugene O'Neill (Anna Christie)

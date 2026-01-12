@@ -1,0 +1,6 @@
+CHEMISTRY
+200|Coal & diamonds both consist of it|carbon
+400|Common kitchen substance known chemically as sodium chloride|salt
+600|The chemical symbol for sulfuric acid, it completes this poem: "Say farewell to the professor / He'll be with us no more / For what he thought was H2O / Was...\"|H2SO4
+800|Used in cars' catalytic converters, it's more expensive than gold|platinum
+1000|U.S. & Canada produce almost entire world supply of this lightest inert gas|helium

@@ -1,0 +1,6 @@
+MAIDEN NAMES
+200|Helen Gurley|Brown
+400|Anne Morrow|Lindbergh
+600|Billie Jean Moffitt|King
+800|Bianca Macias|Jagger
+1000|Marie Sklodowska|Curie

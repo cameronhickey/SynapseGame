@@ -1,0 +1,6 @@
+WHAT'S BEING MEASURED?
+200|Bunders, hectares, jeribs|area
+400|Knots, Mach number|speed
+600|The Rankine scale, the Réaumur scale|temperature
+800|Grams per cubic meter|density
+1000|Barrels, fifths, pecks|volume

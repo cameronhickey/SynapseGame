@@ -1,0 +1,6 @@
+GREETINGS FROM THE NORTH POLE
+200|In July 2007 Lewis Pugh became the first human to do this across the North Pole: we bet his Speedo was chilly!|swim
+400|In 2102 this star, also called the Pole or North Star, will be less than one-half degree from celestial north|Polaris
+600|The North Pole lies at the latitude of this many degrees|90 (degrees north)
+800|Sunrise at the North Pole takes place just before the spring one of these, & sunset is just after another one 6 months later|the equinox
+1000|Kaffeklubben Island, which belongs to this larger Danish island, is the closest land to the North Pole|Greenland

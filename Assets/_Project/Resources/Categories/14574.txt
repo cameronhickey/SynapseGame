@@ -1,0 +1,6 @@
+DOUBLE "G"s
+200|In the Harry Potter novels, they're your average non-magical humans|muggles
+400|This style of music has been described as fusing "Motown soul to Caribbean rhythm & political sensibilities\"|reggae
+600|Not just a tangible lump of gold or such, it can also be a small bit of wisdom or information|a nugget
+800|A cluster of people, or more commonly, a flock of geese|a gaggle
+1000|In 2009 this NYC landmark celebrated its 50th anniv. with an exhibition on its designer, Frank Lloyd Wright|the Guggenheim museum

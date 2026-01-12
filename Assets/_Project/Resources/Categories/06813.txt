@@ -1,0 +1,6 @@
+A GAME OF CHESS
+200|If you pawn your chess set, the shop will check to make sure there are this many pawns in it|16
+400|It's customary but not obligatory to declare when you have your foe in this, which can occur several times in a game|check
+600|It's the only chess piece that can jump over others|the knight
+800|(Cheryl of the Clue Crew stands on a gigantic chessboard at a beach.) A recommended opening move is "'P'-ing to K-4", which is short for this|pawn to king 4
+1000|The final stage, with most of the pieces off the board, it's also a Samuel Beckett play title|the endgame

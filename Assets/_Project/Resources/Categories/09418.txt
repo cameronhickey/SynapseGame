@@ -1,0 +1,6 @@
+FROM THE LATIN FOR...
+200|\"In the meantime", it starts with "in" & describes a temporary baseball manager|interim
+400|..."to pull", on the farm it comes in wheel & crawler types|tractor
+600|\"Of the lungs\"|pulmonary
+800|..."substitute", the type of motherhood in the court case "In the Matter of Baby M\"|surrogate
+1000|\"Hell's border", it's a region of uncertainty you can be in|limbo

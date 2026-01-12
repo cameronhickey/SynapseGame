@@ -1,0 +1,6 @@
+WEATHER
+200|Condition associated with London & pea soup|fog
+400|Mt. Waialeale in Hawaii gets the most, while Calama, Chile, usually gets none|rain
+600|Its winds can reach 400 MPH|a tornado
+800|Some hygrometers use a human hair to measure this|(relative) humidity
+1000|Region near Equator that took the wind out of Sinbad's sails|the doldrums

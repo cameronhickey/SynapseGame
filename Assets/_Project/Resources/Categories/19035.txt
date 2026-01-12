@@ -1,0 +1,6 @@
+GEOGRAPHIC FEATURES
+200|I heard about "The Farmer In" this small wooded valley|the dell
+400|Change 1 letter in "cave" to get this sheltered bay|cove
+600|A raised area of flat land; one covers much of Tibet|plateau
+800|Places of shallow water, like the "muscle" one in "Sweet Home Alabama\"|a shoal
+1000|This word describes maple & oak trees & the forests full of them|deciduous (or hardwood)

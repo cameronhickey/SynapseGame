@@ -1,0 +1,6 @@
+UNITS OF MEASURE
+200|The diameter of a gun bore, it's traditionally expressed in hundredths of inches like .22 or .30|caliber
+400|It's abbreviated dB|decibel
+600|This unit of power is equal to about 746 watts|horsepower
+800|(Sarah of the Clue Crew presents) If I lift a 64 ounce hammer 48 inches off the ground, the work I'm doing is equivalent to 16 of these units|a foot-pound
+1000|Part of a ream, it is a set of 24 or 25 sheets of paper|a quire

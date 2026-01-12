@@ -1,0 +1,6 @@
+THE BAHAMAS, BOLIVIA OR BULGARIA
+200|An archipelago|the Bahamas
+400|Has the highest population of the 3, with about 9 million|Bolivia
+600|Member of the British Commonwealth|the Bahamas
+800|Uses the Lev as its unit of currency|Bulgaria
+1000|12% Muslim|Bulgaria

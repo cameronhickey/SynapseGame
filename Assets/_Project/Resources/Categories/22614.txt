@@ -1,0 +1,6 @@
+WHICH COUNTRY'S FOREST?
+200|Der Schwarzwald|Germany
+400|Sumatra Rainforest|Indonesia
+600|Fundy National Park|Canada
+800|Epping Forest, Forest of Dean|England
+1000|Tongass National Forest|the United States

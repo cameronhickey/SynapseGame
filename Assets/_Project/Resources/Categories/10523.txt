@@ -1,0 +1,6 @@
+ASTRONOMY ADD A LETTER
+200|Add this letter to Earth & you get a scarcity|D (dearth)
+400|Add this letter to Mars & you get a fen|H (marsh)
+600|Add this letter to Saturn's moon Titan & you get a Renaissance guy who liked to paint Venus|I (Titian)
+800|Add this letter to Jupiter's moon Io & you get an acronym that's a ground-floor stock offer for regular guys|P (IPO)
+1000|Add this letter to star & get something harsh or grim|K (stark)

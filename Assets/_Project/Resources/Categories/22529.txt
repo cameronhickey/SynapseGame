@@ -1,0 +1,6 @@
+2 BOOKS IN 1
+200|\"'Salem's Sematary\"|Pet Sematary & 'Salem's Lot
+400|\"Oliver Copperfield\"|Oliver Twist & David Copperfield
+600|\"A Room to India\"|A Room with a View & A Passage to India
+800|\"A Farewell the Bell Tolls\"|A Farewell to Arms & For Whom the Bell Tolls
+1000|\"A Prayer for Garp\"|A Prayer for Owen Meany & The World According to Garp

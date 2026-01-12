@@ -1,0 +1,6 @@
+STATE CAPITAL HEADQUARTERS
+200|Coca-Cola|Atlanta
+400|John Hancock Financial Services|Boston
+600|3M|St. Paul
+800|Aetna Insurance & Health Care|Hartford
+1000|Zions Bancorporation|Salt Lake City

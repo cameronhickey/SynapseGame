@@ -1,0 +1,6 @@
+FAST FOOD PLACES
+200|Its menu has both a Daily Double & a McDouble|McDonald's
+400|It got flak when its footlong sandwiches measured only 11 inches|Subway
+600|You can get a Crown Card from this chain|Burger King
+800|Its headquarters are on a street named for its founder, a 15-minute drive from Churchill Downs|KFC
+1000|\"Under the Roof" is a trademark of this pizzeria|Pizza Hut

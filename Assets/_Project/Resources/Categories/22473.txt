@@ -1,0 +1,6 @@
+GERMAN ANIMAL NAMES
+200|Tintenfisch, or "ink fish", is this creature|the squid (octopus)
+400|Words for "shield" & "toad" combine to make the German name for this reptile|a turtle
+600|This bug's German name, stechmucke, translates to "stabbing gnat\"|a mosquito
+800|Nacktschnecke, the German word for this gastropod, translates as "naked snail\"|a slug
+1000|From the way they stand up, these African mongoose relatives are called "little earth men" in German|a meerkat

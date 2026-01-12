@@ -1,0 +1,6 @@
+DOUBLE LETTER 8-LETTER WORDS
+200|Spray-painted markings or initials on a building|graffiti
+400|Adjective for a stain that won't come out or a person who won't change his mind|stubborn
+600|Don't fuhgedaboudit! Bensonhurst is one neighborhood in this NYC borough|Brooklyn
+800|To begin an activity|to commence
+1000|In 1900 the LZ-1, the first airship of this type, topped out at about 17 miles per hour|a zeppelin

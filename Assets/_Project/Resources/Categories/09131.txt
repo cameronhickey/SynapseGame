@@ -1,0 +1,6 @@
+THE VEEP
+200|This vice president studied law at the University of Baltimore; in 1974, he was disbarred|Spiro Agnew
+400|His father was born Theodore Anagnostopoulos|Spiro Agnew
+600|Once a pharmacist, he was serving in the U.S. Senate when elected vice president in 1964|(Hubert) Humphrey
+800|Vice President under Thomas Jefferson, he was the first Vice President who did not later become President|Aaron Burr
+1000|He was the eighth U.S. vice president & the eighth U.S. president|Van Buren

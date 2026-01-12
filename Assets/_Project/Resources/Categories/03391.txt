@@ -1,0 +1,6 @@
+ANATOMICAL ANAGRAMS
+200|Above the toes & below the neck is this joint, one of a pair|elbow (from below)
+400|One may run for eons|Nose (eons)
+600|It's where you hear "You are here\"|Ear (are)
+800|The lion never had a lot of this; he was cowardly|Nerve (never)
+1000|It may retain an image|Retina (retain)

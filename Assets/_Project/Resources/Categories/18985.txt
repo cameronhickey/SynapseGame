@@ -1,0 +1,6 @@
+DEVICES
+200|An instrument for drawing circles & a navigational device are both called this|a compass
+400|(Hi. I'm ABC meteorologist Ginger Zee.) Forecasters use this device invented in 1643 to detect changes in air pressure & predict weather; climbers can also use it to determine altitude because air pressure decreases as altitude increases|a barometer
+600|These 2 communications devices were in the original name of AT&T|telephone & telegraph
+800|Computer input & output devices, like mice & printers, are also known as computer these, referring to their outside placement|peripherals
+1000|This tech product got its name because its buttons were said to resemble little bumps on a certain fruit|a BlackBerry

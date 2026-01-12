@@ -1,0 +1,6 @@
+BROADWAY MUSICAL SETTINGS
+200|This musical opens with Anna's arrival in Bangkok|The King and I
+400|\"Mamma Mia" takes place on one of this country's islands; the plot concerns a big fat wedding|Greece
+600|\"The Music Man" takes place "right here in" this Iowa city|River City
+800|(Sarah of the Clue Crew reports from the Gershwin Theatre in New York.) The cast of "Wicked" sings about spending one short day in this place, a major metropolis in the land of Oz|the Emerald City
+1000|The '60s-set "Hairspray" takes place in this American city|Baltimore

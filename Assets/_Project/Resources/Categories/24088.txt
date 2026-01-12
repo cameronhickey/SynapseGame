@@ -1,0 +1,6 @@
+HUMAN ANATOMY
+200|This big muscle runs from your shoulder to your radius|biceps
+400|The eardrum is also known as the tympanic this thin layer of tissue|membrane
+600|This pear-shaped sac can store about 1.7 ounces of bile|the gallbladder
+800|The fissure of Sylvius & the fissure of Rolando are features of this organ|the brain
+1000|These tiny air sacs in the lungs are where oxygen & carbon dioxide are swapped in the bloodstream|alveoli

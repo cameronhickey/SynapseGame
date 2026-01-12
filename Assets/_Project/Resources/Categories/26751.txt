@@ -1,0 +1,6 @@
+AIRPORT DESIGNATIONS
+200|ATL|Atlanta
+400|SFO|San Francisco
+600|LGA|LaGuardia (New York)
+800|PHX|Phoenix
+1000|DTW|Detroit

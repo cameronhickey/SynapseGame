@@ -1,0 +1,6 @@
+CURRENT SENATORS' STATES
+200|Arizona: Flake & him|John McCain
+400|This state: Gillibrand & Schumer|New York
+600|This state: Nelson & Rubio|Florida
+800|California: Feinstein & her|Barbara Boxer
+1000|Kentucky: Paul & this Senate minority leader|Mitch McConnell

@@ -1,0 +1,6 @@
+IF AT "FIRST\"
+200|This covers "the right of the people... to petition the government for a redress of grievances\"|First Amendment
+400|Sounds like bad grammar but "me" is an objective singular pronoun of this linguistic form|first person
+600|2-word term describing an E.M.T. who goes to a crisis area to provide immediate assistance|a first responder
+800|Primus inter pares is Latin for this, the member of a power-sharing group with a little more juice than the rest|first among equals
+1000|As leader of Poland from 1956 to 1970, Wladyslaw Gomulka held this Communist Party title|first secretary

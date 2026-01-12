@@ -1,0 +1,6 @@
+FROM THE FRENCH
+200|In French, the name of this fancy dining room fixture means "something that holds candles\"|a chandelier
+400|A diplomat serving temporarily in place of an ambassador is called this "d'affaires\"|charge
+600|This synonym for bravery comes from the Old French for "heart\"|courage
+800|(Sofia of the Clue Crew) This bike part whose name is from the French helps you shift gears; it's not used to overturn trains|derailleur
+1000|This word for an alpine cottage comes from the Swiss French for "shelter\"|a chalet

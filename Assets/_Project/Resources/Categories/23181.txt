@@ -1,0 +1,6 @@
+MATCH
+200|A twinset is a matching pullover & this type of open-front sweater, worn together|a cardigan
+400|A spectrophotometer can be used to match colors of this, whether from Behr or Benjamin Moore|paint
+600|In 2016 "Match Game" was brought back to TV with this man as the host|Alec Baldwin
+800|The ABO system is used to match types of this|blood
+1000|A tiger was one of the creatures on the tag that helped kids mix & match items of apparel from this clothing brand that started in 1972|Garanimals

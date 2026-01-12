@@ -1,0 +1,6 @@
+cabinetdepartment.gov
+200|This department's website has a bio of the chairman of the joint chiefs of staff|Defense
+400|Complete your FAFSA form to get a Pell grant at the website of this department|the Department of Education
+600|The mission of this dept. is "to foster, promote, & develop the welfare of the wage earners, job seekers, & retirees\"|Labor
+800|Follow the daily interest rate statistics at this.gov|the Treasury Department
+1000|\"Human Trafficking", "Resilience" & "Disasters" are some topics at this department's .gov|the Department of Homeland Security

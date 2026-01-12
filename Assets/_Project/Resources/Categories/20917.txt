@@ -1,0 +1,6 @@
+\"I" 4
+200|A revered religious object, or a symbol on a computer screen|icon
+400|Slangy synonym for "signs", as in "Superstar ____ new contract\"|inks
+600|A foot often written by a poet|an iamb
+800|It's Arabic for "leader\"|imam
+1000|Italian company known for upscale coffee makers & espresso machines|illy

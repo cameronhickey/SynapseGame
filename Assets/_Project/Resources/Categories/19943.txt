@@ -1,0 +1,6 @@
+BOATS & BOATING
+200|To mark safe passage for boats entering a harbor, the channel is lined with these, red on the right, green on the left|buoys
+400|Add "up" to this 2-masted boat & it becomes a condiment|a ketch
+600|The name of this waterside facility that has docks & moorings for small boats is from the Italian for "seacoast\"|marina
+800|By law, all PFDs, short for these, made of balsa or cork were retired from service by March 1999|personal flotation devices
+1000|The last royal yacht of the UK, it was retired in 1997 & is now a tourist attraction in Edinburgh|Britannia

@@ -1,0 +1,6 @@
+RANKS & TITLES
+200|The clergyman on a chessboard|the bishop
+400|Oliver Goldsmith wrote a novel about one of these clergymen "of Wakefield\"|the vicar
+600|A hetman or ataman was the leader of a village of these Russian horsemen|Cossacks
+800|Czarevna is a title given to this person|the daughter of a czar
+1000|You'll find a verger in a church & a shammes in one of these|a synagogue

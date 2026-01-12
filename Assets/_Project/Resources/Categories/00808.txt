@@ -1,0 +1,6 @@
+GENERAL SCIENCE
+200|Formalin is a liquid form of this substance used to preserve biological specimens|formaldehyde
+400|Of 75%, 50% or 30%, the amount of the Earth's fresh water that's in glaciers & ice caps|75
+600|In physics the symbol K stands for Kelvin; in chemistry, it stands for this element|Potassium
+800|In its most common isotope, it's the only element whose atoms lack neutrons|hydrogen
+1000|It's the type of energy exhibited by a flying baseball or an object falling to the ground|kinetic

@@ -1,0 +1,6 @@
+JOHN
+200|Second U.S. president|John Adams
+400|1999 Super Bowl MVP|John Elway
+600|Singer & writer of "Instant Karma\"|John Lennon
+800|\"Pilgrims Progress" allegorist|John Bunyan
+1000|First Watergate judge|John Sirica

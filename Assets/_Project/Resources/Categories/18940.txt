@@ -1,0 +1,6 @@
+F-STOP
+200|The nape of the neck|scruff
+400|A recurring theme in a musical or literary work|a motif
+600|A role in "Rocky Horror", or low-class folks|Riff Raff
+800|To tip the hat|doff
+1000|To interrogate a friendly spy after a mission|debrief

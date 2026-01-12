@@ -1,0 +1,6 @@
+SPORTS STADIUMS
+200|Only Stadium to host 2 modern Olympiads|the Los Angeles Coliseum
+400|Chicago Cubs can only play day games at this North Side facility|Wrigley Field
+600|Baseball and football were played in this defunct NYC park named for another sport|the Polo Grounds
+800|Political figure for whom Minneapolis' Metrodome is named|Hubert Humphrey
+1000|1959 Yankee/Dodger game drew 93,103, largest crowd in Major League history to this stadium|the (L.A.) Coliseum

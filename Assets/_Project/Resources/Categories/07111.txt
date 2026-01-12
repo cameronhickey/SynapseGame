@@ -1,0 +1,6 @@
+GROUPS
+200|As well as a group in the Old West aiding the sheriff, it can be your bunch of pals from the neighborhood|posse
+400|It can be a packed-together group or a teen's puppy love|crush
+600|Murderous right-wing groups that roamed El Salvador in the 1980s were called "death" these|squads
+800|Carrying on the whole "lamb of God" motif, this is the term for a church's congregation|flock
+1000|It can mean "one", or a group of soldiers, like the 326th Engineer Battalion|unit

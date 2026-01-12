@@ -1,0 +1,6 @@
+MUSIC ALPHABET
+200|\"A" is for a capella, from the Italian for "in" this place|the chapel
+400|\"B" is for bis, sometimes used to ask musicians for this|an encore
+600|\"D" is for decrescendo, which means this is happening to the music|it's getting quieter (or softer)
+800|\"L" is for lacrimoso, meaning the music should be of this mood|tearful (or sad)
+1000|\"P" is for pizzicato, which informs the string players to do this, also a "P" word|pluck

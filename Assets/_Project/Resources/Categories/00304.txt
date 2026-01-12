@@ -1,0 +1,6 @@
+POE
+200|Appropriately, it was Poe's first writing form|poetry
+400|American director famous for series of Poe films in the early '60s|Roger Corman
+600|Last name of twins Roderick & Madeline, together they brought down the house|the Ushers
+800|Double relation to Poe of Virginia Clemm|cousin & wife
+1000|Title referring to Prince Prospero's plague party|\"The Masque of the Red Death\"

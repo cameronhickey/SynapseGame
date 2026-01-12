@@ -1,0 +1,6 @@
+THEY DRIVE ON THE LEFT
+200|Keep left when driving on Hokkaido & this country's other islands|Japan
+400|There's no need to change sides when you drive across the border between these 2 countries at Belleek|Ireland & Northern Ireland
+600|Keep to the left side of the road when you visit these West Indian islands just east of Florida|the Bahamas
+800|Stay well to the left in this mountainous country between India & China; Maoists ousted the monarchy in 2008|Nepal
+1000|If you want to drive from Klerksdorp to Roodepoort in this country, head east & hang a left at Sasolburg|South Africa

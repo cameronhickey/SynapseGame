@@ -1,0 +1,6 @@
+THAT'S A CRIME!
+200|A jury is the group you're tried before; this is lying under oath to them|perjury
+400|It's extortion by threat—like you'll send the photos to the newspaper if you don't receive $2 million|blackmail
+600|Those Allstate ads with Dean Winters in this role are funny, but it's also the crime of maliciously injuring a person's body|Mayhem
+800|Using a baseball bat or brass knuckles to inflict injury can lead to a charge of ADW, short for this|assault with a deadly weapon
+1000|It's time to document this signature crime; it's also called false making & in Montana, can earn a 10-year stretch|forgery

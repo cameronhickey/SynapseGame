@@ -1,0 +1,6 @@
+GET YOUR ACT TOGETHER
+200|The name of this 1963 act is often paired with "Equal work\"|equal pay
+400|The 1921 act covering this introduced a quota system to try to maintain the USA's ethnic balance|immigration
+600|The 1878 Bland-Allison act let a limited number of these dollars be coined, creating "limping bimetallism\"|silver dollars
+800|This state's Butler Act, challenged by Scopes in 1925, was repealed in 1967 after a challenge by teacher Gary Scott|Tennessee
+1000|Until the 1914 Clayton one of these acts, businessmen could create monopolies by buying stock in competing firms|antitrust

@@ -1,0 +1,6 @@
+ALL ABOARD!
+200|To ride the Bluegrass Scenic Railroad, you have to go to this state|Kentucky
+400|Hop aboard the Green Mountain Flyer for a scenic tour of this state's fall foliage|Vermont
+600|The Sugar Cane Train takes folks on a nostalgic steam locomotive trip from Lahaina to Kaanapali on this island|Maui
+800|Ride in restored 1930s passenger cars on the Oil Creek and Titusville Railroad in this state|Pennsylvania
+1000|Take a trip on the Essex steam train & connect to an optional riverboat cruise in this state|Connecticut

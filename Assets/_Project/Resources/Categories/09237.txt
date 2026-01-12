@@ -1,0 +1,6 @@
+DO "TELL\"
+200|Give us your best Marlon Brando with this famous 1-word howl from a classic 1951 film|STELLA!
+400|Bootes, Orion & Gemini, to name a few|constellations
+600|It's the governmental organization headed by George H.W. Bush from 1976 to 1977|the Central Intelligence Agency
+800|It's the flat, movable bone at the front of the knee|the patella
+1000|Small rounds of meat-filled pasta that are shaped into rings & boiled|tortellini

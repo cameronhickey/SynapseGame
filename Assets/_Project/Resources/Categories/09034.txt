@@ -1,0 +1,6 @@
+BETTER ASK FOR DIRECTIONS
+200|Of north, south, east or west, the direction to travel to get from the U.S. Naval Acad. to the U.S. Military Acad.|north
+400|Direction that also means to swallow liquid hastily|down
+600|Title direction for Arthur Sullivan's "Christian Soldiers\"|onward
+800|From its derivation, if you turn sinister, you've gone in this direction|left
+1000|In the army, it's an order to move the troops forward, or for a soldier to move up in rank|advance

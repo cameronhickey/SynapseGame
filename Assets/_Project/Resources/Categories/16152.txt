@@ -1,0 +1,6 @@
+DO NOT PASS "O\"
+200|According to Catholic doctrine, not quite heaven or hell|limbo
+400|A homeless migrant who might ride the rails|a hobo
+600|A wall painting on wet plaster|a fresco
+800|The body without the limbs or head|the torso
+1000|A round of gunfire|a salvo

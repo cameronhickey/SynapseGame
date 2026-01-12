@@ -1,0 +1,6 @@
+WHAT BREED OF MOVIE DOG?
+200|Voiced by Drew Barrymore, Chloe of Beverly Hills|a Chihuahua
+400|Frank in "Men in Black" & "Men in Black II\"|a pug
+600|Daisy, John Wick's dog whose death leads to a killing spree|a beagle
+800|In the "Beethoven" movie|a St. Bernard
+1000|In "Hachi", the loyal dog waiting for Richard Gere at the train station: this Japanese breed|Akita

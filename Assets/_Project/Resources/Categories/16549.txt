@@ -1,0 +1,6 @@
+\"ACT" LOCAL
+200|It's not a doll! My G.I. Joe is known by this 2-word term|an action figure
+400|It's someone working for political or social change, often with an organized group|an activist
+600|4-word title of the 5th book of the New Testament|Acts of the Apostles
+800|Symbol Ac, this radioactive element is found in uranium ores|actinium
+1000|Someone who uses statistics to figure out when you're likely to die & thus whether you're worth insuring|an actuary

@@ -1,0 +1,6 @@
+COMPLETES THE MAJOR PAPER
+200|Louisville Courier-____, Wall Street ____|Journal
+400|Denver Rocky Mountain ____, New York Daily ____|News
+600|Houston ____, San Francisco ____|Chronicle
+800|St. Louis Post-____, Columbus ____|Dispatch
+1000|Fort Worth Star-____, Long Beach Press-____|Telegram

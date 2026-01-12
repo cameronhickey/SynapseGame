@@ -1,0 +1,6 @@
+VIOLINS
+200|From the name of the Roman goddess Vitula, it's what y'all might call a violin down in Nashville|a fiddle
+400|The first of these highly prized violins was created in Italy in 1666|Stradivarius
+600|This style of violin playing refers to plucking the strings with your fingers|pizzicato
+800|This Paris-born violinist helped popularize the European style of "Le Jazz Hot\"|Stéphane Grappelli
+1000|Born in Genoa in 1782, this virtuoso played so well listeners thought he was in league with the devil|Niccolo Paganini

@@ -1,0 +1,6 @@
+LEGAL LINGO
+200|It can precede "with a deadly weapon", "with intent to commit murder" or "and battery\"|assault
+400|Term for the exhibits, objects, documents, testimony, etc. used in court to prove or disprove facts|evidence
+600|Baseball term for laws demanding a mandatory sentence for successive felony convictions|\"three strikes" law
+800|Acts that lower the dignity of the trial may bring a fine or a jail sentence if you're held in this|contempt of court
+1000|(Hi, I'm Star Jones of The View. As a lawyer I can tell you:) This Latin phrase meaning "of unsound mind" is often used to indicate permanent or temporary insanity|non compos mentis

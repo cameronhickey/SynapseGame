@@ -1,0 +1,6 @@
+CHEM CLASS
+200|Charles' law says that the volume of a fixed amount of gas is directly proportional to this|temperature
+400|(Cheryl of the Clue Crew pours the contents of a flask into a beaker.) Milk has its solids distributed throughout the liquid; to clump the solids into curd, I've added vinegar, a weak one of these|an acid
+600|Rusting is also called this process, for the element that causes it|oxidation
+800|(Jon of the Clue Crew rubs different small slips of paper together with different amounts of ease.) When put on paper, graphite's lubricant properties reduce this force that resists relative motion|friction
+1000|These can be almost instant, like an explosion, or very slow, like the corrosion of copper|a reaction

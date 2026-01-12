@@ -1,0 +1,6 @@
+TIE ONE ON
+200|If an invitation specifies this tie, it means it's a semiformal occasion & a tuxedo is required for men|a black tie
+400|If an invitation specifies this tie, it means it's a formal occasion & tails are required for men|a white tie
+600|That's Isaac Asimov rocking one of these, also called a "shoelace tie\"|a bolo tie
+800|This way of tying a tie honors a later title of Prince Edward, who popularized it in the 1920s|a Windsor
+1000|It takes a quartet of steps—at least—to make the slip knot required for the tie with this hyphenated 3-word name|a four-in-hand

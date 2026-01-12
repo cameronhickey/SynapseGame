@@ -1,0 +1,6 @@
+PENN. NAMES
+200|There are railroad shops in this city, also a railroad name on a Monopoly board|Reading
+400|This suburb of Pittsburgh was named for industrialist Andrew|Carnegie
+600|The origins of this city's name are fishy; it may be from the Latin altus for "high" or from a Native American word|Altoona
+800|Appropriately, this city is Pennsylvania's largest port on the Great Lakes|Erie
+1000|People have their "Phil" of this town each Groundhog Day|Punxsutawney

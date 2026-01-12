@@ -1,0 +1,6 @@
+3-LETTER WORDS WITH ONLY 2 VOWELS
+200|In cards you can't have a blackjack without it|ace
+400|It's what you need to row, row, row your boat|oar
+600|It's a synonym for color, or a shade of color|hue
+800|This is what it sounds like when doves cry softly|coo
+1000|In sushi speak, it's unagi|eel

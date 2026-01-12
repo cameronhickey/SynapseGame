@@ -1,0 +1,6 @@
+ON YOUR STATE'S LEFT
+200|If you're near the border in Terre Haute, Indiana & want to go west, young man, you head directly into this state|Illinois
+400|The Maine way to the left is into this state; head to the right & you've left the country|New Hampshire
+600|Geographically, this state borders Alabama on the left, but both look up to Tennessee|Mississippi
+800|It's to the left for a majority of Wisconsin, as it stands atop Iowa|Minnesota
+1000|It's the leftward neighbor of North Dakota, & there's plenty of room left for you if you'd like to move there|Montana

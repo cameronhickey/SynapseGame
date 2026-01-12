@@ -1,0 +1,6 @@
+SHAKESPEAREAN SETTINGS
+200|\"Henry VI, Part 1" opens in this famous abbey|Westminster
+400|\"Antony and Cleopatra" begins & ends in this Egyptian city|Alexandria
+600|Much of "Titus Andronicus" is set in this Italian city that Titus describes as "a wilderness of tigers\"|Rome
+800|\"The scene, an uninhabited island", but it's very much habited|The Tempest
+1000|This comedy with an alliterative title is set in a park in Navarre|Love's Labour's Lost

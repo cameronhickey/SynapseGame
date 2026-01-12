@@ -1,0 +1,6 @@
+STATE OF THE COLLEGE
+200|Weber State is near a "Great" lake in this state|Utah
+400|St. Anselm College, Granite State College|New Hampshire
+600|Muncie in this state is home to Ball State University|Indiana
+800|The Citadel, Furman|South Carolina
+1000|The Campbell Fighting Camels are from near the Cape Fear River in this state|North Carolina

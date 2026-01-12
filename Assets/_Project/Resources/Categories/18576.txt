@@ -1,0 +1,6 @@
+WHICH STATE?
+200|Grows the most potatoes|Idaho
+400|Is the only one with a one-syllable name|Maine
+600|Is nicknamed "Empire State of the South\"|Georgia
+800|Is home to Foxwoods, one of the largest resort casinos in North America|Connecticut
+1000|Calls "Hang On Sloopy" its official rock song|Ohio

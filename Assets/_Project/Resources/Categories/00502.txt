@@ -1,0 +1,6 @@
+SEAPORTS
+200|Founded by Macedonian conqueror in 332 B.C., it's Egypt's largest port city|Alexandria
+400|Carrying the pilgrims to America, the Mayflower sailed from this port|Plymouth
+600|British music's "Mersey sound" is named for the river flowing through this port|Liverpool
+800|The busiest port in Southeast Asia|Singapore
+1000|By weight of cargo handled, it's America's number 1 seaport|New Orleans

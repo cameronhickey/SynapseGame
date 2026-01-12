@@ -1,0 +1,6 @@
+STATE OF PLAY
+200|Bears, Bulls, Cubs|Illinois
+400|Angels, Chargers, Warriors|California
+600|Broncos, Nuggets, Rockies|Colorado
+800|Timberwolves, Vikings, Wild|Minnesota
+1000|Bobcats, Hurricanes, Panthers|North Carolina

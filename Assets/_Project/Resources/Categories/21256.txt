@@ -1,0 +1,6 @@
+ELEMENTAL
+200|This element's name is derived from the Greek for "water" & "born\"|hydrogen
+400|When you're talking about an organic compound, you're talking about one based on this element|carbon
+600|The first letter of the medication Klor-Con tells you that it's helping those with low levels of this element|potassium
+800|This element is alphabetically first among the noble gases|argon
+1000|Described as silver white, this precious metal, No. 78, is combined with iridium to make surgical pins|platinum

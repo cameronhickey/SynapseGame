@@ -1,0 +1,6 @@
+BURGERS
+200|Hamburger U.'s main campus is a sprawling Illinois facility that trains this company's employees|McDonald's
+400|The first hamburger chain in the U.S. was this one that sounds like it could've benefitted from a moat|White Castle
+600|Not seen on In-N-Out's drive-thru menu is the "Protein Style" burger, which uses this instead of a bun|lettuce
+800|Hamburger is sometimes turned into this kind of "steak", as in the name of a British city|Salisbury
+1000|The FleurBurger 5000 is a $5,000 burger with black truffles & foie gras, made from wagyu, a type of beef originally from this country|Japan

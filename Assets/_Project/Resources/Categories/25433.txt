@@ -1,0 +1,6 @@
+ELECTION LINGO
+200|If you don't vote in person on Election Day, you've cast this type of ballot, whether by mail or by early voting|an absentee ballot
+400|Many state officers can be removed with this type of election; the folks who wanted it in the U.S. Constitution lost out|a recall
+600|This type of informal vote to test political sentiment may take its name from plant stalks tossed up to gauge wind direction|a straw poll
+800|Abbreviated RCV, this type of voting allows the rating of candidates by graded preference to avoid runoff elections|ranked-choice voting
+1000|Candidates for local posts like school board president are often elected without a ballot by this, from the Latin for "shout\"|acclamation

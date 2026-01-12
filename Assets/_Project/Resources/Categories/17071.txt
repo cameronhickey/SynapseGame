@@ -1,0 +1,6 @@
+GEOGRAPHIC "SQUARE"s
+200|George M. Cohan asked "Remember me to..." this place|Herald Square
+400|Address to which you would write in St. Louis to reach the Ralston Purina company|Checkerboard Square
+600|Triangular in shape, this Dallas square shares its name with a fall holiday|Thanksgiving Square
+800|Bounded by Beach, Larkin, North Point, & Polk streets, it contains a "chocolate manufactory\"|Ghirardelli Square
+1000|It's said L'Enfant wanted it to be the White House's front yard|Lafayette Square

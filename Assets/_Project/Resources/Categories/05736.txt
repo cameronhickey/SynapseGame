@@ -1,0 +1,6 @@
+INSECT, ARACHNID OR CRUSTACEAN
+200|The spider crab|Crustacean
+400|The brown recluse|Arachnid
+600|The katydid|Insect
+800|The earwig|Insect
+1000|Krill|Crustacean

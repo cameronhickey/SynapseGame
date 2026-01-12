@@ -1,0 +1,6 @@
+LEGAL ABBREV.
+200|Enacted by Congress, the U.C.M.J is the Uniform Code of this type of Justice|Military
+400|If you're using a name other than your own for your company, you should file the D.B.A. certificate, short for this|doing business as
+600|A T.R.O. is a temporary one of these injunctions|a restraining order
+800|If you signed an N.D.A., one of these agreements, you've got to keep your mouth shut|a non-disclosure agreement
+1000|The amount of time you have to file a lawsuit is determined by an S.O.L., one of these|a statute of limitations

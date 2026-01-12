@@ -1,0 +1,6 @@
+PLAZA, SWEET!
+200|\"Remember!" 300 (this) Plaza is in San Antonio!|Alamo
+400|The iconic Plaza Hotel, opened in 1907, overlooks Grand Army Plaza in this city|New York
+600|Designed by Jean-Francois-Therese Chalgrin, this landmark sits in a circular plaza, from which 12 avenues form a star pattern|Arc de Triomphe
+800|Praça Quinze de Novembro is a lovely spot in this city that also has a month in its name|Rio de Janeiro
+1000|Chicago's AMA Plaza was designed by Ludwig Mies van der Rohe, last director of this German design school|Bauhaus

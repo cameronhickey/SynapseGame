@@ -1,0 +1,6 @@
+CROSSROADS
+200|This state capital is "the Crossroads of the Pacific\"|Honolulu
+400|This Neb. city on the Missouri River calls itself "the Crossroads of the Nation" & "the Gateway to the West\"|Omaha
+600|This "Prairie State" calls itself "the Heart of the Nation", "the Hub of the Nation" & "the Crossroads of America\"|Illinois
+800|Sioux Falls in this state calls itself "the Crossroads of the Nation\"|South Dakota
+1000|This Midwestern capital city has a great "track" record as "the Crossroads of America", also the motto of its state|Indianapolis

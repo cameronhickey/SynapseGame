@@ -1,0 +1,6 @@
+EUROPEAN VACATION
+200|While in Rome, it's possible to stand with one foot in each of these countries|Italy & Vatican City
+400|Landmark from which you can see the following views: [1] [2] [3] [4]|the Eiffel Tower
+600|Check out the medieval towers that dot the skyline of San Gimignano near Sienna in this region of Italy|Tuscany
+800|In Greece or Cyprus, you might want to try this 4-letter liqueur flavored with anise|ouzo
+1000|Go face to face with some Art Nouveau architecture in this world capital in Latvia|Riga

@@ -1,0 +1,6 @@
+COAL
+200|In 1804 this pair made the first report of a coal discovery west of the Mississippi|Lewis & Clark
+400|These Old World finches of the genus Serinus were used in coal mines to detect deadly gas|canaries
+600|The black, sticky liquid produced when coal is heated without air present|coal tar
+800|Environmentalists are critical of this method of mining that only removes coal found near the surface|strip mining
+1000|John L. Lewis worked his way up from the coal mines to be elected president of this union in 1920|the United Mine Workers

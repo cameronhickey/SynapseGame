@@ -1,0 +1,6 @@
+BACKWORDS
+200|Ed leaves pools of water on the carpet when he comes in from sailing this boat|Sloop (pools)
+400|Aye, lass, I'll wed thee ere this has dried on the fields|Dew (wed)
+600|Your reward is in this bureau compartment|drawer/reward
+800|A messenger is reviled when he fails to do this|deliver/reviled
+1000|I take spools of fishing line on these single-masted sailing ships|sloops/spools

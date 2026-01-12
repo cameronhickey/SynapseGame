@@ -1,0 +1,6 @@
+THE CENSUS ASKS
+200|1940: Whether an occupied dwelling had one of these entertainment devices|a radio
+400|2010: Choices among Latino & Hispanic identities included this synonym for Mexican American|Chicano
+600|1990: "Do you have a second or junior" one of these "on this property?\"|a mortgage
+800|1980: Whether a person's ethnicity was Hawaiian or Samoan, or from this other U.S. Pacific island territory|Guam
+1000|1790-1860: Number of members of a household who were these|slaves

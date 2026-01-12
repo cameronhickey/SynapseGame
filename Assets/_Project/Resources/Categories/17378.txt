@@ -1,0 +1,6 @@
+DELETE
+200|...a letter from "country" & it becomes this smaller district|county
+400|...a letter from "brainy" & you get this, salty|briny
+600|...a letter from "asteroid" & it becomes this type of chemical compound|steroid
+800|...a letter from "eaglet" to get this metal tip at the end of a shoelace|aglet
+1000|...a letter in "bacteria" & you're left with this ancient country|Bactria

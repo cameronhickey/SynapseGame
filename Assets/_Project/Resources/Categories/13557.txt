@@ -1,0 +1,6 @@
+TRANSLATE THE PORTUGUESE
+200|Ola|hello
+400|Adeus|good-bye
+600|Por favor|please
+800|Obrigado|thank you
+1000|Sim|yes

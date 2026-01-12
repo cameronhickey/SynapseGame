@@ -1,0 +1,6 @@
+PHYSICIANS
+200|About 5 years after writing his first Sherlock Holmes novel, he quit medicine to write full time|Conan Doyle
+400|The first to break the 4-minute mile, he quit athletic competition in late 1954 to practice medicine|(Roger) Bannister
+600|This degenerative disease of the brain is named for the German neuropathologist who described it in 1906|Alzheimer's
+800|His 2 essays "On the Circulation of Blood" were written to Jean Riolan, professor of anatomy in Paris|Harvey
+1000|In 1798 he wrote on "The Causes and Effects of... a Disease Known by the Name of Cow Pox\"|(Edward) Jenner

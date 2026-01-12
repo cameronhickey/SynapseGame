@@ -1,0 +1,6 @@
+ELTON JUAN?
+200|\"Roca De Cocodrilo\"|\"Crocodile Rock\"
+400|\"Adiós Camino De Ladrillos Amarillos\"|\"Goodbye Yellow Brick Road\"
+600|\"Vela En El Viento\"|\"A Candle In The Wind\"
+800|\"El Sábado Por La Noche Esta Bien (Para Luchar)\"|\"Saturday Night's Alright for Fighting\"
+1000|\"No Vayas Rompiendo Mi Corazón\"|\"Don't Go Breaking My Heart\"

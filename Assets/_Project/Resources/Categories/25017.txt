@@ -1,0 +1,6 @@
+ENDS WITH "C\"
+200|You might consult one if you wanted "Information, Please\"|an almanac
+400|Your poor, old uncle is crazy; your rich, old uncle is this|eccentric
+600|With a deficiency of this, wounds may not heal well; without a coating of it, iron rusts|zinc
+800|Whether as an adjective or adverb, this Latin phrase means "for the particular purpose at hand\"|ad hoc
+1000|Apt adjective for dull, boring writing, even if its poetry|prosaic

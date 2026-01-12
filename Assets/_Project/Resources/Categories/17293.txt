@@ -1,0 +1,6 @@
+CARTOGRAPHIC ABBREVIATIONS
+200|ft. can stand for feet or for this type of structure|a fort
+400|jc. stands for this; we're fond of the "Petticoat" & "Conjunction" locations|junction
+600|bsnh refers to a basin collecting the runoff for these, the upper tributaries of a river|the headwaters
+800|AVO stands for the Alaska Observatory for these vents in the Earth's crust|volcanoes
+1000|ib is short for this line that connects points of equal barometric pressure|an isobar

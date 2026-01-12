@@ -1,0 +1,6 @@
+MEATY LANGUAGE
+200|If you complete a rescue of someone, you "save his" this meat|bacon
+400|There's a porcine product in this word for a small village|a hamlet
+600|To "run around like" one of these means to do things without thinking|a chicken with his head cut off
+800|Meaty name for the type of hat worn here|a porkpie
+1000|Completes a phrase for something that doesn't fit a recognizable category, "neither fish...\"|nor fowl

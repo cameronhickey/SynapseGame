@@ -1,0 +1,6 @@
+WORD PROCESSING
+200|This 2-part process of moving text can be done with scisssors & glue or with commands|Cut & paste
+400|Times Roman is a typeface, Italic is a style, 12-point is a size & Times Roman Italic 12-point is this|Font
+600|From Latin for "to run", it runs blinking around the screen to show where the next character goes|Cursor
+800|Term for the printer or margins your computer is set for unless you tell it otherwise|Default
+1000|5-letter term for any single keystroke that carries out a series of commands|Macro

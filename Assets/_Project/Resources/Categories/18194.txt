@@ -1,0 +1,6 @@
+CONTINENTAL
+200|This continent contains the world's smallest country in area|Europe
+400|Home to the lowest & highest places on the surface of the Earth|Asia
+600|Home to more countries than any other continent|Africa
+800|You can gaze at a 3,212-foot waterfall there|South America
+1000|It has about the same population as the state of Texas|Australia

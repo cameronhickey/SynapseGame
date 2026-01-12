@@ -1,0 +1,6 @@
+2-WORD LEGAL PHRASES
+200|It's the proper form of address when you speak to a judge in court|your honor
+400|Term for an attorney assigned to you by the court if you can't afford one|a public defender
+600|It's a punitive sentence that requires the convicted person to do unpaid work in the area where he lives|community service
+800|This panel of 12 to 23 people hears evidence to determine if there is a case|a grand jury
+1000|It's a person who delivers warrants & subpoenas; a sheriff, for example|a process server

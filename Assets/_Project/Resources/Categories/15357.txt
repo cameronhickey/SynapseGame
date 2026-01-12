@@ -1,0 +1,6 @@
+THE SPOUSE IMMEDIATELY BEFORE
+200|...Katie Holmes|Nicole Kidman
+400|...Ashton Kutcher|Bruce Willis
+600|...Melania Trump|Marla Maples
+800|...Steffi Graf|Brooke Shields
+1000|...Nancy Reagan|Jane Wyman

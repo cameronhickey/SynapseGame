@@ -1,0 +1,6 @@
+MONTREAL EXPOSE
+200|The Basilique Notre-Dame has one of the largest ones of these in North America; it weighs 12 tons|bell
+400|A bagpiper at Ogilvy's Department Store plays to announce this hour|noon
+600|Since 1984 over 37 million people have seen performances by this circus headquartered in Montreal|Cirque du Soleil
+800|Each summer Montreal hosts a Juste Pour Rire Festival, called "Just for" these in English|Laughs
+1000|A street in Mount Royal Park is named for this great American landscape artist who designed NYC's Central Park|(Frederick Law) Olmsted

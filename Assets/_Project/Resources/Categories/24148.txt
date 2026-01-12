@@ -1,0 +1,6 @@
+TV TITLE ADJECTIVES
+200|\"It's Always ____ in Philadelphia\"|Sunny
+400|\"____ Kimmy Schmidt\"|Unbreakable
+600|With Cynthia Nixon & Christine Baranski & set in the late 1800s: "The ____ Age\"|Gilded
+800|Once hosted by Robert Stack: "____ Mysteries\"|Unsolved
+1000|With William H. Macy as patriarch of the dysfunctional Gallagher family: "____\"|Shameless

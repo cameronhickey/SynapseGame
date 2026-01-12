@@ -1,0 +1,6 @@
+GETTING SQUIRRELLY
+200|Squirrels are part of this order that includes beavers & marmots|rodents
+400|Some squirrels are active during winter; others go through this dormancy process|hibernation
+600|Squirrels pretend to bury nuts & these oak tree fruits to foil would-be thieves|acorns
+800|The Siberian is the only non-North American type of this, a small, striped creature in the squirrel family|a chipmunk
+1000|(Sarah of the Clue Crew shows a squirrel and a rattlesnake on the monitor.) Certain ground squirrels fend off rattlesnakes by shaking their tails & creating heat, & since the snakes detect the heat via this type of light, they go defensive & leave their prey be|infrared

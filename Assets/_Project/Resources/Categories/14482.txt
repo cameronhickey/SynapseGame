@@ -1,0 +1,6 @@
+THE STATE NAME
+200|...with a Z|Arizona
+400|...with the most Is|Mississippi
+600|...with the most Es|Tennessee
+800|...with 2 Ks|Kentucky
+1000|...with the most Os|Colorado

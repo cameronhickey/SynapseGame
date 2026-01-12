@@ -1,0 +1,6 @@
+CAPITAL CITY MAYORS
+200|Shintaro Ishihara|Tokyo
+400|Walter Veltroni|Rome
+600|Ken Livingstone|London
+800|Bertrand Delanoe|Paris
+1000|Klaus Wowereit|Berlin

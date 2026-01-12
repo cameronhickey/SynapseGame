@@ -1,0 +1,6 @@
+ACROSS STATE LINES
+200|Heading north on I-5: California, Oregon, this|Washington
+400|Going due west: Ohio, Indiana, this|Illinois
+600|Going south on U.S. 281: Nebraska, Kansas, this|Oklahoma
+800|Heading north: Rhode Island, Massachusetts, this|New Hampshire
+1000|Heading east on I-94: Montana, North Dakota, this|Minnesota

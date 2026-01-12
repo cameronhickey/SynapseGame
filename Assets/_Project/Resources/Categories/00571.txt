@@ -1,0 +1,6 @@
+AILMENTS
+200|Alleged cures for it are swallowing sugar, blowing in a bag, or being suddenly surprised|hiccups
+400|Associated with musty, bad smelling swamps, the name of this sickness means "bad air\"|malaria
+600|What a patch test tests for|allergies
+800|If you're lacking sufficient sex hormones, you can blame it on this master gland|the pituitary
+1000|An idiopathic disease is a disease of this origin|unknown origin

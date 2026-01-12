@@ -1,0 +1,6 @@
+ADD A SHOT
+200|You need 2 doses of the vaccine for this "fowl" viral disease that can cause shingles later in life|chickenpox
+400|There are vaccines for the A & B types of this liver disease|hepatitis
+600|Botox injections are used to treat wrinkles & are FDA approved for these chronic severe headaches|migraines
+800|An EpiPen delivers a shot of this, the epi in its name|epinephrine
+1000|Some people get B12 shots to boost energy; others, to treat the pernicious kind of this hemoglobin deficiency|anemia
