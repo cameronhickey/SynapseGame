@@ -62,8 +62,8 @@ namespace Cerebrum.Editor
             {
                 EditorGUILayout.Space();
                 EditorGUILayout.LabelField("Voice Settings (from OpenAIConfig):", EditorStyles.boldLabel);
-                EditorGUILayout.LabelField($"  Voice: {config.Voice}");
-                EditorGUILayout.LabelField($"  Model: {config.Model}");
+                EditorGUILayout.LabelField($"  Voice: {config.TTSVoice}");
+                EditorGUILayout.LabelField($"  Model: {config.TTSModel}");
                 EditorGUILayout.LabelField($"  Speed: {config.TTSSpeed}");
             }
             else
@@ -287,9 +287,9 @@ namespace Cerebrum.Editor
             // Build request body
             var requestBody = new TTSRequestBody
             {
-                model = config.TTSModelString,
+                model = config.TTSModel,
                 input = phrase.Text,
-                voice = config.TTSVoiceString,
+                voice = config.TTSVoice,
                 speed = config.TTSSpeed,
                 response_format = "mp3"
             };
