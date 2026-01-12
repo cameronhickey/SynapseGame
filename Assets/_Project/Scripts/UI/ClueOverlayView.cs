@@ -73,6 +73,13 @@ namespace Cerebrum.UI
             currentCategory = categoryTitle;
             isReadingQuestion = false;
 
+            // Hide the ClueRevealAnimator card when overlay shows
+            var clueAnimator = FindFirstObjectByType<ClueRevealAnimator>();
+            if (clueAnimator != null)
+            {
+                clueAnimator.HideClue();
+            }
+
             if (categoryText != null)
             {
                 categoryText.text = categoryTitle;
@@ -86,6 +93,18 @@ namespace Cerebrum.UI
             if (questionText != null)
             {
                 questionText.text = clue.Question;
+                
+                // Apply Lora font styling for clue text
+                FontManager.EnsureExists();
+                if (FontManager.Instance != null)
+                {
+                    FontManager.Instance.ApplyClueStyle(questionText);
+                }
+                
+                // Enable auto-sizing for larger text
+                questionText.enableAutoSizing = true;
+                questionText.fontSizeMin = 36;
+                questionText.fontSizeMax = 72;
             }
 
             if (answerText != null)
@@ -104,6 +123,16 @@ namespace Cerebrum.UI
             if (overlayPanel != null)
             {
                 overlayPanel.SetActive(true);
+                
+                // Ensure overlay covers full screen
+                RectTransform rt = overlayPanel.GetComponent<RectTransform>();
+                if (rt != null)
+                {
+                    rt.anchorMin = Vector2.zero;
+                    rt.anchorMax = Vector2.one;
+                    rt.offsetMin = Vector2.zero;
+                    rt.offsetMax = Vector2.zero;
+                }
             }
 
             Debug.Log($"[ClueOverlay] Showing clue: {categoryTitle} for ${clue.Value}");

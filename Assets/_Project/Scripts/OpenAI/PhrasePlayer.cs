@@ -155,7 +155,8 @@ namespace Cerebrum.OpenAI
 
         public void PlayRandomPhraseWithName(GamePhrases.PhraseCategory category, string playerName, Action onComplete = null)
         {
-            var phrase = PhraseTTSCache.Instance?.GetRandomPhraseData(category);
+            // Get random phrase from GamePhrases (uses bundled audio)
+            var phrase = GamePhrases.GetRandomByCategory(category);
             if (phrase == null)
             {
                 Debug.LogWarning($"[PhrasePlayer] No phrases for category: {category}");

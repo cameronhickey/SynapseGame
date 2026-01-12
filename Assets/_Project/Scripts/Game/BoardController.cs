@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -30,6 +31,7 @@ namespace Cerebrum.Game
 
         [Header("Reveal Animation")]
         [SerializeField] private bool useRevealAnimation = true;
+        private ClueRevealAnimator clueRevealAnimator;
 
         private Board currentBoard;
         private List<ClueButton> clueButtons = new List<ClueButton>();
@@ -44,6 +46,9 @@ namespace Cerebrum.Game
         private void Awake()
         {
             LoadPrefabsIfNeeded();
+            
+            // Force reveal animation on (scene may have old serialized value)
+            useRevealAnimation = true;
         }
 
         private void Start()
@@ -51,6 +56,17 @@ namespace Cerebrum.Game
             if (clueOverlay != null)
             {
                 clueOverlay.OnClueCompleted += OnClueCompleted;
+            }
+
+            // Find or create ClueRevealAnimator
+            if (useRevealAnimation)
+            {
+                clueRevealAnimator = FindFirstObjectByType<ClueRevealAnimator>();
+                if (clueRevealAnimator == null)
+                {
+                    GameObject animatorObj = new GameObject("ClueRevealAnimator");
+                    clueRevealAnimator = animatorObj.AddComponent<ClueRevealAnimator>();
+                }
             }
 
             // Subscribe to TTS cache events for reveal animation
@@ -176,6 +192,24 @@ namespace Cerebrum.Game
                 return;
             }
 
+            // Configure HorizontalLayoutGroup to respect LayoutElement sizes
+            HorizontalLayoutGroup hlg = categoryHeaderContainer.GetComponent<HorizontalLayoutGroup>();
+            if (hlg != null)
+            {
+                hlg.childForceExpandWidth = false;  // Don't force expand - use LayoutElement
+                hlg.childForceExpandHeight = false;
+                hlg.childControlWidth = false;  // Don't control - let LayoutElement/RectTransform handle it
+                hlg.childControlHeight = false;
+                hlg.childAlignment = TextAnchor.MiddleCenter;
+            }
+            
+            // Ensure container RectTransform is tall enough
+            RectTransform containerRect = categoryHeaderContainer.GetComponent<RectTransform>();
+            if (containerRect != null)
+            {
+                containerRect.sizeDelta = new Vector2(containerRect.sizeDelta.x, 120);
+            }
+
             for (int c = 0; c < NUM_CATEGORIES; c++)
             {
                 GameObject headerObj = Instantiate(categoryHeaderPrefab, categoryHeaderContainer);
@@ -184,7 +218,42 @@ namespace Cerebrum.Game
                 if (headerText != null)
                 {
                     headerText.text = currentBoard.Categories[c].Title;
+                    
+                    // Apply Bebas Neue font with drop shadow
+                    UI.FontManager.EnsureExists();
+                    if (UI.FontManager.Instance != null)
+                    {
+                        UI.FontManager.Instance.ApplyCategoryStyle(headerText);
+                    }
+                    
+                    // Enable auto-sizing for category headers
+                    headerText.enableAutoSizing = true;
+                    headerText.fontSizeMin = 14;
+                    headerText.fontSizeMax = 32;
+                    headerText.alignment = TextAlignmentOptions.Center;
+                    
+                    // Add margin/padding so text doesn't touch edges
+                    headerText.margin = new Vector4(10, 8, 10, 8);  // left, top, right, bottom
                 }
+
+                // Set size directly on RectTransform
+                RectTransform headerRect = headerObj.GetComponent<RectTransform>();
+                if (headerRect != null)
+                {
+                    headerRect.sizeDelta = new Vector2(280, 120);  // Match grid cell size
+                }
+
+                // Add LayoutElement to enforce size in layout group
+                LayoutElement layoutElement = headerObj.GetComponent<LayoutElement>();
+                if (layoutElement == null)
+                {
+                    layoutElement = headerObj.AddComponent<LayoutElement>();
+                }
+                layoutElement.preferredWidth = 280;
+                layoutElement.preferredHeight = 120;
+                layoutElement.minHeight = 120;  // Force minimum height
+                layoutElement.flexibleWidth = 0;
+                layoutElement.flexibleHeight = 0;
 
                 categoryHeaders.Add(headerText);
             }
@@ -297,6 +366,33 @@ namespace Cerebrum.Game
                 GameManager.Instance.SetActiveClue(clue, categoryIndex, rowIndex);
             }
 
+            // Find the button that was clicked for animation source
+            ClueButton sourceButton = null;
+            bool foundInMap = clueToButtonMap.TryGetValue(clue, out sourceButton);
+            
+            Debug.Log($"[BoardController] OnClueSelected: useRevealAnimation={useRevealAnimation}, animator={clueRevealAnimator != null}, foundInMap={foundInMap}, sourceButton={sourceButton != null}");
+            
+            if (foundInMap && sourceButton != null)
+            {
+                // Use reveal animation if enabled
+                if (useRevealAnimation && clueRevealAnimator != null)
+                {
+                    RectTransform buttonRect = sourceButton.GetComponent<RectTransform>();
+                    Debug.Log($"[BoardController] Starting reveal animation for clue: {clue.Question.Substring(0, Math.Min(30, clue.Question.Length))}...");
+                    clueRevealAnimator.RevealClue(buttonRect, clue.Question, () =>
+                    {
+                        // After animation, show the overlay for interaction
+                        if (clueOverlay != null)
+                        {
+                            clueOverlay.Show(clue, category.Title);
+                        }
+                    });
+                    return;
+                }
+            }
+
+            // Fallback: show overlay directly without animation
+            Debug.Log("[BoardController] Fallback: showing overlay without animation");
             if (clueOverlay != null)
             {
                 clueOverlay.Show(clue, category.Title);

@@ -31,6 +31,7 @@ namespace Cerebrum.OpenAI
             if (config == null)
             {
                 config = Resources.Load<OpenAIConfig>("OpenAIConfig");
+                Debug.Log($"[OpenAIClient] Loaded config from Resources: {(config != null ? "SUCCESS" : "FAILED")}");
             }
 
             if (config == null)
@@ -40,6 +41,13 @@ namespace Cerebrum.OpenAI
             else if (!config.IsConfigured)
             {
                 Debug.LogWarning("[OpenAIClient] OpenAI API Key not configured. TTS/STT will not work.");
+            }
+            else
+            {
+                string maskedKey = config.ApiKey.Length > 10 
+                    ? config.ApiKey.Substring(0, 7) + "..." + config.ApiKey.Substring(config.ApiKey.Length - 4)
+                    : "***";
+                Debug.Log($"[OpenAIClient] Config loaded. API Key: {maskedKey}, Model: {config.TTSModel}, Voice: {config.TTSVoice}");
             }
         }
 
@@ -70,8 +78,11 @@ namespace Cerebrum.OpenAI
 
             string jsonBody = JsonUtility.ToJson(requestBody);
             byte[] bodyRaw = Encoding.UTF8.GetBytes(jsonBody);
+            
+            string url = config.GetTTSUrl();
+            Debug.Log($"[OpenAIClient] TTS Request to: {url}, Key length: {config.ApiKey?.Length ?? 0}");
 
-            using (UnityWebRequest request = new UnityWebRequest(config.GetTTSUrl(), "POST"))
+            using (UnityWebRequest request = new UnityWebRequest(url, "POST"))
             {
                 request.uploadHandler = new UploadHandlerRaw(bodyRaw);
                 request.downloadHandler = new DownloadHandlerBuffer();
@@ -82,7 +93,8 @@ namespace Cerebrum.OpenAI
 
                 if (request.result != UnityWebRequest.Result.Success)
                 {
-                    Debug.LogError($"[OpenAIClient] TTS Error: {request.error}");
+                    string responseBody = request.downloadHandler?.text ?? "no body";
+                    Debug.LogError($"[OpenAIClient] TTS Error: {request.error}, Response: {responseBody}");
                     onError?.Invoke(request.error);
                     yield break;
                 }

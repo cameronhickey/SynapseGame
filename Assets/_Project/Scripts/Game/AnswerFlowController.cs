@@ -74,6 +74,16 @@ namespace Cerebrum.Game
         {
             if (CurrentState == AnswerFlowState.WaitingForQuestionRead)
             {
+                // Clear any early buzz lockouts when question reading is complete
+                if (playerLockedOut != null)
+                {
+                    for (int i = 0; i < playerLockedOut.Length; i++)
+                    {
+                        playerLockedOut[i] = false;
+                    }
+                    Debug.Log("[AnswerFlow] All early buzz lockouts cleared");
+                }
+                
                 SetState(AnswerFlowState.WaitingForBuzz);
             }
         }
@@ -332,7 +342,12 @@ namespace Cerebrum.Game
                 GameManager.Instance.AwardPoints(CurrentBuzzerPlayerIndex, currentClue.Value);
                 string playerName = GameManager.Instance.Players[CurrentBuzzerPlayerIndex].Name;
                 
-                TTSService.Instance?.SpeakCorrect(playerName);
+                // Use PhrasePlayer for bundled audio instead of generating TTS
+                if (PhrasePlayer.Instance != null)
+                {
+                    PhrasePlayer.Instance.PlayRandomPhraseWithName(
+                        Data.GamePhrases.PhraseCategory.Correct, playerName);
+                }
             }
 
             StartCoroutine(CompleteFlowAfterDelay());
@@ -345,7 +360,11 @@ namespace Cerebrum.Game
                 GameManager.Instance.DeductPoints(CurrentBuzzerPlayerIndex, currentClue.Value);
                 playerLockedOut[CurrentBuzzerPlayerIndex] = true;
                 
-                TTSService.Instance?.SpeakIncorrect();
+                // Use PhrasePlayer for bundled audio instead of generating TTS
+                if (PhrasePlayer.Instance != null)
+                {
+                    PhrasePlayer.Instance.PlayRandomPhrase(Data.GamePhrases.PhraseCategory.Incorrect);
+                }
             }
 
             // Check if any players can still buzz

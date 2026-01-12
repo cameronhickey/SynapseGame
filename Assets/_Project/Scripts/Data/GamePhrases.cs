@@ -197,6 +197,13 @@ namespace Cerebrum.Data
             return AllPhrases.Find(p => p.Id == id);
         }
 
+        public static Phrase GetRandomByCategory(PhraseCategory category)
+        {
+            var phrases = GetByCategory(category);
+            if (phrases.Count == 0) return null;
+            return phrases[UnityEngine.Random.Range(0, phrases.Count)];
+        }
+
         /// <summary>
         /// Returns all phrases that can be pre-generated and bundled with the app.
         /// </summary>

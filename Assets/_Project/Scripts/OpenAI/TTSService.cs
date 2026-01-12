@@ -125,6 +125,21 @@ namespace Cerebrum.OpenAI
                 return;
             }
 
+            // In test mode, use pre-generated test audio
+            if (Game.GameManager.Instance != null && Game.GameManager.Instance.IsTestMode)
+            {
+                if (TestGameAudioLoader.Instance != null)
+                {
+                    var testClip = TestGameAudioLoader.Instance.GetClueAudio(clue, Game.GameManager.Instance.CurrentBoard);
+                    if (testClip != null)
+                    {
+                        Debug.Log("[TTSService] Playing test game audio");
+                        PlayClip(testClip, onComplete);
+                        return;
+                    }
+                }
+            }
+
             // Try to use cached audio first
             if (TTSCache.Instance != null && TTSCache.Instance.TryGetCachedAudio(clue, out AudioClip cachedClip))
             {

@@ -110,7 +110,7 @@ namespace Cerebrum.Data
                     return null;
                 }
 
-                string categoryName = lines[0];
+                string categoryName = SanitizeText(lines[0]);
                 Category category = new Category(categoryName);
 
                 // Lines 1-5 contain clues for values 200, 400, 600, 800, 1000
@@ -141,8 +141,8 @@ namespace Cerebrum.Data
 
             if (!int.TryParse(parts[0], out int value)) return null;
 
-            string answer = parts[1].Replace("\\|", "|");
-            string question = parts[2].Replace("\\|", "|");
+            string answer = SanitizeText(parts[1].Replace("\\|", "|"));
+            string question = SanitizeText(parts[2].Replace("\\|", "|"));
 
             if (string.IsNullOrWhiteSpace(answer) || string.IsNullOrWhiteSpace(question))
             {
@@ -150,6 +150,21 @@ namespace Cerebrum.Data
             }
 
             return new Clue(answer, question, value);
+        }
+
+        private string SanitizeText(string text)
+        {
+            if (string.IsNullOrEmpty(text)) return text;
+            
+            // Remove escape characters that shouldn't be displayed
+            text = text.Replace("\\\"", "\"");  // \" -> "
+            text = text.Replace("\\'", "'");    // \' -> '
+            text = text.Replace("\\\\", "\\");  // \\ -> \
+            text = text.Replace("\\n", " ");    // \n -> space
+            text = text.Replace("\\r", "");     // \r -> remove
+            text = text.Replace("\\t", " ");    // \t -> space
+            
+            return text.Trim();
         }
     }
 }

@@ -9,7 +9,7 @@ namespace Cerebrum.Game
     {
         [SerializeField] private BoardController boardController;
         [SerializeField] private bool useRealData = true;
-        [SerializeField] private bool showPreloadPrompt = true;
+        [SerializeField] private bool showPreloadPrompt = false; // Disabled - HomeView now handles preloading
 
         private PreloadPromptUI preloadPrompt;
         private Board pendingBoard;
@@ -28,6 +28,18 @@ namespace Cerebrum.Game
 
         private void InitializeWithRealData()
         {
+            // First check if HomeView already preloaded a board
+            Board board = GameManager.Instance?.CurrentBoard;
+            
+            if (board != null)
+            {
+                Debug.Log("[GameSceneController] Using preloaded board from HomeView (audio already cached)");
+                // Pass false to skip re-caching since HomeView already cached
+                InitializeBoardAndStart(board, false);
+                return;
+            }
+            
+            // Fallback: load a new board if none was preloaded
             if (OptimizedCategoryLoader.Instance == null || !OptimizedCategoryLoader.Instance.IsLoaded)
             {
                 Debug.LogError("[GameSceneController] OptimizedCategoryLoader not ready! Run 'Cerebrum > Preprocess Categories' first.");
@@ -36,7 +48,7 @@ namespace Cerebrum.Game
                 return;
             }
 
-            Board board = OptimizedCategoryLoader.Instance.LoadRandomBoard(6);
+            board = OptimizedCategoryLoader.Instance.LoadRandomBoard(6);
 
             if (board == null)
             {

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea68b0da520c9477e84c243c18821be6, type: 3}
   m_Name: OpenAIConfig
   m_EditorClassIdentifier: Cerebrum.Runtime::Cerebrum.OpenAI.OpenAIConfig
-  ApiKey: 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
+  ApiKey: REDACTED
   TTSModel: tts-1
   TTSVoice: nova
   TTSSpeed: 1

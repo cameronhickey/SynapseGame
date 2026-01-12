@@ -2,6 +2,7 @@ using UnityEngine;
 using Cerebrum.Data;
 using Cerebrum.Game;
 using Cerebrum.OpenAI;
+using Cerebrum.UI;
 
 namespace Cerebrum.Core
 {
@@ -15,6 +16,22 @@ namespace Cerebrum.Core
 
         private static void CreatePersistentManagers()
         {
+            // Create DebugConsole first so we can see all logs
+            if (DebugConsole.Instance == null)
+            {
+                GameObject debugObj = new GameObject("[DebugConsole]");
+                debugObj.AddComponent<DebugConsole>();
+                DontDestroyOnLoad(debugObj);
+            }
+
+            // FontManager early so fonts are ready
+            if (FontManager.Instance == null)
+            {
+                GameObject fontObj = new GameObject("[FontManager]");
+                fontObj.AddComponent<FontManager>();
+                DontDestroyOnLoad(fontObj);
+            }
+
             if (GameManager.Instance == null)
             {
                 GameObject gameManagerObj = new GameObject("[GameManager]");
@@ -69,6 +86,27 @@ namespace Cerebrum.Core
                 GameObject judgeObj = new GameObject("[AnswerJudge]");
                 judgeObj.AddComponent<AnswerJudge>();
                 DontDestroyOnLoad(judgeObj);
+            }
+
+            if (BundledPhraseLoader.Instance == null)
+            {
+                GameObject phraseObj = new GameObject("[BundledPhraseLoader]");
+                phraseObj.AddComponent<BundledPhraseLoader>();
+                DontDestroyOnLoad(phraseObj);
+            }
+
+            if (PhraseTTSCache.Instance == null)
+            {
+                GameObject phraseCacheObj = new GameObject("[PhraseTTSCache]");
+                phraseCacheObj.AddComponent<PhraseTTSCache>();
+                DontDestroyOnLoad(phraseCacheObj);
+            }
+
+            if (PhrasePlayer.Instance == null)
+            {
+                GameObject playerObj = new GameObject("[PhrasePlayer]");
+                playerObj.AddComponent<PhrasePlayer>();
+                DontDestroyOnLoad(playerObj);
             }
         }
     }

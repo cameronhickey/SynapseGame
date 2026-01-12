@@ -19,6 +19,7 @@ namespace Cerebrum.Game
         public Clue ActiveClue;
         public int ActiveCategoryIndex;
         public int ActiveRowIndex;
+        public bool IsTestMode;
 
         private void Awake()
         {
@@ -100,6 +101,24 @@ namespace Cerebrum.Game
         public void SetBoard(Board board)
         {
             CurrentBoard = board;
+        }
+
+        public void SetCurrentBoard(Board board)
+        {
+            CurrentBoard = board;
+        }
+
+        public void SetPlayerNames(List<string> names)
+        {
+            if (names == null || names.Count == 0) return;
+            
+            Players.Clear();
+            foreach (string name in names)
+            {
+                Players.Add(new Player(name));
+            }
+            CurrentChooserIndex = 0;
+            Debug.Log($"[GameManager] Players set: {string.Join(", ", names)}");
         }
 
         public bool IsRoundComplete()

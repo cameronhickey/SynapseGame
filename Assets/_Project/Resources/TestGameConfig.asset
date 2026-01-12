@@ -1,0 +1,143 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ff1ae290761427994498ca181bd7e4, type: 3}
+  m_Name: TestGameConfig
+  m_EditorClassIdentifier: Cerebrum.Runtime::Cerebrum.Data.TestGameConfig
+  playerNames:
+  - Ken
+  - Amy
+  - Alex
+  categories:
+  - title: PERFUME & COLOGNE
+    clues:
+    - value: 200
+      question: Designer Liz' last name, or her fragrance for men
+      answer: Claiborne
+    - value: 400
+      question: Retailers say this designer's Eternity for Men & Obsession for Men
+        are also worn by women
+      answer: Calvin Klein
+    - value: 600
+      question: We assume Jaclyn Smith like this state because her cologne is named
+        for it
+      answer: California
+    - value: 800
+      question: As far as we know, she's the only daughter of a Cubist who has a
+        perfume named for herself
+      answer: Paloma Picasso
+    - value: 1000
+      question: His perfume, like his costumes for Carol Burnett & Cher, is "for
+        the woman who dares to be noticed\"
+      answer: Bob Mackie
+  - title: COMETS & ASTEROIDS
+    clues:
+    - value: 200
+      question: Like atoms, comets also have this distinct inner core
+      answer: nucleus
+    - value: 400
+      question: Mainly composed of dust & ice, comets have been called "dirty" ones
+        of these
+      answer: snowball
+    - value: 600
+      question: Most asteroids are found between the orbits of these two planets
+      answer: Mars & Jupiter
+    - value: 800
+      question: Large comets often travel through space within a cloud of this gas
+      answer: hydrogen
+    - value: 1000
+      question: In 1973 Skylab astronauts had a chance to study this comet, which
+        appears every 75,000 years
+      answer: Kohoutek
+  - title: CINEMATIC SPECTERS
+    clues:
+    - value: 200
+      question: The director of this 1988 Christmas film said he wanted the wires
+        that lifted Carol Kane to be visible
+      answer: Scrooged
+    - value: 400
+      question: Geena Davis & Alex Baldwin haunted their own house in this 1988 hit
+        film
+      answer: Beetlejuice
+    - value: 600
+      question: Seen briefly in "Ghostbusters", this little green guy is featured
+        in the TV cartoon series
+      answer: Slimer
+    - value: 800
+      question: Steven Spielberg co-wrote & co-produced this 1st of 3 films about
+        the Freeling clan's ghost trouble
+      answer: Poltergeist
+    - value: 1000
+      question: Her list of roles includes a mermaid, a cave woman & in 1988's "High
+        Spirits", a ghost
+      answer: Daryl Hannah
+  - title: PEOPLE WORKING OUT SOME ISSUES
+    clues:
+    - value: 200
+      question: Bort breaks out the big guns & tries to make 'em bigger, doing dips
+        to hit these muscles with 3 heads at the back of the upper arm
+      answer: the triceps
+    - value: 400
+      question: Tiffany says she's going on a fun run of exactly 3.1068559 miles,
+        or this many kilometers... or do a triathlon! Y'know, either/or!
+      answer: a 5K
+    - value: 600
+      question: Kaden's gonna smoke these muscles highlighted here with some pull-downs
+        & the traditional pull-ups & chin-ups, bro
+      answer: lats
+    - value: 800
+      question: Maria lifts the bar off the floor & then pushes it overhead to do
+        the 2 movements in this Olympic weightlifting event
+      answer: the clean & jerk
+    - value: 1000
+      question: This 5-letter type of exercise for your pelvic floor can help Horst
+        with incontinence & other things (sorry to out you on that, Horst)
+      answer: kegel
+  - title: HOW NOW, DOW JONES 30 SYMBOL
+    clues:
+    - value: 200
+      question: BA isn't Bank of America, but speaking plane-ly, is this company
+      answer: Boeing
+    - value: 400
+      question: SHW is this brand that paints the town red (or another color of your
+        choice)
+      answer: Sherwin-Williams
+    - value: 600
+      question: KO is a knockout of a symbol for this brand that stays liquid
+      answer: Coca-Cola
+    - value: 800
+      question: TRV means this company with assurances of insurance
+      answer: Travelers
+    - value: 1000
+      question: HON is this company that's into aerospace & also industrial automation,
+        which doesn't sound like a scary pairing at all
+      answer: Honeywell
+  - title: MARK TWAIN QUOTES
+    clues:
+    - value: 200
+      question: According to Twain this breeds children as well as contempt
+      answer: familiarity
+    - value: 400
+      question: \"I'll risk $40 he can outjump any" one of these "in Calaveras County\"
+      answer: a frog
+    - value: 600
+      question: In an 1897 cable from London to the Associated Press, Twain said,
+        "The reports of my death are" this
+      answer: \"greatly exaggerated\"
+    - value: 800
+      question: \"The wise man saith, 'Put all your eggs in the one basket and...'
+        " make sure you do this
+      answer: \"watch that basket\"
+    - value: 1000
+      question: In "Life on the Mississippi" a man told of his home equipped with
+        "all the modern" ones of these
+      answer: inconveniences
+  audioBasePath: Audio/TestGame

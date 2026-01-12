@@ -13,7 +13,7 @@ namespace Cerebrum.OpenAI
     {
         public static BundledPhraseLoader Instance { get; private set; }
 
-        private const string PHRASE_RESOURCE_PATH = "Audio/Phrases";
+        private const string PHRASE_RESOURCE_PATH = "Audio/Phrases"; // Unity finds this in _Project/Resources/Audio/Phrases
 
         private Dictionary<string, AudioClip> loadedPhrases = new Dictionary<string, AudioClip>();
         private bool isLoaded = false;
