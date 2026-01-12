@@ -202,11 +202,7 @@ namespace Cerebrum.UI
             bool speechComplete = false;
             float speechTimeout = 5f;
             
-            if (TTSCache.Instance != null)
-            {
-                TTSCache.Instance.SpeakCategoryName(categoryName, () => speechComplete = true);
-            }
-            else if (TTSService.Instance != null)
+            if (TTSService.Instance != null)
             {
                 TTSService.Instance.Speak(categoryName, () => speechComplete = true);
             }

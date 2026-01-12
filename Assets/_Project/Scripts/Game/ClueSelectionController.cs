@@ -148,7 +148,7 @@ namespace Cerebrum.Game
             string transcript = null;
             bool transcriptionDone = false;
 
-            STTService.Instance?.TranscribeLive(
+            STTService.Instance?.RecordAndTranscribe(
                 (result) => { transcript = result; transcriptionDone = true; },
                 (error) => { Debug.LogError($"[ClueSelection] STT error: {error}"); transcriptionDone = true; }
             );

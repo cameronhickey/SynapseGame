@@ -159,7 +159,7 @@ namespace Cerebrum.OpenAI
                 }
 
                 // Generate via TTS
-                TTSService.Instance?.GenerateAudio(name, (clip) =>
+                OpenAIClient.Instance?.PostTTS(name, (clip) =>
                 {
                     if (clip != null)
                     {
@@ -172,6 +172,15 @@ namespace Cerebrum.OpenAI
                     {
                         timer.Stop();
                         Debug.Log($"<color=green>[PhraseTTSCache]</color> Player names cached in {timer.ElapsedMilliseconds}ms");
+                        onComplete?.Invoke();
+                    }
+                }, (error) =>
+                {
+                    Debug.LogWarning($"[PhraseTTSCache] TTS error for name: {error}");
+                    completed++;
+                    if (completed >= total)
+                    {
+                        timer.Stop();
                         onComplete?.Invoke();
                     }
                 });
@@ -202,9 +211,13 @@ namespace Cerebrum.OpenAI
             bool done = false;
             AudioClip result = null;
 
-            TTSService.Instance?.GenerateAudio(request.Text, (clip) =>
+            OpenAIClient.Instance?.PostTTS(request.Text, (clip) =>
             {
                 result = clip;
+                done = true;
+            }, (error) =>
+            {
+                Debug.LogWarning($"[PhraseTTSCache] TTS error: {error}");
                 done = true;
             });
 
@@ -268,9 +281,9 @@ namespace Cerebrum.OpenAI
             }
 
             // Generate via TTS
-            if (TTSService.Instance != null)
+            if (OpenAIClient.Instance != null)
             {
-                TTSService.Instance.GenerateAudio(playerName, (clip) =>
+                OpenAIClient.Instance.PostTTS(playerName, (clip) =>
                 {
                     if (clip != null)
                     {
@@ -282,6 +295,10 @@ namespace Cerebrum.OpenAI
                             SaveToDisk(key, clip);
                         }
                     }
+                    onComplete?.Invoke();
+                }, (error) =>
+                {
+                    Debug.LogWarning($"[PhraseTTSCache] TTS error: {error}");
                     onComplete?.Invoke();
                 });
             }

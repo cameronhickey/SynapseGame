@@ -232,7 +232,8 @@ namespace Cerebrum.OpenAI
             else
             {
                 // No cached phrase, just speak via TTSService
-                TTSService.Instance?.SpeakRevealAnswer(answer, onComplete);
+                TTSService.Instance?.SpeakRevealAnswer(answer);
+                onComplete?.Invoke();
             }
         }
 
