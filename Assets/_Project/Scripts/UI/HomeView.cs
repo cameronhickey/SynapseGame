@@ -629,7 +629,7 @@ namespace Cerebrum.UI
                 }
             }
             
-            if (loadingScreenBar != null) loadingScreenBar.value = 0.85f;
+            if (loadingScreenBar != null) loadingScreenBar.value = 0.8f;
             if (loadingScreenText != null) loadingScreenText.text = "Loading player audio...";
             
             // Cache player name phrases
@@ -645,6 +645,32 @@ namespace Cerebrum.UI
                     elapsed += Time.deltaTime;
                     yield return null;
                 }
+            }
+            
+            if (loadingScreenBar != null) loadingScreenBar.value = 0.85f;
+            if (loadingScreenText != null) loadingScreenText.text = "Generating personalized phrases...";
+            
+            // Generate integrated name phrases (sounds more natural)
+            if (IntegratedPhraseCache.Instance == null)
+            {
+                var cacheObj = new GameObject("[IntegratedPhraseCache]");
+                cacheObj.AddComponent<IntegratedPhraseCache>();
+                DontDestroyOnLoad(cacheObj);
+            }
+            
+            bool integratedComplete = false;
+            IntegratedPhraseCache.Instance.OnGenerationProgress += (progress) =>
+            {
+                if (loadingScreenBar != null) loadingScreenBar.value = 0.85f + progress * 0.1f;
+            };
+            IntegratedPhraseCache.Instance.GenerateForPlayers(playerNames, () => integratedComplete = true);
+            
+            float intTimeout = 120f; // Longer timeout for TTS generation
+            float intElapsed = 0f;
+            while (!integratedComplete && intElapsed < intTimeout)
+            {
+                intElapsed += Time.deltaTime;
+                yield return null;
             }
             
             if (loadingScreenBar != null) loadingScreenBar.value = 1f;

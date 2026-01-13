@@ -68,6 +68,17 @@ namespace Cerebrum.OpenAI
                 }
             }
 
+            // Load integrated name phrases for test players
+            if (IntegratedPhraseCache.Instance == null)
+            {
+                var cacheObj = new GameObject("[IntegratedPhraseCache]");
+                cacheObj.AddComponent<IntegratedPhraseCache>();
+            }
+            IntegratedPhraseCache.Instance.LoadTestGamePhrases(config.playerNames);
+
+            // Load player name audio for buzz-in
+            LoadPlayerNameAudio(config.playerNames);
+
             isLoaded = true;
             Debug.Log($"[TestGameAudioLoader] Loaded {audioCache.Count} audio clips for test game");
         }
@@ -145,6 +156,32 @@ namespace Cerebrum.OpenAI
                 }
             }
             return null;
+        }
+
+        private void LoadPlayerNameAudio(string[] playerNames)
+        {
+            // Ensure PhraseTTSCache exists
+            if (PhraseTTSCache.Instance == null)
+            {
+                var cacheObj = new GameObject("[PhraseTTSCache]");
+                cacheObj.AddComponent<PhraseTTSCache>();
+                DontDestroyOnLoad(cacheObj);
+            }
+
+            int loaded = 0;
+            foreach (var playerName in playerNames)
+            {
+                string key = $"player_{playerName.ToLowerInvariant().Replace(" ", "_")}";
+                string resourcePath = $"Audio/TestGame/PlayerNames/{key}";
+                var clip = Resources.Load<AudioClip>(resourcePath);
+                if (clip != null)
+                {
+                    // Add to PhraseTTSCache's player name cache
+                    PhraseTTSCache.Instance.AddPlayerNameToCache(playerName, clip);
+                    loaded++;
+                }
+            }
+            Debug.Log($"[TestGameAudioLoader] Loaded {loaded} player name audio clips");
         }
     }
 }

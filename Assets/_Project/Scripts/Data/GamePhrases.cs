@@ -26,21 +26,79 @@ namespace Cerebrum.Data
             public PhraseCategory Category { get; set; }
             public bool NamePrefix { get; set; }  // Play [Name] before this phrase
             public bool NameSuffix { get; set; }  // Play [Name] after this phrase
+            public bool IntegratedName { get; set; }  // Name is part of the text, use {name} placeholder
 
             /// <summary>
             /// True if this phrase can be pre-generated and bundled with the app.
             /// False if it requires runtime data (player names, dynamic text).
             /// </summary>
-            public bool IsBundleable => !NamePrefix && !NameSuffix;
+            public bool IsBundleable => !NamePrefix && !NameSuffix && !IntegratedName;
 
-            public Phrase(string id, string text, PhraseCategory category, bool namePrefix = false, bool nameSuffix = false)
+            /// <summary>
+            /// Returns the text with the player name substituted in.
+            /// </summary>
+            public string GetTextWithName(string playerName)
+            {
+                return Text.Replace("{name}", playerName);
+            }
+
+            public Phrase(string id, string text, PhraseCategory category, bool namePrefix = false, bool nameSuffix = false, bool integratedName = false)
             {
                 Id = id;
                 Text = text;
                 Category = category;
                 NamePrefix = namePrefix;
                 NameSuffix = nameSuffix;
+                IntegratedName = integratedName;
             }
+        }
+
+        /// <summary>
+        /// Phrases with integrated player names - generated at runtime with actual names.
+        /// These sound more natural than concatenating separate name + phrase clips.
+        /// </summary>
+        public static readonly List<Phrase> IntegratedNamePhrases = new List<Phrase>
+        {
+            // ===== CORRECT ANSWER (integrated) =====
+            new Phrase("correct_int_1", "That's right, {name}!", PhraseCategory.Correct, integratedName: true),
+            new Phrase("correct_int_2", "Correct, {name}!", PhraseCategory.Correct, integratedName: true),
+            new Phrase("correct_int_3", "Well done, {name}!", PhraseCategory.Correct, integratedName: true),
+            new Phrase("correct_int_4", "Nice job, {name}!", PhraseCategory.Correct, integratedName: true),
+
+            // ===== INCORRECT ANSWER (integrated) =====
+            new Phrase("wrong_int_1", "I'm sorry {name}, that's not it.", PhraseCategory.Incorrect, integratedName: true),
+            new Phrase("wrong_int_2", "Not quite, {name}.", PhraseCategory.Incorrect, integratedName: true),
+            new Phrase("wrong_int_3", "Sorry {name}, no.", PhraseCategory.Incorrect, integratedName: true),
+            new Phrase("wrong_int_4", "Ooh, sorry {name}.", PhraseCategory.Incorrect, integratedName: true),
+
+            // ===== SELECTION PROMPTS (integrated) =====
+            new Phrase("select_int_1", "{name}, you have control of the board.", PhraseCategory.SelectCategory, integratedName: true),
+            new Phrase("select_int_2", "{name}, pick a category.", PhraseCategory.SelectCategory, integratedName: true),
+            new Phrase("select_int_3", "{name}, your selection.", PhraseCategory.SelectCategory, integratedName: true),
+            new Phrase("select_int_4", "Back to you, {name}.", PhraseCategory.SelectCategory, integratedName: true),
+            new Phrase("select_int_5", "{name}, you're up.", PhraseCategory.SelectCategory, integratedName: true),
+
+            // ===== FIRST PICK (integrated) =====
+            new Phrase("first_int_1", "{name}, you get to pick the first category.", PhraseCategory.SelectCategoryFirst, integratedName: true),
+            new Phrase("first_int_2", "{name}, you have first pick.", PhraseCategory.SelectCategoryFirst, integratedName: true),
+            new Phrase("first_int_3", "{name}, start us off.", PhraseCategory.SelectCategoryFirst, integratedName: true),
+
+            // ===== WINNER (integrated) =====
+            new Phrase("winner_int_1", "And our winner is {name}!", PhraseCategory.GameFlow, integratedName: true),
+            new Phrase("winner_int_2", "Congratulations, {name}!", PhraseCategory.GameFlow, integratedName: true),
+            new Phrase("winner_int_3", "{name} takes the lead!", PhraseCategory.GameFlow, integratedName: true),
+        };
+
+        public static List<Phrase> GetIntegratedPhrasesByCategory(PhraseCategory category)
+        {
+            return IntegratedNamePhrases.FindAll(p => p.Category == category);
+        }
+
+        public static Phrase GetRandomIntegratedPhrase(PhraseCategory category)
+        {
+            var phrases = GetIntegratedPhrasesByCategory(category);
+            if (phrases.Count == 0) return null;
+            return phrases[UnityEngine.Random.Range(0, phrases.Count)];
         }
 
         public static readonly List<Phrase> AllPhrases = new List<Phrase>

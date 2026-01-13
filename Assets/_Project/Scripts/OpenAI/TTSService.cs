@@ -153,7 +153,7 @@ namespace Cerebrum.OpenAI
             Speak(clue.Question, onComplete);
         }
 
-        private void PlayClip(AudioClip clip, Action onComplete = null)
+        public void PlayClip(AudioClip clip, Action onComplete = null)
         {
             if (currentSpeechCoroutine != null)
             {
@@ -200,6 +200,37 @@ namespace Cerebrum.OpenAI
         public void SpeakRevealAnswer(string answer)
         {
             Speak($"The correct response was: {answer}");
+        }
+
+        /// <summary>
+        /// Speak the answer for a clue, using cached audio if available.
+        /// </summary>
+        public void SpeakAnswer(Clue clue, Action onComplete = null)
+        {
+            if (clue == null || string.IsNullOrEmpty(clue.Answer))
+            {
+                onComplete?.Invoke();
+                return;
+            }
+
+            // In test mode, use pre-generated test audio
+            if (Game.GameManager.Instance != null && Game.GameManager.Instance.IsTestMode)
+            {
+                if (TestGameAudioLoader.Instance != null)
+                {
+                    var testClip = TestGameAudioLoader.Instance.GetAnswerAudio(clue, Game.GameManager.Instance.CurrentBoard);
+                    if (testClip != null)
+                    {
+                        Debug.Log("[TTSService] Playing cached answer audio");
+                        PlayClip(testClip, onComplete);
+                        return;
+                    }
+                }
+            }
+
+            // Fall back to dynamic TTS
+            Debug.Log("[TTSService] No cached answer audio, generating dynamically...");
+            Speak(clue.Answer, onComplete);
         }
 
         public void SpeakBuzzIn(string playerName, Action onComplete = null)

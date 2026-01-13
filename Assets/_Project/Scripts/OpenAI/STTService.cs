@@ -104,5 +104,35 @@ namespace Cerebrum.OpenAI
                 MicrophoneRecorder.Instance.StopRecording();
             }
         }
+
+        /// <summary>
+        /// Records with auto-stop (detects silence after speech) and transcribes
+        /// </summary>
+        public void AutoRecordAndTranscribe(Action<string> onSuccess = null, Action<string> onError = null)
+        {
+            if (MicrophoneRecorder.Instance == null)
+            {
+                onError?.Invoke("MicrophoneRecorder not available");
+                return;
+            }
+
+            if (!MicrophoneRecorder.Instance.HasMicrophone)
+            {
+                onError?.Invoke("No microphone available");
+                return;
+            }
+
+            MicrophoneRecorder.Instance.StartAutoRecording((audioData) =>
+            {
+                if (audioData != null && audioData.Length > 0)
+                {
+                    Transcribe(audioData, onSuccess, onError);
+                }
+                else
+                {
+                    onError?.Invoke("No audio recorded");
+                }
+            });
+        }
     }
 }

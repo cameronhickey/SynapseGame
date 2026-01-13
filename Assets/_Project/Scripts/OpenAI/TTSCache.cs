@@ -20,7 +20,6 @@ namespace Cerebrum.OpenAI
 
         public event Action<float> OnCacheProgress;
         public event Action OnCacheComplete;
-        public event Action<Clue> OnClueReady;
 
         private Dictionary<string, AudioClip> audioCache = new Dictionary<string, AudioClip>();
         private Dictionary<string, Clue> keyToClue = new Dictionary<string, Clue>();
@@ -158,9 +157,6 @@ namespace Cerebrum.OpenAI
             if (clip != null)
             {
                 audioCache[request.Key] = clip;
-                
-                // Notify that this clue is ready
-                OnClueReady?.Invoke(request.Clue);
             }
 
             CachedClues++;

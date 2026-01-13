@@ -31,6 +31,7 @@ namespace Cerebrum.UI
         private Clue currentClue;
         private string currentCategory;
         private bool isReadingQuestion;
+        private bool someoneAnsweredCorrectly;
         private AnswerFlowController answerFlow;
 
         private void Awake()
@@ -64,6 +65,13 @@ namespace Cerebrum.UI
                 answerFlow.OnTranscriptReady += OnTranscriptReady;
                 answerFlow.OnJudgmentReady += OnJudgmentReady;
                 answerFlow.OnFlowComplete += OnAnswerFlowComplete;
+            }
+
+            // Create question timer bar if it doesn't exist
+            if (FindFirstObjectByType<QuestionTimerBar>() == null)
+            {
+                GameObject timerBarObj = new GameObject("QuestionTimerBar");
+                timerBarObj.AddComponent<QuestionTimerBar>();
             }
         }
 
@@ -203,6 +211,37 @@ namespace Cerebrum.UI
 
         public bool IsReadingQuestion => isReadingQuestion;
 
+        /// <summary>
+        /// Start the answer flow (audio, buzzing, etc.) without showing the overlay UI.
+        /// Used when the ClueRevealAnimator is handling the visual display.
+        /// </summary>
+        public void StartFlowOnly(Clue clue, string categoryTitle)
+        {
+            currentClue = clue;
+            currentCategory = categoryTitle;
+            isReadingQuestion = false;
+            someoneAnsweredCorrectly = false;
+
+            Debug.Log($"[ClueOverlay] Starting flow only (no UI): {categoryTitle} for ${clue.Value}");
+
+            // Start answer flow
+            if (enableAnswerFlow && answerFlow != null)
+            {
+                answerFlow.StartFlow(clue);
+            }
+
+            // Start TTS to read the question
+            if (enableTTS && TTSService.Instance != null)
+            {
+                SpeakQuestion();
+            }
+            else if (enableAnswerFlow && answerFlow != null)
+            {
+                // If no TTS, immediately mark question as read
+                answerFlow.OnQuestionReadComplete();
+            }
+        }
+
         public void Hide()
         {
             if (overlayPanel != null)
@@ -238,7 +277,7 @@ namespace Cerebrum.UI
             if (GameManager.Instance != null)
             {
                 GameManager.Instance.ClearActiveClue();
-                GameManager.Instance.RotateChooser();
+                // Control stays with correct answerer (set by AwardPoints) or current chooser if no one got it
             }
         }
 
@@ -289,10 +328,18 @@ namespace Cerebrum.UI
         {
             if (result.IsCorrect)
             {
+                someoneAnsweredCorrectly = true;
                 SetStatus("CORRECT!");
                 if (answerText != null)
                 {
                     answerText.color = new Color(0.5f, 1f, 0.5f);
+                }
+                
+                // Immediately show answer on the animated card
+                var clueAnimator = FindFirstObjectByType<ClueRevealAnimator>();
+                if (clueAnimator != null && clueAnimator.IsShowing && currentClue != null)
+                {
+                    clueAnimator.ShowAnswerText(currentClue.Answer);
                 }
             }
             else
@@ -304,7 +351,7 @@ namespace Cerebrum.UI
                 }
             }
 
-            // Show the correct answer
+            // Show the correct answer on overlay (for fallback)
             if (answerText != null && currentClue != null)
             {
                 answerText.text = $"Correct: {currentClue.Answer}";
@@ -319,8 +366,79 @@ namespace Cerebrum.UI
 
         private void OnAnswerFlowComplete()
         {
-            // Auto-close after flow completes
-            OnBackToBoardClicked();
+            Debug.Log($"[ClueOverlay] Answer flow complete, someoneCorrect={someoneAnsweredCorrectly}");
+            
+            // Find the animator to show answer and animate back
+            var clueAnimator = FindFirstObjectByType<ClueRevealAnimator>();
+            if (clueAnimator != null && clueAnimator.IsShowing && currentClue != null)
+            {
+                if (someoneAnsweredCorrectly)
+                {
+                    // Someone got it right - answer already shown in OnJudgmentReady
+                    // Just dismiss the card now
+                    clueAnimator.DismissCard(() =>
+                    {
+                        OnBackToBoardClicked();
+                    });
+                }
+                else
+                {
+                    // Nobody got it - show answer immediately, then speak while visible
+                    clueAnimator.ShowAnswerText(currentClue.Answer);
+                    
+                    // Use PhrasePlayer for pre-recorded intro, then cached answer audio
+                    var phrasePlayer = FindFirstObjectByType<PhrasePlayer>();
+                    if (phrasePlayer != null)
+                    {
+                        // Play intro phrase ("The correct answer was...")
+                        phrasePlayer.PlayRevealAnswerIntro(() =>
+                        {
+                            // Then play cached answer audio
+                            if (TTSService.Instance != null)
+                            {
+                                TTSService.Instance.SpeakAnswer(currentClue, () =>
+                                {
+                                    clueAnimator.DismissCard(() =>
+                                    {
+                                        OnBackToBoardClicked();
+                                    });
+                                });
+                            }
+                            else
+                            {
+                                clueAnimator.DismissCard(() =>
+                                {
+                                    OnBackToBoardClicked();
+                                });
+                            }
+                        });
+                    }
+                    else if (enableTTS && TTSService.Instance != null)
+                    {
+                        // Fallback: use SpeakAnswer which checks for cached audio
+                        TTSService.Instance.SpeakAnswer(currentClue, () =>
+                        {
+                            clueAnimator.DismissCard(() =>
+                            {
+                                OnBackToBoardClicked();
+                            });
+                        });
+                    }
+                    else
+                    {
+                        // No audio, just dismiss
+                        clueAnimator.DismissCard(() =>
+                        {
+                            OnBackToBoardClicked();
+                        });
+                    }
+                }
+            }
+            else
+            {
+                // Fallback: just close normally
+                OnBackToBoardClicked();
+            }
         }
 
         private void OnDestroy()

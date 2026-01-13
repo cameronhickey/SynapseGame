@@ -94,8 +94,8 @@ namespace Cerebrum.Game
         {
             if (boardController != null)
             {
-                // Tell board controller whether to use reveal animation
-                boardController.SetUseRevealAnimation(preloadAudio);
+                // Always enable reveal animation (audio is preloaded before game starts)
+                boardController.SetUseRevealAnimation(true);
                 boardController.InitializeWithBoard(board);
             }
 
@@ -109,7 +109,62 @@ namespace Cerebrum.Game
                 });
             }
 
+            // Set up ClueSelectionController and start listening for first pick
+            SetupClueSelection(board);
+
             Debug.Log($"[GameSceneController] Game initialized (preload: {preloadAudio})");
+        }
+
+        private void SetupClueSelection(Board board)
+        {
+            // Ensure ClueSelectionController exists
+            if (ClueSelectionController.Instance == null)
+            {
+                GameObject selectionObj = new GameObject("[ClueSelectionController]");
+                selectionObj.AddComponent<ClueSelectionController>();
+            }
+
+            // Set the board and subscribe to events
+            ClueSelectionController.Instance.SetBoard(board);
+            ClueSelectionController.Instance.OnClueSelected += OnVoiceClueSelected;
+            ClueSelectionController.Instance.OnSelectionCancelled += OnVoiceSelectionCancelled;
+
+            // Start the first selection prompt after a short delay
+            StartCoroutine(StartFirstSelectionAfterDelay());
+        }
+
+        private System.Collections.IEnumerator StartFirstSelectionAfterDelay()
+        {
+            // Wait a moment for the board to render
+            yield return new WaitForSeconds(1.0f);
+            
+            ClueSelectionController.Instance?.StartSelection();
+        }
+
+        private void OnVoiceClueSelected(int categoryIndex, int rowIndex)
+        {
+            Debug.Log($"[GameSceneController] Voice selected: category {categoryIndex}, row {rowIndex}");
+            
+            // Trigger the clue selection on the board
+            if (boardController != null)
+            {
+                boardController.SelectClueByIndex(categoryIndex, rowIndex);
+            }
+        }
+
+        private void OnVoiceSelectionCancelled()
+        {
+            Debug.Log("[GameSceneController] Voice selection cancelled or timed out");
+            // Could retry or let user click manually
+        }
+
+        private void OnDestroy()
+        {
+            if (ClueSelectionController.Instance != null)
+            {
+                ClueSelectionController.Instance.OnClueSelected -= OnVoiceClueSelected;
+                ClueSelectionController.Instance.OnSelectionCancelled -= OnVoiceSelectionCancelled;
+            }
         }
 
         private PreloadPromptUI CreatePreloadPromptUI()

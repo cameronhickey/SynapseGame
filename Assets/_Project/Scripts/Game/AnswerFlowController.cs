@@ -23,6 +23,7 @@ namespace Cerebrum.Game
         public static AnswerFlowController Instance { get; private set; }
 
         [Header("Timing")]
+        [SerializeField] private float questionTimeSeconds = 10f;
         [SerializeField] private float answerTimeSeconds = 5f;
         [SerializeField] private float earlyBuzzLockoutMs = 750f;
         [SerializeField] private float resultDisplaySeconds = 2f;
@@ -42,10 +43,19 @@ namespace Cerebrum.Game
         public event Action<string> OnTranscriptReady;
         public event Action<JudgeResult> OnJudgmentReady;
         public event Action OnFlowComplete;
+        public event Action<float> OnQuestionTimerUpdate; // 0-1 progress (1 = full, 0 = expired)
+        public event Action OnQuestionTimerExpired;
+        public event Action<float> OnResponseTimerUpdate; // 0-1 progress for player response time
+        public event Action OnResponseTimerExpired;
 
         private Clue currentClue;
         private bool[] playerLockedOut;
         private float answerTimer;
+        private float questionTimer;
+        private float questionTimeRemaining;
+        private bool questionTimerPaused;
+        private Coroutine questionTimerCoroutine;
+        private Coroutine responseTimerCoroutine;
 
         private void Awake()
         {
@@ -85,6 +95,126 @@ namespace Cerebrum.Game
                 }
                 
                 SetState(AnswerFlowState.WaitingForBuzz);
+                
+                // Start the question timer
+                StartQuestionTimer();
+            }
+        }
+
+        private void StartQuestionTimer()
+        {
+            if (questionTimerCoroutine != null)
+            {
+                StopCoroutine(questionTimerCoroutine);
+            }
+            questionTimeRemaining = questionTimeSeconds;
+            questionTimerPaused = false;
+            questionTimerCoroutine = StartCoroutine(QuestionTimerCoroutine());
+        }
+
+        private void PauseQuestionTimer()
+        {
+            questionTimerPaused = true;
+            Debug.Log($"[AnswerFlow] Question timer paused with {questionTimeRemaining:F1}s remaining");
+        }
+
+        private void ResumeQuestionTimer()
+        {
+            if (questionTimeRemaining > 0)
+            {
+                questionTimerPaused = false;
+                Debug.Log($"[AnswerFlow] Question timer resumed with {questionTimeRemaining:F1}s remaining");
+            }
+        }
+
+        private void StopQuestionTimer()
+        {
+            if (questionTimerCoroutine != null)
+            {
+                StopCoroutine(questionTimerCoroutine);
+                questionTimerCoroutine = null;
+            }
+            questionTimerPaused = false;
+        }
+
+        private IEnumerator QuestionTimerCoroutine()
+        {
+            while (questionTimeRemaining > 0)
+            {
+                // Only count down when not paused and waiting for buzz
+                if (!questionTimerPaused && CurrentState == AnswerFlowState.WaitingForBuzz)
+                {
+                    questionTimeRemaining -= Time.deltaTime;
+                }
+                
+                float progress = Mathf.Clamp01(questionTimeRemaining / questionTimeSeconds);
+                OnQuestionTimerUpdate?.Invoke(progress);
+                
+                // Check if we should exit the loop
+                if (CurrentState == AnswerFlowState.Complete)
+                {
+                    yield break;
+                }
+                
+                yield return null;
+            }
+
+            // Timer expired without anyone buzzing
+            if (CurrentState == AnswerFlowState.WaitingForBuzz)
+            {
+                Debug.Log("[AnswerFlow] Question timer expired - no one buzzed");
+                OnQuestionTimerUpdate?.Invoke(0f);
+                OnQuestionTimerExpired?.Invoke();
+                
+                // End flow - ClueOverlayView will handle showing the answer
+                StartCoroutine(CompleteFlowAfterDelay());
+            }
+        }
+
+        private void StartResponseTimer()
+        {
+            if (responseTimerCoroutine != null)
+            {
+                StopCoroutine(responseTimerCoroutine);
+            }
+            responseTimerCoroutine = StartCoroutine(ResponseTimerCoroutine());
+        }
+
+        private void StopResponseTimer()
+        {
+            if (responseTimerCoroutine != null)
+            {
+                StopCoroutine(responseTimerCoroutine);
+                responseTimerCoroutine = null;
+                OnResponseTimerUpdate?.Invoke(0f); // Hide the bar
+            }
+        }
+
+        private IEnumerator ResponseTimerCoroutine()
+        {
+            answerTimer = answerTimeSeconds;
+            
+            while (answerTimer > 0 && CurrentState == AnswerFlowState.Recording)
+            {
+                answerTimer -= Time.deltaTime;
+                float progress = Mathf.Clamp01(answerTimer / answerTimeSeconds);
+                OnResponseTimerUpdate?.Invoke(progress);
+                yield return null;
+            }
+
+            // Timer expired while recording
+            if (CurrentState == AnswerFlowState.Recording)
+            {
+                Debug.Log("[AnswerFlow] Response timer expired");
+                OnResponseTimerUpdate?.Invoke(0f);
+                OnResponseTimerExpired?.Invoke();
+                
+                // Stop recording and treat as incorrect
+                if (MicrophoneRecorder.Instance != null && MicrophoneRecorder.Instance.IsRecording)
+                {
+                    MicrophoneRecorder.Instance.CancelRecording();
+                }
+                HandleIncorrectAnswer();
             }
         }
 
@@ -151,16 +281,23 @@ namespace Cerebrum.Game
                 return;
             }
 
-            // Valid buzz!
+            // Valid buzz! Pause the question timer (don't stop - we'll resume if wrong)
+            PauseQuestionTimer();
             CurrentBuzzerPlayerIndex = playerIndex;
             string playerName = GameManager.Instance?.Players[playerIndex].Name ?? $"Player {playerIndex + 1}";
             
             Debug.Log($"[AnswerFlow] {playerName} buzzed in!");
             OnPlayerBuzzed?.Invoke(playerIndex);
 
-            // Announce buzz, then auto-start recording
-            if (TTSService.Instance != null)
+            // Announce buzz using cached player name audio
+            if (PhraseTTSCache.Instance != null && PhraseTTSCache.Instance.TryGetPlayerName(playerName, out var nameClip))
             {
+                // Use cached player name audio
+                TTSService.Instance?.PlayClip(nameClip, OnBuzzAnnouncementComplete);
+            }
+            else if (TTSService.Instance != null)
+            {
+                // Fallback to TTS generation
                 TTSService.Instance.SpeakBuzzIn(playerName, OnBuzzAnnouncementComplete);
             }
             else
@@ -246,6 +383,7 @@ namespace Cerebrum.Game
             }
 
             SetState(AnswerFlowState.Recording);
+            StartResponseTimer();
             Debug.Log("[AnswerFlow] Starting auto-recording...");
 
             MicrophoneRecorder.Instance.StartAutoRecording((audioData) =>
@@ -266,6 +404,7 @@ namespace Cerebrum.Game
         {
             if (CurrentState != AnswerFlowState.Recording) return;
 
+            StopResponseTimer();
             SetState(AnswerFlowState.Transcribing);
             STTService.Instance?.Transcribe(audioData, OnTranscriptionSuccess, OnTranscriptionError);
         }
@@ -275,6 +414,7 @@ namespace Cerebrum.Game
             if (CurrentState != AnswerFlowState.Recording) return;
             if (MicrophoneRecorder.Instance == null) return;
 
+            StopResponseTimer();
             SetState(AnswerFlowState.Transcribing);
 
             MicrophoneRecorder.Instance.OnRecordingStopped += OnRecordingComplete;
@@ -383,11 +523,24 @@ namespace Cerebrum.Game
                 // Reset for next buzz attempt
                 CurrentBuzzerPlayerIndex = -1;
                 SetState(AnswerFlowState.WaitingForBuzz);
+                
+                // Play "anyone else" phrase, then resume the question timer
+                if (PhrasePlayer.Instance != null)
+                {
+                    PhrasePlayer.Instance.PlayRandomPhrase(Data.GamePhrases.PhraseCategory.AnyoneElse, () =>
+                    {
+                        ResumeQuestionTimer();
+                    });
+                }
+                else
+                {
+                    ResumeQuestionTimer();
+                }
             }
             else
             {
-                // No one got it right - reveal answer
-                TTSService.Instance?.SpeakRevealAnswer(currentClue.Answer);
+                // No one got it right - ClueOverlayView will handle revealing the answer
+                // via OnFlowComplete callback with proper card animation timing
                 StartCoroutine(CompleteFlowAfterDelay());
             }
         }

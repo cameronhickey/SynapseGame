@@ -39,6 +39,8 @@ namespace Cerebrum.Game
         private List<TextMeshProUGUI> categoryHeaders = new List<TextMeshProUGUI>();
         private Dictionary<Clue, ClueButton> clueToButtonMap = new Dictionary<Clue, ClueButton>();
 
+        public IReadOnlyList<PlayerPanel> PlayerPanels => playerPanels;
+
         private static readonly int[] ROW_VALUES = { 200, 400, 600, 800, 1000 };
         private const int NUM_CATEGORIES = 6;
         private const int NUM_ROWS = 5;
@@ -69,11 +71,6 @@ namespace Cerebrum.Game
                 }
             }
 
-            // Subscribe to TTS cache events for reveal animation
-            if (useRevealAnimation && TTSCache.Instance != null)
-            {
-                TTSCache.Instance.OnClueReady += OnClueAudioReady;
-            }
         }
 
         private void LoadPrefabsIfNeeded()
@@ -292,9 +289,7 @@ namespace Cerebrum.Game
                             }
                         }
 
-                        // Start hidden if using reveal animation
-                        bool startHidden = useRevealAnimation && TTSCache.Instance != null;
-                        clueButton.Initialize(c, r, ROW_VALUES[r], startHidden);
+                        clueButton.Initialize(c, r, ROW_VALUES[r], false);
                         clueButton.SetAssociatedClue(associatedClue);
                         clueButton.OnClueSelected += OnClueSelected;
                         clueButtons.Add(clueButton);
@@ -309,13 +304,6 @@ namespace Cerebrum.Game
             }
         }
 
-        private void OnClueAudioReady(Clue clue)
-        {
-            if (clue != null && clueToButtonMap.TryGetValue(clue, out ClueButton button))
-            {
-                button.RevealWithAnimation();
-            }
-        }
 
         private void BuildPlayerPanels()
         {
@@ -339,9 +327,20 @@ namespace Cerebrum.Game
             }
         }
 
+        /// <summary>
+        /// Public method to select a clue by index (for voice selection)
+        /// </summary>
+        public void SelectClueByIndex(int categoryIndex, int rowIndex)
+        {
+            OnClueSelected(categoryIndex, rowIndex);
+        }
+
         private void OnClueSelected(int categoryIndex, int rowIndex)
         {
             if (currentBoard == null) return;
+
+            // Cancel any ongoing voice selection to free the microphone for answer recording
+            ClueSelectionController.Instance?.CancelSelection();
 
             Category category = currentBoard.Categories[categoryIndex];
             Clue clue = null;
@@ -379,12 +378,15 @@ namespace Cerebrum.Game
                 {
                     RectTransform buttonRect = sourceButton.GetComponent<RectTransform>();
                     Debug.Log($"[BoardController] Starting reveal animation for clue: {clue.Question.Substring(0, Math.Min(30, clue.Question.Length))}...");
-                    clueRevealAnimator.RevealClue(buttonRect, clue.Question, () =>
+                    clueRevealAnimator.RevealClue(buttonRect, clue.Question, clue.Value, () =>
                     {
-                        // After animation, show the overlay for interaction
+                        // Animation complete - card stays visible as the clue display
+                        Debug.Log("[BoardController] Reveal animation complete, starting answer flow");
+                        
+                        // Start the answer flow (audio, buzzing) without showing the old overlay UI
                         if (clueOverlay != null)
                         {
-                            clueOverlay.Show(clue, category.Title);
+                            clueOverlay.StartFlowOnly(clue, category.Title);
                         }
                     });
                     return;
@@ -408,6 +410,17 @@ namespace Cerebrum.Game
             {
                 Debug.Log("[BoardController] Round complete!");
             }
+            else
+            {
+                // Start next clue selection after a short delay
+                StartCoroutine(StartNextSelectionAfterDelay());
+            }
+        }
+
+        private System.Collections.IEnumerator StartNextSelectionAfterDelay()
+        {
+            yield return new WaitForSeconds(0.5f);
+            ClueSelectionController.Instance?.StartSelection();
         }
 
         public void RefreshBoard()
@@ -444,11 +457,6 @@ namespace Cerebrum.Game
             if (clueOverlay != null)
             {
                 clueOverlay.OnClueCompleted -= OnClueCompleted;
-            }
-
-            if (TTSCache.Instance != null)
-            {
-                TTSCache.Instance.OnClueReady -= OnClueAudioReady;
             }
 
             foreach (var button in clueButtons)

@@ -155,7 +155,19 @@ namespace Cerebrum.OpenAI
 
         public void PlayRandomPhraseWithName(GamePhrases.PhraseCategory category, string playerName, Action onComplete = null)
         {
-            // Get random phrase from GamePhrases (uses bundled audio)
+            // First, try to use an integrated name phrase (sounds more natural)
+            if (IntegratedPhraseCache.Instance != null && !string.IsNullOrEmpty(playerName))
+            {
+                var integratedClip = IntegratedPhraseCache.Instance.GetRandomIntegratedPhrase(category, playerName);
+                if (integratedClip != null)
+                {
+                    Debug.Log($"[PhrasePlayer] Playing integrated phrase for {category} with {playerName}");
+                    PlayClip(integratedClip, onComplete);
+                    return;
+                }
+            }
+
+            // Fallback: Get random phrase from GamePhrases and combine with name audio
             var phrase = GamePhrases.GetRandomByCategory(category);
             if (phrase == null)
             {
@@ -234,6 +246,25 @@ namespace Cerebrum.OpenAI
             {
                 // No cached phrase, just speak via TTSService
                 TTSService.Instance?.SpeakRevealAnswer(answer);
+                onComplete?.Invoke();
+            }
+        }
+
+        /// <summary>
+        /// Play just the reveal answer intro phrase (e.g. "The correct answer was...") without the answer.
+        /// Use this when you want to play cached answer audio separately.
+        /// </summary>
+        public void PlayRevealAnswerIntro(Action onComplete = null)
+        {
+            var phraseData = PhraseTTSCache.Instance?.GetRandomPhraseData(GamePhrases.PhraseCategory.RevealAnswer);
+            
+            if (phraseData != null && PhraseTTSCache.Instance.TryGetPhrase(phraseData.Id, out AudioClip phraseClip))
+            {
+                PlayClip(phraseClip, onComplete);
+            }
+            else
+            {
+                // No cached phrase available
                 onComplete?.Invoke();
             }
         }

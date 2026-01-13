@@ -75,7 +75,7 @@ namespace Cerebrum.Editor
 
             // Check existing files
             int existingCount = CountExistingFiles();
-            EditorGUILayout.LabelField($"Already Generated: {existingCount}/{bundleable.Count}");
+            EditorGUILayout.LabelField($"Already Generated: {existingCount}/{GamePhrases.TotalCount}");
 
             EditorGUILayout.Space();
 
@@ -161,8 +161,8 @@ namespace Cerebrum.Editor
             if (!Directory.Exists(OUTPUT_PATH)) return 0;
 
             int count = 0;
-            var bundleable = GamePhrases.GetBundleablePhrases();
-            foreach (var phrase in bundleable)
+            var allPhrases = GamePhrases.AllPhrases;
+            foreach (var phrase in allPhrases)
             {
                 string filePath = Path.Combine(OUTPUT_PATH, $"{phrase.Id}.mp3");
                 if (File.Exists(filePath)) count++;
@@ -193,13 +193,15 @@ namespace Cerebrum.Editor
             isGenerating = true;
             currentIndex = 0;
 
-            var bundleable = GamePhrases.GetBundleablePhrases();
-            totalCount = bundleable.Count;
+            // Generate ALL phrases (not just bundleable) - the phrase text can always be pre-generated,
+            // even if it will be combined with a dynamic player name at runtime
+            var allPhrases = GamePhrases.AllPhrases;
+            totalCount = allPhrases.Count;
 
             EditorApplication.update += GenerationUpdate;
 
             // Store generation state
-            generationQueue = new Queue<GamePhrases.Phrase>(bundleable);
+            generationQueue = new Queue<GamePhrases.Phrase>(allPhrases);
             regenerateExisting = regenerateAll;
         }
 

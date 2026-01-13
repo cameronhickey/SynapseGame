@@ -261,6 +261,16 @@ namespace Cerebrum.OpenAI
             return playerNameCache.TryGetValue(key, out clip);
         }
 
+        /// <summary>
+        /// Add a pre-loaded player name audio clip to the cache (for test game)
+        /// </summary>
+        public void AddPlayerNameToCache(string playerName, AudioClip clip)
+        {
+            string key = GetPlayerNameKey(playerName);
+            playerNameCache[key] = clip;
+            Debug.Log($"[PhraseTTSCache] Added player name to cache: {playerName}");
+        }
+
         public void PreloadPlayerName(string playerName, Action onComplete = null)
         {
             string key = GetPlayerNameKey(playerName);

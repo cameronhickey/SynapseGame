@@ -268,6 +268,36 @@ namespace Cerebrum.Editor
                 }
             }
 
+            // Add integrated name phrase tasks for test players
+            Directory.CreateDirectory($"{basePath}/IntegratedPhrases");
+            foreach (var phrase in GamePhrases.IntegratedNamePhrases)
+            {
+                foreach (var playerName in config.playerNames)
+                {
+                    string key = $"{phrase.Id}_{playerName.ToLowerInvariant().Replace(" ", "_")}";
+                    string textWithName = phrase.GetTextWithName(playerName);
+                    pendingTasks.Add(new AudioGenerationTask
+                    {
+                        text = textWithName,
+                        filePath = $"{basePath}/IntegratedPhrases/{key}.wav",
+                        type = "integrated"
+                    });
+                }
+            }
+
+            // Add player name audio tasks (for buzz-in)
+            Directory.CreateDirectory($"{basePath}/PlayerNames");
+            foreach (var playerName in config.playerNames)
+            {
+                string key = $"player_{playerName.ToLowerInvariant().Replace(" ", "_")}";
+                pendingTasks.Add(new AudioGenerationTask
+                {
+                    text = playerName,
+                    filePath = $"{basePath}/PlayerNames/{key}.wav",
+                    type = "playername"
+                });
+            }
+
             totalItems = pendingTasks.Count;
             completedItems = 0;
             currentTaskIndex = 0;
