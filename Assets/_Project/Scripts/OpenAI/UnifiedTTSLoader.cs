@@ -36,6 +36,7 @@ namespace Cerebrum.OpenAI
             public string Key;
             public string Text;
             public CacheType Type;
+            public string OriginalName; // For player names, store the original name for PhraseTTSCache
         }
 
         private enum CacheType
@@ -191,7 +192,8 @@ namespace Cerebrum.OpenAI
                         {
                             Key = key,
                             Text = name,
-                            Type = CacheType.PlayerName
+                            Type = CacheType.PlayerName,
+                            OriginalName = name
                         });
                     }
                 }
@@ -293,6 +295,11 @@ namespace Cerebrum.OpenAI
                     break;
                 case CacheType.PlayerName:
                     playerNameCache[request.Key] = clip;
+                    // Also add to PhraseTTSCache so all code paths work consistently
+                    if (!string.IsNullOrEmpty(request.OriginalName) && PhraseTTSCache.Instance != null)
+                    {
+                        PhraseTTSCache.Instance.AddPlayerNameToCache(request.OriginalName, clip);
+                    }
                     break;
                 case CacheType.Phrase:
                     phraseCache[request.Key] = clip;

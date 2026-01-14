@@ -109,11 +109,18 @@ namespace Cerebrum.OpenAI
 
             List<AudioClip> clips = new List<AudioClip>();
 
-            // Get player name clip
+            // Get player name clip - check PhraseTTSCache first, then UnifiedTTSLoader
             AudioClip nameClip = null;
             if (!string.IsNullOrEmpty(playerName))
             {
-                PhraseTTSCache.Instance?.TryGetPlayerName(playerName, out nameClip);
+                if (PhraseTTSCache.Instance != null)
+                {
+                    PhraseTTSCache.Instance.TryGetPlayerName(playerName, out nameClip);
+                }
+                if (nameClip == null && UnifiedTTSLoader.Instance != null)
+                {
+                    UnifiedTTSLoader.Instance.TryGetPlayerNameAudio(playerName, out nameClip);
+                }
             }
 
             // Get phrase clip - check bundled first, then runtime cache
@@ -219,14 +226,7 @@ namespace Cerebrum.OpenAI
         public void PlaySelectCategoryShort(Action onComplete = null)
         {
             // Short prompt without player name - used after correct answer to avoid repeating name
-            if (TTSService.Instance != null)
-            {
-                TTSService.Instance.Speak("Your pick.", onComplete);
-            }
-            else
-            {
-                onComplete?.Invoke();
-            }
+            PlayPhrase("pick_short", onComplete);
         }
 
         public void PlayTimeout(Action onComplete = null)
@@ -289,15 +289,24 @@ namespace Cerebrum.OpenAI
                 return;
             }
 
-            if (PhraseTTSCache.Instance != null && PhraseTTSCache.Instance.TryGetPlayerName(playerName, out AudioClip clip))
+            AudioClip clip = null;
+            
+            // Check PhraseTTSCache first (populated by both test game and real game loaders)
+            if (PhraseTTSCache.Instance != null && PhraseTTSCache.Instance.TryGetPlayerName(playerName, out clip))
             {
                 PlayClip(clip, onComplete);
+                return;
             }
-            else
+            
+            // Fallback: check UnifiedTTSLoader directly
+            if (UnifiedTTSLoader.Instance != null && UnifiedTTSLoader.Instance.TryGetPlayerNameAudio(playerName, out clip))
             {
-                Debug.LogWarning($"[PhrasePlayer] Player name not cached: {playerName}");
-                onComplete?.Invoke();
+                PlayClip(clip, onComplete);
+                return;
             }
+
+            Debug.LogWarning($"[PhrasePlayer] Player name not cached: {playerName}");
+            onComplete?.Invoke();
         }
 
         private void PlayClip(AudioClip clip, Action onComplete = null)

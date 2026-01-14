@@ -136,7 +136,8 @@ namespace Cerebrum.UI
             }
             else if (TTSService.Instance != null)
             {
-                Debug.Log("[CategoryRevealUI] Playing intro phrase via TTSService");
+                // Fallback to live TTS (should not happen if phrases were pre-cached)
+                Debug.LogWarning("[CategoryRevealUI] Intro phrase not cached, using live TTS");
                 TTSService.Instance.Speak("Today's categories are...", () => introComplete = true);
             }
             else
@@ -198,12 +199,20 @@ namespace Cerebrum.UI
             }
             cardRect.anchoredPosition = centerPos;
 
-            // Speak the category name (with timeout)
+            // Speak the category name using cached audio
             bool speechComplete = false;
             float speechTimeout = 5f;
             
-            if (TTSService.Instance != null)
+            // Try cached category audio first (UnifiedTTSLoader for real games, TestGameAudioLoader for test)
+            AudioClip categoryClip = null;
+            if (UnifiedTTSLoader.Instance != null && UnifiedTTSLoader.Instance.TryGetCategoryAudio(categoryName, out categoryClip))
             {
+                TTSService.Instance?.PlayClip(categoryClip, () => speechComplete = true);
+            }
+            else if (TTSService.Instance != null)
+            {
+                // Fallback to live TTS (should not happen if audio was pre-cached)
+                Debug.LogWarning($"[CategoryRevealUI] Category audio not cached: {categoryName}");
                 TTSService.Instance.Speak(categoryName, () => speechComplete = true);
             }
             else

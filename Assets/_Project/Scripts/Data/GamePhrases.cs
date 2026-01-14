@@ -130,7 +130,8 @@ namespace Cerebrum.Data
             new Phrase("wrong_10", "Ooh, sorry.", PhraseCategory.Incorrect),
 
             // ===== SELECT CATEGORY PROMPT =====
-            // Usage: [PlayerName] → phrase
+            // Usage: [PlayerName] → phrase (or standalone)
+            new Phrase("pick_short", "Your pick.", PhraseCategory.SelectCategory),  // Standalone, no name
             new Phrase("pick_1", "Your pick.", PhraseCategory.SelectCategory, namePrefix: true),
             new Phrase("pick_2", "Where to next?", PhraseCategory.SelectCategory, namePrefix: true),
             new Phrase("pick_3", "You have control of the board.", PhraseCategory.SelectCategory, namePrefix: true),

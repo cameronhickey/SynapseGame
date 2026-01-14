@@ -806,6 +806,14 @@ namespace Cerebrum.UI
             if (loadingScreenText != null) loadingScreenText.text = "Preparing audio generation...";
             yield return null;
             
+            // Create PhraseTTSCache if needed (for player name storage)
+            if (PhraseTTSCache.Instance == null)
+            {
+                var cacheObj = new GameObject("[PhraseTTSCache]");
+                cacheObj.AddComponent<PhraseTTSCache>();
+                DontDestroyOnLoad(cacheObj);
+            }
+            
             // Create unified TTS loader if needed
             if (UnifiedTTSLoader.Instance == null)
             {
