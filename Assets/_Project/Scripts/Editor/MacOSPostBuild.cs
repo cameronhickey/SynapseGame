@@ -13,6 +13,9 @@ namespace Cerebrum.Editor
 
         // Path to entitlements file (relative to Assets folder)
         private const string EntitlementsPath = "Assets/Plugins/macOS/Cerebrum.entitlements";
+        
+        // Path to app icon source
+        private const string IconSourcePath = "Assets/Images/brain_square_1024.png";
 
         public void OnPostprocessBuild(BuildReport report)
         {
@@ -22,6 +25,7 @@ namespace Cerebrum.Editor
             string appPath = report.summary.outputPath;
             
             UpdateInfoPlist(appPath);
+            SetAppIcon(appPath);
             CodeSignApp(appPath);
         }
 
@@ -70,6 +74,105 @@ namespace Cerebrum.Editor
             else
             {
                 UnityEngine.Debug.Log("[MacOSPostBuild] Info.plist already contains required permissions");
+            }
+        }
+
+        private void SetAppIcon(string appPath)
+        {
+            string projectPath = Path.GetDirectoryName(Application.dataPath);
+            string iconSourceFullPath = Path.Combine(projectPath, IconSourcePath);
+            
+            if (!File.Exists(iconSourceFullPath))
+            {
+                UnityEngine.Debug.LogWarning($"[MacOSPostBuild] Icon source not found at: {iconSourceFullPath}");
+                return;
+            }
+
+            string resourcesPath = Path.Combine(appPath, "Contents", "Resources");
+            string iconsetPath = Path.Combine(resourcesPath, "AppIcon.iconset");
+            string icnsPath = Path.Combine(resourcesPath, "AppIcon.icns");
+            
+            // Create iconset directory
+            if (Directory.Exists(iconsetPath))
+                Directory.Delete(iconsetPath, true);
+            Directory.CreateDirectory(iconsetPath);
+
+            // Generate all required icon sizes using sips
+            int[] sizes = { 16, 32, 64, 128, 256, 512, 1024 };
+            
+            foreach (int size in sizes)
+            {
+                string iconName = size == 1024 ? "icon_512x512@2x.png" : $"icon_{size}x{size}.png";
+                string outputPath = Path.Combine(iconsetPath, iconName);
+                
+                RunCommand("/usr/bin/sips", $"-z {size} {size} \"{iconSourceFullPath}\" --out \"{outputPath}\"");
+                
+                // Also create @2x versions for retina
+                if (size <= 512 && size >= 16)
+                {
+                    int halfSize = size / 2;
+                    if (halfSize >= 16)
+                    {
+                        string retinaName = $"icon_{halfSize}x{halfSize}@2x.png";
+                        string retinaPath = Path.Combine(iconsetPath, retinaName);
+                        if (!File.Exists(retinaPath))
+                        {
+                            RunCommand("/usr/bin/sips", $"-z {size} {size} \"{iconSourceFullPath}\" --out \"{retinaPath}\"");
+                        }
+                    }
+                }
+            }
+
+            // Convert iconset to icns
+            RunCommand("/usr/bin/iconutil", $"-c icns \"{iconsetPath}\" -o \"{icnsPath}\"");
+            
+            // Clean up iconset directory
+            if (Directory.Exists(iconsetPath))
+                Directory.Delete(iconsetPath, true);
+
+            // Update Info.plist to reference the icon
+            string plistPath = Path.Combine(appPath, "Contents", "Info.plist");
+            if (File.Exists(plistPath) && File.Exists(icnsPath))
+            {
+                string plist = File.ReadAllText(plistPath);
+                
+                // Update CFBundleIconFile if it exists, or add it
+                if (plist.Contains("<key>CFBundleIconFile</key>"))
+                {
+                    // Replace existing icon reference
+                    plist = System.Text.RegularExpressions.Regex.Replace(
+                        plist,
+                        @"<key>CFBundleIconFile</key>\s*<string>[^<]*</string>",
+                        "<key>CFBundleIconFile</key>\n\t<string>AppIcon</string>");
+                }
+                
+                File.WriteAllText(plistPath, plist);
+                UnityEngine.Debug.Log("[MacOSPostBuild] App icon set successfully!");
+            }
+        }
+
+        private void RunCommand(string command, string arguments)
+        {
+            try
+            {
+                ProcessStartInfo startInfo = new ProcessStartInfo
+                {
+                    FileName = command,
+                    Arguments = arguments,
+                    UseShellExecute = false,
+                    RedirectStandardOutput = true,
+                    RedirectStandardError = true,
+                    CreateNoWindow = true
+                };
+
+                using (Process process = Process.Start(startInfo))
+                {
+                    process.WaitForExit();
+                }
+            }
+            catch (System.Exception e)
+            {
+                UnityEngine.Debug.LogWarning($"[MacOSPostBuild] Command failed: {command} {arguments}\nError: {e.Message}");
             }
         }
 

@@ -36,18 +36,44 @@ cd SynapseGame
 ### 3. Configure OpenAI API Key
 
 The game requires an OpenAI API key for:
-- Text-to-Speech (reading clues aloud)
-- Answer judging (evaluating player responses)
-- Speech-to-Text (transcribing player answers)
+- **Text-to-Speech (TTS)**: Reading clues aloud using OpenAI's voice synthesis
+- **Answer Judging**: GPT-4o-mini evaluates if player responses are correct
+- **Speech-to-Text (STT)**: Whisper transcribes player voice answers
 
 **Setup:**
 
-1. Create a file at `Assets/_Project/Resources/OpenAI/OpenAIConfig.asset`
-   - Or use Unity menu: Right-click in Project > Create > Cerebrum > OpenAI Config
-2. Enter your OpenAI API key in the inspector
-3. **Important**: This file is gitignored - never commit API keys!
+1. Copy the template file to create your local config:
+   ```bash
+   cp openai_config.json.template openai_config.json
+   ```
 
-Alternatively, you can set the `OPENAI_API_KEY` environment variable.
+2. Edit `openai_config.json` in the project root and add your API key:
+   ```json
+   {
+       "apiKey": "sk-your-actual-api-key-here",
+       "ttsModel": "tts-1",
+       "ttsVoice": "nova",
+       "ttsSpeed": 1.0,
+       "sttModel": "whisper-1",
+       "judgeModel": "gpt-4o-mini",
+       "baseUrl": "https://api.openai.com/v1"
+   }
+   ```
+
+3. **Important**: The `openai_config.json` file is gitignored - your API key will never be committed!
+
+**Getting an OpenAI API Key:**
+1. Go to [platform.openai.com](https://platform.openai.com)
+2. Sign up or log in
+3. Navigate to API Keys section
+4. Create a new secret key
+5. Copy and paste into your `openai_config.json`
+
+**For Built Apps:**
+When building for distribution, copy your config to StreamingAssets:
+```bash
+cp openai_config.json Assets/StreamingAssets/openai_config.json
+```
 
 ### 4. Download Clue Data
 
@@ -93,26 +119,34 @@ These should be included in `Assets/_Project/Resources/Fonts/`. If missing:
 ## Project Structure
 
 ```
-Assets/
-├── _Project/
-│   ├── Data/
-│   │   ├── Categories/          # Preprocessed clue files (generated)
-│   │   └── category_index.txt   # Category count index
-│   ├── Resources/
-│   │   ├── Fonts/               # TMP font assets
-│   │   ├── Images/              # UI images
-│   │   └── OpenAI/              # API config (gitignored)
-│   ├── Scenes/
-│   │   └── MainScene.unity      # Main game scene
-│   └── Scripts/
-│       ├── Audio/               # TTS and audio playback
-│       ├── Core/                # Game bootstrapper
-│       ├── Data/                # Data models and loaders
-│       ├── Game/                # Game logic controllers
-│       ├── OpenAI/              # OpenAI API integration
-│       └── UI/                  # UI components
-├── Clues/                       # Raw TSV files (gitignored)
-└── Packages/                    # Unity package manifest
+Cerebrum2d/
+├── openai_config.json           # Your local API config (gitignored)
+├── openai_config.json.template  # Template for API config
+├── Assets/
+│   ├── _Project/
+│   │   ├── Data/
+│   │   │   ├── Categories/      # Preprocessed clue files (~27k categories)
+│   │   │   └── category_index.txt
+│   │   ├── Resources/
+│   │   │   ├── Fonts/           # TMP font assets
+│   │   │   ├── Images/          # UI images and backgrounds
+│   │   │   ├── Audio/           # Pre-generated phrase audio
+│   │   │   └── OpenAIConfig.asset # Default config (uses JSON override)
+│   │   ├── Scenes/
+│   │   │   └── MainScene.unity  # Main game scene
+│   │   └── Scripts/
+│   │       ├── Audio/           # Audio playback and caching
+│   │       ├── Core/            # Game bootstrapper
+│   │       ├── Data/            # Data models (Board, Category, Clue)
+│   │       ├── Editor/          # Unity editor tools
+│   │       ├── Game/            # Game logic controllers
+│   │       ├── OpenAI/          # OpenAI API integration
+│   │       └── UI/              # UI components and animations
+│   ├── StreamingAssets/
+│   │   ├── Categories/          # Categories bundled for builds
+│   │   └── category_index.txt   # Index for built apps
+│   ├── Clues/                   # Raw TSV files (gitignored)
+│   └── Packages/                # Unity package manifest
 ```
 
 ## How to Play
@@ -144,13 +178,50 @@ Edit `AnswerFlowController` in the inspector:
 
 ### Audio Settings
 
-Edit `OpenAIConfig` asset:
-- `TTS Voice`: OpenAI voice to use (alloy, echo, fable, onyx, nova, shimmer)
-- `TTS Model`: TTS model (tts-1 or tts-1-hd)
+Edit `openai_config.json` in the project root:
+- `ttsVoice`: OpenAI voice to use (alloy, echo, fable, onyx, nova, shimmer)
+- `ttsModel`: TTS model (tts-1 for speed, tts-1-hd for quality)
+- `ttsSpeed`: Speech rate (0.25 to 4.0, default 1.0)
+
+## Architecture
+
+### Audio Pipeline
+
+The game uses a multi-tier audio system for optimal performance:
+
+1. **Pre-cached Phrases**: Common game phrases ("Correct!", "Time's up!", player name announcements) are pre-generated and bundled
+2. **Runtime TTS Cache**: Category names and clue text are generated via OpenAI TTS during game load and cached
+3. **Unified Loader**: `UnifiedTTSLoader` manages all TTS requests with automatic caching
+
+### Answer Flow
+
+1. Clue is displayed and read aloud
+2. Buzz window opens (players race to buzz in)
+3. First player to buzz gets the answer window
+4. Voice is recorded and sent to Whisper for transcription
+5. GPT-4o-mini judges if the answer is correct
+6. Score is updated and play continues
+
+### Native macOS Speech Recognition
+
+For built macOS apps, the game uses native macOS speech recognition (via `NSSpeechRecognizer`) instead of OpenAI Whisper for faster response times. This requires microphone and speech recognition permissions.
 
 ## Development
 
-### Building
+### Building for macOS
+
+1. `File > Build Settings`
+2. Select macOS as target platform
+3. Ensure `Microphone Usage Description` is set in Player Settings
+4. Copy your API config for the build:
+   ```bash
+   cp openai_config.json Assets/StreamingAssets/openai_config.json
+   ```
+5. Click "Build" or "Build and Run"
+
+**Note**: Categories are automatically copied to StreamingAssets during build via `CategoryDataCopier`.
+
+### Building for Other Platforms
 
 1. `File > Build Settings`
 2. Select target platform
