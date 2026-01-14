@@ -426,17 +426,51 @@ namespace Cerebrum.Editor
         private static void CreateCategoryHeaderPrefab()
         {
             GameObject headerObj = new GameObject("CategoryHeader");
-            
-            // Semi-transparent dark blue background
-            Image headerImage = headerObj.AddComponent<Image>();
-            headerImage.color = new Color(0.08f, 0.12f, 0.25f, 0.9f);
-            
-            // Add glowing border using Outline
-            Outline borderOutline = headerObj.AddComponent<Outline>();
-            borderOutline.effectColor = new Color(0.4f, 0.6f, 0.9f, 0.8f);
-            borderOutline.effectDistance = new Vector2(2, 2);
+            RectTransform headerRect = headerObj.AddComponent<RectTransform>();
 
-            // Text container with padding
+            // Layer 1: Outer glow (soft cyan/orange gradient simulation)
+            GameObject outerGlow = new GameObject("OuterGlow");
+            outerGlow.transform.SetParent(headerObj.transform, false);
+            RectTransform outerGlowRect = outerGlow.AddComponent<RectTransform>();
+            outerGlowRect.anchorMin = Vector2.zero;
+            outerGlowRect.anchorMax = Vector2.one;
+            outerGlowRect.offsetMin = new Vector2(-6, -6);
+            outerGlowRect.offsetMax = new Vector2(6, 6);
+            Image outerGlowImage = outerGlow.AddComponent<Image>();
+            outerGlowImage.color = new Color(0.2f, 0.5f, 0.8f, 0.4f);
+            Outline glow1 = outerGlow.AddComponent<Outline>();
+            glow1.effectColor = new Color(0.3f, 0.6f, 0.9f, 0.3f);
+            glow1.effectDistance = new Vector2(4, 4);
+            Outline glow2 = outerGlow.AddComponent<Outline>();
+            glow2.effectColor = new Color(0.8f, 0.5f, 0.3f, 0.2f);
+            glow2.effectDistance = new Vector2(3, -3);
+
+            // Layer 2: Border frame (visible edge)
+            GameObject borderFrame = new GameObject("BorderFrame");
+            borderFrame.transform.SetParent(headerObj.transform, false);
+            RectTransform borderRect = borderFrame.AddComponent<RectTransform>();
+            borderRect.anchorMin = Vector2.zero;
+            borderRect.anchorMax = Vector2.one;
+            borderRect.offsetMin = Vector2.zero;
+            borderRect.offsetMax = Vector2.zero;
+            Image borderImage = borderFrame.AddComponent<Image>();
+            borderImage.color = new Color(0.4f, 0.55f, 0.75f, 0.9f);
+            Outline borderInner = borderFrame.AddComponent<Outline>();
+            borderInner.effectColor = new Color(0.6f, 0.75f, 0.95f, 0.8f);
+            borderInner.effectDistance = new Vector2(1, 1);
+
+            // Layer 3: Inner panel (dark background)
+            GameObject innerPanel = new GameObject("InnerPanel");
+            innerPanel.transform.SetParent(headerObj.transform, false);
+            RectTransform innerRect = innerPanel.AddComponent<RectTransform>();
+            innerRect.anchorMin = Vector2.zero;
+            innerRect.anchorMax = Vector2.one;
+            innerRect.offsetMin = new Vector2(3, 3);
+            innerRect.offsetMax = new Vector2(-3, -3);
+            Image innerImage = innerPanel.AddComponent<Image>();
+            innerImage.color = new Color(0.06f, 0.08f, 0.18f, 0.95f);
+
+            // Layer 4: Text
             GameObject textObj = new GameObject("Text");
             textObj.transform.SetParent(headerObj.transform, false);
             TextMeshProUGUI text = textObj.AddComponent<TextMeshProUGUI>();

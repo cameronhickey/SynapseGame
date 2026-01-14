@@ -290,10 +290,21 @@ namespace Cerebrum.Game
             OnPlayerBuzzed?.Invoke(playerIndex);
 
             // Announce buzz using cached player name audio
-            if (PhraseTTSCache.Instance != null && PhraseTTSCache.Instance.TryGetPlayerName(playerName, out var nameClip))
+            // Check UnifiedTTSLoader first (real games), then PhraseTTSCache (test games)
+            AudioClip nameClip = null;
+            if (UnifiedTTSLoader.Instance != null && UnifiedTTSLoader.Instance.TryGetPlayerNameAudio(playerName, out var unifiedClip))
+            {
+                nameClip = unifiedClip;
+            }
+            else if (PhraseTTSCache.Instance != null && PhraseTTSCache.Instance.TryGetPlayerName(playerName, out var phraseClip))
+            {
+                nameClip = phraseClip;
+            }
+
+            if (nameClip != null && TTSService.Instance != null)
             {
                 // Use cached player name audio
-                TTSService.Instance?.PlayClip(nameClip, OnBuzzAnnouncementComplete);
+                TTSService.Instance.PlayClip(nameClip, OnBuzzAnnouncementComplete);
             }
             else if (TTSService.Instance != null)
             {
