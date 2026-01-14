@@ -1,0 +1,6 @@
+FROM THE AD
+200|\"Eatin' good in the neighborhood\"|Applebee's
+400|\"For a streak-free shine that lets in more light\"|Windex
+600|A woman wears pink pants & does a TikTok-ish dance pantomiming bodily pain|Pepto-Bismol
+800|\"Where are you? You're on a boat with the man your man could smell like\"|Old Spice
+1000|From the '90s—Woman: "So what's the paper say about tomorrow?" Man: "Another scorcher!" Woman: "Cool\"|air conditioning

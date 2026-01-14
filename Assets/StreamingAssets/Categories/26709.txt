@@ -1,0 +1,6 @@
+FIRST YEAR FRENCH
+200|Of "bateau", "gateau" & "chateau", the one you might sail on the Seine|a bateau
+400|A "pomme" is an apple; a "pomme de terre" is this vegetable|a potato
+600|Meaning "to remember" you might buy one of these to remember your trip to France|a souvenir
+800|A "chaussure" is a shoe; a "chaussette" is this|a sock
+1000|A "librairie" is not a library but one of these|a bookstore

@@ -1,0 +1,6 @@
+POETRY TERMS
+200|An epithalamium is a poem for this occasion; one by Sappho ends, "Happy bridegroom, seek your bride\"|a wedding
+400|One verse of a poem is called a stave or this word also beginning with "st\"|stanza
+600|(Jimmy of the Clue Crew displays some poetry on the monitor.) By marking the stressed & unstressed syllables in a line, we're engaging in scansion, the analysis of this rhythmic element in a poem|the meter
+800|A haiku traditionally deals with this; a senryu takes an ironic look at human this|nature
+1000|This line of 12 syllables is likely named for a "great" Macedonian|an alexandrine

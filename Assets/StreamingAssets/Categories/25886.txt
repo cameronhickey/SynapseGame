@@ -1,0 +1,6 @@
+METONYMS
+200|Metonymy replaces a concept with a word associated with it, like using this TV title headwear to mean "queen\"|a crown
+400|This 2-word thoroughfare traditionally reps regular ol' middle class folks|Main Street
+600|An entree may metonymically become what it's served on, as in "revenge is" this "best served cold\"|a dish
+800|Proverbially, "you can't fight" it, it being a metonym for local government|city hall
+1000|This expression meaning that the written word will defeat attempts to suppress it contains 2 metonyms|the pen is mightier than the sword

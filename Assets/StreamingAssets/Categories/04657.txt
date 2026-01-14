@@ -1,0 +1,6 @@
+FROM Z TO A
+200|An embarrassed one of these may be black & white & red all over|Zebra
+400|Last name of Dweezil & Moon Unit|Zappa
+600|It comes between epsilon & eta or, pronounced differently, between Catherine & Jones|Zeta
+800|Its capital is Lusaka|Zambia
+1000|Zoroaster's nom-de-Persian|Zarathustra

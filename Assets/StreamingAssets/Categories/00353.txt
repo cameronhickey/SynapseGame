@@ -1,0 +1,6 @@
+FIRST LINES
+200|The 2 things created in the 1st line of the King James Bible|the earth and the heavens
+400|\"You don't know about me without you have read...The Adventures of Tom Sawyer\"|Huckleberry Finn
+600|1st word in this Orson Welles movie is also the title character's last|Citizen Kane
+800|\"It was love at first sight" between Yossarian & his chaplain in this novel|Catch-22
+1000|It is "the cruelest month" in T.S. Eliot's "The Waste Land\"|April

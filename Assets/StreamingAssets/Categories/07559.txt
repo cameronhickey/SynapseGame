@@ -1,0 +1,6 @@
+BIRD, REPTILE OR FELINE
+200|The ocelot|feline
+400|The cassowary|bird
+600|The caiman|reptile
+800|The kestrel|bird
+1000|The basilisk|reptile

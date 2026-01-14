@@ -1,0 +1,6 @@
+PASSPORTS
+200|Countries like Vietnam & Mongolia require your U.S. passport to be valid this many months past your intended travel|6 months
+400|The U.S. State Department refers to "regular" passports as this type, a word for a person traveling for leisure|tourist passports
+600|Japanese airports have used passport stickers that have your travel info on this 2-letter type of code invented in Japan|QR
+800|Under UV light, Norwegian passport pages do a luminous dance, mimicking this sky glow seen on winter nights|the northern lights
+1000|A white cross & writing in 5 languages are on the cover of this European country's passport|Switzerland

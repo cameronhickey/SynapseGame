@@ -1,0 +1,6 @@
+STATES BY BORDERS
+200|Oregon, Idaho|Washington
+400|New Hampshire|Maine
+600|Indiana, Ohio, Wisconsin|Michigan
+800|Connecticut, Massachusetts|Rhode Island
+1000|New Mexico, Oklahoma, Arkansas, Louisiana|Texas

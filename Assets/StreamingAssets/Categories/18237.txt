@@ -1,0 +1,6 @@
+\"BERT\"
+200|One of the prairie provinces of Canada|Alberta
+400|In recent decades this stage of development has been happening earlier & earlier in American kids|puberty
+600|Political party & doctrine governed by a belief in an individual's maximum freedom|libertarian
+800|If you're starting a parliament, invest in a copy of these "of Order", first published in 1876|Robert's Rules of Order
+1000|This long word for a frivolously chatty woman dates back to the 1500s|flibbertigibbet

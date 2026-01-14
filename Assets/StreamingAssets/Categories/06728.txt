@@ -1,0 +1,6 @@
+ORDER, PLEASE
+200|From smallest to largest: gallon, pint, quart|pint, quart, gallon
+400|From least to greatest number of dice used: Yahtzee, Hi Ho Cherry-O, Trivial Pursuit|Hi Ho Cherry-O, Trivial Pursuit, Yahtzee (0, 1 and 5)
+600|From youngest to oldest: Taylor, Zac & Isaac Hanson|Zac, Taylor & Isaac Hanson
+800|The 5 vowels in reverse alphabetical order|U, O, I, E, A
+1000|By when they were first awarded: Emmy, Nobel Prize, Oscar|Nobel Prize, Oscar, Emmy

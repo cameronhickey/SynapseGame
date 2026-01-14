@@ -1,0 +1,6 @@
+SPIDERS & SNAKES
+200|Orb weaver spiders have 5 spinnerets for extruding this substance used to make webs|silk
+400|Thamnophis is the genus of these snakes that have stripes resembling bands used to secure clothing|a garter
+600|Latrodectus geometricus, the brown this, has venom twice as powerful as that of its notorious black cousin|a brown widow (spider)
+800|Lycosidae is the family of these hairy hunting spiders named for another hairy hunter|wolf
+1000|The coral snake is deadly; the similar-looking scarlet this is harmless|a scarlet king snake

@@ -1,0 +1,6 @@
+ENGLISH CLASS
+200|When "do not" and "should not" are contracted, this mark of punctuation is used to show missing letters|apostrophe
+400|This part of speech doesn't always end in "ly"; once, there & often are other examples|adverb
+600|Capt. Kirk's mission was "to boldly go" where no man had gone before, but he split one of these along the way|an infinitive
+800|It's the indirect object of the sentence "Carmen gave Jose a cookie\"|Jose
+1000|It's the third person plural objective case pronoun|them

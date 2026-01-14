@@ -1,0 +1,6 @@
+STATES WITHOUT CONSONANTS
+200|AAII|Hawaii
+400|OUIIAA|Louisiana
+600|IIII|Mississippi
+800|AAAA|Alabama
+1000|EEEE|Tennessee

@@ -1,0 +1,6 @@
+PARKS
+200|Frederick Law Olmsted was 1st to call himself a landscape architect when he designed this NYC park|Central Park
+400|A park at Burlington, VT. contains part of a farm that belonged to this Green Mountain Boy|Ethan Allan
+600|Windmill Island, a municipal park in this Michigan city, has tulip gardens & a miniature Dutch village|Holland
+800|Covering over 200 acres, Kapiolani Park in Hawaii extends from Waikiki to this extinct volcano|Diamond Head
+1000|This Manhattan park's name refers to a line of cannon once mounted to defend the shore|Battery Park

@@ -1,0 +1,6 @@
+WILD CATS
+200|Pointy-eared northern version of the wild cat, or Mercury version of the Ford Escort|a lynx
+400|Also known as a cougar, this cat with a 4-letter name can spring up to about 20 feet in one leap|puma
+600|This name, usually applied only to black leopards, is the scientific genus name for all leopards|a Panther
+800|The Sumatran is the only species of this cat that now lives on an island; the rest live on the Asian mainland|tiger
+1000|This New World "leopard cat" is often tamed as a kitten but can't be trusted when adult|the ocelot

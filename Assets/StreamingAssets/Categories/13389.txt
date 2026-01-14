@@ -1,0 +1,6 @@
+\"BAT" TOOLS
+200|Batman uses one of these truncheons, significantly larger than the ones symphony conductors use|a baton
+400|The caped crusader has these fuel cells in lithium & nickel-cadmium; they're never included|batteries
+600|I'll bet you didn't know he had one of these door-busting medieval devices with a ruminant name|a battering ram
+800|This narrow strip of wood or metal has more uses than just to fasten down "the hatches\"|a batten
+1000|Robin, bring one of these, which could be used to chop down a tree & is also a term for an overbearing gal|a battle axe

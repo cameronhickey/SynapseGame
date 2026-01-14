@@ -1,0 +1,6 @@
+THE PRESIDENT IMMEDIATELY BEFORE...
+200|Barack Obama|George W. Bush
+400|Andrew Johnson|Abraham Lincoln
+600|John F. Kennedy|Eisenhower
+800|Andrew Jackson|John Quincy Adams
+1000|Warren Harding|(Woodrow) Wilson

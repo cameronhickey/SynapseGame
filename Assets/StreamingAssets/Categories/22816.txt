@@ -1,0 +1,6 @@
+CELEBRITY NAMES IN COMMON
+200|Jessica Parker & Michelle Gellar|Sarah
+400|Seacrest & Phillippe|Ryan
+600|Garner & Hudson|Jennifer
+800|Firth & Farrell|Colin
+1000|Oh & Dee|Sandra

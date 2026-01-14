@@ -1,0 +1,6 @@
+ENDS WITH 3 VOWELS
+200|It's how the French say goodbye|adieu
+400|Hawaiian feast|a luau
+600|Social or cultural surroundings|milieu
+800|Pierre's "farewell\"|adieu
+1000|It precedes "vivant" in a theatrical scene where actors stand still as if in a picture|tableau

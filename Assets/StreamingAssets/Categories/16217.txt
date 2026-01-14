@@ -1,0 +1,6 @@
+1-LETTER STOCK SYMBOLS
+200|K, for breakfast|Kellogg
+400|C, a financial "group\"|Citigroup
+600|F, in transportation|Ford
+800|T— give them a jingle|AT&T
+1000|X, a company no longer part of USX|U.S. Steel

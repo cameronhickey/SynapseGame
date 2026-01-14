@@ -1,0 +1,6 @@
+GAELIC PRIDE
+200|From the Gaelic, it's a poet, from Avon or not|a bard
+400|A large group of families that are related, it's from the Gaelic for "family\"|a clan
+600|In Gaelic this historic catastrophe is known as "An Gorta Mor" (The Great Hunger)|the (Irish) Potato Famine
+800|From the Gaelic for "war cry", it's a distinctive phrase or saying used to advertise a product|a slogan
+1000|It's a large 2-edged Scottish broadsword|a claymore

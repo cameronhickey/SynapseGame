@@ -1,0 +1,6 @@
+AUTHORS' CHARACTERS
+200|Rabbit, Piglet, Eeyore|A.A. Milne
+400|Wah-Ta!-Wah, Uncas, Chingachgook|James Fenimore Cooper
+600|Ward Stradlater, Robert Ackley, Holden Caulfield|J.D. Salinger
+800|Nathan Zuckerman, Trick E. Dixon, Alexander Portnoy|Philip Roth
+1000|Moses Elkanah Herzog, Eugene Henderson, Von Humboldt Fleisher|Saul Bellow

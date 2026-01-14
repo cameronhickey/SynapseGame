@@ -1,0 +1,6 @@
+\"C" AS IN CAT
+200|Sadly, this fast spotted cat hasn't prospered—it's endangered|a cheetah
+400|The puma is also known as the catamount & this other "c"at|the cougar
+600|Cats with this coat pattern caused by a genetic anomaly are almost always female|calico
+800|Naturally, the breed known as this Rex was discovered on a farm in Cornwall, England|Cornish
+1000|Neofelis nebulosa is the scientific name of this leopard with a strikingly marked coat|the clouded leopard

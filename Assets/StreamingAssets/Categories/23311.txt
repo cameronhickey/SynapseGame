@@ -1,0 +1,6 @@
+LEGAL
+200|Businesses & professors are among those who give the court information to help one party in an amicus curiae brief, Latin for this|friend of the court
+400|In many states, a borrower who couldn't pay the mortgage has the right of redemption, to stop this process until auction time|foreclosure
+600|Let's get inventive & file one of these; the 3 types are utility, plant & design|patent
+800|It was this 3-named junior on the Supreme Court who gave the "Clear & Present Danger" restraint on free speech|(Oliver Wendell) Holmes
+1000|If a judge has ruled against a case & said another lawsuit can't be filed on the same grounds, it's been "dismissed with" this|prejudice

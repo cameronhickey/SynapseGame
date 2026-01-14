@@ -1,0 +1,6 @@
+WHICH DOCUMENT CAME FIRST?
+200|Hammurabi's Code, the Edict of Milan, the Koran|Hammurabi's Code
+400|The Treaties of Utrecht, the Magna Carta, the 95 Theses|the Magna Carta
+600|The Federalist Papers, the Articles of Confederation, the Declaration of Independence|the Declaration of Independence
+800|The Fourteen Points, the U.N. Charter, "Mein Kampf\"|the Fourteen Points
+1000|NAFTA, the German Reunification Treaty, the Good Friday Agreement|the German Reunification Treaty

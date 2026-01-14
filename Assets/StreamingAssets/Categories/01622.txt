@@ -1,0 +1,6 @@
+WORLD OF BEERS
+200|Grizzly Bear & Molson Light|Canada
+400|Cooper's Extra Stout & Foster's lager|Australia
+600|Goldstar & Maccabee are beers from this nation|Israel
+800|Trappist monks in this small European country make Chimay & use the income to support their charitable works|Belgium
+1000|First brewed in 1842, Pilsner Urquell from this Central European republic is based on a beer first made in the Middle Ages|the Czech Republic

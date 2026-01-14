@@ -1,0 +1,6 @@
+PLACE NAME PARTNERS
+200|Bosnia & ____|Herzegovina
+400|____ & Tobago|Trinidad
+600|____ & Nevis|St. Kitts
+800|Saint Vincent & ____|the Grenadines
+1000|Antigua & ____|Barbuda

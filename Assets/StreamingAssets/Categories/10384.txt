@@ -1,0 +1,6 @@
+GEOGRAPHIC NICKNAMES
+200|\"Haggisland\"|Scotland
+400|With its own Parthenon, Nashville, Tennesse is this Greek city "of the South\"|Athens
+600|It's "The Lost City of the Incas\"|Machu Picchu
+800|Louisville is this "city", like the race that's run there|Derby
+1000|German city that's "The Mother of Diets\"|Worms

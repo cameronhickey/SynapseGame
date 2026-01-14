@@ -1,0 +1,6 @@
+FROM WORLD BOOK: "U\"
+200|It "was the first planet discovered since ancient times\"|Uranus
+400|He "won the Indianapolis 500 race four times", his brother Bobby won it 3 times|Unser
+600|At 4,406 feet above sea level, its highest elevation is Ben Nevis|the United Kingdom
+800|Some stores sell models of these "with seats as high as 6 feet above the ground\"|a unicycle
+1000|It is "any mammal whose toes end in hoofs\"|ungulate

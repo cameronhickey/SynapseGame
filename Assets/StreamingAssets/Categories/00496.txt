@@ -1,0 +1,6 @@
+THE BRAIN
+200|This family of animals has brains which most resemble humans\'|apes
+400|Side of the brain which is the center for music and emotion|the right side
+600|The brain stem links downward to this in humans, but not in spineless jellyfish|the spinal cord
+800|This progressive, degenerative disease of the brain is the leading cause of senile dementia|Alzheimer's
+1000|The occipital lobe is devoted to this sense|Sight

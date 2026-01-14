@@ -1,0 +1,6 @@
+LITERARY NAME DROPPERS
+200|A 1726 classic: "____'s Travels\"|Gulliver
+400|By Tom Stoppard: "____ and ____ Are Dead\"|Rosencrantz & Guildenstern
+600|1999 bestseller by Thomas Harris: "____\"|Hannibal
+800|By John Irving: "A Prayer for ____ ____\"|Owen Meany
+1000|With a little help from J.K. Rowling: "The Tales of ____ the Bard\"|Beedle

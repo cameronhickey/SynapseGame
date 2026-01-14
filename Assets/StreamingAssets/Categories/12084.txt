@@ -1,0 +1,6 @@
+OF THE SEA & SHIPS
+200|The submarine U.S.S. Nautilus was the first oceangoing vessel to use this form of power|nuclear
+400|In 1838 the Sirius became the first steamship to cross this ocean using steam power alone|the Atlantic
+600|On a sailing ship, these can be buntlines, downhauls or sheets|ropes
+800|Apollo 15's command module was named in honor of this ship commanded by captain James Cook|the Endeavour
+1000|Before its name was changed, this ship of Sir Francis Drake was known as the Pelican|the Golden Hind

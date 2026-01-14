@@ -1,0 +1,6 @@
+RODENT, MARSUPIAL OR PRIMATE
+200|The Tasmanian Devil|Marsupial
+400|The macaque|Primate
+600|The bandicoot|marsupial
+800|The woodchuck|rodent
+1000|The aye-aye|primate

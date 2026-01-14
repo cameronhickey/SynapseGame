@@ -1,0 +1,6 @@
+ALTAR EGOS
+200|This man is the Bishop of Rome & the primate of Italy|the pope
+400|It's a member of the clergy employed to give religious guidance to members of the armed forces|a chaplain
+600|Thous it sounds like a camel relative, it's the title used for a revered Tibetan Buddhist monk|lama
+800|Ulfilas, a Visigoth priest, converted many to Arianism, a heresy that held that this religion founder was "adopted\"|Jesus
+1000|Also used to describe Abraham or Isaac, it's the term for an Eastern Orthodox bishop of a large city like Antioch|patriarch

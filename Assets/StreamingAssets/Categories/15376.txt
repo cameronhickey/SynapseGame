@@ -1,0 +1,6 @@
+MOVIE MODES OF TRANSPORT
+200|\"Speed\"|a bus
+400|\"Speed 2\"|a boat (or a ship)
+600|\"The Great Waldo Pepper\"|planes (biplanes & triplanes)
+800|\"American Flyers\"|bicycles
+1000|\"Ice Station Zebra\"|a nuclear submarine

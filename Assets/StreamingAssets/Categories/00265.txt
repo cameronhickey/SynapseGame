@@ -1,0 +1,6 @@
+WEAPONS
+200|Used by Dennis the Menace or David the slayer|a slingshot
+400|Odd weapon for OddJob|a hat
+600|A hatchet, it's said, but not proven, Indians buried it for peace|a tomahawk
+800|They were designed to destroy submarines by shock waves|depth charges
+1000|The extras in operas|spear carriers

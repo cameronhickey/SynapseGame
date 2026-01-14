@@ -1,0 +1,6 @@
+LIBROS POR NIÑ;OS
+200|Margaret Wise Brown: "Buenas Noches, Luna\"|Goodnight Moon
+400|Dr. Seuss: "Huevos Verdes Con Jamon\"|Green Eggs and Ham
+600|Beatrix Potter: "El Cuento De Pedro, El Conejo\"|The Tale of Peter Rabbit
+800|Maurice Sendak: "Donde Viven los Monstruos\"|Where the Wild Things Are
+1000|Eric Carle: "La Oruga Muy Hambrienta\"|The Very Hungry Caterpillar

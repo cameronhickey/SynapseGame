@@ -1,0 +1,6 @@
+CHEMICAL ELEMENT SPELLING
+200|Iodine, cerium|ice
+400|Copper, phosphorus|cup
+600|Actinium, rhenium|acre
+800|Vanadium, erbium, selenium|verse
+1000|Protactinium, thorium|path

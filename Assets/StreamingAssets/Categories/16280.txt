@@ -1,0 +1,6 @@
+LITERARY RELATIONS
+200|Alfred Doolittle has this teenage daughter|Eliza Doolittle
+400|She's Laertes' sister|Ophelia
+600|At 5, orphaned Heidi is sent to live with a person who's this relation to her|grandfather
+800|Gertrude is Paul Morel's mom in this D.H. Lawrence novel|Sons and Lovers
+1000|Last name of Biff & Happy, brothers in a stage play|Loman

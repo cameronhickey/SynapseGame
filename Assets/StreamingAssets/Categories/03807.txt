@@ -1,0 +1,6 @@
+\"PEN" PALS
+200|The 2-word phrase preceding "pound foolish\"|Penny wise
+400|City in Cornwall from which Gilbert & Sullivan's pirates hailed|Penzance
+600|This line of verse is composed of 5 metrical feet; iambic is one form|Pentameter
+800|Next to last|Penultimate
+1000|It begins with the creation & ends with the death of Moses|Pentateuch

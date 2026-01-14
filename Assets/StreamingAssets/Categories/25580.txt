@@ -1,0 +1,6 @@
+GREATER THAN, LESS THAN OR EQUAL TO
+200|One statute mile is equal to this number of feet|5,280
+400|On the pH scale anything that ranks less than 7 is considered this|acidic
+600|In geometry this type of angle is greater than 90 degrees but less than 180|obtuse
+800|Introduced by Einstein in 1905, it's been called "the most famous equation in the world\"|E=mc2
+1000|By definition negative numbers are ones that are this, also the title of a novel & film|less than zero

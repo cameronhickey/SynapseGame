@@ -1,0 +1,6 @@
+-OID
+200|The National Enquirer or The Weekly World News, for example|a tabloid
+400|This name of this muscle that covers the shoulder joint tells you that it's triangular|the deltoid
+600|A Domino's Pizza ad campaign said to "avoid" this mascot|The Noid
+800|Mary Mallon was famously a carrier of this fever|typhoid
+1000|Alexander Parkes developed this synthetic plastic material in 1856|celluloid

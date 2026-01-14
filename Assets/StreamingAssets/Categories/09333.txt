@@ -1,0 +1,6 @@
+W.H.O.
+200|The World Health Organization was established in 1948 by this international body|the U.N.
+400|\"3 by 5" is a program to provide, by 2005, anti-retroviral therapy to 3 million suffering from this|AIDS
+600|The W.H.O.'s administrative HQ is located in this Swiss city on the Rhone River|Geneva
+800|On March 15, 2003 the W.H.O. issued a rare emergency travel advisory in response to this outbreak|SARS
+1000|The eradication of this paralyzing viral disease mainly affecting children is a W.H.O. goal for 2004|polio

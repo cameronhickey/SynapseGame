@@ -1,0 +1,6 @@
+SHIP OUT
+200|On February 15, 1898 the USS Maine mysteriously sank in this city's harbor|Havana
+400|On April 10, 1963 the Thresher, an atomic-powered one of these, sank in the North Atlantic with all hands lost|a submarine
+600|It was sunk by the Germans off the Irish coast on May 7, 1915|the Lusitania
+800|The classy ocean liner called "Ile de" this was partially sunk for the filming of the 1960 movie "The Last Voyage\"|France
+1000|On July 25, 1956 this Italian liner collided with a Swedish ship & sank off Massachusetts|Andrea Doria

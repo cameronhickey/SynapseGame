@@ -1,0 +1,6 @@
+WATERGATE
+200|These 2 reporters led the Washington Post's investigation of the scandal|Bob Woodward & Carl Bernstein
+400|In 1997 $13,000 was the high bid for the lock from the door of this committee's burglarized headquarters|Democratic National Committee
+600|L. Patrick Gray, acting director of this bureau, supplied Watergate files to Nixon counsel John Dean|FBI
+800|As acting Attorney General, future Supreme Court nominee Robert Bork fired Archibald Cox from this post|Special prosecutor
+1000|Nixon was doomed in July 1974 when this house committee "judged" him worthy of impeachment|House Judiciary Committee

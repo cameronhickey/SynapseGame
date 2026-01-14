@@ -1,0 +1,6 @@
+PLAIN-NAMED MALADIES
+200|The injury called this fruit "hand" is on the rise—use a cutting board when making guacamole!|avocado
+400|Cercarial dermatitis, this type of athlete's "itch", is not caused by chlorine but by a parasite|swimmer's
+600|Postural orthostatic tachycardia syndrome is also known as Grinch syndrome because this organ is too small|the heart
+800|A type of glossitis, "geographic" this sense organ gives it a map-like appearance|tongue
+1000|Similar to carpal tunnel syndrome, "baby" this joint affects the parents, not the baby|wrist

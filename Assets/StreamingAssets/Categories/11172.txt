@@ -1,0 +1,6 @@
+BASIC SPANISH
+200|An occupation: medico|doctor
+400|A family member: hermana|sister
+600|It can get you from here to there: avion|plane
+800|A part of the body: corazon|heart
+1000|A wild animal: lobo|wolf

@@ -1,0 +1,6 @@
+DEMONYMS
+200|Yoopers are residents of the U.P., the upper peninsula of this state|Michigan
+400|A Haligonian isn't a "Star Wars" TV character, it's a native of this capital of a Canadian province|Halifax
+600|\"Wisconsinian" is close, but this is the state's demonym (though some go with "Cheeseheads")|Wisconsinite
+800|About 1/5 of the population of this nation is of Monegasque descent|Monaco
+1000|24 hour party people know that a Mancunian is from this city|Manchester

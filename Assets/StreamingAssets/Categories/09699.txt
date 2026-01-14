@@ -1,0 +1,6 @@
+THAT'S ELEMENT-ARY
+200|The most important type of potash is this chloride|potassium chloride
+400|The name of this noble gas comes in part from the Greek for "sun\"|helium
+600|Cadbury is a chocolate brand; this element, atomic number 48, was discovered by Friedrich Stromeyer|cadmium
+800|The elements run alphabetically from this, Ac, to zirconium|actinium
+1000|One atomic mass unit equals 1/12 the mass of an atom of the most common isotope of this element|carbon

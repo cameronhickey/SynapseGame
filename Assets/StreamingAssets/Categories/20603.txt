@@ -1,0 +1,6 @@
+TRAIN TIME
+200|Before this term meant 2 sports games played back to back, it meant a train pulled by 2 locomotives together|a double-header
+400|Richard Nixon grew up dreaming of being a train engineer; in 1970 he signed this national railroad into existence|Amtrak
+600|In the 1800s inventions like this man's improved steam engine were adapted for trains|James Watt
+800|World War II aircraft engineer Tadanao Miki later designed the Shinkansen, AKA this train|the bullet train
+1000|In 1873, Eli Janney patented the knuckle version of this special semi-automatic train car connector|a coupler

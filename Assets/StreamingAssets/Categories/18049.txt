@@ -1,0 +1,6 @@
+STATES' HIGH & LOW POINTS
+200|High: 20,320 feet in Denali Borough|Alaska
+400|High: Wheeler Peak in Taos County|New Mexico
+600|Low: Colorado River in Yuma County|Arizona
+800|Low: Snake River in Nez Perce County|Idaho
+1000|High: Black Mountain in Harlan County|Kentucky

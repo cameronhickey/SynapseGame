@@ -1,0 +1,6 @@
+VARIETY SLANGUAGE
+200|In the pages of Variety, a tenpercenter is one of these representatives|an agent
+400|Abbreviated B.O., it can be boffo, socko or even whammo|box office
+600|Of "Major Crimes", "Guys with Kids" or "The Bachelor", the TV show Variety would call a laffer|Guys with Kids
+800|Colorful term meaning a studio go-ahead to make a movie|a green-light
+1000|Like Washington Irving, Variety calls New York City this (no "city" at the end)|Gotham

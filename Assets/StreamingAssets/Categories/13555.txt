@@ -1,0 +1,6 @@
+FILL IN THE PLAY TITLE
+200|Thornton Wilder's "O.T.\"|Our Town
+400|Neil Simon's "B.B.M.\"|Brighton Beach Memoirs
+600|David Mamet's "G.G.R.\"|Glengarry Glen Ross
+800|Anton Chekhov's "U.V.\"|Uncle Vanya
+1000|John Osborne's "L.B.I.A.\"|Look Back in Anger

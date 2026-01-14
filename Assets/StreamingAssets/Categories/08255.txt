@@ -1,0 +1,6 @@
+ICE
+200|Type of lettuce that might sink an ocean liner|iceberg
+400|Geometric shape water molecules form in ice; it's why snowflakes look the way they do|hexagons
+600|Coleridge poem with the line "and ice, mast-high, came floating by, as green as emerald\"|The Rime of the Ancient Mariner
+800|Before ice machines, New Englanders got ice by this process also used for marble or granite|cutting into blocks (or quarrying)
+1000|His most important work is "Northward Over the Great Ice,...In the Years 1886 & 1891-1897\"|Robert Peary

@@ -1,0 +1,6 @@
+\"PUN"s
+200|Its, whats wrong! (with) this answer|punctuation
+400|It's running back a football kick you've caught, or bringing back a flat-bottomed boat you've rented|a punt return
+600|Johnny Rotten's music, or what you'd call a piece of granite with a mohawk haircut|punk rock
+800|Apt adjective for ethyl mercaptan, which smells like a combo of rotting cabbage, garlic & sewer gas|pungent
+1000|It usually involves physical pain, but for certain Army NCOs, it could just be cleaning the latrine|corporal punishment

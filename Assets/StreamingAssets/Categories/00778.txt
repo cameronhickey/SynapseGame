@@ -1,0 +1,6 @@
+TOMBS
+200|The Ming Tombs are a tourist attraction about 30 miles north of this capital|Beijing
+400|To discover who's buried in his tomb, go to Riverside Drive in New York City|Grant
+600|France's Tomb of the Unknown Soldier Lies in the shadow of this monument|the Arc de Triomphe
+800|Famous tombs in this city include those of Muhammad & his daughter Fatima|Medina
+1000|Castel Sant'Angelo on the Tiber in Rome is better known as this emperor's tomb|Hadrian

@@ -1,0 +1,6 @@
+\'RITHMETIC
+200|It's 1/4 of 100|25
+400|It's 2128 divided by 7|304
+600|It's the square root of 196|14
+800|Number of inches in 3 yards|108
+1000|.5 x .15|.075

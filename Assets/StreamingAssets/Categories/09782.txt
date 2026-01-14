@@ -1,0 +1,6 @@
+\"COURT" BRIEFS
+200|A stenographer employed to transcribe an official verbatim record of legal proceedings|a court reporter
+400|Marsupial term for a self-appointed tribunal that parodies existing principles of law|a kangaroo court
+600|It's a special judicial assembly with power over the administration of estates & wills of deceased people|probate court
+800|AKA amicus curiae, it's someone not party to the litigation but who offers information pertinent to the case|a friend of the court
+1000|Law students try mock hypothetical legal cases in this kind of court|moot court

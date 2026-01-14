@@ -1,0 +1,6 @@
+FOOD CHAIN
+200|In 1979 this chain introduced its Happy Meal|McDonald's
+400|P.F. Chang's is an upscale bistro specializing in the cuisine of this country|China
+600|Offering "Home Style Meals" & a line of frozen entrees, this chain is headquartered in Colorado, not Massachusetts|Boston Market
+800|\"Dip Into Something Different" at the Melting Pot, found across the nation, & specializing in this Swiss dish|fondue
+1000|Featuring the Famous Bloomin' Onion, this restaurant also offers a Joey Menu for kids|Outback

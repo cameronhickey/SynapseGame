@@ -1,0 +1,6 @@
+NOT A VERB
+200|Capable, succeed, accomplish|capable
+400|Paint, brush, easel|easel
+600|Wind, wander, wonderful|wonderful
+800|Salt, pepper, sage|sage
+1000|Candor, center, canter|candor

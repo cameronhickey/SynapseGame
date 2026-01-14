@@ -1,0 +1,6 @@
+ORGAN RECITAL
+200|This organ breaks down ingested nutrients into small particles & mixes them with gastric juices to make chyme|the stomach
+400|Hepatic jaundice occurs when this organ can't process bilirubin properly|the liver
+600|The diencephalon, part of this organ, includes the thalamus|the brain
+800|The epicardium is its outer layer|the heart
+1000|Each of these organs has a visceral pleura & a parietal pleura|the lungs

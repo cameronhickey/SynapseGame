@@ -1,0 +1,6 @@
+SPEECH
+200|The roof of the mouth; a cleft one may lead to difficulty in articulation|palate
+400|The national association for this disorder says not to fill in sufferers' words or tell them, "just relax\"|stuttering
+600|Type of "stop" heard in a Cockney pronounciation of "little\"|glottal stop
+800|One "intonation contour" is the rising pitch at the end of a sentence that's the standard signal for this|a question
+1000|Read my lips — the consonants M & B are phonetically this type of sound|labial

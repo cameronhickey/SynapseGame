@@ -1,0 +1,6 @@
+TV SHOWS BY CHARACTER
+200|Laverne De Fazio|Laverne & Shirley
+400|Agent 99|Get Smart
+600|Martin Crane|Frasier
+800|Erica Kane|All My Children
+1000|Carlton the Doorman|Rhoda

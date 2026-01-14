@@ -1,0 +1,6 @@
+SEE FOOD
+200|How about a gold spoonful of this expensive delicacy|caviar
+400|They're not onion rings but this seafood appetizer|calamari
+600|Judging by their name, these potatoes would be perfect for Kate Middleton|duchess potatoes
+800|For your next fiesta, you might whip up some guacamole and these fried delights|taquitos
+1000|Some people grind the seeds of this tropical fruit and use it like pepper or in salad dressings|papaya

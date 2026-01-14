@@ -1,0 +1,6 @@
+WEIGHTS & MEASURES
+200|3 survey miles or a group of bowling teams|a league
+400|Letter in metric measurement which stands for 1000|K
+600|Found by multiplying the diameter of a circle by 3.1415|the circumference
+800|The coulomb is the International System unit of this type of charge|electric charge
+1000|A micron is one-millionth of this measure|a meter

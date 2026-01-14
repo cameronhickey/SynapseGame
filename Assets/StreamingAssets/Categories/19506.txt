@@ -1,0 +1,6 @@
+IS THIS A HAT?
+200|Batuque, perique, toque|toque
+400|Balaclava, Crimea, Sebastopol|Balaclava
+600|Dusseldorf, Homburg, Meissen|Homburg
+800|Biretta, Mannix, Rockford|biretta
+1000|Trilithon, trilby, troika|trilby

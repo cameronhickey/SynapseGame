@@ -1,0 +1,6 @@
+COUNTRY BY STATE
+200|Hessen|Germany
+400|Amazonas & Bolivar|Venezuela
+600|Hidalgo|Mexico
+800|Tyrol|Austria
+1000|Malacca|Malaysia

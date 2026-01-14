@@ -1,0 +1,6 @@
+WHICH AFRICAN COUNTRY?
+200|The Temple of Hatshepsut|Egypt
+400|It's highlighted here|Somalia
+600|Kilimanjaro National Park|Tanzania
+800|Next to South Africa on the Indian Ocean|Mozambique
+1000|The Tobruk War Cemetery|Libya

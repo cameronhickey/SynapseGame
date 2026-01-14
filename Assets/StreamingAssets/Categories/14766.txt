@@ -1,0 +1,6 @@
+WHO OWNS WHAT
+200|Rice Krispies comes from this company's kitchen|Kellogg's
+400|Kit Kat is part of this European chocolate company|Nestlé's
+600|P&G for short, it owns Pampers & Pantene shampoo|Procter & Gamble
+800|Dockers are a product of the company named for this man|Levi Strauss
+1000|Philadelphia cream cheese is from this company headquartered in Northfield, Illinois|Kraft

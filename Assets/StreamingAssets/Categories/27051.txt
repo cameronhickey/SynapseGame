@@ -1,0 +1,6 @@
+FOREIGN QUOTES
+200|The quotes "Iacta alea est" & "Veni, Vidi, Vici" are his|Julius Caesar
+400|\"Hier stehe ich, ich kann nicht anders. Gott helfe mir. Amen", he told the Diet|Martin Luther
+600|\"Eppur si muove", he said after recanting his belief that the Earth moves around the Sun|Galileo
+800|\"La historia me absolvera", he said after the failed attack on the Moncada Barracks|Fidel Castro
+1000|\"We twa hae run about the braes, and pu'd the Gowans fine: but we've wander'd mony a weary fit, sin'" this|Auld Lang Syne

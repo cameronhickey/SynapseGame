@@ -1,0 +1,6 @@
+BODY OF LITERATURE
+200|Joseph Conrad's "____ of Darkness\"|Heart
+400|Oliver Sacks' "A ___ to Stand On\"|Leg
+600|Daniel J. Boorstin's "Cleopatra's ____\"|Nose
+800|Toni Morrison's "The Bluest ____\"|Eye
+1000|Alan Brown's "Audrey Hepburn's ____\"|Neck

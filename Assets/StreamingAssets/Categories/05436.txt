@@ -1,0 +1,6 @@
+TITLE REFERENCES
+200|The tale of these 2 cities is told in "A Tale Of Two Cities\"|London & Paris
+400|The harsh conditions of this industry were exposed in Upton Sinclair's "The Jungle\"|the meatpacking industry
+600|This historic figure is the title subject of Robert Bolt's "A Man For All Seasons\"|St. Thomas More
+800|Algernon is one of these unfortunate creatures in "Flowers For Algernon\"|Mouse
+1000|In the collections "My Man Jeeves", "Very Good, Jeeves" & "Thank You, Jeeves", he's Jeeves' employer|Bertie Wooster

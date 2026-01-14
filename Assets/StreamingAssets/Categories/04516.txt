@@ -1,0 +1,6 @@
+THE SHORT VERSION
+200|In a courtroom: D.A.|District Attorney
+400|In a letter: P.S.|Post script
+600|To an auto mechanic: BMW|Bavarian Motor Works
+800|In the physics lab: LASER|Light Amplification by Stimulated Emission of Radiation
+1000|In medicine: HIV|human immunodeficiency virus

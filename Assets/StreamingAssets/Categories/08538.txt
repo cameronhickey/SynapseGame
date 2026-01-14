@@ -1,0 +1,6 @@
+DO THE MATH
+200|If the meter says $16.00 & you tip 20%, you'll give the driver this total|$19.20
+400|On the keypad, the digits in the phone number AAA-AAAA add up to this|14
+600|The largest common factor of 84 & 105 is this|21
+800|The total surface area of a cube with each side 10 inches long is this|600 square inches
+1000|If 3x-11=43, x=this|18

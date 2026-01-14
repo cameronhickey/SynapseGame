@@ -1,0 +1,6 @@
+COP ROCK
+200|Copper is found in igneous rock at an average of about 55 ppm, ppm standing for this|parts per million
+400|Though it sounds like a hair-removal treatment, this process removes impurites from copper using a charge|electrolysis
+600|Copper in rocks is likely to be more mobile under this type of condition, as opposed to alkaline|acidic
+800|From 1793 to 1837, this was pure copper; in 1982 its composition was changed to 97.5% zinc & 2.5% copper|a penny
+1000|Copper can be mined using this controversial technique in which the earth above the ore is removed|strip mining

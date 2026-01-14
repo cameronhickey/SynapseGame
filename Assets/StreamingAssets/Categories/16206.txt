@@ -1,0 +1,6 @@
+SOLVE FOR x
+200|25x = the number of U.S. Senate members|4
+400|99 - x = the number of keys on a standard piano|11
+600|105/x = blackjack!|5
+800|20 - x = days in a fortnight|6
+1000|30 + x = Douglas Adams' ultimate answer to...well, everything|12

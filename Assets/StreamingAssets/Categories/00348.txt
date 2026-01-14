@@ -1,0 +1,6 @@
+LAST WORDS
+200|Movie that ends with Rick predicting "the beginning of a beautiful friendship\"|Casablanca
+400|He bid goodnight to "Mrs. Calabash, wherever you are\"|Jimmy Durante
+600|Novel in which Sydney Carton finds a "far, far better rest" than "I have ever known\"|A Tale of Two Cities
+800|Arthur's partner who advised each week, "Put a little fun in your life - try dancing\"|Kathryn Murray
+1000|Her best line was "I have always depended on the kindness of strangers\"|Blanche DuBois

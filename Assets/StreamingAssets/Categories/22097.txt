@@ -1,0 +1,6 @@
+CHESS TALK
+200|A player conceding defeat is said to do this, like someone quitting an office|resigning
+400|If this special move is done on the queenside, it's "long"; on the kingside, "short\"|castling
+600|An attack that forces a piece to move & expose another piece behind it is called this, after a type of beam discovered in 1895|X-ray
+800|The horizontal rows of squares on a chessboard are the ranks; the vertical ones are these|files
+1000|Only the humble pawn can make this special type of capture with a French name|en passant

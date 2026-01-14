@@ -1,0 +1,6 @@
+FRENCH FIRST NAMES
+200|Magritte & Descartes|René
+400|Monet & Debussy|Claude
+600|Cocteau & Lafitte|Jean
+800|Cardin & Boulle|Pierre
+1000|Escoffier & Rodin|Auguste

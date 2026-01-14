@@ -1,0 +1,6 @@
+TAUNT "O\"
+200|By its isolated nature, your last original thought might be considered one of these children without parents|an orphan
+400|Being around you has completely killed my sense of this, the tendency to expect the best of life|optimism
+600|At your place of work, it might behoove us to replace you with one of these Pongo pygmaeus apes of Borneo|an orangutan
+800|When you try to make a point, you flail around like one of these mollusks with 8 limbs|an octopus
+1000|After a wrong response, we may need to use one of these cathode-ray "scopes" to check for brain activity|an oscilloscope

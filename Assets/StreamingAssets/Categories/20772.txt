@@ -1,0 +1,6 @@
+BETTING AT THE TRACK
+200|You should know this alliterative wager in which you select the winners in 2 consecutive races|a daily double
+400|If you make this bet, as opposed to win or place, you win if your horse comes in first, second or third|show
+600|This 2-word term denotes a horse with little chance to win; its posted odds can run as high as 99-1|a long shot
+800|Your bet may move to the favorite if you've bet on a horse that's pulled out of a race before it starts, this action|scratched
+1000|In horse racing you don't bet against the house; bets are pooled & split among winners in this hyphenated betting system|pari-mutuel

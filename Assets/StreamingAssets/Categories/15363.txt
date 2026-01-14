@@ -1,0 +1,6 @@
+LATIN BODY PARTS
+200|Digitus|a finger
+400|Caput|the head
+600|Umbilicus|the belly button
+800|Bracchium (this limb)|the arm
+1000|Auris|the ear

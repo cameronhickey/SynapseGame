@@ -1,0 +1,6 @@
+I'M TAKING FRENCH LEAVE
+200|En Allemagne, this country|Germany
+400|En Coree, this peninsula|Korea
+600|En Anvers, this Belgian city|Antwerp
+800|Au bord de la Tamise, this river|the Thames
+1000|En Nouvelle-Ecosse, this province|Nova Scotia

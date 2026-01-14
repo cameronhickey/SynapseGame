@@ -1,0 +1,6 @@
+OF MILK
+200|In mammals, milk is secreted by these glands|mammary glands
+400|Many countries have laws requiring that milk undergo this process that guards against pathogens|pasteurization
+600|This sugar makes up almost all the carbohydrates in milk|lactose
+800|Canned milk that has 60% of the water removed is known by this 10-letter term|evaporated
+1000|Mongolians cool off with airag, a slightly fermented version of this alliterative liquid|mare's milk

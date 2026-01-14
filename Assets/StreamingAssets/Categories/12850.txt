@@ -1,0 +1,6 @@
+HAVE A BEER & A SLOGAN
+200|\"Brewed with pure Rocky Mountain spring water\"|Coors
+400|\"You never forget your first girl\"|St. Pauli Girl
+600|\"The beer that made Milwaukee famous\"|Schlitz
+800|\"Tastes as great as its name\"|Milwaukee's Best
+1000|\"Head for the mountains\"|Busch

@@ -1,0 +1,6 @@
+STARTS WITH "X\"
+200|A doctor's fluoroscope uses this kind of energy|X-ray
+400|In Saint-Saens' "Danse Macabre", rattling of bones is portrayed by this instrument|a xylophone
+600|She's the "Happy Hooker\"|Xaviera Hollander
+800|French agents suggested the U.S. bribe them in this 1798 diplomatic scandal|the XYZ affair
+1000|Wife of Socrates, her name has come to mean an ill-tempered, shrewish wife|Xanthippe

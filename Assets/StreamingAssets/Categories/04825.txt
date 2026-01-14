@@ -1,0 +1,6 @@
+BRANDED
+200|This cross-country skiing simulator wasn't invented in Scandinavia; it's from Minnesota|NordicTrack
+400|In 1986 DuPont introduced these that were certified Stainmaster|Carpets
+600|This luggage-maker, now owned by Samsonite, was founded in the 1930s as American Luggage Works|American Tourister
+800|Brother began by making sewing machines; it made its first portable one of these in 1961|Typewriter
+1000|In 1986 its Deskpro used the new 80386 Intel chip|Compaq

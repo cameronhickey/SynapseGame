@@ -1,0 +1,6 @@
+FEDERAL AGENCIES
+200|It's with whom you file your federal income tax returns on or before April 15|the Internal Revenue Service
+400|This agency establishes safety standards for aircraft & helps plan & develop airports|the FAA (Federal Aviation Administration)
+600|Created in 1891, it's called the INS for short|the Immigration and Naturalization Service
+800|The Social Security Administration is an agency of this department|Health and Human Services
+1000|This bureau collects & publishes data on employment, unemployment, working hours, wages & prices|the Bureau of Labor Statistics

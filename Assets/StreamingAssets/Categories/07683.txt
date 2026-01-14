@@ -1,0 +1,6 @@
+WORKPLACES
+200|Usual workplace of a saucier, a poissonier & a garde-manger|restaurant
+400|The traditional entry-level area of a talent agency; Michael Ovitz started there at William Morris|mailroom
+600|A triage nurse is the first person who will tend to you if you go to this part of a hospital|emergency room
+800|In the U.S. the FBI has about 60 of the local offices usually called these|field offices
+1000|3-letter word paired with 'tool" in a type of manufacturer of precision products|die

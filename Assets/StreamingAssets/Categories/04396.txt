@@ -1,0 +1,6 @@
+WHAT'S THE DOG BREED?
+200|Lassie|Collie
+400|Rin Tin Tin|German shepherd
+600|Scooby Doo|Great Dane
+800|Toto|Cairn terrier
+1000|Balto|malamute

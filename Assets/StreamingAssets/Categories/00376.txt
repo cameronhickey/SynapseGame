@@ -1,0 +1,6 @@
+\"C" CITIES
+200|The destination of Chaucer's travelers in his "tales\"|Canterbury
+400|Its heart is Tivoli, an amusement park & garden|Copenhagen
+600|This city in Kansas shares its name with "Ahab the Arab's" camel & orangutan in Eastwood films|Clyde
+800|The historic Teapot Dome is among the oil fields surrounding this Wyoming city|Casper
+1000|Est. in 1550, in 1570, 1730, 1751 & 1939 earthquakes & tidal floods devastated this Chilean city|Concepción

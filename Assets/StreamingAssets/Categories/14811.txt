@@ -1,0 +1,6 @@
+DISNEY FILM BY CHARACTER
+200|Jasmine, a princess (1992)|Aladdin
+400|Mr. Smee, a first mate (1953)|Peter Pan
+600|Mike Wazowski, friend to James P. "Sully" Sullivan (2001)|Monsters, Inc.
+800|Stromboli, a puppet-show proprietor (1940)|Pinocchio
+1000|Timothy Q. Mouse, friend of the title character (1941)|Dumbo

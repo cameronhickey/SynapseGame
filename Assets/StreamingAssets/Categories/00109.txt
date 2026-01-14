@@ -1,0 +1,6 @@
+MAMMALS
+200|The only flying mammal|a bat
+400|Plays dead to escape predators, but one was close friends with an alligator|an opossum
+600|Apes of Java, or a late Grape Nuts huckster|a gibbon
+800|Due to their diet, moles & hedgehogs are in this class, Latin for "bug eaters\"|Insectivora
+1000|German for "badger dog", it was bred to hunt them|a dachshund

@@ -1,0 +1,6 @@
+LETTUCE BEGIN
+200|We'll begin by washing the lettuce & drying it in this alliterative item|a salad spinner
+400|Lettuce begin with a wedge salad, traditionally made with a hunk of this crisp, cold lettuce|iceberg
+600|We'll dress our lettuce with extra virgin olive oil & this vinegar from Modena, Italy|balsamic
+800|The owner of the Brown Derby in Hollywood got his name on this salad with lettuce, bacon, chicken, eggs & blue cheese|a Cobb salad
+1000|Here's a bunch of this lettuce named for its soft texture|butter lettuce

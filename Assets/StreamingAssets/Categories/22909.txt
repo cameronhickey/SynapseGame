@@ -1,0 +1,6 @@
+SUBPOENAS
+200|In 1973 a Senate committee investigating this scandal subpoenaed documents & recordings from the White House|the Watergate scandal
+400|Though he was subpoenaed, this president refused to appear at Aaron Burr's trial in 1807|Jefferson
+600|In 1947 screenwriter Dalton Trumbo, part of this numerical "Hollywood" group, was subpoenaed by the House Un-Amer. Activities Committee|the Hollywood Ten
+800|In 2019 this House Intelligence Committee chair from California issued a subpoena for the unredacted Mueller report|Schiff
+1000|In 2012 this Attorney General was found in contempt for rebuffing a subpoena for Justice Dept. documents|Holder

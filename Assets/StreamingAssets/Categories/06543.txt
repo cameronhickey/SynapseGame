@@ -1,0 +1,6 @@
+STORE TREK
+200|Based in Atlanta, this chain for do-it-yourselfers is the world's largest home improvement retailer|Home Depot
+400|This "City" is "Where Service is State-of-the-Art\"|Circuit City
+600|This store, a place for cooks, was founded by Chuck Williams in the 1950s|Williams-Sonoma
+800|Head over to this "Town", the retail store of an athletic gear company, for its weekly running club|Niketown
+1000|The 59th & Lex Cafe is found in this department store that's found on 59th & Lex|Bloomingdale's

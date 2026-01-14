@@ -1,0 +1,6 @@
+SPANISH PROFESSIONS
+200|Cantante, like Marc Anthony|a singer
+400|Escritor; one of them created what you're seeing|a writer
+600|Torero, much discussed in "Muerte en la Tarde\"|bullfighter
+800|Bombero, en caso de incendio|a firefighter
+1000|Beloved by kids, payaso, like the late lamented Cepillín|a clown

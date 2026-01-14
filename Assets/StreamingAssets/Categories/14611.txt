@@ -1,0 +1,6 @@
+FICTIONAL TV CITIES
+200|Cicely, Alaska|Northern Exposure
+400|Sunnydale, California|Buffy the Vampire Slayer
+600|Metropolis, Kansas|Smallville
+800|Dillon, Texas; Go Panthers!|Friday Night Lights
+1000|New New York, New York|Futurama

@@ -1,0 +1,6 @@
+WHAT "IZ" IT?
+200|NOAA calls it "precipitation... of water less than 0.5 mm in diameter\"|drizzle
+400|A magical sorcerer; it was also slang for "excellent" in the 1920s|wizard
+600|A wisp of hair curling askew; Garnier sells an "anti"-this serum|frizz
+800|This seasoned pork sausage is popular in Mexico|chorizo
+1000|It's Sid Meier's video game series where you start at the dawn of history & can get to the Space Age|Civilization

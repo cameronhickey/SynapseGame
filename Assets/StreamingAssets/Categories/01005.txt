@@ -1,0 +1,6 @@
+WORLD TRAVEL
+200|Tourists can hoof it or ride these animals from the Grand Canyon's rim down Bright Angel Trail to the river|mules
+400|There's a Wellington Museum in this Belgian town, about 2 miles north of the battlefield|Waterloo
+600|3-wheeled pedicabs called becak are a major form of transportation in Jogjakarta in this country|Indonesia
+800|When visiting this Belgian seaport's zoo, don't miss the Nocturama, a habitat for nocturnal animals|Antwerp
+1000|The Masai Mara Game Reserve in this country is world-famous for its annual wildebeest migration|Kenya

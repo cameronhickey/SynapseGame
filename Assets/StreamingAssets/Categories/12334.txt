@@ -1,0 +1,6 @@
+FINANCIAL PLANNING
+200|A type of bank account, or the accumulated simoleons you've put aside|a savings
+400|With a 529 plan, you can give up to $270,000 to a beneficiary for this purpose|a college education
+600|These U.S. Government securities whose term is 30 years are risk free, but they also pay the least interest|treasury bonds (savings bonds accepted)
+800|Sounds like an auto mishap, but it's a type of IRA whose funds come from another retirement plan|rollover
+1000|Also called a unit trust, it's an entity that invests the money of a pool of people in various securities|a mutual fund

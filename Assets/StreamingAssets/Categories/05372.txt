@@ -1,0 +1,6 @@
+OSCAR, GRAMMY OR BOTH
+200|Meryl Streep|Oscar
+400|Rita Moreno|Both
+600|Bette Midler|Grammy
+800|Aerosmith|Grammy
+1000|Stevie Wonder|both

@@ -1,0 +1,6 @@
+ELEMENTS
+200|An old-time gangster might threaten to fill ya full of this metal—actually, most of it in the U.S. goes into batteries|lead
+400|Na is the symbol of this element that makes up about 2.8% of the Earth's crust|sodium
+600|It weighs 21 times as much as an equal volume of water; a CD that sells 2 million units becomes double this|platinum
+800|Atomic number 55, it's used in atomic clocks|cesium
+1000|(Jimmy of the Clue Crew shows a lightbulb on the monitor.) Because it has the highest melting point of all metals, this element was long used as a filament in incandescent lightbulbs|tungsten

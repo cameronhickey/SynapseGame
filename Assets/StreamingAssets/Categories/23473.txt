@@ -1,0 +1,6 @@
+PLOT POINT REWRITES
+200|\"Glad the sharks didn't get it", said the dock official, "But we just hit our marlin quota for the season. Toss it, Santiago\"|The Old Man and the Sea
+400|Montag was right. The firemen stopped burning books, & society gave up TV, except for one specific quiz show|Fahrenheit 451
+600|The green room was terrifying. A young mouse. The red balloon. The old lady whispering "Hush" ...sleep would never come to me|Goodnight Moon
+800|McMurphy returned to the ward as his old self, even livelier—instead of the planned surgery, the doctor had fixed a troubling hernia|One Flew Over the Cuckoo's Nest
+1000|\"Oh, wow, this is super embarrassing! You're Joseph K.? 'K', like Kafka? We were after Joseph J.! Our mistake! You're free to go\"|The Trial

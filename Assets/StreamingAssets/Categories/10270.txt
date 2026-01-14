@@ -1,0 +1,6 @@
+TRAVELIN\'
+200|If you're in Rabat, you must be in the capital city of this country|Morocco
+400|Of the Seychelles, the Maldives or the Grenadines, the island group closest to India|the Maldives
+600|Yo, it's the sea you'll have to cross to cruise from Bari, Italy to Durres, Albania|the Adriatic
+800|You can head south on Varig Airlines, the national airline of this South American country|Brazil
+1000|Travelin' in Asia, you'll need to know that the baht is the basic unit of currency of this kingdom|Thailand

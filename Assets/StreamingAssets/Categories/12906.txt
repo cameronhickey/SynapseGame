@@ -1,0 +1,6 @@
+BROADWAY MUSICAL ADJECTIVES
+200|\"The ___ Mermaid\"|Little
+400|\"The ___ Molly Brown\"|Unsinkable
+600|\"Joseph and the ___ Technicolor Dreamcoat\"|Amazing
+800|\"___ Face" or "___ Girl\"|Funny
+1000|\"The ___ Chaperone\"|Drowsy

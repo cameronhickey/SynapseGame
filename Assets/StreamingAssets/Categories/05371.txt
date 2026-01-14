@@ -1,0 +1,6 @@
+THE BOMB
+200|It's a small explosive bomb either thrown by hand or fired from a launcher|Grenade
+400|On Nov. 1, 1952 Eniwetok Atoll was the first place on Earth to face the wrath of one of these bombs|Hydrogen bomb
+600|Used against underwater targets, these "charges" operate by water pressure at the level for which they're set|Depth charges
+800|From the Latin for "broken piece", this bomb is designed to break into many small pieces when exploded|Fragmentation bomb
+1000|Also called an enhanced radiation bomb, it emits a large portion of its energy as radioactivity|Neutron bomb

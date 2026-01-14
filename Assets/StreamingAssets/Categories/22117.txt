@@ -1,0 +1,6 @@
+CHEESE FOR THE MOUSE
+200|Jerry, you may choose the dry, pepper or Monterey version of this|Jack cheese
+400|Despereaux, we give you this French cheese that's been called "the default choice for holiday cheese platters\"|Brie
+600|Mrs. Frisby, enjoy your Stilton, made only in 3 counties in this country|England
+800|Mr. Jingles—a little Graskaas, a young type of this 5-letter Dutch cheese|Gouda
+1000|Speedy Gonzales, your selection is this crumbly kind, "the Parmesan of Mexico\"|Cotija

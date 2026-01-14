@@ -1,0 +1,6 @@
+ZOOLOGY
+200|Finned on fish, scaly on lizards, nonexistent on humans & manx cats|tails
+400|From Latin "to gnaw", there are more of this group than all other mammals combined|rodents
+600|In mammals, trait determined by presence or absence of Y-chromosome|sex
+800|Males of the stag species of this insect have jaws that resemble antlers|beetle
+1000|The world's smallest monkeys, they include the pygmy & the golden lion tamarin|the marmoset

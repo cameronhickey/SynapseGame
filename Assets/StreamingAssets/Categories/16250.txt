@@ -1,0 +1,6 @@
+SHAKESPEAREAN SCENE SETTINGS
+200|\"Elsinore. A platform before the castle\"|Hamlet
+400|\"A hall in Petruchio's country house\"|The Taming of the Shrew
+600|\"Before Brutus's tent, in the camp near Sardis\"|Julius Caesar
+800|\"Another part of the island\"|The Tempest
+1000|\"Cyprus, a room in the castle\"|Othello

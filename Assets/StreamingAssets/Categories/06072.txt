@@ -1,0 +1,6 @@
+PRISONERS' SENTENCES
+200|He wrote "Mein Kampf" in Landsberg Prison in the 1920s|Adolf Hitler
+400|This civil rights leader penned his "Letter From the Birmingham Jail" on April 16, 1963|Dr. Martin Luther King Jr.
+600|This Irish wit's "De Profundis" was inspired by his stay at Reading Gaol|Oscar Wilde
+800|His book "The Sixteenth Round: From Number 1 Contender to No. 45472" led the way to his release & a 1999 film|Rubin "Hurricane" Carter
+1000|Later president of Sinn Fein, his "Cage Eleven" details his 1970's prison term|Gerry Adams

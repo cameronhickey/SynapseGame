@@ -1,0 +1,6 @@
+HALLEY'S COMET
+200|The solar wind makes the tail of Halley's Comet always point in this direction|away from the Sun
+400|The story that the Pope did this to the comet in 1456 is nothing but a "comet tale\"|excommunicated the comet
+600|The first name of the astronomer for whom the comet is named|Edmond
+800|Not smog & city lights, but this is the main reason sightings will be less spectacular than the last time|because the comet is going to be much further away
+1000|Halley's comet computations were based on this English genius' discovery of orbital parabola|Isaac Newton

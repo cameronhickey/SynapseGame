@@ -1,0 +1,6 @@
+SONGS
+200|\"Shepherds quake at the sight! Glories stream from heaven afar" are lyrics from this Christmas carol|\"Silent Night\"
+400|This Paul Dresser ballad is also known as "They Called Her Frivolous Sal\"|\"My Gal Sal\"
+600|In 1964 Barbra Streisand took this song from "Funny Girl" to No. 5 on the pop charts|\"People\"
+800|Although Tex Ritter sang the theme to this 1952 western, Frankie Laine's single was the big hit|High Noon
+1000|\"You're the cream in my coffee, you're" this "in my stew\"|the salt

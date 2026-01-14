@@ -1,0 +1,6 @@
+ALPHABET DOGS
+200|A: A plush tail curling over the back characterizes this breed from Japan|the Akita
+400|B: The AKC says these "move like the athletes they're named for: smooth... graceful... powerful\"|a Boxer
+600|C: Toto was one of these Scottish terriers bred to chase vermin in rock piles|a Cairn Terrier
+800|D: This breed was developed in Germany by a night watchman whose first name was Karl|Doberman
+1000|E: It has a speckled coat unlike its solid mahogany Irish cousin|English Setter

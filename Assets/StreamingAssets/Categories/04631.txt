@@ -1,0 +1,6 @@
+FILL IN THE ____
+200|Something hard to find resembles "a needle in a _____\"|Haystack
+400|Hamlet sighed, "To be or not to be: that is _____\"|The question
+600|In the book of Matthew, "Many are called, but few are _____\"|Chosen
+800|The Latin "Ceteris paribus" means "Other things being _____\"|Equal
+1000|Lincoln resolved, "Government of the people, by the people, for the people, shall not _____\"|Perish from the Earth

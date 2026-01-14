@@ -1,0 +1,6 @@
+DRIVING SAFETY
+200|(Alex reports from Ford Motor Company in Dearborn, MI.) There's an actual car inside this advanced driving simulator which Ford uses to test new safety technologies; the unit is called "VIRTTEX", which stands for this kind of test track|virtual
+400|(Alex reports from Ford Motor Company in Dearborn, MI.) Some of the safety features being tested are seats & steering wheels that vibrate when a lane is crossed; it's called haptic technology because it refers to this sense|touch
+600|(Alex reports from Ford Motor Company in Dearborn, MI.) Undergoing testing right now is an innovative collision warning feature that will alert drivers to an unexpected hazard; it's based on this kind of technology, a term coined in 1940|radar
+800|(Alex reports from Ford Motor Company in Dearborn, MI.) Unlike stationary simulators, the VIRTTEX allows the driver inside the vehicle to actually feel the motion; if he hits the brakes or turns the steering wheel, he will feel pitch, roll & this third axial motion|yaw
+1000|(Alex reports from Ford Motor Company in Dearborn, MI.) To make the driving as realistic as possible, the simulator includes such features as 3-D sound—with noises of the road, the engine & the tires as well as that apparent change in pitch you just heard, named for this Austrian physicist|Doppler

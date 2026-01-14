@@ -1,0 +1,6 @@
+\"CITY" CITIES
+200|We'll gamble you know that this East Coast tourist hotspot lies on 10-mile-long Absecon Island|Atlantic City
+400|This state capital is about 10 miles southeast of a "Great" body of water|Salt Lake City
+600|The metro area of this city includes Clay & Cass Counties in Missouri & Leavenworth in a neighboring state|Kansas City
+800|In 1858 land speculator Abraham Curry founded what became this capital, named for a frontier scout|Carson City
+1000|Check out the Truman show in this capital, specifically the Harry S Truman State Office Building|Jefferson City

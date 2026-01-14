@@ -1,0 +1,6 @@
+STADIUMS BY COUNTRY
+200|Kim Il-Sung Stadium|North Korea
+400|Stadio Giuseppe Meazza|Italy
+600|Estadio Azteca|Mexico
+800|Malmo Stadion|Sweden
+1000|Estadio Presidente Peron|Argentina

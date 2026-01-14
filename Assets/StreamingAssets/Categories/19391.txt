@@ -1,0 +1,6 @@
+NUMERICAL LIT
+200|The title of this Ken Kesey novel completes the rhyme "One flew east, one flew west...\"|One Flew Over the Cuckoo's Nest
+400|Partly autobiographical 1969 Vonnegut bestseller|Slaughterhouse-Five
+600|\"I Am Number" this isn't Brett Favre's memoir but young adult sci-fi about the Loric children|Four
+800|O'Brien is the totalitarian torturer in this novel|1984
+1000|Richard Henry Dana told of life aboard a 19th century ship in "Two Years Before" this|the Mast

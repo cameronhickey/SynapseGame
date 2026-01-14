@@ -1,0 +1,6 @@
+SPACE SHUTTLE NAMES
+200|Plato was the first to mention this legendary island|Atlantis
+400|This river runs along the boundary between Washington & Oregon|Columbia
+600|The boxer who fights the champ for the title|Challenger
+800|A strenuous effort|Endeavour
+1000|In law, the compulsory disclosure of facts or documents|Discovery

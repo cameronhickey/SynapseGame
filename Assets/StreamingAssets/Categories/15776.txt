@@ -1,0 +1,6 @@
+RUNNING A MARATHON
+200|The modern marathon race was first held at the revival of the Olympic games in 1896 in this city|Athens
+400|This marathon runs from Hopkinton to the Back Bay|the Boston Marathon
+600|To the nearest minute, what you'll have to average per mile to run a 2:10 marathon like the champs|5 minutes
+800|The last American man to win the Olympic marathon was Frank Shorter in 1972 in this city|Munich
+1000|In Beijing in 2008, Sammy Wanjiru of this nation broke the Olympic record by almost 3 minutes|Kenya

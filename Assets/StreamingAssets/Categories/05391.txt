@@ -1,0 +1,6 @@
+THE MAP OF SOUTH AMERICA
+200|Sailing down the Orinoco, you'll wind up in this ocean|Atlantic Ocean
+400|Captain Cook "rounded" it with little difficulty in early 1769|Cape Horn
+600|Georgetown is capital of this country, once a British colony|Guyana
+800|Country named for the person who became president of Gran Colombia in 1819|Bolivia (for Simon Bolivar)
+1000|They're the 2 South American countries that don't border Brazil|Chile & Ecuador

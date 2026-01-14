@@ -1,0 +1,6 @@
+HOTEL
+200|The 460-room King Kamehameha's Kona Beach Hotel in this state stands on the grounds where the man once resided|Hawaii
+400|Opened in 1920, the 535-room Drake Hotel offers gorgeous views of this city's Lake Shore Drive|Chicago
+600|Located on Sunset Boulevard, this pink palace opened in 1912 and is on the cover of the Eagles' "Hotel California\"|the Beverly Hills Hotel
+800|This 2-named New York City hotel at Park & 50th claims to have been the first with room service—I think I'll order the salad|the Waldorf-Astoria
+1000|Stay at Hotel del Coronado, then cross the bridge & have a whale of a time with Shamu in this city|San Diego

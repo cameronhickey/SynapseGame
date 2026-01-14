@@ -1,0 +1,6 @@
+CHECK YOUR "OIL\"
+200|The backwards movement of a gun after it's been fired|recoil
+400|Hard work; it precedes "and trouble" in the title of a book about witches|toil
+600|That small, decorative lace mat under your crumpet|doily
+800|A curved wing acts as this, allowing the plane to rise|airfoil
+1000|Sounding like a cooking device, it refers to standard contract language|boilerplate

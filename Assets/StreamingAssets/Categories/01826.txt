@@ -1,0 +1,6 @@
+AGREEMENTS
+200|It's the type of agreement formalized in Versailles June 28, 1919|a treaty
+400|A 4-letter word for an agreement; preceded by "com" it becomes a 7-letter word meaning the same thing|a pact
+600|This word for an agreement to marry comes from Old English for "in relation to truth\"|a betrothal
+800|It's a binding agreement, or one of God's promises to man in the Bible|a covenant
+1000|French for a formal agreement, it's from the Latin for "agree\"|a concordat

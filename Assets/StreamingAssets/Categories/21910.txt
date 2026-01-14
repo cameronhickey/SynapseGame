@@ -1,0 +1,6 @@
+TALKING TO YOUR SPANIEL IN ESPAÑOL
+200|¡Buen perro!|Good dog!
+400|¡Siéntate!|Sit!
+600|¡Bájate del sofá!|Get off the couch!
+800|¡Hazte el muerto!|Play dead!
+1000|¡Trae el palo!|Fetch the stick!

@@ -1,0 +1,6 @@
+IT'S LATIN TO ME
+200|Name for the college or university one has attended, or the school's song|alma mater
+400|Meaning "and others", it looks like a misprint of Israel's national airline|et al
+600|A defendant's plea which, while not admitting guilt, accepts punishment anyway|nolo contendere
+800|Whether or not you're having fun, how "time flies" in Latin|tempus fugit
+1000|Meaning "Whither goest thou?", the words that sent Peter back to Rome|Quo vadis?

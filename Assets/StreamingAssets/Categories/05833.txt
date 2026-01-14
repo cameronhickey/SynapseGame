@@ -1,0 +1,6 @@
+DICTATORS BY BIRTHPLACE
+200|August 29, 1941: Pozarevac, Serbia|Slobodan Milosevic
+400|April 28, 1937: Tikrit, Iraq|Saddam Hussein
+600|May 19, 1925: Kompong Thom, Cambodia|Pol Pot
+800|September 11, 1917: Sarrat, Philippines|Ferdinand Marcos
+1000|January 26, 1918: Scornicesti, Romania|Nicolae Ceausescu

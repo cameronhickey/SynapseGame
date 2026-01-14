@@ -1,0 +1,6 @@
+NOT CHESS AGAIN!
+200|In doing this, a player moves a rook either 2 squares to the left or 3 to the right|castling
+400|If one of these moves 2 squares rather than one, it may be captured "en passant", in passing|a pawn
+600|In a set of standard Staunton-style pieces, not bishops but these pieces are topped with crosses|kings
+800|White moves first & looks to increase his advantage; black replies & seeks to gain this, part of Wyoming's state nickname|equality
+1000|If a game opens d4 d5 c4 you're playing the queen's this, you schemer you|a gambit

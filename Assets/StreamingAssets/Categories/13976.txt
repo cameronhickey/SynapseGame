@@ -1,0 +1,6 @@
+THEIR GIVEN FIRST NAMES
+200|Poet Ted Hughes|Edward
+400|Ballplayer Ted Williams|Theodore
+600|Comedian Bobcat Goldthwait|Robert
+800|Musician Ringo Starr|Richard
+1000|Gymnast Nastia Liukin, like a Russian grand duchess|Anastasia

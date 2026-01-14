@@ -1,0 +1,6 @@
+SCIENCE BRIEFS
+200|The primary colors are red, yellow & this|blue
+400|Traveling 1 astronomical unit from the Sun, you should just reach this planet|Earth
+600|It's the international name for the Centigrade scale|Celsius
+800|In 1909 Soren Sorensen came up with this scale to measure acidity|pH scale
+1000|This element's name is from the Latin for "charcoal\"|carbon

@@ -1,0 +1,6 @@
+FINANCIAL ABBREVIATIONS
+200|If you want an investment backed by the U.S. Government, the Federal Reserve sells T-bills, short for this|treasury bills
+400|When you need a loan to buy a house, you can get a fixed-rate one or this, an ARM|adjustable rate mortgage
+600|If you want to buy stock in small & mid-sized companies, check out the stocks traded on this, the AMEX|American Stock Exchange
+800|Sell junk bonds if you want to take your publicly traded company private using an LBO, this type of buyout|leveraged buyout
+1000|Stocks are often considered undervalued if they have a low PE ratio, the stock price to this|earnings

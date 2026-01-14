@@ -1,0 +1,6 @@
+RELIGION
+200|He was the doubter among the Apostles|(St.) Thomas
+400|Continent with the largest Jewish population|North America
+600|Color of smoke signifying election of new pope|white
+800|This Buddhist sect seeks truth through concepts like "the sound of one hand clapping\"|Zen
+1000|This word for the Mohammedan religion means "submission to the will of God\"|Islam

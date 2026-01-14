@@ -1,0 +1,6 @@
+SECOND-MOST POPULOUS CITIES
+200|Cork|Ireland
+400|Goteburg|Sweden
+600|Pusan|South Korea
+800|Maracaibo|Venezuela
+1000|Brno|Czech Republic

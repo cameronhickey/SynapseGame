@@ -1,0 +1,6 @@
+PARTS OF SPEECH, DEFINED
+200|It is "often thought of as referring to persons (or) places\"|a noun
+400|They are "distinguished... by their function as connectors between words, phrases, clauses, or sentences\"|conjunctions
+600|They are a "class of words expressing emotion, distinguished... by their use in grammatical isolation\"|an interjection
+800|They "typically express some relation of place, time, manner...\"|adverb
+1000|They "typically express a spatial, temporal, or other relationship\"|a preposition

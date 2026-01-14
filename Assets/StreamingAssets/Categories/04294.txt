@@ -1,0 +1,6 @@
+NAME THE AUTOMAKER
+200|Legend & Integra|Acura
+400|Protege & Millenia|Mazda
+600|Protege & Miata|Mazda
+800|X-Type, S-Type & XJ|Jaguar
+1000|Gallant & Diamante|Mitsubishi

@@ -1,0 +1,6 @@
+LET'S TALK TURKISH
+200|An adam is one of these; in Genesis, he's the first one|man
+400|I think I'll buy that rug in the bazaar; the fiyat, this, is right|price
+600|You want me to walk up to the galleries in the Hagia Sophia? You mean there's no asansor, this?|an elevator
+800|Ugh, I shouldn't have eaten that moldy baklava—get me to the hastane, this place...stat!|the hospital
+1000|If you're wading into the Canakkale Bogazi, at least wear your mayo, this|swimsuit

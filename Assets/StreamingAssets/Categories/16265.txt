@@ -1,0 +1,6 @@
+JUMP AROUND! JUMP AROUND!
+200|If I say my car's engine needs a jump, I mean this part|the battery
+400|This track & field event has a fully equipped bar— it's set at around 7'6" for the top men|the high jump
+600|Yes, Caine of "Kung Fu", this insect can leap 20 times its body length; a human would have to leap about 120' to do that|a grasshopper
+800|Jumping, parrying & blocking techniques are part of this Korean martial art that translates to "kick fist way\"|tae kwon do
+1000|In the U.S. Army jump masters transform regular soldiers into these|paratroopers

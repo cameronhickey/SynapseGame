@@ -1,0 +1,6 @@
+THE STATE U's MAIN CAMPUS
+200|The University of Nebraska, presidentially speaking|Lincoln
+400|The University of Wisconsin, presidentially speaking|Madison
+600|The Universities of South Carolina & Missouri (it's a university name itself)|Columbia
+800|Here's some flowery prose about Indiana University|Bloomington
+1000|The University of Kentucky|Lexington

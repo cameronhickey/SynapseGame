@@ -1,0 +1,6 @@
+THE "IRS\"
+200|Parched|thirsty
+400|Very hairy|hirsute
+600|A zeppelin, for example|an airship
+800|Gilbert, you're one out-of-control cop! I'm reporting you to IA, this group within the LAPD|internal affairs
+1000|In legalese, they're legatees|heirs

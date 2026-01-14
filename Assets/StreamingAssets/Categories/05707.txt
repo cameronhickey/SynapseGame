@@ -1,0 +1,6 @@
+THE END OF THE L"INE\"
+200|Ore-extracting spot|Mine
+400|Cord made from strands twisted together|Twine
+600|Boars, hogs & pigs, collectively|Swine
+800|The tomb of a holy person|Shrine
+1000|In polygamous societies, a secondary mate|Concubine

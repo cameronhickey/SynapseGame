@@ -1,0 +1,6 @@
+PENINSULAS
+200|Cape York Peninsula, this country's northernmost extension, is in the state of Queensland|Australia
+400|Parts of Belize, Guatemala & Mexico occupy this peninsula|the Yucatan
+600|The Red Sea & the Gulf of Aden separate this peninsula from Africa to the west|the Arabian Peninsula
+800|This Southeast Asian peninsula is known for the wealth of its tin mines|the Malay Peninsula
+1000|This Turkish peninsula separates the Aegean Sea from the Dardanelles|Gallipoli

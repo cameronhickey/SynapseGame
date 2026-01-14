@@ -1,0 +1,6 @@
+POLICE YOUR AREA
+200|4-letter word for the area a cop regularly covers|his beat
+400|The Scotland Yard "squad" named for this, meaning an immoral habit, has been boringly renamed Serious Crime Directorate 9|vice
+600|More & more small cities have these door-busting teams; Paducah, Kentucky uses its team about twice a year|a SWAT team
+800|This police force was established during the first term of Canada's first PM, John A. MacDonald|the Mounties (the RCMP)
+1000|The LAPD "strongly embraces" this kind of policing that emphasizes working with the citizenry|community policing

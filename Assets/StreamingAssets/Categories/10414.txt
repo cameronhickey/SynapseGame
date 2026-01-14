@@ -1,0 +1,6 @@
+SO "LONG\"
+200|A unit of distance equal to 220 yards|a furlong
+400|This arachnid is also called a harvestman|a daddy long-legs
+600|Random House says this is a "chiefly Texas" term for a bottle of beer|a longneck
+800|12-letter term for one employed on the wharves of a port|a longshoreman
+1000|2-word term for the body part highlighted here|medulla oblongata

@@ -1,0 +1,6 @@
+SOCRATES
+200|Socrates was born & spent his life in this city|Athens
+400|Socrates was charged with religious heresy & doing this|corrupting the youth
+600|The process of finding universal truths by repeated questions is known as this|the Socratic method
+800|Shakespearean character who didn't mind if his wife was as "shrewd as Socrates' Xanthippe\"|Petruchio
+1000|\"The Death of Socrates" by this 18th century French artist is in the Metropolitan Museum of Art|Jacques-Louis David

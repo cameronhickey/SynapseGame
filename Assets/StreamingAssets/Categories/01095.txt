@@ -1,0 +1,6 @@
+PAINTERS
+200|You can see his painting of "The Starry Night" at New York City's Museum of Modern Art|van Gogh
+400|In 1962 his filmmaker son Jean published a memoir about him|Renoir
+600|After she moved to New Mexico, bare bones & desert flowers became frequent motifs in her paintings|Georgia O'Keeffe
+800|He was born December 2, 1859 in Paris, if you get the "point\"|Seurat
+1000|James Boswell dedicated his "Life of Samuel Johnson" to this British rival of Gainsborough|Sir Joshua Reynolds

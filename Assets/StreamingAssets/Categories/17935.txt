@@ -1,0 +1,6 @@
+SPOT THE MAMMAL
+200|Turkey, marten, sponge|a marten
+400|Kiwi, kinkajou, kookaburra|kinkajou
+600|Shoebill, sea horse, narwhal|the narwhal
+800|Hyrax, pterodactyl, barracuda|hyrax
+1000|Albatross, pangolin, darter|the pangolin

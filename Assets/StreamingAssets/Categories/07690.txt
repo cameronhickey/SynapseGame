@@ -1,0 +1,6 @@
+THIS MEANS "WAR\"
+200|Principal prison official|warden
+400|Clothes collection|wardrobe
+600|A male sorcerer|a warlock
+800|A guarantee on purchased goods|warranty
+1000|A town at the mouth of the Providence River|Warwick

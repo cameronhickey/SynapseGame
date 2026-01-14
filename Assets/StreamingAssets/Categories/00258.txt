@@ -1,0 +1,6 @@
+GOVERNMENT
+200|Choosing someone for office by voting|an election
+400|From Latin "clothed in white", a person running for office|a candidate
+600|Organizations or issues not based on political affiliations|non-partisan
+800|Someone who doesn't believe in this category|an anarchist
+1000|Porcine term that describes unnecessary projects passed through Congress|pork barrel

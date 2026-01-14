@@ -1,0 +1,6 @@
+MOVIE LOCALES
+200|2 "big" movies of '88, "Big" & "Big Business", are both partly set in this big city|New York
+400|\"8 Mile\"|Detroit
+600|\"Inherit the Wind" starring Spencer Tracy took place in fictional Hillsboro in this real state|Tennessee
+800|\"Blade Runner\"|Los Angeles
+1000|The plot of this 1977 ballet film pivoted around Oklahoma City, both on & off the stage|Turning Point

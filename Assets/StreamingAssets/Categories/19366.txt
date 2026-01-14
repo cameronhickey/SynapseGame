@@ -1,0 +1,6 @@
+SHAKESPEAREAN JEOPARDY!
+200|\"Now is the Jeopardy! of our discontent\"|winter
+400|\"Something is rotten in the state of Jeopardy!\"|Denmark
+600|\"The quality of Jeopardy! is not strain'd\"|mercy
+800|\"It is the green-eyed Jeopardy! which doth mock the meat it feeds on\"|monster
+1000|\"It is the east & Jeopardy! is the sun\"|Juliet

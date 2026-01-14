@@ -1,0 +1,6 @@
+FLASHIN' SOME FASHION
+200|Wellington & combat are types of this fashion accessory|boots
+400|I'll say the '80s loved this three-quarter style of pants|Capri pants
+600|Openwork stockings in a diamond-shaped pattern have this piscine name, which doesn't sound very sexy, really|fishnet
+800|It's a rough textured fabric made of wool in twill or herringbone weave for jackets|tweed
+1000|Popular in the '20s & again in the '60s, this French-named hat will be there with bells on|a cloche hat

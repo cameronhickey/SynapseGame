@@ -1,0 +1,6 @@
+NAVAL VESSELS
+200|The specific job of this type of ship is to trawl the waters searching for explosive devices|minesweeper
+400|The Massachusetts, this type of ship that sailed in WWII, was actually built in Quincy|battleship
+600|The name of this ship that provides service & support to other ships is also the "T" in TLC|tender
+800|Your regular old garden variety destroyer's main mission is to sound out & destroy these|submarines
+1000|This adjective from the animal world is used to describe ship-to-shore transport craft|amphibious vessels

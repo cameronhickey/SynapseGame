@@ -1,0 +1,6 @@
+THIRD PARTY PRESIDENTIAL CANDIDATES
+200|This billionaire Texan ran in 1992 & again in 1996|Ross Perot
+400|In 1968 this former Governor won 13.5% of the vote & carried 5 states|George Wallace
+600|This man's third party candidacy in 1912 allowed Woodrow Wilson to win|Teddy Roosevelt
+800|He followed Jackson into the Presidency in 1836 & 12 years later ran as a third party candidate|Van Buren
+1000|In 1924 this Wisconsin senator ran on the Progressive Party ticket & on the Socialist Party ticket|\"Fightin'" Bob La Follette

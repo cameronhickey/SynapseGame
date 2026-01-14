@@ -1,0 +1,6 @@
+I'M GAME
+200|A roulette wheel has this many slots with odd numbers|18
+400|Except in the case of a tie, this many points wins a game of ping-pong|21
+600|In this card game, the object is to cross the finish line by scoring 121 points, moving pegs on a wooden board|cribbage
+800|A steady hand & 41 multicolored sticks are used in this game that's also known as jackstraws|pick-up sticks
+1000|In the original rules of this Gary Gygax game, your "saving throw" dice roll can save you from being paralyzed|Dungeons and Dragons

@@ -1,0 +1,6 @@
+ALSO A SOAP BRAND
+200|Tusk material|Ivory
+400|Rotary phone part|Dial
+600|Molten rock|Lava
+800|Peace advocate|Dove
+1000|April in Tipperary|Irish Spring

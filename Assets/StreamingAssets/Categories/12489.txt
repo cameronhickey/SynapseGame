@@ -1,0 +1,6 @@
+QUESTS
+200|In the King Arthur legends, Sir Galahad quested for this sacred vessel|the Holy Grail
+400|In the first Harry Potter novel, Harry & his friends try to get to this title object|the Sorcerer's Stone
+600|In a 1930 Sam Spade novel, everyone's on the hunt for this object that once belonged to the Knight's Templar|the Maltese Falcon
+800|In Greek myth Pelias promised to surrender the throne to Jason if he could retrieve this priceless pelt|the Golden Fleece
+1000|Beowulf sailed to Denmark on a quest to kill this monster|Grendel

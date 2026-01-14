@@ -1,0 +1,6 @@
+HOMELANDS
+200|Han lives in Changchun, in Kirin province, in this country|China
+400|Yakubu used to send me e-mails from this country's old capital, Lagos|Nigeria
+600|Bela lives on central Europe's largest lake, Balaton, in this country|Hungary
+800|Joonas used to live in Goteborg, the second-largest city in this country|Sweden
+1000|Gustav lives in Bratislava, this country's capital|Slovakia

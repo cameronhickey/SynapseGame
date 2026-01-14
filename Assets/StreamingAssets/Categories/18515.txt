@@ -1,0 +1,6 @@
+THE FAULT IN OUR STATES
+200|The San Andreas Fault|California
+400|The Denali Fault|Alaska
+600|The Teton Fault|Wyoming
+800|The Corvallis Fault|Oregon
+1000|The Wasatch Fault|Utah

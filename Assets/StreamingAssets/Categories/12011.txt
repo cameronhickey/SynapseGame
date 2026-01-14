@@ -1,0 +1,6 @@
+WHAT DOESN'T BELONG?
+200|Woodwinds: French horn, bassoon, oboe|French horn
+400|Balkan countries: Albania, Latvia, Croatia|Latvia
+600|U.S. veeps: Charles Curtis, Charles Wellman, Charles Dawes|Charles Wellman
+800|The Bible: Moabites, Luddites, Ephraimites|Luddites
+1000|British prime ministers: Palmerston, Chambers, Gladstone|Chambers

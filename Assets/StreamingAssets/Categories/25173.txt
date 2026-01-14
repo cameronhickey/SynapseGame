@@ -1,0 +1,6 @@
+LET'S "SEE\"
+200|The intended recipient of a letter|the addressee
+400|4-syllable adjective meaning within the range of anticipation|foreseeable
+600|\"See" is right in the middle of this old-timey word meaning to beg or implore|beseech
+800|Absolutely boiling with unexpressed anger|seething
+1000|Tiny pungent plant part used in the New Testament as a symbol of faith|a mustard seed

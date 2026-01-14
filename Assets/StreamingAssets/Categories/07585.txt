@@ -1,0 +1,6 @@
+\"D" TIME
+200|The soda fountain used to be a common feature in this type of commercial establishment|drugstore
+400|If you don't think Laurel & Hardy co-star James Finlayson was a master of this reaction, look again|doubletake
+600|This current slang term for something excellent can also mean illegal substances or a stupid person|dope
+800|This word meaning "to make insane" sounds like where a warped cowboy might be "home on\"|derange
+1000|(Sarah of the Clue Crew in Amsterdam) In the early 1600s, one tulip bulb could pay for a house or be given by a bride's family as this|dowry

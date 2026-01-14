@@ -1,0 +1,6 @@
+SURFIN' USB
+200|USB technology was developed by a core group of companies that included Intel, Microsoft & this 3-letter giant|IBM
+400|USB technology is used to power these "happy" control devices also found in airplanes|joysticks
+600|In computer speak, "USB" stands for "universal serial" this—but don't try waiting for one at a stop|a bus
+800|Often connected via USB port, this device can be used for video chatting, or to keep an eye on things at home|a webcam
+1000|USB ports on the 1998 first generation of this Apple computer helped make USB an industry standard|an iMac

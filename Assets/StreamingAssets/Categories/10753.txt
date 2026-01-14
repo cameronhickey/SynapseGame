@@ -1,0 +1,6 @@
+MOVIE CATCH PHRASES
+200|1992: "There's no crying in baseball!\"|A League of Their Own
+400|1982: "They're here!\"|Poltergeist
+600|1967: "What we've got here is failure to communicate\"|Cool Hand Luke
+800|1950: "I am big! It's the pictures that got small\"|Sunset Boulevard
+1000|1927: "You ain't heard nothin' yet!\"|The Jazz Singer

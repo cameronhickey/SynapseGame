@@ -1,0 +1,6 @@
+ALSO A KEYBOARD KEY
+200|Some experiments divide subjects into the treatment group & this group|control
+400|Your bill at the bar|tab
+600|This part of the large intestine extends from the cecum|colon
+800|The Old 97's are part of the musical genre called this-country|alt
+1000|A loose-fitting dress or chemise|shift

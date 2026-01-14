@@ -1,0 +1,6 @@
+DIALING FOR DIALECTS
+200|Sprechen Sie Plattdeutsch? If you do, you speak the Low variety of this language|German
+400|Dialects of this language include Wu, Yue & Hakka|Chinese
+600|Vedic, dating back at least 4,000 years, is the earliest dialect of this classical language of India|Sanskrit
+800|While Maltese borrows many words from Italian, it developed from a dialect of this Semitic language|Arabic
+1000|Aeolic, spoken in ancient times, was a dialect of this|Ancient Greek

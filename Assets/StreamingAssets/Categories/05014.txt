@@ -1,0 +1,6 @@
+GIVE "P"s A CHANCE
+200|It means to sound a bell|Peal
+400|From the Latin for "boxer", it's a synonym for boxing|Pugilism
+600|Since 1954, the Blue Angels' home base has been this Florida naval air station known as the "Annapolis of the Air\"|Pensacola
+800|Ceramic name for the type of enamel used in bathroom fixtures|porcelain
+1000|A verb & the words modifying it make up this syntactic unit that's part of a complete sentence|predicate

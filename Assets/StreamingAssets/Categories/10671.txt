@@ -1,0 +1,6 @@
+DEFENDER
+200|In a Homer work, Sarpedon is a mighty defender of this city|Troy
+400|Loyalist troops under General Jose Miaja held this capital in 1936-37; it fell in 1939|Madrid
+600|Fort Donelson defender Gen. Simon Bolivar Buckner made this famous type of surrender to U.S. Grant in 1862|an unconditional surrender
+800|British Gen. White successfully defended Ladysmith, besieged in 1899-1900 in what's now this country|South Africa
+1000|The strategies of Air Chief Marshal Hugh Dowding helped win this crucial mid-1940 "Battle\"|the Battle of Britain

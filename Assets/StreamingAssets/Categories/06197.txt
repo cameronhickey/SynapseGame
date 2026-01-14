@@ -1,0 +1,6 @@
+PHONETICS
+200|Speech sound formed by the active use of these is called labial|the lips
+400|Of the 2 basic categories of speech sounds, the one that earns you money on "Wheel\"|consonants
+600|Put this on the wrong syllable in SYL-la-ble & you get syl-LA-ble|accent
+800|It's a vowel sound that has a change in tone during a syllable; it also sounds like beachwear for a quick swim|a diphthong
+1000|In the words "fricative" & "spirant", the 2 fricative or spirant letters|F & S

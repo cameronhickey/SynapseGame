@@ -1,0 +1,6 @@
+THE NORTHERNMOST CAPITAL CITY
+200|Montevideo, Buenos Aires, Bogota|Bogota
+400|Managua, San Salvador, Guatemala City|Guatemala City
+600|Manila, Jakarta, Canberra|Manila
+800|Pretoria, Addis Ababa, Algiers|Algiers
+1000|Hanoi, Phnom Penh, Rangoon, Vientiane|Hanoi

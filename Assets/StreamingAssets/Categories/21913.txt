@@ -1,0 +1,6 @@
+\"M" PORTS
+200|This city's port on Biscayne Bay calls itself "Cruise Capital of the World\"|Miami
+400|A peninsula in the Mississippi called Presidents Island is the center of this Tennessee city's port|Memphis
+600|It's home to the Alabama State Docks|Mobile
+800|In June 2018 the Ovation of the Seas, the largest cruise ship ever to dock in the Philippines, arrived in this port's South Harbor|Manila
+1000|(Jimmy of the Clue Crew shows a map of the Mediterranean on the monitor.) Carthaginians, Romans, Goths, Byzantines & Arabs have all occupied this ancient Sicilian port city that gives its name to an important Mediterranean strait|Messina

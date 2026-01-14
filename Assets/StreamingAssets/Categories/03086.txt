@@ -1,0 +1,6 @@
+WHERE ARE WE?
+200|The Woodland Park Zoo, The Rainier Brewery, The Space Needle Lounge|Seattle
+400|Vermont College, The Vermont Historical Society Museum, The Vermont Supreme Court Building|Montpelier
+600|Marble Arch, Mayfair, Madame Tussaud's|London
+800|Goethe House, Fort Tryon Park, The Fulton Fish Market|New York City
+1000|The Museum Van Loon, The Zuiderkerk, Dam Square|Amsterdam

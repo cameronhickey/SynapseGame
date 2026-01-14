@@ -1,0 +1,6 @@
+MED. ABBREV.
+200|Don't get all stressed out by an EKG, which stands for this|electrocardiogram
+400|Where heart patients are treated: CCU|a coronary care unit
+600|The P in a PSA test, used to detect cancer in men, stands for this|prostate
+800|What Jerry's Kids are hoping to find a cure for: MD|muscular dystrophy
+1000|CLL is the chronic lymphocytic type of this cancer|leukemia

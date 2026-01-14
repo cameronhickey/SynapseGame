@@ -1,0 +1,6 @@
+SIGHT & SOUND
+200|Light, sound & the sea all travel in them|waves
+400|Early version of a hearing aid named for the musical instrument it resembled|a trumpet
+600|Electronically recorded visual record of the human voice now used for identification of criminals|a voiceprint
+800|Kind of vision used to see object to the side while looking straight ahead|peripheral vision
+1000|This part of the eye operates like the diaphragm of a camera to regulate the amount of light received|the iris

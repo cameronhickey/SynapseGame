@@ -1,0 +1,6 @@
+NUMBER THAT BOOK
+200|\"Ready Player ___ \"|One
+400|\"__ Years a Slave\"|12
+600|By Khaled Hosseini: "A ___ Splendid Suns\"|A Thousand
+800|\"___ Years in Tibet\"|Seven
+1000|\"___ Days: A Memoir of the Cuban Missile Crisis\"|Thirteen

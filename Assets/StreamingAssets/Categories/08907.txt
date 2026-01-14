@@ -1,0 +1,6 @@
+NFL TEAM NAMES
+200|Their name was chosen to be a complement to the Cubs baseball team|the Bears
+400|They weren't named for a beautiful bird but for used reddish jerseys purchased from a college|the Cardinals
+600|The Cleveland team's name was decided by a 1945 fan contest; the winning submission honored this first coach|the Browns
+800|General Manager Bert Rose decided on this team name because of the Scandinavian heritage of those living in the area|the Vikings
+1000|This team that entered the AFL in 1960 gets its name from a frontiersman|the Buffalo Bills

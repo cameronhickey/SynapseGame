@@ -1,0 +1,6 @@
+U.S. CITY NICKNAMES
+200|It's the "Empire City" of the Empire State|New York City
+400|This city on Tampa Bay is the "Sunshine City\"|St. Petersburg
+600|This U.S. city, not the Russian one it's named for, is "The Shuffleboard Capital of the World\"|St. Petersburg
+800|The "Big Easy\"|New Orleans
+1000|This Montana city is known as "The Electric City"; must be those hydroelectric power generators|Great Falls

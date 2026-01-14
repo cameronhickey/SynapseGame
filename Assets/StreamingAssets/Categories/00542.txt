@@ -1,0 +1,6 @@
+CITY QUOTES
+200|Sandburg's "City of Big Shoulders\"|Chicago
+400|Fred Allen called it "a place where people from Iowa mistake each other for movie stars\"|Hollywood
+600|\"The home of the bean & the cod, where the Lowells talk to the Cabots, & the Cabots talk only to God\"|Boston
+800|JFK called it "a city of southern efficiency & northern charm\"|Washington, D.C.
+1000|According to "Mad" Magazine, it's "not really dull", just overshadowed by exciting Camden, NJ|Philadelphia

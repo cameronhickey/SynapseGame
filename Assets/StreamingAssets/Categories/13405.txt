@@ -1,0 +1,6 @@
+APPAREL "L\"
+200|This brand name became synonymous with blue jeans|Levi's
+400|\"Top grain" this is used in shoes|leather
+600|Bill Nye's frequent garb, size 38 tall|a lab coat (a laboratory jacket accepted)
+800|The "In the Wings Teddy" (va va voom!) is an item of this from Frederick's of Hollywood|lingerie
+1000|These weren't just for a lord of the jungle; in Ancient Egypt, Amenhotep's chief architect was buried with 50|loincloths

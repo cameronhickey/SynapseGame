@@ -1,0 +1,6 @@
+STATE HOLIDAYS
+200|LBJ's August 27 birthday is a holiday in this state|Texas
+400|Kentucky celebrates June 3 as Confederate Memorial Day; Florida celebrates it as this man's birthday|Jefferson Davis
+600|On January 8 Louisianans celebrate the Battle of this, not the Super Bowl|New Orleans
+800|September 12, this state's Defenders' Day, honors troops who held off the British in 1814|Maryland
+1000|September 16 is Cherokee Strip Day in this state (& no, there are no totem pole dancers)|Oklahoma

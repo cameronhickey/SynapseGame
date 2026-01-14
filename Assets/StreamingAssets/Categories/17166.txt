@@ -1,0 +1,6 @@
+A STORIED FORECAST
+200|A story from Tennessee: "Cat on a ____ Tin Roof\"|Hot
+400|A tale of Wouk: "The ____ of War\"|Winds
+600|Isaac Marion's zombie love letter: "____ Bodies\"|Warm
+800|Murder in Puget Sound: "____ Falling on Cedars\"|Snow
+1000|Orphan goes rural: "____ Comfort Farm\"|Cold

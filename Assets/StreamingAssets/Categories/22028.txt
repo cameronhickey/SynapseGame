@@ -1,0 +1,6 @@
+I APPOINTED THAT SUPREME COURT JUSTICE
+200|John Jay|Washington
+400|Elena Kagan|Obama
+600|Ruth Bader Ginsburg|Clinton
+800|William Rehnquist (as associate justice)|Richard Nixon
+1000|William Rehnquist (as Chief Justice)|Reagan

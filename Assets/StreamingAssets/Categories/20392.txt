@@ -1,0 +1,6 @@
+THAT MOVIE HAD NO SEQUEL
+200|\"Bridget Jones's Diary", "Lara Croft: Tomb Raider", "Driving Miss Daisy\"|Driving Miss Daisy
+400|\"L.A. Confidential", "Escape from New York", "Beverly Hills Cop\"|L.A. Confidential
+600|\"Bridesmaids,", "Father of the Bride", "My Big Fat Greek Wedding\"|Bridesmaids
+800|\"The Fly", "Kung Fu Panda", "Snakes on a Plane\"|Snakes on a Plane
+1000|\"The Godfather", "The Bodyguard", "The Terminator\"|The Bodyguard

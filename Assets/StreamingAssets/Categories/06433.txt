@@ -1,0 +1,6 @@
+AFRIKAANS
+200|Part of the body on which you would normally wear a kappie|head
+400|To an Afrikaaner, a klipspringer, like a reebok, is one of these|antelope
+600|To an Afrikaaner, this city is Kaapstad|Cape Town
+800|This one should be easy to field: this grassland's name is from the Dutch for "field\"|veld
+1000|This 11-letter term for a South African pioneer refers back to the Boers who made that long walk|Voortrekker

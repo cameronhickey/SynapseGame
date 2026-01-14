@@ -1,0 +1,6 @@
+SPLIT OWNERSHIP
+200|The Matterhorn|Switzerland & Italy
+400|Hispaniola|Haiti & the Dominican Republic
+600|Mount Everest|Nepal & China
+800|New Guinea|Papua New Guinea & Indonesia
+1000|Lake Titicaca|Peru & Bolivia

@@ -1,0 +1,6 @@
+SHAKESPEARE DARK
+200|Legend says this play is cursed, so if you mention it in a dressing room, you may not get off Scot-free|Macbeth
+400|George Orwell griped about this kingly tragedy: "One wicked daughter would have been quite enough\"|King Lear
+600|Laurence Olivier was accidentally hit by an arrow when he played this king on film, so his limp was real|Richard III
+800|Horatio speaks of this play's "Carnal, bloody, and unnatural acts", & he should know|Hamlet
+1000|In this monumentally gruesome play, Titus kills Tamora's sons & serves them to her in a pie|Titus Andronicus

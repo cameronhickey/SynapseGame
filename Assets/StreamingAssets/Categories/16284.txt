@@ -1,0 +1,6 @@
+COLORFUL MOVIES
+200|\"Pirates of the Caribbean: The Curse of the ____ Pearl\"|Black
+400|Set in the 1930s: "The ____ Rose of Cairo\"|Purple
+600|Starring Gregory Peck: "The Man in the ____ Flannel Suit\"|Gray
+800|About Guadalcanal: "The Thin ____ Line\"|Red
+1000|A documentary about the murder of a police officer: "The Thin ____ Line\"|Blue

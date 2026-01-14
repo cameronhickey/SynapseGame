@@ -1,0 +1,6 @@
+SHOW TUNES
+200|Barbra Streisand sang, "People, people who need people are" this|\"the luckiest people in the world\"
+400|This "In Cold Blood" author & Harold Arlen wrote the song "A Sleepin' Bee" for the musical "House of Flowers\"|Truman Capote
+600|While singing "A Little More Mascara", Albin tranforms himself into Zaza in this musical|La Cage aux Folles
+800|Show in which you'd hear, "Hey, big spender, spend a little time with me\"|Sweet Charity
+1000|\"Kids", "Put on a Happy Face\"|Bye Bye Birdie

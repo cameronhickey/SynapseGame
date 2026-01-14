@@ -1,0 +1,6 @@
+CLIMBING
+200|Alpinism is European climbing; Andinismo refers to climbing on this continent|South America
+400|If you're glissading, you're going in this direction|down
+600|In "Vertical Limit" Robin Tunney is menaced by this high-altitude condition of fluid leaking into the lungs|pulmonary edema (hape accepted)
+800|Term for roping down a rock face|rappelling
+1000|Also meaning to stop an action, in climbing it means to secure another person with a rope|to belay

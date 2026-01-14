@@ -1,0 +1,6 @@
+THE 2nd MRS.
+200|Tom Cruise|Nicole Kidman
+400|Billy Joel|Christie Brinkley
+600|Nicolas Cage|Lisa Marie Presley
+800|Will Smith|Jada Pinkett
+1000|Tommy Lee|Heather Locklear

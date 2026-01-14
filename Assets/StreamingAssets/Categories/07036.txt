@@ -1,0 +1,6 @@
+STATE GATEWAYS
+200|O'Hare International|Illinois
+400|George Bush Intercontinental Airport|Texas
+600|Louis Armstrong International|Louisiana
+800|Logan International|Massachusetts
+1000|Wiley Post-Will Rogers Memorial Airport|Alaska

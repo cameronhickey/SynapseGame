@@ -1,0 +1,6 @@
+ISLAND GROUPS
+200|A source of nutmeg & cloves, the Moluccas are also known by this aromatic name|Spice Islands
+400|Whether greater or lesser, this group includes all of the West Indies except the Bahamas|Antilles
+600|Ocean in which you find Comoros, a group of 3 islands that broke from French rule in 1975|Indian Ocean
+800|The Admiralty Islands in Papua New Guinea are part of this archipelago named for a German|Bismarck Archipelago
+1000|The year after the atomic test on its Bikini Atoll, this group became a trusteeship of the U.S.|Marshall Islands

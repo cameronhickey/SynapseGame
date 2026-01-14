@@ -1,0 +1,6 @@
+BESTSELLING BOOKS BY DECADES
+200|\"1984", "The Diary of a Young Girl\"|the 1940s
+400|\"The Cat in the Hat", "On the Road\"|the 1950s
+600|\"Valley of the Dolls", "The Andromeda Strain\"|the '60s
+800|\"The World According to Garp", "Fear & Loathing in Las Vegas\"|the '70s
+1000|\"Mrs. Dalloway", "Lady Chatterley's Lover\"|the 1920s

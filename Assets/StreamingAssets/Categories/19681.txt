@@ -1,0 +1,6 @@
+BESTSELLERS BY AUTHOR
+200|\"Salem's Lot" (1975)|Stephen King
+400|\"The Martian" (2011)|Andy Weir
+600|\"The King of Torts" (2003)|John Grisham
+800|\"All the Pretty Horses" (1992)|Cormac McCarthy
+1000|\"The Aquitaine Progression" (1984)|Robert Ludlum

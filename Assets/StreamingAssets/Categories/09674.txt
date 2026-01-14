@@ -1,0 +1,6 @@
+HIDDEN COUNTRIES
+200|You could often hear Soviet names in this nation|Vietnam (in SOVIET NAMES)
+400|There are many who talk in dialect in this country|India (in IN DIALECT)
+600|A wholesale ban on lumber exports is unlikely in this country|Lebanon (in WHOLESALE BAN ON)
+800|Fine palaces greet the morning sun in this kingdom|Nepal (in FINE PALACES)
+1000|Give a dog a bone in this country & you've made a friend for life|Gabon (in DOG A BONE)

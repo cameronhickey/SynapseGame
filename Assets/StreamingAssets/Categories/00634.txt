@@ -1,0 +1,6 @@
+DEER
+200|When used as food, deer flesh is called this|venison
+400|A deer's stomach has this many chambers, like a cow's|four
+600|Though man has now introduced some species here, deer are not indigenous to this continent|Australia
+800|Found in northern latitudes, this largest member of the deer family can weight close to a ton|a moose
+1000|Deer are this type of mammal, named from Latin for "to chew the cud\"|ruminants

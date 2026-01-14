@@ -1,0 +1,6 @@
+MUSHROOMS
+200|This term for the top of a mushroom can also be a small hat|a cap
+400|This term often given to a poisonous mushroom sounds like a chair for a frog's cousin|toadstool
+600|Mushrooms are classed in the phylum Basidiomycota in this kingdom|fungus
+800|These large, dark edible mushrooms of Asia take their name from the Japanese for "oak mushroom\"|shiitake
+1000|The name of this widely eaten variety, Agaricus bisporus, implies that it's cute|a button mushroom

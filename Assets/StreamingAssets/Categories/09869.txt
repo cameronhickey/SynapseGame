@@ -1,0 +1,6 @@
+BANK SHOTS
+200|From the Latin for "the back", it's to sign the back of a check to transfer rights|endorse
+400|An EFT stands for an "electronic" one of these|a funds transfer
+600|You don't get this type of CD from a music store, you get it from a bank|a certificate of deposit
+800|In the U.S., the discount rate is the rate of interest on loans these banks make to commercial banks|Federal Reserve Banks
+1000|Part of the 1968 Consumer Credit Protection Act, this law says banks must clearly state credit terms|the Truth in Lending Law

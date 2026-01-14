@@ -1,0 +1,6 @@
+NEXT LINE, PLEASE
+200|\"And so my fellow Americans: ask not what your country can do for you...\"|\"Ask what you can do for your country\"
+400|\"I know not what course others may take; but as for me...\"|\"Give me liberty or give me death\"
+600|\"The story you are about to see is true...\"|\"Only the names have been changed to protect the innocent\"
+800|\"Look out for me a little bit, you shoulda taken care of me just a little bit so I wouldn't have to take them dives for the short end money; I had some bets down for you, you saw some money; you know then, I coulda had class...\"|\"I coulda been a contender!\"
+1000|\"From each according to his abilities...\"|\"to each according to his needs\"

@@ -1,0 +1,6 @@
+TREATIES
+200|By the 1559 Treaty of Cateau-Cambresis, England ceded Calais to this country|France
+400|The 1814 Treaty of Ghent that ended this war gave the U.S. British-held territory in the Northwest|the War of 1812
+600|The Treaty of Tordesillas enabled this country to claim the coast of Brazil|Portugal
+800|About 500 chiefs of these New Zealand natives signed the Treaty of Waitangi with Britain in 1840|the Maoris
+1000|This European country approved the Maastricht Treaty in 1993; it had rejected it in 1992|Denmark

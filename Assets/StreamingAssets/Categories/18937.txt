@@ -1,0 +1,6 @@
+CITIES ON THE RIVER
+200|Rotterdam & Düsseldorf|the Rhine
+400|Nong Khai & Phnom Penh|the Mekong
+600|Iquitos & Macapá|the Amazon
+800|Varanasi & Allahabad|the Ganges
+1000|Nanjing & Shanghai|the Yangtze

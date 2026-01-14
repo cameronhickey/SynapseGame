@@ -1,0 +1,6 @@
+COMMA, COMMA, COMMA, COMMA, COMMA
+200|The comma as we know it came to be around 1500, not by an author, but rather by one of these putting out Greek classics|a printing press
+400|On keyboards you'll find a comma by itself & as part of this other punctuation mark|a semicolon
+600|India has its own style of placing commas in big numbers like the number we call this and Indians call crore|10 million
+800|The comma named for this school often precedes the words "and" & "or\"|the Oxford comma
+1000|(Jimmy of the Clue Crew presents by a display monitor.) When you have two independent clauses that are separated by a comma, it's called a comma this, and it's to be avoided. Instead, try adding a conjunction|a comma splice

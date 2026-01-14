@@ -1,0 +1,6 @@
+WORLD CAPITAL MUSEUMS
+200|The Guinness Storehouse|Dublin
+400|The Edvard Munch Museum|Oslo
+600|The Corcoran Gallery of Art|Washington, D.C.
+800|The Borghese Gallery|Rome
+1000|The Bauhaus Archives & Museum of Design|Berlin

@@ -1,0 +1,6 @@
+THE BOOK OF RUTH
+200|It was Babe Ruth's real first name|George
+400|After retiring as a player, Babe Ruth was a first-base coach for this other New York City team in 1938|the Dodgers
+600|To help the team's owner pay off debts, this team sold Ruth to the Yankees in 1920|the Boston Red Sox
+800|Total number of regular season home runs Babe Ruth hit in his career; it was the record until 1974|714
+1000|The Babe wore this uniform number because it was his spot in the batting order, right before Lou Gehrig|3

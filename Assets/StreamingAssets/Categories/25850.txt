@@ -1,0 +1,6 @@
+HUB
+200|Naturally, this airline's 3 main hubs are Montreal, Toronto & Vancouver|Air Canada
+400|Alaska Airlines' main hub is Sea-Tac, but the company does have a hub at Ted Stevens Intl. serving this city, of course|Anchorage
+600|Atlanta is the biggest hub of this airline, but it has others like L.A. & Seoul|Delta
+800|This United hub in the Northeast has the code EWR, which has 3 of the city's 6 letters|Newark
+1000|Frontier Airlines gains even more altitude leaving this hub city just east of the Front Range|Denver

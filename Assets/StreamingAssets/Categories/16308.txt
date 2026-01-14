@@ -1,0 +1,6 @@
+RESTAURANTS BY SLOGAN
+200|\"Eat fresh\"|Subway
+400|\"Everything you love about breakfast\"|IHOP
+600|\"Think outside the bun" is dead! Long live "Live mas\"|Taco Bell
+800|\"When you're here, you're family\"|Olive Garden
+1000|\"No rules. Just right\"|Outback Steakhouse

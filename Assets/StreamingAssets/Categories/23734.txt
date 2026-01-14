@@ -1,0 +1,6 @@
+MY MOVIE OCCUPATION
+200|Jimmy Stewart, in "Mr. Smith Goes to Washington" (after going to Washington)|a senator
+400|Denzel Washington, stepping up in "Philadelphia\"|a lawyer (attorney)
+600|Margot Robbie, gliding through "I, Tonya\"|a figure skater
+800|Sidney Poitier, taking a tough assignment in "To Sir, with Love\"|a teacher
+1000|Holly Hunter, before saying hi to motherhood in "Raising Arizona\"|a policeman

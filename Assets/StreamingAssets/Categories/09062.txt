@@ -1,0 +1,6 @@
+STATE NICKNAME FUN
+200|These 2 states with a precious metal in their nicknames border each other|California and Nevada
+400|The nickname of this state includes a greeting in a non-English language|Hawaii
+600|A ride at the Albuquerque Int'l Balloon Fiesta might show you why New Mexico is the "land of" this|Enchantment
+800|Minnesota may have gotten this nickname from a cartoon showing railroad organizers as tunneling mammals|Gopher State
+1000|In 2004 a biologist caused great excitement when he photographed an actual wild one of these in Michigan|a wolverine

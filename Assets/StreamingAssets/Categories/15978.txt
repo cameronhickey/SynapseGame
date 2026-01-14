@@ -1,0 +1,6 @@
+AFFIX THE SUFFIX
+200|To make "ox" an irregular plural|-en (oxen accepted)
+400|To make "central" & "ceaseless" into adverbs|-ly
+600|To make "fashion" & "comfort" into adjectives|-able
+800|To make "alphabet" & "digit" into verbs|-ize
+1000|To make "abnormal" & "similar" into nouns|-ity

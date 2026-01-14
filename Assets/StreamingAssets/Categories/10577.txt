@@ -1,0 +1,6 @@
+LEGAL TYPES
+200|In West Virginia civil trials, there are 6 of them|jurors
+400|Type of witness who attests to reputation, not to the facts|a character witness
+600|Prosecutor Patrick Fitzgerald's current title is this type of "counsel\"|Special Counsel
+800|This person "of the court" is charged with preserving trial records|a clerk
+1000|A "U.S." one is a judicial officer appointed by district court judges|a magistrate

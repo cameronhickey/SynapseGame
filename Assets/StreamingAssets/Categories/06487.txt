@@ -1,0 +1,6 @@
+NOBEL LAUREATES SPEAK
+200|(Hi, I'm Dr. David Baltimore.) In 1975 I shared a Nobel Prize for my work in virology; this molecule found in all living cells consists of thousands of chemical units called nucleotides|DNA
+400|(Hi, I'm Rudy Marcus, Nobel Prize winner in chemistry.) Ferrous sulfide is produced when these 2 elements are heated together|iron & sulphur
+600|(Hi, I'm George Olah, Nobel Prize winner in chemistry.) The "P" in Boyle's Law, PV=K, stands for this|pressure
+800|(Dr. Baltimore reads.) This infectious agent that lives inside a cell & causes disease can be 100 times smaller than a bacterium|virus
+1000|(Hi, I'm Dr. Alan Heeger, Nobel prize winner in chemistry.) In 1936 this German-born biochemist discovered his "cycle" of metabolism & energy production|Hans Krebs

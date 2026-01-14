@@ -1,0 +1,6 @@
+DICKENS
+200|At the end of the book, David Copperfield begins a career as one of these, like Dickens|a writer
+400|Like Joe Friday, all Mr. Grandgrind in "Hard Times" wanted were these|the facts
+600|1 of 2 Dickens novels filmed in the 1940s by director David Lean|Great Expectations (or Oliver Twist)
+800|Last name of the family that includes Martin, his brother Anthony & his grandson Anthony|Chuzzlewit
+1000|John Jarndyce is the owner of this title country estate|Bleak House

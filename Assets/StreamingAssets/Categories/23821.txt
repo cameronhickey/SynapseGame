@@ -1,0 +1,6 @@
+\"G" AS IN GEOGRAPHY
+200|Scotland's largest city, it's on both banks of the River Clyde|Glasgow
+400|2 promontories called the Pillars of Hercules flank the entrance to this strait|Gibraltar
+600|Kolkata is on the Hugli River, an arm of this other river|the Ganges
+800|In 1900 this Texas city was devastated by a hurricane that killed more than 5,000 people|Galveston
+1000|This country is surrounded by Senegal|The Gambia

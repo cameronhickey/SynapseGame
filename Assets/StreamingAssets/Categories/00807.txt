@@ -1,0 +1,6 @@
+LAST NAME'S THE SAME
+200|Madeleine, Pat, Diahann|Carroll
+400|Connie, Arlene, Genie|Francis
+600|John, Emily, Angie|Dickinson
+800|Steve, Abigail, Martin|Van Buren
+1000|Donald Ogden, Jimmy, Jon|Stewart

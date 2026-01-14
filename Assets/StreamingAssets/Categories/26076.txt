@@ -1,0 +1,6 @@
+DICTIONARIES DEFINING SLANG WORDS
+200|The American Heritage Dictionary: "the act or practice of dressing to resemble or portray a fictional character\"|cosplay
+400|The Oxford English Dictionary: "an inadvertent call made on a mobile phone in one's rear trouser pocket\"|butt-dial
+600|Collins Dictionary: "a person who creates a false identity on social media... to lure someone into... a relationship\"|catfish
+800|dictionary.com: "characterizes someone or something as unoriginal... is said to like pumpkin spice lattes\"|basic
+1000|Cambridge Dictionary: "a sudden feeling that you dislike someone... because of something they do\"|the ick

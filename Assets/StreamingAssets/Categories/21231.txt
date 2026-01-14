@@ -1,0 +1,6 @@
+ITS BIGGEST NEIGHBOR
+200|Colombia's biggest|Brazil
+400|Norway's|Russia
+600|Guatemala's|Mexico
+800|Nepal's|China
+1000|Syria's|Turkey

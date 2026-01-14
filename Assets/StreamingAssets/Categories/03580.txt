@@ -1,0 +1,6 @@
+ACTS
+200|Act 2 of this farce finds Algernon Moncrieff earnestly pretending to be Ernest Worthing|The Importance of Being Earnest
+400|Act 1 of this play introduces Juror No. 8, the man who convinces the other 11 to re-examine the evidence|12 Angry Men
+600|In Act 1 of this play, Happy complains to Biff about their father's driving|Death Of A Salesman
+800|In act 3 of this Ionesco work, Berenger's ladylove Daisy runs off to join a pack of horned pachyderms|Rhinoceros
+1000|Finally in act 2, Dr. Dysart solves the riddle of the blinded horses in this Peter Shaffer masterpiece|Equus

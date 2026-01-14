@@ -1,0 +1,6 @@
+PET SOUNDS
+200|The 4-letter vibration noise of a well-tuned car engine|purr
+400|The peppermint kind of this seasonal treat has white & dark chocolate & candy cane pieces|bark
+600|Ray Dolby's technologies removed this sibilant noise from sound recordings|hiss
+800|Another word for weft, this thread is at a right angle to warp in weaving|woof
+1000|In a Miyazaki animated film, this magician has his own "Moving Castle\"|Howl

@@ -1,0 +1,6 @@
+SOUND TECHNOLOGY
+200|This computer device slowly takes you online|a modem
+400|In 1859 Robert Fouls invented a steam-powered one of these to signal imperiled ships|a foghorn
+600|I'll bet Christmas 1996 was the last time you thought you'd hear this toy's sound|Tickle Me Elmo
+800|This phone company's walkie talkie service sounds promising|Nextel
+1000|You'll hear it when making a season pass on this company's genius TV device|TiVo

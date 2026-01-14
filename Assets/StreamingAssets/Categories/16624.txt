@@ -1,0 +1,6 @@
+ON "EDGE\"
+200|A serious & often public promise to do something|a pledge
+400|A book in which financial accounts are recorded|a ledger
+600|This pounding tool takes 2 hands to operate|a sledgehammer
+800|In conversation with a Gabby Gus, it may be hard to "get a word in" this way|edgewise
+1000|A grasslike plant that grows in wet areas|sedge

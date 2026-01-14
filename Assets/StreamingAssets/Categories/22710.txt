@@ -1,0 +1,6 @@
+WHERE'S THIS TRAIN HEADED?
+200|The northern terminus of the Ethan Allen Express is at Rutland in this state|Vermont
+400|The Maple Leaf starts in this city & passes by the Finger Lakes region on its way to New York|Toronto
+600|On its way from Chicago to the Pacific Northwest, the Empire Builder follows major portions of this pair's route|Lewis & Clark
+800|The Lake Shore Limited runs from Chicago to Boston & New York along the southern shores of these 2 Great Lakes|Erie & Michigan
+1000|The Amtrak line named for this mountain range gives passengers a great view of Mount St. Helens|the Cascades

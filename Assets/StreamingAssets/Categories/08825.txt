@@ -1,0 +1,6 @@
+THE PLAGUE
+200|Plague is generally spread from rodents to humans by these insects|fleas
+400|If detected in time, plague is treatable with these drugs like streptomycin|antibiotics
+600|A CDC laboratory in this state's city of Fort Collins is the USA's frontline against plague|Colorado
+800|The 3 forms of plague are septicemic, pneumonic & this one that affects the lymph glands|bubonic
+1000|In his famous diary, he recounted the horrors of the Great Plague of 1660s London|Samuel Pepys

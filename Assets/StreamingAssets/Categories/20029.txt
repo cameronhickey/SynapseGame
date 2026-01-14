@@ -1,0 +1,6 @@
+STATE THE NATIONAL MONUMENT
+200|George Washington Birthplace|Virginia
+400|Muir Woods|California
+600|Little Bighorn Battlefield|Montana
+800|White Sands|New Mexico
+1000|Organ Pipe Cactus & Navajo|Arizona

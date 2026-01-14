@@ -1,0 +1,6 @@
+WAR BATTLES
+200|Brandywine, Bunker Hill, Concord|the American Revolutionary War
+400|Gettysburg, Chancellorsville, Nashville|the American Civil War
+600|The Bulge, Stalingrad, Iwo Jima|World War II
+800|Khe Sanh, the Tet Offensive, Con Thien|Vietnam
+1000|The Chosin Reservoir, Unsan, Inchon|the Korean War

@@ -1,0 +1,6 @@
+DRESSED-DOWN FIRST NAMES
+200|Maggie, as in actress Maggie Smith|Margaret
+400|Drew, as in quarterback Drew Brees|Andrew
+600|Mandy, as in singer Mandy Moore|Amanda
+800|Harry, as in England's Prince Harry|Henry
+1000|Topher, as in actor Topher Grace|Christopher

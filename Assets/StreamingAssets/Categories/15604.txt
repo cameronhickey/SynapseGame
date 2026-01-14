@@ -1,0 +1,6 @@
+GO "BIG\"
+200|An intolerant person|a bigot
+400|2-word slang term for a place crooks get sent|the big house
+600|In 1958 the Sacramento Union reported that "if" this "is humanoid" it would weigh 450 to 550 pounds|Bigfoot
+800|Ovis canadensis is this mountain dweller|the bighorn sheep
+1000|Feminine nickname for a huge German artillery piece of World War I|Big Bertha

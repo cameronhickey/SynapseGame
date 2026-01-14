@@ -1,0 +1,6 @@
+NAME THE PLAYWRIGHT
+200|\"Brighton Beach Memoirs\"|Neil Simon
+400|\"Death of a Salesman\"|Arthur Miller
+600|\"Picnic\"|William Inge
+800|\"Torch Song Trilogy\"|Harvey Fierstein
+1000|\"Rent\"|Jonathan Larson

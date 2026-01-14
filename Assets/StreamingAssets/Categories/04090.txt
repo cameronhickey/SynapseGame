@@ -1,0 +1,6 @@
+PROSPERO
+200|Prospero is the hero of the play "The Tempest", possibly the last by this playwright|William Shakespeare
+400|In act IV, Prospero tells us "We are such stuff as" these "are made on\"|dreams
+600|As a magician Prospero was lucky to have this airy sprite as a lovely assistant|Ariel
+800|This king commanded a performance of "The Tempest" to celebrate the 1613 wedding of his daughter|James I
+1000|Not everyone liked Prospero; Trinculo, Stephano & this island native plotted to kill him|Caliban

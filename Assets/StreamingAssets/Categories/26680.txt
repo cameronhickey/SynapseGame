@@ -1,0 +1,6 @@
+X, Y, Z
+200|The name of this lakeside Swiss city is believed to be from the Celtic word for "water\"|Zurich
+400|Sergeant Preston's beat|The Yukon
+600|Though Dobie Gillis didn't particularly care for it, she kept calling him "Poopsie\"|Zelda Gilroy
+800|This Michigan city was settled in 1825 and named for a nineteenth-century Greek patriot|Ypsilanti
+1000|After his forces were defeated by the Greeks, this Persian king was murdered by his own nobles|Xerxes

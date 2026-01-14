@@ -1,0 +1,6 @@
+E-I-O
+200|The supervisor of a department of a newspaper|the editor
+400|We proclaim this word means the act of freeing a slave from bondage|emancipation
+600|It's the fifth letter of the Greek alphabet|epsilon
+800|This adjective sometimes found before "latex paint" is from the Latin for "outside\"|exterior
+1000|This synonym for spying was the name of a 1917 wartime Act of Congress|espionage

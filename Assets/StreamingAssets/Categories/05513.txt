@@ -1,0 +1,6 @@
+ISLAND CITIES
+200|Honolulu|Oahu
+400|Tokyo|Honshu
+600|Port-au-Prince|Hispaniola
+800|Jakarta|Java
+1000|Manila|Luzon

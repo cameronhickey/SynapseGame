@@ -1,0 +1,6 @@
+3-WORD CITIES
+200|Before it was renamed in 1804, this Haitian capital city was known as Port-Republicain|Port-au-Prince
+400|It's the full name of the English town nicknamed "The Home of the Bard\"|Stratford-upon-Avon
+600|This city was named in 1565 by the Portuguese, who mistook its bay for the entrance to a river|Rio de Janeiro
+800|Once the capital of a Sinhalese kingdom, Sri Jayewardenepura Kotte is today the legislative capital of this island country|Sri Lanka
+1000|In Arabic the name of this major port city & seat of Tanzania's government means "abode of peace\"|Dar es Salaam

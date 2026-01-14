@@ -1,0 +1,6 @@
+WHICH DIRECTION ARE YOU HEADED?
+200|From Taegu, South Korea to Tokyo, Japan|east
+400|From Hamburg to Stuttgart in Germany|south
+600|From Cairo to Ankara|north
+800|From Galway to Cork in Ireland|south
+1000|From Tegucigalpa to Guatemala City|west

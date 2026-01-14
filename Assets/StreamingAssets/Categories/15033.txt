@@ -1,0 +1,6 @@
+THAT'S THE SPIRIT
+200|Skyy & Smirnoff|vodka
+400|Bacardi & Myers's|rum
+600|Glenlivet & Chivas Regal|scotch
+800|Gekkeikan & Ozeki|sake
+1000|Hendrick's & Boodles|gin

@@ -1,0 +1,6 @@
+\"GIRL" MOVIES
+200|1968: Starring Barbra Streisand|Funny Girl
+400|1999: Angelina Jolie|\"Girl, Interrupted\"
+600|1966: Starring Lynn Redgrave|Georgy Girl
+800|1988: Melanie Griffith|\"Working Girl\"
+1000|2001: Featuring Nicole Kidman|Birthday Girl

@@ -1,0 +1,6 @@
+CARTOGRAPHY
+200|Cartographers rely on data gathered by people in this profession, like George Washington|surveying
+400|Type of map on which you'd find lines called isobars|weather map
+600|This ancient Alexandrian's "Geography" was used by Renaissance mapmakers|Ptolemy
+800|Maps may be marked with parallels of latitude & these of longitude|meridians
+1000|\"Projected" sales were good for the new map devised by this Flemish cartographer c. 1568|Gerardus Mercator

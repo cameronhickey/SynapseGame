@@ -1,0 +1,6 @@
+EXPLORERS' NATIONALITIES
+200|Hernan Cortes|Spain
+400|Vasco da Gama|Portuguese
+600|Explorer of Canada Alexander MacKenzie|Scottish
+800|Abel Tasman|Dutch
+1000|Sir Edmund Hillary|New Zealand

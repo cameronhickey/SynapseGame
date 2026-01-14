@@ -1,0 +1,6 @@
+WELL-KNOWN NAMES
+200|Davy Jones was known for his locker & this TV Davy was known for his coonskin caps|Davy Crockett
+400|He was head of the FBI when FDR was in office|J. Edgar Hoover
+600|In 1842, showman Edwin Christy founded this performing troupe|the Christy Minstrels
+800|Amos Sawyer became the interim president of this African country after Samuel Doe fell|Liberia
+1000|Emmanuel Lasker was world champion of this game from 1894 to 1921|chess

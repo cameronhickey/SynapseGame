@@ -1,0 +1,6 @@
+TV CATCHPHRASES
+200|\"Don't Have A Cow, Man!\"|The Simpsons
+400|\"Sorry About That, Chief\"|Get Smart
+600|\"Oh my God! They killed Kenny!\"|South Park
+800|\"Say Kids, what time is it?\"|Howdy Doody
+1000|\"And now for something completely different\"|Monty Python's Flying Circus

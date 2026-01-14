@@ -1,0 +1,6 @@
+MILITARY SLANG
+200|These have been called "chest hardware\"|medals
+400|These huge naval ships have been referred to as bird boats|aircraft carriers
+600|\"SAR" stands for this, the effort to extract a downed aircrew in a combat zone|search and rescue
+800|A "polliwog" has never crossed this geographic line while aboard ship|the equator
+1000|A "ROAD" scholar is "retired on" this (coasting until actual retirement)|active duty

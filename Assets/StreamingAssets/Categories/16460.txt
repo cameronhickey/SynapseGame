@@ -1,0 +1,6 @@
+COMPUTER LINGO
+200|Apple's Leopard is a type of OS, one of these|an operating system
+400|The "HT" in both HTTP & HTML stands for this|hypertext
+600|If your machine is being controlled by someone else, it may have been taken over by this 3-letter piece of malware|a bot
+800|To set up the pictures & clips on my blog, I might need a VGA, this "array\"|video graphics
+1000|Send me that report as a PDF, this "format\"|portable document format

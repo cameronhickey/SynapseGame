@@ -1,0 +1,6 @@
+ITALIAN FOOD
+200|The arborio type of this grain, grown in the Po Valley, is the best for risotto|rice
+400|The name of this spicy Italian sausage is the same as the word for the chili that spices it|pepperoni
+600|Anitra all'arancia is this type of poultry in orange sauce|duck
+800|This tubular pastry filled with ricotta & chocolate is a specialty of Sicily|cannoli
+1000|The name of this dish of veal shanks braised with vegetables translates to "marrow bone\"|osso buco

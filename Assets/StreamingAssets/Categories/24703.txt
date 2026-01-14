@@ -1,0 +1,6 @@
+U.S. + CANADIAN POSTAL ABBREVS.
+200|MASK|Massachusetts & Saskatchewan
+400|CANS|California & Nova Scotia
+600|NEON|Nebraska & Ontario
+800|ARAB|Arkansas & Alberta
+1000|IAMB|Iowa & Manitoba

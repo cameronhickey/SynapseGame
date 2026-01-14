@@ -1,0 +1,6 @@
+STATE THE COLLEGE
+200|Olivet, Albion, Kalamazoo|Michigan
+400|Skidmore, Barnard, Sarah Lawrence|New York
+600|Claremont, Pomona, Whittier|California
+800|Emerson, Holy Cross, Amherst|Massachusetts
+1000|Gutenberg, Northwest Christian, Lewis & Clark|Oregon

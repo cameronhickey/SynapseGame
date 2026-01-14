@@ -1,0 +1,6 @@
+STATES & PROVINCES
+200|Twice the size of Texas, it's Canada's largest province at 595,000 square miles|Quebec
+400|This state's song hits home—"they say home is where the heart is, these Green Mountains are my home\"|Vermont
+600|This province isn't really "New", it was chartered by King George III in 1784 & is one of Canada's original 4 provinces|New Brunswick
+800|The port of East Chicago is not in Illinois but in this adjoining state|Indiana
+1000|This southernmost Mexican state has seen plenty of unrest, such as from the Zapatista rebels|Chiapas

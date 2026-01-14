@@ -1,0 +1,6 @@
+WESTERN U.S. CITIES
+200|Despite what Ron Burgundy says, this city is named for a Spanish monk|San Diego
+400|Named for the founder of the American Fur Company, this Oregon city has deepwater port facilities|Astoria
+600|Take the 580 from Reno to the 431 & you'll see the majesty that is this body of water|Lake Tahoe
+800|Known for its Narrows Bridge, this city is on Puget Sound's Commencement Bay|Tacoma
+1000|Frank Lloyd Wright's Taliesin West is in this city, a resort suburb of Phoenix|Scottsdale

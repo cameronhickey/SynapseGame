@@ -1,0 +1,6 @@
+C'EST CHEESE
+200|Quark is a soft, unripened cheese that may be substituted for this baked potato topping which it resembles|Sour cream
+400|This "Agricultural Worker" cheese is a variety of cottage cheese that's pressed into a loaf|Farmer cheese
+600|This French word for goat is a generic word for goat's-milk cheese|chèvre
+800|The poem "What a Friend we Have in Cheeses!" says, "Claret, dear, not Coca-Cola, when you're having" this strong cheese|gorgonzola
+1000|This primary milk protein clumps together, or coagulates, to form the basis of cheese|casein

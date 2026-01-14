@@ -1,0 +1,6 @@
+FRUIT
+200|Kind of tree dates grow on|a date palm
+400|The meat tenderizer papain comes from this fruit|a papaya
+600|What Americans call this is actually an orange-flavored muskmelon|Cantaloupe
+800|Roll this Persian "fruit of many seeds" on the table & insert a straw through the skin to drink its juice|Pomegranate
+1000|The black seeds in a papaya may be ground & used like this spice|Pepper

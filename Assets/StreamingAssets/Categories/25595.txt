@@ -1,0 +1,6 @@
+CALLING "HR\"
+200|As a verb this piece of car talk means to choke or strangle someone|throttle
+400|Adjective for things in the order they happened, like a list of an author's works in publication sequence|chronological
+600|It's from the Greek for "love of humankind"; an old definition also meant the love of god for humanity|philanthropy
+800|This type of coal that contains more than 80% carbon generally has the highest heating value|anthracite
+1000|This thin sheet of muscle below the lungs is unique to mammals|the diaphragm

@@ -1,0 +1,6 @@
+ALPHANUMERICS
+200|This company makes scotchlite reflective material|3M
+400|Standard tax form showing the total wages paid to an employee & taxes withheld during the year|a W-2
+600|This British agency that takes care of international spying is formally the Secret Intelligence Service|MI-6
+800|Selective Service classification for a person physically unfit for military duty|4-F
+1000|This military plane that made unwanted headlines in 1960 is still in use, though a phaseout is coming in 2015|U-2

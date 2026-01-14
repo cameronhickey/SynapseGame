@@ -1,0 +1,6 @@
+\"U". "S". CITIES
+200|California's capital|Sacramento
+400|\"Mother City of Georgia\"|Savannah
+600|Twin city of Champaign, Illinois|Urbana
+800|\"S"eat of Onondaga County, between Albany & Buffalo|Syracuse
+1000|Seat of Oneida County, between Albany & Buffalo|Utica

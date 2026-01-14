@@ -1,0 +1,6 @@
+ALPHANUMERIC STUFF
+200|His (its?) entry at starwars.com says "astromech hero", "saver of the day" & "plucky droid\"|R2-D2
+400|Varieties of this condiment include Bold & Spicy, Thick & Hearty & New York Steakhouse|A.1.
+600|This lubrication product "stops squeaks" & "loosens rusted parts\"|WD-40
+800|These funds' name comes from an Internal Revenue code section that lets employees set aside tax-deferred retirement money|a 401(k)
+1000|This flying wing bomber is flown by a crew of two and carries 40,000 pounds of ordnance|a B-2

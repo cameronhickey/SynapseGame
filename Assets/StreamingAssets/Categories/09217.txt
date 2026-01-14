@@ -1,0 +1,6 @@
+FOREIGN ANIMAL NOISES
+200|To the Germans & Vietnamese, these say wau wau when chasing a postman or a cat|a dog
+400|It will wake you up with kokekokko in Japan & kykeliky in Norway|a rooster
+600|Albanian ones say hunk hunk; maybe it's the smell that makes French ones say groin groin while truffle hunting|pigs
+800|In Argentina they berp; Swedish ones kvack while hopping|frogs
+1000|They say piv while stealing havarti & squitt squitt if they get into the provolone|mice

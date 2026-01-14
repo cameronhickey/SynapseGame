@@ -1,0 +1,6 @@
+3-LETTER ANAGRAMS
+200|Place to beard a lion: END|den
+400|Pretend to be Rumpelteazer: CAT|act
+600|For after you make an ash of yourself: RUN|urn
+800|A long time: ONE|eon
+1000|Moo: OWL|low

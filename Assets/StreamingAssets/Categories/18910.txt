@@ -1,0 +1,6 @@
+TRANSLATE THE FRENCH
+200|Chaud, as in chocolat chaud|hot
+400|For dinner it's poisson (note the double "S")|fish
+600|Don't let le gazon grow under your feet|grass
+800|A reporter should carry un stylo|pen
+1000|La mariee, perhaps all in white|bride

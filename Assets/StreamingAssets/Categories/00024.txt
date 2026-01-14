@@ -1,0 +1,6 @@
+AUTOMOBILES
+200|This toy company builds more cars than Ford, G.M. & Chrysler combined|Mattel
+400|In Japan it's called "rasshu awa"; in L.A, 4 to 6 P.M.|rush hour
+600|It's '57 Skyliner had an all-steel convertible top|a Ford
+800|Nash, Kelvinator, & Hudson are its corporate ancestors|American Motors
+1000|Currently, this model from one of U.S. Big 3 carmakers is best-selling single model in the world|the Ford Escort

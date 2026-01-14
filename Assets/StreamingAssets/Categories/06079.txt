@@ -1,0 +1,6 @@
+WATTS
+200|To know watt's watt, you have to study the life of James Watt, an inventor from this country|Scotland
+400|GE's standard incandescent A-line soft white bulbs range in wattage from 40 to this|150
+600|One watt is equal to one ampere moving at one this|Volt
+800|Used by truckers, these radios with 40 channels have an output limit of 4 watts|CB (Citizen's Band) Radios
+1000|Some worried about the safety of using this element to produce wattage for the Ulysses Space Probe|Plutonium

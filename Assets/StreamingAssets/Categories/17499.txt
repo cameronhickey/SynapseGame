@@ -1,0 +1,6 @@
+WATER GATE
+200|This 3-letter word can refer to a beaver's construction or the reservoir of water it creates|dam
+400|Last name of Australian director Peter that's also a term for a water barrier|Weir
+600|It's a 10-letter synonym for seawall|breakwater
+800|Led Zeppelin sang, "if it keeps on rainin"' this is "goin' to break\"|levee
+1000|In cells, the inner mitochondrial is classified as this type of membrane that doesn't permit the passage of fluids|impermeable

@@ -1,0 +1,6 @@
+BANKING
+200|Removing funds from an account before maturity; there's a substantial penalty for it|early withdrawal
+400|It's a check drawn by a bank on itself and is considered as good as cash|a cashier's check
+600|Under level payment amortization, each installment is split between changing amounts of interest & this|principal
+800|Federal Reserve notes have been the government's only paper legal tender since it stopped issuing these certificates|silver certificates
+1000|Each of these is equal to 1% of the amount of a loan paid as a fee to the bank or lender|a point

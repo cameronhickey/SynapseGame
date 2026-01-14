@@ -1,0 +1,6 @@
+WOODWINDS
+200|A famous 1791 opera featured a "Magic" one|a flute
+400|Informally it's called a sweet potato|an ocarina
+600|Gee, it's the woodwind associated with Kenny G|a saxophone
+800|Like the oboe, this double reed woodwind has French & German types|a bassoon
+1000|This woodwind with a pear-shaped bell is often called by its French name, cor anglais|the English horn

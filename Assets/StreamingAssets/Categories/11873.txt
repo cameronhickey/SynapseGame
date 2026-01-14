@@ -1,0 +1,6 @@
+IF YOU'RE...
+200|...a dandelion, your florets are this color|yellow
+400|...an osprey, you feed mainly on live these|fish
+600|...a boy from Syracuse, you're either from New York or this Italian island|Sicily
+800|...using a call sign like K8RX, you're engaged in this hobby|amateur radio
+1000|...the Bundesrat, you're the upper house of parliament in Germany; this is the lower house|the Bundestag

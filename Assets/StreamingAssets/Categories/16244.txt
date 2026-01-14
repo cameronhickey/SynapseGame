@@ -1,0 +1,6 @@
+BEER ME!
+200|A red kangaroo is on the so-called "oil cans" of this brand of beer|Foster's
+400|This brand was the first to put a widget in cans of its draught beer to create the creamy head on a pint served in a pub|Guinness
+600|(Kelly of the Clue Crew gives the clue from the Anheuser-Busch brewery in St. Louis.) In the mid-19th century, Americans drank mainly heavy, top-fermented ales; the new, lighter lagers pioneered by Adolphus Busch were made possible by the new, European, bottom-fermenting types of this ingredient|yeast
+800|Its label calls it (her?) "Belgium's original beer\"|Stella Artois
+1000|You get to taste the malts & smell the hops on a tour of this brand's brewery on Germania Street in Boston|Sam Adams

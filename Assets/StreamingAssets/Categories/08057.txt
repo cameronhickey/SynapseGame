@@ -1,0 +1,6 @@
+PALINDROMIC WORDS
+200|A simpler way of saying "more lobster-colored\"|redder
+400|A car model from Honda|Civic
+600|A noise made by a chick, or to look quickly or secretly|peep
+800|A "bubble-headed" carpenter's tool|level
+1000|(Sarah of the Clue Crew walks out from behind a helicopter) It's the name for the hard-working part of a helicopter that provides upward lift & forward thrust|rotor

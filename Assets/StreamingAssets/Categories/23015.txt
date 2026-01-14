@@ -1,0 +1,6 @@
+GUITARS & DRUMS
+200|The sound of an electric guitar strings gets transmitted to an amplifier by this device, also a word for a light truck|a pickup
+400|Marching drummers use 2 sticks on this biggest & deepest-sounding drum; rockers kick it with a foot pedal|a bass drum
+600|Music theory says that these combine at least 3 different notes, but the "power" type common in heavy guitar music uses just 2|chords
+800|Side drum is another name for this drum that gets its sound from vibrating strings stretched across one drumhead|a snare drum
+1000|Many a rock guitarist plays this classic Gibson guitar named for its legendary designer|Les Paul

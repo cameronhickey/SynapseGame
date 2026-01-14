@@ -1,0 +1,6 @@
+TREBEK, SAJAK OR OZZY OSBOURNE
+200|Graduated from college with a degree in philosophy|Trebek
+400|He's the youngest|Ozzy Osbourne
+600|Worked as a DJ for the Armed Forces Radio Network while serving in Vietnam|Sajak
+800|Played himself in the Adam Sandler movie "Little Nicky\"|Ozzy Osbourne
+1000|Played Kevin Hathaway on the soap opera "Days of Our Lives\"|Sajak

@@ -1,0 +1,6 @@
+NETWORKING
+200|\"Up Close", "Sportscenter", "NBA 2Night\"|ESPN
+400|\"Inside NASCAR", "Grand Ole Opry Live", "Bill Dance Outdoors\"|TNN (The Nashville Network)
+600|\"Toonami", "Johnny Bravo", "I Am Weasel\"|Cartoon Network
+800|\"True Hollywood Story", "Fashion Emergency\"|E!
+1000|\"Queer as Folk", "Resurrection Blvd.", "The Chris Isaak Show\"|Showtime

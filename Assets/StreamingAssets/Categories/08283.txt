@@ -1,0 +1,6 @@
+GRAPHICS
+200|Something held by artists as they work, it can also refer to the array of colors a designer can choose from|a palette
+400|Kerning is all about attention to detail regarding the space between these|letters
+600|Designers want images to be clear & have good this 10-letter word, also a favorable novel outcome|resolution
+800|The Pantone formula guide shows 1,114 of these with their corresponding ink formulas|colors
+1000|It sounds like a bad thing, but this empty "space" defines the image & is the title of a book by designer Noma Bar|negative space

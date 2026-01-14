@@ -1,0 +1,6 @@
+NAMES IN THE DICTIONARY
+200|Chip a piece of furniture, or cut yourself shaving|nick
+400|Specifically, the first light of day|dawn
+600|Toss out, or an inexpensive cut of beef|chuck
+800|The head of a college, or the presiding official of a cathedral|a dean
+1000|By definition, a bricklayer or worker in stone|a mason

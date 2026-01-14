@@ -1,0 +1,6 @@
+NATIONAL PARKS
+200|Logs in this forest may be 150 million years old|the Petrified Forest
+400|Mount Whitney, highest point in lower 48 states, is in this park named for its trees|Sequoia National Park
+600|To see Bridalveil Falls & Illilouette Falls, travel to this national park in California's Sierra Nevada|Yosemite
+800|A gift from John D. Rockefeller, Jr. helped establish this park in North Carolina & Tennessee|Great Smoky Mountains
+1000|This national park occupies several small islands & part of Maine's coast|Acadia

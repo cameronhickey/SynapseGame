@@ -1,0 +1,6 @@
+PERSONAL FINANCE
+200|This department puts the "T" in T-bills|the Treasury Department
+400|What the letters I.R.A. stand for|individual retirement account
+600|The interest or dividends you get, or a sign saying you must give up the right-of-way|yield
+800|This fidelity mutual fund shares its name with a Portuguese explorer|Magellan
+1000|Discount bonds which, as their names suggest, pay no dividends|zero coupons

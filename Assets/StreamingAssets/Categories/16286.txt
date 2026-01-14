@@ -1,0 +1,6 @@
+GO AHEAD... MAKE MY CAR
+200|You can bug out in this automaker's Jetta|Volkswagen
+400|Be an Alfa dog & hop in its 2-seat 8c Spider|Alfa Romeo
+600|This Korean brand has "Soul\"|Kia
+800|A convertible 2013 Phantom from this maker can fetch more than $470,000|Rolls-Royce
+1000|The Roadster, an electric car from this new company named for an inventor, goes 0 to 60 in 3.7 seconds|Tesla

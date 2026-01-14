@@ -1,0 +1,6 @@
+PUBLIC HEALTH
+200|A 1992 law introduced by Sen. Cranston aimed to reduce the use of paint containing too much of this element|lead
+400|An effort lasting from 1985 to 1991 eliminated this paralytic illness from Latin America|polio
+600|(Hi! I'm CNN senior medical correspondent Dr. Sanjay Gupta.) I joined CNN in 2001 & reported on the biological attacks of this bacillus in the news that October|anthrax
+800|Stanford's med school has a division of this, the study & control of disease in populations|epidemiology
+1000|Also a type of mathematical quantity, it's a term for disease-carrying critters like ticks|a vector

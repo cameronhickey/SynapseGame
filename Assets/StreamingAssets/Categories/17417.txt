@@ -1,0 +1,6 @@
+A DROP IN WHICH OCEAN?
+200|Hanauma Bay, east of Waikiki|Pacific
+400|The Gulf of Honduras|the Atlantic
+600|The Sulu Sea|the Pacific Ocean
+800|The Laptev Sea|the Arctic
+1000|The Mozambique Channel|the Indian Ocean

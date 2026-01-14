@@ -1,0 +1,6 @@
+AROUND THE HOUSE WITH PIERRE
+200|Pierre, not his tante, used this, a plume, when he invited you to the house|Pen
+400|If you fail to compliment the view, Pierre just might throw you out of the fenetre, this|Window
+600|Pierre lets Mimi run around the house without any clothes on, because Mimi is a chienne, this|Dog
+800|If you sample too much from Pierre's well-stocked wine cellar; you might end up on the plancher, this|Floor
+1000|As you're leaving, you're relieved that Pierre offers you this, his main & not the back of it|Hand

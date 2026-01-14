@@ -1,0 +1,6 @@
+TRILOBITES
+200|Of 2 inches, 12 inches or 24 inches, the one closest to the size of the largest trilobite fossil ever found|24 inches
+400|Of a trilobite's 3 main body parts, the cephalon corresponds to this human part|head
+600|Covered by a tropical ocean 445 million years ago, this state's official fossil is the trilobite, not John Glenn|Ohio
+800|As they aged, trilobites got rid of their old exoskeletons through this process, from the Latin for "change\"|molting
+1000|Cambrian trilobites were among the first of these "jointed foot" creatures to appear|arthropods

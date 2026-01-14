@@ -1,0 +1,6 @@
+CINEMATIC TITLE PAIRS
+200|1994: "...& Dumber\"|Dumb
+400|1975: "...and the Holy Grail\"|Monty Python
+600|1996: "...and the Giant Peach\"|James
+800|1944: "...and Old Lace\"|Arsenic
+1000|1974: "...and the Bean\"|Freebie

@@ -1,0 +1,6 @@
+POST HASTE
+200|A boat opening|hatch
+400|Arrogantly proud & condescending|haughty
+600|To carry a large weight, or drag someone before a judge|haul
+800|The hip or hindquarter of a beast|haunch
+1000|It's German for "housewife\"|hausfrau

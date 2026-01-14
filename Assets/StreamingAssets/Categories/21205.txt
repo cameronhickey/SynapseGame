@@ -1,0 +1,6 @@
+THE STATE-LY COLLEGE
+200|Vassar|New York
+400|Northeastern University|Massachusetts
+600|Miami University & not the University of Miami|Ohio
+800|Gonzaga|Washington
+1000|Morehouse|Georgia

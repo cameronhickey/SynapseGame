@@ -1,0 +1,6 @@
+NUTRITION & HEALTH
+200|While it's advisable to keep this below 200, the HDL & LDL levels are important as well|cholesterol
+400|One common nutritional deficiency is a lack of this mineral, which can lead to anemia|iron
+600|Cabbage & spinach are excellent sources of this vitamin that's essential for blood clotting|vitamin K
+800|This nondigestible product found in grains & beans is thought to prevent certain intestinal disorders|fiber
+1000|A powerful antioxidant, much of this orange substance converts to vitamin A in the body|beta carotene

@@ -1,0 +1,6 @@
+STARTS WITH "G\"
+200|Francisco Franco's superlative title|generalissimo
+400|The study of aging|gerontology
+600|Condition caused by too many cars in one area, prohibiting movement in any direction|gridlock
+800|The metal ring used to hold a sail to its stay or a shoelace on a shoe|a grommet
+1000|A type of silk or rayon frequently used for ribbon, it features heavy crosswise cords|grosgrain

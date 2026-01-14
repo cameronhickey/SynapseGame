@@ -1,0 +1,6 @@
+I'D LIKE TO SOLVE THE PUZZLE
+200|In 1981 James G. Nourse wrote the bestseller "The Simple Solution to" this puzzling toy phenomenon|a Rubik's Cube
+400|These puzzles bear the name of the tool that's used to cut up & make them|a jigsaw
+600|A confused mess, or a syndicated newspaper puzzle with letters in circles & squares|jumble
+800|This number grid puzzle takes its name from the Japanese for "single number\"|sudoku
+1000|The Knight's Tour & 8 Queens are logic puzzles using this game's board & its pieces|chess

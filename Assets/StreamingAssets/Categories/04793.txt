@@ -1,0 +1,6 @@
+FOREIGN AUTO PARTS
+200|In your Jag you may want to install your 50 CD changer in the boot, this part|Trunk
+400|In Stockholm you may have quite a Saab story to tell if you don't hit the broms, these, fast enough|Brakes
+600|Fiat owner Rob never pulls out his own stecca dell'olio, this; he lets his mechanic Guido do it|dipstick
+800|In a Citroen this liquid is l'antigel|antifreeze
+1000|Blow a band in Rotterdam & you might have to get a new one of these|Tire

@@ -1,0 +1,6 @@
+C'EST MONTREAL
+200|If you're doing the Montreal speed limit of 50 in your car, make sure it's in these units per hour|kilometers
+400|Examples of these in Montreal include The Mirror & Le Devoir|newspapers
+600|Montreal's many underground walkways lined with shops & cafes use an idea credited to this Renaissance man|da Vinci
+800|Montreal's "Juste pour rire" comedy festival held each July is known as this in English|Just For Laughs
+1000|In 1535 this man sailed to the site of future Montreal & came upon a large fortified Indian settlement there|(Jacques) Cartier

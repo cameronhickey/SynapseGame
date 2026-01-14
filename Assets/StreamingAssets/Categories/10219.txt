@@ -1,0 +1,6 @@
+HELLO, "OLLY\"
+200|This Los Angeles district was named after the ranch of the Wilcox family|Hollywood
+400|Buccaneer banner|the Jolly Roger
+600|An umbrella in London|brolly
+800|Popular "black" aquarium fish|a molly
+1000|Erasmus praised it in the title of a 1511 work|folly

@@ -1,0 +1,6 @@
+MATH FUN
+200|If the 4 people at your standup show each bring 2 friends to your next gig, you'll have this size audience|12
+400|It's the response to the classic riddle "Why is 6 afraid of 7?\"|Because 7 8 9
+600|(Kelly of the Clue Crew presents the clue.) Take a circle whose diameter is 1 foot & mark the bottom; once the wheel has made one revolution, you have a measurement, in feet, of this ratio|pi
+800|It's the sum of the 4 numbers in the center column of buttons on a standard touch-tone phone|15
+1000|(Sarah of the Clue Crew presents the clue.) The Venn diagram here contains three sets: A, B & C, but, there's another set that includes all possible things that's called this|the universal set

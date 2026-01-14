@@ -1,0 +1,6 @@
+\"BOARD" WALK
+200|Stand up on one of these to shoot the curl at the Banzai pipeline|a surfboard
+400|It's divided into 20 equal-sized areas & has double & triple score rings|a dart board
+600|On "Downton Abbey" one footman's job is to stand by this piece of furniture that's often in a dining room|a sideboard
+800|Popular nickname for the New York Stock Exchange|the Big Board
+1000|Traditional hat for a cap-&-gowned graduate-to-be|a mortar board

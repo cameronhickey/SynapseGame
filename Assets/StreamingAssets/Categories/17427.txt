@@ -1,0 +1,6 @@
+IT'S A GAS... GIANT
+200|It's the giantest gas giant planet|Jupiter
+400|Nereid is the third largest of its 13 moons|Neptune
+600|It's named for the Roman god of agriculture|Saturn
+800|Its ring system was discovered in 1977, nearly 200 years after it was|Uranus
+1000|Its axis of rotation is almost parallel to its orbital plane, so it spins more or less on its side|Uranus

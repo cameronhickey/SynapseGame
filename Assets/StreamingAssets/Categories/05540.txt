@@ -1,0 +1,6 @@
+SHAKESPEARE'S EXIT LINES
+200|\"I'll to the friar to know his remedy; if all else fail, myself have power to die\"|Juliet
+400|\"Go, Tubal, and meet me at our synagogue — go, good Tubal — at our synagogue, Tubal\"|Shylock
+600|\"Fair is foul and foul is fair; hover through the fog and filthy air\"|The Three Witches in "Macbeth\"
+800|\"And kiss me Kate, we will be married O'Sunday\"|Petruchio
+1000|\"Some one take order Buckingham be brought to Salisbury; the rest march on with me\"|Richard III

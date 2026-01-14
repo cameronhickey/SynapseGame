@@ -1,0 +1,6 @@
+COUNTRY OF ORIGIN
+200|San Pellegrino, as in sparkling natural mineral water|Italy
+400|Birkenstock, as in shoes|Germany
+600|Baccarat, as in crystal|France
+800|Burberry, as in fashion|Britain
+1000|CITGO, as in gas (go south)|Venezuela

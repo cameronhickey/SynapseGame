@@ -1,0 +1,6 @@
+THE CHIEF JUSTICE FILES
+200|1986-today|William Rehnquist
+400|1801-1835|John Marshall
+600|1953-1969|Earl Warren
+800|1969-1986|Warren Burger
+1000|1921-1930|William Howard Taft

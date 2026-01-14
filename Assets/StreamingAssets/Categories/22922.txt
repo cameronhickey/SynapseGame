@@ -1,0 +1,6 @@
+GUITAR TALK
+200|The long, narrow part of a guitar that carries the strings from the body to the headstock has this anatomical name|a neck
+400|Don't worry, we're sure you know this word for the strips of metal embedded in a guitar's fingerboard|frets
+600|A guitar's strings are set to E-A-D-G-B-E in "standard" this|tuning
+800|Guitarists use picks, also known by this other "P" word|plectrum
+1000|This type of clamp raises the pitch of a guitar's strings|a capo

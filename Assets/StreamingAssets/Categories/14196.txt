@@ -1,0 +1,6 @@
+MIDDLE NAMING
+200|Anthem author Scott|Francis Scott Key
+400|Civil War general Tecumseh|William Tecumseh Sherman
+600|Inventor Graham|Alexander Graham Bell
+800|Tennis champ Jean|Billie Jean King
+1000|Convicted assassin Earl|James Earl Ray

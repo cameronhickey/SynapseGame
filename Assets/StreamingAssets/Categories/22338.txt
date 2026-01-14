@@ -1,0 +1,6 @@
+\"LIST" BUCKET
+200|A person with training or experience that makes him an expert in a particular field|a specialist
+400|Someone who fights with his fists for sport|a pugilist
+600|A member of an ancient people of the Middle East, or a person with no interest in intellectual pursuits|a Philistine
+800|From the Greek for "'beauty" & "strength", it's basic exercises for fitness with little use of special equipment|calisthenics
+1000|If you're an expert on this, you help police detectives solve crimes by linking bullets to guns & their owners|ballistics

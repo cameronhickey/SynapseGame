@@ -1,0 +1,6 @@
+POETIC WORDS
+200|E'er is a poetic form of this adverb|ever
+400|E'en is a poetic form of this adverb|even
+600|In "To Celia", this possessive case of thou precedes the word "eyes\"|thine
+800|\"L'allegro" by Milton uses this 4-letter word for a deep shade of black, a shortening of the name of a wood|ebon
+1000|A poem by Robert Burns taught us that "gang aft" this means "often go wrong\"|agley

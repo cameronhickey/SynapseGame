@@ -1,0 +1,6 @@
+NUMBERS AS WORDS
+200|This number can mean to turn your life around or just turn yourself around|180
+400|If you are as suave as James Bond, they call you this number|007
+600|College course or not, this 3-digit number following a word designates it as elementary information|101
+800|To throw out|86
+1000|A calculator (upside down) can help you get this 4-digit number for Leetspeak|1337

@@ -1,0 +1,6 @@
+GAME SHOW FORMATS
+200|To start each round, 4 people from the audience each try to guess the correct cost of a featured prize|The Price is Right
+400|With the help of 3 lifelines, a contestant tries to answer 15 questions to win a cool 7 figures|Who Wants to Be a Millionaire
+600|A member of the opposite sex asks questions of 3 hidden contestants & then picks 1 to go out with|The Dating Game
+800|2 contestants try to duplicate the answers given by 6 celebrities to funny fill-in-the-blank sentences|The Match Game
+1000|3 people all claim to be the same specific person|To Tell the Truth

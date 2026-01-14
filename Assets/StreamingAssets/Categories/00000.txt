@@ -1,0 +1,6 @@
+LAKES & RIVERS
+200|Scottish word for lake|loch
+400|American river only 33 miles shorter than the Mississippi|the Missouri
+600|This lake in the Banff National Park is the most visited place in the Canadian Rockies|Lake Louise
+800|While poets pour over the Rhine & Danube this 2nd largest German river gets no press|the Elbe
+1000|Containing a source of the Nile near Jinja, this country's surface is 1/6 water|Uganda

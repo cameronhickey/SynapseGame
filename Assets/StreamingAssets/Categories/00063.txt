@@ -1,0 +1,6 @@
+MEDICINE
+200|What you are if you're myopic|nearsighted
+400|Ancient Chinese art of needling you into good health|acupuncture
+600|Doctors swear by this Greek oath|the Hippocratic oath
+800|Disease commonly named for the baseball great who succumbed to it|Lou Gehrig's disease (amyotrophic lateral sclerosis)
+1000|Miracle drug accidentally discovered in Alexander Fleming's Petri dish|penicillin

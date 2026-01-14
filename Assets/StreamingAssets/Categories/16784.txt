@@ -1,0 +1,6 @@
+FROM "L" TO "M\"
+200|Some airlines advertise that their seats have more of this so you can stretch out|legroom
+400|This flooring invented around 1860 has come back in favor because it's environmentally friendly|linoleum
+600|Tepid, or lacking enthusiasm or conviction|lukewarm
+800|A deadlock or impasse|logjam
+1000|This Greek school stood in a grove sacred to Apollo, the god for whom it was named|Lyceum

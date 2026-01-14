@@ -1,0 +1,6 @@
+EUROPEAN CAPITALS
+200|You'll find the University of Iceland in this capital city|Reykjavik
+400|The Pyramid of Gaius Cestius, the only pyramid in this city, has a burial chamber inside|Rome
+600|This Latvian city's Dome Cathedral sometimes hosts the International Boys' Choir Festival|Riga
+800|Built at the turn of the century, the Metropol on Teatralny Avenue is one of this city's most famous hotels|Moscow
+1000|This city on the Dimbovita River became the capital of Walachia in 1659|Bucharest, Romania

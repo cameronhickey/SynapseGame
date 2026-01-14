@@ -1,0 +1,6 @@
+MIXED DOG BREEDS
+200|EEL BAG|beagle
+400|DADS HUNCH|dachshund
+600|PINK GEESE|Pekingese
+800|REWROTE LIT|Rottweiler
+1000|OPEN AIRMAN|Pomeranian

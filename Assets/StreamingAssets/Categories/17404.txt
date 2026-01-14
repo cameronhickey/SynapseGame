@@ -1,0 +1,6 @@
+MAP QUEST
+200|Incorporated as a city in 1853, it's on the shores of Lake Winnebago b'gosh|Oshkosh
+400|But will it play in this city, originally a settlement called Fort Crevecoeur?|Peoria
+600|Antelope Island, oddly home to a herd of wild buffalo, is the largest island in this U.S. body of water|Great Salt Lake
+800|A-squared equals good times in this city, home to a 40,000-student university|Ann Arbor
+1000|Named for a Spanish duke, it's the county seat of Bernalillo County|Albuquerque

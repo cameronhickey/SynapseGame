@@ -1,0 +1,6 @@
+VARIETY OF VEG
+200|Moth, fava|bean
+400|Bermuda, Maui|onion
+600|Banana, bell|pepper
+800|Smooth-leaf, baby, semi-savoy|spinach
+1000|Imperator, Chantenay, little fingers|carrots

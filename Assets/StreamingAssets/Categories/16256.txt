@@ -1,0 +1,6 @@
+GREENBACKS
+200|More bills of this denomination are printed every year than any other, about 45% of the total|$1
+400|On $20 bills a seal represents this system; a letter & number represent its component bank issuing the note|the Federal Reserve System
+600|It's the only current bill with the face of a treasury secretary on it|the $10 bill
+800|A star at the end of this indicates that it's out of sequence with those on the other bills in its series|the serial number
+1000|Every day this bureau, the B.E.P., produces millions of paper bills, with a face value over $400 million|the Bureau of Engraving and Printing

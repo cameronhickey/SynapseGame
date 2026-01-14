@@ -1,0 +1,6 @@
+DICTIONARY ABBR.
+200|colloq. is short for this adjective meaning informal or conversational|colloquial
+400|It would be a sin for you not to know that syn. indicates this|synonym
+600|Ob. is Obadiah; obs. indicates this type of now-obscure word or definition|obsolete
+800|Grammatically speaking, n.pl. is this|noun plural (or plural noun)
+1000|LL is Late Latin; LME is this|Late Middle English

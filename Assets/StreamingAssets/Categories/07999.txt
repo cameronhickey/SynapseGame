@@ -1,0 +1,6 @@
+SONG TITLES
+200|Duran Duran: "Hungry Like The ___\"|Wolf
+400|Wilson Pickett: "___ Sally\"|Mustang
+600|Elton John: "Honky ___\"|Cat
+800|David Bowie: "Diamond ___\"|Dogs
+1000|Peter Gabriel: "Shock The ___\"|Monkey

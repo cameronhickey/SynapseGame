@@ -1,0 +1,6 @@
+HACKER CINEMA
+200|Emilio Estevez accesses an embassy's surveillance system in this 1996 Tom Cruise film|Mission: Impossible
+400|Clarence Gilyard Jr. cracks security to open a vault & help take over an office tower in this 1988 film|Die Hard
+600|In this 1999 film a character named for the god of dreams searches for the one who will destroy a computer world|The Matrix
+800|Matthew Broderick almost starts WWIII when he hacks into a military computer in this film|WarGames
+1000|Seth Green invents an algorithm to change the color of traffic lights in this 2003 L.A. heist film|The Italian Job

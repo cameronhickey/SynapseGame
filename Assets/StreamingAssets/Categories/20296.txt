@@ -1,0 +1,6 @@
+GLOBAL ORGANIZATIONS
+200|15 judges sit on the International Court of Justice as the principal judicial organ of this global body|the United Nations
+400|Dr. Ngozi Okonjo-Iweala, an economist from Nigeria, is the first woman to head this, WTO for short|the World Trade Organization
+600|Goals of the IMF include improving access to global investment & stabilizing these currency trading scales|exchange rates
+800|This group that now has 27 member nations is headquartered in Brussels, Belgium|the European Union (EU)
+1000|This agency, the IAEA, has been much in the news in recent years with its inspectors' attempts to monitor nuclear technology|the International Atomic Energy Agency

@@ -1,0 +1,6 @@
+CEMETERIES
+200|This city's Pere-Lachaise Cemetery is the final resting place of Oscar Wilde & Edith Piaf|Paris
+400|368 World War I soldiers are buried in this U.S. military cemetery near Waregem, Belgium|Flanders Fields
+600|About 250 people were buried in this Tombstone, Arizona Cemetery from 1878 to 1884, including Billy Clanton|Boot Hill
+800|The world's largest historical mosaic, "The Birth Of Liberty", can be found at this Southern Calif. cemetery|Forest Lawn
+1000|368 American servicemen from WWI are buried in this "field", a U.S. Military cemetery near Waregem, Belgium|Flanders Field

@@ -1,0 +1,6 @@
+ALL ABOARD AMTRAK
+200|The Adirondack route hits NYC, Albany & this second-largest Canadian city|Montreal
+400|I'm the train route they call the City of this, which also hits Memphis & Chicago; I'll be gone 500 miles when the day is done|the City of New Orleans
+600|The Southwest Chief route takes a "right toyn" after stopping at this 11-letter N.M. city (relax, we won't make you spell it)|Albuquerque
+800|The express route named for this Fort Ticonderoga hero has stops in Rutland & Castleton, Vermont|Ethan Allen
+1000|The Keystone Route serves NYC, Philly & this capital; Three Mile Island's nearby if you're the nuclear plant gawker type|Harrisburg

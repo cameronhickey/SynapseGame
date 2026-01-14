@@ -1,0 +1,6 @@
+CAPITAL CITY HOTELS
+200|The Dorchester & the Savoy|London
+400|Hostel Aphrodite & Hotel Achilleas|Athens
+600|Hostel La Macarena & Hostel Cervantes|Madrid
+800|The Hotel Romischer Kaiser & the Amadeus Hotel|Vienna
+1000|Hotel Erzsebet & the Club Hotel Petnehazy|Budapest

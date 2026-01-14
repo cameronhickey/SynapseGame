@@ -1,0 +1,6 @@
+THE CANDY COUNTER
+200|These malted milk balls were first sold unwrapped, 2 for a penny; today they come in milk carton packaging|Whoppers
+400|A little birdie told me these classic candies are simply licorice-flavored dots|Crows
+600|BB's are little bite-size versions of this candy bar, Bart's favorite|Butterfinger
+800|The name of this "dispensed" candy came from a contraction of the German for "peppermint", pfefferminz|Pez
+1000|Candy that asks you to "taste the rainbow\"|Skittles

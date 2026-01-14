@@ -1,0 +1,6 @@
+BIRDS OF A FEATHER
+200|Bald, harpy|an eagle
+400|Rock, turtle, mourning|a dove
+600|Mourning & Oriental turtle-|dove
+800|Red-headed, ivory-billed, yellow-bellied sapsucker|a woodpecker
+1000|Red-headed, red-bellied, red-breasted sapsucker|a woodpecker

@@ -1,0 +1,6 @@
+SOAP BOX DERBY
+200|Its label calls it "the soap that floats\"|Ivory
+400|This brand's body wash has "all the freshness of Ireland, bottled\"|Irish Spring
+600|According to the label, this heavy-duty hand cleaner is "pumice-powered\"|Lava
+800|This soap has been keeping you "fresh round the clock" since 1940|Dial
+1000|This soap brand has been on a "campaign for real beauty\"|Dove

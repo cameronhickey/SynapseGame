@@ -1,0 +1,6 @@
+GIMME THE NUMBERS!
+200|It's the number of days in a fortnight|14
+400|The distance between the measuring sticks to get a first down in the NFL—in feet, not yards|30
+600|Number of "questions" traditionally asked by the youngest child at Passover|4
+800|It's the difference in the number of U.S. states in 2020 vs. the number of U.S. states in 1790|37
+1000|To the nearest million miles, it's the equivalent of 1 astronomical unit, the distance from the Earth to the Sun|93 million

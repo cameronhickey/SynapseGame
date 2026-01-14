@@ -1,0 +1,6 @@
+PRESIDENTIAL TV
+200|\"The Missiles of October\"|Kennedy
+400|\"Warm Springs\"|FDR
+600|\"The Man from Independence\"|Harry Truman
+800|\"The Final Days" (1989)|Nixon
+1000|\"The Crossing\"|Washington

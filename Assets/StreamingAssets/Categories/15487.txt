@@ -1,0 +1,6 @@
+STATE LICENSE PLATE SLOGANS
+200|\"Sweet home...\"|Alabama
+400|\"The Empire State...\"|New York
+600|\"Sportsman's Paradise\"|Louisiana
+800|\"Greatest Snow On Earth\"|Utah
+1000|\"Unbridled Spirit\"|Kentucky

@@ -1,0 +1,6 @@
+ARTISTS' SUBJECTS
+200|Duchamp painted a notorious one descending a staircase|a nude
+400|Da Vinci left "The Adoration of" these men unfinished in Florence to work as a military engineer|the Magi
+600|Rembrandt painted "The Blinding of" this Biblical character|Samson
+800|His dramatic sculpture of Balzac was rejected by the committee that commissioned it|Rodin
+1000|This title place that Picasso's "Les Demoiselles" hailed from was not the town, but a street of ill-repute|Avignon

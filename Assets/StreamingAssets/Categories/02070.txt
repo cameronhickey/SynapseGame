@@ -1,0 +1,6 @@
+HORSE SENSE
+200|A horse's height is measured in these units, each equal to 4 inches|hands
+400|A hackamore is a bitless type of this that controls a horse with pressure on its nose & jaw|bridle
+600|A horse born December 31, 1998 became a yearling on this date|January 1, 1999
+800|It was the 1975 Tony Award winner for best play|Equus
+1000|In 1948 the public was let in to see the horses painted in the walls of this French cave|Lascaux

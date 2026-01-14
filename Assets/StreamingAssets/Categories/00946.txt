@@ -1,0 +1,6 @@
+METALS
+200|The name of this metal comes from molybdos, the Greek word for lead|molybdenum
+400|Symbolized K, this metal is so soft it can be cut with a knife|potassium
+600|The tetraethyl compound of this metal once put the ethyl in ethyl gasoline|lead
+800|This strong, light metal used in supersonic aircraft was discovered by William Gregor|titanium
+1000|Indium is often extracted from ores of this metal used to galvanize steel|zinc

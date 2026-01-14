@@ -1,0 +1,6 @@
+WORD ON THE STREET
+200|In Manhattan: Lexington or Madison|Avenue
+400|In L.A.: Glendale, Sunset or Wilshire|Boulevard
+600|In Chicago: North Lake Shore or South Wacker|Drive
+800|In London: Drury or Leather this little road|Lane
+1000|In Rome: Dei Condotti or Giuseppe di Vittorio|Via

@@ -1,0 +1,6 @@
+GREENLAND
+200|The closest country to Greenland is this one, a mere 16 miles away|Canada
+400|Fully two-thirds of Greenland lies within this boundary at latitude 66 degrees 30 minutes north|the Arctic Circle
+600|Greenland's major physical feature is its massive ice sheet, which is second in size only to one found here|Antarctica
+800|Greenland is an autonomous dependency of this nation|Denmark
+1000|The site of a U.S. Air Force base, it follows "Ultima" in a phrase meaning a distant place|Thule

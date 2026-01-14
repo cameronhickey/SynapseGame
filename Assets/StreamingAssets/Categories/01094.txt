@@ -1,0 +1,6 @@
+BLOOD & GUTS
+200|The most common human blood type is represented by this letter, Rh positive|O
+400|O can be a donor to all of these 3 other major blood groups|A, B & AB
+600|The esophagus leads into this organ; the duodenum leads out|the stomach
+800|It may be dangerous for a woman without this antigen factor to have a baby with a man who has it|the Rh factor
+1000|When ruptured, this heart-sized organ that destroys old red blood cells has to be removed|the spleen

@@ -1,0 +1,6 @@
+FROM BOOK TO MOVIE WITH A DIFFERENT TITLE
+200|Before it was "Schindler's List" on film, the book was "Schindler's" this (meaning the one of the covenant)|Ark
+400|About a CIA analyst on the run, "Six Days of the Condor" was reduced to this many days in the movie version|Three
+600|Ben Mezrich's "The Accidental Billionaires" became this movie about the startup of Facebook|The Social Network
+800|Houston, we have a new title: "Lost Moon" by this astronaut was the basis for "Apollo 13\"|Jim Lovell
+1000|\"The Midwich Cuckoos" inspired this "Damned" 1960 film about children with frightening powers in a small town|Village of the Damned

@@ -1,0 +1,6 @@
+\"S"EVEN LETTER WORDS
+200|A hypodermic instrument to inject fluids into the body|a syringe
+400|Use this tube & enjoy a view of the threadfin butterfly & other reef fish|a snorkel
+600|It's a malicious computer program that gathers info about a user & then transmits it to an outside entity|spyware
+800|A long-handled pan used for frying food|a skillet
+1000|A cancerous growth of the soft tissues, usually appearing at first as a painless swelling|a sarcoma

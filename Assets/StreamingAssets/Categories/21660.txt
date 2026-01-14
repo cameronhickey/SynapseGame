@@ -1,0 +1,6 @@
+BEGINS & ENDS WITH "W\"
+200|To take money out of an account|withdraw
+400|It's the interval during which conditions are suitable for the safe launch of a spacecraft|a window
+600|Native to northern temperate zones, this tree of the genus Salix is valued for shade & erosion control|weeping willow
+800|It's someone's global perspective or philosophy of life|worldview
+1000|A good boss knows how to manage this, the process of handling tasks|workflow

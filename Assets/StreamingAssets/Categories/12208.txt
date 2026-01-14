@@ -1,0 +1,6 @@
+PAPERS
+200|Woodward & Bernstein were working for this newspaper in August 1972|the Washington Post
+400|In 1889 Charles Dow & Edward Jones founded this business daily|the Wall Street Journal
+600|Look into it & you'll see this Philly paper's name is spelled with an "I", the one in Cincinnati, with an "E\"|the Inquirer (Enquirer)
+800|Legend says Strom Thurmond outlived the reporters who wrote his obit for The State, a paper in this state|South Carolina
+1000|This city's newspapers include The Globe & The Christian Science Monitor|Boston

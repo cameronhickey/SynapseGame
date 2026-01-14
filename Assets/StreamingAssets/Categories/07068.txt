@@ -1,0 +1,6 @@
+FIRST CLASS
+200|The first movie with a plot was filmed in 1903 & concerned the "great" robbery of one of these|a train
+400|City that was home to the USA's first boat club & organized baseball team, both named Knickerbocker|New York
+600|In 1901 X-ray discoverer Wilhelm Roentgen became the first recipient of a Nobel Prize in this category|Physics
+800|It's been "cataloged" as the first skyscraper over 1,400 feet in height|the Sears Tower
+1000|In 1891 Samuel O'Reilly turned Edison's electric engraving pen into the first electric machine to make these, sailor|tattoos

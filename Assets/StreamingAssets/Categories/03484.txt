@@ -1,0 +1,6 @@
+NAME THE PLAY
+200|\"We'll hang ourselves tomorrow...unless Godot comes\"|Waiting for Godot
+400|\"I have always depended on the kindness of strangers\"|A Streetcar Named Desire
+600|\"Hm...11 o'clock in Grover's Corners, — you get a good rest, too. Good night.\"|Our Town
+800|\"Once more unto the breach, dear friends, once more; or close the wall up with our English dead!\"|Henry V
+1000|\"Nora! Nora!...empty. She's gone.\"|A Doll's House

@@ -1,0 +1,6 @@
+FROM THE BRITISH MONARCHY'S WEBSITE
+200|The principal duty of the Queen's Piper is to play this instrument every weekday at 9 A.M. under the Queen's window|the bagpipe
+400|In song, it's the title line that follows "Send her victorious, happy and glorious, long to reign over us\"|God save the Queen
+600|Please note: "There is no guard mounting" (also known as this ceremony) "in very wet weather\"|Changing of the Guard
+800|If you speak Welsh & want to read about this person, go to the Cymrag section & click on "Tywysog Cymru\"|the Prince of Wales
+1000|On presentation to the Queen, address her formally as "Your Majesty" & subsequently by this polite contraction|Ma'am

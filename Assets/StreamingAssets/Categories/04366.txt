@@ -1,0 +1,6 @@
+JAI ALAI
+200|The cancha or walled court of jai alai can have no more than this many walls|3
+400|A popular sport in Spain & the Philippines, jai alai first became popular in the U.S. in this state|Florida
+600|Jai alai players know it's called the pelota|Ball
+800|Surprisingly, some historians believe jai alai was invented by this founder of the Jesuit order|Saint Ignatius Loyola
+1000|Jai alai means "merry festival" in the language of this ethnic group of Spain|Basques

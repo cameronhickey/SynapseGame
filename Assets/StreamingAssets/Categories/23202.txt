@@ -1,0 +1,6 @@
+STOCK: MARKETS
+200|COST is the stock symbol for this company—don't overthink it|Costco
+400|KR is the stock symbol for this major supermarket chain|Kroger
+600|This mega-retailer that joined the Dow Industrials in 1997 is near the bottom of the list alphabetically|Walmart
+800|WFM was once the stock symbol for this company, but Amazon bought it|Whole Foods
+1000|Tesco Stores is listed on this city's stock market|London

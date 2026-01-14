@@ -1,0 +1,6 @@
+LANGUAGE
+200|Predominant language in Canada's Quebec province|French
+400|The New Testament was originally written in Koine, a common dialect of this language|Greek
+600|Language in which this #1 song of 1958 was sung|Italian
+800|Due to regional disputes, India has retained this as an official language|English
+1000|The only Romance language from an East Bloc country|Romanian

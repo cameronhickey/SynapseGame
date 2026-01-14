@@ -1,0 +1,6 @@
+PILOTS
+200|Pilot somewhere over the Atlantic, May 20, 1927|Lindbergh
+400|Pilot up above his brother & others, December 17, 1903 at 10:35 AM|Orville Wright
+600|\"Operation Overflight" is his account of his famous Cold War flight over the USSR|Francis Gary Powers
+800|Pilot who made an "unplanned" trip to Ireland & got a parade for his trouble on August 5, 1938|\"Wrong Way" Corrigan
+1000|American pilot on the ground & "Behind Enemy Lines" in Bosnia for 6 days in 1995|Scott O'Grady

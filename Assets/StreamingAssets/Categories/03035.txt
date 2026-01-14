@@ -1,0 +1,6 @@
+HIGH SCHOOL ORIENTATION
+200|Some high schools have parties where students trade signatures in these annual publications|yearbooks
+400|This student with the highest academic ranking traditionally speaks at graduation|the valedictorian
+600|(Hi, I'm Ben Savage.) Football games are common at these high school celebrations for returning graduates|homecomings
+800|It's a tradition for girls to ask guys to this dance, which bears a woman's name|Sadie Hawkins Dance
+1000|From the Latin for "within walls", it's a sports activity played by teams from the same school|intramurals

@@ -1,0 +1,6 @@
+WORDS WITH DOUBLE LETTERS
+200|From Spanish, it's a small donkey used as a pack animal|burro
+400|Got milk? A cow does, in this baglike mammary organ|udder
+600|A set of religious principles or beliefs; the Apostles' is one|creed
+800|To mend shoes|to cobble
+1000|In feudalism, it was someone given a "fief", land & workers, in return for services to a lord|vassals

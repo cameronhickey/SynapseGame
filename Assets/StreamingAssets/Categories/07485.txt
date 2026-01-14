@@ -1,0 +1,6 @@
+COUNTRIES BY NEWSPAPER
+200|El Financiero & The Oaxaca Times|Mexico
+400|The Connaught Telegraph & The Galway Advertiser|Ireland
+600|Svenska Dagbladet & Sundsvalls Tidning|Sweden
+800|The Cape Business News & The Natal Witness|South Africa
+1000|The Warrnambool Standard & The Alice Springs News|Australia

@@ -1,0 +1,6 @@
+WASPS
+200|Only wasps of this sex can sting|the female sex
+400|Number of wings most wasps have|4
+600|Wasps do this to ventilate nests in hot weather|flap their wings at the entrance to the next (fanning their wings)
+800|Social wasps mix this with old wood & plant fibers to produce the paper used to build nests|saliva
+1000|Formerly fashionable female figure feature|wasp-waisted

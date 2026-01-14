@@ -1,0 +1,6 @@
+COTTON
+200|This part of the cotton plant, which contains the fibers, begins to grow as the flower dies|the boll
+400|Cotton is compressed into these 480-pound units that measure about 55" by 25" by 45\"|a bale
+600|This title creature from a 1922 tale with cotton fabric in his name also has thread whiskers & ears lined with pink sateen|The Velveteen Rabbit
+800|Weevils know that cotton comes from little pods called these|bolls
+1000|Edison's patent for his first light bulb mentions testing carbonized cotton threads as a possibility for this component|a filament

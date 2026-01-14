@@ -1,0 +1,6 @@
+STATE CAPITAL FACTS
+200|Boulder is 25 miles to its northwest|Denver
+400|The first of its defining insurance policies was issued in 1794|Hartford
+600|Per Rick Perry, it's "the blueberry in the tomato soup\"|Austin
+800|It commands the main pass through the Green Mountains|Montpelier
+1000|A seaport on Narragansett Bay|Providence

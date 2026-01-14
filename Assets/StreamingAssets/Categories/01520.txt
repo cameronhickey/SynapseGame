@@ -1,0 +1,6 @@
+U.S. STATE NAMES
+200|It's Sioux for "friendly"; so a person might hail from north Friendly or South Friendly|Dakota
+400|Its name, an Indian word for "flat" or "spreading water", refers to its Platte River|Nebraska
+600|This state's name is derived from an Indian word for "flat water", a reference to the Platte River|Nebraska
+800|In 1629 Captain John Mason named it for his home county in England|New Hampshire
+1000|Rev. Allen Wright, a Choctaw Indian, was responsible for giving this state a Choctaw name meaning "red people\"|Oklahoma

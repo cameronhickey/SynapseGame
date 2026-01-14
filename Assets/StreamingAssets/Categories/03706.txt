@@ -1,0 +1,6 @@
+FOOD STUFF
+200|Gouda cheese is named for Gouda, a town in this country|the Netherlands (or Holland)
+400|An Englishman might "win one for" this flattened, cold-smoked herring|the kipper
+600|The noble Roman house of Fabius took its name from this bean|fava bean
+800|Like peaches & apricots, apples have seeds that contain minute amounts of this deadly poison|cyanide
+1000|The name of this pasta, dumplings often made from potato dough, means "dumpling\"|gnocchi

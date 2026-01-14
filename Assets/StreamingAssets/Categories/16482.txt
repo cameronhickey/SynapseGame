@@ -1,0 +1,6 @@
+ON WHAT CONTINENT?
+200|The Serengeti plain|Africa
+400|The Great Victoria desert|Australia
+600|Fundy National Park|North America
+800|Marie Byrd land|Antarctica
+1000|Mount Ararat|Asia

@@ -1,0 +1,6 @@
+MAYORS
+200|The last 2 Latinos elected mayor of this huge U.S. city are Cristobal Aguilar (1872) & Antonio Villaraigosa (2005)|Los Angeles
+400|In 2002 this city's Mayor Akiba invited President Bush to come see what nuclear weapons do to a city|Hiroshima
+600|Actress Melina Mercouri ran unsuccessfully for mayor of this foreign city, a post her Grandpa held for 30 years|Athens
+800|Ron Gonzales of this Silicon Valley city is the first Latino mayor of a major California city since statehood|San Jose
+1000|At age 31, though looking more like 13, this future presidential candidate was Cleveland's mayor|Dennis Kucinich

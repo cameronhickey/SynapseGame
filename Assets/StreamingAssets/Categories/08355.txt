@@ -1,0 +1,6 @@
+BIG SCREEN TITLE ROLES
+200|2002: "The Pianist\"|Adrien Brody
+400|1978: "Superman\"|Christopher Reeve
+600|1982: "Blade Runner\"|Harrison Ford
+800|1967: "The Graduate\"|Dustin Hoffman
+1000|1982: "Gandhi\"|Ben Kingsley

@@ -1,0 +1,6 @@
+5-LETTER BIRDS
+200|The whooping species of this bird is one of North America's rarest|crane
+400|This largest type of parrot can be tamed, but is not a particularly good talker|macaw
+600|Hunted at night by summer campers, but never found, it's actually a real bird related to the sandpiper|snipe
+800|Looking similar to a crane, this great blue bird flies with its long neck in an S shape|heron
+1000|Darwin is noted for his study of this bird in the Galapagos Islands|finch

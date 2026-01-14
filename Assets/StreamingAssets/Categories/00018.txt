@@ -1,0 +1,6 @@
+BIOLOGY
+200|Genus Rana; frequent victim of biology class dissections|a frog
+400|L.B.J.'s hound dog or Darwin's ship|the Beagle
+600|The basic unit of life; 3 billion die every minute in your body|cells
+800|It puts the green in greenery|chlorophyll
+1000|Deoxyribonucleic acid|DNA

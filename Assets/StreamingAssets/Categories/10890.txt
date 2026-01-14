@@ -1,0 +1,6 @@
+2 WORDS IN ONE
+200|\"Smog" is produced from these 2 words|smoke & fog
+400|\"Chunnel", formed from these 2 words, was originally dug up in the 1920s|channel & tunnel
+600|Parts of these 2 words can be seen in "camcorder\"|camera & recorder
+800|\"Avionics" flies from these words|aviation & electronics
+1000|A shark appendage plus a type of beer gives us this musical conclusion|finale (fin + ale)

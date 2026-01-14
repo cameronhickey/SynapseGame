@@ -1,0 +1,6 @@
+HULL OF FAME
+200|This ship, Columbus' favorite, made at least 5 trips to the New World|the Niña
+400|The captain of this spectral ship is condemned to sail the seas until Judgment Day unless he is saved by love|the Flying Dutchman
+600|This boat famously sank in Lake Superior in 1975|the Edmund Fitzgerald
+800|Later fired as governor of New Zealand for defending Maori claims, Robert FitzRoy captained this survey ship|the HMS Beagle
+1000|In a famous naval battle of 1779, it was the ship that defeated the Serapis|the Bonhomme Richard

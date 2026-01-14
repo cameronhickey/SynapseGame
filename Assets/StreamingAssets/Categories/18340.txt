@@ -1,0 +1,6 @@
+RENTING
+200|In Alaska, a failure to pay utility bills can be grounds for this process against a tenant within 5 days|eviction
+400|Many states limit this required upfront sum to an amount equal to 1 or 2 months rent|a (security) deposit
+600|Renters with low incomes can seek assistance through the Section 8 program of this U.S. govt. department|HUD
+800|Discrimination against renting to families with children is illegal except for housing reserved for these only|senior citizens
+1000|California rental agreements have implied warranties that the apt. isn't rotten, verminous or otherwise this 13-letter word|uninhabitable

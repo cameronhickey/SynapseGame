@@ -1,0 +1,6 @@
+ALL SORTS OF SANDWICHES
+200|A falafel sandwich is traditionally made with this Middle Eastern pocket bread|pita
+400|A very traditional tea sandwich is made with this green gourd sliced very thin|cucumber
+600|This McDonald's sandwich is called "le Royal Cheese" in France|the Quarter Pounder
+800|Michele A. Jordan wrote a cookbook devoted to this sandwich whose name tells you its 3 main ingredients|the BLT
+1000|Hunt's Manwich is a sauce for this messy sandwich|sloppy joe

@@ -1,0 +1,6 @@
+A NUMBER FROM 1 TO 10
+200|Proverbial number that can "play at that game\"|2
+400|States in present-day New England|6
+600|Chambers in your heart|4
+800|Days of prayer in a novena|9
+1000|Syllables in a line of standard iambic pentameter|10

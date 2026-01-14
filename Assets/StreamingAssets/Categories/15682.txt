@@ -1,0 +1,6 @@
+SIR WALTER SCOTT
+200|Sir Walter Scott was born in 1771 in this city|Edinburgh
+400|This noble outlaw helps King Richard I rescue the title knight in Scott's "Ivanhoe\"|Robin Hood
+600|In 1813 Sir Walter wrote a letter complimenting this American on his "History of New York\"|Washington Irving
+800|Jedediah Cleishbotham, Capt. Clutterbuck & Malachi Malagrowther were all these of Sir Walter Scott|pseudonyms
+1000|Scott's novel "Kenilworth" contains the scene involving a mud puddle, a cloak & these 2 personages|Sir Walter Raleigh & Queen Elizabeth I

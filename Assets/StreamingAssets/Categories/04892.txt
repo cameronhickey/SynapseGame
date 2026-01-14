@@ -1,0 +1,6 @@
+REPORTER'S DICTIONARY
+200|From Latin for "death", it's an announcement of a person's death|Obituary
+400|\"Standard" term for a large, front-page headline extending the width of the page|Banner headline
+600|It's the "sloping" point of view taken in a news story or feature|Slant
+800|A publicist is also known as this kind of agent|Publicity/press agent
+1000|This short 1- or 2-word label for a news story sounds like a mollusk without a shell|Slug

@@ -1,0 +1,6 @@
+GLAND CENTRAL STATION
+200|These glands secrete liquid into the mouths of mammals to help break down starches|Salivary glands
+400|It's the growth-influencing gland at the base of the brain|Pituitary gland
+600|This ductless gland in the base of the neck secretes the hormones for controlling metabolism|Thyroid gland
+800|These glands located above each kidney secrete steroids & epinephrine|Adrenal Glands
+1000|It's the cone-shaped organ in the brain that secretes melatonin|the pineal gland

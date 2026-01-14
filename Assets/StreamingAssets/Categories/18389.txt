@@ -1,0 +1,6 @@
+DOUBLE-LETTER SCIENCE
+200|It's scientific for "stuff"; dust in the atmosphere is the "particulate" type|matter
+400|In birds it's also known as the gastric mill|the gizzard
+600|Any mix of fuel & an oxidizer, it contains a verb that thrusts you forward|a propellant
+800|Rust on steel is an example of the atmospheric type of this|corrosion
+1000|The orientation of a spacecraft's axes relative to earth is this; you may develop a bad one if you get it wrong|attitude

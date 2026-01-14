@@ -1,0 +1,6 @@
+AUCTIONS
+200|Auctioneer's action that signifies the moment at which a contract is created between buyer & seller|the banging of the gavel
+400|In 1983, Sotheby's auction house dropped these 2 names & became simply Sotheby's|Parke-Bernet
+600|2 of the 3 options that Christie's offers you if you can't bid in person|(2 of) by proxy (a representative of Christie's) and by mail (or telephone)
+800|Founded in 1766, this world's oldest auction house is 2nd only to Sotheby's in dollar sales|Christie's
+1000|Guinness says greatest corporate auction was this Co's purchase of Hughes Aircraft for $5 billion|General Motors

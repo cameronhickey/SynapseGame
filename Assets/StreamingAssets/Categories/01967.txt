@@ -1,0 +1,6 @@
+WINE & CHEESE
+200|Sauterne is a sweet white wine named for a district in this country's Bordeaux region|France
+400|Probably the most famous Dutch cheese, it contains more fat than Edam|Gouda
+600|This soft cheese found in Greek salad is made from the milk of sheep or goats|Feta
+800|The tawny type of this fortified Iberian wine may be aged in wood for many years|port
+1000|It's best to drink this country's Moselle wines when they are about 4 years old|Germany

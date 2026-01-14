@@ -1,0 +1,6 @@
+SNAILS
+200|In French restaurants the helix garden snail is better known as this|escargot
+400|Number of feet you have to have to be an official snail|1
+600|California sea snail whose ear-shaped shell with a row of holes often ends up as an ashtray|abalone
+800|Cameos are carved from the pink shells of this snail whose name is from Greek for "shell\"|conch
+1000|Shakespeare compares a whining schoolboy to a snail in this play's "All the world's a stage" speech|As You Like It

@@ -1,0 +1,6 @@
+SPRINGS ON THE MAP
+200|This California resort's aerial tramway up Mt. San Jacinto has the world's largest rotating tramcars|Palm Springs
+400|This Australian town was named for a waterhole that was named for telegraph advocate Charles Todd's wife|Alice Springs
+600|This Georgia town is home to the Roosevelt Institute, a comprehensive rehabilitation facility|Warm Springs
+800|The U.S. Olympic Training Center is located in this city in the foothills of the Rockies|Colorado Springs
+1000|This fashionable resort in the Adirondacks is the summer home of the New York City Ballet|Saratoga Springs

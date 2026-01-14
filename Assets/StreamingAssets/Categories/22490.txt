@@ -1,0 +1,6 @@
+ACCORD
+200|The 1995 Dayton Accords ended the war in Bosnia that followed the breakup of this Balkan republic|Yugoslavia
+400|These 1978 accords named for a presidential retreat led to a 1979 peace treaty between Israel & Egypt|the Camp David Accords
+600|In 1951 the Treasury Department reached an accord with this other institution allowing the latter to pursue its own monetary policy|the Federal Reserve
+800|The 1985 Plaza Accord devalued the dollar in relation to this, the currency of the only Asian G-5 member|the yen
+1000|The 1989 Taif Accord ended a long civil war between Muslims & Christians in this Mideast nation|Lebanon

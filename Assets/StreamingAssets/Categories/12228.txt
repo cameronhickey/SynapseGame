@@ -1,0 +1,6 @@
+ALL "SET\"
+200|In summer, when this happens just after 8 p.m. in Los Angeles, it happens after 11:30 p.m. in Anchorage|sunset
+400|Species of this small monkey include the common, buffy tufted-ear & pygmy|a marmoset
+600|It can be a useful quality, or any item of value that is owned|an asset
+800|Hebrew for "assembly", it's the parliament of Israel|the Knesset
+1000|An element that balances another, or a type of printing that takes ink from plate to blanket to paper|offset

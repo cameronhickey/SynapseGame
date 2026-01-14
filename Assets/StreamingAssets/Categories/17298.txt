@@ -1,0 +1,6 @@
+NOVELS BY CHARACTER
+200|Countess Trifaldi, Dona Rodriguez, Dulcinea|Don Quixote
+400|Miles Archer, Miss Wonderly, Sam Spade|The Maltese Falcon
+600|Noah Joad, Jim Casy, Rose of Sharon|The Grapes of Wrath
+800|Sir Kay, Hank Morgan, Merlin the Magician|A Connecticut Yankee in King Arthur's Court
+1000|Billy Bibbit, Candy, The Big Nurse|One Flew Over the Cuckoo's Nest

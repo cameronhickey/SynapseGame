@@ -1,0 +1,6 @@
+MONEY MATTERS
+200|Term for the signature on the back of a check|an endorsement
+400|The Nikkei Stock Average is an index based on the prices of 225 stocks on this exchange|the Tokyo exchange
+600|A premium is the sum of money paid to buy this type of policy|insurance
+800|The theory of this University of Chicago economist is populary called Monetarism|Milton Friedman
+1000|His law states that bad money forces good money out of circulation|Thomas Gresham

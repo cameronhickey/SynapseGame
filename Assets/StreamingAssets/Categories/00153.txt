@@ -1,0 +1,6 @@
+BIRDS
+200|Cuckoo family-member Geococcyx Californianus ; goes "Beep beep" in cartoons|a roadrunner
+400|Bird named after bright red robes of a Roman Catholic clergyman|a cardinal
+600|While ostriches lay the largest eggs, these birds lay the smallest|a hummingbird
+800|Member of India's starling family, famous for ability to mimic voices|a myna
+1000|With both eyes facing forward, it has greatest range of binocular vision in birds|the owl

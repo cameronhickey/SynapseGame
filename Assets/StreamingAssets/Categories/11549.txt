@@ -1,0 +1,6 @@
+THERE'S A WEIGHT
+200|The atomic weight of hydrogen, or the number of times LBJ was elected President|1
+400|At the Kentucky Derby, the horses' equipment & these can weigh no less than 126 lbs. combined|the weight of the jockey
+600|(Jon of the Clue Crew delivers the clue as he weighs some metal on a scale) A French city lends its name to this system of weight used with precious metals, in which 12 ounces equals a pound|Troy weight
+800|In Great Britain a "long" one of these is equal to 2,240 pounds|a ton
+1000|There are this many milligrams in a kilogram|one million

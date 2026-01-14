@@ -1,0 +1,6 @@
+SATELLITE BY NATION
+200|Nilesat|Egypt
+400|Alouette 2 (not France)|Canada
+600|Tigrisat|Iraq
+800|Sinosat 2|China
+1000|Astrid|Sweden

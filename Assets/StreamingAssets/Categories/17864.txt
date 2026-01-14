@@ -1,0 +1,6 @@
+ENDS WITH DOUBLE LETTERS
+200|To decrease & then increase is to do this "& flow\"|ebb
+400|Another word for a baseball glove|mitt
+600|A tax levied specifically on imports|tariff
+800|The point in an orbit farthest from earth|apogee
+1000|The point in an orbit closest to earth|perigee

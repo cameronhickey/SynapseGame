@@ -1,0 +1,6 @@
+BALLPARK
+200|\"America's most beloved ballpark", it's home to the Green Monster|Fenway Park
+400|The address for Oracle Park, home to this team, is 24 Willie Mays Plaza|the (San Francisco) Giants
+600|The Yankees have spring training in Tampa at GMS Field, GMS being the initials of this longtime owner|(George) Steinbrenner
+800|This NL team makes its home in Chase Field, which has a retractable roof to avoid too much heat in summer|the (Arizona) Diamondbacks
+1000|Roy Campanella, Biz Mackey & Jud Wilson, who played for the city in the Negro Leagues, appear in this park's Birdland artwork|Oriole Park

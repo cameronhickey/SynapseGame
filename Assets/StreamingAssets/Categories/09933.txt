@@ -1,0 +1,6 @@
+MEDITERRANEAN GEOGRAPHY
+200|This country occupies all of the peninsula known as Asia Minor|Turkey
+400|This Sicilian volcano's height varies between major eruptions; in some instances by several hundred feet|Etna
+600|The name of this North African city means "three cities" & refers to the ancient cities of Oea, Sabrata & Leptis Major|Tripoli
+800|The largest of Spain's Balearic Islands, it's known as the "Pearl of the Mediterranean\"|Majorca
+1000|This southern Greek peninsula was once called Morea, or "mulberry", for its mulberry-leaf shape|the Peloponnesus

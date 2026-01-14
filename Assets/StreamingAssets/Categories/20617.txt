@@ -1,0 +1,6 @@
+WRITE, PATTERSON
+200|James Patterson's first novel, "The Thomas Berryman Number", won this literary award named for Mr. Poe|the Edgar Award
+400|Patterson's love of this sport inspired him to write "Miracle at Augusta\"|golf
+600|Patterson came along in 1993 with "Along Came a Spider", his first book about this psychologist & detective|Alex Cross
+800|While working in advertising, he wrote the slogan "I don't want to grow up, I'm a" this kind of kid|Toys "R" Us
+1000|Patterson's young adult series about siblings Wisty & Whit Allgood is titled "Witch &" this|Witch & Wizard

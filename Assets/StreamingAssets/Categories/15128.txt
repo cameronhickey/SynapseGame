@@ -1,0 +1,6 @@
+TIME PIECES
+200|This watch brand with a Greek letter name says it made the world's first diver's watch|Omega
+400|A "complication" is a watch feature showing anything besides the time; Blancpain's grand complication has the phases of this|phases of the moon
+600|(Sarah of the Clue Crew presents the clue from the Mayer Museum in Jerusalem.) Featuring a calendar & barometer & valued at over $10 million, a watch ordered in 1783 for this queen took until 1827 to finish; sadly, she wasn't around to receive it|Marie Antoinette
+800|The timepiece that in 1760 solved the problem of determining the degrees of this at sea still runs|longitude
+1000|(Sarah of the Clue Crew presents the clue from the Mayer Museum in Jerusalem.) This pistol, which marked the hours with the sound of a shot, was made in the early 1800s in this country, fulfilling its reputation for clock-making, but not so much for peaceability|Switzerland

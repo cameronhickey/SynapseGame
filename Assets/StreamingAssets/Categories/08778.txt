@@ -1,0 +1,6 @@
+SPOT THE POOCH
+200|The margay, the mastiff, the moa|mastiff
+400|The Savannah, the serval, the shar-pei|the shar-pei
+600|The burmilla, the balbinus, the bichon frise|the bichon frise
+800|The cymric, the cockapoo, the caballado|the cockapoo
+1000|The kelpie, the krait, the kabaddi|the kelpie

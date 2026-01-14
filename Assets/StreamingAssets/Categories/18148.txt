@@ -1,0 +1,6 @@
+TAKING IN THE CITY SITES
+200|charmeck.org is the site for this city & Mecklenburg County|Charlotte
+400|Iovehaight.org is for people who love this town, summer or not|San Francisco
+600|spl.org is for this city's library system, including the Rainier Beach branch|Seattle
+800|startribune.com is the site for a major newspaper based in this city|Minneapolis
+1000|bigshoulders.com belongs to a digital video production company based here|Chicago

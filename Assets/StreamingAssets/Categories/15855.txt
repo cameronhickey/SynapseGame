@@ -1,0 +1,6 @@
+CITY BY POPULATION
+200|The Twin City that's not a state capital: 390,000|Minneapolis
+400|A U.K. capital: 486,000, including J.K. Rowling|Edinburgh
+600|Lo mas grande en España: 4.1 million|Madrid
+800|A Brazilian giant in the world's top 10: 11 million|São Paulo
+1000|Near the mouth of the Yangtze: Near 20 million|Shanghai

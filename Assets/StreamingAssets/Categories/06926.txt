@@ -1,0 +1,6 @@
+BONDS, COMMON BONDS
+200|Vallee, Giuliani, Tomjanovich|Rudy
+400|Frogs, years, Christmas lords|things that leap
+600|Fireplace logs, sundae bananas. infinitives|things that are split
+800|Newspaper pages, the Parthenon, Chinese menus|things that have columns
+1000|Golfers, decks of cards, cliche cavemen|things with clubs

@@ -1,0 +1,6 @@
+ANT-ONYMS
+200|Most members of an ant colony are these, as opposed to resters|workers
+400|Like termites, ants are this type of insect, not solitary|social
+600|If you want a mound built to damage farm machinery, "hire" these ants|fire ants
+800|Amazon ants become masters when they steal the young from other nests & make them these|slaves
+1000|The extinct passenger pigeon & this African army ant are both known for moving in huge swarms|driver ants

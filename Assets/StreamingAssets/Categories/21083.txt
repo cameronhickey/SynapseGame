@@ -1,0 +1,6 @@
+OUR STATE LOOKS UP TO YOU
+200|Kansas looks up to it|Nebraska
+400|It's due north of New Mexico|Colorado
+600|Iowans roll their eyes upward at this state|Minnesota
+800|It's Arkansas' good neighbor to the north|Missouri
+1000|It's the state Wyoming looks up to|Montana

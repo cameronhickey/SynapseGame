@@ -1,0 +1,6 @@
+PLAYWRONGS
+200|Sophocles: "Octopus Wrecks\"|Oedipus Rex
+400|Oliver Goldsmith: "She Stops to Conquer\"|She Stoops to Conquer
+600|Sam Shepard: "Tool for Glove\"|Fool for Love
+800|Harold Pinter: "The Birthday Pastry\"|The Birthday Party
+1000|Aeschylus: "Steven Again Thebes\"|Seven Against Thebes

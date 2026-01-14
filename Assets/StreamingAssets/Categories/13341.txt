@@ -1,0 +1,6 @@
+LITERARY SHIPS
+200|The Nautilus plumbs the depths in this 1870 Verne work|Twenty Thousand Leagues Under the Sea
+400|The Rachel is the rescue ship at the end of this Melville epic|Moby-Dick
+600|The Jolly Roger sails the seas in this J.M. Barrie romp|Peter Pan
+800|You're gonna need a bigger boat than the Orca in this Peter Benchley thriller|Jaws
+1000|The Hispaniola is found in this Stevenson high seas quest|Treasure Island

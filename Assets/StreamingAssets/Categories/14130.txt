@@ -1,0 +1,6 @@
+PARTS OF PEACH
+200|If this part of a peach is downy or fuzzy, the fruit's called a peach; if it's smooth, a nectarine|the skin
+400|Peaches are more than 80% this compound|H2O
+600|5-letter word for the hard interior of a peach|the stone
+800|These parts of a peach tree are glossy green, pointed & lance shaped|leaves
+1000|These parts of a peach tree grow at nodes along the shoots of the previous season's growth; they're usually pink|blossoms

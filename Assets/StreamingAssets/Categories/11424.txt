@@ -1,0 +1,6 @@
+CHANGE ONE LETTER
+200|Change one letter in coin & it becomes this veggie|corn
+400|A stocking bag|a sock sack
+600|Change one letter in cord & make this feudal title|lord
+800|A sodium chloride auction|a salt sale
+1000|Change one letter in load & make this element|lead

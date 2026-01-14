@@ -1,0 +1,6 @@
+PARROTS
+200|The kakapo, an endangered, flightless parrot, was once a principal food of these New Zealand natives|the Maori
+400|Almost all parrot eggs are this color, like those of most birds who nest in holes|white
+600|In parrots these are zygodactyl — the first & fourth are turned backwards|toes
+800|The Carolina species of this small parrot was once native to North America but died out around 1920|parakeet
+1000|At almost 40 inches in length, the hyacinth species of this South American bird is the largest parrot|macaw

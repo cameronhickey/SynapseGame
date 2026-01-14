@@ -1,0 +1,6 @@
+AUTHOR BIOS
+200|Born in 1817, solo nature boy 1845-1847, became one with the earth in 1862|Thoreau
+400|Born in 1775, showed "Sensibility" in 1811, never married, died in 1817|Jane Austen
+600|Born in a hotel in 1888, took a "Long Day's Journney into Night" in a hotel in 1953|Eugene O'Neill
+800|Born in Prague in 1883, worked in insurance until 1922, died in '24, yet went on "Trial" in '25|(Franz) Kafka
+1000|Born in 1854, was well-read in Gaol for 2 years, Paris-ed away in 1900|Oscar Wilde

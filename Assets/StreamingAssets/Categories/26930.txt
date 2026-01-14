@@ -1,0 +1,6 @@
+U.S . GOVERNMENT
+200|Life forms created in the laboratory can be registered with this Commerce Department office|Patent Office
+400|Established in 1942, it's the worldwide broadcasting division of the U.S. government|Voice of America
+600|The packaging of atomic materials is under the jurisdiction of this agency|Nuclear Regulatory Commission
+800|In July 1989 Richard H. Truly succeeded James C. Fletcher as administrator of this agency|NASA
+1000|The Merchant Marine Academy in Kings Point, New York is administered by this Cabinet department|the Department of Transportation

@@ -1,0 +1,6 @@
+RITE
+200|In Judaism, this rite of passage is celebrated around the time of a boy's 13th birthday|a bar mitzvah
+400|The Catholic rite for this sacrament begins with asking the parents what they name their child|baptism
+600|In this religion, a book of the dead called the "Bardo Thodol" is read to the dying to help them prepare for a favorable rebirth|Buddhism
+800|Casting 7 stones at each of the 3 pillars of Mina is a rite enacted during the pilgrimage with this name|hajj
+1000|This rite is a solo vigil by a Plains Indian boy to seek spiritual power & knowledge through an apparition|a vision quest (or spirit quest)

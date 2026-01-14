@@ -1,0 +1,6 @@
+\"GEN" KNOWLEDGE
+200|Adjective for something sold without a trademark or brand|generic
+400|The restoration & development of urban areas to make way for middle-class buyers|gentrification
+600|From Latin for "bend the knee", it means to kneel|genuflect
+800|A police officer in Paris|gendarme
+1000|It's the seaport capital of the region of Liguria|Genoa

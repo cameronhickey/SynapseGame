@@ -1,0 +1,6 @@
+SHAKESPEARE SLAYS ME
+200|Othello believes the lies of Iago & murders this wife|Desdemona
+400|Hamlet fatally stabs this father of Ophelia & Laertes through a curtain|Polonius
+600|Moments after Macbeth claims he can't be killed by any man born of woman, this thane of Fife performs the deed|Macduff
+800|Named for the god of thievery, this friend of Romeo is slain by Juliet's cousin Tybalt|Mercutio
+1000|He kills Richard III & declares an end to the Wars of the Roses|Richmond

@@ -1,0 +1,6 @@
+I WANT MY SUV
+200|Explorer|Ford
+400|Grand Cherokee|Jeep
+600|Blazer|Chevrolet
+800|Xterra|Nissan
+1000|Montero|Mitsubishi

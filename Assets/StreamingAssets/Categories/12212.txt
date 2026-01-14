@@ -1,0 +1,6 @@
+SEXPERTISE
+200|Stevie Winwood, Stevie Nicks, Stevie Wonder|Stevie Nicks
+400|Robin Leach, Robin Givens, Robin Cook|Robin Givens
+600|Pat Leahy, Pat Buchanan, Pat Nixon|Pat Nixon
+800|Kim Campbell, Kim Philby, Kim Jong Il|Kim Campbell
+1000|P.D. James, G.K. Chesterton, A.A. Milne|P.D. James

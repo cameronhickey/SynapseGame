@@ -1,0 +1,6 @@
+FRUIT IN LATIN
+200|I cannot tell a lie, this fruit is cerasus|Cherry
+400|This fruit is palmula in Latin; the palm in its name should give you a clue|Date
+600|The olea, it's famous for its oleum, "oil\"|olive
+800|A malum is one of these & it may be of your oculus|Apple ("Apple of your eye")
+1000|Originating around Iran, it's a Malum granatum|a pomegranate

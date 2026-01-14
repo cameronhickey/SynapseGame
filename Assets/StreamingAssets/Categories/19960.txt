@@ -1,0 +1,6 @@
+& A NEW CAR!
+200|We can all agree its Accord was one of Car and Driver's 10 Best of 2016|Honda
+400|You can go off-road & we guess, up a mountain in this make's high altitude Grand Cherokee|Jeep
+600|4G Wi-Fi is available in the Impala from this brand|Chevrolet
+800|This company calls its Golf GTI "The Hot Hatch\"|Volkswagen
+1000|This company's Edge model is an SUV with built-in BLIS—Blind Spot Information System, that is|Ford

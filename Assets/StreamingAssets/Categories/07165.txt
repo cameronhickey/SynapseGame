@@ -1,0 +1,6 @@
+FIX THE MALAPROP
+200|\"He reached the very pineapple of success\"|the very pinnacle of success
+400|\"The Minnesota Twins play their home games at the Metronome\"|the Metrodome
+600|\"Be it ever so hovel, there's no place like home\"|humble
+800|\"Abe Lincoln's pictures make him look so thin & emancipated\"|emaciated
+1000|\"It sure is good to be back on terra cotta again\"|terra firma

@@ -1,0 +1,6 @@
+FUN WITH NUMBERS
+200|The Beatles asked, "Will you still need me, will you still feed me when I'm" this|64
+400|It's the number of items in a baker's dozen|13
+600|To excel in this category, you should know that XL in Roman numerals equals this|40
+800|In Spanish, cincuenta is this number|50
+1000|It's the next number in the Fibonacci Sequence: 1, 1, 2, 3, 5, 8, 13, 21 ...|34

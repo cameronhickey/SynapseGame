@@ -1,0 +1,6 @@
+SCRABBLE PLAYERS DICTIONARY "D\"
+200|\"A finger or toe", 5 letters|a digit
+400|\"A short, simple song", 5 letters|a ditty
+600|\"Japanese radish", 6 letters|daikon
+800|\"To search for underground water with a diving rod", 5 letters|dowse
+1000|8-letter adjective, "pertaining to a flood\"|diluvian

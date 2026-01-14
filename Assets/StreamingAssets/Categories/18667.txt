@@ -1,0 +1,6 @@
+WRITERS FIRST NAME'S THE SAME
+200|Eliot & Sand|George
+400|Sitwell & Wharton|Edith
+600|McCullough & Sedaris|David
+800|Wise Brown & Atwood|Margaret
+1000|Chopin & DiCamillo|Kate

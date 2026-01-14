@@ -1,0 +1,6 @@
+TIME ZONING
+200|This country has the most time zones, 11|Russia
+400|On a map of time zones, you might find "+1 day" to the left of this & "-1 day" to the right of it|the international date line
+600|Hawaii is sometimes coupled with the name of a time zone with these islands far to the north|the Aleutians
+800|It's the largest country in the world to have only one time zone|China
+1000|The Navy & civil aviation use this "time" named for the largest ethnic group in South Africa|Zulu

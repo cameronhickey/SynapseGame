@@ -1,0 +1,6 @@
+SHOES
+200|This type of shoe has a slot in the strap across each vamp into which a coin can be inserted|a pennyloafer
+400|Among the U.S. presidents of the last 70 years, he has the biggest shoe size, a 13C|Bill Clinton
+600|These boots named for a British general became popular during the Napoleonic Wars|Wellingtons
+800|Miranda, Spectator & d'Orsay are types of this slip-on women's shoe|a pump
+1000|This flat shoe normally has a cloth upper & a flexible rope sole|espadrilles

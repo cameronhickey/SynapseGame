@@ -1,0 +1,6 @@
+IN-FLIGHT MOVIES
+200|Gary Oldman hijacks the President's plane in this 1997 thriller|Air Force One
+400|A crop-dusting plane nearly makes dust out of Cary Grant in this Hitchcock thriller|North by Northwest
+600|William Wellman, who'd served in the Lafayette Escadrille Flying Corps, directed this first Best Picture winner|Wings
+800|Bruce Willis is waiting for his wife's plane to land at Dulles when trouble begins in this 1990 sequel|Die Hard 2
+1000|The Jailbird is the prisoner transport plane in this 1997 Nicolas Cage flick|Con Air

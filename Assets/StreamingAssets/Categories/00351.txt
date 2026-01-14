@@ -1,0 +1,6 @@
+SLEEP
+200|The inability to sleep|insomnia
+400|In 1909, his door bed company was 1st in U.S. to manufacture the concealed bed|Murphy
+600|The vibration of the uvula & the soft palate during sleep|snoring
+800|(Sarah of the Clue Crew holds a CPAP device at the Sleep Research Center at Stanford University.) Stanford is running a trial of the CPAP device, which provides continuous positive airway pressure to help this chronic condition where breathing is interrupted|sleep apnea
+1000|Father of Morpheus, he was the Greek god of sleep|Hypnos

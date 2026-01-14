@@ -1,0 +1,6 @@
+MISSING BODY PARTS
+200|Captain Hook in "Peter Pan\"|a hand
+400|The Scarecrow before he meets the Wizard of Oz|a brain
+600|The Hessian soldier in "The Legend of Sleepy Hollow\"|a head
+800|The mutinous Long John Silver in "Treasure Island\"|a leg
+1000|The mysterious real killer in "The Fugitive\"|an arm

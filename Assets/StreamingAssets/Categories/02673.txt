@@ -1,0 +1,6 @@
+2nd-LARGEST CITIES
+200|This country's 2nd-largest city, Thessaloniki, is about half the size of its largest|Greece
+400|Tennis' Australian Open is held in this 2nd-largest city|Melbourne
+600|Al-Iskandariyah, also known as this, is Egypt's 2nd-greatest city in population|Alexandria
+800|This American city, Georgia's 2nd largest, shares its name with Ohio's largest|Columbus
+1000|After Brussels, it's the largest city in Belgium|Antwerp

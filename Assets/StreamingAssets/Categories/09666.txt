@@ -1,0 +1,6 @@
+MEASURE UP
+200|It's really gross, man, when you have a gross which is this many dozen|12
+400|This measure of booze equals .666 jigger or 1 ounce|a shot
+600|It was supposed to equal the distance from Henry VIII's nose to the tip of his outstretched thumb|a yard
+800|As I understand it, this unit used to measure the depth of water equals 6 feet|fathom
+1000|A computer's speed is measured in these time units equal to 1 billionth of a second|a nanosecond

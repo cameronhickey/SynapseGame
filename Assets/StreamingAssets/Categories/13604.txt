@@ -1,0 +1,6 @@
+NAME THE FILM
+200|1939: "I've a feeling we're not in Kansas anymore\"|The Wizard Of Oz
+400|1972: "I'm gonna make him an offer he can't refuse\"|The Godfather
+600|1976: "You talking to me?\"|Taxi Driver
+800|1995: "To infinity, and beyond!\"|Toy Story
+1000|2007: "I... drink... your... milkshake! I drink it up!\"|There Will Be Blood

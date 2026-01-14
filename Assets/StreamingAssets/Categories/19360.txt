@@ -1,0 +1,6 @@
+DIVISION I SPORTS TEAMS
+200|Its Wildcats ran wild as the 2016 NCAA men's basketball champs|Villanova
+400|Its Nittany Lions roar their approval|Penn State
+600|Its Sun Devils create a desert storm|Arizona State
+800|Its Horned Frogs leap about the "Lone Star State\"|Texas Christian (TCU)
+1000|Its Orange grows in New York|Syracuse

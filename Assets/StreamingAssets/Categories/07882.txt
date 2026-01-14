@@ -1,0 +1,6 @@
+STATE LAKES
+200|Buckeye Lake|Ohio
+400|Yellowstone Lake|Wyoming
+600|Crater Lake|Oregon
+800|Lobster Lake|Maine
+1000|Lake of the Ozarks|Missouri

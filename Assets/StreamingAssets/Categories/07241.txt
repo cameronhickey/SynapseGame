@@ -1,0 +1,6 @@
+KIDS IN BOOKS
+200|Based on a real child, a kid named Christopher Robin hangs out with this literary bear|Winnie the Pooh
+400|This collie was the faithful friend of a kid named Joe in a book by British novelist Eric Knight|Lassie
+600|Mowgli is the human kid hanging out in the woods with wolves & tigers in this Rudyard Kipling "Book\"|\"The Jungle Book\"
+800|She's Beezus Quimby's pesky young sister|Ramona
+1000|\"The Sword in the Stone" is a book about a kid who grows up to be this king|King Arthur

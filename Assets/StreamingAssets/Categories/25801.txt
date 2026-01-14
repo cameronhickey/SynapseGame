@@ -1,0 +1,6 @@
+CLASSIC POEMS' ENDINGS
+200|\"Mighty Casey has struck out\"|\"Casey at the Bat\"
+400|\"I took the one less traveled by, and that has made all the difference\"|\"The Road Not Taken\"
+600|\"Rage, rage against the dying of the light\"|\"Do not go gentle into that good night\"
+800|\"All mimsy were the borogoves, and the mome raths outgrabe\"|the "Jabberwocky\"
+1000|\"Noble six hundred!\"|\"The Charge of the Light Brigade\"

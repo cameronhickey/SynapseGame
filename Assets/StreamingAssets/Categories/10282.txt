@@ -1,0 +1,6 @@
+BOOZE
+200|This strong liquor is named for the town in Jalisco, Mexico that's a center for its production|tequila
+400|Rhyming name of the classic tropical cocktail of rum, curacao & lime juice|a mai tai
+600|Head to Asia for this cocktail of gin, cherry brandy, sugar & water|a Singapore sling
+800|If you don't add the salt to a salty dog, you have this other "canine" cocktail|a greyhound
+1000|One cover story in the magazine devoted to & named for this liquor was "The Birth of Blending\"|whiskey

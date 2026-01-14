@@ -1,0 +1,6 @@
+ASK "Y\"
+200|In the U.S. this street sign is in the form of an equilateral triangle|yield
+400|4-letter name of the subcompact automobile produced by Serbian manufacturer Zastava|Yugo
+600|This American university celebrated its tercentennial in 2001|Yale
+800|In 1986 Sarah Ferguson became the Duchess of it|York
+1000|As head of this Internet company, Terry Semel has made more than $230 million in only 4 years|Yahoo!

@@ -1,0 +1,6 @@
+LABOR
+200|In this type of strike, Union members stop working but refuse to leave the plant|a sit-down strike
+400|In 1960 John L. Lewis retired after 40 years as president of this union, the UMW|the United Mine Workers
+600|On March 4, 1913 the Dept. of Labor was made a separate cabinet dept. under this president|Woodrow Wilson
+800|Some states have passed these laws that allow employment without union affiliation|right-to-work
+1000|The Industrial Workers of the World, an anti-capitalist 20th c. union, got this "shaky" nickname|the Wobblies

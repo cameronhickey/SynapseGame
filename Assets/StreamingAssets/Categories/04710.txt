@@ -1,0 +1,6 @@
+PRIME NUMBERS
+200|In the rhyme, it's the number of whacks Lizzie Borden gave her father|41
+400|Fear of this prime number is called triskaidekaphobia|13
+600|The First Battle of Bull Run was in this year|1861
+800|It's the largest 3-digit prime|997
+1000|Number "Against Thebes" in a work by Aeschylus|seven

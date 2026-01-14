@@ -1,0 +1,6 @@
+TRIPLE "A"-RATED FOOD
+200|It's squid! Buon appetito!|calamari
+400|Meat, cheese & vegetables are popular fillings for this baked or fried pastry with a Spanish name|an empanada
+600|From Turkish, it's the name of a sweet nutty pastry|baklava
+800|These little anise-flavored seeds are popular in breads & crackers|caraway
+1000|This bread was created in the 1980s as Italy's answer to the baguette|ciabatta

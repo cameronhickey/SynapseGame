@@ -1,0 +1,6 @@
+GAME SHOW
+200|There are 15 multiple-choice questions to answer to win the top prize on this game show; would you like to ask the host?|Who Wants to Be a Millionaire
+400|If you don't know that Anne Robinson hosted U.S. & U.K. versions of this game show, then good-bye!|The Weakest Link
+600|In 1959 this show with contestants from higher ed had "GE" in the title; more recently, "Capital One\"|College Bowl
+800|In 2020, this former "SNL" cast member began hosting a new version of "Supermarket Sweep\"|Leslie Jones
+1000|This popular disc-dropping game on "The Price Is Right" is a variation of a pinball game of Asia|Plinko

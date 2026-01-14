@@ -1,0 +1,6 @@
+INTERNATIONAL CHEESE
+200|This country's Manchego cheese is made from the milk of manchego sheep in La Mancha|Spain
+400|This country's Coulommiers Cheese is quite similar to its Brie de Meaux|France
+600|Sapsago, which is flavored with clover, has been made in this Alpine country for hundreds of years|Switzerland
+800|Gjetost, a brown cheese from this Scandinavian country, is made from the whey of cow's milk & goat's milk|Norway
+1000|The celebrated pungent odor of this Belgian cheese becomes even stronger as it ripens|Limburger

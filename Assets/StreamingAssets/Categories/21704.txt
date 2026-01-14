@@ -1,0 +1,6 @@
+MUSICAL STATE SYMBOLS
+200|This state has a state bluegrass song|Kentucky
+400|Hawaii made the pahu the state traditional instrument & this the state modern instrument|the ukulele
+600|A patriotic tune, this state song of Connecticut is probably the only one to contain the name of a pasta|\"Yankee Doodle\"
+800|Florida's state song is this Stephen Foster song subtitled "Old Folks At Home\"|\"Swanee River\"
+1000|Bob Wills pioneered the country style called western this & Texas made it its state music|western swing

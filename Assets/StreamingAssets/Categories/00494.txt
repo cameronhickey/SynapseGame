@@ -1,0 +1,6 @@
+CRIME & PUNISHMENT
+200|It's measured in degrees, all of which are deadly|murder
+400|Oops! One of these was found in 1920 on the farm of Senator Morris Sheppard, who wrote the 18th Amendment|a still
+600|Pal, you've got no chance at trial; take this reduction of charges in exchange for admitting guilt to a lesser offense|a plea bargain
+800|This type of "walk" is slang for parading an apprehended criminal before the media|a perp walk
+1000|It's the illegal enticing of a suspect into committing a crime; that's my story & I'm sticking to it|entrapment

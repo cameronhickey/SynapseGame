@@ -1,0 +1,6 @@
+IT BORDERS BOTH
+200|Tanzania & Ethiopia|Kenya
+400|Switzerland & Poland|Germany
+600|Iran & India|Pakistan
+800|Egypt & Kenya|The Sudan
+1000|Guatemala & Mexico|Belize

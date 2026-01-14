@@ -1,0 +1,6 @@
+STOCK INDICES
+200|The S & P 500|USA
+400|The Nikkei|Japan
+600|The Jakarta Composite|Indonesia
+800|The FTSE 100|England
+1000|The DAX|Germany

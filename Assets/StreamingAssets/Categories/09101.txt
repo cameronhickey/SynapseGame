@@ -1,0 +1,6 @@
+PICK ONE
+200|Of hippo, rhino or croc, the one whose common name has the most letters|hippopotamus
+400|Of the Osmonds, the Osbournes or the Oswalds, the family that got MTV its highest ratings|the Osbournes
+600|Of Woolworth, Wordsworth or Wadsworth, the one who was a stamp distributor in Westmoreland County|Wordsworth
+800|Of Army, Navy or Marine, the one who began as a columnist for Variety in 1953|Army (Archerd)
+1000|Of Walter Chrysler, Louis Chevrolet or Ransom Olds, the one who raced in the Indy 500|Chevrolet

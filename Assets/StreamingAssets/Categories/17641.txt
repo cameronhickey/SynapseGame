@@ -1,0 +1,6 @@
+INVESTING
+200|As their name indicates, these are contracts to buy or sell commodities like grain at an agreed-upon price at a later date|futures
+400|A certificate of deposit is insured by this government "corporation\"|the FDIC (the Federal Deposit Insurance Corporation)
+600|To buy "on" this is to buy stocks partly with money borrowed from a broker|margin
+800|Some mutual funds are "no-" this, a sales commission charged to investors|load
+1000|Risk-averse? Buy TIPS, government securities whose value rises with inflation, as measured by this index|the Consumer Price Index

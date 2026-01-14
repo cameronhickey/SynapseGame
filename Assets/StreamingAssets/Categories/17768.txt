@@ -1,0 +1,6 @@
+ONE-WORD BOOK TITLES
+200|Stephen King's first published book|Carrie
+400|Hermann Hesse's tale of Harry Haller|Steppenwolf
+600|1980 nonfiction by Carl Sagan|Cosmos
+800|By Leon Uris, it opens in 1946|Exodus
+1000|William S. Burroughs' first published book|Junkie

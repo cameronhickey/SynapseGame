@@ -1,0 +1,6 @@
+PARK CITY
+200|This city's Freedom Park was opened as part of the 1996 Summer Olympics|Atlanta
+400|Prospect Park in this borough was one of the sites of the Battle of Long Island in the Revolutionary War|Brooklyn
+600|Zilker Park is home to this 3-word music festival held every fall bearing the name of Texas' capital|Austin City Limits
+800|This South Dakota city and its beautiful Falls Park are both named for the same landmark|Sioux Falls
+1000|The San Diego Zoo is just part of this vast park named for a conquistador|Balboa Park

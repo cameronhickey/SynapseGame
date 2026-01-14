@@ -1,0 +1,6 @@
+THE GREEK LETTER EQUIVALENT
+200|G|gamma
+400|K|kappa
+600|M|mu
+800|R|rho
+1000|F|phi

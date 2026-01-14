@@ -1,0 +1,6 @@
+AUTOIMMUNE DISORDERS
+200|On "The West Wing" Jed Bartlet has a relapsing-remitting course of this autoimmune disorder|MS
+400|Both Graves' disease & Hashimoto's disease attack this gland|the thyroid
+600|Deficient production of hormones by these endocrine glands causes Addison's disease|the adrenals
+800|AKA regional enteritis, this disease, a chronic inflammation of the intestines, bears the name of a U.S. doctor|Crohn's disease
+1000|The name of this autoimmune disorder means "hard skin\"|scleroderma

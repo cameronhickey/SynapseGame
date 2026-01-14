@@ -1,0 +1,6 @@
+VEGETARIAN CUISINE
+200|Some vegetarians choose not to eat this product because it is made by bees|honey
+400|This white sweetener is excluded from recipes when animal bone char has been used to bleach it|sugar
+600|Cooking sauces in this type of pot will increase levels of the mineral needed for hemoglobin|iron
+800|A mashed banana or a quarter cup of applesauce can replace oil or a single one of these in a cake recipe|an egg
+1000|Nicknamed "Wheat-Meat", seitan is made from wheat gluten rich in this compound essential to life|protein

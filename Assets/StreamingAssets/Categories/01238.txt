@@ -1,0 +1,6 @@
+WAR
+200|The Geneva Protocol of 1925 states that warring nations can't use these weapons|chemical weapons
+400|While reporting on this South African war, Winston Churchill was captured but made a daring escape|the Boer War
+600|Ironically, during Iraq's war with Iran in the 1980s, this small country on its southern border provided loans & support|Kuwait
+800|On June 1, 1812 this U.S. president formally asked Congress for a declaration of war against Great Britain|James Madison
+1000|This military campaign launched by North Vietnam on January 30, 1968 was named for the Vietnamese Lunar New Year|the Tet Offensive

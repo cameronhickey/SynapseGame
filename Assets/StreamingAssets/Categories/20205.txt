@@ -1,0 +1,6 @@
+\"N" THE MAP
+200|The New Jersey Devils play home games at the Prudential Center in this city|Newark
+400|2 Ugandan portions of this river are known as Victoria & Albert|the Nile
+600|This Bahamian city got its name from a family name of England's King William III|Nassau
+800|This region of France includes the departments of Manche, Calvados & Seine-Maritime|Normandy
+1000|Prudence & Patience (very New England values) are islands in this bay|the Narragansett

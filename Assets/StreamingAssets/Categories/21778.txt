@@ -1,0 +1,6 @@
+WHERE IS THAT MOUNT?
+200|Fuji|Japan
+400|Denali|United States
+600|Parnassus & Helicon|Greece
+800|Zion & Sodom|Israel
+1000|Phnom Aoral|Cambodia

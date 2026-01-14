@@ -1,0 +1,6 @@
+PLOT
+200|Code name Valkyrie, the July plot was a 1944 attempt to assassinate this man|Hitler
+400|The gunpowder in the 1605 gunpowder plot was found under this building|Parliament
+600|A certain agency whose initials are C.I.A. helped plot the overthrow of this country's PM Mossadegh in 1953|Iran
+800|Khrushchev said in 1956 that this leader had created the trumped-up "Doctors' Plot\"|Stalin
+1000|Yui Shosetsu failed in 1651 to oust the Tokugawa shogunate with an army of these "masterless warriors\"|ronin

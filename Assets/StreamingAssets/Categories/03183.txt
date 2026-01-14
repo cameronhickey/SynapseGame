@@ -1,0 +1,6 @@
+NAME ANAGRAMS
+200|For luck Kate will only knock on this wood|Teak
+400|Stewart pulls one out when a fly goes by|Swatter
+600|Carole consults one of these each time she visits Greece|Oracle
+800|For a question to this answer, Gustave doesn't even have this kind of idea|Vaguest
+1000|Rosaline adjusts these before landing her Cessna|Ailerons

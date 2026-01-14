@@ -1,0 +1,6 @@
+5 COMMANDMENTS
+200|\"Thou shalt have no ____ ____ before me\"|other gods
+400|\"Thou shalt not bear ____ ____ against thy neighbour\"|false witness
+600|\"Thou shalt not ____ thy neighbour's house\"|covet
+800|\"Thou shalt not make unto thee any ____ image\"|graven
+1000|\"Thou shalt not take the name of the ____ ____ ____ ____ ____\"|the Lord, thy God, in vain

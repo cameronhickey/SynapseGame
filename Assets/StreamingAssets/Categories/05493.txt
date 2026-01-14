@@ -1,0 +1,6 @@
+WHATEVER
+200|Name shared by famous cemeteries in Idaho City & Dodge City|Boot Hill
+400|With a regular deck of cards, you can play 52 Pick-Up; with a pinochle deck, only this many pick-up|48
+600|The name of this physicist is used to describe measurements of supersonic speed|(Ernst) Mach
+800|This city named for a marquis was North Carolina's capital from 1789 to 1798|Fayetteville
+1000|(Jimmy of the Clue Crew repeatedly drops onto the table a springed apparatus that lands on four feet, like a cat.) Cats are able to land on their feet because their flexible spines allow them to rotate in midair without violating the principle of conservation of this angular quantity|momentum

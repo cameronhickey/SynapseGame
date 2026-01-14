@@ -1,0 +1,6 @@
+NAME THAT SPEECHMAKER
+200|\"Our flag is red, white and blue, but our nation is a rainbow...and we're all precious in God's sight\"|Jesse Jackson
+400|\"I am proud to run with a man who will be one of the great presidents of this century, Walter F. Mondale\"|Geraldine Ferraro
+600|\"& you know, the kids, like all kids, love the dog, &...regardless of what they say about it, we're gonna keep him\"|Richard Nixon
+800|\"We're going to be forced either to use the ballot or the bullet. It's one or the other in 1964\"|Malcolm X
+1000|She said, "I stand before you...under indictment for the alleged crime of having voted at the last pres. election\"|Susan B. Anthony

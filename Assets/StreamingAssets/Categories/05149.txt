@@ -1,0 +1,6 @@
+VETERANS
+200|The Bonus Army that marched on Washington in 1932 was made up of veterans of this war|World War I
+400|This late veteran bombardier wrote a novel about a bombardier, "Catch-22\"|Joseph Heller
+600|The name of this group chartered in 1936 reflects its membership of soldiers who served overseas|VFW (Veterans of Foreign Wars)
+800|U.S. senator John McCain is a Vietnam veteran of this armed service|Navy
+1000|This "army" of Union veterans of the Civil War disbanded in 1956, the year its last member died|Grand Army of the Republic

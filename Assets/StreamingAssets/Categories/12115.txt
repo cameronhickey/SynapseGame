@@ -1,0 +1,6 @@
+MOVIE "NIGHT\"
+200|Wilfrid Brambell played Paul McCartney's granddad, "a clean old man", in this 1964 film|A Hard Day's Night
+400|David Strathairn played Edward R. Murrow in this 2005 film|Good Night, and Good Luck
+600|1967 drama in which they called Rod Steiger Sheriff Gillespie & Sidney Poitier Mr. Tibbs|In the Heat of the Night
+800|Vampires appear when the sun sets for a month in Alaska in this 2007 film based on a graphic novel|30 Days of Night
+1000|Joaquin Phoenix hides that he's from a family full of cops, including brother Mark Wahlberg in this 2007 drama|We Own the Night

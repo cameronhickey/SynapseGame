@@ -1,0 +1,6 @@
+YES, OUI
+200|Evet in Izmir & Istanbul|Turkish
+400|Hai on Hokkaido|Japanese
+600|Tak in Gdansk|Polish
+800|Nai in the Cyclades|Greek
+1000|Bai in Bilbao & the Western Pyrenees|Basque

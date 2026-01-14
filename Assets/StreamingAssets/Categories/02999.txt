@@ -1,0 +1,6 @@
+THE CHESS CLUB
+200|Traditionally, to resign a player tips over this piece|king
+400|The number of files on the board, it's the same as the number of ranks|8
+600|In chess, notation "x" means your piece has been captured & "ch" means you're in this|check
+800|It's the only piece that can't move to an adjacent square|the knight
+1000|In a Lewis Carroll book, Alice begins as one of these white pieces but later becomes a queen|a pawn

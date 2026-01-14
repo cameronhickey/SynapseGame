@@ -1,0 +1,6 @@
+AIRSHIPS
+200|The passenger & crew compartment of an airship shares this name with a type of boat used in Venice|a gondola
+400|In 2011 this firm announced it was phasing out its blimps in favor of rigid airships with aluminum & carbon skeletons|Goodyear
+600|On March 31, 1936 it left Germany on its first transatlantic trip, arriving in Rio de Janeiro 4 days later|the Hindenburg
+800|This insurance company operates 2 full-time blimps, Snoopy One & Snoopy Two|MetLife
+1000|He began construction of his first airship in June 1898 in a wooden hangar on Lake Constance|(Count) Zeppelin

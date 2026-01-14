@@ -1,0 +1,6 @@
+WOOD WORDS
+200|An item in a political platform, or a bad way off a pirate ship|Plank
+400|Get on the pirate ship, or a place for a company officer to sit|Board
+600|Cutting trees down, or a word that describes the Frankenstein monster's walk|Lumbering
+800|A measure of firewood, or a string you can use to bind it|cord
+1000|A long, squared-off piece of wood used in construction, or to smile ear-to-ear|Beam

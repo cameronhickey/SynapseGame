@@ -1,0 +1,6 @@
+MUSIC CLASS
+200|It's a folk song that tells a story, "On Top Of Old Smoky" is an example|a ballad
+400|Section of the orchestra in which you'd find a glockenspiel|percussion
+600|If your sheet music features no sharps or flats, just a treble clef, this is the key|C
+800|On a piano it's sweeping a finger up the white keys; on a harp, drawing the finger across the strings|Glissando
+1000|The 3 basic components of music are melody, harmony & this|rhythm (or beat)

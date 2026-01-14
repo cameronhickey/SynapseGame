@@ -1,0 +1,6 @@
+LITERARY MASHUPS
+200|\"The Prince of Santini\"|The Prince of Tides & The Great Santini
+400|\"A Doll's Gabler\"|A Doll's House and Hedda Gabler
+600|\"The Iceman Becomes Electra\"|The Iceman Cometh & Mourning Becomes Electra
+800|\"Mansfield Abbey\"|Mansfield Park and Northanger Abbey
+1000|\"Death Comes for the Antonia\"|Death Comes for the Archbishop & My Antonia

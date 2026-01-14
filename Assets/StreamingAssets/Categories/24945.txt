@@ -1,0 +1,6 @@
+SAME 2 LETTERS, DIFFERENT PLACE
+200|IN & .in|Indiana & India
+400|CA & .ca|California & Canada
+600|AR & .ar|Arkansas & Argentina
+800|DE & .de|Delaware & Germany
+1000|AL & .al|Alabama & Albania

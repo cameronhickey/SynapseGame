@@ -1,0 +1,6 @@
+\"AND" READ
+200|In this Tolstoy work, Countess Bezuhov finds herself, like Mary MacGregor, torn between two lovers|War And Peace
+400|Nursery-rhyme pair who are the title of a book by Louisa May Alcott & a less innocent book by James Patterson|Jack And Jill
+600|Logically, this 1862 Turgenev novel addresses generational conflict|Fathers And Sons
+800|Title shared by an 1855 Elizabeth Gaskell work & a 1982 John Jakes work|North And South
+1000|The heroine of this Sean O'Casey play is so named because she was born in June|Juno And The Paycock

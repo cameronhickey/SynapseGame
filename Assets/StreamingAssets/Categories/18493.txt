@@ -1,0 +1,6 @@
+THE ELEMENTS OF "TILE\"
+200|An object shot or thrown as a weapon|a projectile
+400|Puerile or immature|infantile
+600|Producing no result|futile
+800|A ranking on a 1-100 scale|percentile
+1000|Quality of metal like copper, meaning drawn out into wire or thread|ductile

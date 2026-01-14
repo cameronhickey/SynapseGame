@@ -1,0 +1,6 @@
+\"J" FOOD FILE
+200|Dried meat in strips|jerky
+400|This hot pepper is named for the capital of Veracruz, Mexico|the jalapeño
+600|It's a long, plump Spanish almond|a Jordan
+800|These tiny fruit-flavored candies once may have contained the juice of the fruit in their name|a Jujube
+1000|It's a sweetened & flavored pudding of milk that's been curdled by rennet|junket

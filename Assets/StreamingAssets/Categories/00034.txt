@@ -1,0 +1,6 @@
+GEOGRAPHY
+200|Europe's only wild monkeys live on this "rock\"|(rock of) Gibraltar
+400|Largest country entirely in Europe|France
+600|Direction you generally travel in sailing up the Nile|South
+800|\"Mexican" region that also contains parts of Guatemala and nearly all of Belize|the Yucatan
+1000|\"From the halls of Montezuma to the shores of Tripoli" refer to these 2 countries|Mexico & Libya

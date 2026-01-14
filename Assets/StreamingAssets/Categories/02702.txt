@@ -1,0 +1,6 @@
+BOOK TITLE OBJECTS
+200|Cathedral in the title of Victor Hugo's novel about Quasimodo|Notre Dame
+400|A house in the title of an 1851 Nathaniel Hawthorne novel featured 7 of these structures|gables
+600|In an H.G. Wells novel, a man uses this title object to spend 8 days in the future|the time machine
+800|Whitney Otto's "How to Make an American" one of these includes sewing tips|Quilt
+1000|According to the title of an E.M. Forster novel, Lucy Honeychurch wants this from a hotel in Italy|A Room with a View

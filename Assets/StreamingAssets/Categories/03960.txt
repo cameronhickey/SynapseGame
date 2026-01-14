@@ -1,0 +1,6 @@
+STARTS & ENDS WITH "A\"
+200|In this province, Medicine Hat, as well as Calgary, hold annual stampedes|Alberta
+400|You'll never rest on Everest if you've got this fear of heights|Acrophobia
+600|\"Hand That Rocks The Cradle" actress Sciorra|Annabella
+800|The first encyclopedia published in the United States was titled "The Encyclopedia" this|Americana
+1000|A condemnation, akin to excommunication, it's come to mean anything one despises|Anathema

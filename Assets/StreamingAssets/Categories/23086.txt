@@ -1,0 +1,6 @@
+VWLLSS STCMS
+200|\"TH FFC\"|The Office
+400|\"NTRG\"|Entourage
+600|\"GD TMS\"|Good Times
+800|\"LV LC\"|I Love Lucy
+1000|\"TX\"|Taxi

@@ -1,0 +1,6 @@
+THE WEATHER FORECAST
+200|Expect cloudy days when a cold one of these catches a warm one & forms an occluded one|Front
+400|This type of air from above 66 degrees north latitude will send the mercury falling|Arctic air
+600|Don't worry about Ulka yet — she's not a hurricane, just one of these "storms" with winds over 38 MPH|Tropical storm
+800|Brace yourself for storms — we're in one of these elongated low-pressure areas, like a hungry pig|Trough
+1000|Poor air quality will result from this layer in which the atmosphere warms as you go higher|Inversion layer

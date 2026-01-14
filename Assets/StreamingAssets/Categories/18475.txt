@@ -1,0 +1,6 @@
+LAND "HO"!
+200|This state is about 48 miles long & 37 miles wide|Rhode Island
+400|Named for a freedom fighter, it's a Southeast Asian metro area of 6.4 million people|Ho Chi Minh City
+600|2 central European countries took its place in 1993|Czechoslovakia
+800|La Santa Sede is the local version of this official name of Vatican City|the Holy See
+1000|It's the northernmost of the 4 main islands of Japan|Hokkaido

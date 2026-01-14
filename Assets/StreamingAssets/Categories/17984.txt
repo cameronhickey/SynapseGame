@@ -1,0 +1,6 @@
+HUE
+200|Beet & scarlet|red
+400|Canary & dandelion|yellow
+600|Jet & ebony|black
+800|Coffee & cinnamon|brown
+1000|Azure & cyan|blue

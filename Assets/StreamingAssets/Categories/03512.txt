@@ -1,0 +1,6 @@
+ORTHODONTICS
+200|If you wear braces, these devices are attached to your teeth, & rubber ones may help move them|Rubber bands
+400|The panoramic type of this century-old diagnostic tool wiil show whether you have extra teeth|X-ray
+600|When Doc wants these, he's not asking you to imitate Elvis, he's going to get a model of your mouth|Impressions
+800|Diastema is the technical name of this condition for which David Letterman is famous|Gap
+1000|4-letter synonym for occlusion, the relationship between upper & lower teeth with your mouth shut|Bite

@@ -1,0 +1,6 @@
+4-LETTER "X" RATED WORDS
+200|Data in the form of words|text
+400|The highest part of something, especially one forming a point|an apex
+600|To persuade gently & persistently|to coax
+800|This feline carnivore is found in the northern climes of Eurasia & North America|a lynx
+1000|French word for a mixture of butter & flour used to make sauces|a roux

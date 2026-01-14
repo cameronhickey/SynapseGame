@@ -1,0 +1,6 @@
+STATE BY COUNTIES
+200|Rio Arriba, Lincoln, Taos|New Mexico
+400|Ocean, Camden, Passaic|New Jersey
+600|Coffey, Lincoln, Leavenworth|Kansas
+800|Franklin, Lackawanna, Lehigh|Pennsylvania
+1000|Nez Perce, Lincoln, Gem|Idaho

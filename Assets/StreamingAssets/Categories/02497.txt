@@ -1,0 +1,6 @@
+THE SUN
+200|The sun completes one revolution around the center of this galaxy every 225 million years|Milky Way
+400|The photosphere, the sun's visible surface, measures about 5800 degrees on this "absolute" temperature scale|Kelvin
+600|More than 95% of the sun's mass consists of these 2 elements|Hydrogen & Helium
+800|This outermost layer of the sun produces the solar wind|Corona
+1000|After becoming a red giant, the sun will probably shrink to the size of the Earth as one of these|White Dwarf

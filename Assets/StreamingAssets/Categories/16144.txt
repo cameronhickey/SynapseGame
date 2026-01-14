@@ -1,0 +1,6 @@
+WHICH WORD IS MIZPELED?
+200|You must be cognizant of misspellings in a catagory like this, otherwise you might be embarrassed|category
+400|It was a fallacy to believe that Jim's harassment of that badger was a singular occurrance|occurrence
+600|\"You requested a vaporizer in your room?" asked the concierge. "Certainly. We can accommadate you\"|accommodate
+800|The governor's use of improper grammer showed a heinous disregard for knowledge & decorum|grammar
+1000|Filling out the questionnaire, the lieutenent felt nauseous; a bee had stung him in the laboratory|lieutenant

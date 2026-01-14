@@ -1,0 +1,6 @@
+DO PROCESS
+200|For this soccer free kick, place the ball 12 yards in front of the opponent's goal|a penalty kick
+400|For a business letter, if you don't have one of these preprinted name & address displays, type that info 4-6 lines from the top|a letterhead
+600|To make this type of margarita, muddle your limes, pour fine tequila & use Grand Marnier instead of triple sec|a Cadillac margarita
+800|To achieve this "national" style, divide the hair into 3 different sections & remember to slice, twist & chip|a French braid
+1000|Interested in blocking your number from caller ID? Just pick up your touch tone phone & dial * then these 2 numbers|67

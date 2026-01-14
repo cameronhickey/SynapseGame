@@ -1,0 +1,6 @@
+CONTAINED THEREIN
+200|A limousine may be "for" this, ready to rent|hire
+400|It's a ceremonial action like an initiation or a baptism|a rite
+600|Nope; not this, nor that|neither
+800|Varieties of this sea bird can have a forked tail & some migrate about 25,000 miles annually|a tern
+1000|Incapable of moving or not readily reactive|inert

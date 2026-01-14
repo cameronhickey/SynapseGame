@@ -1,0 +1,6 @@
+TEXTING
+200|SMS stands for this "message service", so keep your text brief|short
+400|In addition to emoji, you can use kaomoji, a Japanese type of this, which also starts with "emo\"|emoticons
+600|This singer says her husband Russell Brand broke up with her via text message on New Year's Eve|Katy Perry
+800|Text "IRL" & it stands for this, the opposite of the imaginary Internet world|in real life
+1000|While working for Microsoft, Dean Hachamovitch invented this texting feature that suggests words for you|autocorrect

@@ -1,0 +1,6 @@
+\'60s FLICKS
+200|\"The Love Bug" was this type of car|Volkswagen Beetle
+400|A top-grossing animated film of 1961, a live-action remake was released in 1996|101 Dalmatians
+600|In 1968 this title pair was played by Leonard Whiting & Olivia Hussey|Romeo & Juliet
+800|One book abbreviated this 1969 film "B&C&T&A\"|Bob & Carol & Ted & Alice
+1000|He played Henry II to Richard Burton's Becket|Peter O'Toole

@@ -1,0 +1,6 @@
+INSTITUTIONS
+200|In 1743 he founded the American Philosophical Society|Benjamin Franklin
+400|John D. Rockefeller III organized it in the late '50s to give the Met & NY Philharmonic a home|Lincoln Center
+600|Thomas Green Clemson left most of his estate to this state to establish a college|South Carolina
+800|Though separate, the Institute For Advanced Study has close ties with this neighboring Ivy League university|Princeton
+1000|Rice University's Institute for Public Policy bears the name of this man who was George H.W. Bush's Secretary of State|James A. Baker

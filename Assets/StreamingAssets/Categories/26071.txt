@@ -1,0 +1,6 @@
+SWAP A VOWEL
+200|A plan offered for acceptance & in, to or from, for example|proposition & preposition
+400|A kick on the gridiron & a serving of beer|punt & pint
+600|Squander away & a small pool of rainwater|piddle & puddle
+800|Title of respect for a male & to summon the soldiers|mister & muster
+1000|A subatomic particle & a peculiar behavior|a quark & a quirk

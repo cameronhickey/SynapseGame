@@ -1,0 +1,6 @@
+ANIMAL A.K.A.
+200|It has many alternate names, including catamount, puma, panther & mountain lion|a cougar
+400|This arachnid that resembles a spider is also called a harvestman|a daddy long-legs
+600|The dugong or the manatee|Sea cow
+800|The stoat|Weasel
+1000|Hard-shell or littleneck clam|Quahog

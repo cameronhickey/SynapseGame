@@ -1,0 +1,6 @@
+CONDIMENTS
+200|A recently introduced jalapeno sauce is McIlhenny's first new pepper sauce under this brand in 125 years|Tabasco
+400|This pungent grated root is sometimes bottled in beet juice to make it red|horseradish
+600|It can refer to anything savory, like chutney, or to a sweet pickle that's usually minced & served on hot dogs|relish
+800|The name of this, often a tomato & chili concoction, means "sauce" in Spanish|salsa
+1000|This garlic-flavored mayonnaise from Provence is popularly served with fish|aioli

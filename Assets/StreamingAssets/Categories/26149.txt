@@ -1,0 +1,6 @@
+FARM TOOLS & MACHINERY
+200|Nebraskans may know it's a machine intended for the operator-free removal of leaves & hairs from cobs|a (corn) husker
+400|Used worldwide, like against locusts in Africa, it's an aircraft employed for spraying pesticide over large acreages|a crop duster
+600|This machine is used to gather & compress hay, straw or corn stalks into round or rectangular shapes|a baler
+800|This type of silo with a conveyor belt to take grain up to the top level is mentioned in the first paragraph of "O Pioneers!\"|a grain elevator
+1000|Often used for foraged plants this tractor attachment bores down & inserts seeds into soil with minimal disturbance|a seed drill

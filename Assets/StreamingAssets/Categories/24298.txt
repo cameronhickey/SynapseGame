@@ -1,0 +1,6 @@
+SHARED LAST NAMES
+200|Governor Howard & pitcher Dizzy|Dean
+400|Musician Miles & actress MacKenzie|Davis
+600|Actresses Lana & Kathleen|Turner
+800|Singer James & chef Alton|Brown
+1000|Actress Esther & pianist Roger|Williams

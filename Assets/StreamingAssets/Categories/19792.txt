@@ -1,0 +1,6 @@
+PICK YOUR BATTLE
+200|On the high seas: Ankara, Puebla, Midway|Midway
+400|During World War I: Culloden, Sedan, Verdun|Verdun
+600|The arrows flew: Dien Bien Phu, Crécy, Balaklava|Crécy
+800|Won by the Rebs: Fredericksburg, Gettysburg, Sharpsburg|Fredericksburg
+1000|Starring Napoleon: Marathon, Marengo, Megiddo|Marengo

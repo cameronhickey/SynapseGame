@@ -1,0 +1,6 @@
+GEN MED
+200|A score for normal vision using the Snellen test is this|20/20
+400|This 10-letter alternate name for sonography could be a great name for a psychedelic band|ultrasound
+600|One of these compares blood types to help determine a daddy or a non-daddy|a paternity test
+800|Change 3 letters in "epidemic" to get this term for an epidemic that has spread across a country|pandemic
+1000|Specialty that's most likely to deal with impetigo & psoriasis|dermatology

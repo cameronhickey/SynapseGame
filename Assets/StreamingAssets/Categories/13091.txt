@@ -1,0 +1,6 @@
+TO "L" WITH SCIENCE
+200|On average, this organ produces up to 2.5 pints of bile every day|liver
+400|A tree branch, or a solar flare seen at the edge of the sun|a limb
+600|Any of a hydrophobic group of organic compounds, including fats & oils|a lipid
+800|Any of a hydrophobic group of organic compounds, including fats & oils|lipids
+1000|5-letter term for a center of activity, or the position of a gene on a chromosome|a locus

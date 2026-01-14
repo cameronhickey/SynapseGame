@@ -1,0 +1,6 @@
+ITS LONGEST BORDER
+200|Mexico's longest|the United States
+400|North Korea's longest|China
+600|Vietnam's longest|Laos
+800|Colombia's longest|Venezuela
+1000|Sweden's longest|Norway

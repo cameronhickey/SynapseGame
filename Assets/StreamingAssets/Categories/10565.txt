@@ -1,0 +1,6 @@
+PICK THE MAMMAL
+200|Prawn, fawn, satyricon|a fawn
+400|Civet, civray, cygnet|a civet
+600|Koi, bolshoi, borzoi, bok choy|a borzoi
+800|Scarab, scallop, escolar, echidna|an echidna
+1000|Newt, nutria, nucleolus, neufchatel|a nutria

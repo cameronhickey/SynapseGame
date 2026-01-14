@@ -1,0 +1,6 @@
+COLORS OF THE RAINBOW
+200|In a sad mood|blue
+400|The ink businesses try to avoid|red
+600|Naive or inexperienced|green
+800|Citrus sinensis|an orange
+1000|Liz Taylor's eyes, in a "Doonesbury" book title|violet

@@ -1,0 +1,6 @@
+TAGLINES
+200|This network, "the most trusted name in news\"|CNN
+400|\" ...Kills bugs dead\"|Raid
+600|\"The nighttime, sniffling, sneezing, coughing, aching, stuffy head, fever, so you can rest medicine\"|NyQuil
+800|\"Because so much is riding on your tires\"|Michelin
+1000|\"Babies are our business\"|Gerber

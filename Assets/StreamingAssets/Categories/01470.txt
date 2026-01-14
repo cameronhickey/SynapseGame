@@ -1,0 +1,6 @@
+THE INCOME TAX
+200|The first federal income tax was levied to finance the cost of this 19th century war|the Civil War
+400|Allowed for each dependent, these set dollar amounts of income are not taxed|exemptions
+600|To itemize deductions, use this tax schedule|Schedule A
+800|These are taxable profits from the sale of real estate or stocks|capital gains
+1000|A profit or loss for a sole proprietorship is reported on this schedule|Schedule C

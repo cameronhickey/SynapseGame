@@ -1,0 +1,6 @@
+MAPQUEST
+200|To visit Sensoji Temple in this capital, cross Komagata Bridge, turn right & walk north on the Nakamise-Dori|Tokyo
+400|The drive from Denmark to Malmo in this country includes a 5-mile stretch across the Oresund Bridge|Sweden
+600|From Paris' Royal Saint-Honore Hotel, walk 1/2 mile down Rue Saint-Honore, turn right & walk into its glass pyramid|The Louvre
+800|To visit San Marino, take a winding road up Mount Titano, a short drive from Rimini in this country|Italy
+1000|From Ulan Bator, go straight south to Wuhai, flip a left & go about 500 miles to reach this world capital|Beijing

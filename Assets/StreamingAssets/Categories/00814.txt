@@ -1,0 +1,6 @@
+4-LETTER FISH
+200|Lemon & Dover are 2 popular varieties of this food fish|sole
+400|Georgia & Mississippi have designated the largemouth species of this their state fish|bass
+600|The goldfish is one of many species that belong to this family of fish|carp
+800|The American variety of this fish is the largest member of the herring family|shad
+1000|Prized as a game fish, this species of shark is known in Australia as a blue pointer|mako

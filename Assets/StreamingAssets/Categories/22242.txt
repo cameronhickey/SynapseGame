@@ -1,0 +1,6 @@
+THE REST OF THE MOVIE'S TITLE
+200|These rapscallions: "The Curse of the Black Pearl\"|Pirates of the Caribbean
+400|This film series: "Battle of the Smithsonian\"|Night at the Museum
+600|This lunatic: "or: How I Learned to Stop Worrying and Love the Bomb\"|Dr. Strangelove
+800|This naval epic: "The Far Side of the World\"|Master and Commander
+1000|This noble name: "The Legend of Tarzan, Lord of the Apes\"|Greystoke

@@ -1,0 +1,6 @@
+GORGE
+200|Discovered in 1806 by Zebulon Pike's expedition, the Royal Gorge is found in this state|Colorado
+400|Along its 277-mile length it ranges in width from 1/10 of a mile to 18 miles wide|the Grand Canyon
+600|The Brech de Roland, a narrow French gorge in these mountains, leads into a large natural amphitheater|the Pyrenees
+800|The ruins of this terraced Inca city lie perched above the Urubamba River Gorge in the Andes Mountains|Machu Picchu
+1000|This gorge in Tanzania was made famous by the work of the archaeologists Louis & Mary Leakey|Olduvai Gorge

@@ -1,0 +1,6 @@
+WHERE YA FROM?
+200|Antonio Banderas|Spain
+400|Lucy Lawless|New Zealand
+600|This president was born in 1946 in New Haven, Connecticut while his dad was a student at Yale|George W. Bush
+800|In England: Cestrian or cat|Cheshire
+1000|Born June 8, 1867 in Richland Center, Wisconsin, he dreamed of moving to Chicago, with its soaring architecture|Frank Lloyd Wright

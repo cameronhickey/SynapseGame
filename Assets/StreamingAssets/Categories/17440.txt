@@ -1,0 +1,6 @@
+ACTORS WHO WRITE
+200|They wrote "Good Will Hunting" together|Matt Damon & Ben Affleck
+400|He co-wrote "Good Night, and Good Luck.\"|George Clooney
+600|He co-wrote "The Passion of the Christ\"|Mel Gibson
+800|He adapted "Into the Wild\"|Sean Penn
+1000|He co-wrote "This Is the End\"|Seth Rogen

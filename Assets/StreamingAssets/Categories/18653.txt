@@ -1,0 +1,6 @@
+GRAINS
+200|Despite its name, this little rascal used in pancakes is not a cereal grass; it's related to rhubarb|buckwheat
+400|Basmati, an aromatic type of this grain, is grown in the foothills of the Himalayas & is especially popular in India|rice
+600|Einkorn & teff have remained relatively unchanged over the years & are called this type of very old grain|ancient
+800|Samuel Johnson called it "a grain which in England is generally given to horses, but in Scotland supports the people\"|oats
+1000|The first 4 letters of this grain spell out the type of facility that could help to refine it|millet

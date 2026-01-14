@@ -1,0 +1,6 @@
+\"C" FLAT
+200|Saltines are a type of one|cracker
+400|Heavy fabric is stretched tight & tacked into place on a frame to make one of these art surfaces|canvas
+600|Divided into 64 squares, it's usually found with royalty on it|a chessboard
+800|Splash & ride are types of these on a drum kit|cymbal
+1000|The X's give an extra hint to this popular form of embroidery|cross-stitch

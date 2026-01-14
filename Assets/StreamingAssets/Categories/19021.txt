@@ -1,0 +1,6 @@
+\"S_N_L\"
+200|Open-top shoe fastened with straps|a sandal
+400|A notorious circumstance or event|a scandal
+600|Like someone who's been canonized|saintly
+800|Pertaining to the backbone|spinal
+1000|Wicked or corrupt|sinful

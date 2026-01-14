@@ -1,0 +1,6 @@
+FOREIGN LANGUAGE
+200|It's not nice to give someone the "cold" this, epaule in French|shoulder
+400|This Russian word for "big" is also the name of a big ballet company|the Bolshoi
+600|This term for a karate instructor means "doctor" or "teacher" in Japanese|sensei
+800|Hebrew for "a sitting", it's an Orthodox Jewish college|yeshiva
+1000|\"Once a jolly swagman camped by" this, Australian for a stagnant pool or backwater|billabong

@@ -1,0 +1,6 @@
+GAME SHOW NAMES IN OTHER COUNTRIES
+200|The German version of this program is "Quiz Taxi\"|Cash Cab
+400|In France it becomes "Le Juste Prix\"|The Price Is Right
+600|In Finland this game show is "Haluatko Miljonaarksi?\"|Who Wants to Be a Millionaire?
+800|This show is known in Mexico as "Vas O No Vas\"|Deal or No Deal
+1000|In Spain you can play along with this, "La Ruleta de la Suerte\"|Wheel of Fortune

@@ -1,0 +1,6 @@
+AN ABBREV. CATEG.
+200|At the end of a letter: P.S.|postscript
+400|A U.S. president: LBJ|Lyndon Baines Johnson
+600|A U.S. postal abbreviation: MO|Missouri
+800|Doctors' group: AMA|the American Medical Association
+1000|A Southern ACC college: FSU|Florida State University

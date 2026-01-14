@@ -1,0 +1,6 @@
+POLITICAL PARTY TIME
+200|This party's manifesto was published in 1848|the Communist Party
+400|The Italian constitution of January 1, 1948 ousted this party|Fascist
+600|By 1983 this new West German environmental party had 27 seats|the Greens
+800|Shared party name of Moshe Dayan of Israel, Bob Hawke of Australia & Ramsay MacDonald of Britain|Labour
+1000|This Progressive Conservative leader represented Canada at the 1993 G-7 Conference|Kim Campbell

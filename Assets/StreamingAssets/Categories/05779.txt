@@ -1,0 +1,6 @@
+IT'S OURS!
+200|Saint-Pierre & Miquelon|France
+400|Montserrat|Great Britain (United Kingdom)
+600|Cook Islands|New Zealand
+800|Madeira Islands|Portugal
+1000|Northern Mariana Islands|USA

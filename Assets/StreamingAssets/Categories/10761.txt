@@ -1,0 +1,6 @@
+RHYME RIGHT
+200|Horse-headed chess piece|a knight
+400|One set of stairs between floors|a flight
+600|A perceived snub or act of contempt|a slight
+800|It's a bend in a coastline that forms a bay|a bight
+1000|Isle where Victoria shuffled off her mortal throne|the Isle of Wight

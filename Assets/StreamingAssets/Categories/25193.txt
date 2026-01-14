@@ -1,0 +1,6 @@
+FROM "S" TO "Y\"
+200|It can mean a sacred place or any place of refuge|sanctuary
+400|At the end of an episode of "Drag Race", RuPaul tells one contestant, "Shantay, you stay" & the other, do this "away\"|sashay
+600|This word for correspondence in shape comes from the Greek for "of like measure\"|symmetry
+800|In an 1811 novel Marianne Dashwood personifies this title word because she's full of emotion|sensibility
+1000|Stonehenge is about 8 miles from this city that lies on the River Avon|Salisbury

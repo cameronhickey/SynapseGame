@@ -1,0 +1,6 @@
+CASTLE ARCHITECTURE
+200|Spanning a moat or ditch, it was raised in times of emergency|the drawbridge
+400|What was once a term for the living quarters became this word for the castle's prison|the dungeon
+600|The Balistraria was the room where these weapons were kept or the windows through which they were aimed|arrows (bows & arrows, or crossbows)
+800|A windlass was used to raise & lower this huge wood & iron grating|the portcullis
+1000|This immense room was used for general gatherings & dining|the Great Hall

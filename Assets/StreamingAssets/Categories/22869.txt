@@ -1,0 +1,6 @@
+STATES BY NATIONAL FOREST
+200|Allegheny National Forest|Pennsylvania
+400|Sequoia National Forest|California
+600|Delta National Forest|Mississippi
+800|Prescott National Forest|Arizona
+1000|Ocala National Forest|Florida

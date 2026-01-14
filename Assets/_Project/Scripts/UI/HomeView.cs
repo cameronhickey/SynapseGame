@@ -650,9 +650,30 @@ namespace Cerebrum.UI
 
             if (OptimizedCategoryLoader.Instance != null)
             {
-                while (!OptimizedCategoryLoader.Instance.IsLoaded)
+                // Wait for loading to complete (either success or failure)
+                float timeout = 30f;
+                float elapsed = 0f;
+                
+                while (OptimizedCategoryLoader.Instance.IsLoading && elapsed < timeout)
                 {
+                    elapsed += Time.deltaTime;
                     yield return null;
+                }
+                
+                // Additional wait if still not loaded but also not loading (edge case)
+                while (!OptimizedCategoryLoader.Instance.IsLoaded && 
+                       !OptimizedCategoryLoader.Instance.IsLoading && 
+                       elapsed < timeout)
+                {
+                    elapsed += Time.deltaTime;
+                    yield return null;
+                }
+                
+                if (!OptimizedCategoryLoader.Instance.IsLoaded)
+                {
+                    Debug.LogError("[HomeView] Category loading failed or timed out!");
+                    if (loadingText != null) loadingText.text = "Error: Categories not found. Check StreamingAssets.";
+                    yield break;
                 }
             }
 

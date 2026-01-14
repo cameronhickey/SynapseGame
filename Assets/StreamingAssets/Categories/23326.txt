@@ -1,0 +1,6 @@
+WHAT'S YOUR UNSAFE WORD?
+200|Venture capital is aka this capital; others have an "aversion" to the 4-letter word|risk
+400|It can come before "mass" in physics, or "care" in the hospital if your condition is serious|critical
+600|This very unsafe word that can mean "traitorous" also starts with "tr\"|treacherous
+800|It can refer to one who is fearful & lacking self-confidence, or a password that can be easily hacked|insecure (or weak)
+1000|2 ships about to hit each other are said to be on this alliterative path, so get the life jackets ready|a collision course

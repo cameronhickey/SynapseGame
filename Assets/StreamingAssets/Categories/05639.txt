@@ -1,0 +1,6 @@
+THE LARGEST IN AREA
+200|China, Russia, Canada|Russia
+400|Wales, Scotland, Northern Ireland|Scotland
+600|Jordan, Lebanon, Israel|Jordan
+800|Sudan, Algeria, Libya|Sudan
+1000|El Salvador, Nicaragua, Costa Rica|Nicaragua

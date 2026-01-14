@@ -1,0 +1,6 @@
+WORLD CITY WALK
+200|It's the city (also a country) that's home to St. Peter's Basilica|Vatican City
+400|In the 17th century the Corsairs controlled this current capital of Morocco|Rabat
+600|The first Japanese city to host the Winter Olympics, it's also famous for its beer & its Snow Festival|Sapporo
+800|In 1942 Field Marshal Erich Von Manstein led a failed effort to assist surrounded German forces in this Soviet city|Stalingrad
+1000|Found in the Dong Cheng district, this capital city's main railway station connects to Harbin & Qingdao|Beijing

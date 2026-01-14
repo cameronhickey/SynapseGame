@@ -1,0 +1,6 @@
+NAME THE POET
+200|\"Hog butcher for the world, tool maker, stacker of wheat, player with railroads...\"|Carl Sandburg
+400|\"next to of course god america i love you land of the pilgrims' and so forth....\"|E.E. Cummings
+600|\"'Charge' was the captain's cry; theirs not to reason why, theirs not to make reply\"|Alfred Lord Tennyson ("Charge of the Light Brigade")
+800|\"Old age should burn and rave at close of day; rage, rage against the dying of the light\"|Dylan Thomas ("Do Not Go Gentle into that Good Night")
+1000|\"Dauntless the slug-horn to my lips I set and blew. 'Childe Roland to the Dark Tower Came.'\"|Robert Browning

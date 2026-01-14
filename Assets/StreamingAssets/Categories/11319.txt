@@ -1,0 +1,6 @@
+STATELY MUSEUMS
+200|Catskill Flyfishing Center & Museum & Corning Museum of Glass|New York
+400|The Flag House & Star-Spangled Banner Museum, the National Cryptologic Museum|Maryland
+600|Atomic Testing Museum & Burlesque Hall of Fame|Nevada
+800|The Amelia Earhart Birthplace Museum, the Oz Museum|Kansas
+1000|Penobscot Marine Museum & Wadsworth-Longfellow House|Maine

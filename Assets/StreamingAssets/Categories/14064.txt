@@ -1,0 +1,6 @@
+THE FOOD CHAIN
+200|Cottage ____ steak|cheese
+400|Corned ____ Wellington|beef
+600|Peanut ____ bean|butter
+800|Shepherd's ____ plant|pie
+1000|Candied ____ Brown Betty|apple

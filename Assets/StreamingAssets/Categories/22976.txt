@@ -1,0 +1,6 @@
+THE PROBLEM IS...
+200|Directmates & helpmates are types of problems based on this game|chess
+400|David Hume delved into the theological conundrum known as the problem of this; is God "willing to prevent it, but not able?\"|evil
+600|In classical mechanics the 3-body problem examines the motion of 3 objects in space affected only by this force|gravity
+800|In this book, Robert Langdon says, "I've never heard of a cryptex"; no wonder—Dan Brown made it up|The Da Vinci Code
+1000|The topological problem of making these with 4 colors so that no 2 adjacent areas are the same color was solved in the 1970s|the map problem

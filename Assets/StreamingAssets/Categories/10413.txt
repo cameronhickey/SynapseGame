@@ -1,0 +1,6 @@
+RECORD LOSSES IN 2005
+200|A computer with 98,000 names & SSNs was reported stolen from this oldest campus of the Univ. of Calif.|Berkeley
+400|Named for a sport that embodies high society, this Ralph Lauren co. was hacked for 180,000 credit card numbers|Polo
+600|This company that owns HBO & Turner Broadcasting lost a backup tape with 600,000 names & SSNs|Time Warner
+800|Data on 4 million customers were lost by this group formed by a 1998 merger with Travelers|Citigroup
+1000|A medical group lost 185,000 personal & medical records in this city, the seat of Santa Clara County|San Jose

@@ -1,0 +1,6 @@
+A VISIT TO INTEL CORP.
+200|(Jon of the Clue Crew reports from the Intel Corporation in Santa Clara, CA.) As a semiconductor that can either conduct or resist electricity, this element has become the raw material of computer chips|silicon
+400|(Jon of the Clue Crew reports from the Intel Corporation in Santa Clara, CA.) The equivalent of wires in a chip's circuitry have been shrunk to 1/1,000th the width of a hair, & are measured in this unit, a millionth of a meter|microns
+600|(Kelly of the Clue Crew reports from the Intel Corporation in Santa Clara, CA.) Invented in 1947, this device that replaced the vacuum tube can now be a mere 150 atoms thick on a computer chip|a transistor
+800|(Kelly of the Clue Crew reports from the Intel Corporation in Santa Clara, CA.) To check for defects or design issues on a chip, Intel uses this type of microscope that beams subatomic particles at its subject|an electron microscope
+1000|(Kelly of the Clue Crew reports from the Intel Corporation in Santa Clara, CA.) This Intel cofounder's law predicted that chips would double computing power every 1 or 2 years; Intel made that a reality with million-fold jumps in performance|Gordon Moore

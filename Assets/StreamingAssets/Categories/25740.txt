@@ -1,0 +1,6 @@
+SOUNDS LIKE A ROMAN NUMERAL QUANTITY
+200|A host who runs an event from the stage & introduces others|an emcee (MC)
+400|Amiable Borden bovine|Elsie (LC)
+600|Describes a ripe pomegranate or an unappealing, run-down hotel|seedy (CD)
+800|To perform better than others|excel (XL)
+1000|A climbing member of the genus Hedera|ivy (IV)

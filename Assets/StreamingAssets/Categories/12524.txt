@@ -1,0 +1,6 @@
+WHEN YOU GO TO COLLEGE
+200|Perhaps you'll write for your college paper, like this school's Daily Trojan|USC (University of Southern California)
+400|You may earn a degree in liberal these; no, not politics, silly, but poli sci is often part of it|arts
+600|Maybe you'll join this kind of impromptu comedy troupe, like Dead Serious at Wellesley|improv
+800|Mayhap you'll join a secret society like Skull & Bones, which has its own "tomb" at this university in New Haven|Yale
+1000|You might spend your junior year abroad in this city (& you'll learn to call it Munchen)|Munich

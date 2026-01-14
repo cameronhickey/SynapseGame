@@ -1,0 +1,6 @@
+GO "BRA\"
+200|A multi-branched ornamental lighting item|a candelabra
+400|This butterfly is named for a much larger animal|a zebra butterfly
+600|\"Starting Here, Starting Now" ends the 1966 album "Color Me" this first name|Barbra
+800|Symbolic math branch|algebra
+1000|A person born in Israel|a Sabra

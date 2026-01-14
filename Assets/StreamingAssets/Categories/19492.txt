@@ -1,0 +1,6 @@
+ANIMAL YOUNG
+200|A panda baby & a hyena baby are each called this|a cub
+400|A shoat is a young one of these & as such might cry "wee wee wee" all the way home|a pig
+600|It's the largest animal whose baby is called a calf|a blue whale
+800|An armadillo baby is called this palindromic name|a pup
+1000|It's the only animal native to the U.S. that has a baby called a joey|a possum

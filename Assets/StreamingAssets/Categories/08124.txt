@@ -1,0 +1,6 @@
+HEALTH
+200|Galileo invented the first practical one, using air instead of mercury|a thermometer
+400|In Britain, timothy grass is usually the cause of this sneezing malady|hay fever
+600|A doctor's identification of a medical problem|a diagnosis
+800|Carbolic acid was used as this in surgery before being replaced by less caustic ones|disinfectants (antiseptics)
+1000|1st successful one was performed by Richard Lower in 1665 using quills and silver tubes for conveyance|a (blood) transfusion

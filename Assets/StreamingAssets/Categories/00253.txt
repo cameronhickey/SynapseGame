@@ -1,0 +1,6 @@
+POETRY
+200|Sandburg's weather phenomenon that "comes in on little cat feet\"|\"Fog\"
+400|New England "swinger of birches" who read his poetry for JFK's inauguration|Robert Frost
+600|2-letter title of a Kipling poem, it begins 11 lines of it|\"If\"
+800|Poetic device illustrated by "a peck of pickled peppers\"|alliteration
+1000|He said his poem "Kubla Khan" was inspired by an opium dream|(Samuel Taylor) Coleridge

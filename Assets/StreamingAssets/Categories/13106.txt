@@ -1,0 +1,6 @@
+FROM B TO C
+200|Hollywood slang for a movie that tells the story of a real person's life|a biopic
+400|Pertaining to an inflamed swelling of a lymph node, all too common in the 14th century|bubonic
+600|In the name of a rodeo riding event, it follows saddle|bronc
+800|A group of nations acting together, like the old Soviet one|bloc
+1000|This temporary military encampment is often set up without shelter or protection from enemy fire|a bivouac

@@ -1,0 +1,6 @@
+CAL. "A\"
+200|The name of this city near Los Angeles is from the German for "home" on the Santa "Ana" River|Anaheim
+400|AKA "The Rock", this island is a prime stop on your San Francisco tour schedule|Alcatraz
+600|This street intersects with Haight Street to create the name of a San Francisco neighborhood|Ashbury
+800|This Spanish word refers to a deep gully & precedes "Grande" in the name of a cute village on the Central Coast|Arroyo
+1000|It's paired with Oakland in the name of a coliseum in the Bay Area|Alameda

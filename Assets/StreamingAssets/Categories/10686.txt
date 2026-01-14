@@ -1,0 +1,6 @@
+CARS IN THE DICTIONARY
+200|This Chevy car is perfectly ship-shape|a Corvette
+400|I think we can all agree on this Honda|an Accord
+600|This Ford model created quite a storm in North America|a Thunderbird
+800|It would take many of this Nissan model to reach its limit|a Maxima
+1000|This Volkswagen model is a real sport|a Golf

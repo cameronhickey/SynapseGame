@@ -1,0 +1,6 @@
+THE U.S. CONGRESS
+200|Each member of the House of Representatives represents one of these territorial divisions of a state|a congressional district
+400|In both the House & the Senate, majority & minority parties select a floor leader & this assistant|a whip
+600|We swear, the very first law passed by Congress concerned how these pledges were to be made|oaths of office
+800|A congressman must be a U.S. citizen, a resident of the state from which he's seeking election & at least this age|25
+1000|Former senators are allowed back on the Senate floor, but they're restricted from doing this the first year out of office|lobbying

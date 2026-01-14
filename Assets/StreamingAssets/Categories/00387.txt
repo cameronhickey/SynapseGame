@@ -1,0 +1,6 @@
+VICE PRESIDENTS
+200|State that charged Spiro Agnew with committing bribery while governor|Maryland
+400|He presides over the Senate when the V.P. is absent|the president pro tempore of the Senate
+600|Number of vice-presidents FDR had|3
+800|Nixon's vice-presidential running mate in 1960|Henry Cabot Lodge
+1000|If the Electoral College fails to agree, this body elects the vice-president|the Senate

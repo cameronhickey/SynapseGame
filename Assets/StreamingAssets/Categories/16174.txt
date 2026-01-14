@@ -1,0 +1,6 @@
+MOVIES: WHO PLAYED 'EM?
+200|Tony Stark & "Tropic Thunder"'s Kirk Lazarus|Robert Downey, Jr.
+400|Jerry Maguire|Tom Cruise
+600|Norman Bates in the first 4 "Psycho" movies|Anthony Perkins
+800|Billy Madison|Adam Sandler
+1000|Warren Schmidt & J.J. "Jake" Gittes|Jack Nicholson

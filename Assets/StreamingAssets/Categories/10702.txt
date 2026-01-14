@@ -1,0 +1,6 @@
+A, B OR C
+200|Not a blood type|C
+400|Originally, it was a cheap movie shown in addition to the main feature|B
+600|In the name of the outfit that first broadcast the U.S. House in 1979, this precedes "SPAN\"|C
+800|A vitamin found in vegetables & dairy products, it's also called retinol|A
+1000|Symbol of the unit used to measure the wavelengths of electromagnetic radiation|A (more correctly, Å)

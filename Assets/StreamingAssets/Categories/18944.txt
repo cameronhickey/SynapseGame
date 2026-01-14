@@ -1,0 +1,6 @@
+ADS & TAGLINES
+200|\"You deserve a break today\"|McDonald's
+400|\"The ultimate driving machine\"|BMW
+600|\"When it absolutely, positively has to be there overnight\"|FedEx
+800|\"Expect more. Pay less\"|Target
+1000|\"The beer that made Milwaukee famous\"|Schlitz

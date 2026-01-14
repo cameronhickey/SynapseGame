@@ -1,0 +1,6 @@
+EATING OUT
+200|Grimaldi's under the Brooklyn Bridge is often voted No. 1 for this; try a slice!|pizza
+400|At any of the Marie Callender's, top off your meal with this type of dessert; it's what they're famous for|pie
+600|This fast food chicken chain offers red beans & rice & mashed potatoes & cajun gravy, but no spinach|Popeye's
+800|This chain famous for its "Girls" & chicken wings calls itself "Delightfully Tacky Yet Unrefined\"|Hooters
+1000|At State & Rush Streets, you can dine at the original one of these steakhouses "of Chicago\"|Morton's

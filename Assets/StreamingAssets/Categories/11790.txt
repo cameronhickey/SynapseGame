@@ -1,0 +1,6 @@
+WHICH U.S. CABINET DEPT.?
+200|Federal Motor Carrier Safety Administration|the Department of Transportation
+400|Grain Inspection, Packers & Stockyards Administration|the Department of Agriculture
+600|U.S. Fish & Wildlife Service|the Department of the Interior
+800|Office of Civilian Radioactive Waste Management|the Department of Energy
+1000|Government National Mortgage Association|the Department of Housing and Urban Development (HUD)

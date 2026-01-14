@@ -1,0 +1,6 @@
+INTERIORS
+200|A tieback is a strip of material used to tie back one of these|Curtain
+400|Real-Fyre, a brand of these for your faux fireplace, features realistic knotholes & peeled bark|logs
+600|The adjustable horizontal sections of a Venetian blind, or a nickname for a tall, thin man|Slats
+800|This bed with scroll-like ends was named for its resemblance to a form of winter transportation|Sleigh bed
+1000|A synonym for "feast" is found in the name of this upholstered bench usually placed along a wall|banquette

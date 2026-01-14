@@ -1,0 +1,6 @@
+TOASTS BY LANGUAGE
+200|L'chaim|Hebrew
+400|Na zdorovia|Russian
+600|Prosit|German
+800|Skal!|Swedish
+1000|Kampai|Japanese

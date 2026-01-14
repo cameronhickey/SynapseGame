@@ -1,0 +1,6 @@
+GET "OUT OF" HERE!
+200|Books no longer being published|out of print
+400|In an old proverb, it follows "You cannot make a silk purse...\"|out of a sow's ear
+600|Expenses that your expense account doesn't cover|out of pocket
+800|This type of paranormal experience is sometimes referred to as astral projection|out of body
+1000|Robert Redford played hunter Denys Finch Hatton in this 1985 biopic|Out of Africa

@@ -1,0 +1,6 @@
+QUICK FIX
+200|Catalytic converter on the fritz|a mechanic
+400|Hole in your outsole|a cobbler
+600|Abscess in R-32|a dentist
+800|Occluded flue|a chimney sweep
+1000|Faulty cleanout plug, stuck shutoff valve|a plumber

@@ -1,0 +1,6 @@
+NEW YORK CITY
+200|\"Royal" borough of the Archie Bunker family|Queens
+400|These Twin Towers are large enough to require two separate ZIP codes|the World Trade Center
+600|\"South of Houston" Street, it's an arty place to live with a "loft" to offer|SoHo
+800|After 50 years at Forest Hills, the U.S. tennis championships moved here in 1978|Flushing Meadows
+1000|This avenue is Manhattan's dividing line for east/west addresses|Fifth Avenue

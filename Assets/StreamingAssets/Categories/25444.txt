@@ -1,0 +1,6 @@
+I HEARD A RUMOR
+200|It can mean a rumor, or testimony in court based upon what she said she said|hearsay
+400|Sans accent, it means to reveal a secret; with one, it's a scandal-revealing newspaper story|an exposé
+600|Merriam-Webster "spills" the story that using this word to mean a secret truth first gained prominence in Black drag culture|the tea
+800|In a Klymaxx song a woman says if you want to be sure about your man, go powder your nose & have a "meeting in" this title place|\"Meeting In The Ladies Room\"
+1000|It's a shortened version of a word for info; in a web article, "Jennifer Lopez Drops" them on "Achieving Celebrity Status\"|deets

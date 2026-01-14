@@ -1,0 +1,6 @@
+ADJECTIVAL COUNTRY NAMES
+200|It's the island of Great Britain plus a bit more|the United Kingdom
+400|In 1961 this nation withdrew from the British Commonwealth over member criticism of its apartheid policies|South Africa
+600|Caribbean country bearing the name of an order of Catholic priests|Dominican Republic
+800|The Cook Strait separates the 2 main parts of this Southern Hemisphere country|New Zealand
+1000|The adjective in its 2-word name comes from the nation's position near 0 degrees latitude|Equatorial Guinea

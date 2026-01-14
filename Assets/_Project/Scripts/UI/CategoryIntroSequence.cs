@@ -25,8 +25,10 @@ namespace Cerebrum.UI
         [Header("Card Style")]
         [SerializeField] private Color cardColor = new Color(0.1f, 0.3f, 0.7f, 1f); // Blue
         // cardCornerRadius reserved for future rounded sprite support
-        [SerializeField] private float cardWidth = 900f;
-        [SerializeField] private float cardHeight = 300f;
+        #pragma warning disable CS0414
+        [SerializeField] private float cardWidth = 900f; // Reserved for future use
+        [SerializeField] private float cardHeight = 300f; // Reserved for future use
+        #pragma warning restore CS0414
 
         [Header("Audio")]
         [SerializeField] private AudioSource audioSource;
@@ -38,7 +40,9 @@ namespace Cerebrum.UI
         private GameObject categoryCard;
         private Image cardImage;
         private TextMeshProUGUI categoryText;
-        private TextMeshProUGUI shadowText;
+        #pragma warning disable CS0414
+        private TextMeshProUGUI shadowText; // Kept for compatibility, no longer used
+        #pragma warning restore CS0414
         private Image backgroundImage;
         private RectTransform panelRect;
         private RectTransform cardRect;
@@ -127,76 +131,90 @@ namespace Cerebrum.UI
             panelRect.offsetMin = Vector2.zero;
             panelRect.offsetMax = Vector2.zero;
 
-            // Dark semi-transparent background
+            // Transparent background - needed for fade-out logic but doesn't obscure game background
             backgroundImage = introPanel.AddComponent<Image>();
-            backgroundImage.color = new Color(0.02f, 0.02f, 0.08f, 0.95f);
+            backgroundImage.color = new Color(0f, 0f, 0f, 0f);
 
-            // Create category card (blue rounded rectangle)
+            // Create category card container - reduced size (75% width, 55% height)
             categoryCard = new GameObject("CategoryCard");
             categoryCard.transform.SetParent(introPanel.transform, false);
 
             cardRect = categoryCard.AddComponent<RectTransform>();
             cardRect.anchorMin = new Vector2(0.5f, 0.5f);
             cardRect.anchorMax = new Vector2(0.5f, 0.5f);
-            cardRect.sizeDelta = new Vector2(cardWidth, cardHeight);
-            cardRect.anchoredPosition = new Vector2(Screen.width + cardWidth, 0); // Start off-screen right
+            // Reduced card size by ~15% from previous (was 90%/70%, now 75%/55%)
+            float screenWidth = canvas.GetComponent<RectTransform>().rect.width;
+            float screenHeight = canvas.GetComponent<RectTransform>().rect.height;
+            cardRect.sizeDelta = new Vector2(screenWidth * 0.75f, screenHeight * 0.55f);
+            cardRect.anchoredPosition = new Vector2(screenWidth + cardRect.sizeDelta.x, 0); // Start off-screen right
 
-            // Card background image
-            cardImage = categoryCard.AddComponent<Image>();
-            cardImage.color = cardColor;
-            
-            // Try to use rounded sprite if available, otherwise solid color
-            var roundedSprite = Resources.Load<Sprite>("UI/RoundedRect");
-            if (roundedSprite != null)
-            {
-                cardImage.sprite = roundedSprite;
-                cardImage.type = Image.Type.Sliced;
-            }
+            // Layer 1: Outer glow (soft cyan/orange gradient simulation)
+            GameObject outerGlow = new GameObject("OuterGlow");
+            outerGlow.transform.SetParent(categoryCard.transform, false);
+            RectTransform outerGlowRect = outerGlow.AddComponent<RectTransform>();
+            outerGlowRect.anchorMin = Vector2.zero;
+            outerGlowRect.anchorMax = Vector2.one;
+            outerGlowRect.offsetMin = new Vector2(-12, -12);
+            outerGlowRect.offsetMax = new Vector2(12, 12);
+            Image outerGlowImage = outerGlow.AddComponent<Image>();
+            outerGlowImage.color = new Color(0.2f, 0.5f, 0.8f, 0.4f);
+            Outline glow1 = outerGlow.AddComponent<Outline>();
+            glow1.effectColor = new Color(0.3f, 0.6f, 0.9f, 0.3f);
+            glow1.effectDistance = new Vector2(8, 8);
+            Outline glow2 = outerGlow.AddComponent<Outline>();
+            glow2.effectColor = new Color(0.8f, 0.5f, 0.3f, 0.2f);
+            glow2.effectDistance = new Vector2(6, -6);
 
-            // Shadow text (black, offset down-right)
-            GameObject shadowObj = new GameObject("ShadowText");
-            shadowObj.transform.SetParent(categoryCard.transform, false);
+            // Layer 2: Border frame (visible edge)
+            GameObject borderFrame = new GameObject("BorderFrame");
+            borderFrame.transform.SetParent(categoryCard.transform, false);
+            RectTransform borderRect = borderFrame.AddComponent<RectTransform>();
+            borderRect.anchorMin = Vector2.zero;
+            borderRect.anchorMax = Vector2.one;
+            borderRect.offsetMin = Vector2.zero;
+            borderRect.offsetMax = Vector2.zero;
+            cardImage = borderFrame.AddComponent<Image>();
+            cardImage.color = new Color(0.4f, 0.55f, 0.75f, 0.9f);
+            Outline borderInner = borderFrame.AddComponent<Outline>();
+            borderInner.effectColor = new Color(0.6f, 0.75f, 0.95f, 0.8f);
+            borderInner.effectDistance = new Vector2(2, 2);
 
-            RectTransform shadowRect = shadowObj.AddComponent<RectTransform>();
-            shadowRect.anchorMin = Vector2.zero;
-            shadowRect.anchorMax = Vector2.one;
-            shadowRect.offsetMin = new Vector2(4, -4); // Offset for shadow effect
-            shadowRect.offsetMax = new Vector2(4, -4);
+            // Layer 3: Inner panel (dark background)
+            GameObject innerPanel = new GameObject("InnerPanel");
+            innerPanel.transform.SetParent(categoryCard.transform, false);
+            RectTransform innerRect = innerPanel.AddComponent<RectTransform>();
+            innerRect.anchorMin = Vector2.zero;
+            innerRect.anchorMax = Vector2.one;
+            innerRect.offsetMin = new Vector2(6, 6);
+            innerRect.offsetMax = new Vector2(-6, -6);
+            Image innerImage = innerPanel.AddComponent<Image>();
+            innerImage.color = new Color(0.06f, 0.08f, 0.18f, 0.95f);
 
-            shadowText = shadowObj.AddComponent<TextMeshProUGUI>();
-            shadowText.fontSize = 64;
-            shadowText.fontStyle = FontStyles.Bold;
-            shadowText.color = Color.black;
-            shadowText.alignment = TextAlignmentOptions.Center;
-            shadowText.textWrappingMode = TextWrappingModes.Normal;
-
-            // Apply category header font
-            if (FontManager.Instance != null)
-            {
-                shadowText.font = FontManager.Instance.GetCategoryFont();
-            }
-
-            // Main text (white, on top of shadow)
+            // Layer 4: Main text (white, large, centered)
             GameObject textObj = new GameObject("CategoryText");
             textObj.transform.SetParent(categoryCard.transform, false);
 
             RectTransform textRect = textObj.AddComponent<RectTransform>();
             textRect.anchorMin = Vector2.zero;
             textRect.anchorMax = Vector2.one;
-            textRect.offsetMin = Vector2.zero;
-            textRect.offsetMax = Vector2.zero;
+            textRect.offsetMin = new Vector2(60, 60);
+            textRect.offsetMax = new Vector2(-60, -60);
 
             categoryText = textObj.AddComponent<TextMeshProUGUI>();
-            categoryText.fontSize = 64;
+            categoryText.fontSize = 200;
             categoryText.fontStyle = FontStyles.Bold;
             categoryText.color = Color.white;
             categoryText.alignment = TextAlignmentOptions.Center;
             categoryText.textWrappingMode = TextWrappingModes.Normal;
+            categoryText.enableAutoSizing = true;
+            categoryText.fontSizeMin = 100;
+            categoryText.fontSizeMax = 280;
 
-            // Apply category header font
+            // Apply category header font with drop shadow
+            FontManager.EnsureExists();
             if (FontManager.Instance != null)
             {
-                categoryText.font = FontManager.Instance.GetCategoryFont();
+                FontManager.Instance.ApplyCategoryStyle(categoryText);
             }
 
             // Hide card initially
@@ -233,17 +251,18 @@ namespace Cerebrum.UI
         {
             if (string.IsNullOrEmpty(categoryName)) yield break;
 
-            float screenWidth = Screen.width;
+            // Use canvas-based screen width for animation
+            float canvasWidth = canvas.GetComponent<RectTransform>().rect.width;
+            float actualCardWidth = cardRect.sizeDelta.x;
 
-            // Set text on both main and shadow
+            // Set text
             categoryText.text = categoryName.ToUpper();
-            shadowText.text = categoryName.ToUpper();
 
             // Show the card
             categoryCard.SetActive(true);
 
             // Start position (off-screen right)
-            cardRect.anchoredPosition = new Vector2(screenWidth + cardWidth, 0);
+            cardRect.anchoredPosition = new Vector2(canvasWidth + actualCardWidth, 0);
 
             // Slide in from right to center
             float elapsed = 0f;
@@ -252,7 +271,7 @@ namespace Cerebrum.UI
                 elapsed += Time.deltaTime;
                 float t = elapsed / slideInDuration;
                 float easeT = 1f - Mathf.Pow(1f - t, 3f); // Ease out cubic
-                float x = Mathf.Lerp(screenWidth + cardWidth, 0, easeT);
+                float x = Mathf.Lerp(canvasWidth + actualCardWidth, 0, easeT);
                 cardRect.anchoredPosition = new Vector2(x, 0);
                 yield return null;
             }
@@ -286,6 +305,7 @@ namespace Cerebrum.UI
             else if (TTSService.Instance != null)
             {
                 // Fallback: generate on the fly
+                Debug.LogWarning($"[CategoryIntroSequence] Category audio not cached: {categoryName}");
                 bool done = false;
                 TTSService.Instance.Speak(categoryName, () => done = true);
                 while (!done)
@@ -309,7 +329,7 @@ namespace Cerebrum.UI
                 elapsed += Time.deltaTime;
                 float t = elapsed / slideOutDuration;
                 float easeT = t * t; // Ease in quadratic
-                float x = Mathf.Lerp(0, -screenWidth - cardWidth, easeT);
+                float x = Mathf.Lerp(0, -canvasWidth - actualCardWidth, easeT);
                 cardRect.anchoredPosition = new Vector2(x, 0);
                 yield return null;
             }

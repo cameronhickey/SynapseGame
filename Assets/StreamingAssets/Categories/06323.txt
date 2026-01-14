@@ -1,0 +1,6 @@
+WHERE WERE YOU LAST NIGHT?
+200|Dancing at Le Balajo on the Rue de Lappe|Paris
+400|Just checking out the view from the top of the Mark Hopkins|San Francisco
+600|Singing karaoke in Shinjuku|Tokyo
+800|Down in Plaka listening to bouzouki music|Athens
+1000|Having steak gaucho-style at La Chacra|Buenos Aires

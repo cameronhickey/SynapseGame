@@ -1,0 +1,6 @@
+FRICTION
+200|These fluid-filled swellings on the skin are most commonly caused by burns or friction|blisters
+400|A violinist rubs this substance onto his bow to increase the friction between it & the strings|rosin
+600|The rolling element types of these friction-reducing machine parts come in 2 varieties, roller & ball|bearings
+800|Friction gives a balloon rubbed on wool a static charge by transferring these subatomic particles|electrons
+1000|Friction is what makes this type of machine impossible; all machines will eventually run down|a perpetual motion machine

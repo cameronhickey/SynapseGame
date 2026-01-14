@@ -1,0 +1,6 @@
+MOVIE PROFESSION IN COMMON
+200|Harrison Ford in "Air Force One" & Bill Pullman in "Independence Day\"|President of the United States
+400|Will Ferrell in "Blades of Glory" & Jon Heder in "Blades of Glory\"|figure skaters (ice skaters)
+600|Jack Nicholson in "Chinatown" & Russell Crowe in "The Nice Guys\"|detective
+800|Sally Hawkins in "The Shape of Water" & Matt Damon in "Good Will Hunting\"|a janitor
+1000|Rick Moranis in "Ghostbusters" & Ben Affleck as Christian Wolff (the title profession)|accountants

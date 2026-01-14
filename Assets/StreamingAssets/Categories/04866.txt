@@ -1,0 +1,6 @@
+CHURCHES & CATHEDRALS
+200|This cathedral is the administrative center of the Anglican Church|Canterbury
+400|A church is called a "cathedral" when this official's chair, a "cathedra" in Latin, is there|bishop
+600|This city's Church of the Holy Sepulchre is said to be on the site where Jesus was entombed|Jerusalem
+800|It was erected by Giovanni Dei Dolci for Pope Sixtus IV, for whom it was named|The Sistine Chapel
+1000|Located in Red Square, it was begun in the 1550s to commemorate the military conquests of Ivan the Terrible|St. Basil's

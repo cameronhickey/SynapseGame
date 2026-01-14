@@ -1,0 +1,6 @@
+REARRANGING WORDS
+200|Rearrange the letters in "skate" to come up with this surname of a Romantic poet|Keats
+400|Rearrange the letters in "listen" to get this not-so-audible word|silent
+600|An earthquake on "Crete" might find its buildings no longer this|erect
+800|Rearrange the letters in "late" to get this color|teal
+1000|Rearrange the letters in "supersonic" to get this orchestra section|percussion

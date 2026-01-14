@@ -1,0 +1,6 @@
+PRESIDENTS: THIS IS YOUR WIFE!
+200|Nancy Davis|Ronald Reagan
+400|Betty Bloomer|Gerald Ford
+600|Rachel Donelson Robards|Andrew Jackson
+800|Abigail Smith|John Adams
+1000|Ida Saxton|William McKinley

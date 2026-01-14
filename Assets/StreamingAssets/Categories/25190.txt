@@ -1,0 +1,6 @@
+NAME THAT PLAY
+200|\"You have invented a very useful younger brother called Ernest, in order that you may be able to come up to town\"|The Importance of Being Earnest
+400|\"I gotta show some of those pompous, self-important executives over there that Hap Loman can make the grade\"|Death of a Salesman
+600|\"I ain't done nothing wrong by speaking to the gentleman. I've a right to sell flowers if I keep off the kerb\"|Pygmalion
+800|\"It's terrible, dreadful, disgraceful that poor little sister has never received a single gentleman caller\"|The Glass Menagerie
+1000|\"Begin thine incantations, and try if devils will obey thy hest, seeing thou hast pray'd and sacrific'd to them\"|Doctor Faustus

@@ -1,0 +1,6 @@
+FLY COUNTRIES
+200|Iberia Airlines|Spain
+400|Aer Lingus|Ireland
+600|Olympic Airlines|Greece
+800|Belavia (Its first terminal was in Minsk)|Belarus
+1000|Koninklijke Luchtvaart Maatshappij (you might know it by its abbreviation)|The Netherlands (KLM)

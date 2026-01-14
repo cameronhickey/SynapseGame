@@ -1,0 +1,6 @@
+MEDICAL AKAs
+200|Pertussis is more familiar as this cough, for the sound it makes|whooping cough
+400|Rubeola is the measles; this similar word refers to German measles|rubella
+600|Herpes zoster is another name for this disease that's caused by the same virus as chickenpox|shingles
+800|This disease that infected dogs can transmit to humans is also called lyssa|rabies
+1000|Tetanus is also called this, typically the first sign of the disease|lockjaw

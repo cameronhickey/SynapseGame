@@ -1,0 +1,6 @@
+MEASURING WHAT?
+200|An acre is a measure of this of the sea floor as well as dry land|area
+400|Ahoy! A knot measures this|speed
+600|A light year|distance
+800|An erg|work
+1000|A millibar|barometric or atmospheric pressure

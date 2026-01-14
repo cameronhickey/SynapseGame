@@ -1,0 +1,6 @@
+U.S. POSTAL ABBREVIATIONS
+200|WY|Wyoming
+400|NV|Nevada
+600|CO|Colorado
+800|AR|Arkansas
+1000|MI|Michigan

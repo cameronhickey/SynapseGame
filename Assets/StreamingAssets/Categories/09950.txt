@@ -1,0 +1,6 @@
+MOVIE NUMBERS
+200|A teen date flick: "___ Things I Hate About You\"|10
+400|Always a bridesmaid, never a bride: "___ Dresses\"|27
+600|It's a rap!: "___ Mile\"|8
+800|3 strangers are united by tragedy in "___ Grams\"|21
+1000|A Las Vegas heist & a bunch of Elvis impersonators: "___ Miles to Graceland\"|3000

@@ -1,0 +1,6 @@
+CLASSIC TV EPISODES
+200|\"Chuckles Bites the Dust\"|The Mary Tyler Moore Show
+400|\"Dr. Pierce and Mr. Hyde\"|M*A*S*H
+600|\"Louie's Mom Remarries\"|Taxi
+800|\"Hot Rod Herman\"|The Munsters
+1000|\"Wojo's Girl\"|Barney Miller

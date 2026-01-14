@@ -1,0 +1,6 @@
+LIKE PULLING TEETH
+200|It's the part of a tooth above the gumline, or the gold cap that might go over it|a crown
+400|Wisdom teeth are the most likely to become this, meaning unable to break through the gumline|impacted
+600|Which is more pleasant? Being grilled by me or undergoing this procedure also known as endodontic therapy?|a root canal
+800|If you need a tooth pulled, your dentist will extract it with this tool with a plural-sounding name (& no, it's not "pliers")|forceps
+1000|This jelly-like stuff at the center of a tooth contains blood vessels, connective tissues & (ouch!) nerves|the pulp

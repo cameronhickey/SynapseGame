@@ -1,0 +1,6 @@
+THE "-PHILE" FILE
+200|One who admires the customs of England|an Anglophile
+400|One who loves & collects books|a bibliophile
+600|A devoted, knowledgeable moviegoer|a cinephile
+800|One who enjoys wines as a connoisseur|an oenophile (a vinophile accepted)
+1000|A lover of words; hopefully you're enough of one to get this|a logophile

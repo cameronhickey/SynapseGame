@@ -1,0 +1,6 @@
+MANLY TITLE ROLES
+200|\"Man on the Moon\"|Jim Carrey
+400|\"Marathon Man\"|Dustin Hoffman
+600|\"The Elephant Man\"|John Hurt
+800|\"The Third Man\"|Orson Welles
+1000|\"The Man Who Fell to Earth\"|David Bowie

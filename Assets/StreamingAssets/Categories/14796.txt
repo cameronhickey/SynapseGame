@@ -1,0 +1,6 @@
+VWLLSS MMMLS
+200|It's banded: RMDLL|an armadillo
+400|It feeds on insects: NTTR|an anteater
+600|It prospers at sprinting: CHTH|a cheetah
+800|It's a marsupial: BNDCT|a bandicoot
+1000|It's hoofed: NTLP|an antelope

@@ -1,0 +1,6 @@
+GEEK LOVE
+200|The Woz, Steve Wozniak, built the first computer for this company|Apple
+400|Steve Ballmer has big geek shoes to fill for this Washington State software company|Microsoft
+600|This director's geek cred was sealed when he sold his film co.'s computer division & it later became Pixar|George Lucas
+800|Sexy Linus Torvalds made us melt when he created this freely distributed UNIX clone in 1991|Linux
+1000|Hunky Marc Andreessen turned heads with this early web browser & company, later brought out by AOL|Netscape

@@ -1,0 +1,6 @@
+KEMAL ATATURK
+200|Kemal Ataturk was born in 1881 in the city of Thessaloniki in what is now this country|Greece
+400|In 1928 Ataturk removed a Turkish constitutional provision naming this as the state religion|Islam
+600|It's the city of about 3 million where you'll find the Kemal Ataturk mausoleum|Ankara
+800|From the Arabic for "ruler", it's the title held by the man overthrown by Ataturk in 1922|sultan
+1000|During WWI, Ataturk played a crucial military role in repelling the Allied invasion of this Turkish peninsula|Gallipoli

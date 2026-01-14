@@ -1,0 +1,6 @@
+DRUGZ
+200|Zocor is a statin, used to lower the bad type of this|cholesterol
+400|The "D" in Zyrtec-D stands for this, which will help your stuffy nose|decongestant
+600|Zantac claims that "no pill relieves" this ailment "faster\"|heartburn
+800|The "Z" in a Z-Pak is zithromax, this type of drug|antibiotic
+1000|Zipsor is a NSAID, short for a nonsteroidal this type of drug|anti-inflammatory

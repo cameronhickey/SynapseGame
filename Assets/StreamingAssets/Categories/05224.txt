@@ -1,0 +1,6 @@
+ASSUME THE POSITION
+200|These soccer players are positioned between the forwards & the defenders|midfielders
+400|(Hi, I'm Wesley Walls of the Carolina Panthers. The answer is...) As a tight end, I'm usually less than a yard from this player on the offensive line|tackle
+600|Adam Vinatieri, Morten Andersen, Jan Stenerud|kickers
+800|Nelson "Old Poison" Stewart, Stan Mikita, Wayne Gretzky|centermen
+1000|Phil Rizzuto, Fred "Chicken" Stanley, Derek Jeter|shortstops

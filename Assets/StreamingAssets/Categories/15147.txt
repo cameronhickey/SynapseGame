@@ -1,0 +1,6 @@
+ENDS WITH "U\"
+200|A Hindu spiritual teacher|a guru
+400|Barbie knows a type of long surfboard is named for this California beach|Malibu
+600|The name of this Japanese martial art related to judo means "soft art\"|jujitsu
+800|A married woman in Bonn or Berlin|a frau
+1000|Found before "of" it's a 2-word term meaning instead, including the French for "place\"|in lieu

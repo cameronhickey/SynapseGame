@@ -1,0 +1,6 @@
+ITS NEAREST NEIGHBOR NATION
+200|Portugal|Spain
+400|Sri Lanka|India
+600|Denmark|Germany
+800|Trinidad & Tobago|Venezuela
+1000|The Gambia|Senegal

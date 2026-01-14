@@ -1,0 +1,6 @@
+POKER NIGHT
+200|The person sitting to the right of the dealer does this after the shuffle|cuts the cards (cuts the deck)
+400|Before each deal every player puts this fixed but arbitrary stake into the pot|ante
+600|Place your cards facedown on the table to indicate that you're doing this, withdrawing from play|folding
+800|The name of this type of poker is a verb that can mean "to take or be dealt a card\"|draw
+1000|If you have a 5, 6, 8 & 9 of different suits, hope for a 7 to fill this type of straight|inside straight

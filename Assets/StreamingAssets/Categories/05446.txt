@@ -1,0 +1,6 @@
+FRENCH WEIGHTS & MEASURES
+200|Pull up to le garage & you'll get your essence, "gas", in these units|litres
+400|It's trois heures moins le quart, this time, & there's no one in the place except you & me|quarter to three (2:45)
+600|The becquerel is a unit of radiation that has replaced this, the name of Henri Becquerel's co-Nobel Prize winners|the curie
+800|Heavier than a foil, but lighter than a sabre, this fencing weapon weighs 770 grams|an epée
+1000|An "effect" of water spiraling down a drain & a force acting on projectiles are named for this Frenchman|Gaspard Coriolis

@@ -1,0 +1,6 @@
+FILMS BY SUBTITLE
+200|\"International Man Of Mystery\"|Austin Powers
+400|\"How I Learned To Stop Worrying And Love The Bomb\"|Dr. Strangelove
+600|\"The First Avenger\"|Captain America
+800|\"The Ballad of Ricky Bobby\"|Talladega Nights
+1000|\"The Far Side of the World\"|Master and Commander

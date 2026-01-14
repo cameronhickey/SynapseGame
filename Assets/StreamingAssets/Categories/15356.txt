@@ -1,0 +1,6 @@
+GOV. ABBREV.
+200|In 2011 President Obama named general Martin Dempsey chairman of the JCS, this|Joint Chiefs of Staff
+400|DA is the Department of the Army; DEA is this administration|the Drug Enforcement Administration
+600|Helping communities to recover after a disaster, FEMA is this agency|the Federal Emergency Management Agency
+800|Use your GPS to get to the GPO, this place, where you can get all kinds of publications|the Government Printing Office
+1000|NASA is the National Aeronautics & Space Administration; JSC is this NASA facility|the Johnson Space Center

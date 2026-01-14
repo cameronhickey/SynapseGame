@@ -1,0 +1,6 @@
+STATE OF THE AIRPORT
+200|Ontario International, John Wayne Airport|California
+400|Ketchikan International, Wiley Post-Will Rogers|Alaska
+600|Vero Beach Regional, Naples Airport|Florida
+800|Lewiston/ Nez Perce County, Pocatello Regional|Idaho
+1000|Cheboygan County, Grosse Ile Municipal|Michigan

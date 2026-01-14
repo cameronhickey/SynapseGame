@@ -1,0 +1,6 @@
+SPACE INVADERS
+200|The third country ever to launch a planetary mission, this nation launched the Nozomi probe to Mars in 1998|Japan
+400|(Leroy Chiao reads the clue from aboard the International Space Station.) Every 6 months the space station gets a new one of this Russian spacecraft that's basically a lifeboat|Soyuz
+600|In 1995 the Galileo spacecraft reached this large planet & launched a probe into it|Jupiter
+800|After nearly 10 years of continuous occupation by astronauts, it was de-orbited in 2001|the Mir space station
+1000|Abbreviated EVAs, these are central to the International Space Station's construction & maintenance|extravehicular activities

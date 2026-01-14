@@ -1,0 +1,6 @@
+\"ALL" THE RIGHT MOVIES
+200|Ronald Reagan was in the 1940 biopic "Knute Rockne" this|All American
+400|This Arnold Schwarzenegger comedy about a father's desperate search for a Christmas toy might ring a bell|Jingle All the Way
+600|Diamonds & a winning lottery ticket, not $100 bills, are the goal in this 2002 action comedy|All About the Benjamins
+800|Annette Bening won a Golden Globe for her role in this 2010 film about children looking to connect with their sperm-donor dad|The Kids Are All Right
+1000|Robert Shaw was Henry VIII & Paul Scofield was Thomas More in this 1966 costume drama|A Man for All Seasons

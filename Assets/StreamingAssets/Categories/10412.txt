@@ -1,0 +1,6 @@
+LITERARY GENRES
+200|\"Pamela" is an epistolary one & may be the first English one|a novel
+400|A villanella, an Italian song, became a villanelle, a French this|a poem
+600|The name of this literary form also means "to try\"|an essay
+800|The story of Gisli Sursson, or John Jakes' chronicle of the Kent family|sagas
+1000|In the 1880s Guy de Maupassant published 300 of these|short stories

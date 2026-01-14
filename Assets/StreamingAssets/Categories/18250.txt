@@ -1,0 +1,6 @@
+CREATURE COMFORTS
+200|It's a giant panda's favorite food|bamboo
+400|Chickadees line these with the fur of dogs & other animals|their nests
+600|On Madagascar, these primates use a toxic secretion from millipedes as an insect repellent & is thought to get high|lemurs
+800|A wood type of this insect sunbathes outside, then releases the heat in a 7'-tall communal structure|ants
+1000|The cleaner species of this tropical fish make their neighbors more comfortable by removing dead scales & other irritants|the cleaner wrasse

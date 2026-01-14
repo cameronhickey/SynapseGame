@@ -1,0 +1,6 @@
+MOST INSTAGRAMMED PLACES BY STATE
+200|In California: this theme park|Disneyland
+400|In this state: Lambeau Field|Wisconsin
+600|In Minnesota: this shopping mecca|the Mall of America
+800|In this state: Pike Place Market|Washington
+1000|In this state: Red Rocks Park & Amphitheatre|Colorado

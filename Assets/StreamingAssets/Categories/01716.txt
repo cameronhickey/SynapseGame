@@ -1,0 +1,6 @@
+STARTS WITH "F\"
+200|As a verb it's to decline in strength; as a noun, it's a piece of cloth used as a country's emblem|flag
+400|One found in King Tut's tomb is an elaborate spray of ostrich feathers|a fan
+600|A fancy name for it would be the violinist crab|a fiddler crab
+800|Canadian John McCrae wrote a poem about this American cemetery in Belgium|Flanders Fields
+1000|Hamlet moaned, "O! that this too too solid" stuff "would melt\"|flesh

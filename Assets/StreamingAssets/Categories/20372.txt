@@ -1,0 +1,6 @@
+IF THE HYPHEN BECOMES A LETTER
+200|The hyphen in the newspaper's viewpoint page becomes a "T": this word meaning "chose\"|opted
+400|The hyphen in a car's 180 becomes a "P": this good day for the market|an upturn
+600|The hyphen in a mixed dorm becomes a "D": you've done this, written a computer program|coded
+800|The hyphen in something you can do to a document via computer becomes an "N": this Navy rank|ensign
+1000|The hyphen in a kids' movie indicator becomes a "Y": what Elvis' hips did|gyrate (or gyrated)

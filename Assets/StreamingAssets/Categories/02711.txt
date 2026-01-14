@@ -1,0 +1,6 @@
+COMMUNICATION
+200|American Indians sent signals using this vaporous substance|Smoke
+400|These largest pachyderms communicate with infrasonic signals below the range of human hearing|elephants
+600|Often employed by governments, this form of spreading doctrines or rumors sometimes uses "The Big Lie" as a weapon|Propaganda
+800|Letters that are pronounced similarly, like P & B, limit this method of understanding speech|Lip reading
+1000|Developed by Edward Hall, proxemics is the study of this "language", such as crossing one's legs|Body language

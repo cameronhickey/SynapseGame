@@ -1,0 +1,6 @@
+GHOSTS
+200|Someone who pinch hits for another's autobiography|a ghostwriter
+400|\'20s football star called "The Galloping Ghost\"|Red Grange
+600|At Windsor Castle, this Tudor queen supposedly haunts the Queen's library|Elizabeth I
+800|Shakespearean monarch visited by 11 ghosts of his victims before the Battle of Bosworth Field|Richard III
+1000|A hideous Arabian ghost who steals corpses, it's come to mean any grave robber|a ghoul

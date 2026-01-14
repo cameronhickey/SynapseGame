@@ -1,0 +1,6 @@
+PALEONTOLOGY
+200|It describes the mouth of the ancient hadrosaur & the mouth of the modern platypus|Duck-billed
+400|The name of the ichthyornis comes from the Greek for "bird" & this type of animal|Fish
+600|It was similar to the mammoth but it had different teeth|the mastodon
+800|Continent that was home to the albertosaurus|North America
+1000|The fossils of these common 3-lobed primitive arthropods are useful date markers|trilobites

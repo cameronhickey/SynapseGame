@@ -1,0 +1,6 @@
+NOUN; VERB
+200|A hand tool; to shape by repeated blows (possibly by using the tool)|to hammer
+400|One of the 4 periods of the year; to spice up your food|season
+600|A container for soup; to fire an employee|can
+800|A gourd eaten as a vegetable; to press into a flat mass|squash
+1000|A law firm; to perform as a lawyer doing business|practice

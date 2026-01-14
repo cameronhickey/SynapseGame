@@ -1,0 +1,6 @@
+FINAL "RE\"
+200|This time means when the plane leaves the gate, not when it takes off|departure
+400|4-letter monster that eats humans|an ogre
+600|The way you hold your body; as a verb, it can mean to adopt a blustering attitude|posture
+800|Before you leave our website, would you mind taking a brief one of these to help us improve our customer experience?|a questionnaire
+1000|Calmness & coolness; under pressure, some keep it & some lose it|composure

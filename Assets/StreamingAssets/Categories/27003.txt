@@ -1,0 +1,6 @@
+PRESIDENTS' FATHERS
+200|This man was the first father who was alive when his son became president|John Adams
+400|This 20th C. president's father had a middle name, Anderson, while he only got an initial|Harry Truman
+600|His father died before he was born so he was raised by an uncle, Sardis Birchard|(Rutherford Birchard) Hayes
+800|George Bush's father Prescott Bush represented this New England State in the U.S. Senate|Connecticut
+1000|Middle name shared by President Coolidge & his father|Calvin

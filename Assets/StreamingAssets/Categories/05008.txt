@@ -1,0 +1,6 @@
+FILM ROLES IN COMMON
+200|Actors who've played this role include Moore, Roger Moore & Dalton, Timothy Dalton|James Bond
+400|Wendy Hiller played her in 1938's "Pygmalion"; Audrey Hepburn had the role in "My Fair Lady\"|Eliza Doolittle
+600|Laurence Olivier reigned as this warrior king in 1945; Kenneth Branagh took the throne in 1989|Henry V
+800|Role played by Clark Gable in 1935, Marlon Brando in '62 & Mel Gibson in '84|Fletcher Christian (Mutiny on the Bounty)
+1000|This Tom Clancy character has been played by Alec Baldwin & Harrison Ford|Jack Ryan

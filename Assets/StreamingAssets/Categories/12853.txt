@@ -1,0 +1,6 @@
+MATERIAL
+200|Coke cans are an average 60% recycled this metal|aluminum
+400|Tuflex flooring, made of this, is popular in gyms & weight rooms|rubber
+600|(Kelly of the Clue Crew demonstrates an archaic measurement.) An ell was once the length from one shoulder to the fingers of the opposite hand, reflecting the practice of merchants measuring this product|cloth
+800|Many of George Segal's lifelike sculptures, such as "Hot Dog Stand", are made from this of Paris|plaster
+1000|Instead of sand, many Cancun beaches are of this reef material, so your feet stay cool|coral

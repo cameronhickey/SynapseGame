@@ -1,0 +1,6 @@
+HUMPTY DUMPTY
+200|Humpty Dumpty's perch|a wall
+400|After Humpty's fall, they tried to put him together again|all the king's horses & all the king's men
+600|\"Cornflake Girl" who wrote a song in which "Humpty Dumpty and Betty Louise... stole a Sony and some Camembert cheese\"|Tori Amos
+800|This comedian played Humpty Dumpty in the 1933 Paramount film "Alice in Wonderland\"|W.C. Fields
+1000|Alice had some of the unusual words in this Lewis Carroll poem explained to her by Humpty|\"Jabberwocky\"

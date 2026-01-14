@@ -1,0 +1,6 @@
+ROSEBUD
+200|Appropriately, iceberg roses are this color|white
+400|This type of rose smells like a certain brewed beverage, hence its name|the tea rose
+600|Call Orville Redenbacher: there are roses called this & "gourmet" this|popcorn
+800|The rose known as "Mme. Ferdinand Jamin" became more popular in the U.S. when it was renamed "American" this|American Beauty
+1000|Fabric name for roses like the Celsiana, which has petals that look like crumpled silk|a Damask rose

@@ -1,0 +1,6 @@
+THE I.T. GUY
+200|He may be there to increase this, the capacity of data transmitted point to point in a given amount of time|bandwidth
+400|The I.T. guy knows his coffee & this Sun Microsystems computing language influenced by Objective-C|Java
+600|He took the class at Princeton on C.A., short for this, the design of a computing system|computer architecture
+800|This word means "final", but when the I.T. guy uses it, he means a device that communicates with a computer|a terminal
+1000|If your I.T. guy is from outside the company, you're this to him, also a program or system that requests server activity|a client

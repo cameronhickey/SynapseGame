@@ -1,0 +1,6 @@
+CHARACTERS' FAREWELLS
+200|\"Towards thee I roll, thou all-destroying but unconquering whale...\"|Ahab
+400|\"Take thou Excalibur, my good sword, and go with it to yonder waterside...\"|King Arthur
+600|\"Dave, stop... stop, Dave. Will you stop, Dave? Stop, Dave. I'm afraid. I'm afraid, Dave. Dave, my mind is going...\"|HAL
+800|\"It is a far, far better thing that I do, than I have ever done...\"|Sydney Carton
+1000|\"Precious, precious, precious! My precious! O my precious!\"|Gollum

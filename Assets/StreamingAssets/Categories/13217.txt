@@ -1,0 +1,6 @@
+TAKE MY TEMPERATURE
+200|It has an average surface temperature of 5,600 kelvin|the Sun
+400|It's equal to -459.69 degrees Fahrenheit|absolute zero
+600|Changes in the frequency of these insects' chirps can be related to changes in temperature|a cricket
+800|When he invented his scale, he originally made 0 the boiling point of water & 100 its freezing point; it changed later|(Anders) Celsius
+1000|From the Latin for "burn up", it's the process of rapid oxygenation & temperature rise associated with burning|combustion

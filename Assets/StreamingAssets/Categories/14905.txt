@@ -1,0 +1,6 @@
+KINDS OF SHIPS
+200|It comes between "Carnival" & "Lines\"|Cruise
+400|From the French, it's a lightly armed, speedy ship, or a Chevy sports car model|a corvette
+600|In the U.S. Navy Relief & Solace were this type of medical vessel|hospital ships
+800|From its prey, it's the term for a 19th century vessel loaded with spermaceti|a whaler
+1000|A VLCC, meaning very large crude carrier, is this type of ship|a tanker

@@ -1,0 +1,6 @@
+PREPOSITIONAL BOOK TITLES
+200|This novel was originally published as "le Tour du monde en quatre-vingts jours\"|Around the World in Eighty Days
+400|This Stephen King novel has Chester's Mill, Maine suddenly sealed off from the rest of the world by an invisible force field|Under the Dome
+600|In this Nick Hornby novel, a 12-year-old misfit & a 36-year-old man-child strike up a friendship that teaches them both valuable lessons|About a Boy
+800|Ring in if you know this Hemingway novel is about Robert Jordan, who fights on the losing side in the Spanish Civil War|For Whom the Bell Tolls
+1000|Virginia Woolf used stream of consciousness in this novel about the Ramsay family vacationing on the Isle of Skye|To the Lighthouse

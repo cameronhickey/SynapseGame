@@ -1,0 +1,6 @@
+THE DIRECTOR'S CHAIR
+200|\"Mean Streets", "Cape Fear", "The Last Temptation of Christ\"|Martin Scorsese
+400|\"A Clockwork Orange", "Full Metal Jacket", "Spartacus\"|Stanley Kubrick
+600|\"Hour of the Wolf", "Fanny and Alexander", "Persona\"|Ingmar Bergman
+800|\"The Duelists", "Alien", "Blade Runner\"|Ridley Scott
+1000|\"The Last Metro", "Jules and Jim", "Fahrenheit 451\"|Francois Truffaut

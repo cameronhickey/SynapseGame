@@ -1,0 +1,6 @@
+BUSINESS ABBREV.
+200|No money, no goods: C.O.D.|cash on delivery
+400|A first sale of stock on the open market: IPO|an initial public offering
+600|Pertaining to a fictitious name: DBA|doing business as
+800|Furnisher of financial data on Wall St.: S&P|Standard & Poor's
+1000|A salary increase in response to inflation: COLA|a cost of living adjustment

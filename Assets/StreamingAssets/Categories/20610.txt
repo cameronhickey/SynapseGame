@@ -1,0 +1,6 @@
+FRUITS & VEGETABLES IN FRENCH
+200|Les petits pois|baby peas
+400|La prune|a plum
+600|Chou (chou de Bruxelles is Brussels sprout)|cabbage
+800|Ananas (& it's not a banana)|pineapple
+1000|Cerise|cherry

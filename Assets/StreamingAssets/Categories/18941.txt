@@ -1,0 +1,6 @@
+WHODUNIT?
+200|\"Sleeping Murder: Miss Marple's Last Case\"|Agatha Christie
+400|Took over Johnny Torrio's Chicago gang in 1925|Al Capone
+600|\"Devil in a Blue Dress", an Easy Rawlins mystery|Mosley
+800|Ran history's biggest Ponzi scheme until 2008|Bernie Madoff
+1000|\"The Brass Verdict": Mickey Haller & Harry Bosch continue to find Hollywood is just murder|Michael Connelly

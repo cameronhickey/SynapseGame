@@ -1,0 +1,6 @@
+FRENCH FIXINS
+200|In French, this word can refer to an image on Turkey's flag as well as a tasty roll|a croissant
+400|The vineyard & petit-gris are varieties of this mollusk; please respond in French, though it might "slow" you down|escargot
+600|From Provence & pretty as a Pixar, this eggplant dish simmered in olive oil can be served hot or cold|ratatouille
+800|Tomatoes, garlic, black olives, anchovies, onions, tuna, green beans, eggs & herbs make up a salade this|niçoise
+1000|In a remembrance of things Proust, it's a small, buttery sponge cake eaten as a cookie, often dipped in coffee|a madeleine

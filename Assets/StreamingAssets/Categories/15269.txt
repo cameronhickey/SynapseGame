@@ -1,0 +1,6 @@
+SEASHELLS
+200|Prized by collectors, this type of shell has been used as a trumpet for thousands of years|a conch
+400|(Jimmy of the Clue Crew presents the clue.) The shell of Tridacna squamosa, or fluted giant clam, shows why is is classed as one of these, from the Latin for "two folding doors\"|a bivalve
+600|An abalone shell is lined with a lustrous material called nacre, or this, because shellfish can give birth to gems|mother-of-pearl
+800|Irregularly-shaped shells of creatures in the family vermetidae are also known as this type of shell, named for an earth tiller|a worm shell
+1000|Shells of the family terebridae, called this, like the carpenter's drilling tool they resemble|an auger shell

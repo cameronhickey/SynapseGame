@@ -1,0 +1,6 @@
+PERIODICALS
+200|This magazine abbreviated "GH" features tips in "The Better Way" section|Good Housekeeping
+400|In 1993 the Chicago Tribune launched Exito!, a weekly paper in this language|Spanish
+600|To help plan a museum of journalism, Peter Prichard quit in '94 as editor of this, "The Nation's Newspaper\"|USA Today
+800|Unions at this California city's Examiner & Chronicle went on strike in November 1994|San Francisco
+1000|This edgy science magazine has ceased publication in favor of a completely online version|Omni

@@ -1,0 +1,6 @@
+GORDON THE WINE SNOB
+200|Gordon serves this color wine with all meat, though it's been called "an absurd generalization\"|Red
+400|It's what Gordon calls the cupboard where he stores wine, though it's not underground|Cellar
+600|When Gordon uses this word for flavor given by a wine barrel, he can't resist following it with "dokey\"|Oaky
+800|Gordon calls the bartender at the local tavern this, the French term for a wine steward|Sommelier
+1000|Easily impressed, Gordon buys any bottle with this synonym for "hold back" on the label|Reserve

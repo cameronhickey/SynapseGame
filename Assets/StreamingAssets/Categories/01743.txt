@@ -1,0 +1,6 @@
+ITALIAN CITIES
+200|To go to the Guggenheim Museum in this city, get off the Vaporetto at Accademia|Venice
+400|This city's Museo Alla Scala features memorabilia from the famous theatre next to it|Milan
+600|The pope has approved the public display of this city's famous shroud in 1998|Turin
+800|This city's Piazza Dante contains the house believed to be that of Christopher Colunbus|Genoa
+1000|Conductor Arturo Toscanini was born in this city famous for its cheese|Parma

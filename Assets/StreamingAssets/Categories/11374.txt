@@ -1,0 +1,6 @@
+GOING DOWNTOWN
+200|I'll take the Loop & go to the Field Museum if it's not too windy in this city|Chicago
+400|I'll get some cash at the First Bank of the United States so I can buy a cheese steak in this city|Philadelphia
+600|I'll hum through the Motown Historical Museum in this city|Detroit
+800|At Nordstrom's flagship store, I'll buy shoes so I can walk the Pacific Science Center in this city|Seattle
+1000|I'll stroll in Centennial Olympic Park in this city|Atlanta

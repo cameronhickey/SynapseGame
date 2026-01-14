@@ -1,0 +1,6 @@
+SHOW BIZ BOOKS
+200|\"Dear Alec" is a tribute to this actor at 75|Alec Guinness
+400|You can watch this CNN interviewer "Live!" or read his book "Tell Me More\"|Larry King
+600|This British singer tells all in "They Made a Monkee Out of Me\"|Davy Jones
+800|\"Henry V" star who called his 1989 memoir "Beginning\"|Kenneth Branagh
+1000|This actress chronicled her life with William Randolph Hearst in "The Times We Had\"|Marion Davies

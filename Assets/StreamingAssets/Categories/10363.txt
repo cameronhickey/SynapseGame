@@ -1,0 +1,6 @@
+EARTH
+200|As well as trash & absorbent pet material, it can also mean the organic surface layer of the forest floor|litter
+400|Formed at the Earth's surface, basalt is the extrusive type of this "Big 3" type of rock|igneous
+600|Heat rising from within the Earth is mostly from this type of decay of elements like uranium & thorium|radioactive decay
+800|Immense boulders in random & odd places were some of the first evidence that these "Ages" happened|Ice Ages
+1000|1 of the 3 Cs in the geological-period mnemonic "camels often sit down carefully—perhaps their joints creak...\"|Cretaceous (or Cambrian or Carboniferous)

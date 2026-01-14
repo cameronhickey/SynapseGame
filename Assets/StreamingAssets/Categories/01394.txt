@@ -1,0 +1,6 @@
+PROFESSIONS
+200|A cookbook is associated with chefs, but the term "cook the books" is associated with this profession|accountancy
+400|An etymologist studies the history of these|words
+600|Louis Agassiz, Charles William Beebe & Charles Darwin are classified as these; Darwin was the Beagle's|naturalists
+800|From Late Latin for "shopkeeper", it's an old term for a druggist|apothecary
+1000|Cars are driven by chauffeurs & these are driven by mahouts|elephants

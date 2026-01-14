@@ -1,0 +1,6 @@
+SAY, "WHAT"?
+200|Steve Allen created the question "Is it bigger than a breadbox?" on this long-running game show|What's My Line?
+400|During her almost 40-year career, Tina Turner has topped the pop charts only once, with this song|\"What's Love Got To Do With It\"
+600|Question preceding, "That which we call a rose by any other name would smell as sweet\"|What's in a name?
+800|Leonardo DiCaprio received an Oscar nomination for playing the mentally-disabled Arnie in this 1993 Johnny Depp film|What's Eating Gilbert Grape
+1000|Catchphrase often used by Russian-American comedian Yakov Smirnoff|\"What a country!\"

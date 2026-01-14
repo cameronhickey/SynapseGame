@@ -1,0 +1,6 @@
+ROYAL DYNASTIES
+200|England's Bloody Mary (1553-1558)|Tudor
+400|Mary, Queen of Scots (1542-1567)|Stuart
+600|France's Louis XVI (1774-1792)|Bourbon
+800|Spain's Philip II (1556-1598)|Hapsburg
+1000|China's Wanli (1572-1620)|Ming

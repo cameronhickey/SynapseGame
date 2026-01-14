@@ -1,0 +1,6 @@
+BRITISH ROYAL HOUSES
+200|Elizabeth II|Windsor
+400|Elizabeth I|Tudor
+600|Richard III|York
+800|James I|Stuart
+1000|George III|Hanover

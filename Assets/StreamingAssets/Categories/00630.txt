@@ -1,0 +1,6 @@
+PLUMBING
+200|Ancient Roman plumbing was made of this heavy metal, now a concern in our water supply|lead
+400|Emerson Electric owns In-Sink-Erator, a major manufacturer of these devices|a garbage disposal
+600|Drains need air to maintain flow, so they're connected to these outlets on the roof|vents
+800|If you're not connected to the city sewer system, your home will need this type of tank|septic
+1000|1.6 is today's standard maximum gpf, gallons per this event|a flush

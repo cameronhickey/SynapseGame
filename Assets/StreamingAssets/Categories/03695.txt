@@ -1,0 +1,6 @@
+FACIAL EXPRESSIONS
+200|Disgusting as it sounds, a watchful person "keeps" these "peeled\"|eyes
+400|When you're kidding, you're said to have your "tongue in" this — kind of hard to talk that way|cheek
+600|A sneer is defined by the raising or curling of this|the (upper) lip
+800|Blinding light, or a look that could kill if looks could kill|a glare
+1000|(Jimmy of the Clue Crew shows a change of face.) A 2008 study finds that a scared face enlarges the visual field to gather more information about a source of fear; that supports this man's 1872 theory that expressions are adaptations|Darwin

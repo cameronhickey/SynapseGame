@@ -1,0 +1,6 @@
+PEAS
+200|Recipes for split-pea soup often call for carrots, potatoes & this smoked meat|ham
+400|Peas & this "Peruvian" bean are great fresh vegetable sources of protein|lima beans
+600|Probably developed in Holland in the 16th c. & also called a sugar pea, it's a component of Chinese stir-fries|snow peas
+800|Peas belong to this large family of pod-bearing plants that includes alfalfa & peanuts|legumes
+1000|In England in 1787 Thomas Knight began breeding experiments with peas, 69 years before this Austrian monk|Mendel

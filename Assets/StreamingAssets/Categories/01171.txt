@@ -1,0 +1,6 @@
+YOUTH ORGANIZATIONS
+200|Model U.N. & Youth Government are 2 of the programs available at Ys, short for this organization|YMCA
+400|It's the emblem of the 4-H Clubs|4-leaf clover
+600|This high school program trains students for commission in the U.S. military reserves|ROTC
+800|Founded in 1919, it trains students in the free enterprise system|Junior Achievement
+1000|In 1949 its Youth League led by Oliver Tambo & Nelson Mandela gained control of the organization|African National Congress

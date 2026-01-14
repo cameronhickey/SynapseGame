@@ -1,0 +1,6 @@
+THE ANIMAL IN THE LOGO
+200|Twitter|a bird
+400|The WWF (the World Wildlife Fund)|a panda
+600|MSN (the Microsoft Network)|a butterfly
+800|Pocket Books, a division of Simon & Schuster|a kangaroo
+1000|Swarovski, maker of crystals|a swan

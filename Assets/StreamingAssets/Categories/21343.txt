@@ -1,0 +1,6 @@
+GLASSES
+200|This variety of sunglasses was modeled after goggles worn by early pilots|aviators
+400|Eyeglasses with 3 different vision powers built in for close-up, middle & distant viewing|progressive lenses (or trifocals)
+600|A style of metal-rimmed circular glasses is named after this rock musician|John Lennon (glasses)
+800|10-letter adjective for sunglasses that curve to also cover & protect your eyes from the side|wraparound
+1000|The LensCrafters online glossary lists anti-reflective & scratch-resistant as 2 types of this for lenses|coatings

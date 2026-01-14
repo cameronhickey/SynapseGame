@@ -1,0 +1,6 @@
+NAME THAT CONFLICT'S CENTURY
+200|The French & Indian War|the 18th
+400|The Battle of Waterloo|the 19th
+600|The English Civil War that brought Cromwell to power|the 17th
+800|The Spanish conquest of Mexico|the 16th
+1000|The Wars of the Roses|the 15th

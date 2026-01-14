@@ -1,0 +1,6 @@
+BROADWAY MUSICALS BY CHARACTERS
+200|Tevye, Golde, Yente|Fiddler on the Roof
+400|Fantine, Javert, Jean Valjean|Les Miserables
+600|Mrs. Potts, Belle, Gaston|Beauty and the Beast
+800|Bustopher Jones, Old Deuteronomy, Mistoffelees|Cats
+1000|Velma Von Tussle, Tracy Turnblad, Corny Collins|Hairspray

@@ -1,0 +1,6 @@
+ECONOMISTS
+200|Thorstein Veblen applied this man's theory of evolution to the modern industrial system|Darwin
+400|The Utilitarianism of Jeremy Bentham focused on this, "the pursuit of" which is our right in the Declaration of Independence|happiness
+600|David Ricardo said workers' attempts to raise these are futile; they will always stay at subsistence levels|wages
+800|This Scot's 1776 work contained 5 books, including "Of Systems of Political Economy\"|Adam Smith
+1000|In 1940 he published "How to Pay for the War" & in 1942 he was made a baron|(John Maynard) Keynes

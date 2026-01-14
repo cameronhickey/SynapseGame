@@ -1,0 +1,6 @@
+GET A JOB!
+200|From the Latin for "beard", it's someone who might trim your beard|a barber
+400|(Sofia is wearing some protective headgear.) Also called an appearex, it's the occupation that requires the safety equipment I'm wearing|a beekeeper
+600|It's not someone who tends to the skin of cabs, it's someone who stuffs & mounts animals|a taxidermist
+800|It was the day job of James Herriott, the author of "All Creatures Great and Small\"|a veterinarian
+1000|These public "officers" are certified to take depositions & certify documents|a notary

@@ -1,0 +1,6 @@
+THAT'S MY JOB
+200|Vintner|a winemaker
+400|Milliner|a hatmaker
+600|Terpsichorean|a dancer
+800|Apiculturist|a beekeeper
+1000|Metrist|a poet

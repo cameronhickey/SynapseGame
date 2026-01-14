@@ -1,0 +1,6 @@
+HELP!
+200|A plunger is also known as this workman's helper|Plumber
+400|In large quantities it's an explosive; in pill form it helps heart patients|Nitroglycerin
+600|A resident member of a hospital's medical staff, or an unpaid trainee|an intern
+800|With the assistance of Jonathan Harker, this literary character buys a property near London|Count Dracula
+1000|Before he wrote "Roots", Alex Haley helped write "The Autobiography of" this black leader|Malcolm X

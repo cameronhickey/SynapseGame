@@ -1,0 +1,6 @@
+HOUSE STANDING COMMITTEES
+200|There's a committee for this size of business|a small business
+400|Transportation & Infrastructure is one committee; this & Means, another|Ways
+600|There's a Permanent Select Committee on this headed by Porter Goss; how smart!|Intelligence
+800|The name of a small committee says it covers the "standards of official" this for House members|conduct
+1000|C.W. Bill Young has a tendency to pass out (money) as chairman of this committee|Appropriations

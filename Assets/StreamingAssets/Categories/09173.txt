@@ -1,0 +1,6 @@
+PRESIDENTS BY KIDS
+200|Abigail, John Q., Charles|John Adams
+400|John, Calvin|Calvin Coolidge
+600|Lynda, Luci|LBJ
+800|Fanny, Manning, Birchard|Rutherford B. Hayes
+1000|Abraham, Martin, John|Martin Van Buren

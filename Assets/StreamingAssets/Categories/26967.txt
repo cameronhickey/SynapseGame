@@ -1,0 +1,6 @@
+ALUMINUM
+200|In 1962 Alcoa introduced pull tabs & aluminum ends on these|cans
+400|In English-speaking countries other than the U.S., aluminum is called this|aluminium
+600|Cryolite, once used in making aluminum, is found in large quantities only on this large Danish island|Greenland
+800|This aluminum ore gets its name from Les Baux, France, where it was discovered|bauxite
+1000|1 of 2 elements more abundant than aluminum in the Earth's crust|silicon (or oxygen)

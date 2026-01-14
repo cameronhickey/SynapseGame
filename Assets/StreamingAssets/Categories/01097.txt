@@ -1,0 +1,6 @@
+THE PLANETS
+200|This planet's equatorial diameter is only about 400 miles less than Earth's|Venus
+400|In August 1989 this became the last planet visited by the Voyager 2 spacecraft|Neptune
+600|With the lowest density of any planet, it could float on water even without its "life ring\"|Saturn
+800|It's believed that this largest satellite of Neptune was captured by the planet, not created with it|Triton
+1000|The most distant planet that can be seen with the naked eye|Uranus

@@ -1,0 +1,6 @@
+LIT-POURRI
+200|This 1961 novel by Joseph Heller takes place on the island of Pianosa|\"Catch-22\"
+400|This lyrical drama by Percy Shelley takes license with Aeschylus' "Prometheus Bound\"|\"Prometheus Unbound\"
+600|This 18th c. novel has wordy chapter titles like "Containing a Conversation which Mr. Jones Had with Himself\"|Tom Jones
+800|Hughenden is not a typical author's home; this resident was British prime minister, an earl & a hugely popular writer|(Benjamin) Disraeli
+1000|This Irish-born Nobel Prize-winning playwright earned the Croix de Guerre for helping the French Resistance|Samuel Beckett

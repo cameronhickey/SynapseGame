@@ -1,0 +1,6 @@
+ANAGRAMS OF LEAST
+200|A list of candidates for election|a slate
+400|Yeah, he's fast, but can he hit? After all, "you can't" do this to "first base\"|steal
+600|\"Wayside Inn" stories, for example|tales
+800|Often used as a gravestone, it's an upright stone slab or column like this one|a stela
+1000|Scientific unit of measure for magnetic flux density|tesla

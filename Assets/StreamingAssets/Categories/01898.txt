@@ -1,0 +1,6 @@
+COUNTRY IN THE MIDDLE
+200|Costa Rica & Colombia|Panama
+400|France, Italy, Austria, Liechtenstein, Germany|Switzerland
+600|Turkey, Syria, Jordan, Saudi Arabia, Kuwait, Iran|Iraq
+800|Germany, Austria, Slovakia, Poland|the Czech Republic
+1000|Peru, Brazil, Paraguay, Argentina, Chile|Bolivia

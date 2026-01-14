@@ -1,0 +1,6 @@
+INAPPROPRIATE TEAM NAMES
+200|This NBA team name made sense when they were in Minnesota; they should now change their name to "The Smog\"|L.A. Lakers
+400|This NBA team name worked for New Orleans; they should now consider calling themselves the "Salt Lakers\"|Utah Jazz
+600|This MLB team was given its name because teams had to elude trolleys; since moving, they should be called "The Gridlocks\"|Los Angeles Dodgers
+800|In Atlanta this NHL team's fiery name harked back to Gen. Sherman; all Canadians should now call them "The Ice\"|Calgary Flames
+1000|This NBA team had that type of bear in Canada; now that they moved, they should be called "The Elvises\"|Memphis Grizzlies

@@ -1,0 +1,6 @@
+CALL ME MADAME
+200|She was Flaubert's first title character|Madame Bovary
+400|David Belasco's play formed only part of this Puccini opera|Madame Butterfly
+600|If she were alive today, she might wax philosophical about the London museum she opened in 1835|Tussaud
+800|Dickens' knit wit|Madame Defarge
+1000|In 1769 she succeeded Madame de Pompadour as Louis XV's mistress|(Madame) du Barry

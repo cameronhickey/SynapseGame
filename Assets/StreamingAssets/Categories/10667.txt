@@ -1,0 +1,6 @@
+MEASUREMENT
+200|One astronomical unit is about 93 million miles, the average distance between Earth & this|the Sun
+400|Found in Africa in 1905, the Cullinan Diamond was measured at 3,106 of these units|carats
+600|Number of half-inches in a yard|72
+800|There are 16 drams in an avoirdupois one & 2 tablespoons in a fluid one|an ounce
+1000|This unit of length used more in Europe than the U.S. is about 39.37 inches|the meter

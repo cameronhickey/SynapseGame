@@ -1,0 +1,6 @@
+THERE'S AN ANIMAL IN THAT PHRASE
+200|An adventure into the unknown: "Down the ____ hole\"|rabbit
+400|Begin a decline in quality: "Jump the ____\"|shark
+600|That's ridiculous & utter nonsense: "____ -&-____ story\"|cock & bull
+800|Angry like a certain insect: "Mad as a ____\"|a hornet
+1000|The losing party has gained control: "The ____ has turned\"|the worm

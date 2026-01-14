@@ -1,0 +1,6 @@
+TV TITLE PLACES
+200|Don't mess with LL Cool J: "NCIS: ___ ___\"|Los Angeles
+400|I knew him, Horatio, a lieutenant of infinite jest: "CSI ____\"|Miami
+600|Betty White was hot in 2010: "Hot in ___\"|Cleveland
+800|It premiered the day before "E.R.": "___ Hope\"|Chicago
+1000|Jason Lee as an Elvis-impersonating cop: "___ Beat\"|Memphis

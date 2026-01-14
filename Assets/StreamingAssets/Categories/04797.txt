@@ -1,0 +1,6 @@
+TECH BUSINESS & INDUSTRY
+200|It calls itself "The Document Company\"|Xerox
+400|Intuit Inc markets this program designed to speed up your personal finance planning|Quicken
+600|This phone company got wired for cable with its $53 billion purchase of TCI|AT&T
+800|U.S. Robotics & other companies developed this modem speed governed by the V.90 standard|56K
+1000|Linus Torvalds developed this upstart computer operating system that's usually available at no cost|Linux

@@ -1,0 +1,6 @@
+SWORDS
+200|At this 2-word command at the start of a fencing match, raise your sword toward your opponent|en garde
+400|If you're known for repartee, you have the type of "wit" named for this narrow-bladed sword|rapier
+600|An extinct "tiger" got its name from teeth that resembled this fencing sword|saber
+800|The swords the Romans & Vikings used had this quality which could probably work for them or against them|double-edged
+1000|The name of this highly curved, highly deadly sword comes from the Persian shamshir|scimitar

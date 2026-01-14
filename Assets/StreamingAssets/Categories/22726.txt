@@ -1,0 +1,6 @@
+CITY WORDS
+200|A capital Cuban cigar|a Havana
+400|A version of hold 'em poker where the player is dealt 4 cards|Omaha
+600|Jovan Musk is a popular brand—you smell good, man|Cologne
+800|Any gathering place that attracts devotees of a specific topic|Mecca
+1000|The protective care of God|Providence

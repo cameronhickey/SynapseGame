@@ -1,0 +1,6 @@
+LITERARY SELF-PORTRAITS
+200|Jo March|Louisa May Alcott ("Little Women")
+400|Stephen Daedalus|James Joyce ("A Portrait Of The Artist As A Young Man")
+600|Yuri Zhivago|Boris Pasternak ("Doctor Zhivago")
+800|Sal Paradise|Jack Kerouac ("On The Road")
+1000|Esther Greenwood|Sylvia Plath ("The Bell Jar")

@@ -1,0 +1,6 @@
+SHAKESPEAREAN 1ST LINES
+200|\"2 households both alike in dignity, In fair Verona where we lay our scene...\"|the first line of Romeo and Juliet
+400|\"Now is the winter of our discontent made glorious summer by this sun of York...\"|Richard III
+600|\"Who's there?" "Nay, answer me. Stand & unfold yourself.\"|Hamlet
+800|\"If music be the food of love, play on...\"|Twelfth Night
+1000|\"Now fair Hippolyta, our nuptial hour draws on apace...\"|A Midsummer Night's Dream

@@ -1,0 +1,6 @@
+ON THE SUBJECT
+200|He's the subject of the biography subtitled "The Man, the Genius, & the Theory of Relativity\"|Albert Einstein
+400|This French peasant girl was the subject of Tchaikovsky's opera "The Maid of Orleans\"|Joan of Arc
+600|This philosophical -ism is the subject of Sartre's classic "Being & Nothingness\"|Existentialism
+800|John Maynard Keynes put forward his theories on this Keynesian subject in "The General Theory of Employment, Interest & Money\"|economics
+1000|This was a popular subject for monastery dining halls; Leonardo da Vinci did one for Santa Maria delle Grazie, in Milan|the Last Supper

@@ -1,0 +1,6 @@
+DON'T BLANK ON THE MENU
+200|McDonald's: 4-piece Chicken ___|McNuggets
+400|Red Lobster: Hand-Battered ___ & ___|Fish & Chips
+600|Dunkin': Munchkins Donut ___|Holes
+800|Starbucks: Java Chip ___ Blended Beverage|a Frappuccino
+1000|Denny's: ___ ___ Slugger|Grand Slam

@@ -1,0 +1,6 @@
+BACK OF THE BOOK
+200|It's an alphabetical list of terms, names, & facts, along with the page numbers they appear on|index
+400|Related books you may also want to read on the same subject are provided in this source list|Bibliography
+600|In the back of a geometry book, you may find these lists of trigonometric ratios or square roots|Tables
+800|From the Latin for "difficult word", it's a list of words and their definitions|Glossary
+1000|It's the supplementary information put into the book after the initial publication|Addendum

@@ -1,0 +1,6 @@
+OPENING LINES OF SHAKESPEARE
+200|Chorus: "Two households, both alike in dignity, In fair Verona, where we lay our scene\"|Romeo and Juliet
+400|Roderigo: "Tush, never tell me; I take it much unkindly that thou, Iago...\"|Othello
+600|\"Now is the winter of our discontent made glorious summer by this sun of York\"|Richard III
+800|Knock knock! Barnardo: "Who's there?\"|Hamlet
+1000|A ship-master: "Boatswain!\"|The Tempest

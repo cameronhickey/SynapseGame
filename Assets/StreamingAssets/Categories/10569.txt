@@ -1,0 +1,6 @@
+LATIN LEXICON
+200|Not a Chicago band member's kin, it means "and so forth\"|et cetera
+400|An allowance for incidental costs, it means "for each day\"|per diem
+600|Innate knowledge not based on experience, its antonym is a posteriori|a priori
+800|A bishop's assurance that a book adheres to Catholic morals, this term now means approval in general|imprimatur
+1000|Literally "into the middle of things", it's how you describe a story that begins in the middle of the action|in medias res

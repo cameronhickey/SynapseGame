@@ -1,0 +1,6 @@
+FLYING MACHINES
+200|Now in the Smithsonian, "The Flyer" was their plane|Wright brothers
+400|You can see this plane with the world's largest wing span, 319' 11", in Long Beach, California|Spruce Goose
+600|The highest model number of Boeing aircraft currently in commercial use|767
+800|This name for an airship came from a Latin word meaning "to steer\"|dirigible
+1000|This British jet fighter can come to a standstill in midair & hover in one place|Harrier

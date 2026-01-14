@@ -1,0 +1,6 @@
+WASHINGTON, LINCOLN OR GEORGE W. BUSH
+200|Was born a British subject|Washington
+400|The tallest|Lincoln
+600|Lost the popular vote in a presidential election|Bush
+800|Went to Yale & Harvard|Bush
+1000|Received a patent|Lincoln

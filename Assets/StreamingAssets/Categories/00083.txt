@@ -1,0 +1,6 @@
+REPTILES
+200|The only reptiles with shells|turtles
+400|Boy George's karma camouflager|a chameleon
+600|Charmed, but not charming, it kills 10,000 in India each year|a cobra
+800|Greek for "terrible lizard", most were gentle vegetarians|dinosaur
+1000|In Tennessee Williams' play, it was his big night|an iguana

@@ -1,0 +1,6 @@
+DEFINITIONS OF LEGAL TERMS
+200|\"Latin, meaning 'you have the body"\'|habeas corpus
+400|Also the "Deadliest Catch" TV channel: "procedures used to obtain disclosure of evidence before trial\"|discovery
+600|Start of the alphabet: "a written or printed statement made under oath\"|an affidavit
+800|3 words: "the time within which a lawsuit must be filed\"|statute of limitations
+1000|\"Latin, meaning in a judge's chambers. Often means outside the presence of a jury and the public\"|in camera

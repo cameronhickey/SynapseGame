@@ -1,0 +1,6 @@
+WHO "E\"
+200|This ancient Greek is synonymous with the study of plane geometry|Euclid
+400|If you read the letters of this giant of 19th c. thought, you'll see the sign-off "Your affectionate brother, Waldo\"|Emerson
+600|Her 18 Grand Slam tennis singles titles include 7 French Opens & 6 U.S. Opens|(Chris) Evert
+800|He edited the second & third of the 3 volumes of "Das Kapital\"|Engels
+1000|The first African American to hold the post of U.S. Surgeon General, she served in 1993 & 1994|(Joycelyn) Elders

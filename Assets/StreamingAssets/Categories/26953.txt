@@ -1,0 +1,6 @@
+GENGHIS KHAN
+200|Genghis was a member of this tribe|the Mongol tribe
+400|For Genghis Khan it was Temujin|his real name
+600|This grandson of Genghis' founded the Yuan Dynasty|Kublai Khan
+800|In 1889 Russians found the ruins of Karakorum, which Genghis chose as this in 1220|his capital
+1000|Genghis' Pax Mongolica reopened this trade route that Marco Polo later used to get to China|the Silk Road

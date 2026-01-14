@@ -1,0 +1,6 @@
+WHERE ARE YOU "AT"?
+200|You ran the light & are liable for causing the accident, so you're said to be this|at fault
+400|You're no longer at attention, & are now permitted to scratch yourself|at ease
+600|You're out of patience, or in the position of a lassoed steer|at the end of your rope/at your rope's end
+800|You're being sold below cost, or you're perplexed|at a loss
+1000|You're helpless before someone; in his power|at his/her mercy

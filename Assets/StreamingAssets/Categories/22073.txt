@@ -1,0 +1,6 @@
+THE OCCUPATION OF FRANCE
+200|Coiffeur|hairdresser
+400|Bibliothécaire|librarian
+600|Hôtesse de l'air|flight attendant
+800|Écrivain|writer
+1000|Infirmière|nurse

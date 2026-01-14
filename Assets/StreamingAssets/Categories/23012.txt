@@ -1,0 +1,6 @@
+TOP OF THE BILL
+200|\"Saving Private Ryan", 1998: this actor, not Private Ryan|Tom Hanks
+400|\"The Godfather Part II", 1974: this actor who could have been nicknamed Fredo himself|Alfredo James Pacino
+600|\"Some Like It Hot", 1959: her|Marilyn Monroe
+800|\"The Princess Bride", 1987: this leading man whose name was not Inigo Montoya|Cary Elwes
+1000|\"Enter the Dragon", 1973: this martial arts legend|Bruce Lee

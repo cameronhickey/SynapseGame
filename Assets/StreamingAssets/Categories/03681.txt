@@ -1,0 +1,6 @@
+DASHES
+200|A 100-meter dash is the first event in this contest in which Dan O'Brien reigns supreme|the decathlon
+400|In his youth, this Yankee slugger who died in 1995 could go from home to first in 3.1 seconds|Mickey Mantle
+600|In the Olympics, you're guilty of this if you leave within .10 seconds of the gun going off|a false start
+800|In 1936 he got right in Der Fuhrer's face with an Olympic victory in the 100 meters|Jesse Owens
+1000|Pietro Mennea's record of 19.72 seconds at this distance stood from 1979 until Michael Johnson broke it in 1996|the 200-meter dash

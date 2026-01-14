@@ -1,0 +1,6 @@
+EAST & WEST
+200|It's the state immediately to the east of North Dakota|Minnesota
+400|It's the country immediately to the east of Haiti|the Dominican Republic
+600|It's the country immediately to the west of Egypt|Libya
+800|It's the province immediately to the west of Alberta|British Columbia
+1000|It's the state immediately to the west of South Australia|Western Australia

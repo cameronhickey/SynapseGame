@@ -1,0 +1,6 @@
+PARLEZ VOUS?
+200|If your mate from Marseilles says he's getting to LAX via "Sud-Ouest", pick him up at this carrier|Southwest
+400|Duck, duck, l'oie; (l'oie of course referring to this other feathered friend)|a goose
+600|\"Je ne sais pas" means this, but you still get credit if you phrase it in the form of a question|\"I don't know\"
+800|When mom tells you to do something "Maintenant!", she means this|now
+1000|\"Huitieme" is French for this ordinal number|eighth

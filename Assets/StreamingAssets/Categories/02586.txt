@@ -1,0 +1,6 @@
+ALL "AMERICAN\"
+200|\"Barrister" is a quarterly publication of this organization|American Bar Association
+400|The screenplay for this Gene Kelly - Leslie Caron musical was written by Alan Jay Lerner|An American in Paris
+600|In 2009 this organization that maintains the largest registry for purebred dogs celebrated its 125th anniversary|the American Kennel Club
+800|When Iowa farmers & their wives first saw this 1930 painting of a farm couple, many of them were downright angry|American Gothic
+1000|In 2009 the U.S. Mint issued a quarter for this territory featuring an ava bowl, a whisk & a coconut tree|American Samoa

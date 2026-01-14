@@ -1,0 +1,6 @@
+SHAKESPEARE, & I QUOTE
+200|\"Shake it off. Come on, we'll visit Caliban my slave, who never yields us kind answer\"|The Tempest
+400|\"You shall have me assisting you in all. But will you woo this wild-cat?\"|The Taming of the Shrew
+600|\"People and senators, be not affrighted; fly not; stand still: ambition's debt is paid\"|Julius Caesar
+800|\"His horse is slain, and all on foot he fights\"|Richard III
+1000|\"Why, there they are, both baked in this pie; whereof their mother daintily hath fed\"|Titus Andronicus

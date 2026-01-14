@@ -1,0 +1,6 @@
+METAFICTION
+200|\"The Wind Done Gone" re-envisions this novel from the viewpoint of a slave of Scarlett O'Hara's|Gone with the Wind
+400|J. M. Coetzee's novel "Foe" reimagines this novel, but with a woman shipwrecked on the deserted isle|Robinson Crusoe
+600|This 1922 novel recasts the hero of Homer's "Odyssey" as an ad salesman in 1904 Dublin|Ulysses
+800|This 1971 John Gardner work retells "Beowulf" from the perspective of the monster|Grendel
+1000|Jean Rhys' "Wide Sargasso Sea" tells the story of Bertha Mason, the madwoman locked in the attic in this Bronte work|Jane Eyre

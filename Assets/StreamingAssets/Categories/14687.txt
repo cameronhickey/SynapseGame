@@ -1,0 +1,6 @@
+COMBINED STATE ABBREV.
+200|To whom it may concern: Delaware + Arkansas|dear
+400|Dark: Indiana + Kentucky|inky
+600|A party: Georgia + Louisiana|gala
+800|Has a white face: Michigan + Maine|mime
+1000|Think of a bouquet: Florida + Oregon + Alabama|floral

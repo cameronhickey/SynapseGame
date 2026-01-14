@@ -1,0 +1,6 @@
+COLORFUL GEOGRAPHY
+200|National Park famous for faithful aquatic eruptions|Yellowstone
+400|Called the Schwarzwald, it's the deep dark woods of fairy tale fame|the Black Forest
+600|\"Of the North" usually follows the name of this river that forms the border between Minnesota and North Dakota|the Red River
+800|Wyoming's largest lake, it lies right in the middle of a national park|Yellowstone Lake
+1000|This capital of Canada's Northwest Territories was founded in 1935 after gold was discovered|Yellowknife

@@ -1,0 +1,6 @@
+CITY NICKNAMES
+200|Start spreading the news, Ol' Blue Eyes is off to this "Big Apple\"|New York City
+400|Make some room, this Midwest metropolis is the "City of the Big Shoulders\"|Chicago
+600|You may have left your heart in this "Baghdad by the Bay" city|San Francisco
+800|It's the "City Without Clocks" that's west of the Mississippi|Las Vegas
+1000|With its history, this Mass. city deserves its nickname as "America's Hometown", Pilgrim|Plymouth

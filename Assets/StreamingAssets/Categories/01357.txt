@@ -1,0 +1,6 @@
+SHIPS & BOATS
+200|We wonder how many miles the Spanish got to one of these 16th century treasure ships|a galleon
+400|It's a ship with no regular schedule that takes hauling jobs as it finds them|a tramp
+600|The Cutty Sark was built in 1869 to carry crates of this cargo from China|tea
+800|Thor Heyerdahl's Kon-Tiki wa made of balsa; his Ra II was made of this material|reeds (or papyrus)
+1000|It was the name of Aristotle Onassis' famous yacht|the Christina

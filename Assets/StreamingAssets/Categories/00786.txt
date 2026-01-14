@@ -1,0 +1,6 @@
+FAMOUS HOMES
+200|Pilaster House in Hannibal, Missouri|Mark Twain
+400|Beehive House in Salt Lake City, Utah|Brigham Young
+600|Glenmont in West Orange, New Jersey|Thomas Edison
+800|Beauvoir near Biloxi, Mississippi|Jefferson Davis
+1000|The Breakers in Newport, Rhode Island|Cornelius Vanderbilt

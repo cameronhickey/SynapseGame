@@ -1,0 +1,6 @@
+WORLD POLICE
+200|The star of the clue is the logo of this country's police force|Israel
+400|The London Metropolitan Police has licensed this "New" name on a forensics kit for kids|New Scotland Yard
+600|The Okhrana's function was to stifle leftist activity in this country, at least until 1917|Russia
+800|This Canadian police organization is famous for its musical ride of 32 officers on horseback|the Mounties
+1000|In 1991 the German government allowed access to personal files from this East German secret police force|the Stasi

@@ -1,0 +1,6 @@
+\"MOTHER", "FATHER", "SISTER", "BROTHER\"
+200|Though he had no biological kids of his own, George Washington is known by this paternal nickname|the Father of his Country
+400|Bearded codger carrying a scythe & an hourglass|Father Time
+600|Produced by certain mollusks, it's also known as nacre|the Mother of Pearl
+800|Your native language|mother tongue
+1000|In a Brecht play, she schleps through the 30 Years' War as her children are taken from her one by one|Mother Courage

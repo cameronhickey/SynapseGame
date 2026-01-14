@@ -1,0 +1,6 @@
+3 TO GET READY
+200|One of these poems is arranged in 3 lines of 5, 7 & 5 syllables|a haiku
+400|The hop & the step are the first parts of this track & field event|the triple jump
+600|On Columbus' first voyage, this one of a trio didn't make it back to Spain, having run aground off Hispaniola|the Santa Maria
+800|Of the 3 major varieties of rock, the type that limestone is|sedimentary
+1000|In England the only 3 kings of this name ascended in the 1100s, 1300s & 1400s|Richard

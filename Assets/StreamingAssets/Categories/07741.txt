@@ -1,0 +1,6 @@
+BRAND "X\"
+200|This blue glass cleaner was launched in 1936|Windex
+400|It's "The Document Company\"|Xerox
+600|This antianxiety medication not only ends in X, it also begins with it|Xanax
+800|Tearjerker movies on TNT are presented by this brand|Kleenex
+1000|This brand of scouring cleanser from Colgate-Palmolive shares its name with a mythological Greek warrior|Ajax

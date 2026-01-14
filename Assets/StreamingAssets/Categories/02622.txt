@@ -1,0 +1,6 @@
+CAPES
+200|The southernmost point in the continental U.S. is Cape Sable in this state|Florida
+400|This state's Cape Ann is the site of such resorts as Gloucester & Essex|Massachusetts
+600|No point on any continent is closer to Antarctica than this Chilean cape|Cape Horn
+800|Cape Morris Jesup on this Danish island was named for a pres. of the American Museum of Natural History|Greenland
+1000|Cape Campbell & Cape Palliser are on opposite sides of the Cook Strait in this country|New Zealand

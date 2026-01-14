@@ -1,0 +1,6 @@
+MOVIES BY QUOTE
+200|\"I am a nice shark, not a mindless eating machine... fish are friends, not food\"|Finding Nemo
+400|\"Spider-Pig, Spider-Pig. Does whatever a spider-pig does / Can he swing / From a web? / No, he can't / He's a pig\"|The Simpsons Movie
+600|\"How ironic, Tony. Trying to rid the world of weapons you gave it its best one ever... and now I'm gonna kill you with it\"|Iron Man
+800|\"Belief, Dr. Jones, is a gift you have yet to receive\"|Indiana Jones and the Kingdom of the Crystal Skull
+1000|\"I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955 it's a little hard to come by\"|Back to the Future

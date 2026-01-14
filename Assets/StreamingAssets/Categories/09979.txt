@@ -1,0 +1,6 @@
+EAGLE-EYED
+200|To score an eagle in golf is to score this many shots under par on a hole|two under par
+400|The symbol of this youth organization is an eagle superimposed on a stylized iris|the Boy Scouts
+600|In 1969 he commanded the "Eagle" lunar module|Armstrong
+800|The bald eagle became our national emblem in 1782 with the adoption of this "Great" object|the Great Seal
+1000|This constellation that features the star Altair is in the shape of an eagle with considerable wingspan|Aquila

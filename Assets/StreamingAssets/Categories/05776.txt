@@ -1,0 +1,6 @@
+\"C" BIRDS
+200|Bird associated with Aeneas Williams & Mark McGwire|Cardinal
+400|Encarta says its "two-note call has been invoked in many musical compositions as well as in... clocks\"|a cuckoo
+600|The Whooping species of this is on the endangered list|Crane
+800|Some of these flightless birds found in the forests of Australia have wattles like turkeys|cassowary
+1000|From Old French for "raven of the sea", these greedy, web-footed birds have a distensible neck pouch|Cormorants

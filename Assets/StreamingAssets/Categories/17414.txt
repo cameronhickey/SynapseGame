@@ -1,0 +1,6 @@
+BUILDING
+200|The elevators in this Paris landmark ascend on a curve|Eiffel Tower
+400|The sunburst spire of this art deco NYC skyscraper was hoisted into position after being assembled inside the building|the Chrysler Building
+600|This landmark on Salisbury Plain is an early example of post-&-lintel construction|Stonehenge
+800|Dick Bowser designed the unique tram system that takes visitors to the top of this St. Louis landmark|(Gateway) Arch
+1000|This amphitheater was built on the grounds of what was Nero's golden house|Colosseum

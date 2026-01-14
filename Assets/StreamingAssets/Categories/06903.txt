@@ -1,0 +1,6 @@
+GEOGRAPHIC "LAND"S
+200|This state is divided into 2 parts by Chesapeake Bay & the Susquehanna river, which flows into it|Maryland
+400|Most of this island's people are descended both from the Inuit & the Danes|Greenland
+600|Both Russia & Norway lie on its Russian border|Finland
+800|The city of St. John's is the center of this Canadian province's only metropolitan area|Newfoundland
+1000|In this south African kingdom, the king's mother is in charge of national rituals|Swaziland

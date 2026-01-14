@@ -1,0 +1,6 @@
+ANTIBIOTICS
+200|Wycillin is a trade name for this moldy oldie of antibiotic agents|penicillin
+400|Antibiotics don't work against viruses; they do work against these, like the tubercle bacillus|bacteria
+600|Cefamandole is used to treat this inflammation of a membrane of the abdominal wall caused by a ruptured appendix|peritonitis
+800|While using metronidazole, do not consume this unless you enjoy cramps, headaches & profuse sweating|alcohol
+1000|This antibiotic often used to treat acne was discovered in 1948|tetracycline

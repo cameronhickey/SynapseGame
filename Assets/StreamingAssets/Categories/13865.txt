@@ -1,0 +1,6 @@
+WHERE'S THAT DARN TRAIN?
+200|Its stopping distance is exactly 1 of these, so if the engineer sees you tied to the tracks 5,281' away, you're fine|a mile
+400|On a 1,000-yard hill it made it 9/10 of the way up & slid back to the bottom; it has traversed this much ground|1800 yards
+600|The original 50-day repair estimate has been exceeded by 50%, so it's been in the repair yard this long now|75 days
+800|Going 60 mph, it's on a 2-hour run from Pottsville to Scottsville; at Knottsville, 3/4 of the way there, it's gone this far|90 miles
+1000|Yesterday it chugged the 5-mile diameter of the island: today it's doing this, 15.71 miles|the circumference

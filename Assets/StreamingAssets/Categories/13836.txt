@@ -1,0 +1,6 @@
+PHYSICS QUIZ
+200|In air at a temperature of 32 degrees Fahrenheit, it travels 1,087 feet per second|sound
+400|When this man developed his temperature scale in 1742, he set it where water boils at 0 & freezes at 100 degrees|Celsius
+600|(Kelly of the Clue Crew drops a cork and a glass marble into two separate bowls of water.) If an object floats, it displaces water equal to its mass; if it sinks, it displaces water equal to this|its volume
+800|Alliterative term for the state of a body in midair acted on by nothing but gravity|free-falling
+1000|Named for the British physicist, Hawking radiation is a weak force emitted by these|black holes

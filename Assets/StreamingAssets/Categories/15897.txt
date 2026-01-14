@@ -1,0 +1,6 @@
+.gov
+200|Information for first responders & links regarding cybersecurity are found at dhs.gov, this department|Department of Homeland Security
+400|Its .gov website says it "regulates interstate and international communications by radio, television... satellite & cable\"|FCC
+600|In 2011 the site for this volunteer org. touted its "50 years of promoting... friendship around the world\"|the Peace Corps
+800|bia.gov is the site for this bureau established in 1824, the oldest in the Interior Department|the Bureau of Indian Affairs (Bureau for Indian Affairs accepted)
+1000|It's the "nw" in nwtrb.gov, overseeing the Department of Energy's disposal of high-level this|nuclear waste

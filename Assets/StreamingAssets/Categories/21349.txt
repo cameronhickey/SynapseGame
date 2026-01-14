@@ -1,0 +1,6 @@
+COASTLINES
+200|This South American country has about 4,600 miles of Atlantic coastline|Brazil
+400|Cities along this U.S. state's ocean coast include Astoria & Brookings|Oregon
+600|This nation's 2,100-mile coastline extends from the Gulf of Thailand to the Gulf of Tonkin|Vietnam
+800|This nation takes its name from the Latin Mare Erythraeum, meaning "Red Sea", the body of water the nation borders|Eritrea
+1000|It's the only Central American country without a coastline on the Pacific Ocean|Belize

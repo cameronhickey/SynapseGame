@@ -1,0 +1,6 @@
+CRAC
+200|AAMOF equals "As a matter of" this|Fact
+400|If you're feeling smiley, send HAND, "Have" this|A Nice Day
+600|You can sign off with TTFN, this "for now\"|Ta Ta
+800|The suggestion RTM means "read" this|the manual
+1000|Some advice comes with IANAL, "I am not" this professional|A Lawyer

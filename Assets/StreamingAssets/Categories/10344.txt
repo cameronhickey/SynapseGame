@@ -1,0 +1,6 @@
+COLLEGE "N" SHOTS
+200|7 priests of the Congregation of Holy Cross are on this university's board of trustees|Notre Dame
+400|This Big 10 member was the first U.S. university to establish a school of speech|Northwestern
+600|This Midwestern school won national football championships in 1970, '71, '94, '95 & '97|the University of Nebraska
+800|Bob Kerrey never became U.S. president, but he is president of this school for social research in the Big Apple|the New School
+1000|Author John Irving is an alum of this university; the state's name appears in the title of one of his books|New Hampshire

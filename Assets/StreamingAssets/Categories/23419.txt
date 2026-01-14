@@ -1,0 +1,6 @@
+WE LOOK DOWN ON THAT STATE
+200|Utah sits directly atop this state|Arizona
+400|Vermont is north of the western part of this state|Massachusetts
+600|A big chunk of South Dakota is upstairs from it|Nebraska
+800|Most of Virginia's southern border lies along this state|North Carolina
+1000|Kansas is directly north of this state|Oklahoma

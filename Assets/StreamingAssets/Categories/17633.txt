@@ -1,0 +1,6 @@
+EAR, NOSE OR THROAT
+200|____lobe|ear
+400|Strep ____|throat
+600|Pug ____|nose
+800|Tylenol Cold Sore ____|Throat
+1000|Bend someone's ____|ear

@@ -1,0 +1,6 @@
+TRICKY NUMBERS
+200|Number of months with 28 days|12
+400|The highest single-digit number that reads the same upside down & right side up|8
+600|The number of stars on the U.S. flag divided by the number of U.S. states not in North America|50 (50÷1 (Hawaii))
+800|Temperature in degrees Fahrenheit equal to -40 degrees Celsius|-40° Fahrenheit
+1000|If you were to spell out the numbers, it's how far you'd have to go before using the letter A|one thousand

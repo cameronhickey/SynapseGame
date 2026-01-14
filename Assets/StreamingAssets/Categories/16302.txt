@@ -1,0 +1,6 @@
+THE "B"-GINNING & END OF THE COUNTRY
+200|A Central American country: Ends with E|Belize
+400|The equator crosses it: ends with L|Brazil
+600|Bordering Croatia: ends with A|Bosnia
+800|A Mideast island kingdom: ends with N|Bahrain
+1000|Average elevation about 8,000 feet: ends with N|Bhutan

@@ -1,0 +1,6 @@
+LAST LINE OF A SHAKESPEARE ACT
+200|Act II of this play ends, "My Regan counsels well; come out o' the storm\"|King Lear
+400|This title character declares, "He shall have every day a several greeting, or I'll unpeople Egypt\"|Cleopatra
+600|Act I of this play concludes with, "The motion's good indeed and be it so, Petruchio, I shall be your Ben Venuto\"|The Taming of the Shrew
+800|Fortinbras ends act V & this play with "Go, bid the soldiers shoot\"|Hamlet
+1000|Stephano tells him, "O brave monster! Lead the way\"|Caliban

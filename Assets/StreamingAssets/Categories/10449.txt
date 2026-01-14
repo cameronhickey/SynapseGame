@@ -1,0 +1,6 @@
+BRANDO
+200|\"Family" man Don Vito Corleone|The Godfather
+400|Terry Malloy, who could've been a contender|On the Waterfront
+600|Blanche's brother-in-law Stanley|A Streetcar Named Desire
+800|Col. Kurtz, who lives in the heart of darkness|Apocalypse Now
+1000|Johnny, leader of the Black Rebels|The Wild One

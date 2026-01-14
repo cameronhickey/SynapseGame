@@ -1,0 +1,6 @@
+COUNTRY NICKNAMES
+200|It's "America's Hat\"|Canada
+400|Some call it "Kiwiland\"|New Zealand
+600|Italy is "Lo Stivale", meaning this|the boot
+800|This is "India's Teardrop\"|Sri Lanka
+1000|\"The Bread Basket of Europe", it stretches from Uzhgorod to Luhansk|the Ukraine

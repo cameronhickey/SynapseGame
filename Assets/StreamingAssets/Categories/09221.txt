@@ -1,0 +1,6 @@
+WHAT'S MY LINE
+200|\"I will honor Christmas in my heart, and try to keep it all the year\"|(Ebenezer) Scrooge
+400|\"I want to be a lady in a flower shop stead of sellin at the corner of Tottenham Court Road\"|Eliza Doolittle
+600|\"Chief among these motives was the overwhelming idea of the great whale himself\"|Ishmael
+800|\"How all occasions do inform against me and spur my dull revenge!\"|Hamlet
+1000|\"When you have eliminated the impossible, whatever remains, however improbable, must be the truth\"|Sherlock Holmes

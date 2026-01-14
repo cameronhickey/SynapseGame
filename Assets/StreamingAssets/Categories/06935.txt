@@ -1,0 +1,6 @@
+GET YOUR FACTS STRAIGHT
+200|Ramen is a noodle; the Ramayana is an epic poem of India composed in this ancient language|Sanskrit
+400|Accra is the capital of Ghana; Agra, home to the Taj Mahal, is southeast of this capital of India|New Delhi
+600|Byron Nelson won the PGA championship in 1945; this Nelson helped win the Battle of Cape St. Vincent in 1797|Admiral Nelson
+800|Saxifrage is used in rock gardens; this plant's root was the original root in root beer|Sassafras
+1000|Fort Dix is an Army Reserve training center; this Dix was a social reformer in the 1840s|Dorothea Dix

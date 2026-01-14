@@ -1,0 +1,6 @@
+ELEMENT & STATE
+200|Al (AL)|aluminum & Alabama
+400|Ne (NE)|Neon & Nebraska
+600|Ar (AR)|Argon & Arkansas
+800|Mn (MN)|Manganese & Minnesota
+1000|In (IN)|indium & Indiana

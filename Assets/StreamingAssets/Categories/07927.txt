@@ -1,0 +1,6 @@
+AT THE DRUGSTORE
+200|It seems your doctor has prescribed Lunesta; you must have trouble doing this|sleeping
+400|One-A-Day & Centrum are 2 of the brands of these you'll find on the shelves|multivitamins
+600|When it comes to cotton swabs, it's the No. 1 brand; there are even antibacterial ones|Q-tips
+800|This product from Cutex comes in several varieties including non-acetone|nail polish remover
+1000|Prilosec & Prevacid are 2 of the medications available for treating GERD, or gastroesophageal this disease|reflux

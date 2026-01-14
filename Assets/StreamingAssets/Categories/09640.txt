@@ -1,0 +1,6 @@
+CITY OF BIRTH
+200|Bill Gates|Seattle
+400|The controversial Ahmed Chalabi|Baghdad
+600|Jerry Garcia|San Francisco
+800|Mad magazine illustrator James Warhola|Pittsburgh
+1000|Arianna Huffington|Athens, Greece

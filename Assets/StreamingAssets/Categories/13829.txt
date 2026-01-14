@@ -1,0 +1,6 @@
+PHONING IT IN
+200|It's an operator-assisted call in which charges are paid by the receiving party|a collect call
+400|This hyphenated adjective refers to a phone call requiring no additional fee beyond the basic service charge|toll-free
+600|Often used in business, it's a multi-person call involving 3 or more phone lines|a conference call
+800|Reflecting the company's activities at its founding in 1885, it was the second "T" in AT&T|Telegraph
+1000|To dial international numbers from the U.S., begin with this 3-digit prefix|011

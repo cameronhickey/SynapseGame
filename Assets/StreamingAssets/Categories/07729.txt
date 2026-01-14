@@ -1,0 +1,6 @@
+MALAMUTE, HUSKY OR SEA OTTER
+200|A clothing size for big kids|husky
+400|Once nearly hunted to extinction, they're found in Northern Pacific coastal waters|sea otters
+600|The name of this Eskimo group means "man living in the place where there are big waves\"|Malamute
+800|It's the mascot of the University of Washington's athletic teams|Huskies
+1000|This species stays frisky & healthy on a diet of mostly mollusks & sea urchins|sea otters

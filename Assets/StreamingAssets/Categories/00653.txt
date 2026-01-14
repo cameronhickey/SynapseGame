@@ -1,0 +1,6 @@
+LAKES
+200|Lake Ladoga, about 25 miles east of St. Petersburg, is this continent's largest lake|Europe
+400|This lake that forms the boundary between New York & Vermont is named for its 1609 discoverer|Lake Champlain
+600|In the 1950s Owen Falls Dam in Uganda was built on the Nile, raising the level of this lake 3 feet|Lake Victoria
+800|At 350 miles, it's the longest of the Great Lakes|Superior
+1000|German-speaking Swiss call it Vierwaldstatter See, or "Lake of Four Forest Cantons\"|Lake Lucerne

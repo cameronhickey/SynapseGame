@@ -1,0 +1,6 @@
+ALSO A COLOR
+200|Area where the pin is a marker for the hole|the green
+400|Communist|red
+600|Indecent|blue
+800|In the 17th century Frederick Henry, Count of Nassau, was also called the Prince of this|Orange
+1000|Before "Burbank" in a high-starch, fluffy potato|russet

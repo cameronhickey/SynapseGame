@@ -1,0 +1,6 @@
+ASSASSINS
+200|Sirhan B. Sirhan|Robert Kennedy
+400|James Earl Ray|Martin Luther King
+600|Tillius Cimber, Decimus, Casca & others|Julius Caesar
+800|Mark David Chapman|John Lennon
+1000|Serbian nationalist Gavrilo Princip|Archduke Ferdinand

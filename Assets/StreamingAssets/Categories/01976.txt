@@ -1,0 +1,6 @@
+MEDICAL TERMS
+200|It's a drug that causes a temporary loss of sensation; novocain is a "local" one|anesthetic
+400|It's a synonym for gingiva|gums
+600|When a woman's basal body temperature rises, it's normally a sign that this has just occurred|ovulation
+800|It's the network of nerve fibers & ganglia at the upper part of the back of the abdomen|solar plexus
+1000|This branch of medicine is concerned with the musculoskeletal system|orthopedics

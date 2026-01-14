@@ -1,0 +1,6 @@
+WAR POETRY
+200|Herman Melville's "Shiloh: a Requiem\"|the Civil War
+400|William Cullen Bryant's "The Green Mountain Boys\"|the Revolutionary War
+600|Robert Bly's "At a March Against" this war|Vietnam
+800|Dylan Thomas' "A Refusal to Mourn the Death, by Fire, of a Child in London\"|World War II
+1000|Quintus Smyrnaeus' "Posthomerica\"|the Trojan War

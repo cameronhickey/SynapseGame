@@ -1,0 +1,6 @@
+1 WORD, 2 MEANINGS
+200|To recline indolently, or a public sitting room in a hotel|lounge
+400|To toss a ball, or to promote a product|pitch
+600|A sovereign, or a straightedge|a ruler
+800|One book of a series, or sound intensity|volume
+1000|A cord used to ignite an explosive, or to blend by melting together|fuse

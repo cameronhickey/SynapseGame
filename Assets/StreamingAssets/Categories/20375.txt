@@ -1,0 +1,6 @@
+STREAMING EPISODES
+200|\"Mindy and Nanny" & "Hot Mess Time Machine\"|The Mindy Project
+400|\"Windsor" & "Gloriana\"|The Crown
+600|\"Horse Majeure" & "One Trick Pony\"|BoJack Horseman
+800|\"Offred" & "Birth Day\"|The Handmaid's Tale
+1000|\"Tape 1, Side A" & "Tape 7, Side A\"|13 Reasons Why

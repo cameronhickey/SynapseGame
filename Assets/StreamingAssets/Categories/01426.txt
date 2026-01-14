@@ -1,0 +1,6 @@
+STADIUMS & ARENAS
+200|With a capacity of 240,000, the Strahov Stadium in this Czech capital is the world's largest|Prague
+400|This Mets stadium was one of the first whose seats could be moved depending on the sport|Shea Stadium
+600|Check out El Birdos Cantina at this St. Louis ballpark|Busch Stadium
+800|It's home to the Minnesota Vikings & to the University of Minnesota Golden Gophers|the Metrodome
+1000|The Super Bowl with the highest TV rating was No. XVI in 1982, held in this Michigan stadium|the Silverdome

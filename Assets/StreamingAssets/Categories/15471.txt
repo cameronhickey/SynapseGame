@@ -1,0 +1,6 @@
+FORM LETTERS
+200|The simplest version of IRS Form 1040 adds these 2 letters|E-Z
+400|To get the 411, submit an eFOIA (Freedom of Information Act) form to this Justice Dept. main investigative body|the FBI
+600|In form VA4962, Verification of Eligibility for Burial in a National Cemetery, VA is this Cabinet department|Veterans Affairs
+800|302-AM is an application for a broadcast station license with this agency|the FCC
+1000|These 3 letters refer to a Cabinet department & precede 30106 in a sample move in/move out inspection form|H.U.D.

@@ -1,0 +1,6 @@
+CAPTAINS
+200|Captain of the Jolly Roger & enemy of Peter Pan|Captain Hook
+400|Christopher Plummer played this "Sound of Music" patriarch|the (Captain) Baron von Trapp
+600|Some believe this legendary English pirate's treasure is yet to be found|Captain Kidd
+800|He discovered Australia, New Zealand & Hawaii|Captain Cook
+1000|Walt Whitman poem lamenting Lincoln's death|\"O Captain! My Captain!\"

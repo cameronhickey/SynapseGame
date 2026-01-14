@@ -1,0 +1,6 @@
+\"FRONT" & "BACK\"
+200|The political candidate who's leading in the polls|frontrunner
+400|The Romans played a game called ludus duodecim scriptorum that was virtually identical to this board game|backgammon
+600|(Kelly of the Clue Crew demonstrates.) It's the term for illuminating someone to give greater separation between the person & what's behind them|backlighting
+800|Junior legislators in Britain's House of Commons get this nickname from where they sit|backbenchers
+1000|Ben Hecht co-wrote this classic newspaper play that became the movie "His Girl Friday\"|Front Page

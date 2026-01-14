@@ -1,0 +1,6 @@
+BASIC MATH TERMS
+200|Adjective for an angle of less than 90 degrees|acute
+400|Though this vertical line is a basis of the Cartesian coordinate system, Descartes never heard of it|the y-axis
+600|It's a mathematical expression consisting of 2 parts, as in 2b + 3a|a binomial
+800|The result of a basic operation, it's from the Latin for "how many times\"|a quotient
+1000|From the Greek for "four-sided", it's a geometric solid made up of 4 triangular plane faces|a tetrahedron

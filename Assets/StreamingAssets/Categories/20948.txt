@@ -1,0 +1,6 @@
+THE ITALIAN JOB
+200|Cuoco|cook
+400|Prete|a priest
+600|Fornaio or Panettiere|baker
+800|Marinaio|sailor
+1000|Pittore—Italy has produced many famous ones|painter

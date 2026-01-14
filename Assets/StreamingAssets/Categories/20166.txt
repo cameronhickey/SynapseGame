@@ -1,0 +1,6 @@
+BIG TEN SCHOOLS
+200|Gopher it! This university was established in 1851 in 2 neighboring cities|the University of Minnesota
+400|In 1864 this school became New Jersey's land-grant college; 60 years later, it assumed university status|Rutgers
+600|Rahm Emanuel, George R.R. Martin & Seth Meyers found "direction" at this university|Northwestern University
+800|The Rare Isotope Measurement Laboratory & the Center for Paralysis Research are at this U. in West Lafayette|Purdue
+1000|Founded in 1820, this university boasts the Kinsey Institute for Research in Sex, Gender & Reproduction|Indiana

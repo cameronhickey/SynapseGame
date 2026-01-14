@@ -1,0 +1,6 @@
+\"AL" WORDS FROM ARABIC
+200|It's a small recess in a wall or room|an alcove
+400|It's from Arabic for "calendar" & the first one printed in America was "for New England for the year 1639\"|an almanac
+600|It will neutralize an acid & it's from Arabic for "the ashes\"|alkaline
+800|This plant is widely cultivated as feed, but can also be found growing wild|alfalfa
+1000|A set of rules to be followed in computer calculations, it comes from the name of a 9th century mathematician|algorithm

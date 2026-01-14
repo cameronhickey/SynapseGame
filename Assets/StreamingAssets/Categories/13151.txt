@@ -1,0 +1,6 @@
+GOOD "BI\"
+200|Occurring twice a year|biannual
+400|This dual sports event was first included in the Winter Olympics in 1960|a biathlon
+600|Geographic description of a firm with offices in L.A. & New York|bicoastal
+800|The 47th U.S. vice president|Biden
+1000|An expression such as 5x + 3y|binomial

@@ -1,0 +1,6 @@
+WAITER!
+200|To get us started, a serving of this dish named for an oilman: oysters topped with spinach & then baked|Oysters Rockefeller
+400|Waiter, we'd like 2 services of this chilled cream-potato-leek soup|vichyssoise
+600|To heat up my chilly bones, bring out a large bottle of this warmed & fermented rice drink from Japan|sake
+800|I'm in the mood for a little Italian: how 'bout an order of anitra all'aranci, this fowl cooked in orange sauce|duck
+1000|For dessert, bring me some of this apple-filled rolled pastry whose name is from the German for "whirlpool\"|strudel

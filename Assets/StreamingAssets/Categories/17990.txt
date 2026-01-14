@@ -1,0 +1,6 @@
+WHAT DO YOU WANT ON YOUR PIZZA?
+200|Seasoned with the black & red spice in its name, this Italian salami is also an appetizer|pepperoni
+400|Many forms of wild these are poisonous, but puffball & shiitake are okay to chow down|mushrooms
+600|Andouille is this meat product of which you could say that's the wurst|sausage
+800|On Newman's Own Four Cheese, the quartet is mozzarella, cheddar, asiago & this popular cheese|parmesan
+1000|The "true" type of this small, silvery & salt-cured fish comes only from the Mediterranean & nearby waters|anchovy

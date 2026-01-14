@@ -1,0 +1,6 @@
+FROM "RAG"s
+200|Asuncion is its capital & largest city|Paraguay
+400|One who dawdles or falls behind|a straggler
+600|4-winged predatory insect of the order Odonata|a dragonfly
+800|Newport & Providence are cities on the shores of this bay|Narragansett
+1000|Philosophic theory promoted by William James in the early 1900s|pragmatism

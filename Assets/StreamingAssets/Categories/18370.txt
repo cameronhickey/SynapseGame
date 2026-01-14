@@ -1,0 +1,6 @@
+STEM
+200|This classical field of physics consists of kinematics & dynamics, not auto repairmen|mechanics
+400|Be polite & give us the name of this engineering branch that specializes in the design & creation of public works|civil engineering
+600|This ancient Greek's "Elements" was a pivotal text in the development of geometry|Euclid
+800|Texas Tech has a department devoted to this engineering branch that focuses on the exploitation of oil & gas reserves|petroleum engineering
+1000|Fibonacci knew this number was next in the sequence 1, 1, 2, 3, 5, 8... how 'bout you?|13

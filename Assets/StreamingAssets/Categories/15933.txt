@@ -1,0 +1,6 @@
+BASEBALL TEAMS BY STADIUM
+200|Fenway Park|the Boston Red Sox
+400|Wrigley Field|the Chicago Cubs
+600|Coors Field|the Colorado Rockies
+800|Turner Field|the Atlanta Braves
+1000|Tropicana Field|the Tampa Bay Devil Rays (Tampa Rays accepted)

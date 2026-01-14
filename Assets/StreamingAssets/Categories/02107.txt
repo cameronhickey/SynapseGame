@@ -1,0 +1,6 @@
+POLYNESIA
+200|Polynesians still use the dugout type of this vessel|Canoe
+400|Ethnological descriptions of Polynesia include this country because the Maori are Polynesian|New Zealand
+600|The word Polynesia means this|\"many islands\"
+800|Swains Island, part of this unincorporated U.S. territory, is privately owned|American Samoa
+1000|This nation is ruled by a king & a 30-member legislative assembly|Tonga

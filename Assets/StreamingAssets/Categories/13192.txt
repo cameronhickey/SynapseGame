@@ -1,0 +1,6 @@
+HOLMES, SHERLOCK HOLMES
+200|Holmes figures out the killer in "Black Peter" must be strong—the victim is "pinned like a beetle" by this whaling weapon|a harpoon
+400|Gregson, Lestrade, Hopkins & Jones isn't a law firm; they're guys who sought Holmes' help for this "national" agency|Scotland Yard
+600|In "The Adventure of the Speckled Band", Holmes figures out that the title killer is one of these deadly creatures|a snake
+800|In "The Musgrave Ritual", Holmes recovers the lost crown of this king deposed in 1649|Charles I
+1000|This kindly landlady was first mentioned in the second Holmes story, "The Sign of the Four\"|Mrs. Hudson

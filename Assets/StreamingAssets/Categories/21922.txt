@@ -1,0 +1,6 @@
+FROM THE NO. 1 ALBUM
+200|1992: "Drain You", "Lithium\"|Nevermind
+400|1995: "Ironic", "You Oughta Know\"|Jagged Little Pill
+600|1977: "Second Hand News", "You Make Loving Fun\"|Rumours
+800|2015: "Hello", "When We Were Young\"|25
+1000|1967: "Getting Better", "Within You Without You\"|Sgt. Pepper's Lonely Hearts Club Band

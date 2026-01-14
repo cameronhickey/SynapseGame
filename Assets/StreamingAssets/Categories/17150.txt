@@ -1,0 +1,6 @@
+THAT'S THE STORY
+200|This type of story's name says it all—which character committed the murder?|a whodunnit
+400|A parable is a short story with a moral, like the one Jesus told about this unlikely savior in Luke 10|the good Samaritan
+600|In Italian it's any tale, & can also mean news; in English it's a longish story, like "The Turn of the Screw\"|a novella
+800|Though its name harks back to medieval times, this genre of mystery & terror thrived from 1790 to 1820|gothic novel
+1000|This adjective follows "penny" in a term for a cheap lurid novel of 19th century England|dreadful

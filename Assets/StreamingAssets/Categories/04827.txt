@@ -1,0 +1,6 @@
+KUNG FU
+200|Kung fu uses colored sashes rather than belts to indicate this|Level/rank
+400|A major style of kung fu is named for this contemplative insect|Praying mantis
+600|It's said Bodhidharma taught kung fu to these men at China's Shaolin Temple|Buddhist monks/priests
+800|Of Wing Chun, Hoi Sin or Hung Gar, the one that's not a popular style of kung fu|Hoi Sin
+1000|The philosophy of Shaolin kung fu combines Buddhism with this system taught by Lao-Tzu|Taoism

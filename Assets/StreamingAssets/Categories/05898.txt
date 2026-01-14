@@ -1,0 +1,6 @@
+\"F" IN GEOGRAPHY
+200|Major cities in this European nation include Vaasa, Maarianhamina & Helsinki|Finland
+400|Doncha know this city on the Red River is the largest city in North Dakota|Fargo
+600|It's the numeric name for the locality where the borders of Utah, Colorado, New Mexico & Arizona meet|the Four Corners
+800|This city 30 miles west of Dallas was an important stop along the Chisholm Trail|Fort Worth
+1000|In the 1980s Argentina & Great Britain fought a war over these South American islands|the Falklands

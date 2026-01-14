@@ -1,0 +1,6 @@
+STATES BY SUPER-SENATOR
+200|Casey Fetterman|Pennsylvania
+400|Kelly Sinema|Arizona
+600|Cruz Cornyn|Texas
+800|Ernst Grassley|Iowa
+1000|Britt Tuberville|Alabama

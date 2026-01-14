@@ -1,0 +1,6 @@
+\"STATE" NAMES
+200|This playwright didn't use his home state of Mississippi for his pen name|Tennessee Williams
+400|Mrs. Naugatuck replaced this maid on "Maude\"|Florida
+600|\"The Carpetbaggers" character who sequeled into a film of his own with Steve McQueen|Nevada Smith
+800|Champ whom Eddie Felson hustled in "The Hustler\"|Minnesota Fats
+1000|Western star famous for rope tricks & Rose Parade appearances|Montie Montana

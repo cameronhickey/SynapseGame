@@ -1,0 +1,6 @@
+TALLEST, LONGEST, WIDEST, DEEPEST
+200|It's the tallest living creature with wings|ostrich
+400|This river reaches its widest point, about 4 miles, near Clinton, Iowa|Mississippi River
+600|The widest possible split in bowling is between these 2 pins in the back row|7 & 10
+800|One of the 3 states with 13 letters in their names|(1 of 3) Massachusetts, North Carolina or South Carolina
+1000|At about 25,000 feet down, the Cayman Trench is the deepest part of this sea|Caribbean Sea

@@ -1,0 +1,6 @@
+VERTEBRATES
+200|In the N. American species of this mammal, there are hundreds of microscopic barbs at the end of each quill|the porcupine
+400|Known as a whooper, it's the tallest North American bird, reaching a height of nearly 5 feet|a whooping crane
+600|When rainbow species of this migrate to the sea, their color changes to silver; they're then called steelheads|trout
+800|The golden species of this small rodent is often sold as a pet because it's clean & easy to care for|a hamster
+1000|The Yapok, a species of this native to Central & South America, is the only marsupial adapted to living in water|an opossum

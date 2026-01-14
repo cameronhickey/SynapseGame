@@ -1,0 +1,6 @@
+STARTS WITH "L\"
+200|The one of two evils you should pick|the lesser
+400|A body of water surrounded by land|a lake
+600|Judge Roy Bean named a Texas town for this Gay '90s British actress|Lillie Langtry
+800|Used as a watchdog because of its acute hearing, this breed started in Tibet over 800 yrs. ago|Lhasa Apso
+1000|From Old German for "coarse cloth", this color is often a grayish green|loden green

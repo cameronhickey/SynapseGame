@@ -1,0 +1,6 @@
+AIRPORT ATTRACTIONS
+200|In an ex-terminal, designed by Eero Saarinen, the TWA Hotel has 500-plus ultra-quiet rooms with views of this airport's runway|Kennedy Airport
+400|Here's the 25-ton yellow submarine that docked at John Lennon Airport in 2005, in this city where it all began|Liverpool
+600|The "Spirit of Haida Gwaii", the jade canoe greets you at the airport serving this most populous city in British Columbia|Vancouver
+800|In disarray after airport security? Mitchell International, serving this Wisconsin city, has a place for you to get sorted out|Milwaukee
+1000|We appreciate the indoor service dog relief area at the airport for this charmed city; the fire hydrant's a nice touch|Baltimore

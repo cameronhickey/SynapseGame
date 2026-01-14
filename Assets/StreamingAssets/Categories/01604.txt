@@ -1,0 +1,6 @@
+MACBETH
+200|Of Lady Macbeth's 165 words in her sleepwalking scene, all but 20 have this number of syllables|one
+400|Lady Macbeth is holding one of these when she enters for her "Out, Damned Spot!" speech|Candle
+600|\"Macbeth will not be afraid of death and bane til' Birnam Forest come to" this place|Dunsinane
+800|He's the first king of Scotland to speak in the play|Duncan
+1000|He's the last king of Scotland to speak in the play|Malcolm

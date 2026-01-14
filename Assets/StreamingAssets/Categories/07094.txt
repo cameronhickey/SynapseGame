@@ -1,0 +1,6 @@
+MILITARY PROMOTIONS
+200|In ascending order, this word follows brigadier, major & lieutenant|general
+400|As one of these, your grade is E-1 or E-2 (E for enlisted); as a first class one, it's E-3|private
+600|If you're this lowest grade of army lieutenant, there's nowhere to go but up|second lieutenant
+800|Next up the pay scale from sergeant is this sergeant who won't comfort you along with a rod|staff
+1000|Going down the ranks on the 7 seas, remember your 3 C's: commodore, captain, this|commander

@@ -1,0 +1,6 @@
+SECOND BOOK IN THE SERIES
+200|\"The Two Towers\"|The Fellowship of the Ring
+400|\"Force 10 from Navarone\"|The Guns of Navarone
+600|\"Insurgent\"|Divergent
+800|\"The Restaurant at the End of the Universe\"|The Hitchhiker's Guide to the Galaxy
+1000|\"Prince Caspian\"|The Lion, the Witch and the Wardrobe

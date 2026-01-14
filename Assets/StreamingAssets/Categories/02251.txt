@@ -1,0 +1,6 @@
+DIALECTS
+200|Castilian, Andalusian, Aragonese|Spanish
+400|Cretan, Tsakonian, Peloponnesian|Greek
+600|Alemannic, a dialect of this language, has 2 main forms in Switzerland centering on Bern & Zurich|German
+800|Dialects of this European language include Anpaluz, Madrileño & Canario (from the Canary Islands)|Spanish
+1000|Cebuano is widely spoken in Cebu, Western Leyte & parts of Mindanao in this country|The Philippines

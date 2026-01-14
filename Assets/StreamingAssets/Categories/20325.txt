@@ -1,0 +1,6 @@
+FROM "S" TO "T\"
+200|This noncommissioned officer ranks just above a corporal in the Marine Corps|sergeant
+400|This vacant outdoor space is used by children for unorganized games & sports such as baseball|a sandlot
+600|Antonio Guterres is currently the head of this main organ of the United Nations|the Secretariat
+800|In this form of trapshooting, clay targets simulate birds in flight|skeet
+1000|A sleepwalker|a somnambulist

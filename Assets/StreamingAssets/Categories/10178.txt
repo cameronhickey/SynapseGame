@@ -1,0 +1,6 @@
+TIME TO GET A "HEAD\"
+200|It blows against the direction of travel|a head wind
+400|The leading performer in a show|the headliner
+600|For U.S. Central Command, it's at MacDill Air Force Base in Tampa|headquarters
+800|A man in charge of a school, usually a private one|a headmaster
+1000|Porcine term for obstinancy|pigheaded

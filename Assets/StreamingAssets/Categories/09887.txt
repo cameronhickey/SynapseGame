@@ -1,0 +1,6 @@
+\"V" IS FOR...
+200|...This male servant, or for an attendant who parks cars|a valet
+400|...this, a boat, bowl or blood-carrier|vessel
+600|...This cocktail ingredient, "sweet" or "dry", that's found in a Manhattan|vermouth
+800|...this style of house, a specialty of artist Debbie Patrick|Victorian
+1000|...This synonym for one's profession or calling|a vocation

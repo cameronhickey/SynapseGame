@@ -1,0 +1,6 @@
+CONVERBS
+200|\"Don't cross" one of these "til you come to it\"|a bridge
+400|This "never comes" as it's always a day away|Tomorrow
+600|Not to nag, but "don't swap" these "in midstream\"|horses
+800|\"You cannot sell the cow & have" this|milk
+1000|\"You can't build" these "in the air & live in them\"|castles

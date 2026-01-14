@@ -1,0 +1,6 @@
+MUSIC & MUSICIANS
+200|A noel is a song or instrumental piece for this holiday|Christmas
+400|The viola d'amore has a second set of these under the first set that vibrates sympathetically|strings
+600|He conducted the last act of his "Parsifal" Aug. 29, 1882, his final appearance conducting opera|Wagner
+800|This type of orchestra generally has about 35 players|a chamber orchestra
+1000|In 1901 this "New World" symphony composer was elected to the Austro-Hungarian Parliament|Dvořák

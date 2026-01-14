@@ -1,0 +1,6 @@
+STREET JOURNAL
+200|The Beatles often recorded at a studio on this street, immortalizing its crossing on an album cover|Abbey Road
+400|This street in New Orleans' French Quarter is named for a royal house, not for whiskey|Bourbon Street
+600|This avenue, the traditional route of the presidential inaugural parade, runs over the Anacostia River|Pennsylvania Avenue
+800|This Memphis street, a birthplace of the blues, is home to a museum devoted to W.C. Handy, Father of the Blues|Beale Street
+1000|Since 1975 the Tour de France has ended with an 8-lap circuit of this broad avenue|the Champs-Elysées

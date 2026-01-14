@@ -1,0 +1,6 @@
+COUNTRIES' OFFICIAL LANGUAGES
+200|In Israel, Arabic & this|Hebrew
+400|In San Marino|Italian
+600|In Liechtenstein|German
+800|In Finland, Finnish & this|Swedish
+1000|In Andorra, this language named for a region of Spain|Catalan

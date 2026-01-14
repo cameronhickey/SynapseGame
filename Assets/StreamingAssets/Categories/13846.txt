@@ -1,0 +1,6 @@
+\"LOCK" & "KEY\"
+200|Matrimony|wedlock
+400|It's a traffic jam in which no vehicle movement is possible, especially at an intersection|gridlock
+600|Begun by a retired minister in 1876 to make socks for lumberjacks, this company soon expanded into underwear|Jockey
+800|A way of marching in close file in which each marcher's leg moves with that of the person in front of him|lockstep
+1000|A thingamabob, or perhaps a command to the main character in "The Iceman Cometh\"|doohickey

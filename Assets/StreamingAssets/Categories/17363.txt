@@ -1,0 +1,6 @@
+ANIMATED MOVIES BY CHARACTER
+200|2001: Donkey|Shrek
+400|1967: Shere Kahn, a tiger|The Jungle Book
+600|1991: Gaston|Beauty and the Beast
+800|2004: Elastigirl|The Incredibles
+1000|2003: Dory|Finding Nemo

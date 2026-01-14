@@ -1,0 +1,6 @@
+HAVE A DRINK AT...
+200|A New Orleans bar is named for this man whom the owner wanted to shelter after helping him escape from St. Helena|Napoleon
+400|This merry old soul of children's rhyme presides from a mural over the bar named for him at the St. Regis in New York City|Old King Cole
+600|Harry's Bar in Venice, Italy is famed for bellinis & this dish of thinly sliced beef, also named for a famed Venetian artist|carpaccio
+800|\"Inspired by Malayan life in the 1920s", the long bar at Raffles in this city-state is famous for a certain drink being "slung\"|Singapore
+1000|The Inklings, including Tolkien & Lewis, were known to "draught" at the Eagle & Child Pub in this city|Oxford

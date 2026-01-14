@@ -1,0 +1,6 @@
+A HOST OF TV HOSTS
+200|Julie Chen hosts this reality show in which strangers live together & the cameras record every moment|Big Brother
+400|Phil Keoghan hosts this show in which teams of 2 travel the globe to compete for cash|The Amazing Race
+600|(Hi, I'm Tom Bergeron.) Bob Saget was the original host & I'm the current host of this comedy TV show that made its debut in 1989|America's Funniest Home Videos
+800|The third & newest host of NBC's "Late Night", this "SNL" alum sang Springsteen as host of the Emmys in 2010|Jimmy Fallon
+1000|This "redneck" comic hosts "Are You Smarter than a 5th Grader?\"|(Jeff) Foxworthy

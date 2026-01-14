@@ -1,0 +1,6 @@
+SLAYER
+200|Of Abel|Cain
+400|Of the movies' Marion Crane|Norman Bates
+600|Of Albus Dumbledore|(Severus) Snape
+800|Of Grendel|Beowulf
+1000|Of Nancy in "Oliver Twist\"|Bill Sikes

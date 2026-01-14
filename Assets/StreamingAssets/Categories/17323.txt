@@ -1,0 +1,6 @@
+DINOSAUR NAMES
+200|This dino's name means "3-horned face" for a reason|Triceratops
+400|The Oviraptor's name reveals that scientists once thought it was this type of "thief\"|egg
+600|Bow down to this "tyrant lizard king\"|Tyrannosaurus rex
+800|The high-flying Pterodactyl's name means "winged" this body part|fingers
+1000|This dinosaur's name means "arm lizard", as its front legs were longer than the hind ones|Brachiosaurus

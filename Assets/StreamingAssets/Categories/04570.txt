@@ -1,0 +1,6 @@
+RELATIVE LIT
+200|This guardian of Tom Sawyer was based on Mark Twain's mother|Aunt Polly
+400|Richard Wright's 1940 tale about Bigger Thomas|\"Native Son\"
+600|Howard Garis wrote the Tom Swift adventure books & created this character whose last name is Longears|Uncle Wiggily
+800|Title question a baby bird asks of everything in sight in a P.D. Eastman "Beginner Book\"|\"Are You My Mother?\"
+1000|Robert Anderson's play title with a "musical" regret; the 1970 film version starred Gene Hackman|I Never Sang for My Father

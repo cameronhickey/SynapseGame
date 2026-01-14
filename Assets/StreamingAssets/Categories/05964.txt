@@ -1,0 +1,6 @@
+CAMERAS
+200|A signal that means cameras are running, or a traffic signal that cameras may catch you running|Red light
+400|These 2 verbs go together to describe cameras that don't make you fiddle with focus|point and shoot
+600|This type of camera with a tiny aperture instead of a lens can be made from an oatmeal carton|Pinhole camera
+800|It's the CC in CCTV, a security camera system used by many businesses|Closed circuit
+1000|This No. 1 maker of cameras & lenses for the movie & TV industries only rents, doesn't sell its equipment|Panavision

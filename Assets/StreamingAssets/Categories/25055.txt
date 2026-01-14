@@ -1,0 +1,6 @@
+CENTRAL CHARACTERS
+200|Quasimodo|The Hunchback of Notre Dame
+400|Wolf Larsen|The Sea Wolf
+600|Raskolnikov|Crime and Punishment
+800|Marguerite Gautier|Camille
+1000|Redmond Barry|Barry Lyndon

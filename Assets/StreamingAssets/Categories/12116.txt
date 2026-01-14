@@ -1,0 +1,6 @@
+BRITISH VS. AMERICAN AUTO TERMINOLOGY
+200|What the British call an estate car, we call this type of "wagon\"|a station wagon
+400|It's a windscreen to the limeys, but it's one of these to us Yanks|a windshield
+600|What we call gasoline, the Brits call this|petrol
+800|This car part is the bonnet to the Brits, but to us it's one of these|the hood
+1000|It's a transmission in America & one of these "box"es across the Atlantic|a gearbox

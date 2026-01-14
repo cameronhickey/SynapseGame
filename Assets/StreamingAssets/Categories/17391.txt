@@ -1,0 +1,6 @@
+ENJOY THE FLIGHT
+200|You must be 15 to sit in one of these rows|an exit row
+400|Relax—by traveling more than 768 mph, giving us this type of distinctive speed, we will definitely be arriving on time|supersonic speed
+600|The American Airlines inflight magazine, or one of the things fought for by Superman (& there he is at 25,000'!)|The American Way
+800|Take a nap—you're on the world's longest-distance nonstop flight, 8,500 miles from Sydney to DFW, this airport|Dallas/Fort Worth
+1000|Your carry-on fits nicely in the device with this rhyming name; that means it'll fit in the overhead bin, so carry on|Size Wise

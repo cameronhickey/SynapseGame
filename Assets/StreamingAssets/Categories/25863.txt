@@ -1,0 +1,6 @@
+ALBUM COLLECTION
+200|\"Desperado", "Hotel California\"|the Eagles
+400|\"Anti", "Good Girl Gone Bad\"|Rihanna
+600|\"Back to Black", "Lioness: Hidden Treasures\"|Winehouse
+800|\"Master of Puppets", "...And Justice for All\"|Metallica
+1000|\"Stadium Arcadium", "Californication\"|the Red Hot Chili Peppers

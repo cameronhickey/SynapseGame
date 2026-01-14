@@ -1,0 +1,6 @@
+THE LANGUAGE OF PEACE
+200|Shalom|Hebrew
+400|Salaam|Arabic
+600|Pax|Latin
+800|Paz|Spanish
+1000|Paix|French

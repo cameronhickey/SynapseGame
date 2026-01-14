@@ -1,0 +1,6 @@
+CLOTHES
+200|It's the piece that turns a suit into a 3-piece suit|a vest
+400|This street in London's Soho lent its name to a style of mod fashions in the 1960s|Carnaby St.
+600|The German name of these shorts implies that they're made of leather|lederhosen
+800|Christian Dior introduced the H-line, the Y-line & in 1955 this flared silhouette|the A-line
+1000|This brand of footed pajamas sounds like it has a medical degree|Dr. Denton

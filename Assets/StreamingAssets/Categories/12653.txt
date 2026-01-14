@@ -1,0 +1,6 @@
+OCCUPATIONAL WEAR
+200|Occupational adjective for a western shirt or western boots|cowboy
+400|This Ray-Ban style was designed for military pilots in the 1930s|aviators
+600|The strap-happy sandals named for these ancient combatants were hot in 2008|gladiators
+800|A type of bulky knit sweater originated in Ireland with men in this line of work|fishermen
+1000|Though Ashton Kutcher sported this hat, basically a mesh-back ball cap, it did not have a long haul of trendiness|a trucker's hat

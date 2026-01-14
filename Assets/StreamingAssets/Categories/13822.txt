@@ -1,0 +1,6 @@
+FINISH THE PALINDROME
+200|\"Dammit! I'm" this|mad
+400|\"Dennis and Edna" did this|sinned
+600|\"No lemon, no" this|melon
+800|\"Lived on decaf, faced no" this|devil
+1000|\"Drab as a fool, aloof as a" this|bard

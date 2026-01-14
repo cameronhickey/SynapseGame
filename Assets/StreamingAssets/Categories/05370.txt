@@ -1,0 +1,6 @@
+\"BAN\"
+200|This large, printed handkerchief usually has white spots on a red or blue background|Bandana
+400|In its native language, this nation's name means "Bengal Nation\"|Bangladesh
+600|In this 1974 Paul McCartney & Wings hit, "The rain exploded with a mighty crash as we fell into the sun\"|\"Band on the Run\"
+800|This wide-spreading east Indian fig tree has branches that send out roots to the ground|Banyan tree
+1000|Examples of this language group include Kikuyu, Tswana & Zulu|Bantu

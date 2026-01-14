@@ -1,0 +1,6 @@
+HARDWARE
+200|A flat, thin metal ring used between a bolt & a nut to increase tightness|a washer
+400|I've got a latch, now I need this part that rhymes with "latch" to hold it in place|a catch
+600|Emery wheel is another name for this circular sharpening device|a grinding wheel
+800|It's not a snare, it's the s-shaped section of pipe under a sink that seals off sewer gases|the trap
+1000|Hyphenated brand name for locking pliers that hold what is being worked on in place|Vise-Grip

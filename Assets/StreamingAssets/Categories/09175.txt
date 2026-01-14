@@ -1,0 +1,6 @@
+ORGANIZED RELIGION
+200|B'nai B'rith, Anti-Defamation League|Judaism
+400|Knights of Columbus|Catholicism
+600|Alharamain, King Faisal Foundation|Islam
+800|Sakyadhita, Prison Dharma Network|Buddhism
+1000|American/International Gita Society, Sanskrit Religions Institute|Hinduism

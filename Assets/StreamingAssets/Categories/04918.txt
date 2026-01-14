@@ -1,0 +1,6 @@
+WITH "EWE\"
+200|Begun again, like a magazine subscription|Renewed
+400|A small beer-making operation is considered a "micro" one of these|Brewery
+600|A stereoscope is a 3-D one|Viewer
+800|This type of embroidery using worsted yarn sounds harsh|crewellery
+1000|Paul Scott's "The Raj Quartet" became this TV miniseries|The Jewel in the Crown

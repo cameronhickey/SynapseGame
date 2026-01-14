@@ -1,0 +1,6 @@
+SHOPPING
+200|Shopping for snowflake ornaments? This N.Y. City museum has produced a new one every year since 1971|the Metropolitan
+400|The word millinery is derived from the name of this city, a fashion center for centuries|Milan
+600|A follow-up to "The Devil Wears Prada" is called "When Life Gives You" these yoga clothes|Lululemons
+800|This retail clothing chain started out as a single store in San Francisco in 1969 that sold jeans & records|The Gap
+1000|With locations throughout the U.S., this "Wild Place to Shop and Eat" recreates the jungle indoors|Rainforest Cafe

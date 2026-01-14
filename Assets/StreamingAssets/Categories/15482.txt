@@ -1,0 +1,6 @@
+CATHOLIC PRIESTS
+200|Served by priests, it may not exceed 18% alcohol|communion wine
+400|Title of any priest's immediate boss; the U.S. has 270 of them|bishop
+600|The priest's duty to keep your sins secret is traditionally protected by "the sanctity of" this booth|the confessional
+800|Parish priests have their own one of these, John Vianney|patron saint
+1000|This spiritual "director" doesn't arrange your holiday, he helps young men pursue their calling to the priesthood|a vocation director

@@ -1,0 +1,6 @@
+BIOCHEMISTRY
+200|An oncogene is defined as a sequence of genetic material that can induce this disease|Cancer
+400|A substance called "heme" is the most "ironic" portion of this blood pigment|Hemoglobin
+600|These compounds may have "simple" molecules, like sugars, or "complex" ones, like cellulose|Carbohydrates
+800|Pauling found an "alpha" type of this spiral in proteins; Watson & Crick found a "double" one in DNA|Helix
+1000|Its 2 phases are anabolism, which combines molecules, & catabolism, which breaks them down|Metabolism

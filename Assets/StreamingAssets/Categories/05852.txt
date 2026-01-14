@@ -1,0 +1,6 @@
+GET TO WORK
+200|A dentist may employ 1 or more of these licensed technicians to clean teeth & to provide other preventive care|Hygienist
+400|Apothecary is an old-fashioned term for this professional|Pharmacist
+600|From the Latin word for "wine", it's a person who makes or sells wine|Vintner
+800|The manager of a hotel or the headwaiter at a restaurant often goes by this French title|Maitre d\'
+1000|It's a type of criminal, or a person who heats & hammers metal into shape|Forger

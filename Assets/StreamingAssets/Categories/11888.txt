@@ -1,0 +1,6 @@
+DRINK IT, DANCE IT OR DRIVE IT
+200|Cabriolet|drive it
+400|Hambo|dance it
+600|Kirsch|drink it
+800|Trabant|drive it
+1000|Huapala|drink it

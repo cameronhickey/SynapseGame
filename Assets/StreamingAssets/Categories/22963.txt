@@ -1,0 +1,6 @@
+PIRATE FLAGS
+200|It's the "merry" 2-word name for the skull & crossbones flag|the Jolly Roger
+400|These ships in the Royal Navy flew pirate flags upon surfacing while returning to port after sinking enemy ships during war|submarines
+600|A black flag is scary enough, but a pirate ship flying this color flag meant "no quarter given", a very bad omen|red
+800|A skeleton flag is associated with this man & his ship, the Queen Anne's Revenge|Blackbeard
+1000|Act I of this Gilbert & Sullivan operetta has the lyric "Oh, better far to live and die/ Under the brave black flag I fly\"|The Pirates of Penzance

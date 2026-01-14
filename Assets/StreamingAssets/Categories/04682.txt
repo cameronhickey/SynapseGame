@@ -1,0 +1,6 @@
+AUTOBIOGRAPHERS
+200|\"Bo Knows Bo\"|Bo Jackson
+400|\"Goodness Had Nothing to Do With It\"|Mae West
+600|\"Child Star\"|Shirley Temple Black
+800|\"Mayor\"|Ed Koch
+1000|\"You'll Never Eat Lunch in This Town Again\"|Julia Phillips

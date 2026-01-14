@@ -1,0 +1,6 @@
+REALITY TV HOSTS
+200|Ryan Seacrest|American Idol
+400|Tom Bergeron|Dancing with the Stars
+600|Padma Lakshmi|Top Chef
+800|Nick Cannon|America's Got Talent
+1000|Chris Harrison|The Bachelor

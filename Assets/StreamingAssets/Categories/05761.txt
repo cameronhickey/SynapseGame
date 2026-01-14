@@ -1,0 +1,6 @@
+TAXI!
+200|Licensed taxis in New York City are this color|yellow
+400|You can do it to Mary or Columbia as well as to a taxi|hail
+600|The sitcom "Taxi" used cabs from this famous company founded in 1922|Checker
+800|Contrary to its "roving" name, this type of cab isn't licensed to cruise the streets|Gypsy cab
+1000|This slang word for a taxi or its driver is shortened from the name of a horse-drawn carriage|hack (from hackney)

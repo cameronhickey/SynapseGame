@@ -1,0 +1,6 @@
+CITY BY HOTELS
+200|Halekulani, Sheraton Moana Surfrider|Honolulu
+400|Covent Garden Hotel, The Dorchester|London
+600|Hotel Romischer Kaiser, Hotel am Schubertring|Vienna
+800|Excelsior Copacabana Hotel, Ipanema Plaza|Rio de Janeiro
+1000|Hotel Sherpa, Yak & Yeti|Kathmandu

@@ -1,0 +1,6 @@
+ROME
+200|The major River that flows through Rome|the Tiber
+400|Quirinal, Viminal, Esquiline, Caelian, Aventine, Capitoline, & Palatine|the hills of Rome
+600|Suburban Cinechta is the center of this industry in Rome|the film industry
+800|The 2 major English poets buried in Rome's Protestant cemetery|Keats & Shelley
+1000|He designed the interior of St. Peter's including the spiraled bronze columns around the altar|Bernini

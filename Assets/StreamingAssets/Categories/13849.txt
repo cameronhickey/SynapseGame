@@ -1,0 +1,6 @@
+MEXICAN FOOD
+200|\"Joy of Cooking" calls it "classic Mexican avocado relish\"|guacamole
+400|Similar to a cruller, this long, thin stick of sweet dough is fried & coated with sugar & cinnamon|a churro
+600|Ignacio Anaya is credited with creating this appetizer of tortilla chips topped with cheese and jalapenos|nachos
+800|This specialty of Sonora is actually a burrito that's been fried|a chimichanga
+1000|Touted as a hangover cure, this hearty soup made with tripe is popular on New Year's morning|menudo

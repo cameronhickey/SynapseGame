@@ -1,0 +1,6 @@
+TO THE NEAREST...
+200|To the nearest 100, number of years the United States of America has been an independent nation|200
+400|To the nearest foot, the height of Wilt "The Stilt" Chamberlain|7
+600|To the nearest hour, flight time of the Concorde from London to New York|4
+800|To the nearest billion, number of Cokes you'd need to buy to give one to everyone in the world|6 billion
+1000|To the nearest light year, the distance between Earth & Alpha Centauri|4 light years

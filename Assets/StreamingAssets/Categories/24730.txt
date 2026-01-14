@@ -1,0 +1,6 @@
+TOP TO BOTTOM
+200|You've hit this hard piece of nature "bottom" at your lowest point|rock
+400|You've scraped "the bottom of" this container at your lowest point|the barrel
+600|A New Yorker parody detailed the product liability lawsuit against this "top" company by "Mr. Wile E. Coyote, a resident of Arizona\"|Acme
+800|This word meaning situated beneath the Earth's surface also precedes "regions" about more, shall we say, sensitive body areas|nether
+1000|This 6-letter word refers to the zenith or farthest point, such as the point where the Moon is farthest from the Earth|the apogee

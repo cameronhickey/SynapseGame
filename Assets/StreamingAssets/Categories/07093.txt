@@ -1,0 +1,6 @@
+BASKETBALL RULES
+200|An NBA player or coach who receives this many technical fouls in a game is ejected|2
+400|(Jimmy of the Clue Crew in front of a brick wall.) A player's not going to get very far if he commits the infraction I'm signaling|traveling
+600|This violation is the bouncing of the ball with both hands at the same time|double dribble
+800|(Jimmy of the Clue Crew in front of a brick wall.) In a game, if neither team has control of the ball, the ref may signal this|jump ball
+1000|A player commits this infraction if he touches a shot on its downward flight before it touches the basket|goaltending

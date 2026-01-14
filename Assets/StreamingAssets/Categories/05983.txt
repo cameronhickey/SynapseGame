@@ -1,0 +1,6 @@
+MOVIE SPORTSMEN
+200|1992: John Goodman|Babe Ruth
+400|1961: Jackie Gleason|Minnesota Fats
+600|1994: Tommy Lee Jones|Ty Cobb
+800|1971: James Caan|Brian Piccolo (from "Brian's Song")
+1000|1978: LeVar Burton|Ron LeFlore

@@ -1,0 +1,6 @@
+& "LOW" THING
+200|This adjective for letters not capitalized comes from the printing practice of storing them in a tray beneath the others|lower case
+400|A wooden frame for executing prisoners|gallows
+600|\"Colorful" favorite around the sushi bar that's also known as buri|yellowtail
+800|It's a visual representation that diagrams a sequence of operations|a flowchart
+1000|A variety of gorilla that can be eastern or western|lowland gorillas

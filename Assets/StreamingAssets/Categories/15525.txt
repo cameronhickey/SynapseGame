@@ -1,0 +1,6 @@
+APPLIANCES
+200|Keep this home appliance running efficiently by cleaning the lint filter after each use|a dryer
+400|Women once blew their hair dry by using the exhaust function on this cleaning appliance|a vacuum cleaner
+600|starwars.com has offered one of these appliances that burns Darth Vader's image onto your food|a toaster
+800|A blender liquifies whole fruits put into it; this appliance extracts fluids from the fibers & separates the pulp|a juicer
+1000|In the 1930s this trademarked coolant replaced ammonia, methyl chloride & sulfur dioxide in U.S. refrigerators|Freon

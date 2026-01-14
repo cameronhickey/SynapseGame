@@ -1,0 +1,6 @@
+COLORS IN GAMES
+200|Color of the queen that sticks you with 13 points in the most popular form of hearts|black
+400|The tennis courts at Wimbledon are supposed to be this color|green
+600|In Monopoly, the color of New York Avenue & St. James Place|orange
+800|If you land on this color in Trivial Pursuit, you need to answer a question on history|yellow
+1000|If you want to sink the #4 ball in a game of pool, you should be aiming at a ball this color|purple

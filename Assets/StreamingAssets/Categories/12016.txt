@@ -1,0 +1,6 @@
+BELGIUM, BELARUS OR BELIZE
+200|The largest in area|Belarus
+400|The farthest south|Belize
+600|The most populous|Belgium
+800|It's landlocked|Belarus
+1000|It's part of the British Commonwealth of Nations|Belize

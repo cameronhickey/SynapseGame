@@ -1,0 +1,6 @@
+MEDICAL CENTER
+200|It's the part of your body monitored by an electro-encephalograph|the brain
+400|This "sweet" term for a volunteer came from the red-lined uniform|a candy striper
+600|A neonatologist specializes in treating these people|newborn babies
+800|This operation involves cutting the vas deferens|a vasectomy
+1000|It's moving or transplanting tissue from one part of your body to another part|a graft

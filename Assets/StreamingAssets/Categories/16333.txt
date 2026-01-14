@@ -1,0 +1,6 @@
+\"CAT" OR "DOG"?
+200|On "Jeopardy!", it consists of 5 clues|the category
+400|Trivial or undignified verse|doggerel
+600|To jump on top of another person, often in a group|dog pile
+800|Asserting an opinion in an authoritative manner|dogmatically
+1000|High-deductible health insurance only useful in case of utter disaster|catastrophic

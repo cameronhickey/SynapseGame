@@ -1,0 +1,6 @@
+BLANK NEWS
+200|It airs every Sunday morning on ABC: "This ____\"|This Week
+400|U.K.-born Katty Kay presents it: "____ World News America\"|BBC
+600|It's on CNN from 4 to 6 A.M. Eastern time: "____ Start\"|Early Start
+800|With Steve, Ainsley & Brian: "Fox ____ ____\"|& friends
+1000|Get your fill of business in the afternoon: "Power ____\"|Power Lunch

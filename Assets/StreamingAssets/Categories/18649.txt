@@ -1,0 +1,6 @@
+WORDS WITH(IN) FRIENDS
+200|A fruit or cheese covering|rind
+400|Anyone eating a restaurant meal|diner
+600|Prevalent or widespread, like crime in certain areas|rife
+800|To tear apart|rend
+1000|A wetland|fen

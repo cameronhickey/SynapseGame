@@ -1,0 +1,6 @@
+PROTOCOL
+200|At a U.S. state dinner, the order in which foreign anthem & "The Star-Spangled Banner" would be played|the foreign anthem first
+400|As noted in the title of the Ethel Merman musical, the proper form of address for a female ambassador|Madam
+600|Person who may normally leave a diplomatic meal before the highest ranking guest|no one is allowed to leave before the highest ranking guest
+800|The seat of honor in a limousine|right hand rear seat
+1000|At the White House, a foreign dignitary responds to a toast by doing this|toasting the President of the United States

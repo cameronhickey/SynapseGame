@@ -1,0 +1,6 @@
+STATE SYMBOLS
+200|Oregon's state insect is the swallowtail, a type of this|Butterfly
+400|This natural-born mimic is the state bird of Tennessee|Mockingbird
+600|The official state Christmas tree for North Carolina is the Fraser type of this tree, not the Douglas|the fir
+800|Created at its Toll House Restaurant, the chocolate chip cookie is this state's official state cookie|Massachusetts
+1000|The Catahoula Leopard dog, bred to find livestock in swamps, is its state dog|Louisiana

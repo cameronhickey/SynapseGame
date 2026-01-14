@@ -1,0 +1,6 @@
+LINES
+200|In palmistry it runs from the Mount of Jupiter down the palm in an arc around the Mount of Venus|Life line
+400|In 1929 France began building this line as a fortification against Germany|Maginot Line
+600|From the Greek for "under one", there's a short one of these between Toulouse & Lautrec|Hyphen
+800|Standards for these, abbreviated UPC, were set April 3, 1973|Universal Product Code
+1000|Samuel Plimsoll had a line on these named for him|Ships

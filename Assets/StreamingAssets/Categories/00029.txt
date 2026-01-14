@@ -1,0 +1,6 @@
+MOUNTAINS
+200|Disney made it the highest peak in Anaheim|the Matterhorn
+400|Starts with Sangre de Cristo in New Mexico, ends with Brooks Range in Alaska|the Rocky Mountains
+600|First volcano to erupt in continental U.S. since 1921|Mount St. Helens
+800|Home to alpacas & llamas|the Andes
+1000|Tibetans call it Chomolunga, Nepalese call it Sagarmatha, both call it theirs|Mount Everest

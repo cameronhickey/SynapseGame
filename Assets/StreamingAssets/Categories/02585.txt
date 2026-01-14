@@ -1,0 +1,6 @@
+AROUND THE LIBRARY
+200|A widely used book classification system is named for this major Washington, D.C. library|Library of Congress
+400|Library photocopying that's "systematic" infringes on this legal protection|Copyright
+600|Novelist Nicholson Baker has criticized libraries for destroying these & replacing them with databases|Card catalogs
+800|Term for extensive arrangements of bookshelves; they may be opened or closed to the public|stacks
+1000|Unlike microfilm, these sheets used on machines let the reader start at any point in a printed record|Microfiche

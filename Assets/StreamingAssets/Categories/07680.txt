@@ -1,0 +1,6 @@
+THE BAD AIR UP THERE
+200|This pollutant once used in gasoline & paint can lower the IQ of the person breathing its vapors|lead
+400|You can't see or smell this gas produced by gas engines, but inhaling it will make you dizzy|carbon monoxide
+600|Near the ground, this gas is a major part of smog; at higher altitudes, it helps block radiation from the sun|ozone
+800|A dangerous indoor air pollutant is particles from this nonflammable material once used in insulation|asbestos
+1000|Sulfur dioxide reacts in the atmosphere to form particles & this tree-damaging precipitation|acid rain

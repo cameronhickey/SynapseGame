@@ -1,0 +1,6 @@
+THIRD PARTY CANDIDATES
+200|1996: Reform Party|H. Ross Perot
+400|1968: American Independent Party|George Wallace
+600|1948: States' Rights Party|Strom Thurmond
+800|1904, 1908, 1912, 1920: Socialist Party|Eugene V. Debs
+1000|1912: Progressive Party|Theodore Roosevelt

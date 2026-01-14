@@ -1,0 +1,6 @@
+LIFE LINES
+200|The Declaration of Independence mentions the unalienable rights of "life, liberty, and" this|the pursuit of happiness
+400|A book by Erma Bombeck asks, "If Life Is a Bowl of Cherries, What Am I Doing" here?|in the Pits
+600|He wrote, "I went to the woods....to live deliberately, to front only the essential facts of life\"|Henry David Thoreau
+800|In this play, Shakespeare described life as "A tale told by an idiot, full of sound & fury, signifying nothing\"|Macbeth
+1000|It's the translation of the Latin phrase "ars longa, vita brevis\"|art is long (or endures or lasts), life is short (long art, short life accepted)

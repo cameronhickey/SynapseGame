@@ -1,0 +1,6 @@
+\"AMERICAN" ORGANIZATION
+200|This medical organization is "America's leading advocate for oral health\"|American Dental Association
+400|Since 1920 it has worked to defend & preserve the individual rights that the Constitution & laws guarantee|American Civil Liberties Union
+600|Women have to prove descent to belong to this organization, the DAR|Daughters of the American Revolution
+800|Every year "Relay for Life" events raise hundreds of millions of dollars for this organization|American Cancer Society
+1000|In the 1890s Melvil Dewey twice served as president of this organization|American Library Association

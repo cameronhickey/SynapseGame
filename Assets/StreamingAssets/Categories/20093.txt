@@ -1,0 +1,6 @@
+TYPES OF STREETS
+200|In "Baa Baa Black Sheep", the little boy lives down it|the lane
+400|D.C.'s Pennsylvania, which has been called America's Main Street|avenue
+600|In the Hollywood Hills, Blue Jay (it rhymes)|way
+800|Lake Shore, home to Chicago's Gold Coast|drive
+1000|Merritt is one & despite the name, stopping on it is ill-advised|parkway

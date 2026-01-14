@@ -1,0 +1,6 @@
+BRAND "EX\"
+200|This General Mills cereal that comes in corn, rice & wheat varieties is also known for its "mix\"|Chex
+400|Brand of gas that wanted to "put a tiger in your tank\"|Exxon
+600|Brand of gas that was sold by "the man who wears the star\"|Texaco
+800|This Sprint partner's direct connect service lets your cellphone work like a walkie-talkie|Nextel
+1000|Nautilus, Inc. uses infomercials to sell this brand of home gym|Bowflex

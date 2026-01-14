@@ -1,0 +1,6 @@
+MARSUPIALS
+200|The red species of this animal is the largest living marsupial|the kangaroo
+400|This Tasmanian marsupial eats all of its prey, including the skin & bones|the Tasmanian devil
+600|The marsupial represented by the most species is this New World beast, with the Virginia species the largest|the opossum
+800|Named partly for its temper, it's extinct on the Australian mainland but endures on an island|the Tasmanian devil
+1000|Common and hairy-nosed are types of this creature that looks like a Down Under woodchuck|wombat

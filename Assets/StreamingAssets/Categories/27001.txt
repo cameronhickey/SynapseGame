@@ -1,0 +1,6 @@
+THE LEAF
+200|The stalk turns the leaf to the best position relative to this|the sun
+400|When production of this stops, the hidden reds & yellows are revealed|chlorophyll
+600|Poison ivy can be recognized by this number of leaflets on each stem|3
+800|The blade of a broad leaf holds its shape due to a framework of these|veins
+1000|Term for the skin of cells on the top or bottom of a leaf|epidermis

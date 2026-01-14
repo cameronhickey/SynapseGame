@@ -1,0 +1,6 @@
+ALSO PART OF A BOOK
+200|The backbone|spine
+400|A band or musician's version of a song by someone else|a cover
+600|Obligatory, as in a contract|binding
+800|A ceremony celebrating the opening of a building|a dedication
+1000|A youth being trained to become a knight|a page

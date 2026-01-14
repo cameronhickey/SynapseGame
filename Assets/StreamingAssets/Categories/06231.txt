@@ -1,0 +1,6 @@
+THE ASTRONAUT HALL OF FAME
+200|State in which the Hall of Fame is located|Florida
+400|His historic 1962 orbital flight was marked by drama over a possibly loose heat shield|John Glenn
+600|While others moonwalked, this vehicle was piloted by Michael Collins on Apollo 11 & Ronald Evans on Apollo 17|the command module
+800|The other Mercury astronauts knew him as "Wally\"|Wally Schirra
+1000|This astronaut's sunken Mercury capsule was recovered in 1999|Gus Grissom

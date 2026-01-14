@@ -1,0 +1,6 @@
+LOGIC
+200|Like a Kipling poem, a hypothetical proposition begins with this 2-letter word|If
+400|In this type of argument, as opposed to an inductive one, premises lead to a necessary conclusion|Deductive
+600|A lemma is one proposition used to prove another; this is a choice between 2 propositions|Dilemma
+800|This ancient Greek originated logic by extending the methods of Plato's dialogues|Aristotle
+1000|An example of this type of argument is: All dogs bark. George is a dog. Therefore George barks.|Syllogism

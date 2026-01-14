@@ -1,0 +1,6 @@
+STATES' MEN
+200|James Whitcomb Riley, Michael Jackson, Jim Davis|Indiana
+400|Francis Scott Key, Dashiell Hammett, Cal Ripken, Jr.|Maryland
+600|Howard Hughes, Buddy Holly, Lee Trevino|Texas
+800|Montgomery Clift, Marlon Brando, Henry Fonda|Nebraska
+1000|Louis Armstrong, Truman Capote, Bryant Gumbel|Louisiana

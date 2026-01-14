@@ -1,0 +1,6 @@
+MEDICAL KNOW-HOW
+200|This organ has a natural pacemaker, but if it goes bad an artificial one may be used|heart
+400|Of 10, 20 or 30, the percentage experts say should be the maximum amount of fat in your diet|30
+600|Hundreds of hereditary diseases can be diagnosed by this fetal test using the fluid around the fetus|amniocentesis
+800|Using a laser to reshape this eye part may correct myopia|cornea
+1000|In this procedure, an opening is made in a person's windpipe to relieve an obstruction|tracheotomy

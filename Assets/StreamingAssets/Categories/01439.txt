@@ -1,0 +1,6 @@
+COUNTRIES
+200|It's known as the "Land of the Rising Sun\"|Japan
+400|This country's coat of arms features an emu & a kangaroo|Australia
+600|El Misti, a volcano in this country, was of great religious significance to the Inca|Peru
+800|About 80% of this country's factory workers live on the island of Java|Indonesia
+1000|This country was the last in Central America to gain its independence|Belize

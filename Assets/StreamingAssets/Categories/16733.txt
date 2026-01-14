@@ -1,0 +1,6 @@
+FEDERATION
+200|The first "A" in IAAF once stood for this, but the world of track got more professional|Amateur
+400|Jamaica, Barbados & Dominica were all part of the federation named for this "directional" archipelago|the West Indies
+600|This "Federation of America" was started by Margaret Sanger, whose mother died at 50 after 18 pregnancies|Planned Parenthood Federation of America
+800|The USA's most powerful union in the late 1800s, it merged in the 1950s with one of its splinter groups|the AFL (American Federation of Labor)
+1000|Abu Dhabi is one of 7 emirates that make up this federation|the UAE (United Arab Emirates)

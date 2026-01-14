@@ -1,0 +1,6 @@
+SOUNDS LIKE A NOBLE GAS, MAN
+200|Perhaps you know the Panettas, Sylvia & him|Leon
+400|Respond with "Glee" if you know this last name of actress Dianna, who plays Quinn|Agron
+600|Especially popular in Rhodes was this chariot-riding Greek sun god later identified with Apollo|Helios
+800|A manufacturer of missiles & microwaves whose name means "light of the gods\"|Raytheon
+1000|The London Times runs a fiendish example of this type of puzzle using wordplay rather than definitions|a cryptic crossword

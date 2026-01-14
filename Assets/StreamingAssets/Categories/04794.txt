@@ -1,0 +1,6 @@
+SENATORS BY STATE
+200|Edward Kennedy, John Kerry|Massachusetts
+400|Charles Robb, John Warner|Virginia
+600|Phil Gramm, Kay Bailey Hutchison|Texas
+800|William Frist, Fred Thompson|Tennessee
+1000|Christopher Dodd, Joseph Lieberman|Connecticut

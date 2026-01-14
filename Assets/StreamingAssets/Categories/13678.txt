@@ -1,0 +1,6 @@
+LET'S PUNCTUATE
+200|It comes after an initial|a period
+400|It replaces omitted letters in a contraction|an apostrophe
+600|Sesquipedalian words on 2 lines of text are divided by this|a hyphen
+800|When writing a time of day in the U.S., it separates the hours & minutes|a colon
+1000|One of these goes between independent clauses when a conjunction isn't used|a semicolon

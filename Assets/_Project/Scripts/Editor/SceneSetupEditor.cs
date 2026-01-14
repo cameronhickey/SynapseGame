@@ -163,7 +163,7 @@ namespace Cerebrum.Editor
             mainLayoutRect.sizeDelta = Vector2.zero;
             mainLayoutRect.anchoredPosition = Vector2.zero;
             VerticalLayoutGroup mainLayout = mainLayoutObj.AddComponent<VerticalLayoutGroup>();
-            mainLayout.padding = new RectOffset(20, 20, 20, 20);
+            mainLayout.padding = new RectOffset(20, 20, 150, 20); // Extra top padding to reveal title
             mainLayout.spacing = 10;
             mainLayout.childControlWidth = true;
             mainLayout.childControlHeight = true;
@@ -497,21 +497,21 @@ namespace Cerebrum.Editor
         {
             GameObject buttonObj = new GameObject("ClueButton");
             
-            // Semi-transparent dark blue background
+            // Dark background matching category headers, with transparency
             Image buttonImage = buttonObj.AddComponent<Image>();
-            buttonImage.color = new Color(0.08f, 0.12f, 0.28f, 0.9f);
+            buttonImage.color = new Color(0.06f, 0.08f, 0.18f, 0.75f);
             
-            // Add glowing border
+            // Subtle border outline (not bright glow)
             Outline borderOutline = buttonObj.AddComponent<Outline>();
-            borderOutline.effectColor = new Color(0.5f, 0.7f, 1f, 0.7f);
-            borderOutline.effectDistance = new Vector2(2, 2);
+            borderOutline.effectColor = new Color(0.3f, 0.4f, 0.6f, 0.5f);
+            borderOutline.effectDistance = new Vector2(1, 1);
             
             Button button = buttonObj.AddComponent<Button>();
             ColorBlock colors = button.colors;
             colors.normalColor = Color.white;
-            colors.highlightedColor = new Color(0.8f, 0.9f, 1f);
-            colors.pressedColor = new Color(0.6f, 0.7f, 0.9f);
-            colors.disabledColor = new Color(0.3f, 0.3f, 0.4f);
+            colors.highlightedColor = new Color(1.1f, 1.1f, 1.2f);
+            colors.pressedColor = new Color(0.8f, 0.8f, 0.9f);
+            colors.disabledColor = new Color(0.5f, 0.5f, 0.5f);
             button.colors = colors;
 
             GameObject textObj = new GameObject("ValueText");

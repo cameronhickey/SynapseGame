@@ -1,0 +1,6 @@
+FIVE ABOUT TENN.
+200|The Coliseum is the home stadium of this pro football team|the Tennessee Titans
+400|Located in Memphis, this mansion is the second most-visited home in the U.S.; thank you very much|Graceland
+600|This music program based in Nashville is the USA's oldest continuous live radio program|the Grand Ole Opry
+800|One of the 3 instruments that appear with some sheet music on the back of Tennessee's state quarter|a guitar (or a fiddle or a trumpet)
+1000|Instrumental in the development of the atomic bomb, this Tenn. city is the "Energy Capital of the World\"|Oak Ridge

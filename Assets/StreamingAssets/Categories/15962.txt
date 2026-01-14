@@ -1,0 +1,6 @@
+\"F"-STOPS
+200|Italian word for the last piece of an opera or concert|finale
+400|The outer limit of a field of science; the opening of "Star Trek" mentioned one|frontier
+600|Involving liquor & a match, this French verb is the last step in preparing Steak Diane|flambé
+800|The outer edge of something, or a spooky Fox TV show|Fringe
+1000|Major League Baseball games that end this way are all scored 9-0|forfeit

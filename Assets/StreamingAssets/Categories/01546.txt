@@ -1,0 +1,6 @@
+LIQUEURS
+200|Southern Comfort is from the U.S.; Yukon Jack is from this country|Canada
+400|The aniseed in pernod gives it an this distinctive candy flavor|licorice
+600|This Italian liqueur has the flavor of almonds but is often made with the kernels of apricot pits|amaretto
+800|Here, Manet depicted a drinker of this liqueur, made from wormwood|absinthe
+1000|French monks have made this brightly colored herbal liqueur since 1737|Chartreuse

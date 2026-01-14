@@ -1,0 +1,6 @@
+MOCK TURTLE
+200|Oh Mr. tortoise named for this arid environment—you've been called the slowest of all turtles; quite a distinction|a desert tortoise
+400|Yo, leatherback, you're the only reptile that comes close to being homeothermic, also called this—weirdo|warm-blooded
+600|Your heart has 2 atria, but only one of these chambers—humans have you beat!|a ventricle
+800|Hey you, the only tortoise with a flat rather than domed shell—not very dignified to be named for this breakfast food|the pancake tortoise
+1000|Can a wild turtle of rivers & ponds really be proud of sharing this name of Ben Jones' role on "The Dukes of Hazzard"?|Cooter

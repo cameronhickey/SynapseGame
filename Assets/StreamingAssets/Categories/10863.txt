@@ -1,0 +1,6 @@
+EAT WELL
+200|Eat a salad with this vegetable that can be classified as butterhead, crisphead, leaf or Romaine|lettuce
+400|Some of the recommended "whole" types of this food pyramid product are quinoa, millet, sorghum & barley|grains
+600|If you want to go nuts, eat this nut native to Brazil and taken to Asia by Portuguese missionaries|the cashew
+800|If you don't like fuzzy food, eat this fruit that often originates from peach seeds|a nectarine
+1000|Among legumes, a good source of protein, are peas & this type of seed such as the pinto, white or black variety|beans

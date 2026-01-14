@@ -1,0 +1,6 @@
+MATH HISTORY
+200|Around 190 A.D. the Chinese calculated it to 5 places; in 1989 a computer did it to 1,011,196,691 places|pi
+400|Around 1621 William Oughtred put 2 logarithm scales on sticks, creating this device|a slide rule
+600|Euclid would know that the word geometry comes from Greek roots meaning this & "to measure\"|the Earth
+800|Apollonius, known for his work on these sections, coined the terms parabola & hyperbola|conic sections
+1000|It's the branch of math in which George Boole made his name|algebra

@@ -1,0 +1,6 @@
+PASS THE "P"s
+200|It's a hill or mountain with a level top|plateau
+400|It's an act performed to show sorrow for having committed a sin|penance
+600|This publication is credited to an imaginary astronomer & appeared from the early 1730s to 1757|\"Poor Richard's Almanack\"
+800|In I Corinthians he tells us that charity is the greatest virtue|Paul
+1000|It's a highfalutin' 6-syllable word for sleight of hand magic|prestidigitation

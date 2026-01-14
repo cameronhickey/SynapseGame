@@ -1,0 +1,6 @@
+INDOORS
+200|Useful tools in a home workshop include the ball-peen & claw types of these|hammers
+400|In Spanish, this room is la cocina|kitchen
+600|Their original purpose was to hold skim & 2%, but these plastic stackable bins are great for storage|milk crates
+800|In a real estate listing, it's what "3BD, 3BA" means|three bedrooms, three bathrooms
+1000|3-letter area where cubs sleep or where you can sit & watch the cubs play|den

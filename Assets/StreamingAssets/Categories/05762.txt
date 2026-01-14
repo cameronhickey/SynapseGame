@@ -1,0 +1,6 @@
+ISN'T IT BYRONIC?
+200|Of John, Paul, or George, Byron's given name|George
+400|In 1816 Byron summered in Switzerland where he joned this poet & his wife Mary|Percy Shelley
+600|While helping this country fight for its independence, Byron died at Missolonghi in 1824|Greece
+800|One of Byron's greatest poems was his unfinished epic about this villainous Spanish rake|Don Juan
+1000|Byron first came to fame with a poem about this young noble's "Pilgrimage\"|Childe Harold

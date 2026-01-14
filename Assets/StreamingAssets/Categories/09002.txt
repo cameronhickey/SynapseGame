@@ -1,0 +1,6 @@
+AMERICAN IDOL
+200|She was the first champion|Kelly Clarkson
+400|He co-hosted the first version & went solo hosting the second|Ryan Seacrest
+600|This judge remarked, "Did you really believe you could become the American Idol? Well, then, you're deaf\"|Simon Cowell
+800|He edged out Clay Aiken to become the second "American Idol\"|Ruben Studdard
+1000|It's the name of the original British TV singing contest on which "American Idol" was directly based|Pop Idol

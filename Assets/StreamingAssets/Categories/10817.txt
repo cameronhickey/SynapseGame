@@ -1,0 +1,6 @@
+OFF COURSE, OFF COURSE
+200|This doctor found Victoria Falls but never discovered the source of the Nile|Dr. Livingstone
+400|On Oct. 12, 1492 he thought he'd reached Asia; in fact, the closest he ever got was an Aegean island as a young man|Christopher Columbus
+600|In 1999 software & navigation issues kept the Polar Lander & the Climate Orbiter from exploring this planet|Mars
+800|He named the ocean "Pacific" after many turbulent detours in South America while searching for Asia|(Ferdinand) Magellan
+1000|Verrazano discovered this Rhode Island bay but made a bad turn & disappeared in Central America|Narragansett Bay

@@ -1,0 +1,6 @@
+FRENCH OCCUPATION
+200|Chanteuse|a singer
+400|Bibliothecaire|librarian
+600|Boulanger|a baker (a breadmaker accepted)
+800|Avocat|a lawyer
+1000|Pompier|firefighter

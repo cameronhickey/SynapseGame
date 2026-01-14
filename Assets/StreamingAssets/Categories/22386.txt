@@ -1,0 +1,6 @@
+WEARABLE CAR PARTS?
+200|This sound deadener on a car sounds like it could also keep your neck warm|a muffler
+400|The engine is under it|a hood
+600|Changing lanes? These are suggested, also a word for what some horses wear so they don't see sideways|blinkers
+800|A rotor spins under the distributor one, part of the ignition system|a cap
+1000|Term for the arc-shaped pieces that fit inside & press against brake drums when stopping|shoes

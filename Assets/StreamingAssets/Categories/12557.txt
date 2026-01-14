@@ -1,0 +1,6 @@
+BIOPIC SUBJECTS
+200|2005: "Walk the Line\"|Johnny Cash
+400|1988: "Bird\"|Charlie Parker
+600|1994: "Immortal Beloved\"|Beethoven
+800|1956: "Lust for Life\"|Vincent van Gogh
+1000|1962: "The Birdman of Alcatraz\"|Robert Stroud

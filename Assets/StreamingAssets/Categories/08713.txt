@@ -1,0 +1,6 @@
+FITS "U" TO A "T\"
+200|If you've wrecked someone's careful planning, you've done this to the applecart|upset
+400|The condition of an apple pie fresh out of the oven, it's also how I like my movies|uncut
+600|Apple pie is often rich, so it makes sense that this part of the pie is a synonym for "rich\"|the upper crust
+800|Saying that Dutch apple pie is just good is one of these, because it's the best dessert on Earth|an understatement
+1000|If a bakery spends $12 producing 6 apple tarts, this cost is $2|a unit

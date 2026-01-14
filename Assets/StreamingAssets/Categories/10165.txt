@@ -1,0 +1,6 @@
+NFL NICKNAMES
+200|\"Broadway Joe\"|Joe Namath
+400|\"Mean Joe\"|Joe Greene
+600|\"The Refrigerator\"|William Perry
+800|\"Too Tall\"|(Ed) Jones
+1000|\"Sweetness\"|Walter Payton

@@ -1,0 +1,6 @@
+CINEMATIC DICTIONARY
+200|SFX is the standard abbreviation for these, from the rustling of trees to cannon fire|Sound effects
+400|Term for the flow of a film, maintained by keeping details consistent throughout a scene|Continuity
+600|Garland Jeffreys sang of having star-studded "dreams" of this size, like movie film|35mm
+800|The inventors of this camera-stabilizing device won a special 1977 Oscar|Steadicam
+1000|Near the end of the credits comes the "cutter" of this, the exposed but unfinished film|Negative cutter

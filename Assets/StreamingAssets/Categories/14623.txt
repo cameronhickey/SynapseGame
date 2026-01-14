@@ -1,0 +1,6 @@
+THE STATE OF EVERYTHING
+200|Its state beverage: orange juice|Florida
+400|Its state vegetable: the Walla Walla sweet onion|Washington
+600|Its state tree: the kukui, also known as the candlenut|Hawaii
+800|Its state dance: the two-step|Texas
+1000|Its state reptile: the diamondback terrapin|Maryland

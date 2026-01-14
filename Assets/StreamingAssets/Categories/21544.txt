@@ -1,0 +1,6 @@
+THE BOOK TITLE TITLE
+200|\"The Red ____: The Life and Legacy of Manfred von Richthofen\"|baron
+400|\"The African ____" by C.S. Forester|queen
+600|\"The ____ Bride: S. Morgenstern's classic Tale of True Love and High Adventure\"|princess
+800|\"Action Figure! The Life and Times of Doonesbury's Uncle ____\"|Uncle Duke
+1000|Eugene O'Neill's play "The ____ Jones\"|emperor

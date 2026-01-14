@@ -1,0 +1,6 @@
+NO BIG "E\"
+200|When referring to our planet, this word takes a capital E; when referring to soil & dirt, not|Earth
+400|When this word is in a Wilde play title, it's upper case; not when it's just a word meaning "sincere\"|Earnest
+600|Capitalize this as the progenitor of the human race, but not when meaning "the night before\"|Eve
+800|As a member of a "benevolent & protective order", big E; as an antlered ruminant, little e|Elk
+1000|Capitalize this word if it precedes "Guinea", but not if it precedes "plane" or "tide\"|Equatorial

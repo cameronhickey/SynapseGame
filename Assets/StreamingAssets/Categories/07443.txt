@@ -1,0 +1,6 @@
+IRS STUFF
+200|The IRS now allows some deductions for treatments, not including the over-the-counter patch, to quit this|smoking
+400|To deduct these, your new job must be over 50 miles farther from your former home than your old job was|moving expenses
+600|If you've been selected for one of these, the IRS cheerfully informs you that many of them result in refunds|an audit
+800|Filing jointly, families with 2 or more kids & making under $34,178 a year may receive the EITC, this credit|the Earned Income Tax Credit
+1000|About 9% of the individual returns for 2000 checked the box to donate this much to the Presidential Election Fund|$3

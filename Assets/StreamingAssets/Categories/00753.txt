@@ -1,0 +1,6 @@
+ENDS WITH "END\"
+200|The period from Friday evening to Monday morning|the weekend
+400|A title for Martin Luther King or Billy Graham|Reverend
+600|A share of profits received by a stockholder|a dividend
+800|The list of symbols on a map or chart|a legend
+1000|To deal with people in a patronizingly superior manner|to condescend

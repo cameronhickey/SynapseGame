@@ -1,0 +1,6 @@
+ASTROLOGICAL TERMS
+200|Now a term for any astrological prediction, this term described the position of heavenly bodies in the night sky at any "hour\"|a horoscope
+400|According to synastry, or relationship astrology, if his Mars is in her 8th this, she'll have the hots for him|house
+600|On a chart, a decan is an arc of this many degrees, a 36th of the celestial circle|10
+800|The 4 cardinal signs of the zodiac are the signs that begin seasons, like Libra for fall & this one for spring|Aries
+1000|(Sarah of the Clue Crew presents by a display monitor.) Sometimes a planet appears to loop in its path in the sky. The faster orbit of Mercury makes it look like it's changing direction when lapping us. In astrology, the phenomenon is known as this and is often blamed for misfortune|retrograde

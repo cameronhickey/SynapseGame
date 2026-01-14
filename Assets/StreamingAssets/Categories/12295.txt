@@ -1,0 +1,6 @@
+INFECTIOUS DISEASES
+200|Isolated in 1983, the virus that causes AIDS is known today by this acronym|HIV
+400|Severe cases of this fever can cause jaundice, which gave the disease its name|yellow fever
+600|It's the B form of this inflammation of the liver that's spread by some kinds of personal contact|hepatitis
+800|Mary Mallon was the first known carrier of this disease in the U.S.|typhoid
+1000|Deadly outbreaks of cholera struck British, French & Russian soldiers equally in this 1853-56 war|the Crimean War

@@ -1,0 +1,6 @@
+WELCOME TO MY POLITICAL PARTY
+200|Strom Thurmond, from 1964 to 2003|a Republican
+400|Strom Thurmond, until 1964 (except when running for president in 1948)|a Democrat
+600|Strom Thurmond, running for president in 1948|a Dixiecrat
+800|In the 1840s: Henry Clay, Horace Greeley, William Seward|Whigs
+1000|Ross Perot, independent in 1992, & this other party in 1996|the Reform Party

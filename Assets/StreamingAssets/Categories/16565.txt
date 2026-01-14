@@ -1,0 +1,6 @@
+A PERSON, PLACE & THING
+200|A "Solo" actor, a good spot to cross a river, a car company|Ford
+400|An L.A. Laker, a city in Japan, a type of beef|Kobe
+600|A "Fresh Prince", a Kansas county, a women's college|Smith
+800|A modern rock piano-playing chanteuse, a "Valley" north of San Bernardino, a fruit|apple
+1000|A "Big Bang Theory" actor, a city in Kansas, a "New School for Design\"|Parsons

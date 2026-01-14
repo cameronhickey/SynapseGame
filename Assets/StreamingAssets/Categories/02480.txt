@@ -1,0 +1,6 @@
+PARTS
+200|Seen curbside, its parts include a violation flag, a vault & a dome|parking meter
+400|It's found on the head of a monarch and on the end of a watch stem|crown
+600|The ridges on a column are called fluting; on the edge of one of these, they're called milling|coin
+800|It has a bottom stop, teeth, a slide & top stops|a zipper
+1000|A train doesn't have a derailleur, but this form of transportation may|bicycle

@@ -1,0 +1,6 @@
+WINDMILLS
+200|The first windmill built to produce this type of power was built in 1890|Electric
+400|This historic French nightspot whose name means "Red Windmill" was originally a working red windmill|Moulin Rouge
+600|Nautical term for the canvas-covered blades of a windmill|Sails
+800|As a boy he built a model windmill; his calculus foe Gottfried Leibniz designed them as an adult|Sir Isaac Newton
+1000|Famous in literature for its windmills, this dry region is in Spain's Ciudad Real province|La Mancha

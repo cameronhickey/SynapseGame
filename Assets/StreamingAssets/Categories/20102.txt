@@ -1,0 +1,6 @@
+CONCEPTS
+200|Since 1927 this German's uncertainty principle has kept physicists guessing|Heisenberg
+400|This adjective meaning based on observation is from Latin for "experienced\"|empirical
+600|The effort to unite electromagnetism & gravity in a single theoretical framework is known as "unified" this theory|unified field theory
+800|This -ism says the Constitution isn't ever-evolving but should be applied based on what its authors intended|originalism
+1000|A medieval philosopher gave his name to this sharp idea that the simpler of 2 competing theories is preferable|Occam's razor

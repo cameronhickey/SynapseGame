@@ -1,0 +1,6 @@
+THE BEES
+200|Common name of the hairy social bee of the genus Bombus|the bumblebee
+400|The shortest route back to the hive, that has come to mean the shortest route to anywhere|a beeline
+600|One of the chores of these female bees is to fan the air at the entrance to the hive|workers
+800|Bee product used to make candles & cosmetics|beeswax
+1000|The 2 items that bees gather from flowers|nectar & pollen

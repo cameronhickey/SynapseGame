@@ -1,0 +1,6 @@
+CANADIAN POSTAL ABBREV.
+200|NS|Nova Scotia
+400|SK|Saskatchewan
+600|MB|Manitoba
+800|PE|Prince Edward Island
+1000|YT|Yukon Territory

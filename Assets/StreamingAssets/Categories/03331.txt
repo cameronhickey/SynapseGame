@@ -1,0 +1,6 @@
+ELECTRONICS
+200|This device allows a computer to connect to phone lines & access other computers on the internet|Modem
+400|The scanners used at checkout counters are equipped with these light-emitting devices|Lasers
+600|This element is the main ingredient of most computer chips|Silicon
+800|It's the opposition of a material to electric current, resulting in heat or other forms of energy|Resistance
+1000|Electronic circuit signals may be classified as analog or this|Digital

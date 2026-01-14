@@ -1,0 +1,6 @@
+SAME-NAMED WRITERS
+200|Pynchon & Hardy|Thomas
+400|Werfel & Kafka|Franz
+600|Ferber & St. Vincent Millay|Edna
+800|Harte & Easton Ellis|Bret
+1000|Chandler & Feist|Raymond

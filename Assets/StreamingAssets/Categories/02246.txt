@@ -1,0 +1,6 @@
+PALACES
+200|The Marble Hall & Blue & White Drawing Rooms are among the nearly 600 rooms of this London palace|Buckingham Palace
+400|A 1577 fire at this Venetian palace destroyed art by Titian & the Bellini family|Doge's Palace
+600|Florence's Pitti Palace houses the Museo Degli Argenti, which displays this family's treasures|the Medici
+800|In the 13th C. this palace overlooking Granada became the residence of the Moorish Nasrid dynasty|the Alhambra
+1000|Most of the buildings in Istanbul's Topkapi Palace complex date from the reign of this sultan|Suleiman the Magnificent

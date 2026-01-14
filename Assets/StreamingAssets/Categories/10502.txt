@@ -1,0 +1,6 @@
+SITCOMBOS
+200|Hal, Malcolm, Lois|Malcolm in the Middle
+400|Newkirk, Sgt. Schultz, LeBeau|Hogan's Heroes
+600|Aunt Bee, Barney, Goober|The Andy Griffith Show
+800|Doug & Carrie Heffernan, Arthur Spooner|The King of Queens
+1000|Dietrich, Yemana, Fish|Barney Miller

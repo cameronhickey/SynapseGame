@@ -1,0 +1,6 @@
+COMPUTER SPEAK
+200|This word for fire is also an abusive note on a message board or in a chat room|flame
+400|Not a king or ace, but a circuit board that adds capabilities like sound|card
+600|When a device can be attached to your computer & install itself, it's PnP, short for this|Plug and Play
+800|If you need this, you can dial 911 or sometimes hit F1 on your keyboard|help
+1000|In chat rooms, "YMMV" is this disclaimer often used in car ads; it basically lets you off the hook for anything you say|your mileage may vary

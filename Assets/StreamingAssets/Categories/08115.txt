@@ -1,0 +1,6 @@
+NAVIGATION
+200|The sextant is so named because its shape is this fraction of a full circle|1/6
+400|Peter Pan's flight plan to Never-Never Land|second star to the right and on till morning
+600|Name for a ship's "speedometer", as well as for the record of its voyage|log
+800|This instrument measures the angular distance of a celestial body above the horizon|sextant
+1000|As stars are on a celestial navigators chart, so these are on charts for piloting|landmarks (buoys)

@@ -1,0 +1,6 @@
+PLANES, TRAINS & AUTOMOBILES
+200|This New York City place is commonly called a station. It's actually a terminal as train lines begin and end there|Grand Central Station
+400|This groundbreaking alphabetic creation from Henry Ford debuted in 1908|Model T
+600|In the Disney film of the same name, the "Love Bug" was a Beetle from this automaker|Volkswagen
+800|Pullman's "Delmonico" became the first type of this railroad car in 1868|Dining car
+1000|This Carroll Shelby design "snaked" along as the only American car to win the FIA Grand Touring Championship|the Cobra

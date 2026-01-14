@@ -1,0 +1,6 @@
+\"ROOT"s
+200|For the number 49, it's 7|the square root
+400|It's an underground room, covered with earth, used for the storage of various vegetables|a root cellar
+600|This procedure involves the removal of the nerve & other tissues from a tooth's pulp cavity|a root canal
+800|It's the major anchoring portion of an oak|a taproot
+1000|This statesman served as Secretary of War under both William McKinley & Teddy Roosevelt|Elihu Root

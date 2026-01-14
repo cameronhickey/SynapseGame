@@ -1,0 +1,6 @@
+NAME THE SEUSS TITLE
+200|\"I will not eat them in the rain. I will not eat them on a train. Not in the dark! Not in a tree! Not in a car! You let me be!\"|Green Eggs and Ham
+400|Through the high jungle tree tops, the news quickly spread: "He talks to a dust speck! He's out of his head!\"|Horton Hears a Who
+600|\"No! Not in the house!" said the fish in the pot, "They should not fly kites in a house! They should not\"|The Cat in the Hat
+800|\"Silence!" the king of the turtles barked back. "I'm king, and you're only a turtle named Mack\"|Yertle the Turtle
+1000|\"Socks on chicks and chicks on fox. Fox on clocks on bricks and blocks\"|Fox in Socks

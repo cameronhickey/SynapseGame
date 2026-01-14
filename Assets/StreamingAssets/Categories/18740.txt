@@ -1,0 +1,6 @@
+MIDDLE F
+200|Weighty, or a brand of garbage bag|hefty
+400|Toward the stern|aft
+600|To restrict movement, perhaps "to quarters\"|confine
+800|If I imply, it's up to you to do this, surmise my meaning|infer
+1000|Unholy or pagan|profane

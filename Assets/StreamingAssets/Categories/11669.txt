@@ -1,0 +1,6 @@
+LITERARY TITLE ADJECTIVES
+200|A "Jane Eyre" prequel: "____ Sargasso Sea\"|Wide
+400|Third in a series: "Rabbit Is ____\"|Rich
+600|A classic 1924 short story: "The Most ____ Game\"|Dangerous
+800|A Tony winner by Larry Kramer: "The ____ Heart\"|Normal
+1000|An Ionesco absurdity: "The ____ Soprano\"|Bald

@@ -1,0 +1,6 @@
+\"HOP" IN
+200|To move from The Frolic Room to The Roost to Casey's Irish Pub|to barhop
+400|A hotel page boy|a bellhop
+600|Insect of the family Locustidae|a grasshopper
+800|\"Meaty" sideburns|muttonchops
+1000|\"Addictive" term for a compulsive buyer|a shopaholic

@@ -1,0 +1,6 @@
+FROM S TO Y
+200|To move side to side, or to influence someone to change course|sway
+400|This verb can mean to kill; in slang, crack someone up; or more recent slang, kill with one's fashion|slay
+600|It's the kind of school where one trains for the priesthood|a seminary
+800|The Apennines are mainly made up of this, one of the 3 basic kinds of rock|sedimentary
+1000|To taint or tarnish|sully

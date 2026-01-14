@@ -1,0 +1,6 @@
+FROM "A" TO "E\"
+200|Slang for a guy from Sydney|an Aussie
+400|A fighter pilot has to shoot down 5 or more enemy aircraft to earn this nickname|ace
+600|A proverb|an adage
+800|Usually built on a cliff or other high place, it's an eagle's home|aerie
+1000|The special mood or atmosphere created by a particular environment|ambience

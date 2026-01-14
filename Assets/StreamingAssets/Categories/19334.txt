@@ -1,0 +1,6 @@
+LAST LINK IN THE DRINK
+200|Cosmopolitan: triple sec, cranberry juice, lime & this liquor|vodka
+400|Tequila sunrise: tequila, grenadine & this non-alcoholic beverage|orange juice
+600|Dirty martini: gin, dry vermouth & this liquid|olive juice
+800|Grasshopper: creme de cacao, cream & this 3-named item|crême de menthe
+1000|Old fashioned: sugar, orange, cherry, whiskey & a few drops of these|bitters

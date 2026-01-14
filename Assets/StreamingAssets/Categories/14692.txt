@@ -1,0 +1,6 @@
+KIDS' SONGS IN OTHER WORDS
+200|\"Miss Poppins Once Owned One Tiny Baby Sheep\"|\"Mary Had A Little Lamb\"
+400|\"Glimmer, Glimmer, Small Heavenly Body\"|\"Twinkle, Twinkle, Little Star\"
+600|\"A Trio Of Vision-Impaired Rodents\"|\"Three Blind Mice\"
+800|\"An Elderly Scotsman Owned One Ranch\"|\"Old MacDonald Had A Farm\"
+1000|\"One Grizzly Ventured Across A Summit\"|\"The Bear Went Over The Mountain\"

@@ -1,0 +1,6 @@
+SOUNDS KINDA "IFF"-Y
+200|The top county cop|the sheriff
+400|A minor argument; I'm sorry, honey|a tiff
+600|A minor argument; I'm sorry, honey|a tiff
+800|A small, light boat for one person|a skiff
+1000|The first "T" in GATT, they're taxes one nation puts on goods imported from another|tariffs

@@ -1,0 +1,6 @@
+FAST FOOD, FAST
+200|The crunchy Taco Supreme|Taco Bell
+400|Tacos del Carbon|Del Taco
+600|Dave's hot & juicy half pound double|Wendy's
+800|The Junkyard Dog, Bacon Wrapped Street Dog & the Kraut Dog|Wienerschnitzel
+1000|Was the Big Fish, now the premium Alaskan fish sandwich|Burger King

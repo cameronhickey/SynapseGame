@@ -1,0 +1,6 @@
+MAKE IT SINGULAR
+200|Alumni (7 letters)|alumnus
+400|Moose|moose
+600|Strata|stratum
+800|Alumni, like some fraternity boys|alum (or alumnus)
+1000|Graffiti: graffiti or this|graffito

@@ -1,0 +1,6 @@
+IT'S IN "DE" DICTIONARY
+200|Remove a hidden electronic device|debug
+400|Insert 1 letter in "death" to get this word meaning "an insufficient supply\"|dearth
+600|It's a decorative bottle used for serving wine|a decanter
+800|Meaning socially obligatory, it's from the French for "of strictness\"|de rigeur
+1000|In this craft, paper cutouts are glued to furniture or accessories & covered with many coats of varnish|decoupage

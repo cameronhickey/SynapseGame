@@ -1,0 +1,6 @@
+NICE "INK\"
+200|This building houses a surface used for skating|a rink
+400|This animal in the weasel family has lovely fur|a mink
+600|You'll find this pattern in a Rorschach test|an inkblot
+800|A slight hint or indication|an inkling
+1000|Once meaning "to blindfold", it now means "to deceive\"|hoodwink

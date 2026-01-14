@@ -1,0 +1,6 @@
+LOCK TALK
+200|To open a safe, rotate the lock dial to this sequence of numbers|the combination
+400|This type of car key named for a parking pro operates the doors & ignition but not the storage compartment locks|valet
+600|The part of a key that enters a lock cylinder is called this, like the part of a sword that enters a foe|a blade
+800|Pins & levers are types of these moving parts that must be properly aligned before a lock will open|tumblers
+1000|The U-shaped part of a padlock that fits around an item to be locked is called this, also a word for a manacle or leg iron|shackle

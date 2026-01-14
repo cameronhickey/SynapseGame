@@ -1,0 +1,6 @@
+BARTENDING
+200|It's a bit of curled lemon peel that Chubby Checker might like added to his drink|a twist
+400|Around the bar this 8-letter word precedes "napkin", "shaker", "stirrer" & "waitress\"|cocktail
+600|A tiny amount of soda or water added to a drink, or a popular mermaid movie|a splash
+800|During happy hour these inexpensive, house brands of spirits named for the area where they're kept may be even cheaper|the well drinks
+1000|(Jimmy of the Clue Crew stirs a beverage.) Mix vodka, Kahlua & light cream to get this drink that might be popular in Moscow|a White Russian

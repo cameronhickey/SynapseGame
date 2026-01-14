@@ -1,0 +1,6 @@
+MOOSE ON THE LOOSE
+200|The moose is the largest member of this family of mammals|the deer family
+400|Weighing up to 1,500 pounds, the largest species of moose is native to this U.S. state|Alaska
+600|These moose appendages are described as palmate & spatulate|antlers
+800|This tiny, blood-sucking arachnid is a threat to the great big moose by irritating the skin so the moose rubs off winter hair|a tick
+1000|A study ongoing since 1958 examines the relation between moose & this predator on Michigan's Isle Royale|the wolf

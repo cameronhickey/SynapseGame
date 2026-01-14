@@ -1,0 +1,6 @@
+ALL FAIRS
+200|The glittering Crystal Palace was the centerpiece of the first modern World's Fair, this city's 1851 "Great Exhibition\"|London
+400|This was the main attraction of the 1889 Paris Exposition; it also served as the entrance|the Eiffel Tower
+600|The 1893 Chicago World's Fair introduced this word for a central avenue of exhibits & amusements|the midway
+800|A 1939 New York World's Fair diorama predicting the look of the city in 1960 was called this, later a long-running animated TV series|Futurama
+1000|Exhibits at Osaka's 1970 World Expo included one of these microscopes capable of magnifying objects 500,000 times|an electron microscope

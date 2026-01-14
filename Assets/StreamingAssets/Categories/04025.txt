@@ -1,0 +1,6 @@
+CRICKET
+200|Like baseball's, cricket's scores are kept in these units; each team may have hundreds|runs
+400|In 1953 batsman Jack Hobbs became the first pro cricketer to receive this title from the monarch|knighthood
+600|The player in this position initiates the action|the bowler
+800|A striker can be declared out if he's LBW, "leg before" this|wicket
+1000|Term for an international match, or what its players are "put to\"|the test

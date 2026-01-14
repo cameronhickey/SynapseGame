@@ -1,0 +1,6 @@
+OF MANY "LAND"s
+200|A prominent identifying feature, like the Empire State Building|a landmark
+400|The practice of enhancing property with shaping, trees & plants|landscaping
+600|This New Orleans style of jazz is characterized by its improvisational solos|Dixieland
+800|Term for a country with no ocean access|landlocked
+1000|One once spanned what is now the Bering Strait|a land bridge

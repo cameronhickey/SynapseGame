@@ -1,0 +1,6 @@
+\"GENERAL" ASSEMBLY
+200|This soap opera premiered April 1, 1963|General Hospital
+400|A shop selling a variety of goods|General store
+600|A drug that produces unconsciousness|General anesthetic/anesthesia
+800|The price of unreserved seats at an event|General admission
+1000|It was the nickname of Bo & Luke's fast-moving 1969 Dodge Charger on "The Dukes of Hazzard\"|\"General Lee\"

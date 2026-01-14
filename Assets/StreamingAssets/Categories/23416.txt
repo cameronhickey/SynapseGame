@@ -1,0 +1,6 @@
+\"EZ" GEOGRAPHY
+200|An arm of the Red Sea, this gulf bears the name of the canal it feeds into|Suez
+400|El Paso, Texas sits just opposite this Mexican city on the Rio Grande|Juárez
+600|This city on the Lower Mississippi takes its name from a Native American people who once lived there|Natchez
+800|Brigitte Bardot & the filming of "And God Created Woman" made this "saint"ly French Riviera town an international destination|Saint-Tropez
+1000|This river flows for more than 1,700 miles east across Africa, emptying into the Mozambique Channel|Zambezi

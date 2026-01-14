@@ -1,0 +1,6 @@
+\"NEW" U.S. CITIES
+200|Yale University was around for 15 years before it moved to this city in 1716|New Haven
+400|The 33-story World Trade Center building rises at the south end of Canal Street in this city, y'all|New Orleans
+600|This New Jersey city boasts an international airport & the 360-acre Branch Brook Park|Newark
+800|The U.S. Naval War College & Naval Undersea Warfare Center is in this city on Narragansett Bay|Newport
+1000|Somewhat ironically, this Connecticut city was attacked, captured & burned by the British in 1781|New London

@@ -1,0 +1,6 @@
+MULTIPLE A's
+200|AA is a quality rating for corporate or municipal these|bonds
+400|AAM stands for this type of missile, likely shot by a plane at a plane|air-to-air missile
+600|\"We invented the aluminum industry", says this company, AA on the New York Stock Exchange|Alcoa
+800|No paintbrush needed, A.A. is short for this type of collegiate degree|associate of arts
+1000|Blame it on the AAR, meaning average annual this|rainfall (or return or revenue)

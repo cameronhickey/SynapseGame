@@ -1,0 +1,6 @@
+ON THE "L-I-E\"
+200|He takes over for the starting pitcher|relief pitcher
+400|A sergeant may be promoted to one|lieutenant
+600|Certain rights are said to be this, meaning not transferable|inalienable
+800|Put to use in a practical context, like a branch of physics|applied
+1000|An isolated body or an unusual piece of data|outlier

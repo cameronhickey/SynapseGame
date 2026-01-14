@@ -1,0 +1,6 @@
+FRENCH GRAMMAR
+200|\"Tu" is the singular & familiar form of "you"; this is the plural & polite form|Vous
+400|Masculine & feminine are the 2 types of this, an English word that often takes the place of "sex\"|Gender
+600|Part of speech represented in the last word of the phrase "L'etat c'est moi\"|Pronoun
+800|The purity of the language is guarded by this group with just 40 members|L'Academie Francaise (the French Academy)
+1000|More dietary fiber might help "aller" & "devoir" as they are this kind of verb|Irregular

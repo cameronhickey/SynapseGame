@@ -1,0 +1,6 @@
+HALF A TV TITLE PAIR
+200|\"& the City\"|Sex
+400|\"& Ebert\"|Siskel
+600|\"& Geeks\"|Freaks
+800|\"& the Beautiful\"|The Bold
+1000|\"& Down\"|Eastbound

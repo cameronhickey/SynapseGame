@@ -1,0 +1,6 @@
+CEPHALOPODCAST
+200|The term "cephalopoda" refers to these 2 body parts|the head & the foot
+400|The tentacles of cephalopods bear these, also a name for P.T. Barnum's customers|suckers
+600|Sepia is a variety of this 3-letter defensive secretion produced by cephalopods|ink
+800|This giant cephalopod has the largest eyes of any creature; they can be as big as a basketball|a giant squid
+1000|This chambered cephalopod is the only one with an external shell|a nautilus

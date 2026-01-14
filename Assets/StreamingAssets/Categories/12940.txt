@@ -1,0 +1,6 @@
+IT'S A COUNTRY THING
+200|Hat dance & jumping bean|Mexican
+400|Measles & potato salad|German
+600|Channel & saddle|English
+800|Elephant & ocean|Indian
+1000|Bacon & whiskey|Canadian

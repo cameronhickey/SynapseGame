@@ -1,0 +1,6 @@
+SEARCH: LIGHT
+200|This type of photoelectric cell converts sunlight to energy|solar
+400|This type of light can drill holes in diamonds or carry information over long distances|laser
+600|A bulb gives off light from this which comes from the resistance of the filament to the electric current|heat
+800|Light can behave like a particle or, when it bends, like one of these|wave
+1000|The photon, a light particle, has momentum & energy but no electric charge or this|mass

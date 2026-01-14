@@ -1,0 +1,6 @@
+CONGRESSIONAL LANGUAGE
+200|It's a proposed piece of legislation, not always from a man named William|a bill
+400|One may be standing, special or select|a committee
+600|Members can be pulled in from the hallways to complete this majority needed for business|a quorum
+800|When Al Gore presides over the Senate, this is his form of address|President of the Senate (Mr. President)
+1000|It's an opinion passed by the House, by the Senate or, as concurrent, by both|a resolution

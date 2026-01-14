@@ -1,0 +1,6 @@
+METROPOLITAN PARTNERS
+200|This city- Long Beach- Santa Ana|Los Angeles
+400|This city- Arlington- Alexandria|Washington, D.C.
+600|This city- Tacoma- Bellevue|Seattle
+800|This city- Mesa- Glendale|Phoenix
+1000|This city- Metairie- Kenner|New Orleans

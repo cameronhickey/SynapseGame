@@ -1,0 +1,6 @@
+BOOKS BY PRESIDENTS
+200|He authored "Notes on the State of Virginia\"|Thomas Jefferson
+400|\"A Time to Heal\"|Gerald Ford
+600|\"Strenuous Life\"|Theodore Roosevelt
+800|\"Looking Forward: An Autobiography\"|George H.W. Bush
+1000|\"The Anti-Trust Act and the Supreme Court\"|William Howard Taft

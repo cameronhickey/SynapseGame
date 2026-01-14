@@ -1,0 +1,6 @@
+BUZZ "OFF"!
+200|In football, the defense commits this violation by crossing the line of scrimmage before the ball is snapped|offsides
+400|A lateral stem from the main branch of a plant|an offshoot
+600|To serve as the main priest at a religious service|officiate
+800|Not only Orpheus but also Jupiter pursues Eurydice into the underworld in this composer's 1858 work|Offenbach
+1000|The Village Voice sponsors the Obies for these productions|Off-Broadway

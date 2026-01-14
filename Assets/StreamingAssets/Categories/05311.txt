@@ -1,0 +1,6 @@
+COUNTRIES IN SPANISH
+200|Sudafrica|South Africa
+400|Dinamarca|Denmark
+600|Alemania|Germany
+800|Islandia|Iceland
+1000|Reino Unido|United Kingdom

@@ -1,0 +1,6 @@
+SOUTHERN CITIES
+200|You can reach Fort Sumter by boat from this city's municipal marina or from Patriots Point|Charleston
+400|More than 30 thoroughfares in this city contain the word "Peachtree" in their names|Atlanta
+600|Native Americans called the site of this Louisiana capital Istrouma|Baton Rouge
+800|Incorporated in 1828, Louisville became an important port on this river|Ohio River
+1000|Flagler Street divides this Florida city into northern & southern areas|Miami

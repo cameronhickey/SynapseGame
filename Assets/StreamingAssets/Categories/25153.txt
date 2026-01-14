@@ -1,0 +1,6 @@
+THE PLAYWRIGHT IN QUESTION
+200|\"The Wedding", "The Bear", "Uncle Vanya\"|Anton Chekhov
+400|\"The Dreamy Kid", "More Stately Mansions", "Strange Interlude\"|(Eugene) O'Neill
+600|\"The Jealous Husband", "The Seductive Countess", "The Misanthrope\"|Molière
+800|\"Curse fo the Starving Class", "Buried Child", "A Lie of the Mind\"|Sam Shepard
+1000|\"American Buffalo", "Glengarry Glen Ross", "Sexusal Perversity in Chicago\"|David Mamet

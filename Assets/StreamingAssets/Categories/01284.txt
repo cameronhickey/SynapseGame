@@ -1,0 +1,6 @@
+BUILDINGS
+200|One of these usually tops a rotunda|a dome
+400|It can be a resort hotel or a house used during the hunting season|a lodge
+600|Associated with Dracula, Bran Castle is a popular tourist attraction in this Romanian region|Transylvania
+800|It comes before "house" in the name of a small building where meat is cured for your dining pleasure|smoke
+1000|Anthemius of Tralles & Isidorus of Miletus were the architects of this cathedral whose name means holy wisdom|Hagia Sophia

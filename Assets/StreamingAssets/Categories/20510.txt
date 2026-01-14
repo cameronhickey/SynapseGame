@@ -1,0 +1,6 @@
+SECURITY!
+200|We need you to bring a wand up front! Someone set off the walk-through type of this|a metal detector
+400|No, pocketing 2 company pens does not call for a "full" this with your hands locked behind the offender's neck|a full nelson
+600|When you told Eric to bring this to work, I think you meant a deterrent spray, not a spiked club|mace
+800|The RFID system, short for this "identification", is not working & we need to let people in|radio frequency identification
+1000|The intruder wouldn't stop & now we have a breach of this, also a geometry term for a boundary line|perimeter

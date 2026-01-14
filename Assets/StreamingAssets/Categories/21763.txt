@@ -1,0 +1,6 @@
+KEEP YOUR PLACES STRAIGHT
+200|In Texas, this city is home to an MLB team; in Virginia, a place of the same name is home to a national cemetery|Arlington
+400|Cities with this name are home to the Basketball Hall of Fame & the Illinois Capitol|Springfield
+600|One city of this name is just north of Washington state; the other is the seat of Clark County in Washington state|Vancouver
+800|\"We are here" in this city—but the one with a U. of Louisiana campus, or the seat of Tippecanoe County, Indiana?|Lafayette
+1000|Bausch + Lomb was founded in this city, New York; the Mayo Clinic, in this city, Minnesota|Rochester

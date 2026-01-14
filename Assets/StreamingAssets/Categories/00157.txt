@@ -1,0 +1,6 @@
+GENERALS
+200|Last President who was a general|Eisenhower
+400|\"Old Blood & Guts", he was tank commander in both World Wars|Patton
+600|Pres. Reagan made this 4-star general Sec. of State in '81|Alexander Haig
+800|Wearing familiar beret, he received greater acclamation than the King in '46 London victory parade|(Bernard) Montgomery
+1000|From '64 to '68 he led our troops in Vietnam|William Westmoreland

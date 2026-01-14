@@ -1,0 +1,6 @@
+CONDIMENTIA
+200|This word once referred to a mushroom puree more often than to the familiar tomato version|catsup
+400|Made from the seeds of a flowering plant, Plochman's & Gulden's are types of this|mustard
+600|Wilbur Scoville developed a test to gauge the perceived potency of these, found in condiments|hot peppers (chili peppers)
+800|In Kashmir, locals enjoy a type of this relish made with walnuts, yogurt & pomegranate seeds|chutney
+1000|Sure, salsa verde has jalapenos & cilantro, but most of the "verde" comes from these|tomatillos

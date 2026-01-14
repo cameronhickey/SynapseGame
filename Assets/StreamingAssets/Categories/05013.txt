@@ -1,0 +1,6 @@
+PLAY YOUR CARDS RIGHT
+200|It's the lowest total that makes you go bust in blackjack|22
+400|In the poker variation Spit in the Ocean, each player is initially dealt this many cards|4
+600|Phish musician Ernest Joseph Anastasio III, like many guys with III in their names, goes by this|Trey
+800|The word shah means this in Persian|king
+1000|In this form of a popular game, some cards are dealt face up & some face down; it used to have "horse" in its name|stud (stud poker)

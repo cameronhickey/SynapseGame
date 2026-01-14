@@ -1,0 +1,6 @@
+CELEBRITY DOG BREEDS
+200|Snoopy|a Beagle
+400|Beethoven|a Saint Bernard
+600|Perdita & Pongo|Dalmatian
+800|Eddie on "Frasier\"|a Jack Russell Terrier
+1000|Buddy of "Air Bud" fame|a Golden Retriever

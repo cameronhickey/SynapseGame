@@ -1,0 +1,6 @@
+PLURALIZE IT!
+200|When a sheep hangs out with the family, they're just a bunch of...|sheep
+400|One crisis, but 6 these, like in a Nixon book title|crises
+600|An ox has a hard life, so when you see a group of them, please call them this, not "oxes\"|oxen
+800|When an alumnus parties with the rest of the Class of '83, they're a bunch of drunk these|alumni
+1000|Look, it's a winged celestial being called a cherub! That makes it one of these, an unusual plural|cherubim

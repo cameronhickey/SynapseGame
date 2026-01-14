@@ -1,0 +1,6 @@
+STATE OF THE NEWSPAPER
+200|The Hartford Courant|Connecticut
+400|The Columbus Dispatch|Ohio
+600|The Rapid City Journal|South Dakota
+800|The Bainbridge Island Review|Washington
+1000|The Brattleboro Reformer|Vermont

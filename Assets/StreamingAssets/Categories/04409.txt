@@ -1,0 +1,6 @@
+ASTEROIDS
+200|In December 1994 asteroid 1994 XM1 came within 65,000 miles of this planet — too close for comfort|Earth
+400|Jupiter is a planet; this wife of his, just an asteroid|Juno
+600|Ceres, the largest & first minor planet discovered, orbits among the asteroids just beyond this planet|Venus
+800|Ida, photographed by the Galileo probe in 1993, has its own little one of these, named Dactyl|Moon
+1000|The fourth asteroid discovered was named for this Roman goddess of the hearth|Vesta

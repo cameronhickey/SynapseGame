@@ -1,0 +1,6 @@
+COUNTRIES' NATIONAL ANTHEMS
+200|\"La Marseillaise\"|France
+400|\"Kimigayo\"|Japan
+600|\"Wilhelmus van Nassouwe", or "William of Nassau\"|the Netherlands
+800|\"Himno Istmeño", or "Isthmus Hymn\"|Panama
+1000|\"Hatikvah\"|Israel

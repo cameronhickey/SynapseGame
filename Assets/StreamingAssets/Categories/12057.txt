@@ -1,0 +1,6 @@
+RUSSIAN FIRST NAME'S THE SAME
+200|Putin & Lenin|Vladimir
+400|Pasternak & Spassky|Boris
+600|Gromyko & Sakharov|Andrei
+800|Pavlov & Turgenev|Ivan
+1000|Eisenstein & Rachmaninoff|Sergei

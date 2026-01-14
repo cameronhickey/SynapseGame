@@ -1,0 +1,6 @@
+SHREW-ED
+200|Continent where you'd find the shrews Crocidura nigeriae & Crocidura tansaniana|Africa
+400|Canadian province where you'll most likely spot Trowbridge's shrew, which enjoys Douglas fir seeds|British Columbia
+600|The Southeastern shrew inhabits the marshy U.S. region that got this uninviting name from Col. William Byrd|the Great Dismal Swamp
+800|The Mt. Malindang shrew & the Palawan tree shrew are native to this country|the Philippines
+1000|It would be "serendip"itous to see a Kelaart's long-clawed shrew, as it lives only on this island|Sri Lanka

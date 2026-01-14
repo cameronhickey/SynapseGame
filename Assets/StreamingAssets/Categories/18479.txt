@@ -1,0 +1,6 @@
+ANIMAL TITLES
+200|\"So Long and Thanks for All the ____\"|Fish
+400|\"The Island of the Blue ____\"|Dolphins
+600|\"Mrs. Frisby and the ____ of Nimh\"|Rats
+800|\"Do Androids Dream of Electric ____?\"|Sheep
+1000|\"Lad: A ____\"|Dog

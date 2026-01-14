@@ -1,0 +1,6 @@
+GET SOME SUN
+200|The sun does this on its axis; since it's a ball of gas, its parts do it at varying speeds|rotates
+400|Like the moon's, the sun's gravity causes these on Earth, but they're half as high due to greater distance|tides
+600|A device you light to signal an emergency, or a brief brightening near a sunspot|a flare
+800|Your body needs these solar rays to make vitamin D, but too many can cause sunburn or worse|UV (ultraviolet) rays
+1000|The sun's energy comes from this nuclear reaction at 27,000,000 deg. F. — clearly not the cold type|fusion

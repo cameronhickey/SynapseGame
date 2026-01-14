@@ -1,0 +1,6 @@
+STATE FIRSTS
+200|This state had the first hospital, the first circulating library & the first scientific society, endowed by Ben Franklin himself|Pennsylvania
+400|In 1933 this state ushered in the first drive-in movie theater; it was located in Camden|New Jersey
+600|In 1869 this state scored big with the first professional baseball team, the Red Stockings|Ohio
+800|In 2001 it became the first U.S. state to ban hand-held phone use while driving|New York
+1000|In 1989 this state elected the first African-American governor, L. Douglas Wilder|Virginia

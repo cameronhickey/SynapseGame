@@ -1,0 +1,6 @@
+FENCING
+200|One of the 3 weapons used in fencing, it's also a verb meaning "to hinder\"|foil
+400|(Sofia of the Clue Crew fences with Cheryl.) Unlike epee, attacking with this type of sword gives a fencer the right-of-way to keep attacking|foil
+600|Excellent, sir! You have accepted my invitation to a contest of thrust & this, meaning "to deflect\"|parry
+800|(Sofia of the Clue Crew fences with Cheryl.) It's the basic term for the block of an opponent's attack|parry
+1000|In "Hamlet" Laertes says "A" this, "I do confess"; today he wouldn't have to, as the electronics would record it|a touch

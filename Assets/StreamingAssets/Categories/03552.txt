@@ -1,0 +1,6 @@
+WE HAVE BETTER GRAMMAR
+200|This type of word often ends with -ly, but not in phrases like "often ends\"|Adverb
+400|The prohibition on splitting these may derive from the fact that in Latin they're one word|Infinitives
+600|A clause that modifies a main clause, or term for a soldier of lower rank than another|Subordinate
+800|Sometimes ignored in English, it's the mood of hypothetical statements, as in "If I were king\"|Subjunctive
+1000|This word for sentences like "You've grown another foot" comes from Latin for "to go around\"|Ambiguous

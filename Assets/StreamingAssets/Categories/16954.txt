@@ -1,0 +1,6 @@
+STARTS WITH "E\"
+200|The E in EPA|Environmental
+400|Mysterious & puzzling, like the Mona Lisa's smile|enigmatic
+600|Tradition says that King Solomon wrote this book of the Old Testament containing essays on life|Ecclesiastes
+800|To bubble, hiss or foam as gas escapes, or what game show contestants are encouraged to do|to effervesce
+1000|Adjective that means an inferior & artificial substitute|ersatz

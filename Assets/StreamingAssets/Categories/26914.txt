@@ -1,0 +1,6 @@
+\"PORT" CITIES
+200|This Maine city is the closest major U.S. harbor to Europe|Portland
+400|This Haitian capital's national museum has the anchor of Columbus' Santa Maria on display|Port-au-Prince
+600|This capital of Trinidad & Tobago was founded in 1595 & named Puerto de Espana|Port of Spain
+800|This Egyptian city was founded in 1859 as a camp for Suez Canal workers|Port Said
+1000|Each October this Texas city has its Cavoilcade, a salute to the petroleum industry|Port Arthur

@@ -1,0 +1,6 @@
+\"A_D" VERBS
+200|Shortened a word|abbreviated
+400|Spirited someone away, likely illegally|abducted
+600|Turned away one's eyes, from the Latin for "to turn\"|averted
+800|Aided or assisted, specifically in the commission of a crime|abetted
+1000|Played piano at the soprano recital|accompanied

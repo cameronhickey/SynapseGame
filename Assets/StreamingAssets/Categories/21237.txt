@@ -1,0 +1,6 @@
+DESCRIBING THE TRAFFIC SIGN
+200|A red octagon|a stop sign
+400|Kids on a seesaw|a playground
+600|A blue rectangle with a large white "H\"|a hospital
+800|A red inverted triangle with a white interior|yield
+1000|An X-shaped sign (AKA a crossbuck)|a railroad crossing

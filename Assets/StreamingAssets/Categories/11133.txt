@@ -1,0 +1,6 @@
+\"C" IN BIOLOGY
+200|It's the part of the skull that encloses the brain|cranium
+400|This photosynthetic pigment absorbs red & blue-violet light & reflects green light|chlorophyll
+600|(Sarah of the Clue Crew holds up a honeycomb.) Honey, pollen & fertilized eggs are some of the things that may be stored in a honeycomb's compartments, which are called these|cells
+800|In anatomy, it's the outermost layer of an organ, like the renal one|cortex
+1000|This coiled part of the inner ear that's concerned with hearing contains the organ of Corti|cochlea

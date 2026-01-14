@@ -1,0 +1,6 @@
+GREEK, WEAK
+200|Achilles' one weakness was here, left dry when his mother dipped him in the River Styx|his heel
+400|Aeschylus called this Greek's bearing of the heaven & earth "a burden not easy for his arms to grasp\"|Atlas
+600|In Shakespeare's play about him & Cressida, he says, "I am weaker than a woman's tear\"|Troilus
+800|Phaethon tries to ride this god's chariot through the skies but isn't strong enough to control the horses|Helios
+1000|Suitors to Penelope struggle to string this man's bow, & it gets worse for them after that|Odysseus

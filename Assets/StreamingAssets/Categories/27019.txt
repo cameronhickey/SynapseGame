@@ -1,0 +1,6 @@
+FOREIGN "LAND"s
+200|This country's political parties include Fianna Fail & Fine Gael|Ireland
+400|In 1944 this country broke away from Denmark & elected Sveinn Bjornsson its first president|Iceland
+600|This Southern Hemisphere island nation became a dominion of Great Britain Sept. 26, 1907|New Zealand
+800|Jozef Pilsudski seized power in this country in 1926 & ruled it until his death in 1935|Poland
+1000|This northern European country's legislature is called the Eduskunta|Finland

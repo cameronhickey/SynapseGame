@@ -1,0 +1,6 @@
+TOOL KIT
+200|This farm implement with sharp prongs isn't for eating, it's for lifting or tossing hay|a fork (or a pitchfork)
+400|One-word alternate term for the rubber implement called a plumber's helper|a plunger
+600|It's a tube on a handle used to remove the middle of a Granny Smith|a corer
+800|The "felling" type of this tool has 2 main parts, head & handle|an ax
+1000|They're the 2 main types of hammer, one also used for shaping & one also used for removing nails|ball-peen & claw

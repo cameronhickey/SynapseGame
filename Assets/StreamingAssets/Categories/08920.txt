@@ -1,0 +1,6 @@
+BIOGRAPHY SUBTITLES
+200|A president: "Remembering Jack\"|John Kennedy
+400|A Frenchman: "The Boy Who Invented Books for the Blind\"|(Louis) Braille
+600|A Revolutionary War figure: "Sailor, Hero, Father of the American Navy\"|John Paul Jones
+800|An entrepreneur: "Bargain Billionaire\"|Sam Walton
+1000|A '60s civil rights leader: "By Any Means Necessary\"|Malcolm X

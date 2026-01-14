@@ -1,0 +1,6 @@
+STUFF ABOUT STATES
+200|Red Lake is the largest of the more than 10,000 lakes within this state|Minnesota
+400|Judging from its nicknames, it's full of lakes & gophers|Minnesota
+600|Rugged beauty abounds at Badlands National Park in this state|South Dakota
+800|This original 13er is the largest state in land area east of the Mississippi River|Georgia
+1000|The words "Battle Born" appear on the flag of this state that entered the Union during the Civil War|Nevada

@@ -1,0 +1,6 @@
+2-LETTER WORDS
+200|Precedes "for broke" & "man, go\"|go
+400|A printer's space one-half the width of an em|en
+600|It's approximately equal to 3.14|pi
+800|Yes, it's the oldest form of Japanese drama still performed|No
+1000|Holy Cow! Zeus turned her into a heifer|Io

@@ -1,0 +1,6 @@
+\"HAL\"
+200|Hebrew for "praise God", it's a shout of praise to God|hallelujah
+400|If you order hirame in a sushi bar, you'll get this North Atlantic fish|halibut
+600|This astronomer financed the 1687 publication of Isaac Newton's masterwork, the "Principia\"|Edmund Halley
+800|It's the medical term for bad breath|halitosis
+1000|Naturally occurring crystalline sodium chloride|halite

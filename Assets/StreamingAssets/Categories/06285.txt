@@ -1,0 +1,6 @@
+MOVIE TITLE PAIRS
+200|1999: "____ and the KIng\"|Anna
+400|1947: "____ and the Bobby-Soxer\"|The Bachelor
+600|1993: "____ and Joon\"|Benny
+800|1983: "____ and the Cruisers\"|Eddie
+1000|1941: "____ and Miss Jones\"|The Devil

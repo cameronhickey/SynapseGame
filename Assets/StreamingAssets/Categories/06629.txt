@@ -1,0 +1,6 @@
+FILL IN THE BLANK STATE NICKNAMES
+200|Arizona: Grand ____ State|Canyon
+400|Michigan: _____ Lakes State|Great
+600|Texas: ____ Star State|Lone
+800|Missouri: Show __ State|Me
+1000|Alabama: _____ of Dixie|Heart

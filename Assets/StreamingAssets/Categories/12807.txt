@@ -1,0 +1,6 @@
+TYPING TEST
+200|Of the letters in the bottom row, the last alphabetically|Z
+400|Of the letters in the bottom row, the second-to-last alphabetically|X
+600|In the top row, the pronoun formed by the letters between "Q" & "R\"|we
+800|In the top row, the third & fourth letters from the left spell this part of a hospital|ER
+1000|Of the letters in the home row, it's the only vowel|A

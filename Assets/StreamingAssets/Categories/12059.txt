@@ -1,0 +1,6 @@
+HORROR MOVIE SERIES BY CHARACTER
+200|Michael Myers|Halloween
+400|Freddy Krueger|Nightmare on Elm Street
+600|Jason Voorhees|Friday the 13th
+800|Leatherface|The Texas Chainsaw Massacre
+1000|Pinhead|Hellraiser

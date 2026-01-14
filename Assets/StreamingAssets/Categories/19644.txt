@@ -1,0 +1,6 @@
+THE U.N.'s COUNTRY ABBREVIATION
+200|BEL, in Western Europe|Belgium
+400|BEN|Benin
+600|BHR|Bahrain
+800|BRB|Barbados
+1000|BGR|Bulgaria

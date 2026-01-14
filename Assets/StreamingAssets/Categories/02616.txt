@@ -1,0 +1,6 @@
+WHEAT
+200|South America's main wheat-growing area is the Pampa in this country|Argentina
+400|Types of wheat are grouped according to these 2 seasons|Winter & spring
+600|Nabisco makes these crispy crackers; Red Oval Farms makes them "Stoned\"|Wheat Thins
+800|1-word name of a cooked cereal introduced in 1879 as an alternative to oatmeal|Wheatena
+1000|Best known as part of tabbouleh, it's also an ingredient in many meatless burgers|bulgur

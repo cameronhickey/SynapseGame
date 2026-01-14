@@ -1,0 +1,6 @@
+RUFF CROWD
+200|A Plano, Texas movie theater with this alphanumeric name is famous for letting you bring your dog to the cinema|K9 (Cinemas)
+400|This NFL team has a proud dog named SJ as a mascot; there are Dawgs in the stands, too|the Cleveland Browns
+600|When it was formed in 1884, this club created a constitution & rules for dog shows|the American Kennel Club
+800|This actress who played Sansa on "Game of Thrones" adopted the dog who played the direwolf "Lady" on the show|Sophie Turner
+1000|Modern guide dogs were popularized by a school near Berlin that used this breed to help blinded soldiers|German Shepherds

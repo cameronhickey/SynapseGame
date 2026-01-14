@@ -1,0 +1,6 @@
+NHL TEAMS IN OTHER WORDS
+200|The Monarchs|the Kings
+400|The Great Whites|the (San Jose) Sharks
+600|Electrical Discharge|the (Tampa Bay) Lightning
+800|Tropical Storms|the Hurricanes
+1000|The Cavalry Swords|the (Buffalo) Sabres

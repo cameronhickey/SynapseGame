@@ -1,0 +1,6 @@
+TAKE "FIVE\"
+200|An informal greeting involving the slapping of raised palms|high five (gimme five accepted)
+400|Jack Nicholson played Robert, the troubled wanderer & pianist, in this 1970 classic|Five Easy Pieces
+600|Self-governing name for the Choctaws & 4 others|the Five Civilized Tribes
+800|Early 20th century writer Adelaide Crapsey created the cinquain, which is one of these|a five-line verse (a poem with five lines accepted)
+1000|Conan Doyle penned this Sherlock Holmes story in 1891|The Five Orange Pips

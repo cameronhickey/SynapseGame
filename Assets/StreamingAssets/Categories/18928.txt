@@ -1,0 +1,6 @@
+IN SINK
+200|Many thought John Hammes was a madman when he created the InSinkErator, one of the first of these|garbage disposal
+400|Irwin Cox answered a distress call when he invented this brand of steel-wool pads, found in kitchen sinks since 1917|S.O.S.
+600|To the joy of dish washers, in 1960 DuPont introduced cookware coated with the nonstick polymer known by this trade name|Teflon
+800|This cleanser with a star on its label was introduced as a gentler alternative to Ajax|Comet
+1000|Food residue in the enameled cast-iron cookware from this brand whose name is French for "cauldron"; it's okay to let it soak|Le Creuset

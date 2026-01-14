@@ -1,0 +1,6 @@
+NAME THAT POET
+200|\"I have promises to keep, and miles to go before I sleep\"|Robert Frost
+400|\"Shall I compare thee to a summer's day?\"|Shakespeare
+600|\"By the shores of Gitche Gumee, by the shining big-sea-water, stood the Wigwam of Nokomis\"|(Henry Wadsworth) Longfellow
+800|\"A knyght ther was, and that a worthy man, that fro the tyme that he first bigan to riden out, he loved chivalrie\"|(Geoffrey) Chaucer
+1000|\"In Xanadu did Kubla Khan a stately pleasure dome decree\"|Samuel Taylor Coleridge

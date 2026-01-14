@@ -1,0 +1,6 @@
+S.U.V. A-OK
+200|GM's Suburban & Tahoe|Chevrolet
+400|RAV4 & 4Runner|Toyota
+600|CR-V & Passport|Honda
+800|Montero|Mitsubishi
+1000|Grand Vitara|Suzuki

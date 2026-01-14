@@ -1,0 +1,6 @@
+STATES BY COUNTY
+200|Kern, Imperial, Lassen|California
+400|Powhatan, Spotsylvania, Appomattox|Virginia
+600|Autauga, Coosa, Talladega|Alabama
+800|Barnstable, Nantucket, Plymouth|Massachusetts
+1000|Mesa, Cheyenne, Pueblo|Colorado

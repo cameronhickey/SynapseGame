@@ -1,0 +1,6 @@
+ANIMAL SHELTERS
+200|Pun alert! To make its home, the pocket gopher doesn't beg or steal, it does this|burrows
+400|The "livery" type of this hires out horses & carriages|a stable
+600|The barn in "Charlotte's Web" has a pigpen for Wilbur, tie-ups for the cows & this "down below for the sheep\"|a sheepfold
+800|If you own 1 or more cichlids, we hope you keep them in one of these|an aquarium
+1000|(Cheryl of the Clue Crew reports from Tinos, Greece.) The Greek Island of Tinos is noted for these elaborate structres built to house a certain bird|dovecotes

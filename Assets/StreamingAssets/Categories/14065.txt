@@ -1,0 +1,6 @@
+FOREIGN MAYORS
+200|In 2003 Mahmoud Ahmadinejad became mayor of this capital city|Tehran
+400|Before becoming prime minister of Israel, Ehud Olmert was mayor of this city|Jerusalem
+600|Israel Pinheiro was the first mayor of this South American capital that was dedicated in 1960|Brasilia
+800|Lee Teng-hui democratized the political system of Taiwan after serving as mayor of this city|Taipei
+1000|Bertie Ahern was a lord mayor in this country before becoming its youngest prime minister|Ireland

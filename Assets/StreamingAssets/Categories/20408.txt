@@ -1,0 +1,6 @@
+THAT'S OUR COLOR
+200|UPS|brown
+400|Tiffany|(robin's-egg) blue
+600|Owens Corning, for insulation|pink
+800|Caterpillar|yellow
+1000|AstraZeneca, for Nexium|purple

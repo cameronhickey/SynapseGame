@@ -1,0 +1,6 @@
+CIRCLES, SQUARES & DODECAHEDRONS
+200|You'll find the National Museum of China on the east side of this square|Tiananmen Square
+400|The damage caused by a barbarian's weapon can be determined by a roll of a dodecahedron in this game created in 1974|Dungeons & Dragons
+600|It's the equation for the circumference of a circle|2πr
+800|For this move, also a leisurely walk, square dancers join hands & walk counterclockwise until they reach the home position|promenade
+1000|Found at 66 1/2 degrees south latitude, it's one of the 5 major geographic circles of the Earth|the Antarctic Circle

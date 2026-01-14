@@ -1,0 +1,6 @@
+TILE LAND
+200|The Roman pool at this publisher's California "castle" is decorated from floor to ceiling with glass tiles|(William Randolph) Hearst
+400|The great pavement in front of the high altar at this London church uses a mosaic technique called cosmati work|Westminster Abbey
+600|The Blue Mosque in this Turkish city gets its name from the 20,000 blue tiles that line its ceiling|Istanbul
+800|This Moorish fortress in Granada, Spain has a type of polygonal mosaic called alicatado|the Alhambra
+1000|Spectacular blue tiles are a feature of Yazd's Jame mosque, seen on this country's 200-rial note|Iran

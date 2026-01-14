@@ -1,0 +1,6 @@
+A PRO TEAM IN THAT SPORT
+200|The Yomiuri Giants|baseball
+400|The Mumbai Indians|cricket
+600|The Montreal Alouettes|Canadian Football (the CFL)
+800|The Chicago Sky|basketball
+1000|The Seattle Kraken|professional hockey

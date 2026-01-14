@@ -1,0 +1,6 @@
+ALGAE WHIZ
+200|The "phyto" type of this algae is a major food source directly or indirectly of many sea organisms|plankton
+400|Algae range from microscopic organisms up to giant species of this saltwater type that reaches 200 feet in length|kelp
+600|Like virtually all photosynthetic organisms, algae contain this pigment that absorbs energy from light|chlorophyll
+800|(Jimmy shows an animation of asexual mitosis on the monitor.) Some green algae reproduce through asexual mitosis, in which these important genetic components are split into identical pairs that migrate to the two new cells|chromosomes
+1000|Some algae have been classified in this kingdom neither fully plant nor animal|Protista or protists

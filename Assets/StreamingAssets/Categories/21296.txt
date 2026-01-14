@@ -1,0 +1,6 @@
+VIXEN
+200|Vixens are female foxes; like cats, they have vertical eye pupils & some have this type of claws that can be pulled back in|retractable
+400|A mother vixen bears young called pups, cubs or these|kits
+600|In preparation for giving birth, a vixen will enlarge an abandoned burrow of another animal to make one of these|a den
+800|That vixen may look pettable but be careful—some foxes are carriers of this disease, AKA hydrophobia|rabies
+1000|The smallest vixens belong to the smallest fox species, the fennec, usually found in these ecosystems|the desert

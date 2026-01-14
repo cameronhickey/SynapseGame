@@ -1,0 +1,6 @@
+COMPUTERS & THE INTERNET
+200|This Google product is the USA's most-used web browser|Chrome
+400|The Wow! computer for seniors says it has "free anti-virus" & this bad stuff "protection\"|malware
+600|Old monitors needed a screensaver, which moved so it wouldn't burn in; today you can use this static image, also a home decorating item|wallpaper
+800|Smaller networks can be secured with the packet-filtering type of this protective program|a firewall
+1000|Like a T-shirt, a computer program is made of these; in an online forum, they're sequences of comments on the same topic|threads

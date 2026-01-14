@@ -1,0 +1,6 @@
+CONVERT THE ROMAN NUMERALS
+200|A movie classic: MMI|2001
+400|Kennedy craft: CIX|109
+600|A number needed to be elected president: CCLXX|270
+800|Truly a Venus: XXXVI, XXIV, XXXVI|36-24-36
+1000|Good year for sailing: MCDXCII|1492

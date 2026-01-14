@@ -1,0 +1,6 @@
+HEALTH WATCH
+200|Short periods in the sun provide this vitamin AKA cholecalciferol|D
+400|Regular exercise can raise this "good" type of cholesterol|HDL
+600|Abbreviated O.T., it's designed to maintain &/or improve a patient's living skills|occupational therapy
+800|In public showers you're advised to wear shower shoes to prevent this condition, tinea pedis|athlete's foot
+1000|Sudden fever & neck stiffness could signal this serious inflammation of the membranes that surround the brain & spinal cord|meningitis

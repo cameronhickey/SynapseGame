@@ -1,0 +1,6 @@
+FOR "ME\"
+200|Usually occurring in children, this disease is caused by a morbillivirus|measles
+400|In the Sermon on the Mount, they are called blessed|the meek
+600|This reservoir was formed by Hoover Dam|Lake Mead
+800|From the Latin for "lean", it means deficient or barely adequate|meager
+1000|A value below which 50% of subjects fall, or a strip down the middle of the road|the median

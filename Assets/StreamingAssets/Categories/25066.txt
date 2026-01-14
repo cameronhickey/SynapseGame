@@ -1,0 +1,6 @@
+NATIONAL NICKNAMES
+200|The Land of the Rising Sun|Japan
+400|The Roof of the World|Tibet
+600|\"Cathay\"|China
+800|\"John Bull\"|England
+1000|\"Queen of the Antilles\"|Cuba

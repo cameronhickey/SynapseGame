@@ -1,0 +1,6 @@
+IT TAKES TWO
+200|According to the initials, the accommodations offered by a B&B|a bed & breakfast
+400|The 2 cities referred to in the title of Dickens' "A Tale of Two Cities\"|London & Paris
+600|The 2 movies featuring Paul Newman as "Fast Eddie" Felson|The Hustler & The Color of Money
+800|The 2 things a hiker needs for orienteering|a compass & a map
+1000|At the Winter Olympics the 2 events that form the biathlon|shooting & skiing

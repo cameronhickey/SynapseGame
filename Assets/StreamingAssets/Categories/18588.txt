@@ -1,0 +1,6 @@
+COUNTRIES BY HOTEL
+200|The Taj West End Hotel|India
+400|The Victoria Falls Hotel, just south of the falls|Zimbabwe
+600|The Yak & Yeti|Nepal
+800|The Fairmont Chateau Laurier|Canada
+1000|The Westin Chosun|South Korea

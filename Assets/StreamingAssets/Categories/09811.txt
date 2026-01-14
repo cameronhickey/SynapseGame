@@ -1,0 +1,6 @@
+NASCAR GEOGRAPHY
+200|Daytona International Speedway|Florida
+400|Infineon Raceway in Sonoma|California
+600|Nazareth Speedway, Pocono Raceway|Pennsylvania
+800|Talladega Superspeedway|Alabama
+1000|Watkins Glen International|New York

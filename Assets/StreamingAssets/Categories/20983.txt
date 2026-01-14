@@ -1,0 +1,6 @@
+WHO HAS MY LETTER?
+200|\"String" that's a skimpy article of clothing|a g-string
+400|Drop & give me 50, in Roman numerals|L
+600|In Irish family names, this prefix means "descendant\"|O
+800|It's definitely an indefinite article|A
+1000|There's a giant one on a Provo, Utah hillside; the letters "B" before it & "U" after it never got built|Y

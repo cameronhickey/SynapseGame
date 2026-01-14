@@ -1,0 +1,6 @@
+ADJECTIVES
+200|From the Latin for "horse", this 6-letter adjective means pertaining to or resembling a horse|Equine
+400|Antediluvian means "before" this event described in Genesis 7 & 8|The Flood
+600|Burly, like a certain sled dog|Husky
+800|Fancy-free, as in the title of a Kevin Bacon-Lori Singer film|Footloose
+1000|It's the first adjective in the poem "The Raven\"|dreary

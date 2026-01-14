@@ -1,0 +1,6 @@
+WHERE'S THAT OPERA HOUSE?
+200|Teatro Real, like a nearby soccer club|Madrid
+400|La Scala|Milan
+600|The Staatsoper, once helmed by Gustav Mahler & Richard Strauss|Vienna
+800|The Croatian National Theatre—this capital|Zagreb
+1000|Festspielhaus, in this double-talk town|Baden-Baden

@@ -1,0 +1,6 @@
+\"NEEDLE"s
+200|A futile search is like looking for 1 of these|a needle in a haystack
+400|Embroidery done on canvas|needlepoint
+600|That tingling feeling you get when your circulation is cut off, or 2 components of your sewing kit|pins and needles
+800|It dominates Seattle's skyline|the Space Needle
+1000|This 1981 Donald Sutherland film was based on a WWII spy novel by Ken Follett|The Eye of the Needle

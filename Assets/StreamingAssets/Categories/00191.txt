@@ -1,0 +1,6 @@
+THE SUPREME COURT
+200|Justices can be removed from the court by this legal process, though it hasn't happened yet|impeachment
+400|In 1944's Korematsu v. U.S. the court upheld the detention of people of this ancestry|Japanese
+600|In Engel v. Vitale in 1962, the court prohibited this practice in public schools|prayer
+800|In the case of this famous slave, the court ruled in 1857 that the Missouri Compromise was unconstitutional|Dred Scott
+1000|This 1954 decision outlawing school segregation was unanimous|Brown v. Board of Education

@@ -1,0 +1,6 @@
+SINGLE T, DOUBLE T
+200|The winner of the battle for survival per Darwin|the fittest
+400|A short, half-suppressed laugh or giggle|titter
+600|Miss Manners is an expert on this standard of appropriate behavior in social settings|etiquette
+800|This women's underskirt has been worn since the Middle Ages|a petticoat
+1000|Crenels are the empty parts & merlons are the solid parts in this structure, a type of parapet|a battlement

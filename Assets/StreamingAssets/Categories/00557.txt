@@ -1,0 +1,6 @@
+HYPHENATES
+200|Birth & burial place of England's most famous playwright|Stratford-upon-Avon
+400|Corporate creators of Fred Flintstone & Yogi Bear|Hanna-Barbera
+600|\"Mad, Mad, Mad, Mad World" star who says his hyphen comes from the gap between his teeth|Terry-Thomas
+800|Contemporary French flutist who's recorded record number of classical albums|Jean-Pierre Rampal
+1000|Company that makes Drano, Windex, Ban, Clairol, Bufferin & Excedrin|Bristol-Myers

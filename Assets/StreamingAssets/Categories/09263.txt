@@ -1,0 +1,6 @@
+DOUBLE "L\"
+200|From the Latin for "bind to", this 4-letter word's synonyms are accomplice & friend; antonyms, enemy & foe|ally
+400|Repetitive literary device illustrated in "Peter Piper picked a peck of pickled peppers\"|alliteration
+600|This 1969 hit by The Who was the first of 3 from their rock opera album "Tommy\"|\"Pinball Wizard\"
+800|A streetcar|trolley
+1000|It can refer to an onion before the development of the bulb, or an onionlike plant such as the leek or shallot|scallion (allium accepted)

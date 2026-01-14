@@ -1,0 +1,6 @@
+NOT A NATIONAL CAPITAL
+200|Rio de Janeiro, Buenos Aires, Asuncion|Rio de Janeiro
+400|Calcutta, Thimphu, Phnom Penh|Calcutta
+600|Nicosia, Istanbul, Belgrade|Istanbul
+800|Katmandu, Kabul, Karachi|Karachi
+1000|Lusaka, Casablanca, Dakar|Casablanca

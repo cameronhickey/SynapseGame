@@ -52,8 +52,10 @@ namespace Cerebrum.UI
         private GameObject shadowCard;
         private RectTransform shadowCardRect;
         private Image shadowCardImage;
-        private Material cardMaterial;
-        private Material backMaterial;
+        #pragma warning disable CS0414
+        private Material cardMaterial; // Kept for compatibility, no longer used
+        private Material backMaterial; // Kept for compatibility, no longer used
+        #pragma warning restore CS0414
         private bool isAnimating;
         private bool isShowing;
         
@@ -125,9 +127,7 @@ namespace Cerebrum.UI
             cardCanvas.sortingOrder = 100;
             cardContainer.AddComponent<GraphicRaycaster>();
 
-            // Load metallic shader (may not be available until imported)
-            Shader metallicShader = Shader.Find("UI/MetallicCard");
-            Debug.Log($"[ClueRevealAnimator] MetallicCard shader found: {metallicShader != null}");
+            // Card styling now uses layered UI approach instead of custom shader
 
             // Create BACK of card (shows dollar amount, visible first)
             backCard = new GameObject("CardBack");
@@ -137,37 +137,65 @@ namespace Cerebrum.UI
             backCardRect.anchorMax = Vector2.one;
             backCardRect.offsetMin = Vector2.zero;
             backCardRect.offsetMax = Vector2.zero;
-            backCardImage = backCard.AddComponent<Image>();
-            
-            if (metallicShader != null)
-            {
-                backMaterial = new Material(metallicShader);
-                backMaterial.SetColor("_TopColor", cardTopColor);
-                backMaterial.SetColor("_BottomColor", cardBottomColor);
-                backMaterial.SetColor("_HighlightColor", highlightColor);
-                backMaterial.SetFloat("_HighlightPos", 0.5f);
-                backMaterial.SetFloat("_EdgeGlow", 0f);
-                backCardImage.material = backMaterial;
-            }
-            else
-            {
-                // Fallback: solid blue color
-                backCardImage.color = new Color(0.1f, 0.1f, 0.5f, 1f);
-            }
+
+            // Back card Layer 1: Outer glow
+            GameObject backOuterGlow = new GameObject("OuterGlow");
+            backOuterGlow.transform.SetParent(backCard.transform, false);
+            RectTransform backGlowRect = backOuterGlow.AddComponent<RectTransform>();
+            backGlowRect.anchorMin = Vector2.zero;
+            backGlowRect.anchorMax = Vector2.one;
+            backGlowRect.offsetMin = new Vector2(-8, -8);
+            backGlowRect.offsetMax = new Vector2(8, 8);
+            Image backGlowImage = backOuterGlow.AddComponent<Image>();
+            backGlowImage.color = new Color(0.2f, 0.5f, 0.8f, 0.4f);
+            Outline backGlow1 = backOuterGlow.AddComponent<Outline>();
+            backGlow1.effectColor = new Color(0.3f, 0.6f, 0.9f, 0.3f);
+            backGlow1.effectDistance = new Vector2(6, 6);
+            Outline backGlow2 = backOuterGlow.AddComponent<Outline>();
+            backGlow2.effectColor = new Color(0.8f, 0.5f, 0.3f, 0.2f);
+            backGlow2.effectDistance = new Vector2(4, -4);
+
+            // Back card Layer 2: Border frame
+            GameObject backBorderFrame = new GameObject("BorderFrame");
+            backBorderFrame.transform.SetParent(backCard.transform, false);
+            RectTransform backBorderRect = backBorderFrame.AddComponent<RectTransform>();
+            backBorderRect.anchorMin = Vector2.zero;
+            backBorderRect.anchorMax = Vector2.one;
+            backBorderRect.offsetMin = Vector2.zero;
+            backBorderRect.offsetMax = Vector2.zero;
+            backCardImage = backBorderFrame.AddComponent<Image>();
+            backCardImage.color = new Color(0.4f, 0.55f, 0.75f, 0.9f);
+            Outline backBorderInner = backBorderFrame.AddComponent<Outline>();
+            backBorderInner.effectColor = new Color(0.6f, 0.75f, 0.95f, 0.8f);
+            backBorderInner.effectDistance = new Vector2(2, 2);
+
+            // Back card Layer 3: Inner panel
+            GameObject backInnerPanel = new GameObject("InnerPanel");
+            backInnerPanel.transform.SetParent(backCard.transform, false);
+            RectTransform backInnerRect = backInnerPanel.AddComponent<RectTransform>();
+            backInnerRect.anchorMin = Vector2.zero;
+            backInnerRect.anchorMax = Vector2.one;
+            backInnerRect.offsetMin = new Vector2(4, 4);
+            backInnerRect.offsetMax = new Vector2(-4, -4);
+            Image backInnerImage = backInnerPanel.AddComponent<Image>();
+            backInnerImage.color = new Color(0.06f, 0.08f, 0.18f, 0.95f);
 
             // Back text (dollar amount)
             GameObject backTextObj = new GameObject("BackText");
             backTextObj.transform.SetParent(backCard.transform, false);
             backText = backTextObj.AddComponent<TextMeshProUGUI>();
             backText.alignment = TextAlignmentOptions.Center;
-            backText.fontSize = 72;
+            backText.fontSize = 120;
             backText.color = new Color(1f, 0.85f, 0.4f); // Gold color
             backText.fontStyle = FontStyles.Bold;
+            backText.enableAutoSizing = true;
+            backText.fontSizeMin = 48;
+            backText.fontSizeMax = 200;
             RectTransform backTextRect = backTextObj.GetComponent<RectTransform>();
             backTextRect.anchorMin = Vector2.zero;
             backTextRect.anchorMax = Vector2.one;
-            backTextRect.offsetMin = Vector2.zero;
-            backTextRect.offsetMax = Vector2.zero;
+            backTextRect.offsetMin = new Vector2(20, 20);
+            backTextRect.offsetMax = new Vector2(-20, -20);
 
             // Create FRONT of card (shows clue text, hidden initially)
             frontCard = new GameObject("CardFront");
@@ -177,24 +205,48 @@ namespace Cerebrum.UI
             frontCardRect.anchorMax = Vector2.one;
             frontCardRect.offsetMin = Vector2.zero;
             frontCardRect.offsetMax = Vector2.zero;
-            frontCardImage = frontCard.AddComponent<Image>();
-            
-            if (metallicShader != null)
-            {
-                cardMaterial = new Material(metallicShader);
-                cardMaterial.SetColor("_TopColor", cardTopColor);
-                cardMaterial.SetColor("_BottomColor", cardBottomColor);
-                cardMaterial.SetColor("_HighlightColor", highlightColor);
-                cardMaterial.SetColor("_EdgeGlowColor", edgeGlowColor);
-                cardMaterial.SetFloat("_HighlightPos", 0.5f);
-                cardMaterial.SetFloat("_EdgeGlow", 0f);
-                frontCardImage.material = cardMaterial;
-            }
-            else
-            {
-                // Fallback: solid blue color
-                frontCardImage.color = new Color(0.1f, 0.1f, 0.5f, 1f);
-            }
+
+            // Front card Layer 1: Outer glow
+            GameObject frontOuterGlow = new GameObject("OuterGlow");
+            frontOuterGlow.transform.SetParent(frontCard.transform, false);
+            RectTransform frontGlowRect = frontOuterGlow.AddComponent<RectTransform>();
+            frontGlowRect.anchorMin = Vector2.zero;
+            frontGlowRect.anchorMax = Vector2.one;
+            frontGlowRect.offsetMin = new Vector2(-8, -8);
+            frontGlowRect.offsetMax = new Vector2(8, 8);
+            Image frontGlowImage = frontOuterGlow.AddComponent<Image>();
+            frontGlowImage.color = new Color(0.2f, 0.5f, 0.8f, 0.4f);
+            Outline frontGlow1 = frontOuterGlow.AddComponent<Outline>();
+            frontGlow1.effectColor = new Color(0.3f, 0.6f, 0.9f, 0.3f);
+            frontGlow1.effectDistance = new Vector2(6, 6);
+            Outline frontGlow2 = frontOuterGlow.AddComponent<Outline>();
+            frontGlow2.effectColor = new Color(0.8f, 0.5f, 0.3f, 0.2f);
+            frontGlow2.effectDistance = new Vector2(4, -4);
+
+            // Front card Layer 2: Border frame
+            GameObject frontBorderFrame = new GameObject("BorderFrame");
+            frontBorderFrame.transform.SetParent(frontCard.transform, false);
+            RectTransform frontBorderRect = frontBorderFrame.AddComponent<RectTransform>();
+            frontBorderRect.anchorMin = Vector2.zero;
+            frontBorderRect.anchorMax = Vector2.one;
+            frontBorderRect.offsetMin = Vector2.zero;
+            frontBorderRect.offsetMax = Vector2.zero;
+            frontCardImage = frontBorderFrame.AddComponent<Image>();
+            frontCardImage.color = new Color(0.4f, 0.55f, 0.75f, 0.9f);
+            Outline frontBorderInner = frontBorderFrame.AddComponent<Outline>();
+            frontBorderInner.effectColor = new Color(0.6f, 0.75f, 0.95f, 0.8f);
+            frontBorderInner.effectDistance = new Vector2(2, 2);
+
+            // Front card Layer 3: Inner panel
+            GameObject frontInnerPanel = new GameObject("InnerPanel");
+            frontInnerPanel.transform.SetParent(frontCard.transform, false);
+            RectTransform frontInnerRect = frontInnerPanel.AddComponent<RectTransform>();
+            frontInnerRect.anchorMin = Vector2.zero;
+            frontInnerRect.anchorMax = Vector2.one;
+            frontInnerRect.offsetMin = new Vector2(4, 4);
+            frontInnerRect.offsetMax = new Vector2(-4, -4);
+            Image frontInnerImage = frontInnerPanel.AddComponent<Image>();
+            frontInnerImage.color = new Color(0.06f, 0.08f, 0.18f, 0.95f);
 
             // Front text (clue question)
             GameObject frontTextObj = new GameObject("FrontText");
@@ -209,8 +261,8 @@ namespace Cerebrum.UI
             frontText.fontSizeMax = 96;
 
             RectTransform frontTextRect = frontTextObj.GetComponent<RectTransform>();
-            frontTextRect.anchorMin = new Vector2(0.08f, 0.12f);
-            frontTextRect.anchorMax = new Vector2(0.92f, 0.88f);
+            frontTextRect.anchorMin = new Vector2(0.05f, 0.08f);
+            frontTextRect.anchorMax = new Vector2(0.95f, 0.92f);
             frontTextRect.offsetMin = Vector2.zero;
             frontTextRect.offsetMax = Vector2.zero;
 
@@ -400,21 +452,6 @@ namespace Cerebrum.UI
                     frontCard.SetActive(true);
                 }
 
-                // Animate shimmer during flip
-                if (cardMaterial != null)
-                {
-                    float highlightPos = Mathf.Lerp(-0.3f, 1.3f, t);
-                    cardMaterial.SetFloat("_HighlightPos", highlightPos);
-                    
-                    float glowPulse = 1f - Mathf.Abs(t - 0.5f) * 2f;
-                    cardMaterial.SetFloat("_EdgeGlow", 0.3f + glowPulse * 0.7f);
-                }
-                if (backMaterial != null)
-                {
-                    float highlightPos = Mathf.Lerp(-0.3f, 1.3f, t);
-                    backMaterial.SetFloat("_HighlightPos", highlightPos);
-                }
-
                 yield return null;
             }
 
@@ -444,14 +481,6 @@ namespace Cerebrum.UI
                 shadowCardRect.anchoredPosition = currentCenter + new Vector2(shadowOffset * shadowScale, -shadowOffset * shadowScale);
                 shadowCardRect.sizeDelta = Vector2.Lerp(sourceSize * liftScale, targetSize, curvedT);
 
-                // Continue shimmer during fly
-                if (cardMaterial != null)
-                {
-                    float highlightPos = 1.3f + t * 0.5f;
-                    cardMaterial.SetFloat("_HighlightPos", highlightPos);
-                    cardMaterial.SetFloat("_EdgeGlow", Mathf.Lerp(0.5f, 0f, curvedT));
-                }
-
                 yield return null;
             }
 
@@ -461,12 +490,6 @@ namespace Cerebrum.UI
 
             shadowCardRect.anchoredPosition = targetCenter + new Vector2(shadowOffset * 2f, -shadowOffset * 2f);
             shadowCardRect.sizeDelta = targetSize;
-
-            if (cardMaterial != null)
-            {
-                cardMaterial.SetFloat("_EdgeGlow", 0f);
-                cardMaterial.SetFloat("_HighlightPos", 2f);
-            }
 
             isAnimating = false;
             OnRevealComplete?.Invoke();

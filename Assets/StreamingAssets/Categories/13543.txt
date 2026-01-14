@@ -1,0 +1,6 @@
+ANAGRAMMED SHAKESPEARE CHARACTERS
+200|He's troubled: HALT ME|Hamlet
+400|Jealous jerk: HELL TOO|Othello
+600|Magic man: PROPOSER|Prospero
+800|Demented dad: LINK RAGE|King Lear
+1000|Venice disguiser: AIR TOP|Portia

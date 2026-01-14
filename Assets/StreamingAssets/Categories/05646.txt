@@ -1,0 +1,6 @@
+FOREIGN FILM TITLES
+200|\"Otto e Mezzo", starring Mastroianni & Cardinale|8 1/2
+400|1998's "Central do Brasil\"|Central Station
+600|From Almodovar, "Mujeres al borde de un ataque de nervios\"|Women on the Verge of a Nervous Breakdown
+800|The high-speed "Lola rennt\"|Run Lola Run
+1000|Bergman's "Sommarnattens leende\"|Smiles of a Summer Night

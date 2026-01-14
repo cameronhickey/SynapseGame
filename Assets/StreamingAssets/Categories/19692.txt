@@ -1,0 +1,6 @@
+GEOGRAPHIC CENTERS
+200|In this state it's 18 miles southeast of Macon|Georgia
+400|20 miles southwest of Jefferson City|Missouri
+600|In Avoyelles Parish, southeast of Marksville|Louisiana
+800|In Rutland in Worcester County|Massachusetts
+1000|10 miles southwest of Brainerd|Minnesota

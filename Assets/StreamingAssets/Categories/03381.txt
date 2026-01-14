@@ -1,0 +1,6 @@
+STATE LICENSE PLATES
+200|\"...on my mind\"|Georgia
+400|Garden State|New Jersey
+600|0 0000 [with a drawing of a cowboy]|Wyoming
+800|301-JRJ Evergreen State|Washington
+1000|EPL 024 Sportsman's Paradise|Louisiana

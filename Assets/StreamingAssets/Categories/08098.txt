@@ -1,0 +1,6 @@
+FOREIGN CARS
+200|World's number 1 motorcycle maker, it's also a major producer of cars|Honda
+400|Automaker that's tops in sales in Europe is this American firm|Ford
+600|French automaker that owns Citroen & also makes bicycles|Peugeot
+800|Though GM no longer markets them here, it still makes these cars in Germany|Opel
+1000|Of all European makers, these 2 whose names start the same sell most in the U.S.|Volkswagen & Volvo

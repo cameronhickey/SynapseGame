@@ -1,0 +1,6 @@
+STATE THE STATE
+200|Colby cheese was first made there & is named for a town there|Wisconsin
+400|After 10 years of independence, it became the 28th state in 1845|Texas
+600|It's the only state that ends with a "G\"|Wyoming
+800|The world's largest flat-top mountain, Grand Mesa, is found there|Colorado
+1000|Aside from 3 West Coast states, it was the westernmost state of the lower 48 won by Kerry in 2004|Minnesota

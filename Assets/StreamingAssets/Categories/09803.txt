@@ -1,0 +1,6 @@
+ANIMAL SIMILES
+200|\"Blind as", this mammal of the order Chiroptera|a bat
+400|\"Slow as" this reptile of the order Testudines|a turtle
+600|\"Quiet as" this animal of the family Muridae|a mouse (a church mouse accepted)
+800|\"Sly as" this carnivore of the dog family, especially those of the genus Vulpes|a fox
+1000|\"Happy as" this Old World oscine bird of the family Alaudidae|a lark

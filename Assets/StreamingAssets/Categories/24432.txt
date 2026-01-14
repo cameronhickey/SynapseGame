@@ -1,0 +1,6 @@
+NYC SUBWAY STOPS
+200|The S train has but 2 stops, shuttling across 42nd Street between Times Square & this landmark with much train activity|Grand Central Station
+400|Flatbush Avenue! The No. 2 train's stop for the college named for this borough! Please step away from the closing doors|Brooklyn
+600|Give my regards to Broadway, remember me to this square, named for an old-time newspaper, & its stop on the D train|Herald Square
+800|Head downtown on the 1, 2 or 3 train to hit this street, the "Ho" in SoHo, & note its pronunciation|Houston (Street)
+1000|If you want a day at the museum, take the C train to 81st Street to enjoy this "Night at the Museum" museum|the Museum of Natural History

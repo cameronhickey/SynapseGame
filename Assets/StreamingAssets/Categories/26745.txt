@@ -1,0 +1,6 @@
+TV OCCUPATIONS
+200|Al Bundy is a salesman of these items on "Married... with Children\"|shoes
+400|Elyse Keaton on "Family Ties" earned a living at this job, showing she had the Frank Lloyd Wright stuff|architect
+600|Although "The Fall Guy"s Colt Seavers did this for a living, he chased bail jumpers for extra money|a stunt man
+800|Type of books written by Dick Loudon in "Newhart\"|How to books
+1000|The reason given for Michael Hogan's frequent absences from "The Hogan Family" is this job|an airline pilot

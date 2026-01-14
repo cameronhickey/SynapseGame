@@ -1,0 +1,6 @@
+FILL IN THE MOVIE TITLES
+200|Both have scenes about selling burgers: "____ Food Nation" & "____ Times at Ridgemont High\"|Fast
+400|One's got Inspector Clouseau, the other Bjork: "A Shot in the ____" & "Dancer in the ____\"|Dark
+600|2 very different films: "Coming ____" & "____ Alone\"|Home
+800|An action flick & a musical: "____ Gun" & "____ Hat\"|Top
+1000|A film set in Texas & a film based on Judas Priest: "Lone ____ " & "Rock ____\"|Star

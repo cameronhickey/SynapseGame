@@ -1,0 +1,6 @@
+PIN THE STAR ON THE CONSTELLATION
+200|Procyon: This little dog|Canis Minor
+400|Sadalmelik: This water bearer|Aquarius
+600|Vernalis: Among these fishes|Pisces
+800|Eltanin: This dragon|Draco
+1000|Mintaka: Hunt for it in the belt|Orion

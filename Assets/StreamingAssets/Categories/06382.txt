@@ -1,0 +1,6 @@
+MARS
+200|In the H.G. Wells novel "War of the Worlds", invading Martians attack this capital city of England|London
+400|Meteorites from Mars have been found on this cold continent at the bottom of the world|Antarctica
+600|Because of its reddish color, Mars was named for the Roman god of this|war
+800|In 1965 this probe with a seafaring name shot Mars, becoming the first spacecraft to photograph a non-Earth planet|Mariner
+1000|The #4 space craft of this series made the first fly-by of Mars in 1965|Mariner

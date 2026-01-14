@@ -1,0 +1,6 @@
+BEASTLY TITLE CHARACTERS
+200|\"Marley & Me\"|a dog
+400|\"Babe\"|a pig
+600|\"The Tale of Despereaux\"|a mouse
+800|\"Rikki-Tikki-Tavi\"|a mongoose
+1000|\"The Complete Calvin and Hobbes\"|a tiger

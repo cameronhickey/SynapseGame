@@ -1,0 +1,6 @@
+I'M READING YOU
+200|\"Ulysses" & "Finnegans Wake\"|James Joyce
+400|\"Notre-Dame de Paris" & "Les Miserables\"|(Victor) Hugo
+600|\"Looking for Alaska" & "Paper Towns\"|John Green
+800|\"The Temple of My Familiar" & "The Color Purple\"|Alice Walker
+1000|\"Narcissus and Goldmund" & "The Glass Bead Game\"|Hesse

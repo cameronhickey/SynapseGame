@@ -1,0 +1,6 @@
+NOVELS
+200|George Orwell set this 1949 novel only 35 years in the future|1984
+400|The narrator of this Mark Twain novel mistakes Camelot for Bridgeport, Connecticut|A Connecticut Yankee in King Arthur's Court
+600|Katherine Anne Porter title part II of this novel "High Sea\"|Ship of Fools
+800|This "Sister Carrie" author wrote 3 novels about Anne Frank Cowperwood, an unscrupulous financier|(Theodore) Dreiser
+1000|St. Peter appears as a character in this 1896 novel that's set in ancient Rome & has a Latin title|Quo Vadis

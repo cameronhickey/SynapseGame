@@ -1,0 +1,6 @@
+COLLEGE MASCOTS
+200|Herbie Husker|Nebraska
+400|Buckingham U. Badger|(University of) Wisconsin
+600|The Leprechaun|Notre Dame
+800|Bevo, a steer|University of Texas
+1000|The Scarlet Knight|Rutgers University

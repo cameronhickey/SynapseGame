@@ -1,0 +1,6 @@
+COMMON BOND CUISINE
+200|Cobb, chef's, Waldorf|salad
+400|Short, baby back, St. Louis style|ribs
+600|White, thin crust, deep-dish|pizza
+800|Albondigas, Swedish, sweet & sour|meatballs
+1000|Plum, butterscotch, blancmange|puddings

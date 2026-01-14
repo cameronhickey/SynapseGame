@@ -1,0 +1,6 @@
+CHARACTERS IN DICKENS BOOKS
+200|Fan, Mr. Fezziwig, Bob Cratchit|\"A Christmas Carol\"
+400|Master Charles Bates, Mr. Bumble, Bill Sikes|\"Oliver Twist\"
+600|Monsieur the Marquis, Charles Darnay, Lucie Manette|\"A Tale of Two Cities\"
+800|Mr. Creakle, Peggotty, Mr. Micawber|\"David Copperfield\"
+1000|Dick Swiveller, Kit Nubbles, Little Nell Trent|\"The Old Curiosity Shop\"

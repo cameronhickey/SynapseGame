@@ -1,0 +1,6 @@
+STOCK SYMBOLS ON THE DOW
+200|WMT is this retailer|Walmart
+400|CAT is the very hungry for business this company|Caterpillar
+600|We'll give you some credit for this company, AXP|American Express
+800|GS is this firm also strongly represented in the Trump administration|Goldman Sachs
+1000|PFE, it helps to cure what ails ya|Pfizer

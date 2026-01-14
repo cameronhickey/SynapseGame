@@ -1,0 +1,6 @@
+SHOW BIZ JOBS
+200|It's a performer who's good at keeping several items airborne by tossing, catching & retossing them|juggler
+400|\"Positional" type of comedy being performed here|stand-up
+600|It's the process of replacing a foreign language dialogue track with one in English|dubbing
+800|They drive vans, carry amps, tune drums & generally keep a rock tour going|roadies
+1000|A small film role: an unknown has a "bit part", but a famous person makes this guest appearance|cameo

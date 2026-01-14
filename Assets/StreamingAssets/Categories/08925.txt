@@ -1,0 +1,6 @@
+NOT A STATE CAPITAL
+200|Atlanta, Anchorage, Augusta|Anchorage
+400|Springfield, Helena, Chicago|Chicago
+600|Albuquerque, Providence, Charleston|Albuquerque
+800|Frankfort, Birmingham, Montgomery|Birmingham
+1000|Montpelier, Bismarck, Portland|Portland

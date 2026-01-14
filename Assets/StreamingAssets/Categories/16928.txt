@@ -1,0 +1,6 @@
+GEOGRAPHY 101
+200|The Nile is longer, but in terms of volume, this is the world's largest river|The Amazon
+400|Stretching for about 5,500 miles, the world's longest land mountain range is this South American one|The Andes
+600|277 miles long & often 1 mile deep, it's the largest gorge in the U.S. of A.|Grand Canyon
+800|About 23 degrees N. of the equator is the Tropic of Cancer; about 23 degrees S. of the equator is the Tropic of this|Capricorn
+1000|The largest peninsula on earth is mostly made up of this Middle Eastern country|Saudi Arabia

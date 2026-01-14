@@ -1,0 +1,6 @@
+FIRST 3 LETTERS OF STATES
+200|Past tense of "is\"|Washington
+400|Rock containing a sought-after metal|Oregon
+600|Grifters are this kind of "men\"|Connecticut
+800|Jeremy Piven's agent role|Arizona
+1000|It's a number|Tennessee

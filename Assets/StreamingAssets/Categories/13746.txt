@@ -1,0 +1,6 @@
+IT'S 2-LETTER TIME
+200|This 2-letter conjunction is used to indicate an alternative|or
+400|The dictionary gives 2 meanings for it: an eastern Asian shrub, also the 7th tone of the diatonic scale|ti
+600|In "Little Women" this tomboy wrote plays for her sisters to perform|Jo
+800|The object of this Japanese board game, over 3,000 years old, is to capture territory on a board of intersecting lines|go
+1000|This Irish term for one's father is the title of a 1978 Tony Award-winning play by Hugh Leonard|Da

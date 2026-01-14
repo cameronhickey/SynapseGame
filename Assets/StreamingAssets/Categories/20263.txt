@@ -1,0 +1,6 @@
+SHOE NAMES
+200|They block drains|clogs
+400|Someone really lazy|a loafer
+600|Dishonorable gents, similar to cads|heels
+800|When an old sailing ship took on water bilge, these kept it afloat|pumps
+1000|Sterile animal hybrids|mules

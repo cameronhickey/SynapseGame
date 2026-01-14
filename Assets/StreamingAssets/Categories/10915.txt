@@ -1,0 +1,6 @@
+LET'S "TRAVEL\"
+200|It's a lecture about one's journeys, usually accompanied by slides, film or video|a travelogue
+400|For 21 years in TV commercials for these, Karl Malden pleaded, "Don't leave home without them\"|American Express travellers cheques
+600|Formed in Bob Dylan's garage, this supergroup included Dylan, George Harrison & Roy Orbison|the Traveling Wilburys
+800|British comedian Harry Enfield provides the voice of the Roaming Gnome, this website's spokesgnome|travelocity.com
+1000|This 1962 account of Steinbeck's tour of 38 states was subtitled "In Search of America\"|Travels with Charley

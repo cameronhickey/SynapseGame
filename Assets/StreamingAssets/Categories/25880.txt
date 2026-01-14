@@ -1,0 +1,6 @@
+HAVING "FUN\"
+200|The name of this Christian movement goes back to pamphlets published by Lyman & Milton Stewart in the 1910s|fundamentalism
+400|A startup may turn to this, a general term for financing by smaller dollar amounts from many people|crowdfunding
+600|It's the first & last name of an animated guy with a crush on Patti Mayonnaise|Doug Funnie
+800|On this kind of railway, 2 train cars use each other as counterweights|a funicular
+1000|In economics, it describes goods that can be exchanged for one another since they are equal in value; some tokens are the "non" kind|fungible

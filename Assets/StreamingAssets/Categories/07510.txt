@@ -1,0 +1,6 @@
+AIRLINE LOGOS
+200|This airline's scheduled services to Great Britain are called the "Kangaroo Route\"|Qantas
+400|Its parent airline inaugurated service on September 1, 1937 with a flight from Vancouver to Seattle|Air Canada
+600|Under founder Walter Varney, its predecessor company launched commercial air service in the U.S.|United Airlines
+800|With its domestic & international partners, this airline's route network covers over 300 cities worldwide|Delta Airlines
+1000|Celebrating its 33rd anniversary in 2002, this airline's logo is a stylized version of the symbol on its national flag|Korean Air

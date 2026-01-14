@@ -1,0 +1,6 @@
+FUN STUFF
+200|Common name for the wrench used to adjust traditional strap-on roller skates|a key
+400|The Boston Model 1800 is one of these for pencils; the Slydart is one for darts|a sharpener
+600|Mattel game where a loser might say, "Oh, he knocked my block off!\"|Rock 'Em Sock 'Em Robots
+800|Hey, gang, let's put on a show in this building, like in the musical "Summer Stock\"|the barn
+1000|This 155-year-old chocolate co. named for an Italian is based in San Francisco, a city named for an Italian|Ghirardelli

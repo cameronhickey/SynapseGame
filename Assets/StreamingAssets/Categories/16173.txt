@@ -1,0 +1,6 @@
+WITH SCISSORS
+200|In the hand game known as roshambo, it's what scissors beats|paper
+400|The name of these sewing shears refers to their notched blades, not to a color|pinking shears
+600|Most scissors are a pair of pivoting blades, connected by a screw, or one of these two-headed metal pins|a rivet
+800|It's the 3-word name for hydraulic rescue scissors used to cut heavy sheet metal in car wrecks|the jaws of life
+1000|Finnish company Fiskars has sold over 1 billion pairs of the scissors introduced in 1967 with this color handle|orange

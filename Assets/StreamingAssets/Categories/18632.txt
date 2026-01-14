@@ -1,0 +1,6 @@
+THERE'S A BUG IN MY BOOK TITLE
+200|A classic with a big appetite: "The Very Hungry ____\"|Caterpillar
+400|Set in South Carolina in 1964: "The Secret Life of ____\"|Bees
+600|Claire Randall is still an outlander: "____ in Amber\"|Dragonfly
+800|Even bugs move to the city: "The ____ in Times Square\"|Cricket
+1000|Set in Hollywood during the Great Depression: "The Day of the ____\"|Locust

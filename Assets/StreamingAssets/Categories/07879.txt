@@ -1,0 +1,6 @@
+QUOTABLE MOVIES
+200|1941: "Rosebud...\"|Citizen Kane
+400|1977: "May the force be with you\"|Star Wars
+600|1960: "No novocaine...it dulls the senses\"|Little Shop of Horrors
+800|2001: "A wizard is never late...he arrives precisely when he means to\"|Lord of the Rings
+1000|1989: "Where does he get those wonderful toys?\"|Batman

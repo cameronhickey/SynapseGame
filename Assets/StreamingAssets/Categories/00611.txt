@@ -1,0 +1,6 @@
+ELVIS
+200|She gave a televised guided tour of Elvis' Graceland home, where she lived for 11 years|Priscilla
+400|City where Elvis was married in '67 & made his comeback in '69|Las Vegas
+600|Affer his army discharge in 1960, Elvis appeared on this crooner's TV special along with the crooner's daughter Nancy|Frank Sinatra
+800|Elvis made his 1956 screen test singing this Carl Perkins hit & performing a scene from "The Rainmaker\"|\"Blue Suede Shoes\"
+1000|Elvis' first film, it co-starred Debra Paget & Richard Egan & was the only film in which he did not receive top billing|Love Me Tender

@@ -1,0 +1,6 @@
+THE STAR-SPANGLED BANNER LYRICS
+200|The song ends by rhyming this word with "brave\"|wave
+400|It's the color mentioned in the song that's also one of the colors in the U.S. flag|red
+600|They're the type of elevated fortifications o'er which "we watched\"|ramparts
+800|The punctuation mark that ends the first verse, the one that's usually sung|question mark
+1000|The 2 times of day mentioned in the first 2 lines|dawn & twilight

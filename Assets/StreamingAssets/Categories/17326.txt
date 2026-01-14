@@ -1,0 +1,6 @@
+CLASSIC AUTOMOBILE TAGS
+200|\"You asked for it, you got it\"|Toyota
+400|It "runs deep\"|Chevy
+600|It's the "toughest 4-letter word on wheels\"|Jeep
+800|\"The relentless pursuit of perfection\"|Lexus
+1000|\"Grab life by the horns\"|Dodge

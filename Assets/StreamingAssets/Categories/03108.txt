@@ -1,0 +1,6 @@
+FOREIGN FOOD & DRINK
+200|In Germany this beverage is made of malt, hops, yeast & water & nothing else|Beer
+400|This Mexican dish made with mashed avocados can be used as a dip, a sauce or a topping|Guacamole
+600|This dish whose name comes from French for "to puff up" must be served the instant it comes out of the oven|Souffle
+800|Risotto Alla Milanese gets its golden color from this expensive spice|Saffron
+1000|This English blue cheese is named for a small village in Huntingdonshire where it was first sold|Stilton

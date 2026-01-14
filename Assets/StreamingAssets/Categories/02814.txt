@@ -1,0 +1,6 @@
+PHYSICAL SCIENCE CONSTANTS
+200|An astronomical unit is defined as the average distance between these 2 bodies|Earth & Sun
+400|At standard pressure it's the boiling point of water on the Fahrenheit scale|212 Degrees
+600|This small letter denotes the speed of light in a vacuum: 299,792,458 meters per second|c
+800|The acceleration of this at the Earth's surface is 9.8 meters per second squared|Gravity
+1000|F is 96,500 coulombs; F being named for this British physicist|Michael Faraday

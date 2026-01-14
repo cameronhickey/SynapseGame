@@ -1,0 +1,6 @@
+\"ONO\"
+200|It's one who gives blood, or any other part of his body, for medical purposes|Donor
+400|I, you, them, it or ours, for example|Pronouns
+600|Like pop, hiss or fizz, it's a word that imitates a sound in nature|Onomatopoeia
+800|This Old Testament book contains Moses' last speeches & an account of his death|Deuteronomy
+1000|Derived from French, it's the art of good eating|Gastronomy

@@ -1,0 +1,6 @@
+MILITARY RANK LANGUAGE
+200|The pilot of a commercial airliner|captain
+400|Confidential|private
+600|Of full legal age|major
+800|Miscellaneous|general
+1000|Of the human body|corporal

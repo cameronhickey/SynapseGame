@@ -1,0 +1,6 @@
+MAKE ROOM
+200|In England, loft & garret are terms for this room in a house|an attic
+400|A formal audience chamber containing a monarch's chair|a throne room
+600|In a monastery or convent, a refectory is the room communally used for this|eating (or dining)
+800|In ancient Rome, the hospitalia were these rooms in a villa|guest rooms
+1000|This French room completes the title of a book by the Marquis de Sade, "La Philopsophie dans le...\"|boudoir

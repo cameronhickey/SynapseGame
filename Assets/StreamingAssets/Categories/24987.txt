@@ -1,0 +1,6 @@
+\"PASS\"
+200|A system of grading sometimes used to replace traditional letter grades|pass/fail
+400|Designated post offices will take your application for one|a passport
+600|This commemorates God's skipping the Israelites' homes & smiting only the Egyptian firstborn|Passover
+800|This type of drama, popular in the Late Middle Ages featured scenes of the crucifixion|a passion play
+1000|Before its extinction, huge flocks of this American bird would literally darken the sky|the passenger pigeon

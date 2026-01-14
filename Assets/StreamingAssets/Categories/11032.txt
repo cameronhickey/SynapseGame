@@ -1,0 +1,6 @@
+FIRE WHEN READY
+200|The October 1871 fire in this U.S. city burned more than 17,000 buildings & claimed 250 lives|Chicago
+400|This 1969 Vonnegut work takes place in part during the firebombing of Dresden|Slaughterhouse-Five
+600|The 1911 fire at the Triangle Shirtwaist Factory in this city left 146 garment workers dead|New York City
+800|491 perished when the Coconut Grove nightclub caught fire in this New England capital city in 1942|Boston
+1000|A 1967 accident aboard the U.S.S. Forrestal, one of these ships, caused a tragic fire|aircraft carrier

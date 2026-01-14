@@ -1,0 +1,6 @@
+FOOTWEAR
+200|These shoes come in light brown & white; Pat Boone wears the white ones|bucks
+400|On the Roman military types of these, the laces go up the calf|sandals
+600|Used in fishing and hunting, they're named for the activity of walking into water|waders
+800|A wooden shoe traditionally worn in Holland|clog
+1000|Casual slip-on shoes with flaps on the front of the tongues sometimes used to hold a coin|a penny loafer

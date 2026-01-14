@@ -1,0 +1,6 @@
+SOUNDS LIKE MEAT
+200|A performer who overacts|a ham
+400|This is played when 2 autos are headed straight for each other, with the loser being the first to turn away|chicken
+600|Escaped prisoners are said to be "on" this slang word|on the lam
+800|Federal appropriations for friends|pork
+1000|A citizen of a town, whether it's Calais or not|a burgher

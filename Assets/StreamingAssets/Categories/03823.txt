@@ -1,0 +1,6 @@
+PARTS OF THE WHOLE
+200|Fly, crease, cuff, waistband|pants
+400|Screw base, inert gas, pinch, support, filament|a light bulb
+600|Operating system, central processing unit, mouse|a computer
+800|Clothes basket, temperature selector, agitator|the washing machine
+1000|Cylinders, crankshaft, pistons|a car engine

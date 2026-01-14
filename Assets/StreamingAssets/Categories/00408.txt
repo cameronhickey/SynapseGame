@@ -1,0 +1,6 @@
+\"FIRST\"
+200|Gary, Harry, Julie, Suzanne, Michelle, Barbara, Steven, or Jules, for example|first names
+400|Form of "currency" useful when paying Rumpelstiltskin|first born
+600|Fire, police or medical personnel; whoever's earliest on the scene to assist in an emergency|first responder (first response accepted)
+800|Your relationship to your mother's brother's daughter|first cousin
+1000|This Bible book contains the line "So David slept with his fathers, and was buried in the city of David\"|First Kings

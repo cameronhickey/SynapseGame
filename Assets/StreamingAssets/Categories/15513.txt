@@ -1,0 +1,6 @@
+CONSTELLATION TRANSLATION
+200|Twins|Gemini
+400|Big bear|Ursa Major
+600|Ram|Aries
+800|Scales|Libra
+1000|Dragon (not "Athenian statesman")|Draco

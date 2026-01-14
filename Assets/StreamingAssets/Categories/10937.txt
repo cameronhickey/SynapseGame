@@ -1,0 +1,6 @@
+SHILLING
+200|\"Just do it\"|Nike
+400|\"The best part of wakin' up\"|Folgers
+600|\"Just for the taste of it\"|Diet Coke
+800|\"Sorry, Charlie\"|StarKist Tuna
+1000|\"The San Francisco treat\"|Rice-A-Roni

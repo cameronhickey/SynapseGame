@@ -1,0 +1,6 @@
+PUT IT ON WHAT?
+200|Food to keep it chilled, or plans that have to be delayed|ice
+400|10 bucks to win at Laurel Park|a horse
+600|A Kurt Adler star or angel finial|a Christmas tree
+800|Decca F.11940, released 1964|a turntable
+1000|A kepi|your head

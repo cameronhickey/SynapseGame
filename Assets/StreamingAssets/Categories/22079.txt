@@ -1,0 +1,6 @@
+YELL "O\"
+200|It measures a car's travel|an odometer
+400|This instrument has a tubular body & a double-reed mouthpiece|an oboe
+600|Someday you may find me by a well or spring at this small green area in a desert|an oasis
+800|Get a leg up after an injury with this type of M.D. who specializes in your skeletal system|an orthopedist
+1000|Some people of the 46th state have reclaimed this dust bowl-era epithet, putting it on mugs & t-shirts|Okie

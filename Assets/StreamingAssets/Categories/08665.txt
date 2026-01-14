@@ -1,0 +1,6 @@
+A TIME TO BUILD UP
+200|This platform used during construction may have a brick guard so those below don't get conked|the scaffold
+400|Any wall providing the main support to a floor or the roof is called a structural wall or this|a load-bearing wall
+600|(Jimmy of the Clue Crew) This 4-letter type of concrete foundation saves money by also serving as the floor of the ground level|the slab floor
+800|The 440-million-pound Sears Tower is supported by 114 of these driven down to the bedrock|pilings
+1000|Many skyscrapers have a stiff core that acts as the building's spine & also contains this column|the elevator column

@@ -1,0 +1,6 @@
+THE DICTIONARY
+200|Webster's 3rd International is one example of this "non -condensed" type of dictionary|unabridged
+400|A dictionary lists these for some words, like humor & drollery for wit|synonyms
+600|The 16-volume Deutsches Worterbuch was begun in the 19th century by these brothers|the Brothers Grimm
+800|This -ology, the history of a word, appears in square brackets following the definition of the word|the etymology
+1000|Term for the marks which indicate phonetic quality|diacritical marks

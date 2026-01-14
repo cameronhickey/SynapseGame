@@ -1,0 +1,6 @@
+WORLD CURRENCY
+200|In England, paper bills of this monetary unit come in denominations of 5, 10, 20 & 50|pounds
+400|In 1961 the rand became legal tender in this country|South Africa
+600|In 1993 Turkmenistan replaced this unit of currency with the manat|the ruble
+800|In 1980 Israel adopted this currency that shares its name with a biblical unit of weight|a shekel
+1000|Divided into 100 groschen, it's the main unit of Austria|shilling

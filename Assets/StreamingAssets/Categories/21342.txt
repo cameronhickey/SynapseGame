@@ -1,0 +1,6 @@
+MY NAME IS MY NAME!
+200|Chicago, Collins, Garland|Judy
+400|Jackson, Temple, Chisholm|Shirley
+600|Gandhi, Braga, Sotomayor|Sonia
+800|Stiles, Dent Grant, Ward Howe|Julia
+1000|Ederle, Lawrence, Stein|Gertrude

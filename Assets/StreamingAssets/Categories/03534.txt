@@ -1,0 +1,6 @@
+MATH VOCABULARY
+200|The average value of a set of numbers, or cruel|Mean
+400|An angle greater than 90 degrees but less than 180 degrees, or lacking sharpness of intellect|obtuse
+600|The sum of x numbers divided by x; or typical, common or ordinary|Average
+800|Point (0,0) on a graph; or the beginning|Origin
+1000|The instantaneous rate of change of a function; or not original, adapted from others|Derivative

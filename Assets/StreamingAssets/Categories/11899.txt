@@ -1,0 +1,6 @@
+WORKING ON MY CLASSIC CAR
+200|It routes high voltage in the correct order for firing the spark plugs, so check its cap for burns|the distributor
+400|Use dipsticks to check 2 levels: of the oil & of the fluid for this system that transfers power to the wheels|the transmission
+600|To verify the fuel ignites at the proper moment & gets the engine over 300 HP, this type of gun or light is necessary|a timing gun
+800|Also a device on the wall of your home, this valve either stops or allows coolant through the engine|a thermostat
+1000|Manifold bolts should not be over- or under-tightened, so use this type of wrench with a foot/pound scale|a torque wrench

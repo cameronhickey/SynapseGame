@@ -1,0 +1,6 @@
+SOLDIERS
+200|In 424 B.C. this fatally wounded Athenian general could have used the physician of the same name|Hippocrates
+400|This French minister of war died in 1932, too soon to see his "line" outflanked in World War II|Andre Maginot
+600|He advocated a "Search & Destroy" policy as commander of U.S. forces in Vietnam from 1964 to 1968|William Westmoreland
+800|During WWI, the spiked pickelhaube was worn by soldiers of this European nation|Germany
+1000|Military strategists salute the book "On War" by this 19th century Prussian general|Carl von Clausewitz

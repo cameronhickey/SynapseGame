@@ -1,0 +1,6 @@
+FUN WITH U.S. STATE CAPITAL NAMES
+200|These 2 capitals are named for a man who crossed the Atlantic Ocean in 1492|Columbus & Columbia
+400|With the name of the state in the name of the capital, this city's 1910 founding makes it the newbie of U.S. capitals|Oklahoma City
+600|The only capital with 3 sets of double letters in its name, it was visited by de Soto in the 16th century|Tallahassee
+800|A red post that marked the border between the Houma & Bayougoula tribes gave us the name of this state capital|Baton Rouge
+1000|The name of Germany's fifth-largest city differs by one letter from the name of this capital|Frankfort

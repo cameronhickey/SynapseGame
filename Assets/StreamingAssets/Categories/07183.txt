@@ -1,0 +1,6 @@
+THE FBI
+200|(Sofia gives the clue from FBI HQ.) In 1950, he was the FBI director who instituted the Ten Most Wanted Fugitives list|J. Edgar Hoover
+400|To install these, agents must abide by U.S. Code Title 18, Section 2516 & get a judge's approval|bugs (or wiretaps)
+600|(Sofia gives the clue from FBI HQ.) The director of the FBI reports to this member of the Cabinet|the Attorney General
+800|The FBI fights many kinds of terrorism, including this type that includes tree spiking|ecoterrorism
+1000|(Sofia gives the clue from FBI HQ.) Within the FBI, fingerprint identification is part of CJIS, this type of Information Services|Criminal Justice Information Services

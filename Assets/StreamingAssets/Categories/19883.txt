@@ -1,0 +1,6 @@
+ANIMALS IN FRENCH
+200|Raining or not, the French names of these 2 animals are chat et chien|cat and dog
+400|Le loup is this carnivore|the wolf
+600|Le canard is this; someone pass the orange sauce|duck
+800|Down on a French farm, this is le mouton|a sheep
+1000|In a seafood restaurant: Homard|lobster

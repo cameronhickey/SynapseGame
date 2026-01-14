@@ -1,0 +1,6 @@
+NFL TEAM MASCOTS
+200|Gumbo the Dog|the New Orleans Saints
+400|A Minuteman named Pat|the Patriots
+600|A big bird named Big Red|the Arizona Cardinals
+800|Formerly Edgar, Allan & Poe: now just Poe|the Baltimore Ravens
+1000|Captain Fear|the Tampa Bay Buccaneers

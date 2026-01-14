@@ -1,0 +1,6 @@
+\"ORIAL\"
+200|This spring holiday was once called Decoration Day|Memorial Day
+400|The part of a computer program that walks you through the instructions|tutorial
+600|The latitude of this African nation is where it got its 2-word name|Equatorial Guinea
+800|A word coined in the 20th century, it's a section of a newspaper intended to look like news but really hawking a product|advertorial
+1000|For 4, this math function is 4 times 3 times 2 times 1|factorial

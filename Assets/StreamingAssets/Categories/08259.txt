@@ -1,0 +1,6 @@
+ENDS WITH "X\"
+200|According to popular saying, if something works, don't do this to it|fix it
+400|Shortened name for type of cable bringing this answer to your TV, if you have CATV|coax
+600|Semi-precious stone with alternating color bands, seen frequently making a cameo appearance|onyx
+800|After 273 yrs., the Royal Greenwich Observatory moved to castle in this English coastal county|Sussex
+1000|American actress whose career saw the "Light in the Piazza" before she stumbled into "The Black Hole\"|Yvette Mimieux

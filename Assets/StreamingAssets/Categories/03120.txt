@@ -1,0 +1,6 @@
+SALT
+200|It's what the Morton Salt Girl is holding in her right hand|Umbrella
+400|Term for the salt water of the sea, or a type of shrimp|Brine
+600|Some ancient civilizations used salt cakes as a form of this, as Indians used wampum|Currency
+800|Liquid sodium, made from salt, is used as this in some nuclear power plants|Coolant
+1000|Table salt is iodized to help prevent this condition in humans|Hyperthyroidism or goiter

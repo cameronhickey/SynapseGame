@@ -1,0 +1,6 @@
+BESTSELLERS BY DECADE
+200|\"Looking for Mr. Goodbar" & "All the President's Men\"|the 1970s
+400|\"From Here to Eternity" & "Peyton Place\"|the 1950s
+600|\"Airport" & "Valley of the Dolls\"|the 1960s
+800|\"A Tree Grows in Brooklyn" & "For Whom the Bell Tolls\"|the 1940s
+1000|\"Elmer Gantry" & "All Quiet on the Western Front\"|the 1920s

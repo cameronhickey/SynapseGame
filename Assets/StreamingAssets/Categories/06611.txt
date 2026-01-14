@@ -1,0 +1,6 @@
+ORIGINAL TITLES
+200|Peter Benchley, 1974: "The Summer of the Shark\"|Jaws
+400|Leo Tolstoy 1869: "All's Well That Ends Well\"|War and Peace
+600|Philip Roth, 1969: "A Jewish Patient Begins His Analysis\"|Portnoy's Complaint
+800|Robert Louis Stevenson, 1883: "The Sea-Cook\"|Treasure Island
+1000|H.G. Wells, 1895: "The Chronic Argonauts\"|The Time Machine

@@ -1,0 +1,6 @@
+FROM "D" TO DINING "D\"
+200|It can precede "oysters" as well as "eggs" to refer to a spiced preparation|deviled
+400|Croquettes & fritters are cooked this way|deep-fried
+600|Added ranch to the greens, or plucked the bird for cooking|dressed
+800|Boiled a bit of wine with the sediment from the last dish to make a sauce|deglazed
+1000|Take a knife & don't stop until you've done this to the backs of all 100 shrimp|deveined

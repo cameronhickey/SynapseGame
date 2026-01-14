@@ -1,0 +1,6 @@
+WINES & SPIRITS
+200|This fortified wine from Jerez de la Frontera, Spain is always a blend|sherry
+400|Pertsovka is a variety of this spirit flavored with red & black peppers|vodka
+600|This whisky gets its smoky flavor when the malted barley is cured over burning peat|Scotch
+800|Calvados is a fine brandy made from this fruit, not from grapes|apples
+1000|Some of this Norwegian "water of life" ts shipped to the Southern Hemisphere & back to mellow it|akevitt

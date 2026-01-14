@@ -1,0 +1,6 @@
+VWLLSS FLWRS
+200|VLT|violet
+400|PTN|petunia
+600|PPP|poppy
+800|GRNM|geranium
+1000|RS (2 responses, please)|rose & iris

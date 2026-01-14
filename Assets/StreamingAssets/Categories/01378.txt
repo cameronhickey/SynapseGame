@@ -1,0 +1,6 @@
+PHILOSOPHERS
+200|Unlike the Academy, the school Epicurus founded in this city in 306 B.C. regularly admitted women|Athens
+400|Swedenborg wrote extensively on the spiritual meaning of these first 2 books of the Bible|Genesis & Exodus
+600|This existentialist examined Marxism in his "Critique de la Raison Dialectique\"|(Jean-Paul) Sartre
+800|This Dutch humanist was ordained a priest in 1492|Erasmus
+1000|This religious philosopher was born in Copenhagen on May 5, 1813|Soren Kierkegaard

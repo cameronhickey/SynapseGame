@@ -1,0 +1,6 @@
+ANIMALS IN GERMAN
+200|This animal is ein schaf; an expression about an innocent exterior is "wolf im schafspelz\"|a sheep
+400|This 3-letter critter is das schwein|a pig
+600|This large amphibious mammal is nilpferd|a hippo
+800|Kavallerie is a German word for a group of these|horses
+1000|It's ein löwe; it has eine mähne|a lion

@@ -1,0 +1,6 @@
+BODY PART-THING
+200|A recorder has 8, a fife 6|finger holes
+400|(Kelly of the Clue Crew opens a large reference book.) This feature you'll find in some dictionaries helps you get quickly to the letter you want|a thumb index
+600|This forward section of a rocket or guided missile contains the payload|the nose cone
+800|Raymond Moley was part of the group of smarties called this who advised FDR|the Brain Trust
+1000|It's what the "AR" stands for in "START I", a strategic treaty signed by Bush & Gorbachev|arms reduction

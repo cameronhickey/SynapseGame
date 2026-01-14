@@ -1,0 +1,6 @@
+SUBCOMPACTS
+200|The name of this car tells you that it's not big at all|a Mini (Cooper)
+400|It's a (smallish) party with this Ford subcompact whose name is Spanish for|Fiesta
+600|Toyota is the parent company of this car brand that includes the small xB & iQ|Scion
+800|For 2012, Kelley Blue Book said the subcompact with the best resale value was this carmaker's Fit|Honda
+1000|This company's Model 2 has been called a poster child for greenformance cars|Mazda

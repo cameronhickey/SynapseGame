@@ -1,0 +1,6 @@
+SPIDERS
+200|Each of a spider's these contains 7 segments, so that's 56 segments per spider|legs
+400|Number of eyes some spiders have & legs all spiders have|eight
+600|All spiders spin it but not always into webs|silk
+800|aka the harvestman, it was Leslie Caron's name for Fred Astaire in '55 film|daddy longlegs
+1000|Scientific name for spiders, from Greek woman who unwisely challenged Athena to spinning contest|arachnid

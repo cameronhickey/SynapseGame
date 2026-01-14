@@ -1,0 +1,6 @@
+PRESIDENTIAL NICKNAMES
+200|\"The Squire of Hyde Park\"|FDR
+400|\"Jiminy Peanut\"|Carter
+600|\"Man of Independence\"|Truman
+800|\"Our Chet\"|Chester Arthur
+1000|\"Hero of Tippecanoe\"|William Henry Harrison

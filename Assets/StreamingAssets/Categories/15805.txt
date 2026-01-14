@@ -1,0 +1,6 @@
+CITIZENSHIP
+200|Don't complain, citizen, if you don't exercise this fundamental right guaranteed by the 15th Amendment|the right to vote
+400|Guys, when you turn 18, you'll have to register for this, for potential enlistment into the armed forces|the draft (or Selective Service)
+600|If you lose your passport in Oslo, you can get help in this building at 48 Henrik Ibsens gate|the American Embassy
+800|Politics calling? This is the minimum age to serve in the U.S. House of Representatives|25
+1000|Often taking years, it's the process by which those born & raised foreign citizens become U.S. citizens|naturalization

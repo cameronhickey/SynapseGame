@@ -1,0 +1,6 @@
+BUSINESS
+200|Color of ink used for negative entries in an account ledger|red
+400|Their goods go under the hammer|at an auction
+600|Check cashing term meaning to sign on the back|to endorse
+800|The practice of hiring more workers than a job needs, or furnishing grandma's sleeping quarters|featherbedding
+1000|Word said to be derived from the practice of trimming coins held in trust with a bezel|embezzlement

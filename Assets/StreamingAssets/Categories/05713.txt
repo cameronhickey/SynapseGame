@@ -1,0 +1,6 @@
+RATS!
+200|Like deer, male rats are called bucks & female rats are called these|Does
+400|Of 5 weeks, 5 months or 5 years, the earliest age at which a rat can begin breeding|5 weeks
+600|Ratborne diseases include typhus, rabies & this type of plague AKA the "Black Death" of medieval times|Bubonic plague
+800|The highly adaptable brown rat also has the name of this Scandinavian country|Norway rat
+1000|Rats are members of this order of mammals whose name is from the Latin for "gnaw\"|Rodentia (rodents)

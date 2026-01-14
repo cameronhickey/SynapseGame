@@ -1,0 +1,6 @@
+THE SHAPE OF YOU
+200|Cordate & cordiform mean shaped like the common symbol for this body part|the heart
+400|A tetrahedron is sometimes described as a triangular one of these|a pyramid
+600|These 2 words that both start with the same 3 letters mean curving inward & curving outward|convex & concave
+800|Often made with black paper, these 2-dimensional outlines of your profile show the shape of your face|silhouettes
+1000|The Earth is generally considered to be this 6-letter type of spheroid, as it is flattened at the poles|oblate

@@ -1,0 +1,6 @@
+PHYSICAL SCIENCE
+200|What a physicist calls velocity, we usually call this|speed
+400|Process by which steam changes back into water|condensation
+600|An atom that has a charge due to a gain or loss of electrons is known as this|an ion
+800|Until the 1700s, astronomers were aware of only this many planets|6
+1000|His principle of buoyancy explains why your rubber ducky floats while you're taking a bath|Archimedes

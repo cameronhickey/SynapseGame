@@ -1,0 +1,6 @@
+STATE SONGS
+200|In 1960 this future state song became Ray Charles' first No. 1 pop hit|\"Georgia On My Mind\"
+400|Bet you a buckeye knows that his state song is "Beautiful" this|Ohio
+600|In 2000 it got a new state song: "These Green Mountains\"|Vermont
+800|The title of this state song is simply the name of the state with an exclamation point after it|\"Oklahoma!\"
+1000|\"Here We Have" this Northwest state (we know, we've seen its ID)|Idaho

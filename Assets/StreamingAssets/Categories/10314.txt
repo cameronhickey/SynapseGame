@@ -1,0 +1,6 @@
+FILL IN THE NOVEL TITLE
+200|\"T.H.O.N.D." by Victor Hugo|The Hunchback of Notre Dame
+400|\"T.G.O.W." by John Steinbeck|The Grapes of Wrath
+600|\"A.T.O.T.C." by Charles Dickens|A Tale of Two Cities
+800|\"I." by Sir Walter Scott|Ivanhoe
+1000|\"T.C.O.M.C." by Alexandre Dumas|The Count of Monte Cristo

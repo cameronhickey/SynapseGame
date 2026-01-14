@@ -1,0 +1,6 @@
+ASTRO-QUIZ
+200|The body of a comet is called this, just like the center of an atom|a nucleus
+400|After the Sun & Moon, this planet, aka the "Morning Star" & "Evening Star", is the brightest object in the sky|Venus
+600|Copernicus' belief that the Earth revolves around the Sun is known as a this-centric view of the cosmos|heliocentric
+800|In 1801 Ceres became the first of these to be discovered|asteroids
+1000|(Jimmy of the Clue Crew shows a diagram on the monitor.) Abbreviated A.U. & about 93 million miles in length, it's the average distance between the Earth & the Sun|the astronomical unit

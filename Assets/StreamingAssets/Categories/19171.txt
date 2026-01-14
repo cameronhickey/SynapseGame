@@ -1,0 +1,6 @@
+AN "IQ" TEST
+200|A distilled beverage like whiskey or tequila|a liquor
+400|It was Emily Post's specialty|etiquette
+600|It's a small block of compressed coal dust used for barbecue fuel|briquette
+800|It's a French term for an essay evaluating a literary work|a critique
+1000|Adjective for something that's been made obsolete or is just too old-fashioned|an antique

@@ -1,0 +1,6 @@
+U.S. CITIES' INTERNATIONAL AIRPORTS
+200|O'Hare|Chicago
+400|Louis Armstrong International|New Orleans
+600|Logan|Boston
+800|George Bush Intercontinental|Houston
+1000|14 miles from Manhattan, Liberty International|Newark

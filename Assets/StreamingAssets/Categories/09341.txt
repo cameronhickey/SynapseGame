@@ -1,0 +1,6 @@
+NEXT STOP, VENUS
+200|It's the planet that's closest to Venus|Earth
+400|In 1610 this Italian discovered that Venus has phases like the Moon|Galileo
+600|With few exceptions all specified surface features of Venus are appropriately named after these|women
+800|Contributing to its high temperature, Venus' atmosphere is predominantly made up of this gas|carbon dioxide
+1000|Similar to an eclipse, it's the term for the rare passing in front of the Sun that Venus did on June 8, 2004|a transit

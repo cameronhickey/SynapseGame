@@ -1,0 +1,6 @@
+CALL A "CAB\"
+200|The Old French for "small chamber" gives us this word meaning an advisory council|a cabinet
+400|It's a small tent or structure at a beach or pool for changing into your swimsuit|a cabana
+600|Kohlrabi resembles the turnip but is actually part of the family that includes this leafy garden veggie|cabbage
+800|These grapes grown widely in Bordeaux & California lend their name to a dry red wine|cabernet
+1000|From the Latin for "horse", it's a term for a Spanish or Mexican gentleman|a caballero

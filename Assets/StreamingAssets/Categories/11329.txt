@@ -1,0 +1,6 @@
+EAT IT, BEAT IT OR TREAT IT
+200|Conga|beat it
+400|Beriberi|treat it
+600|Tinea|treat it
+800|Daikon|eat it
+1000|Udu|beat it

@@ -1,0 +1,6 @@
+SPORTS TEAM BY STARS
+200|Derek Jeter & Alex Rodriguez|the New York Yankees
+400|Landon Donovan & David Beckham|the L.A. Galaxy
+600|Mo Williams & LeBron James|the Cleveland Cavaliers
+800|Sidney Crosby & Evgeni Malkin|the Pittsburgh Penguins
+1000|Adrian Beltre & Ichiro Suzuki|the Seattle Mariners

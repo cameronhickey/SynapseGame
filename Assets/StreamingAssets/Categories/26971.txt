@@ -1,0 +1,6 @@
+IN STATUARY HALL
+200|If this Louisiana statue talked, it might say, "I'm the Kingfish\"|Huey Long
+400|Your mission is to name this California mission founder whose statue is in the Hall|Junipero Serra
+600|This state put Sequoyah in the Hall & Will Rogers elsewhere in the capitol|Oklahoma
+800|In 1872 Rhode Island put a statue of this founder in the Hall|Roger Williams
+1000|Mississippi erected a statue of this president|Jefferson Davis

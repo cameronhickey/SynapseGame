@@ -1,0 +1,6 @@
+DEAD IN SHAKESPEARE
+200|In "Hamlet" this character doth not get herself to a nunnery, but drowns|Ophelia
+400|All his mighty words couldn't save the orator Cicero from execution in this play|Julius Caesar
+600|The soon-to-be Henry VII kills this title monarch at Bosworth field|Richard III
+800|In "Macbeth" the status quo for him (but not his son Fleance) was being murdered|Banquo
+1000|Including the duke of Cornwall, many end up dead in this royal play, by poison, suicide, hanging & causes unknown|King Lear

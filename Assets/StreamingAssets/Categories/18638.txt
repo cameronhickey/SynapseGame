@@ -1,0 +1,6 @@
+SURGICAL TERMS
+200|It can be a road allowing drivers to detour around a city or a surgically created passage that diverts blood|a bypass
+400|In a medical lab an autoclave is designed to do this to the surgical instruments|sterilize them
+600|It's the removal of tissue samples, especially of tumors, for diagnostic purposes|biopsy
+800|This 10-letter adjective & noun is from words meaning "under the skin\"|hypodermic
+1000|It can mean to stitch or sew up a wound, or the thread used to do it|a suture

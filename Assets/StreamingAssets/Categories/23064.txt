@@ -1,0 +1,6 @@
+FLAG ON THE PLAY
+200|Twisting, pulling, pushing or turning this piece of equipment costs an NFL defender 15 yards|a face mask
+400|It's a cause for disqualification in the 100-meter dash; a jumpy NFL offensive lineman doing it costs 5 yards|a false start
+600|(Jimmy of the Clue Crews presents by a display monitor.) If a quarterback is under defensive pressure & throws a pass that lands nowhere near a receiver, it's intentional this|grounding
+800|If you block an NFL opponent from behind, below the waist, it'll cost you & your team 15 yards as this penalty|clipping
+1000|If the offense is called for holding in its own end zone, this score is awarded to the defense|2 points

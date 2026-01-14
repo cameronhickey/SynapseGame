@@ -1,0 +1,6 @@
+GOING DUTCH
+200|Middernacht is this time of day|midnight
+400|When driving in the Netherlands, it's good to know that one of these is het benzinestation|a gasoline station
+600|The dairy is "de melwinkel" while "de kaaswinkel" specializes in this kind of dairy product|Cheese
+800|Driving through the Netherlands? You should know a sign that says "Parkeerverbod" means this|No Parking
+1000|It's a cinch you know the Dutch call this fashion accessory "een ceintuur\"|Belt

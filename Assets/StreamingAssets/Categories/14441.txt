@@ -1,0 +1,6 @@
+MASSACHUSETTS STATE SYMBOLS
+200|Hey Pilgrim! It's Massachusetts' State Historical Rock|Plymouth Rock
+400|This ingredient in a Cape Codder cocktail is the State Beverage (Hint: it's not the vodka)|cranberry juice
+600|This planter of fruit trees has been designated the official Folk Hero|Johnny Appleseed
+800|Fittingly titled "Massachusetts", the official folk song was written by this folkie, Woody's son|Arlo Guthrie
+1000|This depictor of small-town life who eventually made his home in Stockbridge is the official artist of the Commonwealth|Norman Rockwell

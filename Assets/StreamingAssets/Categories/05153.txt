@@ -1,0 +1,6 @@
+COUNTIES OF ENGLAND
+200|With 1 T it's an English county; with 2 Ts, Heisman Trophy winner Tony|Dorset/Dorsett
+400|Sussex was named for the south Saxons; this county was named for the east Saxons|Essex
+600|Its name means "Southern district with the fringe on top" (okay, we lied about the fringe part)|Surrey
+800|Becket was killed in this county, home to Canterbury|Kent
+1000|The westernmost county of England, or what the eldest son of the monarch is duke of|Cornwall

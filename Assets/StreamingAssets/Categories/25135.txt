@@ -1,0 +1,6 @@
+STARTS WITH "FL\"
+200|An oddball, or a piece of his cereal|flake
+400|Term for a sheet of ice adrift on water|floe
+600|An iris, as depicted in heraldry|fleur-de-lis
+800|A bugle with valves|flugelhorn
+1000|A fleet of small warships|flotilla

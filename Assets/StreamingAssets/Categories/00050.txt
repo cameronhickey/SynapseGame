@@ -1,0 +1,6 @@
+STARTS WITH "J\"
+200|The first Mrs. Bonaparte|Josephine
+400|A puzzle people go to pieces over|a jigsaw puzzle
+600|The police say "fine" for crossing the street this way|jaywalking
+800|The only "J" in the Pledge of Allegiance|justice
+1000|Event an Olympian throws|javelin

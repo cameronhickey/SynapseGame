@@ -1,0 +1,6 @@
+3 MEANINGS, 1 WORD
+200|A measuring device, a musical series, a part of a fish|a scale
+400|An angler's toss, an acting ensemble, an orthopedic device|cast
+600|A structure, a dental device, a card game|a bridge
+800|A set of elevators, a steep slope, a blood-storage depot|a bank
+1000|A debit, an electrical accumulation, an attack|a charge

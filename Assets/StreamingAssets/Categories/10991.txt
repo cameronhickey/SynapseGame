@@ -1,0 +1,6 @@
+ON FOOT
+200|\"Singular" name for the undersurface of a foot|sole
+400|A tennis player who steps on the baseline while serving is guilty of this|a foot fault
+600|We can't stress enough that a "spondee" is a poetic foot of this many syllables|two
+800|Dominique-Jean Larrey was the first to describe this skin condition common to the feet of WWI soldiers|trench foot
+1000|Caused by a virus identified around 1897, this viral disease with a hy- phenated name is almost exclusive to cows & sheep|hoof-and-mouth disease

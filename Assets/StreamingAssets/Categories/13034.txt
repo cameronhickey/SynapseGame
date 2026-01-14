@@ -1,0 +1,6 @@
+HOW MANY PLAYERS ON EACH SIDE?
+200|Basketball|5
+400|Ice hockey|6
+600|Olympic synchronized platform diving|2
+800|Soccer|11
+1000|Canadian football|12

@@ -1,0 +1,6 @@
+PARTYING
+200|As presidents, Truman & Wilson were members of this political party|Democratic Party
+400|Between 1841 & 1853, 4 U.S. presidents were from this political party that no longer exists|the Whig Party
+600|Ralph Nader was this political party's candidate for President in 1996 & 2000|the Green Party
+800|Pres. John Adams was a member of this former political party that advocated a strong centralized govt.|the Federalist
+1000|For the 1864 Presidental election, the Republican Party changed its name to this|the Union Party

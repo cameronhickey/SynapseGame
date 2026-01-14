@@ -1,0 +1,6 @@
+U.S. FLAG ETIQUETTE
+200|The flag code specifies that a lapel flag pin is to be worn near this body part|the heart
+400|It's the preferred way to destroy an American flag in bad condition|burning it
+600|In a military fold, the flag is folded twice lengthwise & then folded until this geometric shape is achieved at the finish|a triangle
+800|On this holiday, the flag is displayed at half staff until noon & then at full staff until sunset|Memorial Day
+1000|In the U.S., this organization's flag may be flown above the Stars and Stripes only at its NYC headquarters|the UN (the United Nations)

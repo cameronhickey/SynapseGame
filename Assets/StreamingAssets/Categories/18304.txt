@@ -1,0 +1,6 @@
+DUCKS
+200|A rapper, or a male duck|Drake
+400|The ducks here are engaged in this cleaning process|preening
+600|Scoters, or sea coots, love to feed on mollusks, like the razor type of this|a clam
+800|The name of this duck doesn't refer to its varied interests but rather its shallow-water feeding habits|a dabbling duck
+1000|Domesticated breeds come from the mallard & this Russian-sounding "M" duck|the Muscovy duck

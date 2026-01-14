@@ -1,0 +1,6 @@
+SALUTATIONS!
+200|A Spanish magazine covering celebrity life has this greeting as its title|hola
+400|It's a common Jewish greeting as well as a farewell|shalom
+600|It's a 3-letter mashup of a 2-word question, & I dunno, this 3-letter mashup of a 2-word question with you?|sup
+800|Hey pardner, this informal greeting rhymes with "apple pan dowdy" in a song from the 1940s|howdy
+1000|This 2-word German expression covers good day, good afternoon & hello|Guten Tag

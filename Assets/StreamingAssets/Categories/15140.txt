@@ -1,0 +1,6 @@
+QUARTERBACK U.
+200|Peyton Manning|University of Tennessee
+400|Vince Young|University of Texas
+600|Steve Young|BYU (Brigham Young)
+800|Drew Brees|Purdue
+1000|Jim Kelly & Gino Torretta|University of Miami

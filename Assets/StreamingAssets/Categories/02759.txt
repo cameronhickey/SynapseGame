@@ -1,0 +1,6 @@
+TV TITLE PAIRS
+200|Susan Saint James & Jane Curtin|\"Kate & Allie\"
+400|Bruce Boxleitner & Kate Jackson|\"Scarecrow And Mrs. King\"
+600|Jane Curtin & Susan Saint James|Kate & Allie
+800|Redd Foxx & Demond Wilson|Sanford and Son
+1000|Paul Michael Glaser & David Soul|Starsky and Hutch

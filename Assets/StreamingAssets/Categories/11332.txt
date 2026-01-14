@@ -1,0 +1,6 @@
+TUNNEL
+200|The Severomuyskiy Tunnel stretches 9 1/2 miles in this nation|Russia
+400|Traveling under the Alps, the Great St. Bernard Tunnel connects Italy to this country|Switzerland
+600|Dating from the time of Hezekiah, the Siloam Tunnel diverts water under this city to a pool inside the city walls|Jerusalem
+800|What's officially the Lucius J. Kellam, Jr. Bridge-Tunnel travels more than a mile under this east Virginia bay|the Chesapeake Bay
+1000|The 11 1/2-mile tunnel between Bologna & Florence, Italy bears the name of this Italian mountain chain|the Apennines

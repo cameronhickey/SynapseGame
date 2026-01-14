@@ -1,0 +1,6 @@
+DICKENS BOOKS BY CHARACTERS
+200|Jacob Marley & Tiny Tim|A Christmas Carol
+400|Dr. Manette & Madame Defarge|A Tale of Two Cities
+600|Estella & Miss Havisham|Great Expectations
+800|Betsey Trotwood & Mr. Murdstone|David Copperfield
+1000|Quilp, Kit Nubbles & Little Nell|The Old Curiosity Shop

@@ -1,0 +1,6 @@
+STATE CAPITALS
+200|This N.M. town is the oldest city that's a state capital|Santa Fe
+400|It actually is 5,280 ft. above sea level|Denver
+600|1 of 4 state capitals that end in word "City\"|(1 of) Salt Lake City, Oklahoma City, Jefferson City, or Carson City
+800|State whose capital was first called "La villa real de la Santa Fe de San Francisco\"|New Mexico
+1000|The Susquehanna River runs through this state capital|Harrisburg

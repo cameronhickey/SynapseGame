@@ -1,0 +1,6 @@
+DEPT. OF THE INTERIOR
+200|Liquid substance that's the Bureau of Reclamation's main concern|Water
+400|Clinton thought this former Arizona governor superior; he made him Secretary of the Interior|Bruce Babbitt
+600|In 1946 the Grazing Service was combined with another office to form the BLM, this|Bureau of Land Management
+800|This service runs Yellowstone & Yosemite|National Park Service
+1000|Originally part of the Department of War, this bureau is concerned with the how & where of Native Americans|Bureau of Indian Affairs

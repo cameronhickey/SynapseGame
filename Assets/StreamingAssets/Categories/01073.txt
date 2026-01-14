@@ -1,0 +1,6 @@
+BONES
+200|It's the part of the body where you'd find the 7 tarsal bones|the foot
+400|Of the 2 bones in the lower leg, it's the one not joined to the knee|the fibula
+600|(Jimmy of the Clue Crew shows an anatomical rendering on the monitor.) In the second year of life, two bones fuse to form this lower jawbone, & the chin starts to develop at the fusion point|the mandible
+800|Infection-fighting white blood cells called neutrophils are produced in this part of the bone|the marrow
+1000|This forearm bone takes its name from the Latin for "elbow\"|the ulna

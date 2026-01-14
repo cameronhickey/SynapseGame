@@ -1,0 +1,6 @@
+MEDICAL PREFIXES & SUFFIXES
+200|Following lump- & tonsil(l)-, it denotes a surgical removal|-ectomy
+400|Schizo-, as in an atom or a banana dessert|split
+600|This suffix means "disease"; when it follows osteo- & homeo-, the words refer to methods of treating disease|-pathic
+800|Glott- or lingua-; there's a mother one|tongue
+1000|Used as a suffix, -emia means pertaining to this substance|blood

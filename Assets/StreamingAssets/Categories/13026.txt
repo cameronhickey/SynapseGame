@@ -1,0 +1,6 @@
+NAME THAT PREZ
+200|The Smithsonian has the stovepipe hat this president wore to the theater when he was killed|Abraham Lincoln
+400|You'll get some ideas for summer vacation from this president's book "African Game Trails\"|Theodore Roosevelt
+600|He made his first run for the office in 1980|George H.W. Bush
+800|His reputed affair with Mrs. Mary Peck threatened to quash his presidential hopes in 1912|Woodrow Wilson
+1000|(Jimmy of the Clue Crew delivers the clue from Arlington National Cemetery, Virginia.) Arlington's first interment of an Unknown Soldier to rest in honored glory took place on November 11, 1921 with this president leading the ceremonies|Warren Harding

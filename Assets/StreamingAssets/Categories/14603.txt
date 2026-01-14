@@ -1,0 +1,6 @@
+BIOPIC-NIC
+200|1970 George C. Scott as this general|Patton
+400|1983: Meryl Streep as this nuclear power technician|Silkwood
+600|1992: Jack Nicholson as this labor leader|Jimmy Hoffa
+800|2001: Will Smith as this poet/pugilist|Muhammad Ali
+1000|2004: Liam Neeson as this behavioral researcher|Kinsey

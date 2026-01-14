@@ -1,0 +1,6 @@
+LEADERS
+200|U.S. president: 1961-1963|John F. Kennedy
+400|\"Iron" British prime minister: 1979-1990|Margaret Thatcher
+600|Premier of the Soviet Union: 1941-1953|Joseph Stalin
+800|U.S. vice president: 1989-1993|Dan Quayle
+1000|Apostle & first pope: around 64 A.D.|St. Peter

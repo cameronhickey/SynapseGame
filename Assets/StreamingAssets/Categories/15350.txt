@@ -1,0 +1,6 @@
+GEOGRAPHIC MEANINGS
+200|A Caribbean island: "Rich Port\"|Puerto Rico
+400|A country: "Rich Coast\"|Costa Rica
+600|A North African city: "Three Towns\"|Tripoli
+800|A South African city: "Fountain of Flowers\"|Bloemfontein
+1000|A country in the Balkans: "Black Mountain\"|Montenegro

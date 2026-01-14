@@ -1,0 +1,6 @@
+THAT'S MY SECRETARY OF DEFENSE
+200|Dick Cheney|George H.W. Bush
+400|Robert McNamara (2 names, please)|Kennedy & Johnson
+600|Caspar Weinberger|Ronald Reagan
+800|Melvin Laird|Richard Nixon
+1000|George C. Marshall|Harry Truman

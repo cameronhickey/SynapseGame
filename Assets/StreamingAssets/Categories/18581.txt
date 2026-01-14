@@ -1,0 +1,6 @@
+THE NEXT CHEMICAL ELEMENT ALPHABETICALLY
+200|After platinum|plutonium
+400|After copernicium|copper
+600|After zinc|zirconium
+800|After argon|arsenic
+1000|After silicon|silver

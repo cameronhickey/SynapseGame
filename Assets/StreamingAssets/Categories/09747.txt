@@ -1,0 +1,6 @@
+MY PC LIFE
+200|I always update the antivirus definitions for this Symantec Corp. program; it's not named for Kramden's pal|Norton
+400|I've been using this product created in 1984 by the Intuit owner after he saw his wife tediously pay the bills|Quicken
+600|I'm now using the Firefox web browser that got its start from this Time Warner company's Netscape division|AOL
+800|Like the asbestos partitions on my house, I use ZoneAlarm as this type of software to keep my computer secure|a firewall
+1000|I don't click on an email link to update any of my accounts, because it may be this type of "sporting" spam|phishing

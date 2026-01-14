@@ -1,0 +1,6 @@
+AIRCRAFT CARRIER NAMES
+200|Shades of "Star Trek": the U.S. Navy's aircraft carrier CVN 65 is named this|the Enterprise
+400|A woman born Mamie Doud christened this carrier|the Eisenhower
+600|Aircraft carriers named for stinging insects include the USS Wasp & this one, now a museum|the Hornet
+800|The adjective meaning "courageous" is the name of a carrier that's now a (floating) historic landmark|Intrepid
+1000|An aircraft carrier was named this, a fictional Tibetan land of eternal youth|Shangri-La

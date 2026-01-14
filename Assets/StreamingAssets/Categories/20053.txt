@@ -1,0 +1,6 @@
+SQUID
+200|The squid is better at hugging than the octopus, as it has this many appendages|ten
+400|A squid has teeth on its tongue, but its main weapon is this, which it uses to dismember prey|its beak
+600|Squids have sacs full of this used for distraction & yum! It's edible|ink
+800|Loligo opalescens is this 6-letter squid, a word that also follows "stock" or "farmers\"|market
+1000|Though boneless, squids have a rudimentary type of this substance that serves as a sort of backbone|cartilage

@@ -1,0 +1,6 @@
+\"HOLD" EVERYTHING
+200|To look upon|to behold
+400|Type of "word" so common, it's familiar in everyone's home|household
+600|Something kept on from a previous administration|a holdover
+800|The point at which a stimulus, such as pain, has an effect|threshold
+1000|A fortified place of refuge|a stronghold

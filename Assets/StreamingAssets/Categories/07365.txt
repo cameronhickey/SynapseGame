@@ -1,0 +1,6 @@
+DOUGH
+200|Chile uses this basic unit of currency|a peso
+400|It means to work dough by pressing, folding & stretching it|knead
+600|Italy has issued Euro coins with part of this painter's "Birth of Venus" on the reverse|Botticelli
+800|A cylinder of dough filled with chopped Chinese vegetables, or an Eastertime event at the White House|an egg roll
+1000|The name of this unit of currency used in Libya is from the Latin for "ten\"|Dinar

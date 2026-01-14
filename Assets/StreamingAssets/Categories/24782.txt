@@ -1,0 +1,6 @@
+SOUNDS SPOOKY
+200|You don't have to keep it under wraps: a British kid might use this 5-letter word instead of mother|mummy
+400|Sanguinelli is a variety of this citrus fruit whose flesh can be deep red|a blood orange
+600|Also a Stephen King book title, this group of workers is the smallest amount possible to successfully fill a shift|a skeleton crew
+800|There are 3 species of this mammal, which uses echolocation & feeds on livestock|vampire bats
+1000|It's named for how some of its growth dangles down as if in a web|spider plants

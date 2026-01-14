@@ -1,0 +1,6 @@
+MATH APPEAL
+200|As the bases are 90 feet apart, it's the area in square feet of a baseball infield|8,100 square feet
+400|In 67 divided by 22, 67 is this, also a nice check stockholders get|a dividend
+600|To write one of these as a decimal, move the decimal point 2 places to the left|a percentage
+800|A 2013 paper on "twin" these numbers shows there are infinitely many pairs of them no more than 70,000,000 apart|prime numbers
+1000|7x(6x3)= (7x6)x3 is an example of this law, meaning it doesn't matter which pair you multiply first|associative

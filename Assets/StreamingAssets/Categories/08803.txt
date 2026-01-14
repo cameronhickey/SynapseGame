@@ -1,0 +1,6 @@
+FOREIGN FILM OSCAR NATIONS
+200|1951: "Rashomon\"|Japan
+400|1998: "Life Is Beautiful\"|Italy
+600|1973: "Day for Night\"|France
+800|1979: "The Tin Drum\"|Germany
+1000|1960: "The Virgin Spring\"|Sweden

@@ -1,0 +1,6 @@
+MAJOR LEAGUE BASEBALL TEAM NICKNAMES
+200|The Bronx Bombers|the Yankees
+400|The Halos|the Angels
+600|The Redbirds|the (St. Louis) Cardinals
+800|The Buccos|the Pirates
+1000|The Fightin' Fish|the (Miami) Marlins

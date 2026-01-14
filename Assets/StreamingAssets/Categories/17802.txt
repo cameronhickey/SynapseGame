@@ -1,0 +1,6 @@
+THE MOST POPULOUS COUNTRY
+200|Peru, Pakistan, Poland|Pakistan
+400|Iran, Israel, Italy|Iran
+600|France, Germany, Spain|Germany
+800|Austria, Australia, Argentina|Argentina
+1000|Bosnia, Belgium, Belize|Belgium

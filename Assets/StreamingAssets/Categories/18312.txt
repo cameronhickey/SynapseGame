@@ -1,0 +1,6 @@
+THE ILL-IAD
+200|When this lung disease was still called consumption, it was one of the leading causes of death|tuberculosis
+400|The swelling that's the main symptom of this contagious viral infection is caused by enlarged salivary glands|mumps
+600|High pressure in the eye is often the cause of this disease that can damage the optic nerve & cause a loss of vision|glaucoma
+800|This disease is more properly known as bovine spongiform encephalopathy|mad cow disease
+1000|The name of this bacterial infection caused by contaminated water comes from an old word for bile|cholera

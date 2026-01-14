@@ -1,0 +1,6 @@
+NEWSMEN
+200|This longtime Washington Post reporter's book "The Secret Man" was about W. Mark Felt, his Watergate source|Bob Woodward
+400|In 1984 this ABC journalist was named "The best television White House correspondent in the business\"|Sam Donaldson
+600|Once ABC's chief White House correspondent, Brit Hume now serves as senior political analyst for this channel|Fox News
+800|A onetime reporter for the Jerusalem Post, he joined CNN in 1990 & now serves as its lead political anchor|Wolf Blitzer
+1000|His eyewitness reports of WWII's Battle of Britain marked the coming of age of radio journalism; good night, & good luck|Edward R. Murrow

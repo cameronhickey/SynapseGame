@@ -1,0 +1,6 @@
+GIMME AN "H\"
+200|The western hemisphere country with French as an official language that fits the category|Haiti
+400|This Onondaga chief who helped unite the Iroquois was celebrated by Longfellow|Hiawatha
+600|In the New Testament, he tells the Magi, "Go and search diligently for the young child...\"|Herod (the Great)
+800|He was the last major party pres. candidate to win his party's nod without winning the most votes in the primaries|Hubert Humphrey
+1000|This scientific endeavor abbreviated HGP had the goal of mapping every gene of Homo sapiens|the Human Genome Project

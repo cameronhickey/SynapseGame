@@ -1,0 +1,6 @@
+THE JUDGE OF THAT
+200|Judges belonging to courts of these hear those cases, reviewing procedures & decisions of trial courts|appeals
+400|District court judges conduct trials & manage the selection & instruction of these|juries
+600|An experienced attorney may act as a temporary judge in this type of court that hears cases involving limited dollar amounts|small claims court
+800|Federal magistrate judges consider pretrial these, such as for summary judgment|motions
+1000|Makes sense that Texas leads the nation with more than 100 judges assigned to its 11 courts of this; California is second|immigration courts

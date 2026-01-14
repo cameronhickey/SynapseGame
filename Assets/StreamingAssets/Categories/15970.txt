@@ -1,0 +1,6 @@
+AGATHA CHRISTIE BOOKS
+200|This crime "at the Vicarage\"|Murder
+400|\"And Then There Were" this many|None
+600|This object "Crack'd from Side to Side\"|The Mirror
+800|\"The Body in" this room of the house|the library
+1000|\"Cat Among" these birds|the pigeon

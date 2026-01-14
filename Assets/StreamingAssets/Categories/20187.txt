@@ -1,0 +1,6 @@
+DOUBLE LETTER FUN
+200|It indicates a pause between parts of a sentence|a comma
+400|A glove at home or first|a mitt
+600|Useful utensil from the Old English for "chip of wood\"|a spoon
+800|They follow each other & are home to a solstice & an equinox, respectively|summer and fall
+1000|(Kelly of the Clue Crew shuffles a deck.) A mathematician has shown that the overhand method takes 10,000 shuffles to randomize a deck, but you can do it in just seven tries using this shuffling method that also contains a double "F\"|riffling

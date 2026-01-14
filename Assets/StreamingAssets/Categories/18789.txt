@@ -1,0 +1,6 @@
+WHAT'S THAT WEBSITE?
+200|si.com|Sports Illustrated
+400|aa.com|American Airlines
+600|va.gov|Veterans Affairs
+800|esbnyc.com (a landmark)|the Empire State Building
+1000|sjsu.edu (out West)|San Jose State University

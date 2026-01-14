@@ -1,0 +1,6 @@
+MOVIE VOCATIONS
+200|1961's "The Absent-Minded ____\"|professor
+400|Pioneering talkie "The Jazz ____\"|singer
+600|\"Taxi ____", with 4 Oscar nominations|driver
+800|\"Kindergarten ____" ("He's in a class by himself")|cop
+1000|\"____ Strange", "____ Detroit\"|doctor

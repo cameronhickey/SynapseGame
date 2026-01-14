@@ -1,0 +1,6 @@
+CHOPIN
+200|Every piece Chopin composed was for or included this instrument|Piano
+400|After some miserable months in Vienna, Chopin arrived in this city, another musical mecca, in September 1831|Paris
+600|After meeting this author, Chopin wondered, "Is she really a woman?\"|George Sand
+800|Chopin was born in Poland, & his first printed work at age 7 was one of these appropriately named pieces|Polonaise
+1000|Chopin disliked the insincerity of this Hungarian pianist-composer 1 year his junior|Franz Liszt

@@ -1,0 +1,6 @@
+STOCK CARS
+200|GM|General Motors
+400|TM|Toyota
+600|HMC|Honda Motor Corporation
+800|NSANY|Nissan
+1000|DCX|Daimler Chrysler

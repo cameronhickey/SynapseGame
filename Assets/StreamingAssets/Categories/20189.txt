@@ -1,0 +1,6 @@
+QUESTIONING MOVIE TITLES
+200|\"Who Framed ____ ____\"|Roger Rabbit
+400|\"What's Eating ____ ____\"|Gilbert Grape
+600|From 1962, "What Ever Happened to ____ ____?\"|Baby Jane
+800|\"Who's That ____" (it's Madonna)|girl
+1000|\"What About ____?" with Bill Murray as the title guy|Bob

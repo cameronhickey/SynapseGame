@@ -1,0 +1,6 @@
+ROUTE '60-SOMETHING
+200|Alabama stops for these Congress of Racial Equality riders in 1961 were in Anniston, Montgomery & Birmingham|the Freedom Riders
+400|\"The two poles of classical civilization" describes the 1960 Olympic torch relay from here to here|Athens and Rome
+600|From August 1966 to May '67, Sir Francis Chichester did this alone, centuries after Sir Francis Drake did it with a crew|sail around the world
+800|In the documentary "First Orbit", the I.S.S. matches its orbital path to the one taken by him in 1961 aboard Vostok 1|Yuri Gagarin
+1000|Also a song from The Who, this company took 1960s longhairs down the "hippie trail" from Europe to India|the Magic Bus

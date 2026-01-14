@@ -1,0 +1,6 @@
+ANTONYMIC BOOK TITLES
+200|1913: "Daughters & Haters\"|Sons & Lovers
+400|1667: "Hell Recovered\"|Paradise Lost
+600|1813: "Humility & Objectivity\"|Pride & Prejudice
+800|1988: "The King Of The Saved"\'|The Queen Of The Damned
+1000|1997: "Hot Valley\"|Cold Mountain

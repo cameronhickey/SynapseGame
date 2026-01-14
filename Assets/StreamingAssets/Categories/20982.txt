@@ -1,0 +1,6 @@
+PLACE IT
+200|The 1976 Democratic National Convention: this New York City arena|Madison Square Garden
+400|The Battle of Leyte Gulf: this ocean|the Pacific Ocean
+600|The 2010 World Expo: this Chinese city|Shanghai
+800|The St. Valentine's Day Massacre: this Illinois county|Cook County
+1000|The Choson dynasty beginning in 1392: this unified country|Korea

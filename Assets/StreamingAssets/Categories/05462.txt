@@ -1,0 +1,6 @@
+MASKS
+200|The Medico de la Peste mask was originally worn in the 17th century by a doctor treating victims of this bubonic contagion|the Black Plague
+400|This hero first donned his mask in the 1919 story "The Curse of Capistrano\"|Zorro (Don Diego de la Vega)
+600|The "Music Of The Night" might surround you when you wear the mask from this musical|The Phantom of the Opera
+800|\"The Man in the Iron Mask" was a mysterious unidentified prisoner held in this country in the late 1600s|France
+1000|In Latin America skull-shaped masks are popular on this holiday, el Dia de Los Muertos|the Day of the Dead

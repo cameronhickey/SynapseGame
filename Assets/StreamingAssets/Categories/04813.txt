@@ -1,0 +1,6 @@
+ALL "STAR"S
+200|In the 1980s the Strategic Defense Initiative was given this nickname|\"Star Wars\"
+400|It's a term for the right-hand side of a ship, facing forward|starboard
+600|If this 5-armed creature loses a limb, it can regenerate a new one|a starfish
+800|Ed McMahon hosted this show on which aspiring performers competed in categories like TV Spokesmodel|Star Search
+1000|Slang for an astronomer, it can also mean a daydreamer|a stargazer

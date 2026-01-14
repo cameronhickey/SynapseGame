@@ -1,0 +1,6 @@
+ELEMENTAL NAMES
+200|This element's name is derived from the names of 2 other substances: borax & carbon|Boron
+400|2 of the 3 elements named for planets|Neptunium, Plutonium &/or Uranium
+600|First observed in the sun's atmosphere, it was named for the sun|Helium
+800|French chemist Lavoisier gave this element its name, which is from the Greek for "water forming\"|Hydrogen
+1000|Radium comes from radius, the Latin for "ray"; this element's name comes from radium|Radon

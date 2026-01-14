@@ -1,0 +1,6 @@
+BIBLE BOOK ABBREVIATIONS
+200|Jg— your ruling, please|Judges
+400|Le, number 3 in the O.T.|Leviticus
+600|Ac: Just add 2 letters!|Acts
+800|Ga: Paul calls them foolish|the Galatians
+1000|Ne: It follows Ez, Ezra|Nehemiah

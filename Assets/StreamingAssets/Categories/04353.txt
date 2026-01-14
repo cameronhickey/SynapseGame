@@ -1,0 +1,6 @@
+WHAT "A" COUNTRY!
+200|This country is planting a "green wall" to try to stop the encroachment of the Sahara|Algeria
+400|It's the only "A" country whose currency is the peso|Argentina
+600|1 of the 2 countries whose names begin with "A" but don't end in "A\"|Afghanistan & Azerbaijan
+800|Birds that call this country home include the galah, the rosella & the fairy penguin|Australia
+1000|Diamonds are a major export of this former Portuguese colony|Angola

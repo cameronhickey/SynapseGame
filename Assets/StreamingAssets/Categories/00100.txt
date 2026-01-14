@@ -1,0 +1,6 @@
+LITERATURE
+200|Depending on the book, he could be a "Jones", a "Sawyer", or an "Uncle\"|Tom
+400|He wrote "The 3 Musketeers"; his son wrote "Camille\"|(Alexandre) Dumas
+600|Where you can't go again in Thomas Wolfe title|home
+800|Irving's bird-like hero chased by the Headless Horseman|Ichabod Crane
+1000|Shaw's scorched saint|St. Joan of Arc

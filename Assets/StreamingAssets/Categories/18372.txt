@@ -1,0 +1,6 @@
+WINDOW TO THE WORLD
+200|Is that thing lopsided? Or did I have one too many cocktails?|the Leaning Tower of Pisa
+400|Outside our window we have a view of this old city|Jerusalem
+600|I feel safer watching from inside the goings-on in this city|Pamplona
+800|Looks like a crisp, clear day in the neighborhood called Old this city, its country's second-largest|Montreal
+1000|Across the water is this South African landmark—pull up a chair!|Table Mountain

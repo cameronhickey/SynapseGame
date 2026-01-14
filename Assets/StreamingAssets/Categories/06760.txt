@@ -1,0 +1,6 @@
+TEA-TOTALING
+200|Tisane is a fancy name for this type of tea made by steeping flowers or spices like ginger or mint|herb tea
+400|This meal follows "English" & "Irish" in the names of teas|breakfast
+600|The most common grading process separates tea leaves according to this|size
+800|Iced tea was introduced at the 1904 World's Fair held in this city|St. Louis
+1000|This type of black tea is named for an Indian area in the foothills of the Himalayas|Darjeeling

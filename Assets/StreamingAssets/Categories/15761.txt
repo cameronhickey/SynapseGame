@@ -1,0 +1,6 @@
+AXIS & ALLIES
+200|These countries were the "Big 3" Allied powers of World War II|U.S., Britain, and Russia (or U.S.S.R.)
+400|An "axis" binding these 2 cities was proclaimed in 1936|Berlin and Rome
+600|This member of the Allies surrendered on June 22, 1940|France
+800|Slovakia was called this type of state because the Nazis manipulated it like Punch|a puppet state
+1000|\"Terminal" was the code name for the final Allied wartime conference, held in 1945 in this German city|Potsdam

@@ -1,0 +1,6 @@
+STOCK SYMBOLS
+200|This company, C, once came out with a K, a K car|Chrysler
+400|This company's symbol, AVP, should ring a bell with you|Avon
+600|If you know beans about this company, you know its symbol is HNZ|Heinz
+800|K is Kellogg & KM is this retailer|Kmart
+1000|What develops with this company is listed under EK|Eastman Kodak

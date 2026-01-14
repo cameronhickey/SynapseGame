@@ -1,0 +1,6 @@
+O CANADA PROVINCE CAPITAL
+200|In 1758 Halifax, capital of this province, was the site of Canada's first representative government|Nova Scotia
+400|Founded by Samuel de Champlain in 1608, this city has a name that comes from Algonquian for "the river narrows here\"|Quebec (City)
+600|This Alberta city is called "The Gateway to the North" & in the 2022-23 season, the gateway to 64 Connor McDavid goals|Edmonton
+800|This Manitoba city is called "The Gateway to the West" & in the 2022-23 season, the gateway to 42 Mark Scheifele goals|Winnipeg
+1000|It has been the capital of British Columbia ever since the province joined Canada in 1871|Victoria

@@ -1,0 +1,6 @@
+THE STOCK MARKET
+200|These open-end investment "funds" began in the U.S. in the 1920s & now hold over $5 trillion|mutual funds
+400|This printing terms refers to funds deposited with a broker to protect the broker against loss|margin
+600|\"ED" is the symbol of this, the longest-listed NYSE stock|Consolidated Edison
+800|eBay is listed on this New York-based stock exchange|NASDAQ
+1000|The world's fourth-largest public company according to Forbes, it is traded in Amsterdam|Royal Dutch Shell (Shell Oil)

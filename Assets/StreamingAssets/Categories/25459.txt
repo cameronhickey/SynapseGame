@@ -1,0 +1,6 @@
+ON WHEELS
+200|The Ford Maverick & GMC Sierra are this popular type of vehicle|pickup trucks
+400|The wheels on this hippie-mobile go round & round, like on the one George Carlin voiced in "Cars\"|a VW Microbus
+600|The Cozy Coupe is a classic from this company whose 2-word name refers to its young customers|Little Tikes
+800|The 1911 Curtiss Triad was the first plane to have retractable this, like modern planes|landing gear
+1000|Made without brakes, track bicycles are designed for this type of building & here they are going around inside one|a velodrome

@@ -1,0 +1,6 @@
+B MOVIES
+200|This 1982 low-budget movie set in Florida in 1954 is known for its locker-room humor|Porky's
+400|Director who made his feature debut in 1978 with "Eraserhead"; he went on to "Blue Velvet\"|David Lynch
+600|1990 saw George Romero remaking this 1968 zombie classic of his|Night of the Living Dead
+800|From her ability to yell out in terror in horror films, Brinke Stevens has this nearly rhyming title|scream queen
+1000|The weapon wielded by Leatherface|a chainsaw

@@ -1,0 +1,6 @@
+AUTO FOCUS
+200|The Town Car from this car line was originally built as a car for Henry Ford|Lincoln
+400|Incorporated in 1915, it designed its cars to withstand Sweden's rough roads & cold temperatures|Volvo
+600|An ad agency gave this car company a name standing for feline qualities like grace, elegance, power & agility|Jaguar
+800|Datsun, which became this company, was changed from Datson because son meant "loss" in Japanese|Nissan
+1000|This new division of Toyota aims for Generation XA & XB|the Scion

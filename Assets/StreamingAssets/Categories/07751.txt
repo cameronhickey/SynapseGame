@@ -1,0 +1,6 @@
+TV SERIES EPISODES
+200|\"McGarrett is Missing\"|Hawaii Five-O
+400|\"A Bionic Christmas Carol\"|The Six Million Dollar Man
+600|\"The Ghost of General Lee\"|The Dukes of Hazzard
+800|\"The Gamesters of Triskelion\"|Star Trek
+1000|\"Musings of a Cigarette-Smoking Man\"|The X-Files

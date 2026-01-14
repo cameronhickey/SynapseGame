@@ -1,0 +1,6 @@
+SOURCES OF POWER
+200|The TVA's Paradise Fossil Plant in Kentucky|coal
+400|The ancient Greek ship called the Penteconter—50 of them|oars
+600|The Three Gorges facility in China|water hydroelectric
+800|A barouche, mentioned by Jane Austen|horses
+1000|NextEra in Tehachapi, California, "The Birthplace of" this kind of power|wind power

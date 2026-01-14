@@ -1,0 +1,6 @@
+VOWEL, CONSONANT, VOWEL
+200|Hubbub or toil, but really, it's much this about nothing|ado
+400|It's worth 1 in golf & 15 on the first point in a tennis game|an ace
+600|A grand feeling of wonder or veneration|awe
+800|Rage; you've drawn my...|ire
+1000|During the Mesozoic one, Earth had a single hot, reptile-filled continent|era

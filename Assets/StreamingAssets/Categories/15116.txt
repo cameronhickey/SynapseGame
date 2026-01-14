@@ -1,0 +1,6 @@
+SYNONYMS ON THE INSIDE
+200|Inside "equivalent" is this word meaning equivalent|equal (in equivalent)
+400|Inside "deceased" is this word meaning deceased|dead (in deceased)
+600|Inside "fragile" is this word meaning fragile|frail (in fragile)
+800|Inside "masculine" is this 4-letter synonym for masculine|male (in masculine)
+1000|Inside "exists" is this word meaning exists|is (in exists)

@@ -1,0 +1,6 @@
+FROM SOUP TO NUTS
+200|Sherry is a recommended flavoring for the soup made from this shelled reptile|turtle soup
+400|Menudo is a spicy tripe soup from this country|Mexico
+600|A paste made from these nuts is used to flavor cookies called amaretti|almond
+800|The unusual name of this curry-flavored soup comes from the Tamil for "pepper water\"|mulligatawny
+1000|When these nuts are glazed & preserved, the French call them marrons glaces|chestnuts

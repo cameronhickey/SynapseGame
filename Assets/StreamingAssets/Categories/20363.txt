@@ -1,0 +1,6 @@
+STOCKING THE CABINET DEPARTMENT
+200|Bureau of Engraving & Printing|Department of the Treasury
+400|Federal Bureau of Prisons|Department of Justice
+600|Employment & Training Administration|the Department of Labor
+800|National Park Service|the Department of the Interior
+1000|Office of the Chief of Protocol|the State Department

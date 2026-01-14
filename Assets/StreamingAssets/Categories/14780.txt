@@ -1,0 +1,6 @@
+SOUNDS GEOMETRIC
+200|You may facetiously call your wastebasket this "file\"|a circular file
+400|The Texas Dept. of Agriculture uses this geometric term for the nutritious food kids should eat—breakfast, lunch & dinner|a square meal
+600|At the 1976 Olympics, Nadia Comaneci got a perfect 10 on this uneven equipment|the parallel bars
+800|Rather than long-term care for chronic disorders, some hospitals give this type of care (the opposite of obtuse)|acute
+1000|(Kelly of the Clue Crew reports from Microsoft Research in Redmond, WA.) Microsoft surface uses multiple cameras to find my finger position with this geometric technique where two known points lead to the location of an unknown|triangulation

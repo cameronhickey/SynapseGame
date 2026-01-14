@@ -1,0 +1,6 @@
+ENGLISH CITIES
+200|This city next to the White Cliffs took a 4-year artillery bombardment during WWII|Dover
+400|Appropriately named town that has England's oldest & most famous spa|Bath
+600|Shade of green associated with Robin Hood, it's named for a city in England, not a U.S. president|Lincoln green
+800|Dr. R. Russell's 18th c. promotion of sea bathing for health promoted this resort town due S. of London|Brighton
+1000|In 1742, Thos. Boulsover, a cutler in this city, discovered how to plate copper with silver|Sheffield

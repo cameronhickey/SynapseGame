@@ -1,0 +1,6 @@
+Xs, THEN Os
+200|\"Black tie preferred" usually means this garment for men|a tuxedo
+400|This synonym for dictionary can also refer to a specialized vocabulary for a field of study|a lexicon
+600|Flash lamps are one use for this noble gas|xenon
+800|Nuts & bolt heads are commonly made in this shape because it's easy to tighten & loosen|a hexagon
+1000|Also known as a postulate, it's a proposition regarded as established or self-evidently true|an axiom

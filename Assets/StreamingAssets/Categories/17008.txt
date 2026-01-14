@@ -1,0 +1,6 @@
+\"FISH"Y EXPRESSIONS
+200|In a game of "Fish", your response to a player who asks for all your aces when you have none|\"go fish\"
+400|Taken literally, it could be sashimi & Pringles|fish and chips
+600|What you'd call "I caught a shark with my bare hands during a 200 mph hurricane..." etc,|a fish story
+800|An aloof tuna or a barely defrosted "Mrs. Paul's\"|a cold fish
+1000|After being dumped by your sweetheart, how you might compare him to prospects of a future catch|there's a lot of other fish in the sea

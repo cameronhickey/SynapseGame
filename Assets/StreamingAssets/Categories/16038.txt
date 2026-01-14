@@ -1,0 +1,6 @@
+\"EXTRA\"
+200|It's the "ES" in ESP, or do you need to read my mind?|extrasensory
+400|After films like "Alien" & "Independence Day", these beings might demand a better image in the media|extraterrestrials
+600|A YouTube clip from the 1940s shows a newsboy saying this 6-word line before "Millionaire Playboy in Trouble Again!\"|\"Extra! Extra! Read all about it!\"
+800|This adjective means not pertinent to the issue at hand|extraneous
+1000|It's calculating a value beyond the range of that which is known|extrapolation

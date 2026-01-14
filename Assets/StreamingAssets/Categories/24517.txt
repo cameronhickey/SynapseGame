@@ -1,0 +1,6 @@
+PARTS & LABOR
+200|Jake Peralta, Harry Callahan|a policeman (police detective)
+400|Kim Wexler, Vincent Gambini|lawyer
+600|Fox Mulder, Clarice Starling|FBI agent
+800|Gabe Kotter, Mr. Hand|teachers
+1000|Francis Mulcahy, Brendan Flynn|(Catholic) priests

@@ -1,0 +1,6 @@
+NEIGHBORHOODS
+200|Largest Chinese community outside Asia lives in this city's Chinatown|San Francisco
+400|Of a North, East, South & West Side, the 1 Chicago doesn't have|East
+600|People of South Boston often refer to their neighborhood by this nickname|Southie
+800|Founded in 1683, Germantown is now an historic part of this city|Philadelphia
+1000|The financial district, oldest section of this city, is called "The City\"|London

@@ -1,0 +1,6 @@
+THE MOUNTIES
+200|Mounties must have a Canadian driver's license & no criminal record, & speak either of these 2 languages|English & French
+400|These people have been recruited as Mounties only since 1974|women
+600|The Mounties are the only police force in these 2 Canadian territories|the Yukon Territory & the Northwest Territories
+800|The Mounties weren't "Royal" until 1904, by this monarch's decree|Edward VII
+1000|Besides Quebec, the only Canadian province not policed by the Mounties|Ontario

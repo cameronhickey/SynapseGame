@@ -1,0 +1,6 @@
+ALL ABOUT GERMANY
+200|The name of Germany in German is this "land\"|Deutsch
+400|The North Sea is on the northwest coast; this sea is on the northeast coast|the Baltic
+600|There are no right angles in the Stuttgart museum of this car company, just bends and Benz|Mercedes
+800|A3 & A5 are 2 of Germany's busiest of these highways|Autobahn
+1000|This Elbe River city that lent its name to a sandwich has one of Germany's largest immigrant populations|Hamburg

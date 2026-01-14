@@ -1,0 +1,6 @@
+IS THERE A POINT TO ALL THIS?
+200|A good student knows that GPA stands for this|grade point average
+400|In ballet, to dance "sur les pointes" is to dance on these|toes
+600|This military academy's 3-word motto is "Duty, Honor, Country\"|West Point
+800|Also known as Divisionism, this style of art was best exemplified by Georges Seurat|Pointillism
+1000|In a perspective drawing, it's the point on the horizon where parallel lines appear to converge|vanishing point

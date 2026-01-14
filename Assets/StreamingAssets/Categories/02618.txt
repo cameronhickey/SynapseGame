@@ -1,0 +1,6 @@
+LINGUISTICS
+200|Linguists have debunked the common belief that Eskimos have dozens of words for this substance|Snow
+400|These systems of communication that use the hands can be as rich & complex as spoken tongues|Sign language/signing
+600|Sentence diagrams called these may include lines called branches|Trees
+800|Considered part of grammar, it's the study of the interrelation of words in a sentence|Syntax
+1000|This famed M.I.T. scholar has proposed that humans have the inborn ability to learn language|Noam Chomsky

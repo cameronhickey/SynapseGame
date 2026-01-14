@@ -1,0 +1,6 @@
+MEDICAL SPELLING
+200|From the Latin word for "swollen vein", adjective for veins that stick out|V-A-R-I-C-O-S-E
+400|Rabies, or a morbid dread of water|H-Y-D-R-O-P-H-O-B-I-A
+600|Inflammation of a bursa|B-U-R-S-I-T-I-S
+800|World Book calls this, discovered in 1928, "the least poisonous antibiotic available\"|P-E-N-I-C-I-L-L-I-N
+1000|The thigh bone|F-E-M-U-R

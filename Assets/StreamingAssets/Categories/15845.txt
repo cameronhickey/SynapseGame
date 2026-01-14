@@ -1,0 +1,6 @@
+THE WORLD CAPITAL SERVED BY...
+200|Indira Gandhi International Airport|New Delhi
+400|Gatwick Airport|London
+600|Fiumicino Airport|Rome
+800|King Khalid International Airport|Riyadh
+1000|Schiphol Airport|Amsterdam

@@ -1,0 +1,6 @@
+CONTINENTS OF NOBEL PRIZE WINNERS
+200|For Peace, Mohamed El Baradei|Africa
+400|For Literature, Pablo Neruda|South America
+600|For Peace, Lester B. Pearson|North America
+800|For Medicine, Elizabeth H. Blackburn|Australia
+1000|For Peace, Tenzin Gyatso|Asia

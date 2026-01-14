@@ -1,0 +1,6 @@
+WHERE'D YA GO TO SCHOOL?
+200|Pierre Curie: this division of the University of Paris|the Sorbonne
+400|John F. Kennedy Jr.: this Providence campus|Brown
+600|Antonin Scalia & basketball great Patrick Ewing: this Jesuit school|Georgetown
+800|Dick Cheney (bachelor's & master's): the University of this state|Wyoming
+1000|Isaac Newton & Lord Byron: this Cambridge University college|Trinity

@@ -1,0 +1,6 @@
+PARTLY CLOUDY, CHANCE OF RAIN
+200|This island state has the wettest point on Earth, with an average of 460" of rain a year|Hawaii
+400|Latin for "heap" or "mass" & typically in puffs or mounds, this type of cloud may reach up to 43,000 feet|cumulus
+600|Usually found below 8,000 feet, this 7-letter cloud class has a gray, horizontal layer & produces drizzle|stratus
+800|.03" a year of rain falls on Arica in this South American country whose name sounds like a weather condition|Chile
+1000|In botany, it's a tendril; it's also this class of cloud noted for its thin white filaments & ice crystals|cirrus

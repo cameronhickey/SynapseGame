@@ -1,0 +1,6 @@
+\"C-E-S\"
+200|Any forebear or progenitor|an ancestor
+400|It's the Latin name for fishes as a class of vertebrates|Pisces
+600|A bishop's bailiwick can be a bishopric or this synonym|a diocese
+800|This element is atomic number 55|cesium
+1000|It's the basket fitted onto a wooden handle that's used to throw & catch the ball in jai alai|a cesta

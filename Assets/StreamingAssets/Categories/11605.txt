@@ -1,0 +1,6 @@
+I HOP
+200|The red type of this marsupial can leap over barriers as high as 6 feet|kangaroo
+400|Amphibians are divided into 3 groups: caecilians, salamanders & this pair of hoppers|frogs & toads
+600|The Belgian hare is not actually a hare but this type of hopper|rabbit
+800|An ant shares the billing with one of these insects in the title of an Aesop fable|grasshopper
+1000|This tiny insect pest, Pulex irritans, can leap more than 130 times its own height|flea

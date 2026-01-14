@@ -1,0 +1,6 @@
+FUN WITH STATE NAMES
+200|Keep up! They are the 2 states with 3 sets of double letters|Mississippi & Tennessee
+400|The one letter that does not appear in any of the 50 state names|Q
+600|The one vowel that does not begin a state name (& don't say "Y"; we don't need the viewer mail)|E
+800|8 states begin with "M" & another 8 with this letter|N
+1000|The one that ends with "G\"|Wyoming

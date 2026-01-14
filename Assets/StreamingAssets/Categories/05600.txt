@@ -1,0 +1,6 @@
+NONPRECIOUS METALS
+200|This drink-can metal forms an oxide layer that helps protect it from corrosion|Aluminum
+400|Originally the "pig" type was cast in molds called pigs before being converted to steel|Iron
+600|This metal symbolized Zn is a compound of insulin|Zinc
+800|The calcium & strontium types are 2 of these metallic compounds found after "Union" in a corporate name|Carbide
+1000|This reddish metal is a great conductor of heat as well as electricity, so it's used in cooking utensils|Copper

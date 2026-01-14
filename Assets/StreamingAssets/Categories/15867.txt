@@ -1,0 +1,6 @@
+HOME ALONE?
+200|Greg, Peter, Bobby, Marcia, Jan|Cindy
+400|Dewey, Francis, Reese, Jamie|Malcolm
+600|Chris & Stewie|Meg
+800|Darlene & Becky|DJ
+1000|Nate & David|Claire

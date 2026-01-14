@@ -1,0 +1,6 @@
+SINGERS "R" US
+200|He formed the Miracles, then called the Matadors, while in high school|Smokey Robinson
+400|His biggest U.S. hit record, "The Dock of the Bay" wasn't released until after his 1967 death|Otis Redding
+600|At a January 14, 1970 concert, she announced that Jean Terrell would be replacing her in The Supremes|Diana Ross
+800|In 2012, this blues rocker was back with her first album in seven years|Bonnie Raitt
+1000|In 2012 this singer released an album of country duets called "Tuskegee", for his birthplace in Alabama|Lionel Richie

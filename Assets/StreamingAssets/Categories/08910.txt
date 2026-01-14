@@ -1,0 +1,6 @@
+PROPER NAMES
+200|A small piece of butter, or something you get "on the back\"|Pat
+400|A short haircut for women, or what you do "for apples" on Halloween|bob
+600|To play in water, or walk through it, like baseball player Boggs|Wade
+800|If you need to change a tire, you'd better have one of these in your trunk|a jack
+1000|A British nobleman ranking above a viscount & below a marquess|Earl

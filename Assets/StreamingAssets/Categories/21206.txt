@@ -1,0 +1,6 @@
+LITERARY WORDS & PHRASES
+200|A paradoxical figure of speech, like "large minority" or "crash landing\"|an oxymoron
+400|The reader goes gently down this free flow of narrative impressions, a phrase popularized by William James|stream of consciousness
+600|In English, the sonnet is often in this pattern, 5 metrical feet with an unstressed syllable followed by a stressed one|iambic pentameter
+800|Gods suspended above the stage in ancient drama gave rise to this Latin phrase for something that saves the day|deus ex machina
+1000|Often building suspense, it's the device of hinting at coming events, as when a doomed character's plant dies|foreshadowing

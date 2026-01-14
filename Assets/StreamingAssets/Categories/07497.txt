@@ -1,0 +1,6 @@
+DAIRY PRODUCTS
+200|Cottage cheese comes in small, medium & large sizes of this dairy substance|curd
+400|Yogurt is made by curdling milk with purified cultures of these, like Streptococcus thermophilus|bacteria
+600|This process uses moderately high temperatures for a short time to kill microorganisms in milk|pasteurization
+800|Ghee is a clarified form of this|butter
+1000|A special lowfat milk has a reduced content of this milk sugar that is hard for some people to digest|lactose

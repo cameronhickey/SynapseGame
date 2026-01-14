@@ -1,0 +1,6 @@
+MIDDLEWOMAN
+200|Plain ____ Doe|Jane
+400|Saving ____ period|Grace
+600|Round ____ Hood|Robin
+800|Rambling ____ hip|Rose
+1000|Pretty ____ dreadful|Penny

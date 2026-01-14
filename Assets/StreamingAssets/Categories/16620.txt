@@ -1,0 +1,6 @@
+WE'VE GOT YOU SURROUNDED!
+200|Italy, France, Germany, Austria, Liechtenstein|Switzerland
+400|India, China|Nepal
+600|Brazil, Argentina, Bolivia|Paraguay
+800|Congo, Uganda, Tanzania, Burundi|Rwanda
+1000|France, Germany, Belgium|Luxembourg

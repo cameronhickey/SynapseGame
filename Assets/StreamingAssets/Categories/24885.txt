@@ -1,0 +1,6 @@
+AUSTRALIAN UNIVERSITIES
+200|A research center at the University of Tasmania specializes in the climate & ecosystems of this continent|Antarctica
+400|Founded in 1850 & the nation's oldest, the university of this most populous city has 74,000 students|Sydney
+600|Ernie the this flightless bird is the beloved mascot of Western Australia's Edith Cowan University|an emu
+800|Politics & policy are the bread & butter of the Australian National University in this city, home to parliament|Canberra
+1000|The university named for this scientist is based in the Northern Territory, where the capital is also named for him|Darwin

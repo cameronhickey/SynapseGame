@@ -1,0 +1,6 @@
+OPTICS
+200|In the 1600s Sir Isaac Newton used one of these to split sunlight into its colors|a prism
+400|This device invented in 1960 produces very pure light of a single color|a laser
+600|A plano-convex lens has one side that's convex & one that's this shape|flat
+800|One of these units of wavelength, represented by the letter A with a circle over it, equals 10-10 m.|an angstrom
+1000|This Dane reconciled the wave & particle concepts of light with his principle of complementarity|Niels Bohr

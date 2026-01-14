@@ -1,0 +1,6 @@
+SHALL WE GDANSK?
+200|The country where you'll find the city of Gdansk|Poland
+400|It's what the Germans called Gdansk when they controlled it|Danzig
+600|The body of water on which Gdansk is a major port|the Baltic
+800|The organization that administered Gdansk as a free city following World War I|the League of Nations
+1000|The river that runs from the Carpathian Mountains to its mouth near Gdansk|the Vistula

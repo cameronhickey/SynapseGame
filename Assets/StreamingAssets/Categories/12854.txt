@@ -1,0 +1,6 @@
+NAME THE CAPITAL CITY
+200|Mexico|Mexico City
+400|France|Paris
+600|Poland|Warsaw
+800|The Philippines|Manila
+1000|Peru|Lima

@@ -1,0 +1,6 @@
+ALL NUMBERS
+200|A teen's "sweet" age|16
+400|It's .083 feet|an inch
+600|The lowest whole number as written in English that contains its corresponding Roman numeral|5
+800|In a pinochle deck, each of the 4 suits has this many cards|12
+1000|If you kowtow to the emperor, your head should touch the floor this many times after each kneeling|3

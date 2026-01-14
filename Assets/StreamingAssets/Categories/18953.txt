@@ -1,0 +1,6 @@
+BIBLE BOOKS
+200|It's the first book of the King James Bible whose name doesn't end with an "S\"|Deuteronomy
+400|The 2 lofty positions that lend their names to Old Testament books|judge & king
+600|It has 150 chapters|Psalms
+800|The 2 Hebrew Bible books named for women|Ruth and Esther
+1000|In the Latin Vulgate Bible, it's Apocalypsis; in the King James, it's this|Revelation

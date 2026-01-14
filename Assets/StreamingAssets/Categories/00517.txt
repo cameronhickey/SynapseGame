@@ -1,0 +1,6 @@
+WINES
+200|A bright personality, or type of wine champagne is|sparkling
+400|Kind of wines used for principal grape used, cabernet or chardonnay, for example|varietal
+600|Tokaj in this country's Borsod-Abauj- Zemplen county is the home of the famous Tokay wine|Hungary
+800|This Italian region that includes Florence & Siena produces the best Vin Santo|Tuscany
+1000|More than half of this European country's Vinho Verde or "green wine" is red|Portugal

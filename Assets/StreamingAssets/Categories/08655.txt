@@ -1,0 +1,6 @@
+ENDS IN "CH\"
+200|It can be a king, a queen or a butterfly|monarch
+400|Dishes cooked a la Florentine contain this vegetable|spinach
+600|Nationality that can precede auction, oven & treat|Dutch
+800|It's what Canadians call Bigfoot, eh?|Sasquatch
+1000|Derived from Yiddish, it means to complain, with a little whining thrown in for good measure|kvetch

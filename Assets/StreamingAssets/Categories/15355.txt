@@ -1,0 +1,6 @@
+HALOGENS
+200|A tincture of this halogen is used as an antiseptic on cuts & scratches|Iodine
+400|Halogen elements produce these compounds, like the "table" kind|salts
+600|Astatine is the only halogen whose isotopes are all this, which is why they have half-lives|radioactive
+800|As this halogen, atomic number 17, kills bacteria, it's used to purify drinking & pool water|chlorine
+1000|It takes about 15,000 tons of seawater to get one ton of this reddish-brown liquid used in sedatives|bromine

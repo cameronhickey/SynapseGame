@@ -1,0 +1,6 @@
+TASK: FORCE
+200|The London Metropolitan Police Force has been HQed at a location with this name since 1829|Scotland Yard
+400|This term for a fictional energy barrier has been traced back to the 1931 sci-fi story "Islands of Space\"|a force field
+600|Meatwad, Frylock & Master Shake make up this threesome whose misadventures played out on Adult Swim for 11 seasons|the Aqua Teen Hunger Force
+800|French term for a clause in a contract protecting one or both parties if an act of God messes everything up|force majeure
+1000|The Seattle PD "de"fines it as actions "that seek to minimize the likelihood of the need to use force" in a situation|de-escalation

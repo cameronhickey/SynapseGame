@@ -1,0 +1,6 @@
+CREATURES IN MOVIE TITLES
+200|Sam Raimi directed this 2002 superhero film & 2 sequels|Spider-Man
+400|Mila Kunis plays a rival to ballerina Natalie Portman in this 2010 psychological thriller|Black Swan
+600|The title of this film refers to Tom Booker (Robert Redford), who uses his patient ways to cure Pilgrim|The Horse Whisperer
+800|Seth Rogen took on the role of Britt Reid in this 2011 superhero film|The Green Hornet
+1000|Ted Levine played the serial killer known as Buffalo Bill in this 1991 film|Silence of the Lambs

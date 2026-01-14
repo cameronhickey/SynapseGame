@@ -1,0 +1,6 @@
+CITY SITES
+200|The Old Water Tower, Wacker Drive, O'Hare Airport|Chicago
+400|Chelsea, Soho, Trafalgar Square|London
+600|Omonoia Square, the Plaka, the Parthenon|Athens
+800|South Platte River, Moffat Tunnel, Coors Field|Denver
+1000|Kenmore Square, Commonwealth Avenue, Beacon Hill|Boston

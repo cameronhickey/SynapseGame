@@ -1,0 +1,6 @@
+DRINK"S\"
+200|This children's "cocktail" is ginger ale & grenadine, garnished with a Maraschino cherry|a Shirley Temple
+400|It's a tall, cool drink of wine & soda water|a spritzer
+600|This type of fortified wine comes out of Spain's Andalusia region, baby|sherry
+800|One of the more popular red wines in the U.S. is this Australian import, known in Europe as Syrah|Shiraz
+1000|This drink made with red wine & fruit juices isn't so appealing when you know its name is from Spanish for "blood\"|sangria

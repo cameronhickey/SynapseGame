@@ -1,0 +1,6 @@
+PRIESTS
+200|It's a monk or priest of Tibetan Buddhism, whose spiritual leader is the Dalai|Lama
+400|It can mean a priest of Haitian folk religion or the religion itself|Voodoo
+600|A tohunga is a priest of these New Zealanders|Maori
+800|The priestly upper caste of the ancient Celts, they often held ceremonies in oak groves|Druids
+1000|It's the priestly class of Hinduism|Brahmans

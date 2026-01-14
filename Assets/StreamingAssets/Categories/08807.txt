@@ -1,0 +1,6 @@
+PENCIL, PEN OR SWORD
+200|A swashbuckler was known for his use of one of these|sword
+400|According to a proverb, the one "mightier" than one of the others|the pen
+600|Geek neck size|pencil
+800|The one a scrivener normally wouldn't use at work|sword
+1000|Popular stripe seen on fabrics|pencil

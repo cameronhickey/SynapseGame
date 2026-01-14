@@ -1,0 +1,6 @@
+MAKE TIME FOR TIME
+200|This short span of time comes before "messaging" or "coffee\"|instant
+400|This date is AKA Bissextile Day|February 29th
+600|It's the fixed time designated by authority by which citizens must be inside at night|curfew
+800|It's how you say "tomorrow" in Madrid|mañana
+1000|Trust Brother Alex—it's the plural word for the time of evensong prayers, or for the prayers themselves|vespers

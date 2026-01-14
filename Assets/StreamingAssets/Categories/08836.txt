@@ -1,0 +1,6 @@
+BACK IN "BLACK\"
+200|Put the hammer down on this repairer of horseshoes|blacksmith
+400|Thorny bush of the rose family with small purplish fruits|blackberry
+600|From an item once used as a ballot, it means to exclude someone socially, or vote against him for membership|blackball
+800|A road surface such as asphalt|blacktop
+1000|Fashionable nickname for Italy's Fascists|the Blackshirts

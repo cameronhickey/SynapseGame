@@ -1,0 +1,6 @@
+\"MEA" CULPA
+200|Congressional committee responsible for raising the money to fund the government|Ways and Means
+400|The industry exposed by Upton Sinclair's "The Jungle\"|meatpacking
+600|To blur by rubbing or to vilify by negative depiction|smear
+800|Union general in charge of the Army of the Potomac at the end of the U.S. Civil War|Meade
+1000|Capable of allowing fluids to pass through it|permeable

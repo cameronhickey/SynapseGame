@@ -1,0 +1,6 @@
+MOVIES WITH NARRATORS
+200|2013: Disgraced stockbroker Jordan Belfort (Leonardo DiCaprio)|The Wolf of Wall Street
+400|1979: Captain Willard (Martin Sheen) regrets he's still only in Saigon|Apocalypse Now
+600|1990: Henry Hill says, "As far back as I can remember, I always wanted to be a gangster\"|Goodfellas
+800|1986: Richard Dreyfuss remembers back to when he was Wil Wheaton|Stand By Me
+1000|1950: A screenwriter doesn't let being dead stop him from narrating a Hollywood tale|Sunset Boulevard

@@ -1,0 +1,6 @@
+PLURALS
+200|According to the Random House Dictionary, it's what you add to "bison" to get its plural|nothing
+400|One of 2 body parts whose vowels are switched to other vowels to make their plurals|(1 of) foot or tooth
+600|Tolkien spelled it one way; Disney spelled it differently; we'll accept either|dwarfs or dwarves
+800|Collectively, Janet Reno & Edwin Meese were known by this title after being appointed by the President|Attorneys General
+1000|Easton's Bible Dictionary says to add these 2 letters to the end of "cherub" to get its plural|\"im\"

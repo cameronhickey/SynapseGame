@@ -1,0 +1,6 @@
+NEBRASKA, NEW YORK OR NORTH DAKOTA
+200|The least populous|North Dakota
+400|Its name does not have a Native American origin|New York
+600|The Oregon Trail crossed it|Nebraska
+800|The largest in area|Nebraska
+1000|Its cities include Minot, Jamestown & Grand Forks|North Dakota

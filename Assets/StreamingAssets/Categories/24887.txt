@@ -1,0 +1,6 @@
+GET KOALA-FIED
+200|The koala is in this mammal group that also includes kangaroos & wombats|marsupial
+400|\"Ode To A Koala Bear" is a song by this former Beatle & noted animal lover|(Paul) McCartney
+600|When your baby has a li'l accident at the diner, head swiftly to a koala kare, one of these 2-word platforms in the restroom|a changing table
+800|Cece the koala is the mascot of Columbia College, a liberal arts school in the capital of this state|South Carolina
+1000|You can get up close & personal with the real deal at Lone Pine Koala Sanctuary outside of Brisbane in this Aussie state|Queensland

@@ -1,0 +1,6 @@
+HR
+200|If you hit an HR in MLB, you're going to have to run this many feet to get home|360
+400|Hr. corresponds to this German title of respect|Herr
+600|This business services & tax prep company also operates under the brand RSM McGladrey|H&R Block
+800|The American recovery & reinvestment act of 2009 was H.R. 1; the "H.R." stood for this|House of Representatives
+1000|Hertzsprung-Russell, or HR, diagrams are used in, & named for 2 men in, this scientific field|astronomy

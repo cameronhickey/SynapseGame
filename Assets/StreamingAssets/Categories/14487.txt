@@ -1,0 +1,6 @@
+LANGUAGE CRAFT
+200|In the Harry Potter world, Parseltongue is the language of these; Salazar Slytherin was a noted speaker|snakes
+400|The dwarves in his novels speak Khuzdul; the inscription on the ring is in "Black Speech\"|Tolkien
+600|In Orwell's Newspeak, "Minipax" stood for this government department|the Ministry of Peace
+800|("Daylight" playing) Matt & Kim reworked their song "Daylight" for the gibberish language used in this game series|The Sims
+1000|Guinness says that by number of users this language, devised by James Doohan, is the most spoken fictional language|Klingon

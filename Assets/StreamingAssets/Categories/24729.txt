@@ -1,0 +1,6 @@
+CONFIDENCE
+200|This synonym for confidence can be found before "healer" & after "defender of the\"|faith
+400|Ask with confidence in this classic game, "Was it Plum with the dagger in the study?"; you might be wrong, but be confident!|Clue
+600|Facing a trial in 399 B.C., this philosopher was confident he was a good man & could not be harmed (he could, & he certainly was)|Socrates
+800|A Shakespeare character asks, "Does he not hold up his head, as it were, and" this 5-letter confident walk "in his gait?\"|strut
+1000|With "each depositor insured to at least $250,000", this.gov says its "official teller sign... is a symbol of confidence\"|FDIC

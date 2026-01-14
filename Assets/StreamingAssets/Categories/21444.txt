@@ -1,0 +1,6 @@
+FILL "E\"
+200|Temblor is another name for this event|an earthquake
+400|It's a formal letter, like the one Paul wrote to the Galatians|epistle
+600|Full of health benefits, these green soybeans have been called a "wonder veggie\"|edamame
+800|Dig up a dead body|to exhume
+1000|From the French for "study", it's a musical piece designed for students to improve their technique|etude

@@ -1,0 +1,6 @@
+\"H" ON THE MAP
+200|Osaka is on this island, as are Japan's largest lake & mountain|Honshu
+400|The capital of South Holland province, it's the seat of the Netherlands' government|The Hague
+600|The name of this Central American nation is Spanish for "depths\"|Honduras
+800|The Minch is a channel separating Scotland's NW Highlands from this "Outer" island group|the Hebrides
+1000|This rhymingly named New Jersey city is the seat of Bergen County|Hackensack

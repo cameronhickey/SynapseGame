@@ -64,32 +64,73 @@ namespace Cerebrum.UI
                 return;
             }
 
-            // Create category card
+            // Create category card container
             categoryCard = new GameObject("CategoryRevealCard");
             categoryCard.transform.SetParent(parentCanvas.transform, false);
 
             cardRect = categoryCard.AddComponent<RectTransform>();
-            cardRect.anchorMin = new Vector2(0.1f, 0.2f);
-            cardRect.anchorMax = new Vector2(0.9f, 0.8f);
+            // Reduced size - about 15% smaller than full screen
+            cardRect.anchorMin = new Vector2(0.125f, 0.225f);
+            cardRect.anchorMax = new Vector2(0.875f, 0.775f);
             cardRect.offsetMin = Vector2.zero;
             cardRect.offsetMax = Vector2.zero;
 
-            cardBackground = categoryCard.AddComponent<Image>();
-            cardBackground.color = cardColor;
+            // Layer 1: Outer glow (soft cyan/orange gradient simulation)
+            GameObject outerGlow = new GameObject("OuterGlow");
+            outerGlow.transform.SetParent(categoryCard.transform, false);
+            RectTransform outerGlowRect = outerGlow.AddComponent<RectTransform>();
+            outerGlowRect.anchorMin = Vector2.zero;
+            outerGlowRect.anchorMax = Vector2.one;
+            outerGlowRect.offsetMin = new Vector2(-12, -12);
+            outerGlowRect.offsetMax = new Vector2(12, 12);
+            Image outerGlowImage = outerGlow.AddComponent<Image>();
+            outerGlowImage.color = new Color(0.2f, 0.5f, 0.8f, 0.4f);
+            Outline glow1 = outerGlow.AddComponent<Outline>();
+            glow1.effectColor = new Color(0.3f, 0.6f, 0.9f, 0.3f);
+            glow1.effectDistance = new Vector2(8, 8);
+            Outline glow2 = outerGlow.AddComponent<Outline>();
+            glow2.effectColor = new Color(0.8f, 0.5f, 0.3f, 0.2f);
+            glow2.effectDistance = new Vector2(6, -6);
 
-            // Create text
+            // Layer 2: Border frame (visible edge)
+            GameObject borderFrame = new GameObject("BorderFrame");
+            borderFrame.transform.SetParent(categoryCard.transform, false);
+            RectTransform borderRect = borderFrame.AddComponent<RectTransform>();
+            borderRect.anchorMin = Vector2.zero;
+            borderRect.anchorMax = Vector2.one;
+            borderRect.offsetMin = Vector2.zero;
+            borderRect.offsetMax = Vector2.zero;
+            Image borderImage = borderFrame.AddComponent<Image>();
+            borderImage.color = new Color(0.4f, 0.55f, 0.75f, 0.9f);
+            cardBackground = borderImage;
+            Outline borderInner = borderFrame.AddComponent<Outline>();
+            borderInner.effectColor = new Color(0.6f, 0.75f, 0.95f, 0.8f);
+            borderInner.effectDistance = new Vector2(2, 2);
+
+            // Layer 3: Inner panel (dark background)
+            GameObject innerPanel = new GameObject("InnerPanel");
+            innerPanel.transform.SetParent(categoryCard.transform, false);
+            RectTransform innerRect = innerPanel.AddComponent<RectTransform>();
+            innerRect.anchorMin = Vector2.zero;
+            innerRect.anchorMax = Vector2.one;
+            innerRect.offsetMin = new Vector2(6, 6);
+            innerRect.offsetMax = new Vector2(-6, -6);
+            Image innerImage = innerPanel.AddComponent<Image>();
+            innerImage.color = new Color(0.06f, 0.08f, 0.18f, 0.95f);
+
+            // Layer 4: Text
             GameObject textObj = new GameObject("CategoryText");
             textObj.transform.SetParent(categoryCard.transform, false);
 
             categoryText = textObj.AddComponent<TextMeshProUGUI>();
             categoryText.alignment = TextAlignmentOptions.Center;
-            categoryText.fontSize = 160;
+            categoryText.fontSize = 200;
             categoryText.fontStyle = FontStyles.Bold;
             categoryText.color = textColor;
             categoryText.textWrappingMode = TMPro.TextWrappingModes.Normal;
             categoryText.enableAutoSizing = true;
-            categoryText.fontSizeMin = 72;
-            categoryText.fontSizeMax = 200;
+            categoryText.fontSizeMin = 100;
+            categoryText.fontSizeMax = 280;
 
             RectTransform textRect = categoryText.GetComponent<RectTransform>();
             textRect.anchorMin = Vector2.zero;

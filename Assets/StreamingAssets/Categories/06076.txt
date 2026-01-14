@@ -1,0 +1,6 @@
+SPORTS HOLDS
+200|Roger Staubach|Football
+400|Nancy Lopez|Golf club
+600|Willie Mosconi|Pool cue/stick
+800|Johnny Rutherford|Steering wheel
+1000|Bob Seagren|Pole (for the pole vault)

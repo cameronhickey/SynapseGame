@@ -1,0 +1,6 @@
+FAST FOOD MENU
+200|The Croissan'wich & the Whopper|Burger King
+400|The Gordita Baja & the Burrito Supreme|Taco Bell
+600|Extra Crispy chicken & the Snacker|KFC
+800|The All-American Roastburger & Sidekickers like the Loaded Potato Bites|Arby's
+1000|Oreo Brownie Earthquake & a Butterfinger Blizzard|Dairy Queen

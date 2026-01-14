@@ -1,0 +1,6 @@
+DISNEY MOVIES BY CHARACTER
+200|1992: The Sultan, Jasmine, Jafar|Aladdin
+400|1961: Pongo, Patch, Cruella de Vil|101 Dalmatians
+600|1940: Figaro, The Blue Fairy, Cleo|Pinocchio
+800|1999: Tantor, Kala, Jane Porter|Tarzan
+1000|1967: Baloo, Bagheera, King Louie|The Jungle Book

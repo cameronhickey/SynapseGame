@@ -1,0 +1,6 @@
+BOOK TITLE CHARACTERS' LAST NAMES
+200|1861: "Silas\"|Marner
+400|1839: "Nicholas\"|Nickleby
+600|1989: "Billy\"|Bathgate
+800|1869: "Lorna\"|Doone
+1000|2008: "Olive\"|Kitteridge

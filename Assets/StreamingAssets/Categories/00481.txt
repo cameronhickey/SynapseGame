@@ -1,0 +1,6 @@
+THE MILITARY
+200|Members of all nationalities except French can join this fighting force|Foreign Legion
+400|Name of the air arm of the German military|Luftwaffe
+600|Current name of service branch started in 1907 with 1 officer & 2 enlisted men as part of Army Signal Corps|the United States Air Force
+800|Harold Brown, Elliot Richardson, & Clark Clifford|Secretaries of Defense
+1000|The lowest rank among admirals in the U.S. Navy|rear admirals

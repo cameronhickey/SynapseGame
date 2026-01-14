@@ -1,0 +1,6 @@
+INTRA-VENUS
+200|Just like Mercury, Venus has this many moons|zero
+400|Venus' surface is hard to view from Earth because it's completely covered in these|clouds
+600|One of these on Venus lasts about 244 Earth ones|a day
+800|Galileo's finding that Venus goes through these, like the moon, was the 1st direct evidence for Copernican ideas|phases
+1000|We're not sure if it was "ancient" or not, but the first U.S. flyby of Venus was by this space probe in 1962|Mariner (2)

@@ -1,0 +1,6 @@
+TENNIS
+200|The name of this tennis implement comes from the Arabic rahah, meaning "palm of the hand\"|racket
+400|The French Open is played on this type of surface that favors touch over power|clay
+600|The International Lawn Tennis Challenge trophy is better known as this, for the man who established it|The Davis Cup
+800|Chris Evert retired as a pro in 1989 & this 13-year-old girl trained by Chris' father turned pro in 1990|Jennifer Capriati
+1000|To accomplish a Grand Slam, you have to win certain tournaments in these 4 countries|Australia, England, France & United States

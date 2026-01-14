@@ -1,0 +1,6 @@
+AGRICULTURE
+200|40% of all water used in U.S. is used for this farming activity|irrigation
+400|Farming's itinerant labor force|migrant workers
+600|Controversial ex-Secretary of Agriculture who spent 30 days in jail for tax evasion|Butz
+800|In the 1700s C. Townshend discovered that turnips could be the 4th crop in a 4-field system of this|crop rotation
+1000|This science of growing plants without soil was developed in the mid-19th century|hydroponics

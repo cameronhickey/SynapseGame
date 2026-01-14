@@ -1,0 +1,6 @@
+BEES
+200|Its name comes from the Middle English word "bumblen\"|a bumblebee
+400|Common name of an apiculturist|a beekeeper
+600|A large crowd of bees on the move|a swarm
+800|The 3 classes of a honeybee colony|a drone, a queen, and a worker
+1000|The cosmetics industry uses more of this product than any other industry, more than 1,000,000 pounds a year|Beeswax

@@ -1,0 +1,6 @@
+LITERARY SUBTITLES
+200|1851: "The Whale\"|Moby Dick
+400|1623: "What You Will\"|Twelfth Night
+600|1818: "The Modern Prometheus\"|Frankenstein
+800|1852: "Life Among the Lowly\"|Uncle Tom's Cabin
+1000|1872: George Eliot's "Study of Provincial Life\"|Middlemarch

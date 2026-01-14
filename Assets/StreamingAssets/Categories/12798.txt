@@ -1,0 +1,6 @@
+DO NOT PASS "GO\"
+200|Si, it's Spanish for a male friend, see|amigo
+400|A reddish-brown antelope, or a drum|a bongo
+600|The lading or freight of a ship|cargo
+800|A dizzy sensation of tilting within stable surroundings; did it happen to U2?|vertigo
+1000|It's the capital of American Samoa|Pago Pago

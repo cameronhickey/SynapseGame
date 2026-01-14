@@ -1,0 +1,6 @@
+PLACES TO LIVE
+200|The name of this residence for ranch hands indicates its beds are stacked atop each other|Bunkhouse
+400|2 residences with a common wall are called "semi" this|Detached
+600|This type of residence hall gets its name from the Latin for "sleep\"|dormitory
+800|Virginia Military Institute's "old" these, a type of housing, is a national historic landmark|barracks
+1000|The converted outbuilding called a coach house or with this other transport name can be quite comfortable|a carriage (house)

@@ -1,0 +1,6 @@
+IT'S ALL IN THE GAME
+200|Queen, rook, pawn, knight|chess
+400|Free Parking, Reading Railroad, Community Chest|Monopoly
+600|Letter tiles, double word score space, triple word score space|Scrabble
+800|Lead pipe, kitchen, Colonel Mustard|Clue
+1000|Water on the knee, bread basket, writer's cramp|Operation

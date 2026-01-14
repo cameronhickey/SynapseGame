@@ -1,0 +1,6 @@
+CHARACTERS IN FILM
+200|Captain Louis Renault, Ilsa Lund & Rick Blaine|Casablanca
+400|John "Bluto" Blutarsky, Eric "Otter" Stratton & Dean Wormer|Animal House
+600|Jett Rink, Uncle Bawley & Bick Benedict|Giant
+800|J.J. Gittes, Evelyn Mulwray & Noah Cross|Chinatown
+1000|Steve Bolander, Big John Milner & Wolfman Jack|American Graffiti

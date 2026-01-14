@@ -1,0 +1,6 @@
+ONLY GEOGRAPHY
+200|The only state whose name ends in 3 vowels|Hawaii
+400|The only continent without glaciers|Australia
+600|The only Great Lake entirely within the United States|Lake Michigan
+800|The only world capital split in half between 2 nations|Nicosia
+1000|The only mainland South American country with English as an official language|Guyana

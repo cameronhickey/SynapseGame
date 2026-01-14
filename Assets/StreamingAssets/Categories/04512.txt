@@ -1,0 +1,6 @@
+CAPITAL PUNISHMENT
+200|Addis Ababa|Ethiopia
+400|Vientiane|Laos
+600|Tirane|Albania
+800|Tallinn|Estonia
+1000|Suva|Fiji

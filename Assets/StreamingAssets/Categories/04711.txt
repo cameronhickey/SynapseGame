@@ -1,0 +1,6 @@
+DEMOCRATIC KEYNOTERS
+200|1992: New Jersey senator|Bill Bradley
+400|1984: New York governor|Mario Cuomo
+600|1976: Ohio senator|John Glenn
+800|1968: Hawaiian senator|Daniel Inouye
+1000|1988: Texas state treasurer|Ann Richards

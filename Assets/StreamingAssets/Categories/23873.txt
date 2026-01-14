@@ -1,0 +1,6 @@
+A NUMBER BETWEEN 2 & 115
+200|The sequence of triangular numbers goes 3, 6, this|10
+400|Numbers is this number book in the King James Bible|the 4th
+600|The proverbial "weakling" weighs this many pounds, though a Charles Atlas ad had it one pound less|98
+800|Feb. 6, 2022 began Elizabeth II's platinum jubilee, marking this many years on the throne|70
+1000|In 1958 Crayola introduced its box of this many crayons, the first with sharpener included|64

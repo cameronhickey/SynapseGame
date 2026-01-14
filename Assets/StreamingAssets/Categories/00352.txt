@@ -1,0 +1,6 @@
+NUCLEAR PHYSICS
+200|Jimmy Carter served as naval engineering officer on one of these|a nuclear submarine
+400|Simple formula used to determine how much energy a chain reaction would release|E=mc2
+600|Purpose of the Manhattan Project was to make this|the atomic bomb
+800|Reactor type where more fissionable material is created than consumed|a breeder reactor
+1000|Deuterium is the "heavy" isotope of this element|hydrogen

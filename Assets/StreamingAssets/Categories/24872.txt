@@ -1,0 +1,6 @@
+MOVIE TITLE CONNECTIONS
+200|Date ____ at the Museum|Night
+400|Super ____ Mile|8
+600|An Affair to ____ the Titans|Remember
+800|Touch of ____ Dead|Evil
+1000|Charlie Wilson's ____ Horse|War

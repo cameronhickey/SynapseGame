@@ -1,0 +1,6 @@
+SOUNDS MEDICAL
+200|Time to get you going again & "back on" these extremities|your feet
+400|To test the reception to our approach, let's do this & hope for 98.6|take a temperature
+600|What a nurse may do if you need a test, or a first strike proving that a battle has been joined|draw blood
+800|A sudden reappearance of an injury, it sounds like holding a tiki torch aloft|a flare-up
+1000|I pretty much know it all now so I'll just put up a sign—I'll hang out one of these & go pro|a shingle

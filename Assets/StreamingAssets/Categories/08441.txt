@@ -1,0 +1,6 @@
+LANGUAGE LESSONS
+200|Spanish: Good afternoon|buenas tardes
+400|(Sarah gives the clue from Barcelona, Spain.) In Spain, this word isn't used to hail Vinny or Guido. It means "I", as in the title of a Picasso self-portrait|yo
+600|French: Stroke of mercy|coup de grâce
+800|Latin: Voice of the people|vox populi
+1000|German: Time spirit|zeitgeist

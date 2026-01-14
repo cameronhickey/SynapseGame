@@ -1,0 +1,6 @@
+ALBERTA
+200|Alberta is located in this time zone|Mountain
+400|In 2013 75,000 people in this most populous Alberta city were evacuated due to flooding|Calgary
+600|This grain is Alberta's chief farm crop, as it is for the other 2 Prairie Provinces|wheat
+800|In a 2012 election, Albertans gave 17 seats to an upstart party named for this wild official provincial flower|the wild rose
+1000|A small public land reserve around hot mineral springs developed into this Alberta nat'l park|Banff

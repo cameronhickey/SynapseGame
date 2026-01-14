@@ -1,0 +1,6 @@
+3 LETTERS, STARTS WITH "A\"
+200|Brew made with a top-fermenting yeast|an ale
+400|Yellowfin in Hawaii|ahi
+600|Toward the stern|aft
+800|\"No Exit" has but one|act
+1000|Khan you tell me it was a military commander in Ottoman times|aga

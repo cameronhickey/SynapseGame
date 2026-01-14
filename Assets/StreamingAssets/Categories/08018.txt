@@ -1,0 +1,6 @@
+STATE STUFF
+200|It contains both the highest point & the lowest point in the contiguous 48 states|California
+400|You might say this state had parking meters "sooner" than any other; the first one was installed there in July 1935|Oklahoma
+600|We can thank this state for Tabasco sauce; it originated on Avery Island|Louisiana
+800|Almost all of the anthracite coal produced in the U.S. comes from this state|Pennsylvania
+1000|This state was named for the wife of King Charles I of England|Maryland

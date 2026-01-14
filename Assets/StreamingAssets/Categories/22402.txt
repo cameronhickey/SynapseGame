@@ -1,0 +1,6 @@
+NATIONS IN THE NATIVE TONGUE
+200|Éire|Ireland
+400|Zhongguo|China
+600|Magyarország|Hungary
+800|Österreich|Austria
+1000|Eesti Vabariik|Estonia

@@ -1,0 +1,6 @@
+CONDUCTORS
+200|Wilhelm Furtwangler, born in this German capital in 1886, became director of its philharmonic|Berlin
+400|This Bombay-born maestro is the son of violinist Mehli Mehta|Zubin Mehta
+600|He was conductor of the New York City Symphony before taking over the New York Philharmonic in 1958|Leonard Bernstein
+800|After 1936 Serge Koussevitzky conducted the Berkshire Music Festival at Tanglewood in this state|Massachusetts
+1000|Sir Thomas Beecham introduced this impresario's Ballets Russes to London in 1911|Sergei Diaghilev

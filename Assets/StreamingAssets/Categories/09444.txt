@@ -1,0 +1,6 @@
+\"SAT"s
+200|The name of this fabric can precede flower, glass or stitch|satin
+400|This kind of fat is found in butter & can raise cholesterol levels|saturated
+600|\"Gulliver's Travels" is this type of work that exposes human foolishness & corruption|satire
+800|It's a small bag|a satchel
+1000|\"Curiosity killed the cat but" this "brought it back\"|satisfaction

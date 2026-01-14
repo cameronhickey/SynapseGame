@@ -1,0 +1,6 @@
+NAME THE ARTIST
+200|\"Two Tahitian Women\"|Paul Gauguin
+400|\"Aristotle Contemplating the Bust of Homer\"|Rembrandt
+600|\"The Potato Eaters\"|Vincent Van Gogh
+800|\"Cow's Skull: Red, White and Blue\"|Georgia O'Keeffe
+1000|\"Pear Blossom Highway\"|David Hockney

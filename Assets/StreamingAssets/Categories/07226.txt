@@ -1,0 +1,6 @@
+YES SIR, THAT'S MY BAY
+200|The Potomac|Chesapeake Bay
+400|The Ganges|Bay of Bengal
+600|The Loire River in France|Bay of Biscay
+800|The Trinity River in Texas|Galveston Bay
+1000|The Cooks & Georges Rivers in Australia|Botany Bay

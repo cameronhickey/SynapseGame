@@ -1,0 +1,6 @@
+WALES
+200|The Welsh flag features this red beast with a forked tongue & tail|a dragon
+400|This largest city of Wales grew up around a Norman fortress|Cardiff
+600|It's the largest city in Wales, but scarcely a "giant\"|Cardiff
+800|Wales' national instrument, it has 3 rows of strings; Prince Charles appoints a player on a scholarship program annually|the harp
+1000|Body of water that borders Wales on the north|Irish Sea

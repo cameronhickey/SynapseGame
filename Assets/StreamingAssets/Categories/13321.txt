@@ -1,0 +1,6 @@
+FDA APPROVED
+200|Accutane|acne
+400|Ritalin|ADD
+600|Crestor & Lipitor|cholesterol
+800|Zoloft & Wellbutrin|depression
+1000|Propecia|hair loss

@@ -1,0 +1,6 @@
+THE CITY
+200|This city's seal depicts Hoover Dam, 25 miles away|Las Vegas
+400|The South Dakota capitol in this city saved money by using columns made of something called scagliola instead of marble|Pierre
+600|When taking "a trip to" this Utah city, be sure to stop by its tabernacle, built before Salt Lake City's|Bountiful
+800|Pennsylvania's "Christmas City", it was founded by Moravians from Central Europe in 1741|Bethlehem
+1000|Texas Tech was founded there in 1923|Lubbock

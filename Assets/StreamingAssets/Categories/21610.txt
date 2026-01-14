@@ -1,0 +1,6 @@
+I'D LIKE TO SELL A VOWEL
+200|Ms. Winfrey asks, would you like to subscribe to this magazine that asks you to "live your best life"?|O
+400|I think you need tablets of the element with this symbol—it will help you with your goiter|I
+600|I don't have any Ford Model T's B's, F's or R's, but I do have this other 20th century model|(Model) A
+800|You can have this Cirque du Soleil show staged in your basement if you have room for a 1.5-million-gallon tank|O
+1000|I'll sell you 2 vowels—this network with shows like "Born This Way" & "Intervention\"|A&E

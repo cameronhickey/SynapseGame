@@ -1,0 +1,6 @@
+DEPT. OF REDUNDANCY DEPT.
+200|Superfluous 3 words sometimes heard after the phrase "10 A.M.\"|in the morning
+400|Putting this word before "handed" isn't redundant; putting it before "naked" is|bare
+600|People talk about this type of "proximity"; it's not very different from regular proximity|close proximity
+800|Redundant 2-word phrase for a present offered to entice customers to a product or service|free gift
+1000|From Latin for "to turn back", this word meaning to regress needn't be followed by "back\"|revert

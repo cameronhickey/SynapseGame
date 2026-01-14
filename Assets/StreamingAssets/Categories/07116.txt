@@ -1,0 +1,6 @@
+I'M NOT PRESIDENT BECAUSE OF YOU
+200|Gerald Ford|Jimmy Carter
+400|Michael Dukakis|George Herbert Walker Bush
+600|Walter Mondale|Ronald Reagan
+800|Barry Goldwater|LBJ
+1000|George McClellan|Abraham Lincoln

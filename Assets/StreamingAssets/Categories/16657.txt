@@ -1,0 +1,6 @@
+SOUNDS LIKE A CLASSIC ARCADE GAME
+200|They can be near-earth, Trojan, or main-belt|asteroid
+400|A tilting match|joust
+600|Multisegmented predaceous arthropod|centipede
+800|A medieval plate mail glove|gauntlet
+1000|It precedes "of the faith" in a title used by British monarchs since the 1500s|defender

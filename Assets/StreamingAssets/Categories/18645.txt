@@ -1,0 +1,6 @@
+SOBRIQUETS
+200|\"The Saint of the Gutters": This nun|(Mother) Teresa
+400|Mid-atlantic state: "Uncle Sam's Pocket Handkerchief\"|Delaware
+600|Newspaper: "The Gray Lady\"|The New York Times
+800|Australian state: "The Apple Isle\"|Tasmania
+1000|California horticulturist: "The Plant Wizard\"|Luther Burbank

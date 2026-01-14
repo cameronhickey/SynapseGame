@@ -1,0 +1,6 @@
+AMERICAN HERITAGE PREFERRED PLURALS
+200|Moose|moose
+400|Mother-in-law|mothers-in-law
+600|Mongoose|mongooses
+800|Phylum|phyla
+1000|Genus|genera

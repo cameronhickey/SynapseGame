@@ -1,0 +1,6 @@
+MS. PLUMLY'S COMPOSITION CLASS
+200|If your predicates don't agree in number & person with these words, Ms. Plumly will see red|subjects
+400|One or more sentences on a single thought; Ms. Plumly calls them the basic units of composition|paragraphs
+600|Ms. Plumly says one should spend time on this plan of an essay; H.G. Wells wrote a long one "of History\"|an outline
+800|Ms. Plumly doesn't use this word for a list of sources because it implies they're all books|bibliography
+1000|A statement of what an essay will discuss, or what you may write to get your M.A.|a thesis

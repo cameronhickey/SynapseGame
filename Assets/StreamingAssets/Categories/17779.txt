@@ -1,0 +1,6 @@
+FROM THE...
+200|Karaoke|Japanese
+400|Barista|Italian
+600|Sauna|Finnish
+800|Beluga|Russian
+1000|Falafel|Arabic

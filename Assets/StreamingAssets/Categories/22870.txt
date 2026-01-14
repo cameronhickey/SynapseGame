@@ -1,0 +1,6 @@
+COUNTRIES' TRANSLATED NAMES
+200|\"Land of the Angles" (Europe)|England
+400|\"Little Venice" (South America)|Venezuela
+600|\"In the navel of the moon" (North America)|Mexico
+800|\"Land beside the silvery river" (South America)|Argentina
+1000|\"Bright stone" (Europe)|Liechtenstein

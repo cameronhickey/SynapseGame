@@ -1,0 +1,6 @@
+RIVER BASINS
+200|This river's drainage basin covers all or part of 31 states|the Mississippi
+400|The capital of the U.S. is found in its basin|the Potomac
+600|The Aube, Yonne, Marne & Oise cut this river's basin into 3 distinct parts|the Seine
+800|This river's basin covers about 2.7 million square miles|the Amazon
+1000|Milan lies in this river's basin|the Po River

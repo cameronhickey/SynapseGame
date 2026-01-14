@@ -1,0 +1,6 @@
+LATIN PHRASES
+200|Lapsus linguae, a sudden, unfortunate utterance, translates to this 4-word phrase|slip of the tongue
+400|Said at funerals, requiescat in pace translates to this|rest in peace
+600|Agnus dei is this 4-legged animal "of God\"|a lamb
+800|In utero means "within the womb"; this other phrase describes something that happens "in glass\"|in vitro
+1000|i.e. is short for this, meaning "that is\"|id est

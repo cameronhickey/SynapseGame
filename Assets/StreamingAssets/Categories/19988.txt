@@ -1,0 +1,6 @@
+PREPOSITION 5
+200|This word meaning "on the occasion of" is in the opening of many a fairy tale|upon
+400|Lesser in rank or less than zero, in temperature|below (or sub)
+600|2 of the 3 letters are vowels in this word, traveling through a point to get to another destination|via
+800|It means beside or during; "the caissons go rolling" that way too|along
+1000|This Latin word meaning "around" is found before years like 3000 B.C.|circa

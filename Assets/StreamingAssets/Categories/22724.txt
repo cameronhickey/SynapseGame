@@ -1,0 +1,6 @@
+HAVE A CHAIR
+200|This type of chair sounds like it's filled with legumes|a beanbag chair
+400|Time to kick back & settle into one of these easy chairs; La-Z-Boy offers a Ruby Wall one|a recliner
+600|A little old place where we can get together, this small, 2-person upholstered piece is also called a courting chair|a loveseat
+800|French gives us the name of this 2-word "long chair" often seen poolside; a mimosa is optional|a chaise longue
+1000|A fighting chair isn't for boxing but for this sport; an adjustable footrest helps with balance as you battle 500-lb. foes below|fishing

@@ -1,0 +1,6 @@
+BODY PARTS BY PREFIX
+200|Denti-|teeth
+400|Sangui-|blood
+600|Podo-|the feet
+800|Nephro-|kidneys
+1000|Entero-|the intestine

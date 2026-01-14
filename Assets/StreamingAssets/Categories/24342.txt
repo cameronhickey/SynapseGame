@@ -1,0 +1,6 @@
+PUT IN A GOOD WORD
+200|This word suitably introduces us to the fictional Mrs. Maisel & the very real boxing legend Marvin Hagler|marvelous
+400|A spreadsheet program that launched in 1985, or a verb meaning "to surpass\"|Excel
+600|The Latin for "price" gives us this word that is perfectly fine in front of "gems" & "metals\"|precious
+800|It's a good name for a 350-mile-long lake or the head of a convent|Superior
+1000|Whether describing silver or the British pound, this 8-letter word really is great|sterling

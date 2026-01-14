@@ -1,0 +1,6 @@
+STATE GOVERNMENT
+200|Process by which voters can petition to have an elected state official removed from office|recall
+400|Maine's only publicly elected executive officer; if he dies the state senate president succeeds him|governor
+600|Nebraska has this type of state legislature meaning "one chamber\"|unicameral
+800|In the Mississippi House of Representatives, this official calls members to order & signs acts|speaker of the house
+1000|Per the language of the 10th amendment, delegated powers go to the feds & these powers are kept by the states|reserved powers

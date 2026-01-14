@@ -1,0 +1,6 @@
+PICK A PLANET
+200|In ancient Greece it was called Apollo|Mercury
+400|Its "day" is 24 hours & 39 minutes|Mars
+600|It rotates on its axis every 24 hours, 37 minutes|Mars
+800|It's the third largest in our solar system|Neptune (Uranus also accepted)
+1000|The Babylonians associated it with the goddess Ishtar|Venus

@@ -1,0 +1,6 @@
+BIOLO"G\"
+200|These line up in single file on chromosomes|genes
+400|Types of these include sweat & endocrine|glands
+600|In animals that give birth to live young, it's the term for the period between conception & birth|gestation
+800|The name of this colorful nerve tissue of the brain is also slang for the intellect|gray matter
+1000|The pancreas produces this hormone that regulates the amount of glucose in the blood|glucagon

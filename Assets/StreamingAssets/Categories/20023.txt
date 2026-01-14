@@ -1,0 +1,6 @@
+ANIMAL LIT FILL-IN
+200|Michael Bond: "A ____ Called Paddington\"|a bear
+400|E.B. White: "The Trumpet of the ____\"|swan
+600|Dahl: "Fantastic Mr. ____\"|the fox
+800|Tennessee Williams: "The Night of the ____\"|an iguana
+1000|Vonnegut: "Welcome to the ____ House\"|monkey

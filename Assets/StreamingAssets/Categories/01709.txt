@@ -1,0 +1,6 @@
+MONOPOLY
+200|It's the maximum number of houses you can have on a property|4
+400|Early in the game it's recommended to pay this amount to get out of jail; later try the dice|$50
+600|Cash cows, the 4 railroads are Reading, B&O, Short Line & this one|Pennsylvania
+800|Monopoly was first produced by this company once run by siblings George & Charles|Parker Brothers
+1000|Most of the street names on a standard Monopoly board come from streets in this city|Atlantic City

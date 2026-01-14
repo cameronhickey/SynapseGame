@@ -1,0 +1,6 @@
+DRINK, SKIN CARE ITEM OR R&B SINGER
+200|Capri Sun|a drink
+400|Sunny D|a drink
+600|T-Pain|R&B singer
+800|Aveeno|skin care item
+1000|Neneh Cherry|an R&B singer

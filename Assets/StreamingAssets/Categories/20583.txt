@@ -1,0 +1,6 @@
+BRITISH CABINETRY
+200|The modern British cabinet contains 15-25 people with this religious-sounding title|minister
+400|The modern-day idea of an advisory cabinet derived from the "council" whose name comes from "private\"|Privy
+600|The equivalent to our Treasury secretary is chancellor of this French-derived word|exchequer
+800|Most cabinet meetings take place at a residence with this address|10 Downing Street
+1000|The leader of this chamber has traditionally been a full cabinet member & there were howls in 2014 when that changed|the House of Lords

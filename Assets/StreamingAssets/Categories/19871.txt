@@ -1,0 +1,6 @@
+GERMAN FOOD & DRINK
+200|It's the main vegetable in Krautsuppe|cabbage
+400|Sheboygan, Wisconsin is the self-proclaimed world capital of this German sausage|bratwurst
+600|In 2015 a U.S. court ruled drinkers of this 1-syllable beer brand were deceived, as it's now made in the U.S., not in Bremen|Beck's
+800|Christmas tradition, this fruit & nut-filled sweet bread sounds like it was pilfered|Stollen
+1000|Ranging from dry to very sweet, this white wine is produced from what's been called the most noble of German grapes|Riesling

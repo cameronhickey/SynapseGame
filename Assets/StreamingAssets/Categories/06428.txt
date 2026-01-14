@@ -1,0 +1,6 @@
+DICKENS' WORKS
+200|Character who is "A squeezing, wrenching, scraping, clutching, covetous old sinner!\"|Ebenezer Scrooge
+400|This novel was based in part on Thomas Carlyle's history of the French Revolution|A Tale of Two Cities
+600|Dickens' 13th novel, it made its world debut in the USA's Harper's Weekly, which had high hopes for it|Great Expectations
+800|Dickens' first installment of this novel was published in April 1870; he died while working on part 6|The Mystery of Edwin Drood
+1000|The first play from this book, done while the story was still a serial, had a happy ending with Nell still alive|The Old Curiosity Shop

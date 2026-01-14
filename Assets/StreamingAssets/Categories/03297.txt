@@ -1,0 +1,6 @@
+AT RANDOM
+200|It's a random sample "poll" to determine the public's opinion of hay... or anything else|a straw poll
+400|Songs about people who move at random include this singer's "The Wanderer" & "Lovers Who Wander\"|Dion
+600|On Dec. 1, 1969 the first of these random drawings since 1942 took place|Draft
+800|This method of solving problems with a random number generator is named after the casino city of Monaco|Monte Carlo
+1000|Colorful name given the random movement of tiny particles suspended in a gas or liquid|Brownian motion

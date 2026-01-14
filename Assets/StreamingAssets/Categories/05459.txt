@@ -1,0 +1,6 @@
+TOOLS
+200|Sounding transparent, these are powerful scissors used on metalwork|shears
+400|Samuel Johnson preferred the spelling "S-I-T-H-E", but alas, it was this spelling that prevailed|S-C-Y-T-H-E
+600|The original Swiss Army knife didn't have this device; it was added to the offiziermesser, or officer's knife|a corkscrew
+800|A rotary tool used to finish holes, it's also a kitchen tool to get the juice out of an orange|reamer
+1000|It's the tool that makes a screw hole that will allow the head of the screw to be flush with the surface|a countersink

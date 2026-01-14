@@ -1,0 +1,6 @@
+FRENCH 101
+200|The French use this word to mean kitchen; we use it to refer to a manner of preparing food|cuisine
+400|A naive or innocent girl or woman; in the theater, it's an actress who plays such roles|an ingenue
+600|A dead-end street, literally the "bottom of the bag\"|a cul-de-sac
+800|One who tells stories & anecdotes with skill & wit; the Old French meaning is "to count up" or "reckon\"|a raconteur
+1000|\"Esprit de" this is a feeling of solidarity among members of a group|corps

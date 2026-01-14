@@ -1,0 +1,6 @@
+BORN FIRST
+200|John Lennon, Ringo Starr, George Harrison|Ringo Starr
+400|Stokely Carmichael, Martin Luther King, Jr., Malcolm X|Malcolm X
+600|Alexander the Great, Darius the Great, Frederick the Great|Darius
+800|Leon Trotsky, Vladimir Lenin, Josef Stalin|Lenin
+1000|John Paul Stevens, William Rehnquist, David Souter|John Paul Stevens

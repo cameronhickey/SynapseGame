@@ -1,0 +1,6 @@
+A SERIES OF FIELDS
+200|In 2010 the stadium for this university's Wolverines will hold more than 108,000; Go Blue!|the University of Michigan
+400|Sammy Sosa hit his 60th homers of 1998, 1999 & 2001 in this Chicago venue|Wrigley Field
+600|This NFL squad plays its home games at Invesco Field at Mile High|the Denver Broncos
+800|In 2009 this baseball stadium's ghosts had to move across 161st Street to its new address|Yankee Stadium (the New York Yankees accepted)
+1000|The Minnesota Twins have won 2 World Series championships at this enclosed home stadium|the (Hubert Humphrey) Metrodome

@@ -1,0 +1,6 @@
+FOREIGN ARCHITECTURE
+200|A feng-huo-t'ai is one of the beacon towers along this very long structure|the Great Wall of China
+400|In Japan a cha-shitsu is one of these; a famous one is "of the August Moon\"|a teahouse
+600|In Spain a posada is one of these; however, a Ramada isn't|an inn
+800|In Russian architecture, it's the citadel of a city|a kremlin
+1000|It's the Italian term for a free-standing bell tower like the leaning one in Pisa|a campanile

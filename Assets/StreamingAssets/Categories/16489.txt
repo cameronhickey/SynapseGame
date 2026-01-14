@@ -1,0 +1,6 @@
+CHESS? YES!
+200|This piece that starts off in the corner is generally worth about 5 pawns|a rook
+400|To earn this title, a player must attain a minimum of 2500 rating points|Grandmaster
+600|To fianchetto one of these pieces is to move it onto one of the board's long diagonals|a bishop
+800|A game in which each player is allotted 5 minutes or less is called this type, German for "lightning\"|blitz
+1000|One of black's most popular defenses is called this, a term for a person from a Mediterranean island|Sicilian

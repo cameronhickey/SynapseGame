@@ -1,0 +1,6 @@
+LIST
+200|The holy trinity of Cajun cooking: Bell pepper, celery, this weepy veggie|an onion
+400|Animals on the endangered species list may be listed as "E", endangered, or "T", this|threatened
+600|Lyrically: "Raindrops on roses & whiskers on kittens, bright copper kettles & warm woolen" these|mittens
+800|This alphabetical roster of top-level celebs is the title of a book series by Zoey Dean|the A-list
+1000|In humors: Black bile, yellow bile, phlegm, this important stuff|blood

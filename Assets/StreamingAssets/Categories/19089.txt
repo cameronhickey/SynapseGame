@@ -1,0 +1,6 @@
+\"A", "B", "C", "D", "E\"
+200|A: Present plural of "to be\"|are
+400|B: A towering building project in Genesis 11:4-9|Babel
+600|C: A hood like Batman wears|a cowl
+800|D: Adjective meaning "sweet", like a pleasant tone|dulcet
+1000|E: Latin plural for mistakes in a text|errata

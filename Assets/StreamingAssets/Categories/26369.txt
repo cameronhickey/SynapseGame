@@ -1,0 +1,6 @@
+BIRD WORDS
+200|A domesticated fowl, or in bowling, 3 strikes in a row|a turkey
+400|A bird of the genus Corvus, or to exult or brag|crow
+600|A mainly ground-dwelling bird, or to complain, perhaps if served a tough one for dinner|grouse
+800|A small American game bird, or to cower in fear|to quail
+1000|A bird with a mute type, or to wander "about" or "around" a place|a swan

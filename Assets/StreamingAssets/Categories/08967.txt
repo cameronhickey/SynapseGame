@@ -1,0 +1,6 @@
+MUSICAL SETTINGS
+200|In an ever-popular musical, Mr. Mushnik's flower shop becomes this title place|Little Shop of Horrors
+400|(Cheryl of the Clue Crew presents from the Broadway set of Cabaret.) Life is a cabaret on the set of "Cabaret" at the Kit Kat Club, a tawdry nightclub in this city|Berlin
+600|In this show's first scene, "It's a typical day in Dogpatch, U.S.A.\"|Li'l Abner
+800|What a drag! This Jerry Herman musical is set in part at the St. Tropez nightclub of the same name|La Cage aux Folles
+1000|At the beginning of this show, it's 6 a.m. in the Brooklyn Navy Yard|On the Town

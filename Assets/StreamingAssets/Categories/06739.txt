@@ -1,0 +1,6 @@
+CLASS ACTIONS
+200|A test given without notice; it sounds like it could cover Coke & Pepsi|a pop quiz
+400|It can mean to ditch class for a day, or to go directly from 3rd to 5th grade|to skip
+600|Competition in which you'd hear, "Asparagus, A-S-P-A-R-A-G-U-S, asparagus\"|a spelling bee
+800|It's a repetitive practice session in a single subject, or a rehearsal for what to do when there's a fire|a drill
+1000|A get-together of all the classes in the auditorium, it's also a legislative body|an assembly

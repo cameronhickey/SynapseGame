@@ -1,0 +1,6 @@
+CAR "MA\"
+200|It makes the CX-3|Mazda
+400|It makes the Gran Turismo & the Quattroporte|Maserati
+600|In 1914 a brand name was born when he raced cars up Aston Hill|(Lionel) Martin
+800|In 1969 Ford saddled up this Mustang stablemate|Maverick
+1000|This last name of Mercedes designer Wilhelm follows Mercedes in the name of a very upscale line of cars|Maybach

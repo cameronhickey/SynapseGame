@@ -1,0 +1,6 @@
+WHAT THE HECK IS IT?
+200|On a snail, on ommatophore is a stalk with this at the end|an eye
+400|Pocatello|a city in Idaho
+600|A shako is a stiff, cylindrical one of these worn by soldiers|a hat
+800|Clavichord|musical instrument
+1000|A celesta is one of these, struck by hammers|a musical instrument (an instrument accepted)

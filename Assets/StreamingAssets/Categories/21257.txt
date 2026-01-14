@@ -1,0 +1,6 @@
+SOLVE THE MYSTERY
+200|Time to interview one of these, someone who saw or heard what happened; one in court testifies under oath|a witness
+400|Someone the police want to talk to is a person of interest; someone accused of the crime is this word|a suspect
+600|Let's not go accusing Johnny Gilbert just yet; we haven't found this "M" word, the reason he did that|motive
+800|An Old Norse term for "tracking" gave us this 6-letter word for a detective who tracks down clues|a sleuth
+1000|Solve the case with this type of reasoning from the general to the specific; a kids' book is called this kind of "Detective\"|deductive

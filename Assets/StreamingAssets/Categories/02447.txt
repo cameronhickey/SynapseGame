@@ -1,0 +1,6 @@
+WAR MOVIES
+200|Ray Kellogg helped this star direct the 1968 pro-Vietnam war movie "The Green Berets\"|John Wayne
+400|Buck Henry adapted this author's "Catch-22" for the 1970 film that starred Alan Arkin as Yossarian|Heller
+600|12 criminal soldiers commanded by Lee Marvin destroy a chateau full of Germans in this 1967 movie|The Dirty Dozen
+800|A real bridge & train were destroyed for the climax of this David Lean epic about POWs|(The) Bridge on the River Kwai
+1000|This 1981 Wolfgang Petersen film captured the claustrophobic atmosphere of a German submarine|Das Boot

@@ -1,0 +1,6 @@
+CHANNEL THAT ABBREV.
+200|It's got "Drunk History": COM|Comedy Central
+400|Founded by Robert Redford: SUND|Sundance
+600|It's premium cable: MAX|Cinemax
+800|It's where you can watch "NBA on TNT": TNT|Turner Network Television
+1000|With "Maria Bartiromo's Wall Street": FBN|FOX Business

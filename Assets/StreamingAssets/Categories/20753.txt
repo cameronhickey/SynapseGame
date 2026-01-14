@@ -1,0 +1,6 @@
+GO SEE "AL\"
+200|Bosom buddy|a pal
+400|The confidence of a group|morale
+600|The logical reasons why an action was taken|a rationale
+800|Area of dense shrubs often found in southern California|chaparral
+1000|High-level programming language used for teaching|Pascal

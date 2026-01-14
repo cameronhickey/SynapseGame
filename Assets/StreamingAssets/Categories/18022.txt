@@ -1,0 +1,6 @@
+ONE SHORT OF AN EGOT
+200|Cyndi Lauper|an Oscar
+400|Maggie Smith|a Grammy
+600|Martin Scorsese|a Tony
+800|Cher|a Tony
+1000|Stephen Sondheim|an Emmy

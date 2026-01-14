@@ -1,0 +1,6 @@
+SAY IT IN LATIN
+200|\"And so on\"|Et cetera
+400|\"I came, I saw, I conquered\"|Veni, vidi, vici
+600|\"It's my fault\"|Mea culpa
+800|\"My other self\"|alter ego
+1000|\"From the chair of authority\"|Ex cathedra

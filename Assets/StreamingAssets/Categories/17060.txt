@@ -1,0 +1,6 @@
+ESKIMOS
+200|In most areas, Eskimos are now replacing dogsleds with these winter vehicles|snowmobiles
+400|Eskimo rolls are not something you eat but stunts performed in one of these boats|a kayak
+600|Since Eskimo languages are polysynthetic, a single word is equivalent to this in most other languages|a sentence
+800|3 of the 4 countries in whose domains Eskimos live|(3 of) the Soviet Union, the United States, Canada or Denmark
+1000|Most dictionaries list this spelling of Eskimo, from the French, as an accepted alternative|E-S-Q-U-I-M-A-U

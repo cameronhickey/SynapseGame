@@ -1,0 +1,6 @@
+THEIR MAIN INSTRUMENT
+200|Charlie "Bird" Parker|the saxophone
+400|Tre Cool|the drums
+600|Lang Lang|piano
+800|Joe Bonamassa|the guitar
+1000|Charles Mingus|the (double) bass

@@ -1,0 +1,6 @@
+ALPHABET SOUP WHEN YOU'RE SICK
+200|EMR is short for this type of medical record accessed digitally|an electronic medical record
+400|HTN is a short form of this long word for a condition that makes your heart work harder|hypertension
+600|This is not a bill—it's an EOB, "explanation of" these|benefits
+800|An OPO is a "procurement organization" seeking these for needy patients|an organ procurement
+1000|If you see b.i.d. on a prescription, it's giving you this instruction|telling you to take it twice a day

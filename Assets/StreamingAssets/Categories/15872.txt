@@ -1,0 +1,6 @@
+IT'S THE BIGGEST IN AREA
+200|San Bernardino County, Los Angeles County, San Francisco county|San Bernardino County
+400|Scotland, Wales, Northern Ireland|Scotland
+600|Coral Sea, Black Sea, Aral Sea|Coral Sea
+800|Negev desert, Gobi Desert, Kalahari desert|the Gobi
+1000|Corsica, Sardinia, Malta|Sardinia

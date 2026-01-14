@@ -1,0 +1,6 @@
+NAME THAT NATION
+200|Official population 1.3 billion|China
+400|Official population 921|Vatican City
+600|The biggest importer of oil|the United States
+800|Produces more theatrical feature films every year than any other country|India
+1000|Despite its larger resources, Brazil lost an 1820s war with Argentina that resulted in this new country between them|Uruguay

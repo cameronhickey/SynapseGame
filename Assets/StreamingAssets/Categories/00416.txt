@@ -1,0 +1,6 @@
+PHILOSOPHY
+200|Descartes' "cogito, ergo sum" means this|\"I think, therefore I am\"
+400|Effect is the immediate result of this|cause
+600|Rodin aptly expressed the task of a philosopher in this famous statue|The Thinker
+800|This Greek believed that the idea of things was more real than the things themselves|Plato
+1000|Empiricism is the theory that all knowledge comes from this|experience

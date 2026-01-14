@@ -1,0 +1,6 @@
+THE PORPOISE
+200|The vaquita, an endangered species of porpoise, is found only in this gulf off Mexico|Gulf of California
+400|This term for the paddle-shaped float limb of a porpoise shares its name with a famous TV dolphin|Flipper
+600|Unlike the shape of a dolphin's, this fin on most porpoises is triangular|Dorsal fin
+800|It's the taxonomic order & group name for whales, dolphins & porpoises|Cetaceans
+1000|Also used by bats, this method of using reflected sound helps a porpoise navigate underwater|Echolocation

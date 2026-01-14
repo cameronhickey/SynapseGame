@@ -1,0 +1,6 @@
+MOVIE TIME
+200|1996: "From ____ Till Dawn\"|dusk
+400|1952: "High ____\"|noon
+600|1969: "____ Cowboy\"|midnight
+800|1949: "____ O'Clock High\"|twelve
+1000|1987: "____ O'Clock High\"|Three O'Clock High

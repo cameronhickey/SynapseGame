@@ -1,0 +1,6 @@
+WORD "PLAY\"
+200|A recreation area containing seesaws & swings|a playground
+400|A game or series of games to decide a championship|a playoff
+600|A radio station's music catalog|the playlist
+800|No plan—we're just doing this, a phrase that originated with musicians who don't use sheet music|play it by ear
+1000|The reproduction of a sound after it's been recorded|playback

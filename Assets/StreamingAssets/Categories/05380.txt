@@ -1,0 +1,6 @@
+WOOD
+200|The Acer saccharum is the sugar species of this|Maple
+400|\"Quaking" poplar popularized in the name of a Colorado ski resort city on the Roaring Fork River|Aspen
+600|This tree's name has passed into the names of honors, like a poet's post or a degree|the laurel
+800|The aspen is a species of this genus of trees that one could say is very well liked|a poplar
+1000|Crooked trees no good for timber can still be kindling; they become this word often found after "stacked like\"|cordwood (or firewood)

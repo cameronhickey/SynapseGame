@@ -1,0 +1,6 @@
+\"AN"IMALS
+200|Hollow-horned ruminants who made themselves right at "Home on the Range\"|antelope
+400|It's an earthworm's alias|angleworm
+600|Apes described by this adjective, such as gorillas, resemble man|anthropoidal
+800|Maybe this mammal's enormous salivary glands make all those Formicidae taste better|anteater
+1000|The only genus of mosquitoes that can transmit the protozoa causing malaria|Anopheles

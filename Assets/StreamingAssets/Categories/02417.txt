@@ -1,0 +1,6 @@
+GATES
+200|Prisoners were once brought by boat to this British stronghold via Traitors' Gate|Tower of London
+400|The historic Barrier Gate separates China from this Portuguese territory|Macao
+600|According to Homer, this ancient city had numerous gates, including the famous Scaean one|Troy
+800|In Norse myth the gate known as Valgrind was the main entrance to this mighty hall|Valhalla
+1000|This entrance to Jerusalem's old city was built by Suleyman in 1538 & is also called "the Hebron Gate\"|the Jaffa Gate

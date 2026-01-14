@@ -1,0 +1,6 @@
+\"S"EVEN-LETTER SCIENCE
+200|This complex organic compound is found in many plants & is used as a sweetening agent|sucrose
+400|It's the second most abundant element in the earth's crust|silicon
+600|It functions as a junction with the help of neurotransmitters|synapse
+800|This species name is also the title of a bestselling history of humanity by Yuval Noah Hariri|Sapiens
+1000|In geology it's the normally hidden mineral-rich layer just above bedrock|subsoil

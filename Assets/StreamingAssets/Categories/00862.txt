@@ -1,0 +1,6 @@
+TRANSFORMATIONS
+200|A drug transforms this man into the evil Mr. Hyde|Dr. Jekyll
+400|Everything he touched turned into gold, not mufflers|Midas
+600|Jesus turned water into wine & Circe turned Odysseus' men into these|swine
+800|In this author's "The Metamorphosis", Gregor turns into a giant insect|Kafka
+1000|He sculpted Galatea, a statue brought to life by Aphrodite|Pygmalion

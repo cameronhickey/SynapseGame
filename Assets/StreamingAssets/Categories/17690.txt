@@ -1,0 +1,6 @@
+GUITARS
+200|Since the early 19th century, it's been the number of strings on a standard guitar|six
+400|String vibrations are converted into amplifiable signals by these magnetic devices that sound like they're made by Ford or Chevy|pickups
+600|The Clash's front man took this stage name in reference to the way he played rhythm guitar|Joe Strummer
+800|Leo was the first name of this designer of the iconic Stratocaster electric guitar|Fender
+1000|The Stratocaster's great rival is the instrument made by Gibson & named for this jazz guitar great|Les Paul

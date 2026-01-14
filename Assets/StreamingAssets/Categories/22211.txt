@@ -1,0 +1,6 @@
+WHERE'S THAT CHURCH?
+200|Built in the 300s A.D., the Church of the Nativity|Israel
+400|Antoni Gaudí's Sagrada Família|Spain
+600|The Crystal Cathedral, now known as Christ Cathedral|the United States
+800|Hagia Sophia|Turkey
+1000|St. Stephen's Cathedral, AKA Stephanskirche, consecrated in the capital in 1147|Austria

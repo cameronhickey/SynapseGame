@@ -1,0 +1,6 @@
+LIGHTHOUSES
+200|This oil powered America's 1st lighthouse at Little Brewster Island in Boston Harbor in 1716|whale
+400|This lighthouse built circa 280 B.C. is said to have been more than 400 feet high|the Pharos at Alexandria
+600|Invented by Augustin Jean Fresnel, the compound type of this is used in lighthouses|lens
+800|There's a lighthouse on this Oahu promontory, the crater of an extinct volcano|Diamond Head
+1000|An 1833 lighthouse is a point of interest in this western New York city on Lake Erie|Buffalo

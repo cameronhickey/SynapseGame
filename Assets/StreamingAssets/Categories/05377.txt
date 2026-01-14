@@ -1,0 +1,6 @@
+MINERALS
+200|Talc is at one end of the Mohs scale of hardness & this is at the other|Diamonds
+400|This phosphate popular in the jewelry of the Southwest U.S. derives its name from a Eurasian country|Turquoise
+600|Minerals like pyrite, galena & sphalerite all contain this element, S, so they are grouped together|Sulphur
+800|The white sands of New Mexico's White Sands National Monument are this plaster material|gypsum
+1000|A form of magnetite that has natural magnetic polarity is known as this "stone\"|Lodestone

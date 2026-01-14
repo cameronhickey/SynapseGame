@@ -1,0 +1,6 @@
+THE EQUATOR
+200|The latitude of the Equator|zero
+400|Westernmost capital in South America, it lies almost directly on the Equator|Quito
+600|The circumference of the Earth at the Equator is approximately this many thousand miles|25,000
+800|All points on the magnetic Equator are equidistant from these|the magnetic poles
+1000|North of the equator, these blow from the northeast; south of the equator, from the southeast|the trade winds

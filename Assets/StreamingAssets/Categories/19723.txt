@@ -1,0 +1,6 @@
+SKY LINES
+200|This James Bond movie theme says "When it crumbles, we will stand tall, face it all together\"|\"Skyfall\"
+400|This T.S. Eliot "Love" poem begins, "Let us go then, you and I, when the evening is spread out against the sky\"|The Love Song of J. Alfred Prufrock
+600|This title Chekhov relative is told, "We shall hear the angels, we shall see the sky sparkling with diamonds\"|Uncle Vanya
+800|In this novel, Betty Smith wrote, "No matter where its seed fell, it made a tree which struggled to reach the sky\"|A Tree Grows in Brooklyn
+1000|She gave us the lesser-known "O beautiful for halcyon skies" as well as "O beautiful for spacious skies\"|Katharine Lee Bates

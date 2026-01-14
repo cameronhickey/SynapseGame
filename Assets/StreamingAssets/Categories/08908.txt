@@ -1,0 +1,6 @@
+FAST FOOD NATION
+200|Whopper Jr.|Burger King
+400|Sourdough Jack|Jack in the Box
+600|Classic Triple with Cheese|Wendy's
+800|Ultimate Deep Dish Pizza & Cinna Stix|Domino's
+1000|The Big N' Tasty|McDonald's

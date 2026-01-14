@@ -1,0 +1,6 @@
+GRAMMAR A-Z
+200|P: The building blocks of a sentence are subject & this, what is said of the subject|the predicate
+400|I: To be this form of a verb, some say, means to never split it|an infinitive
+600|M: Nouns, adjectives & adverbs can be these qualifiers|modifiers
+800|R: Essential info comes in a clause that's relative as well as this adjective|restrictive
+1000|S: The set of rules for the proper arrangement of a sentence from the Greek for "orderly arrangement\"|syntax

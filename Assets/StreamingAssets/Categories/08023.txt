@@ -1,0 +1,6 @@
+FRIENDS IN FILMS
+200|\"Scream 3\"|Courteney Cox
+400|\"Analyze This" & "Analyze That\"|Lisa Kudrow
+600|\"Band of Brothers" on HBO|David Schwimmer
+800|\"Serving Sara\"|Matthew Perry
+1000|\"Charlie's Angels\"|Matt LeBlanc

@@ -1,0 +1,6 @@
+FOOD "E\"
+200|Beginning sushi eaters often start out with unagi, this fish that's been cooked & basted with a sweetish sauce|eel
+400|All we need is some wine & crackers to go with this cheesy import|Edam
+600|A recipe for the world's largest one of these calls for 750 lbs. of ground corn for the tortilla & 175 lbs. of cheese|an enchilada
+800|Chambers Dictionary describes this cream-filled pastry as "long in shape but short in duration\"|an eclair
+1000|This spicy Cajun stew is made with crayfish & served over rice|étoufée

@@ -1,0 +1,6 @@
+STATE FLAGS & SEALS
+200|There's one of these in the center of Texas' state seal, on its flag & in its nickname|a star
+400|The front of its state seal shows Lord Baltimore as a knight in full armor|Maryland
+600|This state's seal includes its longer, official name: "The State of" this & "Providence Plantations\"|Rhode Island
+800|Both its flag & seal were re-adopted in 1967 when a portrait by Gilbert Stuart was approved for the seal|Washington
+1000|This one-word motto meaning "ever upward" appears on the flag & seal of New York|Excelsior

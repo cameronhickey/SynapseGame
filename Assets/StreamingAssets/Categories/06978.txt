@@ -1,0 +1,6 @@
+\"C" IN SCIENCE
+200|The formation of dew from water vapor is an example of this process|condensation
+400|It's Latin for "bark" (like on a tree); the cerebral type is the layer that covers your brain|cortex
+600|These windstorms spiral clockwise in the Southern Hemisphere & counterclockwise in the Northern|a cyclone
+800|This type of cable has insulated conducting material around a separately insulated conducting tube|coaxial
+1000|It's the force that holds the molecules of a substance together|cohesion

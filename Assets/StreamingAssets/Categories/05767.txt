@@ -1,0 +1,6 @@
+STATES BY COUNTIES
+200|Jefferson, Cape Girardeau, Ozark|Missouri
+400|Jefferson, Scotts Bluff, Platte|Nebraska
+600|Bell, Boone, Bourbon|Kentucky
+800|Carroll, Caroline, Calvert|Maryland
+1000|Yamhill, Crook, Tillamook|Oregon

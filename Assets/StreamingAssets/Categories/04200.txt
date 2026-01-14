@@ -1,0 +1,6 @@
+SPORTS HOME CITIES
+200|MLB's Blue Jays|Toronto
+400|The NFL's Ravens|Baltimore
+600|The NHL's Coyotes|Phoenix
+800|The NBA's Grizzlies|Vancouver
+1000|MLS's Galaxy|Los Angeles

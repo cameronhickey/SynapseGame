@@ -1,0 +1,6 @@
+SPORTS ABBREV.
+200|It happens following another score: PAT|a point after touchdown
+400|In basketball, FT|free throw
+600|A group for pugilists: WBC|World Boxing Council
+800|We'll give you a break & just ask for the second "F": FIFA|football
+1000|Successes in basketball as well as football: FGM|field goal made

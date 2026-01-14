@@ -1,0 +1,6 @@
+CELEBRITY COUNTRY OF ORIGIN
+200|Actress Salma Hayek|Mexico
+400|Actor Antonio Banderas|Spain
+600|Soccer star Ronaldinho|Brazil
+800|Model Bar Refaeli|Israel
+1000|Singer Feist|Canada

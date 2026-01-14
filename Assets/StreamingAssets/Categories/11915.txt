@@ -1,0 +1,6 @@
+WATER UNDER THE BRIDGE
+200|Beneath the Tower Bridge in London: this river|the Thames
+400|Beneath Patna's Mahatma Gandhi Bridge: this river|the Ganges
+600|Under the Brooklyn Bridge: this river|the East River
+800|Beneath the Tacoma Narrows Bridge: this inlet|Puget Sound
+1000|Under the Sunshine Skyway Bridge: this bay|Tampa Bay

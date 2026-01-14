@@ -1,0 +1,6 @@
+BIRDLIKE VERBS
+200|To send a short message on an Internet microblogging site|tweet
+400|An inefficient way to type is to "hunt" & do this|peck
+600|To concoct a secret plan|hatch
+800|To worry persistently in a gloomy way|brood
+1000|To talk softly & amorously is "to bill &" do this|coo

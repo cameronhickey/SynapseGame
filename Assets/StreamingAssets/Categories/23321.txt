@@ -1,0 +1,6 @@
+AUTOMOBILES... ASSEMBLE!
+200|I'm leavin' on a Jetta non-plane|Volkswagen
+400|It's always the Sentra of attention|Nissan
+600|The 2021 XF is quick as a cat... starting at 44 grand|Jaguar
+800|Its Roadster can top 250 mph & has a 620-mile range, sans gas|Tesla
+1000|Its Legacy is on the line every day|Subaru

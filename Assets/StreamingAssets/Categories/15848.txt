@@ -1,0 +1,6 @@
+ORG. ABBREV.
+200|Helping to keep our streets safer: MADD|Mothers Against Drunk Driving
+400|Speaking economically since Jan. 1, 1995: WTO|the World Trade Organization
+600|\"Fighting for air" (medically): ALA|the American Lung Association
+800|For those who've served: VFW|Veterans of Foreign Wars
+1000|We'll save its co-star, the AFL, for another day: CIO|Congress of Industrial Organizations

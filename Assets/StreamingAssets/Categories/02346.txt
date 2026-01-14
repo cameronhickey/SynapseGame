@@ -1,0 +1,6 @@
+TRICOLOR FLAGS
+200|This European country's green, white & red flag was featured at the 1994 World Cup finals|Italy
+400|Reverse the order of Ivory Coast's orange, white & green flag & you'll get this other "I" country's flag|Ireland
+600|You'll find yellow between blue & red on the flag of this country between Spain & France|Andorra
+800|The red, white & blue on this grand duchy's flag comes from its coat of arms|Luxembourg
+1000|Egypt, Iraq & Yemen have stripes of red, white & this color|black

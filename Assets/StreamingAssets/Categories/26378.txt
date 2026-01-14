@@ -1,0 +1,6 @@
+STAND
+200|When playing blackjack, you may decide to "stand" this 3-letter way, which means you don't want any more cards|pat
+400|An imbalance between positive & negative charges as electrons move gives us this type of electricity that can make your hair stand on end|static electricity
+600|Stephen King said "The Stand" was inspired by Tolkien & that this city where the action climaxes was a sort of Mordor|Las Vegas
+800|A hit in 1968, this song standard begins, "Sometimes it's hard to be a woman\"|\"Stand By Your Man\"
+1000|Around 1675 he said: "If I have seen further it is by standing on the shoulders of giants\"|(Isaac) Newton

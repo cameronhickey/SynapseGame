@@ -1,0 +1,6 @@
+\"AMEN\"
+200|A mournful poem or hymn for the departed|a lament
+400|The Diet or the Knesset|a parliament
+600|Energetic music & dance style of Andalusia|flamenco
+800|A difficult or unpleasant situation that is not easy to get out of|predicament
+1000|Catholicism has life covered with the 7 of these; they include baptism & anointing of the sick|the sacraments

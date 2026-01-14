@@ -1,0 +1,6 @@
+COMMON BONDS
+200|Aztec, Julian, Lunar|calendars
+400|Sedan, rocking, electric|chairs
+600|Grace, Spiderman, Kreskin|\"Amazing" things
+800|Salt, cheeks, pennies|things that are pinched
+1000|Cabin, hay, scarlet|fevers

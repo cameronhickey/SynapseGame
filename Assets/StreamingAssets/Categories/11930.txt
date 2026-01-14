@@ -1,0 +1,6 @@
+ANIMALS EN ESPAÑOL
+200|La cebra|the zebra
+400|Found in water: cocodrilo|a crocodile
+600|El puerco|a pig
+800|8-legged: araña|a spider
+1000|El zorro|fox

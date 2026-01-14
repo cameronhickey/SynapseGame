@@ -1,0 +1,6 @@
+STOCKS, SYMBOLICALLY
+200|MMM: that kind of says it all|3M
+400|AFL: if it walks like a duck...|Aflac
+600|SCHW: we're invested in your response|Charles Schwab
+800|CMCSA: your technician will arrive between 7 A.M. & 11 P.M. (We kid, there's a 2-hour window)|Comcast
+1000|GIS: Cheerios & Yoplait are on us!|General Mills

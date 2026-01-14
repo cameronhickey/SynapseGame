@@ -1,0 +1,6 @@
+OED TOP SOURCES
+200|The OED's most-used source is the Times of this capital city|London
+400|The Wycliffe version of this is cited more than 9,000 times|the Bible
+600|The 5th-most frequently quoted source is this compendium of knowledge that's been around since 1768|the Encyclopædia Britannica
+800|William Shakespeare is second; this historical novelist with the same initials is third|Sir Walter Scott
+1000|Begun in 1869, this periodical billed as "A Weekly Journal of Science" helps with entries from abiogenesis to zygote|Nature

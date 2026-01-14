@@ -1,0 +1,6 @@
+OF "TIME\"
+200|Aye, it means connected with the sea or nautical activities|maritime
+400|In this system, employees choose the hours they wish to work as long as it totals a full day|flex time
+600|Louis Chauvin & Thomas Turpin were pioneers of this syncopated forerunner of jazz|ragtime
+800|It begins at midnight at 0 degrees longitude & includes a place name|Greenwich Mean Time
+1000|2-word term referring to a period before recorded history; in law, a claim dating from then needs no proof|time immemorial

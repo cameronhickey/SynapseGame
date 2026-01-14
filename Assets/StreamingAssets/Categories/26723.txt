@@ -1,0 +1,6 @@
+DOUBLE "W"s
+200|This comic book heroine is just plain Diana to her friends back on Paradise Island|Wonder Woman
+400|You've "made it" if you've made it into this reference book|Who's Who
+600|He's a character in Roald Dahl's book "Charlie & the Chocolate Factory\"|Willy Wonka
+800|This author of "One World" tried to prevent FDR from winning a 3rd term|Wendell Willkie
+1000|A platform built atop old New England houses serving as a lookout for incoming ships|widow's walk

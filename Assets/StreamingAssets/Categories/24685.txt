@@ -1,0 +1,6 @@
+SAY THE ROMAN NUMERAL
+200|Cake in a box: 1,009|MIX
+400|Princess nickname: 501|DI
+600|Land bordering Oz: 9|IX
+800|Greek letter rhyming with "bye": 11|XI
+1000|New Jersey fort: 509|DIX

@@ -1,0 +1,6 @@
+STOCK SYMBOL PRIMER
+200|AMZN: They have a river of reading material|Amazon.com
+400|HSY: They make candy|Hershey's
+600|GM: Some of their models are Monte Carlo & Malibu|General Motors
+800|HLT: You can stay in one in Paris, we hear|Hilton
+1000|SIRI: They use satellites to bring you your tunes|Sirius (Satellite Radio)

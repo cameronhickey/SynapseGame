@@ -1,0 +1,6 @@
+ANIMAL QUOTES
+200|Both Shakespeare & Clement Clarke Moore wrote about this creature not "stirring\"|mouse
+400|\"I never saw a purple" one of these: "I never hope to see one, but I can tell you anyhow, I'd rather see than be one\"|cow
+600|\"All right", said this animal: "and this time it vanished quite slowly, beginning with the end of the tail\"|Cheshire Cat
+800|Groucho Marx said, "One morning I shot" this "in my pajamas. How he got into my pajamas I'll never know\"|an elephant
+1000|William Blake wrote that "The pride of" this bird "is the glory of God\"|peacock

@@ -1,0 +1,6 @@
+INTERNATIONAL TRADE TERMS
+200|The Bundesbank is this country's central bank|Germany
+400|It's the U.S. government agency that clears imports & collects duties & taxes on them|the Bureau of Customs
+600|Among taxes VAT is short for this|a value added tax
+800|CITES, a convention which the U.S. has signed, controls trade in these, the "ES\"|endangered species
+1000|In shipping it's the captain's "destiny" to sign this list of all items in the cargo|his manifest

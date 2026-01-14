@@ -1,0 +1,6 @@
+AVIATION
+200|Double-winged aircraft|a biplane
+400|Mach 1 stands for this|the speed of sound
+600|Meaning steerable, it's a gas-filled airship with a frame supporting the gas bag|a dirigible
+800|In 1988 the Air Force unveiled this high-tech bomber described as a "flying wing\"|the B-2
+1000|Named the Aviatrix of the Decade in 1950, in 1953 she became the 1st woman to break the sound barrier|Jacqueline Cochran

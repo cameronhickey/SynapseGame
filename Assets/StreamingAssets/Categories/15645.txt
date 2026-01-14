@@ -1,0 +1,6 @@
+WHAT'S YOUR SPECIALTY, DR.?
+200|Dermatology: ailments of this|the skin
+400|Otolaryngology: these 3 parts|ear, nose & throat
+600|Hepatology: this organ|the liver
+800|Hematology: this substance|blood
+1000|Bariatric surgery: this condition affecting 1/3 of U.S. adults|obesity

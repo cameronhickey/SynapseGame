@@ -1,0 +1,6 @@
+STATE NAME ORIGINS
+200|This state's name is from Chippewa words meaning "great water", after the lake of the same name|Michigan
+400|Its name is from the French for "green mountain\"|Vermont
+600|It was named for a king of France|Louisiana
+800|The first part of its name honors the father of the colony's founder; the rest means "woodland\"|Pennsylvania
+1000|This state was named for an island in the English Channel|New Jersey

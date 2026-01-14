@@ -1,0 +1,6 @@
+LANDMARK SUPREME COURT CASES
+200|In Texas v. Johnson, a sharply divided Court said burning the U.S. flag is protected by this part of the Constitution|the First Amendment
+400|This family got a unanimous decision from the Warren Court against the Topeka Board of Education|the Browns
+600|The 1966 case of this man v. Arizona established that the police must inform suspects of their 5th Amendment rights|Miranda
+800|Constitutional scholars say that the Court's worst decision ever was against this plaintiff in 1857|Dred Scott
+1000|The 1819 case of McCulloch v. Maryland affirmed that Congress had these "powers" not enumerated in the Constitution|implied powers

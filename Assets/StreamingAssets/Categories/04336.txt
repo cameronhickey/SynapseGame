@@ -1,0 +1,6 @@
+LEGALESE
+200|Something found before "of limitations", it means a law enacted by a governmental legislature|statute
+400|Usual word for an interval when a court suspends business, but doesn't adjourn|recess
+600|Habeas corpus is one of these orders whose name implies they're down in black & white|writ
+800|When it's planned, this synonym for evil intent is often said to be "aforethought\"|malice
+1000|From the Latin for "none", it's a jury's decision to acquit though the law points to conviction|nullification

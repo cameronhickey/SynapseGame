@@ -1,0 +1,6 @@
+LINE
+200|This 1951 movie includes the line "I have always depended on the kindness of strangers\"|A Streetcar Named Desire
+400|In a Hitchcock film, this character delivers the line "A boy's best friend is his mother\"|Norman Bates
+600|This movie spawned 1,000 imitators saying, "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?\"|Dirty Harry
+800|As this 1994 movie reminded us, even in prison you either "get busy living or get busy dying\"|The Shawshank Redemption
+1000|1931 film with the line "Listen to them. Children of the night. What music they make\"|Dracula

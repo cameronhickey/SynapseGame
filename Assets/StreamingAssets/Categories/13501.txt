@@ -1,0 +1,6 @@
+MAJOR RELIGION BY COUNTRY
+200|Panama|Catholicism
+400|Morocco|Islam
+600|Nepal|Hinduism
+800|Sweden|Lutheranism
+1000|Laos|Buddhism

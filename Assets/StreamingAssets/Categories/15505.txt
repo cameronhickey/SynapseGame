@@ -1,0 +1,6 @@
+INLETS
+200|This largest Alaskan city lies at the head of Cook Inlet on the Kenai Peninsula|Anchorage
+400|Big ships must pass through Admiralty Inlet to enter or leave this Washington State sound|Puget Sound
+600|Faxa Bay in the North Atlantic is between this country's Snaefells & Reykjanes peninsulas|Iceland
+800|This Chilean city whose name means "valley of paradise" lies on a wide inlet of the Pacific|Valparaiso
+1000|North Carolina's Albemarle Sound is no deeper than 25 feet & is protected from the Atlantic by this island chain|the Outer Banks

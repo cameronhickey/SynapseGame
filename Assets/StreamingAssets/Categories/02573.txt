@@ -1,0 +1,6 @@
+ESSAYS
+200|Roger Ebert has recently edited a book of essays & other writings on this subject|movies
+400|Many of H.L. Mencken's noted essays started as newspaper columns in this Maryland city's "Sun\"|Baltimore
+600|He wrote his essay "Life Without Principle" after he returned from Walden Pond|Henry David Thoreau
+800|This humorist's collection of essays "In Cyberspace" is formatted like a computer manual|Dave Barry
+1000|This English philosopher developed the formal style of essays in works like 1625's "Of Beauty\"|Francis Bacon

@@ -1,0 +1,6 @@
+WITH A SCULPTURE ON TOP
+200|A classical statue called "Freedom" sits atop the dome of this Washington, D.C. building|the U.S. Capitol
+400|Philly's city hall is topped by a 37-foot tall statue of this colony founder; for a time no building there was built higher than his hat|William Penn
+600|The colossal Christ the Redeemer Statue on Mount Corcovado towers over this South American city|Rio de Janeiro
+800|Commissioned by brewer Carl Jacobsen, a sculpture of this fairy-tale figure sits atop a rock in Copenhagen harbor|the Little Mermaid
+1000|A column topped by a 17-foot statue of this man is the centerpiece of London's Trafalgar Square|Nelson

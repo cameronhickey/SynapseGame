@@ -1,0 +1,6 @@
+LEFT, RIGHT OR CENTER
+200|One you have is "to remain silent\"|a right
+400|Bank on which you'd find the artistic section of Paris|the Left Bank
+600|The Brits spell it differently|center
+800|Don't keep it under your hat, it anagrams to a material used in hats|left
+1000|It's a whale|right

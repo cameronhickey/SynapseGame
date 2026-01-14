@@ -1,0 +1,6 @@
+MOVIES: BEEN THERE, DONE THAT
+200|A 1925 dinosaur film based on a Conan Doyle tale or a 1997 dinosaur film based on a Crichton book|The Lost World
+400|\"What's Up, Doc?" & "Bullitt" both featured chase scenes through this city|San Francisco
+600|One of these tumbled down the steps in 1925's "Battleship Potemkin" & in 1987's "The Untouchables\"|Baby carriage
+800|Stephen Frears in 1988 & Milos Forman in 1989 used this French novel as a basis for their films|Les Liaisons dangereuses
+1000|Harrison Ford lost his in "Frantic"; Kurt Russell lost his in "Breakdown\"|Wife

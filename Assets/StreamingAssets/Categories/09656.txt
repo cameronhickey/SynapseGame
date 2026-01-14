@@ -1,0 +1,6 @@
+BEEN THERE...
+200|This country is in the east of a subcontinent|Bangladesh
+400|This nation sticks out like a sore thumb|Denmark
+600|It extends about 3,200 miles from east to west|Indonesia
+800|You don't hear so much about the East Bank where this country is|Jordan
+1000|Formerly a British protectorate, it's the republic outlined here|Zambia

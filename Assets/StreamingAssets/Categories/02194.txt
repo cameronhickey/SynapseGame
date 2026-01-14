@@ -1,0 +1,6 @@
+SUBATOMIC PARTICLES
+200|Protons are found in this part of an atom|the nucleus
+400|Cathode rays are streams of these negatively-charged particles|electrons
+600|These rays are the most penetrating of radioactive emissions|gamma rays
+800|In addition to an element, this Italian physicist has a subatomic particle named for him|(Enrico) Fermi
+1000|They come in pairs, like up & down, & 3 of them make up a type of hadron|Quarks

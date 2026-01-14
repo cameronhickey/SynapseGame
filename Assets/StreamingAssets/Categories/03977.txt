@@ -1,0 +1,6 @@
+AUTHOR! AUTHOR!
+200|\"She's Come Undone\"|Wally Lamb
+400|\"Ordinary People\"|Judith Guest
+600|\"Circle of Friends\"|Maeve Binchy
+800|\"Winesburg, Ohio\"|Sherwood Anderson
+1000|\"Looking Backward\"|Edward Bellamy

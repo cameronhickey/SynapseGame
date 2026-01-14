@@ -1,0 +1,6 @@
+ALPHANUMERIC ATHLETES
+200|Married to GB: TB12|Tom Brady
+400|Recently retired: KB24|Kobe Bryant
+600|Point guard CP3|Chris Paul
+800|Heisman Trophy winner RG#3|Robert Griffin III
+1000|Hall of Fame running back LT2|LaDainian Tomlinson

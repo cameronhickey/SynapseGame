@@ -1,0 +1,6 @@
+SURE "SHOT\"
+200|The object in this women's sporting event weighs 8.8 pounds|shot put
+400|Hey, jailbird! Face the camera! Now turn to the side! Okay, we got one of these|a mug shot
+600|A pregnant bride can help initiate this type of "wedding\"|a shotgun wedding
+800|The result, or the gist as of an argument|the upshot
+1000|Let's take one of these, a random criticism|a potshot

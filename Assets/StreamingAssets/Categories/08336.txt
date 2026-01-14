@@ -1,0 +1,6 @@
+THIRTY SOMETHING
+200|When a sailor is on "watch" at sea, the bells are tolled at intervals of this many minutes|30
+400|In the Gregorian calendar, July has this many days|31
+600|It's the usual width of film used in a single-lens reflex camera|35mm
+800|First introduced in 1948, LP record albums play at this many revolutions per minute|33 1/3
+1000|Half of a half gallon is this many ounces|32

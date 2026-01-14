@@ -1,0 +1,6 @@
+TIME"LY" WORDS
+200|Every 3,600 seconds|hourly
+400|Time for the worm-catching bird|early
+600|It's the "F" before "AQ\"|frequently
+800|The Greek speirein, to scatter or sow, is related to this synonym for "irregularly" that also starts with "sp\"|sporadically
+1000|It can mean "soon" or "in a rude or curt manner\"|shortly

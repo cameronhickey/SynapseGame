@@ -1,0 +1,6 @@
+MUSICAL GENRES
+200|A mass of mineral matter|Rock
+400|To burst, like a balloon|Pop
+600|The first "B" in B.B. King's name stands for this musical genre|blues
+800|Electronic style that can precede -logical, -babble or -crat|techno
+1000|This subgenre of metal can also mean "to beat savagely\"|thrash

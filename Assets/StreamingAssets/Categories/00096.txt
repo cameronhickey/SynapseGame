@@ -1,0 +1,6 @@
+\"B" MOVIES
+200|Burt Lancaster film in which his only friends were feathered|Birdman of Alcatraz
+400|This title describes Carroll Baker's thumb-sucking character & nightie she wore|Baby Doll
+600|This '83 college reunion was up for Best Picture|The Big Chill
+800|In this '68 film, women got all choked up over Tony Curtis playing Albert de Salvo|The Boston Strangler
+1000|Before the "Bridge on the River Kwai", William Holden bombed these in '54|The Bridges at Toko-Ri

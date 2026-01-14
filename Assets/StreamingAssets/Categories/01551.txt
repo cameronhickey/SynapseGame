@@ -1,0 +1,6 @@
+CANALS
+200|In Arabic the name of this canal is Qanat As-Suways|the Suez Canal
+400|Because of a rise of over 500 feet west of Troy, New York, 83 locks were required for this canal|the Erie Canal
+600|Built 4 miles through solid rock, Greece's Corinth Canal connects the Ionian Sea with this sea|the Aegean Sea
+800|The Las Americas bridge crosses this canal near the city of Balboa|Panama
+1000|At about 2,340 miles in length, it's the longest ship canal system in North America|the St. Lawrence Seaway

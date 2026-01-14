@@ -175,10 +175,29 @@ namespace Cerebrum.Game
         private void BuildUI()
         {
             ClearUI();
+            AdjustLayoutForTitle();
             CreateBackgroundImage();
             BuildCategoryHeaders();
             BuildClueGrid();
             BuildPlayerPanels();
+        }
+
+        private void AdjustLayoutForTitle()
+        {
+            // Find the MainLayout and adjust top padding to reveal title
+            if (categoryHeaderContainer != null)
+            {
+                Transform mainLayout = categoryHeaderContainer.parent;
+                if (mainLayout != null)
+                {
+                    VerticalLayoutGroup vlg = mainLayout.GetComponent<VerticalLayoutGroup>();
+                    if (vlg != null)
+                    {
+                        // Set top padding to 150 to reveal the game title in background
+                        vlg.padding = new RectOffset(20, 20, 150, 20);
+                    }
+                }
+            }
         }
 
         private void CreateBackgroundImage()
@@ -452,6 +471,10 @@ namespace Cerebrum.Game
                 {
                     RectTransform buttonRect = sourceButton.GetComponent<RectTransform>();
                     Debug.Log($"[BoardController] Starting reveal animation for clue: {clue.Question.Substring(0, Math.Min(30, clue.Question.Length))}...");
+                    
+                    // Hide the source button immediately so it doesn't show when card animates back
+                    sourceButton.MarkAsUsed();
+                    
                     clueRevealAnimator.RevealClue(buttonRect, clue.Question, clue.Value, () =>
                     {
                         // Animation complete - card stays visible as the clue display

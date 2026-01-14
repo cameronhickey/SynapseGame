@@ -1,0 +1,6 @@
+COLLEGES
+200|A type of shoe or cloth, or where a Rhodes scholarship will get you|Oxford
+400|Home of over 52,000 Buckeyes|Ohio State University
+600|Latin for field, or college grounds|campus
+800|In 1934, Gerald Ford was voted MVP of this school's football team|(University of) Michigan
+1000|Women's college that shares Harvard's classes, housing & facilities but still is separate|Radcliffe

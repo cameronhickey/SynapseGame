@@ -1,0 +1,6 @@
+LAND OF ____
+200|Go to this state if you want to see the "Land of Lincoln\"|Illinois
+400|The United States according to "The Star-Spangled Banner\"|free
+600|Norway & Alaska are each known as the "Land of" this|the Midnight Sun
+800|Its glaciers & hot springs have earned this country the nickname "Land of Frost and Fire\"|Iceland
+1000|A nickname for Minnesota, or the source of Hamm's beer|The Land of Sky Blue Waters

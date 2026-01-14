@@ -1,0 +1,6 @@
+GAME STOP
+200|This winning declaration in a chess game is from the Arabic for "the king is dead\"|checkmate
+400|In the NFL regular season, overtime games end after nobody scores in the period that's this many minutes long|10
+600|\"Walk-off" began as a term for a play that ends a game in this sport|baseball
+800|The bank cannot go broke in this Parker Brothers game, so exhaustion may be the deciding factor|Monopoly
+1000|A hand in this card game with 2 potent potables in its name comes to a halt after a player "knocks\"|gin rummy

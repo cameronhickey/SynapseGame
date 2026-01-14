@@ -1,0 +1,6 @@
+FRUIT BOWL
+200|Gala, Gravenstein, Rome Beauty|Apples
+400|Lambert, Amarelle, Duke|Cherries
+600|Jonathan & Pink Lady|apples
+800|Lambert & Rainier|cherries
+1000|Donut & Elberta|peaches

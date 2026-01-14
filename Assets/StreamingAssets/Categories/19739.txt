@@ -1,0 +1,6 @@
+NAME THAT NOUN
+200|R: a long, narrow crest of ground|ridge
+400|T: a synonym for poisonous mushroom|toadstool
+600|B: large terrestrial monkey of the genus Papio|baboon
+800|Z: African-American dance music of Louisiana|zydeco
+1000|G: a triangular roof end|a gable

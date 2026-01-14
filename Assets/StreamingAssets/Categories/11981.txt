@@ -1,0 +1,6 @@
+\"D" IN MATH
+200|Term for the line that cuts a square into 2 triangles|a diagonal
+400|In a fraction, the numerator is the dividend & this is the divisor|the denominator
+600|A binary system is based on 2; this is a system based on 10|a decimal system
+800|Angles & compass readings are measured in these|degrees
+1000|Pi is the ratio of the circle's circumference to this|diameter

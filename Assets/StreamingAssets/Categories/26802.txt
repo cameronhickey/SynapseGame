@@ -1,0 +1,6 @@
+\"F" IN MATH
+200|A number written as a quotient; examples are 2/3, 1/2 & 1/4|Fraction
+400|1/8 of a mile, or 201.7m|Furlong
+600|If you're 6 feet under water, you should understand you're this far down|Fathom
+800|Also called a divisor, it's a number by which another number is divided|Factor
+1000|This adjective describes a set with a fixed, countable number of elements|Finite

@@ -1,0 +1,6 @@
+U.S. COUNTIES
+200|Pennsylvania's Berks County is a shortened form for this British county that also has a Reading|Berkshire County
+400|It's the largest state that has counties, & its Brewster County is bigger than 3 other states|Texas
+600|This Illinois county has the largest African American population of any U.S. county, with about 1.5 million|Cook County
+800|Mays Landing, N.J. & South Bend, Wash. are the seats of counties named for these 2 distant bodies of water|the Atlantic & Pacific Oceans
+1000|Orange County, New York wasn't named for the fruit but for the ruling family of this European nation|the Netherlands

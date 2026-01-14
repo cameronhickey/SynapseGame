@@ -1,0 +1,6 @@
+SNAKES
+200|The heaviest of all poisonous snakes, this rattler isn't "a girl's best friend\"|a diamondback rattler
+400|Small horned desert rattler named for its unique twisting method of locomotion|a sidewinder
+600|The Eastern species of this is encircled with broad red and black bands, separated by narrow yellow ones|a coral snake
+800|Ophiophagus hannah, the scientific name of this "royal" venomous snake, means that it eats other snakes|a king cobra
+1000|With a top speed of about 12 mph, this deadly African snake is said to be the world's fastest serpent|the black mamba

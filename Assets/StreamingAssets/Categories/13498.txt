@@ -1,0 +1,6 @@
+PAPAL NAMES
+200|Popes taking office in 575, 855 & 2005 used this name|Benedict
+400|The constellation between Cancer & Virgo|Leo
+600|A 20th century pope took this name to honor the popes who made him a bishop & a cardinal|John & Paul
+800|Not guilty|Innocent
+1000|Reigning from 1471 to 1484, the fourth pope of this name had a certain chapel built|Sixtus

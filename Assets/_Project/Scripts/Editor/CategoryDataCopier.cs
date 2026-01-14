@@ -1,18 +1,36 @@
 using UnityEditor;
+using UnityEditor.Build;
+using UnityEditor.Build.Reporting;
 using UnityEngine;
 using System.IO;
 
 namespace Cerebrum.Editor
 {
-    public class CategoryDataCopier : MonoBehaviour
+    public class CategoryDataCopier : IPreprocessBuildWithReport
     {
         private const string SOURCE_FOLDER = "Assets/_Project/Data/Categories";
         private const string SOURCE_INDEX = "Assets/_Project/Data/category_index.txt";
-        private const string DEST_FOLDER = "Assets/_Project/Resources/Categories";
+        private const string STREAMING_ASSETS = "Assets/StreamingAssets";
+        private const string DEST_FOLDER = "Assets/StreamingAssets/Categories";
 
-        [MenuItem("Cerebrum/Copy Categories to Resources")]
-        public static void CopyCategoriesToResources()
+        public int callbackOrder => 0;
+
+        // Automatically copy categories before build
+        public void OnPreprocessBuild(BuildReport report)
         {
+            Debug.Log("[CategoryDataCopier] Pre-build: Copying categories to StreamingAssets...");
+            CopyCategoriesToStreamingAssets();
+        }
+
+        [MenuItem("Cerebrum/Copy Categories to StreamingAssets")]
+        public static void CopyCategoriesToStreamingAssets()
+        {
+            // Create StreamingAssets folder if needed
+            if (!Directory.Exists(STREAMING_ASSETS))
+            {
+                Directory.CreateDirectory(STREAMING_ASSETS);
+            }
+
             // Create destination folder if needed
             if (!Directory.Exists(DEST_FOLDER))
             {
@@ -20,12 +38,12 @@ namespace Cerebrum.Editor
                 Debug.Log($"[CategoryDataCopier] Created folder: {DEST_FOLDER}");
             }
 
-            // Copy index file (remove .txt extension for Resources.Load)
+            // Copy index file to StreamingAssets root
             if (File.Exists(SOURCE_INDEX))
             {
-                string destIndex = Path.Combine(DEST_FOLDER, "category_index.txt");
+                string destIndex = Path.Combine(STREAMING_ASSETS, "category_index.txt");
                 File.Copy(SOURCE_INDEX, destIndex, true);
-                Debug.Log($"[CategoryDataCopier] Copied index file");
+                Debug.Log($"[CategoryDataCopier] Copied index file to StreamingAssets");
             }
             else
             {
@@ -52,11 +70,10 @@ namespace Cerebrum.Editor
             }
 
             AssetDatabase.Refresh();
-            Debug.Log($"[CategoryDataCopier] Copied {copied} category files to Resources");
-            EditorUtility.DisplayDialog("Complete", $"Copied {copied} category files to Resources/Categories.\n\nYou can now build the app with category data included.", "OK");
+            Debug.Log($"[CategoryDataCopier] Copied {copied} category files to StreamingAssets");
         }
 
-        [MenuItem("Cerebrum/Copy Categories to Resources", true)]
+        [MenuItem("Cerebrum/Copy Categories to StreamingAssets", true)]
         public static bool ValidateCopyCategories()
         {
             return Directory.Exists(SOURCE_FOLDER) && File.Exists(SOURCE_INDEX);

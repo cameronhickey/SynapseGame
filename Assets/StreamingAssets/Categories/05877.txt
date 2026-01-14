@@ -1,0 +1,6 @@
+CHEMICAL ELEMENTS GO POSTAL
+200|The chemical symbol for cobalt is the U.S. postal abbreviation for this state|Colorado (CO)
+400|It's no scandal that scandium's symbol is the postal abbreviation for this "Palmetto State\"|South Carolina (SC)
+600|A Cornhusker chemist might know the symbol of this gas matches the abbreviation of his state|Neon (NE/Nebraska)
+800|The postal abbreviation of the "Golden State" is the symbol of this common element|Calcium (CA/California)
+1000|This "Flickertail State" shares its postal abbreviation with the chemical symbol for neodymium|North Dakota (ND)

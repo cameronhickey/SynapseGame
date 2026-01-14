@@ -1,0 +1,6 @@
+SUIT UP
+200|Without the pressurized interior of this suit, AKA an EMU, your blood would boil in a vacuum|a spacesuit
+400|The average weight of a full suit of this in the 15th century was 65 pounds|a suit of armor
+600|Wearing this is a synonym for being naked|your birthday suit
+800|This London suit is so identified with fine men's tailoring that the Japanese word for a business suit is sabiro|Savile Row
+1000|A combination of trendy broad-shouldered jackets with balloon-leg trousers worn in the 1940s|a zoot suit

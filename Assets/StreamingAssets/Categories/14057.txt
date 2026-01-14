@@ -1,0 +1,6 @@
+LEAD OR NO LEAD
+200|In 1996 the Environmental Protection Agency completed its 25-year phase-out of lead in this|gasoline
+400|To protect children, in 1977 the government banned the use of lead in this substance on walls in the home|paint
+600|There's no lead in a typical No. 2 pencil, just this mineral also known as plumbago|graphite
+800|In 2004 this Santa Clara, Calif. chip giant began shipping 95% lead-free microprocessor packages|Intel
+1000|The ancient Romans used a lead-based type of this tin alloy for tableware; not a good idea|pewter

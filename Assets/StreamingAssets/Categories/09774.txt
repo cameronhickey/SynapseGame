@@ -1,0 +1,6 @@
+\"SMOKE\"
+200|A building used for curing meat|a smokehouse
+400|Lox|smoked salmon
+600|Industrial chimney attached to a factory|a smokestack
+800|Proverbial location where political deals are struck away from the eyes of the public|a smoke-filled room
+1000|A parachuting firefighter|a smoke jumper

@@ -1,0 +1,6 @@
+COMPUTING
+200|In 2004 a U.S. law named in part for this type of unwelcome e-mail took effect to prohibit deceptive subject lines|spam
+400|A set of operating rules for computer information exchange; it can also mean proper diplomatic etiquette|protocol
+600|I'm sorry, contestants, it was the name of the murderous computer in "2001: A Space Odyssey\"|HAL
+800|In 1961 Les Earnest created the first program of this type, now a word processing tool, & yes, computer, his name is Les with 1 S|a spell check
+1000|WinZip is a popular tool for doing this, reducing file size to store or transfer more data|compressing

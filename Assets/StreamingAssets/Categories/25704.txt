@@ -1,0 +1,6 @@
+FROM A TO Z
+200|This synonym for "vibrant" perfectly describes an active hornet nest|abuzz
+400|In a dessert, it's paired with "leche\"|arroz
+600|Jamiroquai passes the litmus test for this type of music that infuses funk & hip-hop with another genre|acid jazz
+800|Once home to a Civil War fortress & now a bird sanctuary, it's located in San Francisco Bay|Alcatraz
+1000|A train station in Paris' 13th Arrondissement bears the name of this 1805 battle won by Napoleon|Austerlitz

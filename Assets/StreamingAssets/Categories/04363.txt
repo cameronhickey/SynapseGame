@@ -1,0 +1,6 @@
+SCI.
+200|This object in a spectrometer spreads a beam of light into separate colors|Prism
+400|The part of a tree from which quinine & aspirin's salicyclic acid are extracted|Bark
+600|Crowbars, nutcrackers & ice tongs are different types of this simple machine|Lever
+800|This order of mammals is divided into prosimians & anthropoids|Primates
+1000|In a chemical process, monomers, small molecules, link in chains to form these large molecules|Polymers

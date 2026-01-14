@@ -1,0 +1,6 @@
+THE RULES OF THE GAME
+200|In chess, the player of these pieces makes the first move|White
+400|You win if you pocket the 8-ball on this first shot of the game|the break
+600|If you decide not to take a chance & attack with your armies in this Hasbro game, you pass the dice to your left|Risk
+800|\"Polish" this is played on a 100-square board, & pieces may move backwards to capture|checkers
+1000|In this board game from India, a piece occupying your opponent's safety space cannot be captured|Parcheesi

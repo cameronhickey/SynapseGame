@@ -1,0 +1,6 @@
+4-LETTER BODY PARTS
+200|Your tresses, your locks, your mop|hair
+400|It's what you "jump out of" when you're frightened|your skin
+600|It's a blood vessel that carries blood to the heart|a vein
+800|1 of the 5 parts of your eyeball that fit the category|the iris (or lens, cone, rods, or uvea)
+1000|With a cleft in it to allow room for the heart, your left one only has 2 lobes instead of 3 like the right|lung

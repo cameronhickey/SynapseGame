@@ -1,0 +1,6 @@
+CITIES BY LANDMARK
+200|Graceland, Presidents Island|Memphis
+400|The Museum of Flight at Boeing Field, The Pacific Science Center|Seattle
+600|The Joe Louis Fist, The Dossin Great Lakes Museum|Detroit
+800|Audubon Park, Jean Lafitte National Historic Park|New Orleans
+1000|Centennial Olympic Park, Woodruff Arts Center|Atlanta

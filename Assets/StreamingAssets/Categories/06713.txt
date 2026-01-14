@@ -1,0 +1,6 @@
+LIFE ON THE FARM
+200|Layer of soil just above the subsoil|topsoil
+400|A cover crop isn't an FBI plant, it's there to prevent this|erosion
+600|5-letter term for a bound bundle of wheat|sheaf
+800|It's the term for an animal, like a horse, whose selective service is to pull a plow or a wagon|draft
+1000|Fruit farmers "smudge" their trees to protect them from this|frost

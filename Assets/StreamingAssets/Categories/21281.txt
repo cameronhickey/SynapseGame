@@ -1,0 +1,6 @@
+IT'S A "DATE\"
+200|To calm someone by giving him a drug|sedate
+400|To coerce someone into an action by threats|to intimidate
+600|To flood an area, or to overwhelm someone with information|inundate
+800|The authority of an elected official to do the things she promised to do before an election|a mandate
+1000|Shall I do this? Make something easier to understand|elucidate

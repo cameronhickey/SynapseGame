@@ -1,0 +1,6 @@
+\"D.C.\"
+200|This Dickens character is the first full name mentioned in J.D. Salinger's "Catcher in the Rye\"|David Copperfield
+400|You can find Boot Hill Museum on Wyatt Earp Blvd. in this Kansas community|Dodge City
+600|In terms of electricity, it flows steadily in one direction|direct current
+800|This team plays its home games in Texas Stadium|Dallas Cowboys
+1000|In Britain, it's an odds-on favourite wager; in U.S., it's... a deceased breath mint|a dead cert

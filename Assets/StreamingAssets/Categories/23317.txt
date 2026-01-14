@@ -1,0 +1,6 @@
+INVESTING TERMS
+200|Watery term for the ability to convert an asset into cash quickly|liquidity
+400|It's the trashy name given to high-risk, high-yield bonds with a credit rating of BB or less|junk bonds
+600|They're chunks of a company's profits paid to shareholders, typically quarterly|dividends
+800|It's the commission or sales fee you pay when buying shares; some mutual funds are "no"-it|load
+1000|Latin for "distant view", it's a document outlining an investment offering's risks & objectives|prospectus

@@ -1,0 +1,6 @@
+\"R" MOVIES
+200|The 1968 film in which Mia Farrow discovers she has a bun in the coven|Rosemary's Baby
+400|Winona Ryder, Ethan Hawke & Ben Stiller form a romantic triangle in this 1994 Stiller directed|Reality Bites
+600|Detroit is the city protected by this title character; some might have called the performance robotic|RoboCop
+800|1991 movie in which Harrison Ford as lawyer Henry Turner becomes a better person after he's shot in the head|Regarding Henry
+1000|The final film in Krzysztof Kieslowski's trilogy that began with "Blue" & "White\"|Red

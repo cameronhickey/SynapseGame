@@ -1,0 +1,6 @@
+DOUBLE "B\"
+200|Careless, hurried writing|scribbling
+400|Pieces of rock used in masonry, or Fred Flintstone's buddy Barney|rubble
+600|Score is kept in this card game by inserting small pegs into holes|cribbage
+800|A dagger is kept in it|a scabbard
+1000|From the Aramaic for "my father", he's the superior of a monastery|an abbot

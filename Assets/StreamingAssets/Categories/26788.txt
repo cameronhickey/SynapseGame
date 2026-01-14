@@ -1,0 +1,6 @@
+ILLINOISIANS
+200|The only president born in Illinois|Ronald Reagan
+400|This 1st president of NOW was born Betty Goldstein in Peoria|Betty Friedan
+600|This 3-time presidential candidate was born in Illinois but died in Tennessee after the Scopes trial|William Jennings Bryan
+800|This comedian was born in Chicago though his mother spent the 9 months she carried him in Waukegan|Jack Benny
+1000|We don't know where he wrote "The Martian Chronicles", but we know he was born in Waukegan|Ray Bradbury

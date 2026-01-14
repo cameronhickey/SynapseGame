@@ -1,0 +1,6 @@
+CANADIAN CITIES
+200|The Royal Ontario Museum in this city is Canada's largest public museum|Toronto
+400|Left over from the 1976 Olympics, this city's velodrome is now an environmental museum|Montreal
+600|The best place to get an overview of this capital is from the Peace Tower on Wellington Street|Ottawa
+800|Much of this capital of Nova Scotia was flattened in a munitions explosion during WWI|Halifax
+1000|A 5-ton statue called "Golden Boy" tops the Manitoba capitol in this city|Winnipeg

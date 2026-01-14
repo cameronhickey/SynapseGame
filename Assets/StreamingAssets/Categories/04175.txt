@@ -1,0 +1,6 @@
+SPELL THE LAST NAME
+200|French emperor Napoleon (I)...|B-O-N-A-P-A-R-T-E
+400|Indian prime minister Indira...|G-A-N-D-H-I
+600|Czech-born retired tennis star Martina...|N-A-V-R-A-T-I-L-O-V-A
+800|Florentine author of "The Prince" Niccolo...|M-A-C-H-I-A-V-E-L-L-I
+1000|\"Finlandia" composer Jean...|S-I-B-E-L-I-U-S

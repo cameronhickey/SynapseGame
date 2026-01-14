@@ -1,0 +1,6 @@
+SEA CREATURES
+200|This relative of the octopus is sometimes called a sea arrow|a squid
+400|The 2 parts of this "giant" bivalve's shell often weigh as much as 500 pounds|the giant clam
+600|Like abalone, the shell of the chambered nautilus is lined with this|mother-of-pearl
+800|The American species of this crustacean is classified as Homarus Americanus|lobster
+1000|This primitive fish was believed extinct until caught off the African coast in 1938|coelacanth

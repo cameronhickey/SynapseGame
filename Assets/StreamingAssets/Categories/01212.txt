@@ -1,0 +1,6 @@
+ACTORS PLAYING AUTHORS
+200|This was Frank Langella's stage role in "A Cry of Players"; Anne Bancroft played Anne Hathaway|Shakespeare
+400|Helen Hayes played this renowned antislavery novelist in a 1943 play|Harriet Beecher Stowe
+600|Sydney Greenstreet appeared as Thackeray in "Devotion", a 1946 film about these British literary sisters|the Brontes
+800|Glenda Jackson portrayed this British poet onstage & on film in "Stevie\"|Stevie Smith
+1000|John Carradine played this author of "The Outcasts of Poker Flat" in a 1944 film about Mark Twain|Bret Harte

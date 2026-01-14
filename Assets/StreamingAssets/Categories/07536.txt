@@ -1,0 +1,6 @@
+THE LIQUOR CABINET
+200|This corn whiskey was named for a county in Kentucky|bourbon
+400|Martell & Remy Martin are makers of this fine French brandy named for a town|Cognac
+600|When called this, quinine water pairs up with gin in a famous drink|tonic
+800|This top brandy from the Charente region of France is a blend that's distilled twice|cognac
+1000|Sercial is a madeira used as an aperitif & bual is one used as this type|digestif (after-dinner accepted)

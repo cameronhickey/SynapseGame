@@ -1,0 +1,6 @@
+EASY AS "A-B-C\"
+200|The state of being away; you might take a "leave of" one|absence
+400|Oxygenated endurance exercises that promote cardiovascular fitness|aerobic
+600|Tasty tuna type|albacore
+800|A plentiful or overflowing quantity or supply|abundance
+1000|Another word for a kidnapping, perhaps from a seraglio|abduction

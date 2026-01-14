@@ -1,0 +1,6 @@
+\"EEL" OF FORTUNE
+200|Fruit skin|peel
+400|Bread end|heel
+600|Boat bottom|keel
+800|Fishing line holder|reel
+1000|Iron alloy|steel

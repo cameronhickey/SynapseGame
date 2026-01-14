@@ -1,0 +1,6 @@
+STATE OBJECTS
+200|If things pan out, you'l discover this is the state mineral of Alaska|gold
+400|This being North Carolina's precious stone may turn other states green with envy|the emerald
+600|The commonwealth beverage of Massachusetts, you can sip it in the ocean spray at Cape Cod|cranberry juice
+800|This Revolutionary War spy was made state hero of Connecticut in 1985|Nathan Hale
+1000|The beignet, featured at New Orleans' Cafe Du Monde, is this state object of Louisiana|a doughnut

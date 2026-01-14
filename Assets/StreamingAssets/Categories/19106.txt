@@ -1,0 +1,6 @@
+ON THIS CONTINENT
+200|The former country Abyssinia|Africa
+400|The state of Paraiba|South America
+600|Mesa Verde, explored by Gustaf Nordenskiold|North America
+800|The city of Timisoara|Europe
+1000|The Republic of Tannu-Tuva, now Tyva|Asia

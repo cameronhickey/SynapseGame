@@ -1,0 +1,6 @@
+JUST DEAL!
+200|Contract & auction are types of this card game|bridge
+400|Klondike is a type of this card game also called patience|solitaire
+600|The 3 initial community cards that are dealt in Texas Hold 'Em are called this, though they're not always a fiasco|the flop
+800|Originating in Uruguay, this rummy-like card game means "basket" in Spanish|canasta
+1000|The croupier deals the cards in this casino game whose French name means "railroad", referring to the speed of the game|chemin-de-fer

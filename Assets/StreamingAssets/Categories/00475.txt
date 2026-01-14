@@ -1,0 +1,6 @@
+PLANTS
+200|The flat, red parts of a poinsettia are these, not petals|leaves
+400|To feature this color in your garden, plant ladybells, sage & cornflowers|blue
+600|This flowery vine was named after American physician Caspar Wistar|Wisteria
+800|In the Malaysian jungle, this ficus can grow 100 feet tall; let's see an ant move that|a rubber tree
+1000|The Calvin cycle in this process turns carbon dioxide into carbohydrates|photosynthesis

@@ -1,0 +1,6 @@
+\"SING" & "DANCE\"
+200|This classic continues, "Come on with the rain, I've a smile on my face\"|\"Singin' in the Rain\"
+400|In a Lerner & Loewe song, this title lyric is followed by "And still have begged for more\"|\"I Could Have Danced All Night\"
+600|In 1973 the Carpenters asked listeners to do this, "Make it simple to last your whole life long\"|\"Sing\"
+800|This Rodgers & Hammerstein song asks, "On a bright cloud of music shall we fly?\"|\"Shall We Dance\"
+1000|Ironically, Fred & Ginger sang this song in the 1935 movie "Roberta\"|\"I Won't Dance\"

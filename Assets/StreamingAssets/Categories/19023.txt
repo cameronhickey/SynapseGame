@@ -1,0 +1,6 @@
+WHAT'S IN YOUR SUPERMARKET CART?
+200|Red Baron Brick Oven|frozen pizza
+400|Wish-Bone Deluxe French|salad dressing
+600|An 8-pack of Brawny|paper towels
+800|Rayovac Fusion|batteries
+1000|Beech-Nut Stage 2|baby food

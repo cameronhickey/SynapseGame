@@ -1,0 +1,6 @@
+SEC & THE CITY
+200|University of Florida: thisville|Gainesville
+400|University of Tennessee: thisville|Knoxville
+600|University of Arkansas: thisville|Fayetteville
+800|University of Mississippi: this city|Oxford
+1000|University of Missouri: this city|Columbia

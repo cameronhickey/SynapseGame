@@ -1,0 +1,6 @@
+PHONY EXPRESS
+200|The term "con man" is short for this|Confidence man
+400|It's not Au, it's FeS|fool's gold (iron pyrite)
+600|Posing as Arabs with lots of cash, the FBI caught 7 members of Congress in this 1970s sting operation|Abscam
+800|He served time for fraud after writing a fake Howard Hughes biography|Clifford Irving
+1000|Dummkopfs! This German newsmagazine paid millions for forged diaries of Adolf Hitler in 1983|Stern

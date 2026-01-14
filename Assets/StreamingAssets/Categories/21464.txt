@@ -1,0 +1,6 @@
+\"ONICS\"
+200|It means learning to read by recognizing letters & putting them together to understand words|phonics
+400|They moved to become the Oklahoma City Thunder|the Seattle Supersonics
+600|It's another word for "amateur dramatics"—sarcastic or not|histrionics
+800|This is the trendier term for aquaculture or tank farming|hydroponics
+1000|The black box is part of this system on a plane|avionics

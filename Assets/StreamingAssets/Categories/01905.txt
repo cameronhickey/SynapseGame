@@ -1,0 +1,6 @@
+ABBREV.
+200|This letter can be used as an abbreviation for Christ or a kiss|X
+400|FKA is an abbreviation for this, as in the artist fka Prince|formerly known as
+600|In the president's cabinet: HUD|Housing and Urban Development
+800|At the top of a corporation: CEO|chief executive officer
+1000|To a banker: FDIC|Federal Deposit Insurance Corporation

@@ -1,0 +1,6 @@
+FAMOUS PHILOSOPHERS
+200|This Greek thinker known for his "method" apparently supported himself as a stonecarver|Socrates
+400|This 17th century Frenchman is considered the founder of modern philosophy|(René) Descartes
+600|In 1963 this existentialist published his autobiography, "The Words\"|Jean-Paul Sartre
+800|He served as a teacher in Concord, Mass. & as a tutor of Emerson's brother's children|Thoreau
+1000|This "Critique of Pure Reason" author taught at Konigsberg University for over 40 years|Immanuel Kant

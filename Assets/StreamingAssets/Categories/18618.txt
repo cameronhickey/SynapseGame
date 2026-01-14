@@ -1,0 +1,6 @@
+CITY NEIGHBORHOODS
+200|Fenway/Kenmore, Roslindale|Boston
+400|The Vieux Carre, Treme|New Orleans
+600|Little Havana, Coconut Grove|Miami
+800|Astoria, Bensonhurst|New York City
+1000|The Castro, The Haight|San Francisco

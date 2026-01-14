@@ -1,0 +1,6 @@
+LATIN PREFIXES
+200|Contra-|against
+400|Circum-|around
+600|Ambi- (when preceding -dextrous)|both
+800|Intra-|within
+1000|Infra-|below

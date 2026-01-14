@@ -1,0 +1,6 @@
+FAMOUS TREATIES
+200|It ended the Revolutionary War (1783)|the Treaty of Paris
+400|It ended the French & Indian War (1763)|the Treaty of Paris
+600|It ended the Spanish-American War (1898)|the Treaty of Paris
+800|It ended the Napoleonic Wars (1815)|the Treaty of Paris
+1000|It ended World War I (1919)|the Treaty of Versailles

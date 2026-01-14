@@ -1,0 +1,6 @@
+COMPUTER TERMS
+200|When you've got too much data for just 1 of these, try RAID, short for a "redundant array of inexpensive" ones|disks
+400|It mean any computer used by an individual, or an IBM-type machine as opposed to a Mac|PC
+600|The ROM of your computer's CD-ROM stands for this|read-only memory
+800|This unit equals about 1,000 megabytes or about half a million pages of text|gigabyte
+1000|On a monitor, 1280 x 1024 pixels is called "native" this, the degree of detail & sharpness|resolution

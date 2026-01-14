@@ -1,0 +1,6 @@
+MILITARY INSTALLATIONS BY STATE
+200|Fort Campbell, Fort Knox|Kentucky
+400|Fort Hood, Naval Air Station Corpus Christi|Texas
+600|Fort Bragg, Camp Lejeune|North Carolina
+800|Fort McPherson, Robins Air Force Base|Georgia
+1000|Fort Monmouth, Fort Dix|New Jersey

@@ -1,0 +1,6 @@
+FOOD IN SPANISH
+200|A fruit or a color: naranja|orange
+400|Got it?: leche|milk
+600|It's good in a quesadilla: queso|cheese
+800|A lunch meat: jamon|ham
+1000|A basic pair: pan y mantequilla|bread & butter

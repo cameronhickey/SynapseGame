@@ -1,0 +1,6 @@
+EAT IT, WEAR IT OR PLAY IT
+200|Pinochle|play it
+400|Prosciutto|eat it
+600|Mahjong|play it
+800|Mantilla|wear it
+1000|Petits pois|eat it

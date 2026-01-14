@@ -1,0 +1,6 @@
+CENTURY CITY
+200|In 1800 the prestigious Royal College of Surgeons was chartered in this city|London
+400|Following the defeat of his rivals in 1600, Ieyasu moved his capital from Kyoto to this city|Tokyo
+600|The world exposition held in this European capital in 1900 attracted over 40 million visiteurs|Paris
+800|Following the success of the first Crusade, Baldwin I was crowned king of this city in 1100|Jerusalem
+1000|In 1500 Lodovico Sforza recaptured this northern Italian capital of the Lombardy region|Milan

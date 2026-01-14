@@ -1,0 +1,6 @@
+PASTIMES
+200|It's the art of making rugs or textiles on a loom|weaving
+400|Rollerblading is properly referred to as this type of skating|inline skating
+600|The first modern one of these was published Dec. 21, 1913 in the New York World's Sunday Supplement|crossword puzzle
+800|The FCC assigns call signs, like N8DNR, to use in this hobby|ham radio
+1000|This basic knitting stitch is drawn through the back of the preceding loop|purl

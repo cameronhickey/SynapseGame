@@ -1,0 +1,6 @@
+CLOSE CAPITALS
+200|The Gulf of Finland causes a 50-mile gap between Tallinn & this capital of Finland|Helsinki
+400|It's about a 50-mile jaunt from Damascus, Syria to this Lebanese capital|Beirut
+600|It's a mere 2 miles from Kinshasa to Brazzaville, but there is no bridge joining them across this river—yet|the Congo
+800|A ferry service runs between Buenos Aires & this nearby capital of Uruguay|Montevideo
+1000|It's about 140 miles from Rome to the capital of this serene republic that is surrounded by Italy|San Marino

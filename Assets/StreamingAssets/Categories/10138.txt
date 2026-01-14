@@ -1,0 +1,6 @@
+NAME THAT TUNE
+200|The Bee Gees: "Well you can tell by the way I use my walk, I'm a woman's man, no time to talk\"|\"Stayin' Alive\"
+400|The Beach Boys: "Well East Coast girls are hip, I really dig those styles they wear\"|\"California Girls\"
+600|The Eagles: "And she said, 'We are just prisoners here, of our own device'\"|\"Hotel California\"
+800|C.W. McCall: "We's headin' for bear on eye-one-oh, 'bout a mile outta Shakeytown, I says 'Pigpen, this here's Rubber Duck'\"|\"Convoy\"
+1000|The B-52's: "I got me a car, it's as big as a whale... and it's about to set sail!\"|\"Love Shack\"

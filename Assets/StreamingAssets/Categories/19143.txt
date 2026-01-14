@@ -1,0 +1,6 @@
+WITH FOAM
+200|High winds stir up a lot of foam on the coast north of Brisbane, Queensland, this country|Australia
+400|To preserve the coral reefs of this sea, Israel, Egypt & Jordan have designated protected areas|the Red Sea
+600|The westernmost point of this sea is in a bay on the coast of Belize|the Caribbean Sea
+800|Features on the floor of this ocean include the Makarov & Amundsen Basins|the Arctic Ocean
+1000|This sea just to the east of Italy is named for a once-flourishing port|the Adriatic Sea

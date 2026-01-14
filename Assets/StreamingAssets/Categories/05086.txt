@@ -1,0 +1,6 @@
+3-LETTER ANIMALS
+200|The red species of this canine eats 'most anything, except perhaps sour grapes|Fox
+400|In ancient times this killer cobra was used to execute criminals|Asp
+600|Also known as an Egyptian cobra|an asp
+800|Equine beast of burden|an ass
+1000|It's an alternate name for the swift fox but is also used for any baby fox|kit

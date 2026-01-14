@@ -1,0 +1,6 @@
+THE SUEZ CANAL
+200|The northern terminus of the canal is Port Said on this sea|the Mediterranean
+400|Unlike the Panama Canal, the Suez Canal has none of these raising or lowering devices|locks
+600|The canal separates most of Egypt from this peninsula on its east bank|the Sinai Peninsula
+800|In 1956 the government of this Egyptian president nationalized the canal|Nasser
+1000|In the 1850s this Frenchman obtained rights to build the canal from the khedive of Egypt|Ferdinand de Lesseps

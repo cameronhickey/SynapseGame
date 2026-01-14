@@ -1,0 +1,6 @@
+A STATE OF WAR
+200|The Battle of Germantown, 1777|Pennsylvania
+400|The Battle of Stones River, aka the Battle of Murfreesboro, 1862-63|Tennessee
+600|The Battle of White Plains, 1776|New York
+800|The Battle of Chancellorsville, 1863|Virginia
+1000|The Battle of San Patricio, 1836|Texas

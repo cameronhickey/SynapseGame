@@ -1,0 +1,6 @@
+QUOTH THE RAVEN?
+200|What word to follow? This ship from a Gilbert & Sullivan operetta, minus the H.M.S., of course, quoth the raven...|Pinafore
+400|I've got it! Hamlet's dad's castle wherein he was rottenly killed by Claudius; quoth the raven...|Elsinore
+600|This island city-state at the tip of the Malay Peninsula sounds almost right; quoth the raven...|Singapore
+800|Why not this defunct title for a commissioned naval officer above Captain & Rear Admiral; quoth the raven...|Commodore
+1000|The birds in a song "Dream A Little Dream Of Me" sing in one of these trees, but would our bird? Quoth the raven...|sycamore

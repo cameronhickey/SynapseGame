@@ -1,0 +1,6 @@
+\'TWAS THE NIGHT BEFORE CHRISTMAS
+200|The poem refers to these as coursers, calling them by name|reindeer
+400|Though generally known as "'Twas the Night Before Christmas", this is the poem's proper title|\"A Visit from Saint Nicholas\"
+600|St. Nick "had a broad face and a little round belly that shook, when he laughed, like" this|a bowl full of jelly
+800|The poem calls St. Nick "chubby and plump" & "a right jolly old" one of these|an elf
+1000|It's the sound the poem's narrator heard "out on the lawn" that caused him to spring out of bed|a clatter

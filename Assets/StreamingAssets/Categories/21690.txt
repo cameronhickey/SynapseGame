@@ -1,0 +1,6 @@
+AND A BOOK
+200|This author introduced the Pevensie children in "The Lion, the Witch and the Wardrobe\"|C.S. Lewis
+400|Edward Gibbon's "The Decline and Fall of" this entity covers more than 1,000 years of history|the Roman Empire
+600|Somerset Maugham's "The Moon and Sixpence", about a man who heads to Tahiti to paint, is based on the life of this man|Paul Gauguin
+800|Dale Carnegie's 1936 self-help book teaches you "How to" do these 2 title things|win friends and influence people
+1000|His 1913 novel "Sons and Lovers" was daring but not banned like a later work|D.H. Lawrence

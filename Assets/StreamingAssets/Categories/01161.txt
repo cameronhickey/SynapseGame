@@ -1,0 +1,6 @@
+LOST TIME
+200|On Oct. 31, 1993, at 2 A.M., all Amtrak trains stopped for this length of time|one hour
+400|Amount of time Rip Van Winkle lost while asleep on the mountain|20 years
+600|Kwajalein in the Marshall Islands skipped Aug. 21, 1993 when it moved from one side of this line to the other|the International Date Line
+800|The Grimms' Sleeping Beauty, Briar-Rose, was 15 when she went to sleep which made her this old when she awoke|115
+1000|The Proust title that literally translates to "In Search of Lost Time" is known as this in English|Remembrance of Things Past

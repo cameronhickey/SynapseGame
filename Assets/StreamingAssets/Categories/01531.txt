@@ -1,0 +1,6 @@
+HERBS
+200|Domestic felines are strongly attracted to this herb, nepeta cataria|catnip
+400|Sweet cicely is also known by this name, the third gift of the magi|myrrh
+600|Planting spearmint or peppermint near your roses will deter these pests also called greenflies|aphids
+800|Bergamot was named for its scent's resemblance to the Bergamot type of this fruit|an orange
+1000|This herb native to the Mediterranean is said to aid the memory & serves as an emblem of fidelity|rosemary

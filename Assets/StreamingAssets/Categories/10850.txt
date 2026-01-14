@@ -1,0 +1,6 @@
+SYMBOLOGY
+200|In dentistry charts, the letter "M" symbolizes this major tooth type|molar
+400|The 2 major American political parties are represented by these 2 beastly symbols|the elephant and the donkey
+600|Never exit your domicile without one of this company's products|American Express
+800|Stay in touch with this global communications giant|Motorola
+1000|Use your organ to name this leading organ & synthesizer firm|Roland

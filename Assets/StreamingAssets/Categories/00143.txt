@@ -1,0 +1,6 @@
+ASTROLOGY
+200|From Greek meaning "to look at the hour", it's your birth chart|a horoscope
+400|Number of signs in the zodiac|12
+600|The sign America was born under|Cancer
+800|Sign that shares name with Hitchcock film & torrid "tropic\"|Capricorn
+1000|Only soldier given full-time duty as astrologer during WWII|Sydney Omarr

@@ -1,0 +1,6 @@
+RANDOM HOUSES
+200|One can hold hunters, caretakers or beavers|lodge
+400|Often having a veranda, this single-storied, gable-roofed cozy little house is "of Bengal\"|bungalow
+600|A small house by the lake known for its "cheese" or "industry\"|cottage
+800|From the name of a hill in Rome, it's an official residence of a ruler or archbishop|palace
+1000|John Patrick's post-WWII comedy was this "of the August Moon\"|Teahouse

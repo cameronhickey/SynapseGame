@@ -1,0 +1,6 @@
+STATE CAPITAL BIRTHPLACES
+200|Surfer & Olympic swimmer Duke Kahanamoku|Honolulu
+400|Patriot & silversmith Paul Revere|Boston
+600|Bestselling author Margaret Mitchell|Atlanta
+800|Nobel Prize winner Martin Luther King, Jr.|Atlanta
+1000|Confederate Civil War general George Edward Pickett|Richmond

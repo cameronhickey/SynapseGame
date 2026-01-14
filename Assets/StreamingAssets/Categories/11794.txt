@@ -1,0 +1,6 @@
+SALMON
+200|\"Fish ladders" help salmon travel upstream over these man-made obstructions|dams
+400|World Book says this country leads the world in salmon fishing, with more than 450,000 tons caught each year|the United States
+600|The roe of the chum salmon is a popular source for the red variety of this|caviar
+800|Salmon are members of the same family as the speckled or brook variety of this fish|trout
+1000|Weighing up to 100 pounds, this large type of salmon shares its name with a warm, dry wind|chinook

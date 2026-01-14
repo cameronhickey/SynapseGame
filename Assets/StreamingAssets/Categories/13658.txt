@@ -1,0 +1,6 @@
+LAW & ORDER SUV
+200|The Chevy SUV named for this lake on the California-Nevada border comes in a police interceptor model|the Tahoe
+400|The Special Service Package version of this maker's Expedition SUV is designed for law enforcement agencies|Ford
+600|Havis Inc. makes adaptor kits (with bowls & water dishes) for SUVs used by these alphanumeric police units|K-9 units
+800|The U.S. Border Patrol has used the H1 & H2 models of this SUV line|Hummer
+1000|Some of this gov.'s odd comings & goings in June 2009 were in a South Carolina State Law Enforcement Division SUV|(Mark) Sanford

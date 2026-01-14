@@ -1,0 +1,6 @@
+AMERICAN COUNTIES
+200|All the letters in this state's name are found in the name of its Uintah County|Utah
+400|Ogemaw, Saginaw & Washtenaw are all counties in this state|Michigan
+600|Name shared by the counties in which you'll find Disneyland & Disney World|Orange (County)
+800|This state's Norfolk County disappeared in 1963 when it became part of the city of Chesapeake|Virginia
+1000|While many states have counties named Lincoln, this is the only state that has one named Snohomish|Washington

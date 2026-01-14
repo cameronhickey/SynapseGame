@@ -1,0 +1,6 @@
+LIKE AN ANIMAL
+200|Porcine|Pig
+400|Piscine|Fish
+600|Leonine|lion
+800|Lupine|wolf
+1000|Asinine|donkey/ass

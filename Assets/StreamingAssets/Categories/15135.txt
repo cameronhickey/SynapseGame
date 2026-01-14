@@ -1,0 +1,6 @@
+ABBREVIATED NO. 1 HITS
+200|Whitney Houston, 1992: "I.W.A.L.Y.\"|\"I Will Always Love You\"
+400|Glen Campbell, 1975: "R.C.\"|\"Rhinestone Cowboy\"
+600|The Byrds, 1965: "T! T! T!\"|\"Turn! Turn! Turn!\"
+800|Gwen Stefani, 2005: "H.G.\"|\"Hollaback Girl\"
+1000|The Beatles, 1970: "T.L.A.W.R.\"|\"The Long And Winding Road\"

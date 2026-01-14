@@ -1,0 +1,6 @@
+BOND MOVIES BY INITIALS
+200|\"F.R.W.L.\"|From Russia With Love
+400|\"F.Y.E.O.\"|For Your Eyes Only
+600|\"O.H.M.S.S.\"|On Her Majesty's Secret Service
+800|\"T.S.W.L.M.\"|The Spy Who Loved Me
+1000|\"M.\"|Moonraker

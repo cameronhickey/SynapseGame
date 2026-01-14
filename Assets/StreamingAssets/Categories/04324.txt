@@ -1,0 +1,6 @@
+MEDICAL ABBREV.
+200|It can save someone's life: CPR|Cardiopulmonary resuscitation
+400|A type of managed care plan: HMO|Health maintenance organization
+600|It records brain waves: EEG|Electroencephalogram
+800|One who takes care of the sick: LPN|Licensed practical nurse
+1000|A vaccination: DPT|Diphtheria, pertussis & tetanus

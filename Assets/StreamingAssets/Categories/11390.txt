@@ -1,0 +1,6 @@
+I BEFORE E, AFTER C
+200|The major subdivision of a genus or subgenus|species
+400|There's a 3,200-square-mile one of these masses in Vatnajokull, Iceland|glacier
+600|Dating from a remote period of time (like the Hyksos, not the '80s!)|ancient
+800|It's a number placed before & multiplying another quantity, such as 5 in the expression 5x|coefficient
+1000|If you have unlimited knowledge or awareness, you're this|omniscient

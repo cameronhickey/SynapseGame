@@ -1,0 +1,6 @@
+IN THE STATE
+200|Passaic County|New Jersey
+400|Billings Logan International Airport|Montana
+600|Wilderness Trail Distillery|Kentucky
+800|Lake Coeur d'Alene|Idaho
+1000|Perry's Victory and International Peace Memorial|Ohio

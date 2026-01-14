@@ -1,0 +1,6 @@
+ADD A LETTER
+200|To turn maze into corn add this letter|I (for maize)
+400|...to a self-luminous celestial body to get this word that lets you peek at the body fixedly|stare/star
+600|Turn pizza into a public square by adding this letter|A (for piazza)
+800|...to a lingering sign of bodily injury & get this "terrifying" word|scare/scar
+1000|Add this one letter to -ology to get the zoology branch that studies birds' eggs|O (for oology)

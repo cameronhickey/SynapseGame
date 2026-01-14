@@ -1,0 +1,6 @@
+WORDS WITHIN WORDS
+200|Durer used his imagination to paint these 3 men|magi (in imagination)
+400|In Roget's, this 4-letter word is in the same category as designation|sign (in designation)
+600|I must have misheard—it sounded like you wanted me to do this to your sheep|shear (in misheard)
+800|To defame the players on the NHL's New York Islanders|slander (in Islanders)
+1000|It's the fear & unease a gangster might have about his criminal ways|angst (in gangster)

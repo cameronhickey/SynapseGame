@@ -1,0 +1,6 @@
+TRACK
+200|The "anchor" for this type of event is no dead weight; he's usually the team's fastest runner|Relay race
+400|This track star's authorized hats & T-shirts sold in Europe & Asia proclaim him to be "King Carl\"|Carl Lewis
+600|This 3,000-meter event consists of 28 3-foot-high hurdles & 7 12-foot-long water jumps|steeplechase
+800|On August 16, 1995 this country's Haile Gebrselassie set the world record in the 5,000-meter run at 12:44:39|Ethiopia
+1000|On June 1, 1997 Donovan Bailey defeated this sprinter in a special 150-meter match race to win $1.5 million|Michael Johnson

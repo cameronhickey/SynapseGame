@@ -1,0 +1,6 @@
+MAURICE, BARRY OR ROBIN
+200|Manilow & Diller|Barry
+400|Yount & Ventura|Robin
+600|Bejart & Sendak|Maurice
+800|Cook & Quivers|Robin
+1000|Maeterlinck & Ravel|Maurice

@@ -1,0 +1,6 @@
+STARTS & ENDS WITH "P\"
+200|It's a person's style of handwriting; a doctor's is stereotypically poor|penmanship
+400|At the 2018 Indy 500 Scott Dixon's crew won the challenge named for this break for service|pit stop
+600|Ogden Nash called this root vegetable "an anemic beet\"|a parsnip
+800|On a Vegas-set reality series, Rick Harrison buys, sells & appraises items of historical value in this kind of establishment|a pawn shop
+1000|The main building block of coral is this tiny organism|a polyp

@@ -1,0 +1,6 @@
+OF "DEN"MARK
+200|The woman who runs a small group in a Cub Scout troop|den mother
+400|They won back-to-back Super Bowls in 1998 & 1999|the Denver Broncos
+600|False teeth that might take a bite out of your wallet|dentures
+800|Sometimes expressed in grams per cubic centimeter, it's mass divided by volume|density
+1000|In English, the name of this 20,320-foot North American peak means "The Great One\"|Denali

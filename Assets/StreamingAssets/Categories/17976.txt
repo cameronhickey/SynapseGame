@@ -1,0 +1,6 @@
+ONLY ONE
+200|...was a Beatle: Django, Ringo, Waldo|Ringo
+400|...is a county in Florida: Lincoln, Suwannee, Crockett|Suwannee
+600|...is a weapon in the classic version of the board game Clue: spear, hammer, wrench|a wrench
+800|...borders Mexico: Belize, El Salvador, Honduras|Belize
+1000|...is a variety of snail: glider, sailfoot, ramshorn|ramshorn

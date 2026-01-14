@@ -1,0 +1,6 @@
+POST "AP"OCALYPSE
+200|\"So sorry\"|an apology
+400|A small, oval orange-yellow fruit, or its color|an apricot
+600|This French word describes a fabric design that is fastened to another piece of material|appliqué
+800|The name of this horse may derive from the name of a river in Idaho & Washington|Appaloosa
+1000|It begins, "I believe in God, the Father Almighty, maker of heaven & Earth, and in Jesus Christ, His only Son\"|the Apostle's Creed

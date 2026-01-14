@@ -1,0 +1,6 @@
+YOU BOT IT
+200|In 1961 the world's first production-line robot was used by this U.S. automaker|General Motors
+400|Started in 1997 to develop robotics & A.I., the Robocup features robots playing this competitive sport|soccer
+600|The humanoid robot Asimo performs some John Travolta dance moves in this Disneyland "land\"|Tomorrowland
+800|This toy company created Mindstorms for robots, with programmable bricks & sensors|Lego
+1000|For this robot vacuum, the company iRobot uses technology developed to clear minefields|Roomba

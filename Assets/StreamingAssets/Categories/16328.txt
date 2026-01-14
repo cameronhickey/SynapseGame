@@ -1,0 +1,6 @@
+MEASURED LANGUAGE
+200|Shakespeare: "Ay, every ____ a king \"|inch
+400|Tolstoy: "Pahom was dead... six ____ from his head to his heels was all he needed\"|feet
+600|George Patton: "A pint of sweat will save a ____ of blood\"|gallon
+800|Randall Jarrell: "Six ____ from earth, loosed from its dream of life, I woke to black flak and the nightmare fighters\"|miles
+1000|Nietzsche: "The Germans are like women, you can scarcely ever ____ their depths\"|fathom

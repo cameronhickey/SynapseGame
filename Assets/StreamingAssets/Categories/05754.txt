@@ -1,0 +1,6 @@
+THE METRIC EQUIVALENT
+200|0.621 miles|Kilometer
+400|0.035 ounces|Gram
+600|.3937 inches|Centimeter
+800|33.8 fluid ounces|Liter
+1000|2,204.62 pounds|Metric ton

@@ -1,0 +1,6 @@
+OBJECTS
+200|In the 1930s, with its top-loading model, Swingline revolutionized this device|a stapler
+400|Wimmer-Ferguson makes a toy for babies to bite on punningly called the "Brain" this|Teether
+600|A hacker called "Captain Crunch" found one of these, in a cereal box, whose tone could manipulate phone lines|a whistle
+800|I am your monarch, wearing my crown & raising my king-stick, I mean this|a scepter
+1000|Many car owners have this device with a spherical cap on one end & a sliding scale on the other|a tire pressure gauge

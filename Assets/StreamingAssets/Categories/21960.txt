@@ -1,0 +1,6 @@
+SONG & MOVIE: SAME TITLE
+200|Song: By Black Sabbath; Movie: Tony Stark weaponizes an armored suit|\"Iron Man\"
+400|Song: By U2; Movie: Heights make Jimmy Stewart dizzy|\"Vertigo\"
+600|Song: By Styx; Movie: About a sheep-herding pig|\"Babe\"
+800|Song: By The Cure; Movie: Hilary Swank played Teena Brandon, who became Brandon Teena|\"Boys Don't Cry\"
+1000|Song: By Cream; Movie: About the beer-loving McKenzie brothers from "SCTV\"|\"Strange Brew\"

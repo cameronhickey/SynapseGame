@@ -1,0 +1,6 @@
+THE "LL", "LL" YOU SAY!
+200|The reading of a list of names to check attendance in a classroom|roll call
+400|William G. Morgan invented this sport in 1895|volleyball
+600|It comes before "stimulating" when referring to work or conversation that wakes up your brain|intellectually
+800|This colorful variety of sapsucker of North America can migrate as far as the West Indies|the yellow-bellied
+1000|The double-talk name of this Washington city may come from a Native American word meaning "small rapid rivers\"|Walla Walla

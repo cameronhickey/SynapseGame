@@ -1,0 +1,6 @@
+MEDICAL ABBREVIATIONS
+200|After surgery a patient might be sent to ICU, which stands for this unit|the intensive care unit
+400|Diagnosis is abbreviated Dx & this forecast of the chances of recovery is abbreviated Px|prognosis
+600|These 3 body parts are combined under the abbreviation ENT|the ears, nose & throat
+800|CR, an abbreviation for this, might ring a bell with Pavlov, since he coined the term|conditioned response (or conditioned reflex)
+1000|b.i.d. on a medicine label indicates it should be taken this often|twice a day

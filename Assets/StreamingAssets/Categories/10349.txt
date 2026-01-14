@@ -1,0 +1,6 @@
+OUT WEST
+200|This state has state parks named for Curt Gowdy near Buford & Buffalo Bill near Cody|Wyoming
+400|At 1,149 feet, this city's Stratosphere Tower is the tallest structure west of the Mississippi|Las Vegas
+600|It's the USA's largest lake west of the Rockies|the Great Salt Lake
+800|This 2nd largest Arizona city is called "The Astronomy Capital of the World" due to the many telescopes located nearby|Tucson
+1000|Named for a British admiral, this inactive volcano in the Cascades last erupted in 1865|Hood

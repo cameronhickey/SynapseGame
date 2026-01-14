@@ -1,0 +1,6 @@
+BALTIMORE
+200|The city is named for the Lords Baltimore who established this colony|Maryland
+400|4 adjoining homes, including the one where Babe Ruth was born, are now a museum for this sports team|the Orioles
+600|The battle monument on Baltimore's flag honors the men who defended the city during this war|the War of 1812
+800|H.L. Mencken was long associated with this newspaper as Baltimore's major daily|the Baltimore Sun
+1000|This private institution has the oldest U.S. university press in continuous operation, founded in 1878|Johns Hopkins

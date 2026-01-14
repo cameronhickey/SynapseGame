@@ -1,0 +1,6 @@
+BUSINESS & ECONOMICS
+200|The opposite of an economic "bust", it's a period of swift economic growth|a boom
+400|From the Latin meaning "yearly", it's an investment or retirement fund that pays out yearly|an annuity
+600|In real estate, it's the value of a property beyond the amount owed in mortgages|the equity
+800|Type of federal tax that's levied mainly on alcohol, tobacco & gasoline|an excise tax
+1000|This "law" says after a certain point, increased input will not result in meaningfully increased output|law of diminishing return

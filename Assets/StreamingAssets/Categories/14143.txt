@@ -1,0 +1,6 @@
+FARMVILLE
+200|On a farm who needs an alarm clock when you have this bird's cock-a-doodle-doo to wake you?|a rooster
+400|It's a 4-letter wired cage or enclosure for chickens, though they may wish to fly it & go free|a coop
+600|Hey! usually the hay you use on a farm is tightly compressed in this 4-letter bundle|a bale
+800|It's the time when ripened crops are gathered, or the yield of crops themselves.|harvest
+1000|Important breeds of this on a farm include the brown Swiss & Holstein|cows

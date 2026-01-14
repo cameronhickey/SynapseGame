@@ -1,0 +1,6 @@
+IRREGULAR VERBS
+200|For the past tense of "dream", you have your choice of "dreamt" or this regular form|dreamed
+400|Of "hurt", "spurt" or "blurt", the one that stays the same in the past tense|Hurt
+600|This letter hides when "hide" is conjugated in the past tense|E
+800|If you used "brung" in one of your essays, replace it with this word|Brought
+1000|This verb is so irregular, it has 8 different verb forms (one form is in this clue, twice)|To be

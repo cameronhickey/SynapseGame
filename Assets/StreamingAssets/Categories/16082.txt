@@ -1,0 +1,6 @@
+STARTS WITH "GH\"
+200|One who pens a book but lets the official credit of authorship go to another|a ghostwriter
+400|You're in this small pickle now|a gherkin
+600|A thickly populated slum section of a city|a ghetto
+800|This adjective meaning "horrible" rhymes with the singer of "Never Gonna Give You Up\"|ghastly
+1000|English is the official language of this African country|Ghana

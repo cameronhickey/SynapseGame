@@ -1,0 +1,6 @@
+TELEVISION POP QUIZ
+200|Martin Crane|Frasier
+400|Rob Petrie|The Dick Van Dyke Show
+600|Dan Conner|Roseanne
+800|Jason Seaver|Growing Pains
+1000|Frank Reagan|Blue Bloods

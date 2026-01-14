@@ -1,0 +1,6 @@
+TRADE
+200|This fruit accounts for one-third of Honduras' exports|Bananas
+400|In terms of total value, this accounts for over 90% of Iran's exports|Oil
+600|The bulk of Poland's imports is handled through Gdynia & this port|Gdansk
+800|An independent agency of the U.S. government, it's also called Eximbank|Export/Import Bank
+1000|Italy's center of international commerce is this capital of Lombardy|Milan

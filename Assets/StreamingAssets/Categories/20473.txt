@@ -1,0 +1,6 @@
+PUT A "LID" ON IT
+200|Of the 3 basic states of matter, the one that fits the category|solid
+400|It describes filthy living conditions due to neglect or poverty|squalid
+600|When asked about a shorter or easier method, he told Ptolemy I, "There is no royal road to geometry\"|Euclid
+800|In the 19th c. a medical journal defined a chronic one as having been incapacitated by disease for the duties of life|an invalid
+1000|Earthworms are classified as this type of segmented invertebrate|an annelid

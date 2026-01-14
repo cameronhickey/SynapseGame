@@ -1,0 +1,6 @@
+ROMAN NUMERAL SPELLING
+200|Let's drop the proverbial one: 1,000, 1, 100|a mic
+400|Take it easy: 1,001, 50, 500|mild
+600|To combine: 1,000, 9|mix
+800|Do your duty: 101, 5, 1, 100|civic
+1000|Stay sharp! 6, 5, 1, 500|vivid
