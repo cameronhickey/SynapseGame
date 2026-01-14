@@ -42,6 +42,7 @@ namespace Cerebrum.UI
         private GameObject backgroundImage;
         private TMP_InputField[] playerInputs;
         private Button testGameButton;
+        private Button test3DGameButton;
         private GameObject loadingScreen;
         private Slider loadingScreenBar;
         private TextMeshProUGUI loadingScreenText;
@@ -145,9 +146,11 @@ namespace Cerebrum.UI
 
             CreateBackgroundImage(canvas);
 
-            Color panelColor = new Color(0.05f, 0.05f, 0.15f, 0.88f);
-            Color inputBgColor = new Color(0.1f, 0.1f, 0.25f, 0.95f);
-            Color buttonColor = new Color(0.2f, 0.4f, 0.8f, 1f);
+            // Cosmic theme colors
+            Color panelColor = new Color(0.02f, 0.02f, 0.08f, 0.75f);
+            Color cyanInputColor = new Color(0.15f, 0.4f, 0.6f, 0.9f);  // Cyan/teal for inputs
+            Color blueButtonColor = new Color(0.2f, 0.45f, 0.75f, 1f);  // Blue for START
+            Color orangeButtonColor = new Color(0.85f, 0.5f, 0.15f, 1f); // Orange/gold for TEST
 
             // Left panel for player names
             setupPanel = new GameObject("PlayerSetupPanel");
@@ -172,9 +175,9 @@ namespace Cerebrum.UI
             CreateText(setupPanel.transform, "Enter Player Names", 28, FontStyles.Bold, 400, 40);
             CreateSpacer(setupPanel.transform, 5);
 
-            player1Input = CreatePlayerInputLarge(setupPanel.transform, defaultNames[0], player1Key, inputBgColor);
-            player2Input = CreatePlayerInputLarge(setupPanel.transform, defaultNames[1], player2Key, inputBgColor);
-            player3Input = CreatePlayerInputLarge(setupPanel.transform, defaultNames[2], player3Key, inputBgColor);
+            player1Input = CreatePlayerInputLarge(setupPanel.transform, defaultNames[0], player1Key, cyanInputColor);
+            player2Input = CreatePlayerInputLarge(setupPanel.transform, defaultNames[1], player2Key, cyanInputColor);
+            player3Input = CreatePlayerInputLarge(setupPanel.transform, defaultNames[2], player3Key, cyanInputColor);
 
             // Right panel for loading/start
             rightPanel = new GameObject("StartPanel");
@@ -196,17 +199,22 @@ namespace Cerebrum.UI
             rightLayout.childControlHeight = false;
             rightLayout.padding = new RectOffset(20, 20, 25, 20);
 
-            loadingBar = CreateSlider(rightPanel.transform, buttonColor);
+            loadingBar = CreateSlider(rightPanel.transform, blueButtonColor);
             loadingText = CreateText(rightPanel.transform, "Loading...", 22, FontStyles.Normal, 350, 40);
 
             CreateSpacer(rightPanel.transform, 10);
-            startButton = CreateButtonLarge(rightPanel.transform, "START GAME", buttonColor);
+            startButton = CreateButtonLarge(rightPanel.transform, "START GAME", blueButtonColor);
             startButton.interactable = false;
             
             CreateSpacer(rightPanel.transform, 10);
-            Color testButtonColor = new Color(0.4f, 0.6f, 0.3f, 1f);  // Green tint for test
-            testGameButton = CreateButtonLarge(rightPanel.transform, "TEST GAME", testButtonColor);
+            testGameButton = CreateButtonLarge(rightPanel.transform, "TEST GAME", orangeButtonColor);
             testGameButton.interactable = false;
+            
+            // 3D button hidden for now - uncomment when 3D mode is ready
+            // CreateSpacer(rightPanel.transform, 10);
+            // Color test3DButtonColor = new Color(0.3f, 0.5f, 0.7f, 1f);
+            // test3DGameButton = CreateButtonLarge(rightPanel.transform, "TEST GAME (3D)", test3DButtonColor);
+            // test3DGameButton.interactable = false;
             
             // Create loading screen (hidden initially)
             CreateLoadingScreen(canvas);
@@ -295,19 +303,53 @@ namespace Cerebrum.UI
 
             GameObject inputObj = new GameObject("Input");
             inputObj.transform.SetParent(row.transform, false);
-            inputObj.AddComponent<RectTransform>().sizeDelta = new Vector2(350, 65);
-            inputObj.AddComponent<Image>().color = bgColor;
-            TMP_InputField input = inputObj.AddComponent<TMP_InputField>();
+            RectTransform inputRect = inputObj.AddComponent<RectTransform>();
+            inputRect.sizeDelta = new Vector2(350, 60);
             inputObj.AddComponent<LayoutElement>().preferredWidth = 350;
-
-            GameObject textArea = new GameObject("TextArea");
+            
+            // Outer glow/border for cosmic effect
+            GameObject borderObj = new GameObject("Border");
+            borderObj.transform.SetParent(inputObj.transform, false);
+            RectTransform borderRect = borderObj.AddComponent<RectTransform>();
+            borderRect.anchorMin = Vector2.zero;
+            borderRect.anchorMax = Vector2.one;
+            borderRect.offsetMin = new Vector2(-3, -3);
+            borderRect.offsetMax = new Vector2(3, 3);
+            Image borderImg = borderObj.AddComponent<Image>();
+            borderImg.sprite = CreateRoundedRectSprite(18);
+            borderImg.type = Image.Type.Sliced;
+            Color glowColor = new Color(
+                Mathf.Min(1f, bgColor.r + 0.4f),
+                Mathf.Min(1f, bgColor.g + 0.4f),
+                Mathf.Min(1f, bgColor.b + 0.5f),
+                0.9f
+            );
+            borderImg.color = glowColor;
+            
+            // Main background
+            GameObject bgObj = new GameObject("Background");
+            bgObj.transform.SetParent(inputObj.transform, false);
+            RectTransform bgRect = bgObj.AddComponent<RectTransform>();
+            bgRect.anchorMin = Vector2.zero;
+            bgRect.anchorMax = Vector2.one;
+            bgRect.offsetMin = Vector2.zero;
+            bgRect.offsetMax = Vector2.zero;
+            Image bgImg = bgObj.AddComponent<Image>();
+            bgImg.sprite = CreateRoundedRectSprite(15);
+            bgImg.type = Image.Type.Sliced;
+            bgImg.color = new Color(bgColor.r * 0.5f, bgColor.g * 0.5f, bgColor.b * 0.6f, 0.85f);
+            
+            // Text area with mask for proper caret rendering
+            GameObject textArea = new GameObject("Text Area");
             textArea.transform.SetParent(inputObj.transform, false);
             RectTransform taRect = textArea.AddComponent<RectTransform>();
             taRect.anchorMin = Vector2.zero;
             taRect.anchorMax = Vector2.one;
-            taRect.offsetMin = new Vector2(15, 8);
-            taRect.offsetMax = new Vector2(-15, -8);
+            taRect.offsetMin = new Vector2(15, 5);
+            taRect.offsetMax = new Vector2(-15, -5);
+            textArea.AddComponent<RectMask2D>();
 
+            // Text component
             GameObject textObj = new GameObject("Text");
             textObj.transform.SetParent(textArea.transform, false);
             RectTransform tRect = textObj.AddComponent<RectTransform>();
@@ -316,20 +358,62 @@ namespace Cerebrum.UI
             tRect.offsetMin = Vector2.zero;
             tRect.offsetMax = Vector2.zero;
             TextMeshProUGUI inputText = textObj.AddComponent<TextMeshProUGUI>();
-            inputText.fontSize = 36;
+            inputText.fontSize = 32;
             inputText.color = Color.white;
+            inputText.alignment = TextAlignmentOptions.Center;
+            inputText.raycastTarget = false;
 
+            // Placeholder (for showing default when empty)
+            GameObject placeholderObj = new GameObject("Placeholder");
+            placeholderObj.transform.SetParent(textArea.transform, false);
+            RectTransform phRect = placeholderObj.AddComponent<RectTransform>();
+            phRect.anchorMin = Vector2.zero;
+            phRect.anchorMax = Vector2.one;
+            phRect.offsetMin = Vector2.zero;
+            phRect.offsetMax = Vector2.zero;
+            TextMeshProUGUI placeholder = placeholderObj.AddComponent<TextMeshProUGUI>();
+            placeholder.text = defaultName;
+            placeholder.fontSize = 32;
+            placeholder.fontStyle = FontStyles.Italic;
+            placeholder.color = new Color(0.7f, 0.7f, 0.7f, 0.6f);
+            placeholder.alignment = TextAlignmentOptions.Center;
+            placeholder.raycastTarget = false;
+
+            // Add input field AFTER creating all children
+            TMP_InputField input = inputObj.AddComponent<TMP_InputField>();
+            input.targetGraphic = bgImg;  // Required for interaction/caret
             input.textViewport = taRect;
             input.textComponent = inputText;
-            input.text = defaultName;
+            input.placeholder = placeholder;
+            input.text = "";  // Start empty so placeholder shows
+            input.onFocusSelectAll = false;
+            input.richText = false;
+            input.resetOnDeActivation = false;
+            
+            // Configure cursor - dark blue for orange background  
+            input.caretWidth = 4;
+            input.customCaretColor = true;
+            input.caretColor = new Color(0.1f, 0.15f, 0.4f);
+            input.caretBlinkRate = 0.5f;
+            input.selectionColor = new Color(0.1f, 0.2f, 0.5f, 0.5f);
+            
+            // Add cosmic input behavior (clear on focus, color change)
+            CosmicInputField cosmicInput = inputObj.AddComponent<CosmicInputField>();
+            cosmicInput.Initialize(borderImg, bgImg, defaultName);
+            cosmicInput.SetColors(
+                new Color(0.55f, 0.8f, 1f, 0.9f),      // cyan border
+                new Color(0.075f, 0.2f, 0.36f, 0.85f), // cyan bg
+                new Color(1f, 0.7f, 0.3f, 0.95f),      // orange border (focused)
+                new Color(0.4f, 0.25f, 0.1f, 0.85f)    // orange bg (focused)
+            );
 
             GameObject keyObj = new GameObject("Key");
             keyObj.transform.SetParent(row.transform, false);
             TextMeshProUGUI keyTmp = keyObj.AddComponent<TextMeshProUGUI>();
             keyTmp.text = $"({key})";
-            keyTmp.fontSize = 32;
-            keyTmp.color = new Color(0.7f, 0.7f, 0.7f);
-            keyObj.GetComponent<RectTransform>().sizeDelta = new Vector2(70, 65);
+            keyTmp.fontSize = 28;
+            keyTmp.color = new Color(0.6f, 0.75f, 0.85f);
+            keyObj.GetComponent<RectTransform>().sizeDelta = new Vector2(70, 60);
             keyObj.AddComponent<LayoutElement>().preferredWidth = 70;
 
             return input;
@@ -337,15 +421,84 @@ namespace Cerebrum.UI
 
         private Button CreateButtonLarge(Transform parent, string text, Color color)
         {
-            GameObject obj = new GameObject("StartButton");
+            return CreateCosmicButton(parent, text, color, 340, 65);
+        }
+        
+        private Button CreateCosmicButton(Transform parent, string text, Color fillColor, float width, float height)
+        {
+            GameObject obj = new GameObject($"Button_{text}");
             obj.transform.SetParent(parent, false);
-            obj.AddComponent<RectTransform>().sizeDelta = new Vector2(300, 70);
-            Image img = obj.AddComponent<Image>();
-            img.color = color;
+            RectTransform rect = obj.AddComponent<RectTransform>();
+            rect.sizeDelta = new Vector2(width, height);
+            
+            // Outer glow/border
+            GameObject borderObj = new GameObject("Border");
+            borderObj.transform.SetParent(obj.transform, false);
+            RectTransform borderRect = borderObj.AddComponent<RectTransform>();
+            borderRect.anchorMin = Vector2.zero;
+            borderRect.anchorMax = Vector2.one;
+            borderRect.offsetMin = new Vector2(-3, -3);
+            borderRect.offsetMax = new Vector2(3, 3);
+            Image borderImg = borderObj.AddComponent<Image>();
+            borderImg.sprite = CreateRoundedRectSprite(18);
+            borderImg.type = Image.Type.Sliced;
+            // Glow color - brighter version of fill
+            Color glowColor = new Color(
+                Mathf.Min(1f, fillColor.r + 0.3f),
+                Mathf.Min(1f, fillColor.g + 0.3f),
+                Mathf.Min(1f, fillColor.b + 0.4f),
+                0.9f
+            );
+            borderImg.color = glowColor;
+            
+            // Main button background
+            GameObject bgObj = new GameObject("Background");
+            bgObj.transform.SetParent(obj.transform, false);
+            RectTransform bgRect = bgObj.AddComponent<RectTransform>();
+            bgRect.anchorMin = Vector2.zero;
+            bgRect.anchorMax = Vector2.one;
+            bgRect.offsetMin = Vector2.zero;
+            bgRect.offsetMax = Vector2.zero;
+            Image bgImg = bgObj.AddComponent<Image>();
+            bgImg.sprite = CreateRoundedRectSprite(15);
+            bgImg.type = Image.Type.Sliced;
+            // Semi-transparent fill with gradient effect
+            Color bgColor = new Color(fillColor.r * 0.6f, fillColor.g * 0.6f, fillColor.b * 0.7f, 0.85f);
+            bgImg.color = bgColor;
+            
+            // Inner highlight (top gradient simulation)
+            GameObject highlightObj = new GameObject("Highlight");
+            highlightObj.transform.SetParent(obj.transform, false);
+            RectTransform hlRect = highlightObj.AddComponent<RectTransform>();
+            hlRect.anchorMin = new Vector2(0.05f, 0.5f);
+            hlRect.anchorMax = new Vector2(0.95f, 0.95f);
+            hlRect.offsetMin = Vector2.zero;
+            hlRect.offsetMax = Vector2.zero;
+            Image hlImg = highlightObj.AddComponent<Image>();
+            hlImg.sprite = CreateRoundedRectSprite(10);
+            hlImg.type = Image.Type.Sliced;
+            hlImg.color = new Color(1f, 1f, 1f, 0.08f);
+            
+            // Button component
             Button btn = obj.AddComponent<Button>();
-            btn.targetGraphic = img;
-            obj.AddComponent<LayoutElement>().preferredWidth = 300;
+            btn.targetGraphic = bgImg;
+            
+            // Button colors for hover/press states
+            ColorBlock colors = btn.colors;
+            colors.normalColor = bgColor;
+            colors.highlightedColor = new Color(
+                Mathf.Min(1f, bgColor.r + 0.15f),
+                Mathf.Min(1f, bgColor.g + 0.15f),
+                Mathf.Min(1f, bgColor.b + 0.2f),
+                0.95f
+            );
+            colors.pressedColor = new Color(bgColor.r * 0.8f, bgColor.g * 0.8f, bgColor.b * 0.8f, 0.95f);
+            colors.disabledColor = new Color(0.2f, 0.2f, 0.25f, 0.6f);
+            btn.colors = colors;
+            
+            obj.AddComponent<LayoutElement>().preferredWidth = width;
 
+            // Text
             GameObject txtObj = new GameObject("Text");
             txtObj.transform.SetParent(obj.transform, false);
             RectTransform tr = txtObj.AddComponent<RectTransform>();
@@ -355,10 +508,13 @@ namespace Cerebrum.UI
             tr.offsetMax = Vector2.zero;
             TextMeshProUGUI tmp = txtObj.AddComponent<TextMeshProUGUI>();
             tmp.text = text;
-            tmp.fontSize = 36;
+            tmp.fontSize = 32;
             tmp.fontStyle = FontStyles.Bold;
             tmp.color = Color.white;
             tmp.alignment = TextAlignmentOptions.Center;
+            tmp.enableAutoSizing = true;
+            tmp.fontSizeMin = 20;
+            tmp.fontSizeMax = 36;
 
             return btn;
         }
@@ -479,6 +635,11 @@ namespace Cerebrum.UI
             {
                 testGameButton.onClick.AddListener(OnTestGameClicked);
             }
+            
+            if (test3DGameButton != null)
+            {
+                test3DGameButton.onClick.AddListener(OnTest3DGameClicked);
+            }
         }
 
         private IEnumerator LoadCategoriesOnly()
@@ -502,13 +663,21 @@ namespace Cerebrum.UI
             
             // Check if test game is available
             var testConfig = Resources.Load<TestGameConfig>("TestGameConfig");
+            bool testConfigured = (testConfig != null && testConfig.IsConfigured);
+            
             if (testGameButton != null)
             {
-                testGameButton.interactable = (testConfig != null && testConfig.IsConfigured);
-                if (!testGameButton.interactable && loadingText != null)
-                {
-                    loadingText.text = "Ready (Test Game not configured)";
-                }
+                testGameButton.interactable = testConfigured;
+            }
+            
+            if (test3DGameButton != null)
+            {
+                test3DGameButton.interactable = testConfigured;
+            }
+            
+            if (!testConfigured && loadingText != null)
+            {
+                loadingText.text = "Ready (Test Game not configured)";
             }
 
             isPreloadingComplete = true;
@@ -516,7 +685,7 @@ namespace Cerebrum.UI
 
         private void OnTestGameClicked()
         {
-            Debug.Log("[HomeView] Test Game clicked");
+            Debug.Log("[HomeView] Test Game (2D) clicked");
             isTestGameMode = true;
             
             // Use test player names
@@ -528,17 +697,35 @@ namespace Cerebrum.UI
                 if (player3Input != null) player3Input.text = testConfig.playerNames[2];
             }
             
-            StartCoroutine(StartTestGame());
+            StartCoroutine(StartTestGame(false));
         }
 
-        private IEnumerator StartTestGame()
+        private void OnTest3DGameClicked()
+        {
+            Debug.Log("[HomeView] Test Game (3D) clicked");
+            isTestGameMode = true;
+            
+            // Use test player names
+            var testConfig = Resources.Load<TestGameConfig>("TestGameConfig");
+            if (testConfig != null)
+            {
+                if (player1Input != null) player1Input.text = testConfig.playerNames[0];
+                if (player2Input != null) player2Input.text = testConfig.playerNames[1];
+                if (player3Input != null) player3Input.text = testConfig.playerNames[2];
+            }
+            
+            StartCoroutine(StartTestGame(true));
+        }
+
+        private IEnumerator StartTestGame(bool use3D = false)
         {
             // Show loading screen
             if (setupPanel != null) setupPanel.SetActive(false);
             if (rightPanel != null) rightPanel.SetActive(false);
             if (loadingScreen != null) loadingScreen.SetActive(true);
             
-            if (loadingScreenText != null) loadingScreenText.text = "Loading Test Game...";
+            string modeText = use3D ? "3D" : "2D";
+            if (loadingScreenText != null) loadingScreenText.text = $"Loading {modeText} Test Game...";
             if (loadingScreenBar != null) loadingScreenBar.value = 0.2f;
             yield return null;
             
@@ -572,7 +759,14 @@ namespace Cerebrum.UI
             if (backgroundImage != null) Destroy(backgroundImage);
             if (loadingScreen != null) Destroy(loadingScreen);
             
-            SceneLoader.LoadGame();
+            if (use3D)
+            {
+                SceneLoader.LoadGame3D();
+            }
+            else
+            {
+                SceneLoader.LoadGame();
+            }
         }
 
         private void OnStartGameClicked()
@@ -608,70 +802,46 @@ namespace Cerebrum.UI
                 GameManager.Instance.SetCurrentBoard(board);
             }
             
-            if (loadingScreenBar != null) loadingScreenBar.value = 0.2f;
-            if (loadingScreenText != null) loadingScreenText.text = "Generating audio...";
+            if (loadingScreenBar != null) loadingScreenBar.value = 0.15f;
+            if (loadingScreenText != null) loadingScreenText.text = "Preparing audio generation...";
             yield return null;
             
-            // Generate TTS audio for all clues and answers
-            if (TTSCache.Instance != null && board != null)
+            // Create unified TTS loader if needed
+            if (UnifiedTTSLoader.Instance == null)
             {
-                bool cacheComplete = false;
-                TTSCache.Instance.OnCacheProgress += (progress) =>
+                var loaderObj = new GameObject("[UnifiedTTSLoader]");
+                loaderObj.AddComponent<UnifiedTTSLoader>();
+                DontDestroyOnLoad(loaderObj);
+            }
+            
+            // Generate ALL TTS audio in one unified pass (categories, clues, answers, names, phrases)
+            bool loadComplete = false;
+            Action<int, int> progressHandler = (completed, total) =>
+            {
+                float progress = total > 0 ? (float)completed / total : 0f;
+                if (loadingScreenBar != null) loadingScreenBar.value = 0.15f + progress * 0.8f;
+                if (loadingScreenText != null)
                 {
-                    if (loadingScreenBar != null) loadingScreenBar.value = 0.2f + progress * 0.6f;
-                };
-                TTSCache.Instance.OnCacheComplete += () => cacheComplete = true;
-                TTSCache.Instance.PreCacheBoard(board);
-
-                while (!cacheComplete)
-                {
-                    yield return null;
+                    loadingScreenText.text = $"Generating audio... {completed}/{total}";
                 }
-            }
-            
-            if (loadingScreenBar != null) loadingScreenBar.value = 0.8f;
-            if (loadingScreenText != null) loadingScreenText.text = "Loading player audio...";
-            
-            // Cache player name phrases
-            if (PhraseTTSCache.Instance != null)
-            {
-                bool phraseComplete = false;
-                PhraseTTSCache.Instance.CachePlayerNames(playerNames, () => phraseComplete = true);
-
-                float timeout = 15f;
-                float elapsed = 0f;
-                while (!phraseComplete && elapsed < timeout)
-                {
-                    elapsed += Time.deltaTime;
-                    yield return null;
-                }
-            }
-            
-            if (loadingScreenBar != null) loadingScreenBar.value = 0.85f;
-            if (loadingScreenText != null) loadingScreenText.text = "Generating personalized phrases...";
-            
-            // Generate integrated name phrases (sounds more natural)
-            if (IntegratedPhraseCache.Instance == null)
-            {
-                var cacheObj = new GameObject("[IntegratedPhraseCache]");
-                cacheObj.AddComponent<IntegratedPhraseCache>();
-                DontDestroyOnLoad(cacheObj);
-            }
-            
-            bool integratedComplete = false;
-            IntegratedPhraseCache.Instance.OnGenerationProgress += (progress) =>
-            {
-                if (loadingScreenBar != null) loadingScreenBar.value = 0.85f + progress * 0.1f;
             };
-            IntegratedPhraseCache.Instance.GenerateForPlayers(playerNames, () => integratedComplete = true);
+            Action completeHandler = () => loadComplete = true;
             
-            float intTimeout = 120f; // Longer timeout for TTS generation
-            float intElapsed = 0f;
-            while (!integratedComplete && intElapsed < intTimeout)
+            UnifiedTTSLoader.Instance.OnProgress += progressHandler;
+            UnifiedTTSLoader.Instance.OnComplete += completeHandler;
+            UnifiedTTSLoader.Instance.LoadAllForGame(board, playerNames);
+            
+            float timeout = 300f; // 5 minute timeout for all TTS
+            float elapsed = 0f;
+            while (!loadComplete && elapsed < timeout)
             {
-                intElapsed += Time.deltaTime;
+                elapsed += Time.deltaTime;
                 yield return null;
             }
+            
+            // Unsubscribe
+            UnifiedTTSLoader.Instance.OnProgress -= progressHandler;
+            UnifiedTTSLoader.Instance.OnComplete -= completeHandler;
             
             if (loadingScreenBar != null) loadingScreenBar.value = 1f;
             if (loadingScreenText != null) loadingScreenText.text = "Starting game...";
@@ -703,6 +873,10 @@ namespace Cerebrum.UI
             if (testGameButton != null)
             {
                 testGameButton.onClick.RemoveListener(OnTestGameClicked);
+            }
+            if (test3DGameButton != null)
+            {
+                test3DGameButton.onClick.RemoveListener(OnTest3DGameClicked);
             }
         }
     }

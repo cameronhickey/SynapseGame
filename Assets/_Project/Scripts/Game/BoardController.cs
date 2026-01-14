@@ -33,6 +33,7 @@ namespace Cerebrum.Game
         [SerializeField] private bool useRevealAnimation = true;
         private ClueRevealAnimator clueRevealAnimator;
 
+        private GameObject backgroundImage;
         private Board currentBoard;
         private List<ClueButton> clueButtons = new List<ClueButton>();
         private List<PlayerPanel> playerPanels = new List<PlayerPanel>();
@@ -107,7 +108,7 @@ namespace Cerebrum.Game
             BuildUI();
         }
 
-        public void InitializeWithBoard(Board board)
+        public void InitializeWithBoard(Board board, bool showImmediately = true)
         {
             currentBoard = board;
 
@@ -118,6 +119,28 @@ namespace Cerebrum.Game
             }
 
             BuildUI();
+            
+            // Optionally hide board elements until ShowBoardElements is called
+            if (!showImmediately)
+            {
+                SetBoardElementsVisible(false);
+            }
+        }
+
+        public void SetBoardElementsVisible(bool visible)
+        {
+            // Toggle visibility of board containers
+            if (categoryHeaderContainer != null)
+                categoryHeaderContainer.gameObject.SetActive(visible);
+            if (gridContainer != null)
+                gridContainer.gameObject.SetActive(visible);
+            if (playerPanelContainer != null)
+                playerPanelContainer.gameObject.SetActive(visible);
+        }
+
+        public void ShowBoardElements()
+        {
+            SetBoardElementsVisible(true);
         }
 
         private Board CreatePlaceholderBoard()
@@ -152,13 +175,64 @@ namespace Cerebrum.Game
         private void BuildUI()
         {
             ClearUI();
+            CreateBackgroundImage();
             BuildCategoryHeaders();
             BuildClueGrid();
             BuildPlayerPanels();
         }
 
+        private void CreateBackgroundImage()
+        {
+            // Create a separate canvas for the background with lower sort order
+            // This ensures it renders behind all other UI elements
+            backgroundImage = new GameObject("GameBackgroundCanvas");
+            
+            // Add Canvas component with sort order -1 (renders before main canvas at 0)
+            Canvas bgCanvas = backgroundImage.AddComponent<Canvas>();
+            bgCanvas.renderMode = RenderMode.ScreenSpaceOverlay;
+            bgCanvas.sortingOrder = -1;
+            
+            // Add CanvasScaler to match screen
+            var scaler = backgroundImage.AddComponent<CanvasScaler>();
+            scaler.uiScaleMode = CanvasScaler.ScaleMode.ScaleWithScreenSize;
+            scaler.referenceResolution = new Vector2(1920, 1080);
+            
+            // Create the actual background image as child
+            GameObject imageObj = new GameObject("BackgroundImage");
+            imageObj.transform.SetParent(backgroundImage.transform, false);
+            
+            RectTransform bgRect = imageObj.AddComponent<RectTransform>();
+            bgRect.anchorMin = Vector2.zero;
+            bgRect.anchorMax = Vector2.one;
+            bgRect.offsetMin = Vector2.zero;
+            bgRect.offsetMax = Vector2.zero;
+
+            Image bgImage = imageObj.AddComponent<Image>();
+            Sprite bgSprite = Resources.Load<Sprite>("Images/Cerebrum_Game_Background");
+            if (bgSprite != null)
+            {
+                bgImage.sprite = bgSprite;
+                bgImage.preserveAspect = false;
+            }
+            else
+            {
+                bgImage.color = new Color(0.02f, 0.02f, 0.08f, 1f);
+                Debug.LogWarning("[BoardController] Background image not found at Resources/Images/Cerebrum_Game_Background");
+            }
+            
+            bgImage.raycastTarget = false;
+            Debug.Log("[BoardController] Background canvas created with sortingOrder -1");
+        }
+
         private void ClearUI()
         {
+            // Clean up background
+            if (backgroundImage != null)
+            {
+                Destroy(backgroundImage);
+                backgroundImage = null;
+            }
+
             foreach (var header in categoryHeaders)
             {
                 if (header != null)
@@ -321,7 +395,7 @@ namespace Cerebrum.Game
                 if (panel != null)
                 {
                     bool isChooser = (i == GameManager.Instance.CurrentChooserIndex);
-                    panel.SetPlayer(GameManager.Instance.Players[i], isChooser);
+                    panel.SetPlayer(GameManager.Instance.Players[i], isChooser, i);
                     playerPanels.Add(panel);
                 }
             }

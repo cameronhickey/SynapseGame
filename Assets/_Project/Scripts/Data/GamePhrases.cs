@@ -62,31 +62,20 @@ namespace Cerebrum.Data
             // ===== CORRECT ANSWER (integrated) =====
             new Phrase("correct_int_1", "That's right, {name}!", PhraseCategory.Correct, integratedName: true),
             new Phrase("correct_int_2", "Correct, {name}!", PhraseCategory.Correct, integratedName: true),
-            new Phrase("correct_int_3", "Well done, {name}!", PhraseCategory.Correct, integratedName: true),
-            new Phrase("correct_int_4", "Nice job, {name}!", PhraseCategory.Correct, integratedName: true),
 
             // ===== INCORRECT ANSWER (integrated) =====
             new Phrase("wrong_int_1", "I'm sorry {name}, that's not it.", PhraseCategory.Incorrect, integratedName: true),
             new Phrase("wrong_int_2", "Not quite, {name}.", PhraseCategory.Incorrect, integratedName: true),
-            new Phrase("wrong_int_3", "Sorry {name}, no.", PhraseCategory.Incorrect, integratedName: true),
-            new Phrase("wrong_int_4", "Ooh, sorry {name}.", PhraseCategory.Incorrect, integratedName: true),
 
-            // ===== SELECTION PROMPTS (integrated) =====
-            new Phrase("select_int_1", "{name}, you have control of the board.", PhraseCategory.SelectCategory, integratedName: true),
-            new Phrase("select_int_2", "{name}, pick a category.", PhraseCategory.SelectCategory, integratedName: true),
-            new Phrase("select_int_3", "{name}, your selection.", PhraseCategory.SelectCategory, integratedName: true),
-            new Phrase("select_int_4", "Back to you, {name}.", PhraseCategory.SelectCategory, integratedName: true),
-            new Phrase("select_int_5", "{name}, you're up.", PhraseCategory.SelectCategory, integratedName: true),
+            // ===== SELECTION PROMPTS (integrated) - 2 variants =====
+            new Phrase("select_int_1", "{name}, pick a category.", PhraseCategory.SelectCategory, integratedName: true),
+            new Phrase("select_int_2", "{name}, you're up.", PhraseCategory.SelectCategory, integratedName: true),
 
-            // ===== FIRST PICK (integrated) =====
+            // ===== FIRST PICK (integrated) - 1 variant =====
             new Phrase("first_int_1", "{name}, you get to pick the first category.", PhraseCategory.SelectCategoryFirst, integratedName: true),
-            new Phrase("first_int_2", "{name}, you have first pick.", PhraseCategory.SelectCategoryFirst, integratedName: true),
-            new Phrase("first_int_3", "{name}, start us off.", PhraseCategory.SelectCategoryFirst, integratedName: true),
 
-            // ===== WINNER (integrated) =====
+            // ===== WINNER (integrated) - 1 variant =====
             new Phrase("winner_int_1", "And our winner is {name}!", PhraseCategory.GameFlow, integratedName: true),
-            new Phrase("winner_int_2", "Congratulations, {name}!", PhraseCategory.GameFlow, integratedName: true),
-            new Phrase("winner_int_3", "{name} takes the lead!", PhraseCategory.GameFlow, integratedName: true),
         };
 
         public static List<Phrase> GetIntegratedPhrasesByCategory(PhraseCategory category)
@@ -243,6 +232,14 @@ namespace Cerebrum.Data
             // ===== PAUSE / RESUME =====
             new Phrase("game_paused", "Game paused.", PhraseCategory.GameFlow),
             new Phrase("resuming", "Resuming the game.", PhraseCategory.GameFlow),
+
+            // ===== CATEGORY INTRO =====
+            new Phrase("categories_intro", "Our categories are", PhraseCategory.GameFlow),
+            new Phrase("lets_play", "Let's play!", PhraseCategory.GameFlow),
+
+            // ===== VOICE RECOGNITION RETRY =====
+            new Phrase("didnt_catch_that", "I didn't catch that. Please try again.", PhraseCategory.GameFlow),
+            new Phrase("couldnt_understand", "I couldn't understand. Please say a category and dollar amount.", PhraseCategory.GameFlow),
         };
 
         public static List<Phrase> GetByCategory(PhraseCategory category)

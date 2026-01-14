@@ -103,6 +103,12 @@ namespace Cerebrum.UI
             shadowCardImage.color = shadowColor;
             var shadowGroup = shadowCard.AddComponent<CanvasGroup>();
             shadowGroup.alpha = 0.6f;
+            
+            // Add Canvas with high sorting order (but lower than card) to render on top of board
+            Canvas shadowCanvas = shadowCard.AddComponent<Canvas>();
+            shadowCanvas.overrideSorting = true;
+            shadowCanvas.sortingOrder = 99;
+            
             shadowCard.SetActive(false);
 
             // Create card container (this rotates in 3D)
@@ -112,6 +118,12 @@ namespace Cerebrum.UI
             containerRect.anchorMin = new Vector2(0.5f, 0.5f);
             containerRect.anchorMax = new Vector2(0.5f, 0.5f);
             containerRect.pivot = new Vector2(0.5f, 0.5f);
+            
+            // Add Canvas with higher sorting order to ensure card renders on top
+            Canvas cardCanvas = cardContainer.AddComponent<Canvas>();
+            cardCanvas.overrideSorting = true;
+            cardCanvas.sortingOrder = 100;
+            cardContainer.AddComponent<GraphicRaycaster>();
 
             // Load metallic shader (may not be available until imported)
             Shader metallicShader = Shader.Find("UI/MetallicCard");
@@ -329,6 +341,9 @@ namespace Cerebrum.UI
             // Show cards
             shadowCard.SetActive(true);
             cardContainer.SetActive(true);
+            
+            // Ensure cards render on top of everything
+            shadowCard.transform.SetAsLastSibling();
             cardContainer.transform.SetAsLastSibling();
 
             // Phase 2: Lift off the board (scale up slightly)

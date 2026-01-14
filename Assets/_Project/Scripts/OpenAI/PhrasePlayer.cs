@@ -155,13 +155,25 @@ namespace Cerebrum.OpenAI
 
         public void PlayRandomPhraseWithName(GamePhrases.PhraseCategory category, string playerName, Action onComplete = null)
         {
-            // First, try to use an integrated name phrase (sounds more natural)
+            // First, try UnifiedTTSLoader cache (for real games)
+            if (UnifiedTTSLoader.Instance != null && !string.IsNullOrEmpty(playerName))
+            {
+                var unifiedClip = UnifiedTTSLoader.Instance.GetRandomPhraseAudio(category, playerName);
+                if (unifiedClip != null)
+                {
+                    Debug.Log($"[PhrasePlayer] Playing integrated phrase for {category} with {playerName} (unified)");
+                    PlayClip(unifiedClip, onComplete);
+                    return;
+                }
+            }
+
+            // Legacy: Try IntegratedPhraseCache
             if (IntegratedPhraseCache.Instance != null && !string.IsNullOrEmpty(playerName))
             {
                 var integratedClip = IntegratedPhraseCache.Instance.GetRandomIntegratedPhrase(category, playerName);
                 if (integratedClip != null)
                 {
-                    Debug.Log($"[PhrasePlayer] Playing integrated phrase for {category} with {playerName}");
+                    Debug.Log($"[PhrasePlayer] Playing integrated phrase for {category} with {playerName} (legacy)");
                     PlayClip(integratedClip, onComplete);
                     return;
                 }

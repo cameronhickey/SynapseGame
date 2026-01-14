@@ -194,8 +194,8 @@ namespace Cerebrum.Game
                     Debug.Log("[ClueSelection] No response heard");
                     if (attempts <= maxRetries)
                     {
-                        // Prompt for retry
-                        yield return PlayRetryPrompt("I didn't catch that. Please try again.");
+                        // Prompt for retry using pre-recorded phrase
+                        yield return PlayRetryPhrase("didnt_catch_that");
                     }
                     continue;
                 }
@@ -229,8 +229,8 @@ namespace Cerebrum.Game
                     
                     if (attempts <= maxRetries)
                     {
-                        // Prompt for retry with hint
-                        yield return PlayRetryPrompt("I couldn't understand. Please say a category and dollar amount.");
+                        // Prompt for retry with hint using pre-recorded phrase
+                        yield return PlayRetryPhrase("couldnt_understand");
                     }
                 }
             }
@@ -241,13 +241,26 @@ namespace Cerebrum.Game
             OnSelectionCancelled?.Invoke();
         }
 
-        private IEnumerator PlayRetryPrompt(string message)
+        private IEnumerator PlayRetryPhrase(string phraseId)
         {
             bool done = false;
-            if (TTSService.Instance != null)
+            var phrasePlayer = FindFirstObjectByType<OpenAI.PhrasePlayer>();
+            
+            if (phrasePlayer != null)
             {
-                TTSService.Instance.Speak(message, () => done = true);
-                while (!done) yield return null;
+                phrasePlayer.PlayPhrase(phraseId, () => done = true);
+                
+                float timeout = 5f;
+                float elapsed = 0f;
+                while (!done && elapsed < timeout)
+                {
+                    elapsed += Time.deltaTime;
+                    yield return null;
+                }
+            }
+            else
+            {
+                yield return new WaitForSeconds(1.5f);
             }
             yield return new WaitForSeconds(0.3f);
         }

@@ -140,10 +140,18 @@ namespace Cerebrum.OpenAI
                 }
             }
 
-            // Try to use cached audio first
+            // Try UnifiedTTSLoader cache first (for real games)
+            if (UnifiedTTSLoader.Instance != null && UnifiedTTSLoader.Instance.TryGetClueAudio(clue, out AudioClip unifiedClip))
+            {
+                Debug.Log("[TTSService] Playing cached clue audio (unified)");
+                PlayClip(unifiedClip, onComplete);
+                return;
+            }
+
+            // Legacy: Try TTSCache
             if (TTSCache.Instance != null && TTSCache.Instance.TryGetCachedAudio(clue, out AudioClip cachedClip))
             {
-                Debug.Log("[TTSService] Playing cached audio");
+                Debug.Log("[TTSService] Playing cached audio (legacy)");
                 PlayClip(cachedClip, onComplete);
                 return;
             }
@@ -221,11 +229,19 @@ namespace Cerebrum.OpenAI
                     var testClip = TestGameAudioLoader.Instance.GetAnswerAudio(clue, Game.GameManager.Instance.CurrentBoard);
                     if (testClip != null)
                     {
-                        Debug.Log("[TTSService] Playing cached answer audio");
+                        Debug.Log("[TTSService] Playing test game answer audio");
                         PlayClip(testClip, onComplete);
                         return;
                     }
                 }
+            }
+
+            // Try UnifiedTTSLoader cache first (for real games)
+            if (UnifiedTTSLoader.Instance != null && UnifiedTTSLoader.Instance.TryGetAnswerAudio(clue, out AudioClip unifiedClip))
+            {
+                Debug.Log("[TTSService] Playing cached answer audio (unified)");
+                PlayClip(unifiedClip, onComplete);
+                return;
             }
 
             // Fall back to dynamic TTS

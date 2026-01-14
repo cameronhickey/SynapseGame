@@ -426,21 +426,33 @@ namespace Cerebrum.Editor
         private static void CreateCategoryHeaderPrefab()
         {
             GameObject headerObj = new GameObject("CategoryHeader");
+            
+            // Semi-transparent dark blue background
             Image headerImage = headerObj.AddComponent<Image>();
-            headerImage.color = new Color(0.06f, 0.06f, 0.4f);
+            headerImage.color = new Color(0.08f, 0.12f, 0.25f, 0.9f);
+            
+            // Add glowing border using Outline
+            Outline borderOutline = headerObj.AddComponent<Outline>();
+            borderOutline.effectColor = new Color(0.4f, 0.6f, 0.9f, 0.8f);
+            borderOutline.effectDistance = new Vector2(2, 2);
 
+            // Text container with padding
             GameObject textObj = new GameObject("Text");
             textObj.transform.SetParent(headerObj.transform, false);
             TextMeshProUGUI text = textObj.AddComponent<TextMeshProUGUI>();
             text.text = "CATEGORY";
-            text.fontSize = 24;
+            text.fontSize = 18;
             text.alignment = TextAlignmentOptions.Center;
             text.color = Color.white;
             text.fontStyle = FontStyles.Bold;
+            text.enableAutoSizing = true;
+            text.fontSizeMin = 12;
+            text.fontSizeMax = 20;
             RectTransform textRect = textObj.GetComponent<RectTransform>();
             textRect.anchorMin = Vector2.zero;
             textRect.anchorMax = Vector2.one;
-            textRect.sizeDelta = Vector2.zero;
+            textRect.offsetMin = new Vector2(8, 8);
+            textRect.offsetMax = new Vector2(-8, -8);
 
             string prefabPath = "Assets/_Project/Resources/Prefabs/CategoryHeader.prefab";
             PrefabUtility.SaveAsPrefabAsset(headerObj, prefabPath);
@@ -450,22 +462,31 @@ namespace Cerebrum.Editor
         private static void CreateClueButtonPrefab()
         {
             GameObject buttonObj = new GameObject("ClueButton");
+            
+            // Semi-transparent dark blue background
             Image buttonImage = buttonObj.AddComponent<Image>();
-            buttonImage.color = new Color(0.06f, 0.06f, 0.4f);
+            buttonImage.color = new Color(0.08f, 0.12f, 0.28f, 0.9f);
+            
+            // Add glowing border
+            Outline borderOutline = buttonObj.AddComponent<Outline>();
+            borderOutline.effectColor = new Color(0.5f, 0.7f, 1f, 0.7f);
+            borderOutline.effectDistance = new Vector2(2, 2);
+            
             Button button = buttonObj.AddComponent<Button>();
             ColorBlock colors = button.colors;
-            colors.highlightedColor = new Color(0.1f, 0.1f, 0.5f);
-            colors.pressedColor = new Color(0.04f, 0.04f, 0.3f);
-            colors.disabledColor = new Color(0.1f, 0.1f, 0.15f);
+            colors.normalColor = Color.white;
+            colors.highlightedColor = new Color(0.8f, 0.9f, 1f);
+            colors.pressedColor = new Color(0.6f, 0.7f, 0.9f);
+            colors.disabledColor = new Color(0.3f, 0.3f, 0.4f);
             button.colors = colors;
 
             GameObject textObj = new GameObject("ValueText");
             textObj.transform.SetParent(buttonObj.transform, false);
             TextMeshProUGUI text = textObj.AddComponent<TextMeshProUGUI>();
             text.text = "$200";
-            text.fontSize = 36;
+            text.fontSize = 42;
             text.alignment = TextAlignmentOptions.Center;
-            text.color = new Color(1f, 0.84f, 0f);
+            text.color = Color.white;
             text.fontStyle = FontStyles.Bold;
             RectTransform textRect = textObj.GetComponent<RectTransform>();
             textRect.anchorMin = Vector2.zero;
@@ -489,43 +510,57 @@ namespace Cerebrum.Editor
         private static void CreatePlayerPanelPrefab()
         {
             GameObject panelObj = new GameObject("PlayerPanel");
+            
+            // Semi-transparent dark background
             Image panelImage = panelObj.AddComponent<Image>();
-            panelImage.color = new Color(0.1f, 0.1f, 0.2f);
-            VerticalLayoutGroup layout = panelObj.AddComponent<VerticalLayoutGroup>();
-            layout.padding = new RectOffset(10, 10, 10, 10);
-            layout.spacing = 5;
-            layout.childControlWidth = true;
-            layout.childControlHeight = true;
-            layout.childForceExpandWidth = true;
-            layout.childForceExpandHeight = true;
+            panelImage.color = new Color(0.05f, 0.08f, 0.15f, 0.9f);
+            
+            // Add glowing border (will be recolored per player)
+            Outline borderOutline = panelObj.AddComponent<Outline>();
+            borderOutline.effectColor = new Color(0.3f, 0.8f, 1f, 0.9f); // Cyan default
+            borderOutline.effectDistance = new Vector2(3, 3);
 
-            // Chooser Indicator
-            GameObject indicatorObj = new GameObject("ChooserIndicator");
-            indicatorObj.transform.SetParent(panelObj.transform, false);
-            Image indicatorImage = indicatorObj.AddComponent<Image>();
-            indicatorImage.color = new Color(1f, 0.84f, 0f);
-            LayoutElement indicatorLayout = indicatorObj.AddComponent<LayoutElement>();
-            indicatorLayout.preferredHeight = 5;
-            indicatorLayout.flexibleHeight = 0;
-
-            // Name Text
-            GameObject nameObj = new GameObject("NameText");
-            nameObj.transform.SetParent(panelObj.transform, false);
-            TextMeshProUGUI nameText = nameObj.AddComponent<TextMeshProUGUI>();
-            nameText.text = "PLAYER";
+            // Name text (top half)
+            GameObject textObj = new GameObject("NameText");
+            textObj.transform.SetParent(panelObj.transform, false);
+            TextMeshProUGUI nameText = textObj.AddComponent<TextMeshProUGUI>();
+            nameText.text = "NAME";
             nameText.fontSize = 28;
             nameText.alignment = TextAlignmentOptions.Center;
             nameText.color = Color.white;
             nameText.fontStyle = FontStyles.Bold;
+            RectTransform nameRect = textObj.GetComponent<RectTransform>();
+            nameRect.anchorMin = new Vector2(0, 0.5f);
+            nameRect.anchorMax = new Vector2(1f, 1f);
+            nameRect.offsetMin = new Vector2(10, 0);
+            nameRect.offsetMax = new Vector2(-10, -8);
 
-            // Score Text
+            // Score text (bottom half)
             GameObject scoreObj = new GameObject("ScoreText");
             scoreObj.transform.SetParent(panelObj.transform, false);
             TextMeshProUGUI scoreText = scoreObj.AddComponent<TextMeshProUGUI>();
             scoreText.text = "$0";
-            scoreText.fontSize = 36;
+            scoreText.fontSize = 32;
             scoreText.alignment = TextAlignmentOptions.Center;
-            scoreText.color = Color.white;
+            scoreText.color = new Color(1f, 0.9f, 0.5f); // Gold tint
+            scoreText.fontStyle = FontStyles.Bold;
+            RectTransform scoreRect = scoreObj.GetComponent<RectTransform>();
+            scoreRect.anchorMin = new Vector2(0, 0);
+            scoreRect.anchorMax = new Vector2(1f, 0.5f);
+            scoreRect.offsetMin = new Vector2(10, 8);
+            scoreRect.offsetMax = new Vector2(-10, 0);
+
+            // Chooser Indicator (thin line at top when active)
+            GameObject indicatorObj = new GameObject("ChooserIndicator");
+            indicatorObj.transform.SetParent(panelObj.transform, false);
+            Image indicatorImage = indicatorObj.AddComponent<Image>();
+            indicatorImage.color = new Color(1f, 0.7f, 0.2f); // Orange glow
+            RectTransform indicatorRect = indicatorObj.GetComponent<RectTransform>();
+            indicatorRect.anchorMin = new Vector2(0, 1f);
+            indicatorRect.anchorMax = new Vector2(1f, 1f);
+            indicatorRect.offsetMin = new Vector2(5, -8);
+            indicatorRect.offsetMax = new Vector2(-5, -3);
+            indicatorObj.SetActive(false);
 
             var playerPanel = panelObj.AddComponent<UI.PlayerPanel>();
 

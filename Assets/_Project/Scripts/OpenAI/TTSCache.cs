@@ -11,7 +11,7 @@ namespace Cerebrum.OpenAI
         public static TTSCache Instance { get; private set; }
 
         [Header("Settings")]
-        [SerializeField] private int maxConcurrentRequests = 3;
+        [SerializeField] private int maxConcurrentRequests = 10;
 
         public bool IsCaching { get; private set; }
         public int TotalClues { get; private set; }

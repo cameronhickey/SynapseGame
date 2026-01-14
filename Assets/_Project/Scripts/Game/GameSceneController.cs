@@ -96,7 +96,8 @@ namespace Cerebrum.Game
             {
                 // Always enable reveal animation (audio is preloaded before game starts)
                 boardController.SetUseRevealAnimation(true);
-                boardController.InitializeWithBoard(board);
+                // Hide board elements initially - will show after category intro
+                boardController.InitializeWithBoard(board, showImmediately: false);
             }
 
             // Pre-cache TTS audio for all clues if chosen
@@ -135,8 +136,36 @@ namespace Cerebrum.Game
 
         private System.Collections.IEnumerator StartFirstSelectionAfterDelay()
         {
-            // Wait a moment for the board to render
-            yield return new WaitForSeconds(1.0f);
+            // Wait a moment for initialization
+            yield return new WaitForSeconds(0.3f);
+            
+            // Play category introduction sequence
+            var board = GameManager.Instance?.CurrentBoard;
+            if (board != null)
+            {
+                var introSequence = FindFirstObjectByType<UI.CategoryIntroSequence>();
+                if (introSequence == null)
+                {
+                    var introObj = new GameObject("[CategoryIntroSequence]");
+                    introSequence = introObj.AddComponent<UI.CategoryIntroSequence>();
+                }
+                
+                bool introComplete = false;
+                introSequence.PlayIntro(board, () => introComplete = true);
+                
+                while (!introComplete)
+                {
+                    yield return null;
+                }
+            }
+            
+            // Now show the board elements after category intro completes
+            if (boardController != null)
+            {
+                boardController.ShowBoardElements();
+            }
+            
+            yield return new WaitForSeconds(0.3f);
             
             ClueSelectionController.Instance?.StartSelection();
         }

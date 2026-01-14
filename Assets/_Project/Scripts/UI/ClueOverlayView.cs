@@ -368,7 +368,15 @@ namespace Cerebrum.UI
         {
             Debug.Log($"[ClueOverlay] Answer flow complete, someoneCorrect={someoneAnsweredCorrectly}");
             
-            // Find the animator to show answer and animate back
+            // Try UI-based 3D card first
+            var cardUI3D = FindActiveClueCardUI3D();
+            if (cardUI3D != null && currentClue != null)
+            {
+                HandleUI3DCardComplete(cardUI3D);
+                return;
+            }
+            
+            // Fall back to 2D animator
             var clueAnimator = FindFirstObjectByType<ClueRevealAnimator>();
             if (clueAnimator != null && clueAnimator.IsShowing && currentClue != null)
             {
@@ -438,6 +446,80 @@ namespace Cerebrum.UI
             {
                 // Fallback: just close normally
                 OnBackToBoardClicked();
+            }
+        }
+
+        private Game.ClueCardUI3D FindActiveClueCardUI3D()
+        {
+            // Find the UI-based 3D card that's currently showing the current clue
+            var cards = FindObjectsByType<Game.ClueCardUI3D>(FindObjectsSortMode.None);
+            foreach (var card in cards)
+            {
+                if (card.Clue == currentClue && card.IsUsed)
+                {
+                    return card;
+                }
+            }
+            return null;
+        }
+
+        private void HandleUI3DCardComplete(Game.ClueCardUI3D card)
+        {
+            if (someoneAnsweredCorrectly)
+            {
+                // Someone got it right - show answer then dismiss
+                card.ShowAnswer(currentClue.Answer);
+                card.DismissCard(() =>
+                {
+                    OnBackToBoardClicked();
+                });
+            }
+            else
+            {
+                // Nobody got it - show answer, speak it, then dismiss
+                card.ShowAnswer(currentClue.Answer);
+                
+                var phrasePlayer = FindFirstObjectByType<PhrasePlayer>();
+                if (phrasePlayer != null)
+                {
+                    phrasePlayer.PlayRevealAnswerIntro(() =>
+                    {
+                        if (TTSService.Instance != null)
+                        {
+                            TTSService.Instance.SpeakAnswer(currentClue, () =>
+                            {
+                                card.DismissCard(() =>
+                                {
+                                    OnBackToBoardClicked();
+                                });
+                            });
+                        }
+                        else
+                        {
+                            card.DismissCard(() =>
+                            {
+                                OnBackToBoardClicked();
+                            });
+                        }
+                    });
+                }
+                else if (enableTTS && TTSService.Instance != null)
+                {
+                    TTSService.Instance.SpeakAnswer(currentClue, () =>
+                    {
+                        card.DismissCard(() =>
+                        {
+                            OnBackToBoardClicked();
+                        });
+                    });
+                }
+                else
+                {
+                    card.DismissCard(() =>
+                    {
+                        OnBackToBoardClicked();
+                    });
+                }
             }
         }
 

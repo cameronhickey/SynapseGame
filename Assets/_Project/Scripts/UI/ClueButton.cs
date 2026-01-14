@@ -23,9 +23,9 @@ namespace Cerebrum.UI
         public bool IsUsed { get; private set; }
         public bool IsRevealed { get; private set; }
 
-        private Color activeColor = new Color(0.06f, 0.06f, 0.4f); // Jeopardy blue
-        private Color usedColor = new Color(0.1f, 0.1f, 0.15f);
-        private Color hiddenColor = new Color(0.03f, 0.03f, 0.2f);
+        private Color activeColor = new Color(0.08f, 0.12f, 0.28f, 0.9f); // Semi-transparent blue
+        private Color usedColor = new Color(0.05f, 0.05f, 0.1f, 0.7f);
+        private Color hiddenColor = new Color(0.04f, 0.06f, 0.15f, 0.8f);
 
         private Clue associatedClue;
         private static AudioSource sharedAudioSource;
