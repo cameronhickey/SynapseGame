@@ -75,6 +75,8 @@ Assets/Clues/
 # API Keys and secrets (if any)
 *.env
 secrets.json
+openai_config.json
+Assets/StreamingAssets/openai_config.json
 
 # Large resource files that should be downloaded separately
 # Uncomment if you want to exclude these from the repo

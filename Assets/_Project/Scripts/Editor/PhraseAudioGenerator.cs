@@ -304,7 +304,7 @@ namespace Cerebrum.Editor
             activeRequest.uploadHandler = new UploadHandlerRaw(bodyRaw);
             activeRequest.downloadHandler = new DownloadHandlerBuffer();
             activeRequest.SetRequestHeader("Content-Type", "application/json");
-            activeRequest.SetRequestHeader("Authorization", "Bearer " + config.ApiKey);
+            activeRequest.SetRequestHeader("Authorization", "Bearer " + config.GetApiKey());
 
             activeRequest.SendWebRequest();
 

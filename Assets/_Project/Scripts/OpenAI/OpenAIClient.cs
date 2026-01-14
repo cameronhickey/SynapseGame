@@ -44,8 +44,9 @@ namespace Cerebrum.OpenAI
             }
             else
             {
-                string maskedKey = config.ApiKey.Length > 10 
-                    ? config.ApiKey.Substring(0, 7) + "..." + config.ApiKey.Substring(config.ApiKey.Length - 4)
+                string apiKey = config.GetApiKey();
+                string maskedKey = apiKey.Length > 10 
+                    ? apiKey.Substring(0, 7) + "..." + apiKey.Substring(apiKey.Length - 4)
                     : "***";
                 Debug.Log($"[OpenAIClient] Config loaded. API Key: {maskedKey}, Model: {config.TTSModel}, Voice: {config.TTSVoice}");
             }
@@ -80,14 +81,14 @@ namespace Cerebrum.OpenAI
             byte[] bodyRaw = Encoding.UTF8.GetBytes(jsonBody);
             
             string url = config.GetTTSUrl();
-            Debug.Log($"[OpenAIClient] TTS Request to: {url}, Key length: {config.ApiKey?.Length ?? 0}");
+            Debug.Log($"[OpenAIClient] TTS Request to: {url}, Key length: {config.GetApiKey()?.Length ?? 0}");
 
             using (UnityWebRequest request = new UnityWebRequest(url, "POST"))
             {
                 request.uploadHandler = new UploadHandlerRaw(bodyRaw);
                 request.downloadHandler = new DownloadHandlerBuffer();
                 request.SetRequestHeader("Content-Type", "application/json");
-                request.SetRequestHeader("Authorization", "Bearer " + config.ApiKey);
+                request.SetRequestHeader("Authorization", "Bearer " + config.GetApiKey());
 
                 yield return request.SendWebRequest();
 
@@ -161,7 +162,7 @@ namespace Cerebrum.OpenAI
 
             using (UnityWebRequest request = UnityWebRequest.Post(config.GetSTTUrl(), form))
             {
-                request.SetRequestHeader("Authorization", "Bearer " + config.ApiKey);
+                request.SetRequestHeader("Authorization", "Bearer " + config.GetApiKey());
 
                 yield return request.SendWebRequest();
 
@@ -208,7 +209,7 @@ namespace Cerebrum.OpenAI
                 request.uploadHandler = new UploadHandlerRaw(bodyRaw);
                 request.downloadHandler = new DownloadHandlerBuffer();
                 request.SetRequestHeader("Content-Type", "application/json");
-                request.SetRequestHeader("Authorization", "Bearer " + config.ApiKey);
+                request.SetRequestHeader("Authorization", "Bearer " + config.GetApiKey());
 
                 yield return request.SendWebRequest();
 

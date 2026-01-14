@@ -1,0 +1,9 @@
+{
+    "apiKey": "YOUR_OPENAI_API_KEY_HERE",
+    "ttsModel": "tts-1",
+    "ttsVoice": "nova",
+    "ttsSpeed": 1.0,
+    "sttModel": "whisper-1",
+    "judgeModel": "gpt-4o-mini",
+    "baseUrl": "https://api.openai.com/v1"
+}
