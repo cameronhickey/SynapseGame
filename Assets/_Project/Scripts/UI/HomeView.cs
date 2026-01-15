@@ -29,7 +29,7 @@ namespace Cerebrum.UI
         private TextMeshProUGUI loadingText;
         private GameObject setupPanel;
 
-        [SerializeField] private string player1Key = "Q";
+        [SerializeField] private string player1Key = "Z";
         [SerializeField] private string player2Key = "G";
         [SerializeField] private string player3Key = "M";
 

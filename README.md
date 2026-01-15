@@ -155,7 +155,7 @@ Cerebrum2d/
 2. **Category Reveal**: Watch as categories are revealed with animations
 3. **Select Clue**: Click any clue value on the board
 4. **Listen**: The clue is read aloud via TTS
-5. **Buzz In**: Press your assigned key (Q, G, or M by default) to buzz
+5. **Buzz In**: Press your assigned key (Z, G, or M) to buzz
 6. **Answer**: Speak your answer into the microphone
 7. **Scoring**: AI judges your answer - correct answers add points, wrong answers deduct
 
@@ -163,7 +163,7 @@ Cerebrum2d/
 
 | Player | Buzz Key |
 |--------|----------|
-| Player 1 | Q |
+| Player 1 | Z |
 | Player 2 | G |
 | Player 3 | M |
 

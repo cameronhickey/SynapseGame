@@ -501,7 +501,7 @@ MonoBehaviour:
   answerTimeSeconds: 5
   earlyBuzzLockoutMs: 750
   resultDisplaySeconds: 2
-  player1BuzzKey: 40
+  player1BuzzKey: 50
   player2BuzzKey: 21
   player3BuzzKey: 27
 --- !u!4 &1623020691

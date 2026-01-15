@@ -681,6 +681,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Cerebrum.Runtime::Cerebrum.UI.HomeView
   startGameButton: {fileID: 384391466}
+  player1Key: Z
+  player2Key: G
+  player3Key: M
 --- !u!4 &1135122533
 Transform:
   m_ObjectHideFlags: 0
