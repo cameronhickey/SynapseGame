@@ -71,7 +71,23 @@ namespace Cerebrum.Game
                     clueRevealAnimator = animatorObj.AddComponent<ClueRevealAnimator>();
                 }
             }
-
+            
+            // Subscribe to buzz events (may need to wait for AnswerFlowController)
+            StartCoroutine(SubscribeToBuzzEvents());
+        }
+        
+        private System.Collections.IEnumerator SubscribeToBuzzEvents()
+        {
+            // Wait until AnswerFlowController is available
+            while (AnswerFlowController.Instance == null)
+            {
+                yield return null;
+            }
+            
+            Debug.Log("[BoardController] Subscribing to buzz events");
+            AnswerFlowController.Instance.OnPlayerBuzzed += OnPlayerBuzzed;
+            AnswerFlowController.Instance.OnFlowComplete += OnAnswerFlowComplete;
+            AnswerFlowController.Instance.OnResponseTimerExpired += OnResponseTimerExpired;
         }
 
         private void LoadPrefabsIfNeeded()
@@ -416,8 +432,10 @@ namespace Cerebrum.Game
                     bool isChooser = (i == GameManager.Instance.CurrentChooserIndex);
                     panel.SetPlayer(GameManager.Instance.Players[i], isChooser, i);
                     playerPanels.Add(panel);
+                    Debug.Log($"[BoardController] Created player panel {i}: {GameManager.Instance.Players[i].Name}");
                 }
             }
+            Debug.Log($"[BoardController] Built {playerPanels.Count} player panels");
         }
 
         /// <summary>
@@ -500,6 +518,7 @@ namespace Cerebrum.Game
 
         private void OnClueCompleted()
         {
+            ClearAllBuzzStates();
             RefreshBoard();
             UpdatePlayerPanels();
 
@@ -561,6 +580,54 @@ namespace Cerebrum.Game
                 if (button != null)
                 {
                     button.OnClueSelected -= OnClueSelected;
+                }
+            }
+            
+            if (AnswerFlowController.Instance != null)
+            {
+                AnswerFlowController.Instance.OnPlayerBuzzed -= OnPlayerBuzzed;
+                AnswerFlowController.Instance.OnFlowComplete -= OnAnswerFlowComplete;
+                AnswerFlowController.Instance.OnResponseTimerExpired -= OnResponseTimerExpired;
+            }
+        }
+        
+        private void OnResponseTimerExpired()
+        {
+            // Clear buzz highlight when response timer expires (player ran out of time to answer)
+            ClearAllBuzzStates();
+        }
+        
+        private void OnPlayerBuzzed(int playerIndex)
+        {
+            Debug.Log($"[BoardController] OnPlayerBuzzed called: playerIndex={playerIndex}, playerPanels.Count={playerPanels.Count}");
+            
+            // Clear any previous buzz states first
+            ClearAllBuzzStates();
+            
+            // Highlight the buzzed player
+            if (playerIndex >= 0 && playerIndex < playerPanels.Count)
+            {
+                Debug.Log($"[BoardController] Setting buzz highlight on panel {playerIndex}");
+                playerPanels[playerIndex].SetBuzzedIn(true);
+            }
+            else
+            {
+                Debug.LogWarning($"[BoardController] Cannot highlight player {playerIndex} - panels not ready or index out of range");
+            }
+        }
+        
+        private void OnAnswerFlowComplete()
+        {
+            ClearAllBuzzStates();
+        }
+        
+        private void ClearAllBuzzStates()
+        {
+            foreach (var panel in playerPanels)
+            {
+                if (panel != null)
+                {
+                    panel.ClearBuzzState();
                 }
             }
         }

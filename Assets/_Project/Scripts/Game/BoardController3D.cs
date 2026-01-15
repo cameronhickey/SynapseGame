@@ -232,23 +232,28 @@ namespace Cerebrum.Game
         {
             if (GameManager.Instance == null) return;
             
+            // Calculate board width to match exactly (same formula as BuildBoard)
+            float uiCardWidth = 140f;
+            float uiCardSpacing = 8f;
+            float boardWidth = NUM_CATEGORIES * (uiCardWidth + uiCardSpacing) - uiCardSpacing;
+            
             GameObject panelContainer = new GameObject("PlayerPanels");
             panelContainer.transform.SetParent(uiCanvas.transform, false);
             
             RectTransform containerRect = panelContainer.AddComponent<RectTransform>();
-            containerRect.anchorMin = new Vector2(0, 0);
-            containerRect.anchorMax = new Vector2(1, 0);
+            containerRect.anchorMin = new Vector2(0.5f, 0);
+            containerRect.anchorMax = new Vector2(0.5f, 0);
             containerRect.pivot = new Vector2(0.5f, 0);
-            containerRect.anchoredPosition = Vector2.zero;
-            containerRect.sizeDelta = new Vector2(0, 120);
+            containerRect.anchoredPosition = new Vector2(0, 10);
+            containerRect.sizeDelta = new Vector2(boardWidth, 100);
             
             HorizontalLayoutGroup layout = panelContainer.AddComponent<HorizontalLayoutGroup>();
-            layout.spacing = 20;
+            layout.spacing = 4;
             layout.childControlWidth = true;
             layout.childControlHeight = true;
             layout.childForceExpandWidth = true;
             layout.childForceExpandHeight = true;
-            layout.padding = new RectOffset(100, 100, 10, 10);
+            layout.padding = new RectOffset(0, 0, 0, 0);
             
             // Load player panel prefab
             GameObject prefab = Resources.Load<GameObject>("Prefabs/PlayerPanel");
@@ -309,6 +314,8 @@ namespace Cerebrum.Game
             scoreText.fontSize = 36;
             scoreText.alignment = TextAlignmentOptions.Center;
             scoreText.color = Color.white;
+            
+            // Buzz key indicator is created dynamically by PlayerPanel.SetBuzzKey()
             
             return panel;
         }

@@ -29,9 +29,9 @@ namespace Cerebrum.UI
         [SerializeField] private Color shadowColor = new Color(0f, 0f, 0f, 0.6f);
 
         [Header("Layout")]
-        [SerializeField] private float targetTopMargin = 20f;
-        [SerializeField] private float targetSideMargin = 20f;
-        [SerializeField] private float targetBottomMargin = 120f;
+        [SerializeField] private float targetTopMargin = 140f;    // Increased to show game title
+        [SerializeField] private float targetSideMargin = 100f;  // Increased to reduce width ~20%
+        [SerializeField] private float targetBottomMargin = 180f; // Increased to show player panels better
         [SerializeField] private float shadowOffset = 12f;
         [SerializeField] private float liftScale = 1.15f;
 

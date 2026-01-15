@@ -46,6 +46,8 @@ namespace Cerebrum.UI
         private Image backgroundImage;
         private RectTransform panelRect;
         private RectTransform cardRect;
+        private GameObject skipButton;
+        private bool skipRequested;
 
         private bool isPlaying;
         private int currentCategoryIndex;
@@ -98,23 +100,36 @@ namespace Cerebrum.UI
             // Play "Our categories are..." intro phrase
             yield return PlayIntroPhrase();
 
-            // Show each category
+            // Show each category (skip if requested)
             foreach (var category in board.Categories)
             {
+                if (skipRequested) break;
                 yield return ShowCategory(category.Title);
-                yield return new WaitForSeconds(delayBetweenCategories);
+                if (!skipRequested)
+                {
+                    yield return new WaitForSeconds(delayBetweenCategories);
+                }
             }
 
-            // Play "Let's start!" outro
-            yield return PlayOutroPhrase();
+            // Play "Let's start!" outro (skip if requested)
+            if (!skipRequested)
+            {
+                yield return PlayOutroPhrase();
+            }
 
             // Clean up
+            if (skipButton != null)
+            {
+                Destroy(skipButton);
+                skipButton = null;
+            }
             if (introPanel != null)
             {
                 Destroy(introPanel);
             }
 
             isPlaying = false;
+            skipRequested = false;
             onComplete?.Invoke();
             OnIntroComplete?.Invoke();
         }
@@ -219,10 +234,15 @@ namespace Cerebrum.UI
 
             // Hide card initially
             categoryCard.SetActive(false);
+            
+            // Create skip button
+            CreateSkipButton();
         }
 
         private IEnumerator PlayIntroPhrase()
         {
+            if (skipRequested) yield break;
+            
             // Audio only - no text displayed for intro phrase
             bool done = false;
             var phrasePlayer = FindFirstObjectByType<PhrasePlayer>();
@@ -233,18 +253,21 @@ namespace Cerebrum.UI
                 
                 float timeout = 5f;
                 float elapsed = 0f;
-                while (!done && elapsed < timeout)
+                while (!skipRequested && !done && elapsed < timeout)
                 {
                     elapsed += Time.deltaTime;
                     yield return null;
                 }
             }
-            else
+            else if (!skipRequested)
             {
                 yield return new WaitForSeconds(1.5f);
             }
 
-            yield return new WaitForSeconds(0.2f);
+            if (!skipRequested)
+            {
+                yield return new WaitForSeconds(0.2f);
+            }
         }
 
         private IEnumerator ShowCategory(string categoryName)
@@ -380,12 +403,109 @@ namespace Cerebrum.UI
         public void Skip()
         {
             StopAllCoroutines();
+            if (skipButton != null)
+            {
+                Destroy(skipButton);
+                skipButton = null;
+            }
             if (introPanel != null)
             {
                 Destroy(introPanel);
             }
             isPlaying = false;
+            skipRequested = false;
             OnIntroComplete?.Invoke();
+        }
+        
+        private void OnSkipClicked()
+        {
+            Debug.Log("[CategoryIntroSequence] Skip requested");
+            skipRequested = true;
+            audioSource?.Stop();
+            TTSService.Instance?.Stop();
+        }
+        
+        private void CreateSkipButton()
+        {
+            if (canvas == null) return;
+            
+            // Skip button in bottom-right corner
+            skipButton = new GameObject("SkipButton");
+            skipButton.transform.SetParent(canvas.transform, false);
+            
+            // Ensure button is on top of everything
+            skipButton.transform.SetAsLastSibling();
+            
+            RectTransform btnRect = skipButton.AddComponent<RectTransform>();
+            btnRect.anchorMin = new Vector2(1f, 0f);
+            btnRect.anchorMax = new Vector2(1f, 0f);
+            btnRect.pivot = new Vector2(1f, 0f);
+            btnRect.anchoredPosition = new Vector2(-30, 30);
+            btnRect.sizeDelta = new Vector2(140, 50);
+            
+            // Add canvas to ensure it renders on top
+            Canvas buttonCanvas = skipButton.AddComponent<Canvas>();
+            buttonCanvas.overrideSorting = true;
+            buttonCanvas.sortingOrder = 100;
+            skipButton.AddComponent<GraphicRaycaster>();
+            
+            // Glow/border
+            GameObject borderObj = new GameObject("Border");
+            borderObj.transform.SetParent(skipButton.transform, false);
+            RectTransform borderRect = borderObj.AddComponent<RectTransform>();
+            borderRect.anchorMin = Vector2.zero;
+            borderRect.anchorMax = Vector2.one;
+            borderRect.offsetMin = new Vector2(-3, -3);
+            borderRect.offsetMax = new Vector2(3, 3);
+            Image borderImg = borderObj.AddComponent<Image>();
+            borderImg.color = new Color(0.5f, 0.7f, 0.9f, 0.9f);
+            
+            // Background
+            GameObject bgObj = new GameObject("Background");
+            bgObj.transform.SetParent(skipButton.transform, false);
+            RectTransform bgRect = bgObj.AddComponent<RectTransform>();
+            bgRect.anchorMin = Vector2.zero;
+            bgRect.anchorMax = Vector2.one;
+            bgRect.offsetMin = Vector2.zero;
+            bgRect.offsetMax = Vector2.zero;
+            Image bgImg = bgObj.AddComponent<Image>();
+            bgImg.raycastTarget = true;
+            Color fillColor = new Color(0.15f, 0.25f, 0.4f, 0.85f);
+            bgImg.color = fillColor;
+            
+            // Button component with stronger color transitions
+            Button btn = skipButton.AddComponent<Button>();
+            btn.targetGraphic = bgImg;
+            btn.onClick.AddListener(OnSkipClicked);
+            btn.transition = Selectable.Transition.ColorTint;
+            
+            ColorBlock colors = btn.colors;
+            colors.normalColor = Color.white;
+            colors.highlightedColor = new Color(1.3f, 1.3f, 1.5f, 1f); // Brighter on hover
+            colors.pressedColor = new Color(0.6f, 0.6f, 0.7f, 1f); // Darker on press
+            colors.selectedColor = Color.white;
+            colors.fadeDuration = 0.1f;
+            btn.colors = colors;
+            
+            // Text
+            GameObject txtObj = new GameObject("Text");
+            txtObj.transform.SetParent(skipButton.transform, false);
+            RectTransform txtRect = txtObj.AddComponent<RectTransform>();
+            txtRect.anchorMin = Vector2.zero;
+            txtRect.anchorMax = Vector2.one;
+            txtRect.offsetMin = Vector2.zero;
+            txtRect.offsetMax = Vector2.zero;
+            TextMeshProUGUI tmp = txtObj.AddComponent<TextMeshProUGUI>();
+            tmp.text = "Skip >>";
+            tmp.fontSize = 24;
+            tmp.fontStyle = FontStyles.Bold;
+            tmp.color = Color.white;
+            tmp.alignment = TextAlignmentOptions.Center;
+            tmp.raycastTarget = false;
+            
+            // Add hover effect component
+            SkipButtonHover hoverEffect = skipButton.AddComponent<SkipButtonHover>();
+            hoverEffect.Initialize(btnRect, borderImg);
         }
     }
 }

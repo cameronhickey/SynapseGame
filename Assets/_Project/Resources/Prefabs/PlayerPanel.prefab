@@ -111,6 +111,7 @@ MonoBehaviour:
   scoreText: {fileID: 2945923211977769192}
   backgroundImage: {fileID: 8723114784361353522}
   chooserIndicator: {fileID: 2530938963596258143}
+  buzzKeyContainer: {fileID: 0}
 --- !u!1 &5711252513988141199
 GameObject:
   m_ObjectHideFlags: 0

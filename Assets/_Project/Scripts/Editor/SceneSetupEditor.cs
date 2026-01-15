@@ -205,12 +205,12 @@ namespace Cerebrum.Editor
             playerPanelsLayout.preferredHeight = 120;
             playerPanelsLayout.flexibleHeight = 0;
             HorizontalLayoutGroup playerPanelsGroup = playerPanelsObj.AddComponent<HorizontalLayoutGroup>();
-            playerPanelsGroup.spacing = 20;
+            playerPanelsGroup.spacing = 8;  // Match board card spacing
             playerPanelsGroup.childControlWidth = true;
             playerPanelsGroup.childControlHeight = true;
             playerPanelsGroup.childForceExpandWidth = true;
             playerPanelsGroup.childForceExpandHeight = true;
-            playerPanelsGroup.padding = new RectOffset(100, 100, 10, 10);
+            playerPanelsGroup.padding = new RectOffset(50, 50, 10, 10);  // Reduced padding
 
             // Clue Overlay
             GameObject overlayObj = CreateClueOverlay(canvasObj.transform);
@@ -598,7 +598,7 @@ namespace Cerebrum.Editor
 
             var playerPanel = panelObj.AddComponent<UI.PlayerPanel>();
 
-            // Wire up references
+            // Wire up references (buzz key indicator is created dynamically)
             SerializedObject serialized = new SerializedObject(playerPanel);
             serialized.FindProperty("nameText").objectReferenceValue = nameText;
             serialized.FindProperty("scoreText").objectReferenceValue = scoreText;

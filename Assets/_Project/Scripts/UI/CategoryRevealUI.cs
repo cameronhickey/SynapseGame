@@ -31,9 +31,9 @@ namespace Cerebrum.UI
         private RectTransform cardRect;
         private TextMeshProUGUI categoryText;
         private Image cardBackground;
-        #pragma warning disable CS0414
-        private bool isRevealing; // State tracking for animation
-        #pragma warning restore CS0414
+        private GameObject skipButton;
+        private bool isRevealing;
+        private bool skipRequested;
 
         private void Awake()
         {
@@ -146,6 +146,9 @@ namespace Cerebrum.UI
             }
 
             categoryCard.SetActive(false);
+            
+            // Create skip button (bottom-right corner)
+            CreateSkipButton();
         }
 
         public void RevealCategories(Board board, Action onComplete = null)
@@ -157,6 +160,8 @@ namespace Cerebrum.UI
                 return;
             }
 
+            skipRequested = false;
+            if (skipButton != null) skipButton.SetActive(true);
             StartCoroutine(RevealCategoriesCoroutine(board.Categories, onComplete));
         }
 
@@ -187,22 +192,30 @@ namespace Cerebrum.UI
                 introComplete = true;
             }
 
-            // Wait with timeout
-            while (!introComplete && introElapsed < introTimeout)
+            // Wait with timeout (or skip)
+            while (!skipRequested && !introComplete && introElapsed < introTimeout)
             {
                 introElapsed += Time.deltaTime;
                 yield return null;
             }
             
-            if (!introComplete)
+            if (skipRequested)
+            {
+                Debug.Log("[CategoryRevealUI] Intro skipped");
+                TTSService.Instance?.Stop();
+            }
+            else if (!introComplete)
             {
                 Debug.LogWarning("[CategoryRevealUI] Intro phrase timed out, continuing...");
             }
 
-            yield return new WaitForSeconds(0.3f);
+            if (!skipRequested)
+            {
+                yield return new WaitForSeconds(0.3f);
+            }
 
-            // Reveal each category
-            for (int i = 0; i < categories.Count; i++)
+            // Reveal each category (skip remaining if requested)
+            for (int i = 0; i < categories.Count && !skipRequested; i++)
             {
                 Category category = categories[i];
                 Debug.Log($"[CategoryRevealUI] Revealing category {i + 1}/{categories.Count}: {category.Title}");
@@ -211,6 +224,7 @@ namespace Cerebrum.UI
 
             Debug.Log("[CategoryRevealUI] All categories revealed");
             isRevealing = false;
+            if (skipButton != null) skipButton.SetActive(false);
             onComplete?.Invoke();
             OnRevealComplete?.Invoke();
         }
@@ -229,12 +243,13 @@ namespace Cerebrum.UI
             Vector2 centerPos = Vector2.zero;
             Vector2 endPos = new Vector2(-screenWidth, 0);
 
-            // Slide in from right
+            // Slide in from right (fast if skipping)
             float elapsed = 0f;
-            while (elapsed < slideInDuration)
+            float effectiveSlideIn = skipRequested ? 0.1f : slideInDuration;
+            while (elapsed < effectiveSlideIn)
             {
                 elapsed += Time.deltaTime;
-                float t = slideCurve.Evaluate(elapsed / slideInDuration);
+                float t = slideCurve.Evaluate(elapsed / effectiveSlideIn);
                 cardRect.anchoredPosition = Vector2.Lerp(startPos, centerPos, t);
                 yield return null;
             }
@@ -261,20 +276,21 @@ namespace Cerebrum.UI
                 speechComplete = true;
             }
 
-            // Wait for speech (with timeout) and minimum display time
+            // Wait for speech (with timeout) and minimum display time, or skip
             float displayTimer = 0f;
-            while (displayTimer < displayDuration || (!speechComplete && displayTimer < speechTimeout))
+            while (!skipRequested && (displayTimer < displayDuration || (!speechComplete && displayTimer < speechTimeout)))
             {
                 displayTimer += Time.deltaTime;
                 yield return null;
             }
 
-            // Slide out to left
+            // Slide out to left (fast if skipping)
             elapsed = 0f;
-            while (elapsed < slideOutDuration)
+            float effectiveSlideOut = skipRequested ? 0.05f : slideOutDuration;
+            while (elapsed < effectiveSlideOut)
             {
                 elapsed += Time.deltaTime;
-                float t = slideCurve.Evaluate(elapsed / slideOutDuration);
+                float t = slideCurve.Evaluate(elapsed / effectiveSlideOut);
                 cardRect.anchoredPosition = Vector2.Lerp(centerPos, endPos, t);
                 yield return null;
             }
@@ -289,8 +305,103 @@ namespace Cerebrum.UI
             {
                 categoryCard.SetActive(false);
             }
+            if (skipButton != null)
+            {
+                skipButton.SetActive(false);
+            }
             StopAllCoroutines();
             isRevealing = false;
+            skipRequested = false;
+        }
+        
+        private void OnSkipClicked()
+        {
+            Debug.Log("[CategoryRevealUI] Skip requested");
+            skipRequested = true;
+            TTSService.Instance?.Stop();
+        }
+        
+        private void CreateSkipButton()
+        {
+            // Skip button in bottom-right corner
+            skipButton = new GameObject("SkipButton");
+            skipButton.transform.SetParent(parentCanvas.transform, false);
+            
+            // Ensure button is on top of everything
+            skipButton.transform.SetAsLastSibling();
+            
+            RectTransform btnRect = skipButton.AddComponent<RectTransform>();
+            btnRect.anchorMin = new Vector2(1f, 0f);
+            btnRect.anchorMax = new Vector2(1f, 0f);
+            btnRect.pivot = new Vector2(1f, 0f);
+            btnRect.anchoredPosition = new Vector2(-30, 30);
+            btnRect.sizeDelta = new Vector2(140, 50);
+            
+            // Add canvas to ensure it renders on top
+            Canvas buttonCanvas = skipButton.AddComponent<Canvas>();
+            buttonCanvas.overrideSorting = true;
+            buttonCanvas.sortingOrder = 100;
+            skipButton.AddComponent<GraphicRaycaster>();
+            
+            // Glow/border
+            GameObject borderObj = new GameObject("Border");
+            borderObj.transform.SetParent(skipButton.transform, false);
+            RectTransform borderRect = borderObj.AddComponent<RectTransform>();
+            borderRect.anchorMin = Vector2.zero;
+            borderRect.anchorMax = Vector2.one;
+            borderRect.offsetMin = new Vector2(-3, -3);
+            borderRect.offsetMax = new Vector2(3, 3);
+            Image borderImg = borderObj.AddComponent<Image>();
+            borderImg.color = new Color(0.5f, 0.7f, 0.9f, 0.9f);
+            
+            // Background
+            GameObject bgObj = new GameObject("Background");
+            bgObj.transform.SetParent(skipButton.transform, false);
+            RectTransform bgRect = bgObj.AddComponent<RectTransform>();
+            bgRect.anchorMin = Vector2.zero;
+            bgRect.anchorMax = Vector2.one;
+            bgRect.offsetMin = Vector2.zero;
+            bgRect.offsetMax = Vector2.zero;
+            Image bgImg = bgObj.AddComponent<Image>();
+            bgImg.raycastTarget = true;
+            Color fillColor = new Color(0.15f, 0.25f, 0.4f, 0.85f);
+            bgImg.color = fillColor;
+            
+            // Button component with stronger color transitions
+            Button btn = skipButton.AddComponent<Button>();
+            btn.targetGraphic = bgImg;
+            btn.onClick.AddListener(OnSkipClicked);
+            btn.transition = Selectable.Transition.ColorTint;
+            
+            ColorBlock colors = btn.colors;
+            colors.normalColor = Color.white;
+            colors.highlightedColor = new Color(1.3f, 1.3f, 1.5f, 1f);
+            colors.pressedColor = new Color(0.6f, 0.6f, 0.7f, 1f);
+            colors.selectedColor = Color.white;
+            colors.fadeDuration = 0.1f;
+            btn.colors = colors;
+            
+            // Text
+            GameObject txtObj = new GameObject("Text");
+            txtObj.transform.SetParent(skipButton.transform, false);
+            RectTransform txtRect = txtObj.AddComponent<RectTransform>();
+            txtRect.anchorMin = Vector2.zero;
+            txtRect.anchorMax = Vector2.one;
+            txtRect.offsetMin = Vector2.zero;
+            txtRect.offsetMax = Vector2.zero;
+            TextMeshProUGUI tmp = txtObj.AddComponent<TextMeshProUGUI>();
+            tmp.text = "Skip >>";
+            tmp.fontSize = 24;
+            tmp.fontStyle = FontStyles.Bold;
+            tmp.color = Color.white;
+            tmp.alignment = TextAlignmentOptions.Center;
+            tmp.raycastTarget = false;
+            
+            // Add hover effect component
+            SkipButtonHover hoverEffect = skipButton.AddComponent<SkipButtonHover>();
+            hoverEffect.Initialize(btnRect, borderImg);
+            
+            skipButton.SetActive(false);
         }
     }
 }
