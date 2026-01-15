@@ -524,13 +524,28 @@ namespace Cerebrum.Game
 
             if (GameManager.Instance != null && GameManager.Instance.IsRoundComplete())
             {
-                Debug.Log("[BoardController] Round complete!");
+                Debug.Log("[BoardController] Round complete! Starting winner sequence...");
+                StartCoroutine(ShowWinnerAfterDelay());
             }
             else
             {
                 // Start next clue selection after a short delay
                 StartCoroutine(StartNextSelectionAfterDelay());
             }
+        }
+        
+        private System.Collections.IEnumerator ShowWinnerAfterDelay()
+        {
+            yield return new WaitForSeconds(1.5f);
+            
+            // Create GameWinnerUI if it doesn't exist
+            if (GameWinnerUI.Instance == null)
+            {
+                GameObject winnerObj = new GameObject("GameWinnerUI");
+                winnerObj.AddComponent<GameWinnerUI>();
+            }
+            
+            GameWinnerUI.Instance?.ShowWinner();
         }
 
         private System.Collections.IEnumerator StartNextSelectionAfterDelay()

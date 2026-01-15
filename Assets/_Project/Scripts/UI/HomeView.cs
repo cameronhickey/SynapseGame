@@ -46,6 +46,8 @@ namespace Cerebrum.UI
         private GameObject loadingScreen;
         private Slider loadingScreenBar;
         private TextMeshProUGUI loadingScreenText;
+        private GameObject instructionsPanel;
+        private TextMeshProUGUI instructionsText;
         #pragma warning disable CS0414
         private bool isTestGameMode;
         #pragma warning restore CS0414
@@ -598,29 +600,64 @@ namespace Cerebrum.UI
             Image bg = loadingScreen.AddComponent<Image>();
             bg.color = new Color(0.02f, 0.02f, 0.1f, 0.95f);
             
-            // Center panel
-            GameObject panel = new GameObject("Panel");
-            panel.transform.SetParent(loadingScreen.transform, false);
-            RectTransform panelRect = panel.AddComponent<RectTransform>();
-            panelRect.anchorMin = new Vector2(0.3f, 0.4f);
-            panelRect.anchorMax = new Vector2(0.7f, 0.6f);
-            panelRect.offsetMin = Vector2.zero;
-            panelRect.offsetMax = Vector2.zero;
+            // Top panel for loading status
+            GameObject topPanel = new GameObject("TopPanel");
+            topPanel.transform.SetParent(loadingScreen.transform, false);
+            RectTransform topPanelRect = topPanel.AddComponent<RectTransform>();
+            topPanelRect.anchorMin = new Vector2(0.2f, 0.78f);
+            topPanelRect.anchorMax = new Vector2(0.8f, 0.92f);
+            topPanelRect.offsetMin = Vector2.zero;
+            topPanelRect.offsetMax = Vector2.zero;
             
-            VerticalLayoutGroup panelLayout = panel.AddComponent<VerticalLayoutGroup>();
-            panelLayout.spacing = 20;
-            panelLayout.childAlignment = TextAnchor.MiddleCenter;
-            panelLayout.childControlWidth = false;
-            panelLayout.childControlHeight = false;
+            VerticalLayoutGroup topLayout = topPanel.AddComponent<VerticalLayoutGroup>();
+            topLayout.spacing = 15;
+            topLayout.childAlignment = TextAnchor.MiddleCenter;
+            topLayout.childControlWidth = false;
+            topLayout.childControlHeight = false;
             
             // Title
-            loadingScreenText = CreateText(panel.transform, "Loading Game...", 36, FontStyles.Bold, 500, 50);
+            loadingScreenText = CreateText(topPanel.transform, "Loading Game...", 36, FontStyles.Bold, 600, 50);
             
             // Progress bar
             Color barColor = new Color(0.2f, 0.4f, 0.8f, 1f);
-            loadingScreenBar = CreateSlider(panel.transform, barColor);
-            loadingScreenBar.GetComponent<RectTransform>().sizeDelta = new Vector2(400, 40);
+            loadingScreenBar = CreateSlider(topPanel.transform, barColor);
+            loadingScreenBar.GetComponent<RectTransform>().sizeDelta = new Vector2(500, 35);
             
+            // Instructions panel (for real game only, populated dynamically)
+            instructionsPanel = new GameObject("InstructionsPanel");
+            instructionsPanel.transform.SetParent(loadingScreen.transform, false);
+            RectTransform instrRect = instructionsPanel.AddComponent<RectTransform>();
+            instrRect.anchorMin = new Vector2(0.1f, 0.08f);
+            instrRect.anchorMax = new Vector2(0.9f, 0.75f);
+            instrRect.offsetMin = Vector2.zero;
+            instrRect.offsetMax = Vector2.zero;
+            
+            // Instructions background
+            Image instrBg = instructionsPanel.AddComponent<Image>();
+            instrBg.color = new Color(0.05f, 0.08f, 0.15f, 0.9f);
+            
+            // Add outline
+            Outline instrOutline = instructionsPanel.AddComponent<Outline>();
+            instrOutline.effectColor = new Color(0.3f, 0.5f, 0.8f, 0.6f);
+            instrOutline.effectDistance = new Vector2(3, 3);
+            
+            // Instructions text
+            GameObject textObj = new GameObject("InstructionsText");
+            textObj.transform.SetParent(instructionsPanel.transform, false);
+            RectTransform textRect = textObj.AddComponent<RectTransform>();
+            textRect.anchorMin = new Vector2(0.05f, 0.05f);
+            textRect.anchorMax = new Vector2(0.95f, 0.95f);
+            textRect.offsetMin = Vector2.zero;
+            textRect.offsetMax = Vector2.zero;
+            
+            instructionsText = textObj.AddComponent<TextMeshProUGUI>();
+            instructionsText.fontSize = 26;
+            instructionsText.color = Color.white;
+            instructionsText.alignment = TextAlignmentOptions.TopLeft;
+            instructionsText.textWrappingMode = TMPro.TextWrappingModes.Normal;
+            instructionsText.text = "";
+            
+            instructionsPanel.SetActive(false); // Hidden by default
             loadingScreen.SetActive(false);
         }
 
@@ -812,6 +849,13 @@ namespace Cerebrum.UI
             if (rightPanel != null) rightPanel.SetActive(false);
             if (loadingScreen != null) loadingScreen.SetActive(true);
             
+            // Show instructions panel with player info (real game only)
+            if (instructionsPanel != null && instructionsText != null)
+            {
+                instructionsPanel.SetActive(true);
+                instructionsText.text = BuildInstructionsText(playerNames);
+            }
+            
             if (loadingScreenText != null) loadingScreenText.text = "Selecting categories...";
             if (loadingScreenBar != null) loadingScreenBar.value = 0.1f;
             yield return null;
@@ -881,6 +925,45 @@ namespace Cerebrum.UI
             if (loadingScreen != null) Destroy(loadingScreen);
             
             SceneLoader.LoadGame();
+        }
+
+        private string BuildInstructionsText(List<string> playerNames)
+        {
+            string[] buzzKeys = { "Z", "G", "M" };
+            
+            var sb = new System.Text.StringBuilder();
+            
+            sb.AppendLine("<size=32><b>HOW TO PLAY</b></size>");
+            sb.AppendLine();
+            
+            sb.AppendLine("<size=28><color=#FFD700>SELECTING A CLUE</color></size>");
+            sb.AppendLine("When it's your turn to choose, say the <b>category name</b> and <b>dollar amount</b>.");
+            sb.AppendLine("Example: <i>\"Science for $400\"</i> or <i>\"History, $200\"</i>");
+            sb.AppendLine();
+            
+            sb.AppendLine("<size=28><color=#FFD700>BUZZING IN</color></size>");
+            sb.AppendLine("After a clue is read, press your buzz key to answer:");
+            sb.AppendLine();
+            
+            // Player buzz key table
+            for (int i = 0; i < playerNames.Count && i < buzzKeys.Length; i++)
+            {
+                string playerName = playerNames[i];
+                string key = buzzKeys[i];
+                sb.AppendLine($"    <b>{playerName}</b>  →  Press <color=#88CCFF><b>[ {key} ]</b></color>");
+            }
+            sb.AppendLine();
+            
+            sb.AppendLine("<size=28><color=#FFD700>ANSWERING</color></size>");
+            sb.AppendLine("Speak your answer clearly. Answers must be in the form of a question:");
+            sb.AppendLine("<i>\"What is...?\"</i> or <i>\"Who is...?\"</i>");
+            sb.AppendLine();
+            
+            sb.AppendLine("<size=28><color=#FFD700>SCORING</color></size>");
+            sb.AppendLine("Correct answers add the clue value to your score.");
+            sb.AppendLine("Incorrect answers subtract the clue value from your score.");
+            
+            return sb.ToString();
         }
 
         private List<string> GetPlayerNames()

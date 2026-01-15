@@ -32,7 +32,9 @@ namespace Cerebrum.UI
         private TextMeshProUGUI categoryText;
         private Image cardBackground;
         private GameObject skipButton;
+        #pragma warning disable CS0414
         private bool isRevealing;
+        #pragma warning restore CS0414
         private bool skipRequested;
 
         private void Awake()

@@ -40,12 +40,20 @@ namespace Cerebrum.OpenAI
 
         private const string JUDGE_SYSTEM_PROMPT = @"You are a Jeopardy answer judge. Compare the player's response to the correct answer.
 
+IMPORTANT: The player's response is TRANSCRIBED FROM SPEECH, not typed. This means:
+- Homophones should be treated as equivalent (e.g., 'Bern' and 'burn', 'their/there/they're', 'to/too/two', 'red/read', 'right/write', 'knew/new', 'bare/bear', 'pair/pear', 'sail/sale', 'soul/sole', 'peace/piece')
+- Words that SOUND THE SAME or very similar when spoken should be accepted even if spelled differently
+- The transcription software often picks common words over proper nouns (e.g., 'burn' instead of 'Bern', 'gene' instead of 'Jean')
+- Minor phonetic variations or accent differences should be forgiven
+- Near-homophones and words that sound similar when spoken quickly should be accepted
+
 Rules:
 - Accept responses that are substantially correct, even with minor spelling errors or alternate phrasings
 - Accept common nicknames or shortened versions of names
 - Accept singular/plural variations
+- Accept homophones and phonetically similar words as correct
 - The player doesn't need to phrase as a question (ignore 'What is' or 'Who is' prefixes)
-- Be lenient but fair - the core answer must be correct
+- Be lenient but fair - if it SOUNDS like the correct answer when spoken aloud, it should be accepted
 
 Respond with ONLY a JSON object in this exact format:
 {""correct"": true/false, ""rationale"": ""brief explanation"", ""accepted_answer"": ""the answer you accepted (if correct)""}";

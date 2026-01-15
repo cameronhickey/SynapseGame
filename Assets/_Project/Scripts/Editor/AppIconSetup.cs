@@ -1,4 +1,5 @@
 using UnityEditor;
+using UnityEditor.Build;
 using UnityEngine;
 
 namespace Cerebrum.Editor
@@ -35,7 +36,7 @@ namespace Cerebrum.Editor
             }
 
             // Get required icon sizes for Standalone
-            int[] sizes = PlayerSettings.GetIconSizesForTargetGroup(BuildTargetGroup.Standalone);
+            int[] sizes = PlayerSettings.GetIconSizes(NamedBuildTarget.Standalone, IconKind.Application);
             Texture2D[] icons = new Texture2D[sizes.Length];
             
             Debug.Log($"[AppIconSetup] Creating {sizes.Length} icon sizes for Standalone");
@@ -47,7 +48,7 @@ namespace Cerebrum.Editor
             }
             
             // Set for Standalone (includes macOS)
-            PlayerSettings.SetIconsForTargetGroup(BuildTargetGroup.Standalone, icons);
+            PlayerSettings.SetIcons(NamedBuildTarget.Standalone, icons, IconKind.Application);
             
             Debug.Log("[AppIconSetup] App icon set successfully!");
             EditorUtility.DisplayDialog("Success", $"App icon has been set with {sizes.Length} sizes", "OK");
